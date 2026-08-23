@@ -34,7 +34,7 @@ def get(url, auth=True):
             return get(e.headers['Location'], auth=False)
         return e.code, e.read()
 
-st, body = get('https://api.github.com/repos/magicrulerr-art/ethra/actions/jobs/97254791197/logs')
+st, body = get('https://api.github.com/repos/magicrulerr-art/ethra/actions/jobs/%s/logs' % (sys.argv[1] if len(sys.argv) > 1 else '97254791197'))
 print('logs status:', st)
 if st == 200:
     text = body.decode('utf-8', 'replace')
