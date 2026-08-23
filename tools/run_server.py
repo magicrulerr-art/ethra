@@ -14,11 +14,14 @@ Usage:  python tools/run_server.py [port]     (default 8790)
 import os
 import subprocess
 import sys
+import tempfile
 import time
 import urllib.request
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-PIDFILE = os.path.join(ROOT, 'tools', 'server.pid')
+# machine-local state lives OUTSIDE the repo (a committed PID could name an
+# unrelated process on another machine)
+PIDFILE = os.path.join(tempfile.gettempdir(), 'ethra_server.pid')
 LOG = os.path.join(ROOT, 'server_stdout.log')
 
 
@@ -47,6 +50,14 @@ def alive(pid):
     return str(pid) in r.stdout
 
 
+def is_our_server(pid):
+    """Only a PID whose command line is our server.py may be killed."""
+    r = subprocess.run(['powershell', '-NoProfile', '-Command',
+                        '(Get-CimInstance Win32_Process -Filter "ProcessId=%d").CommandLine' % pid],
+                       capture_output=True, text=True)
+    return 'server.py' in (r.stdout or '')
+
+
 def kill(pid):
     subprocess.run(['taskkill', '/pid', str(pid), '/f'],
                    capture_output=True, text=True)
@@ -58,16 +69,21 @@ def main():
 
     # ── who holds the port today? ──
     pid = None
+    from_port = False
     if os.path.exists(PIDFILE):
         try:
             pid = int(open(PIDFILE).read().strip())
         except (OSError, ValueError):
             pid = None
     actual = listener_pid(port)
-    if actual and actual != pid:
-        pid = actual  # PID file stale; the netstat truth wins
+    if actual:
+        from_port = True
+        if actual != pid:
+            pid = actual  # PID file stale; the netstat truth wins
 
-    if alive(pid):
+    # kill BY PID only: the port holder, or a pidfile PID verified to be our
+    # server. Never a blanket process kill.
+    if alive(pid) and (from_port or is_our_server(pid)):
         print('killing old instance pid %d' % pid)
         kill(pid)
         for _ in range(20):

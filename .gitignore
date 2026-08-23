@@ -28,3 +28,6 @@ _pages/
 
 # Superseded art / legacy viewers — kept locally for history, never shipped
 _archive/
+
+server_stdout.log
+tools/server.pid
