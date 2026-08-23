@@ -644,15 +644,27 @@ body::before {
 #section-story.reading #arcNav .arc-tab.lean-l:nth-child(6) { transform: translateX(-66px) rotate(-12deg); }
 #section-story.reading #arcNav .arc-tab.lean-l:nth-child(7) { transform: translateX(-75px) rotate(-12deg); }
 #section-story.reading #arcNav .arc-tab.fallen + .arc-tab { transform: translateX(-38px) rotate(-16deg); }
+/* R24: the book keeps its own marker — a red silk notch at the head edge.
+   Pure CSS on the tab itself: it rotates and travels with the tome through
+   FLIP, the fall, and the overshoot, so it can never separate from the book. */
+#section-story.reading #arcNav .arc-tab.fallen::after {
+  content: '';
+  position: absolute;
+  left: -21px;
+  top: 7px;
+  width: 24px;
+  height: 11px;
+  background: linear-gradient(180deg, #7a1f1f, #8a2a2a 45%, #5a1515);
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%, 6px 50%);
+  box-shadow: 1px 3px 5px rgba(0,0,0,0.55);
+  z-index: 5;
+}
 
-/* the folio waits for the tome to land, then rises as the ribbon drops */
+/* the folio waits for the tome to land, then rises */
 .arc-panel.active { transition: opacity 0.5s ease; }
 .arc-panel.active.dropping { opacity: 0; }
-/* the ribbon column hugs the silk so the folio reads close beside it */
-#section-story.reading .arc-panel.active { grid-template-columns: 96px 1fr; }
-/* R23: the silk is sewn at the folio's top edge — a constant tuck, no
-   runtime geometry; the first chapter mark sits just below the seam */
-#section-story.reading .chapter-subnav { padding-top: 26px; justify-self: start; align-self: start; }
+/* R24: the chapter rail spans the folio's full width — no silk column */
+#section-story.reading .arc-panel.active { grid-template-columns: 1fr; }
 
 .shelf-return {
   display: block;
@@ -676,7 +688,7 @@ body::before {
 #section-story.reading {
   background: radial-gradient(1100px 480px at 50% 40px, rgba(255,220,150,0.06), transparent 65%);
 }
-/* ════════════════ SILK RIBBON + READING PANE ════════════════ */
+/* ════════════════ CHAPTER RAIL + READING PANE ════════════════ */
 .arc-panel {
   display: none;
   animation: fadeIn 0.4s ease;
@@ -684,8 +696,7 @@ body::before {
 }
 .arc-panel.active {
   display: grid;
-  grid-template-columns: 58px 1fr;
-  gap: 0 24px;
+  grid-template-columns: 1fr;
   align-items: start;
   padding-left: 24px;
 }
@@ -693,90 +704,65 @@ body::before {
   grid-column: 1 / -1;
   margin-bottom: 16px;
 }
+/* R24: the silk ribbon is dispensed with. The chapter nav is a rail SEWN
+   ACROSS the folio's top edge — pure flow layout, sticky, deterministic on
+   every viewport and device. The book itself keeps its own marker (a red
+   notch on the fallen tome, below). */
 .chapter-subnav {
-  grid-column: 1;
-  justify-self: center;
-  width: 52px;
+  grid-column: 1 / -1;
   counter-reset: ch;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
-  gap: 2px;
-  /* R23: constant seam tuck over the folio's top border — identical on
-     every viewport, no measurement involved */
-  margin: -14px 0 0;
-  padding: 40px 0 30px;
-  transform-origin: top center;
-  animation: ribbon-sway 7s ease-in-out infinite;
+  flex-wrap: wrap;
+  gap: 2px 6px;
+  padding: 8px 6px 8px;
+  margin: 0 0 20px;
+  border-bottom: 1px solid rgba(201,160,89,0.28);
   position: sticky;
-  top: 10px;
-  z-index: 4;
+  top: 0;
+  z-index: 6;
+  background: linear-gradient(180deg, rgba(10,22,40,0.94) 0%, rgba(10,22,40,0.86) 100%);
 }
-/* the silk itself lives on a layer so hover titles can escape the clip */
+/* the rail's small gold heading */
 .chapter-subnav::before {
-  content: '';
-  position: absolute;
-  inset: 0;
-  z-index: -1;
-  background:
-    /* the seam: light catch where the silk emerges from the folio's top
-       edge, a dark crease at the fold, then clean cloth below */
-    linear-gradient(180deg,
-      rgba(255,240,200,0.14) 0 3px,
-      rgba(0,0,0,0.50) 3px 6px,
-      transparent 6px),
-    repeating-linear-gradient(180deg, rgba(255,255,255,0.05) 0 1px, transparent 1px 3px),
-    repeating-linear-gradient(90deg, rgba(0,0,0,0.06) 0 1px, transparent 1px 3px),
-    linear-gradient(90deg, #4a1010, #7a1f1f 28%, #8a2a2a 50%, #7a1f1f 72%, #4a1010);
-  clip-path: polygon(3% 0, 97% 0, 100% 5px, 100% 100%, 50% calc(100% - 14px), 0 100%, 0 5px);
-  box-shadow: inset 0 10px 12px -8px rgba(0,0,0,0.65), 3px 5px 12px rgba(0,0,0,0.5);
-}
-.chapter-subnav.unfurl {
-  animation: ribbon-unfurl 1.15s cubic-bezier(0.34,0.62,0.28,1), ribbon-sway 7s ease-in-out 1.15s infinite;
-}
-/* while the tome is still in the air the silk waits as a bare red thread at
-   its edge — a sliver above the board — and unfurls only once the tome lies flat */
-.chapter-subnav.waiting { scale: 1 0.04; animation: none; }
-@keyframes ribbon-sway {
-  0%, 100% { rotate: 0.9deg; }
-  50% { rotate: -0.9deg; }
-}
-/* cloth settling: drop, overshoot, shiver, rest */
-@keyframes ribbon-unfurl {
-  0%   { scale: 1 0;     rotate: 0deg; }
-  45%  { scale: 1 1.06;  rotate: 1.4deg; }
-  68%  { scale: 1 0.965; rotate: -0.9deg; }
-  84%  { scale: 1 1.02;  rotate: 0.5deg; }
-  100% { scale: 1 1;     rotate: 0deg; }
+  content: 'Chapters';
+  font-family: 'IM Fell English Small Caps', 'IM Fell English', var(--font-body);
+  font-size: 0.72rem;
+  letter-spacing: 0.18em;
+  text-transform: lowercase;
+  color: var(--steadfast-dim);
+  margin-right: 10px;
+  padding-left: 2px;
 }
 .chapter-tab {
   counter-increment: ch;
   position: relative;
-  width: 34px;
-  height: 30px;
-  padding: 0;
+  padding: 3px 11px;
   background: none;
   border: none;
+  border-bottom: 2px solid transparent;
   cursor: pointer;
   display: flex;
   align-items: center;
   justify-content: center;
-  color: #f0d080;
+  color: #b09a6a;
   font-family: 'IM Fell English', var(--font-body);
   font-size: 0;
-  transition: color 0.2s ease, text-shadow 0.2s ease;
+  transition: color 0.2s ease, border-color 0.25s ease, text-shadow 0.2s ease;
 }
 .chapter-tab::before {
-  content: counter(ch);
-  font-size: 0.95rem;
+  content: counter(ch, upper-roman);
+  font-size: 0.82rem;
+  letter-spacing: 0.04em;
 }
 .ch-title { display: none; }
 .chapter-tab::after {
   content: attr(data-title);
   position: absolute;
-  left: calc(100% + 16px);
-  top: 50%;
-  translate: -6px -50%;
+  left: 50%;
+  top: calc(100% + 9px);
+  translate: -50% -5px;
   white-space: nowrap;
   padding: 5px 14px;
   background: rgba(10,22,40,0.94);
@@ -792,16 +778,17 @@ body::before {
   z-index: 30;
 }
 @media (hover: hover) {
-  .chapter-tab:hover::after { opacity: 1; translate: 0 -50%; }
+  .chapter-tab:hover::after { opacity: 1; translate: -50% 0; }
 }
-.chapter-tab:focus-visible::after { opacity: 1; translate: 0 -50%; }
-.chapter-tab:hover { color: #fff0c0; }
+.chapter-tab:focus-visible::after { opacity: 1; translate: -50% 0; }
+.chapter-tab:hover { color: #f0d080; }
 .chapter-tab.active {
   color: #fff0c0;
+  border-bottom-color: var(--steadfast);
   text-shadow: 0 0 9px rgba(240,208,128,0.85);
 }
 .chapter-content {
-  grid-column: 2;
+  grid-column: 1 / -1;
 }
 
 /* reader-friendly chronicle text */
@@ -827,12 +814,11 @@ body::before {
   .arc-nav.dust .arc-tab { height: 118px !important; width: 46px; }
   .cobweb { width: 54px; height: 54px; }
   .chronicle-veil { margin: 4px 12px 22px; padding: 34px 14px; font-size: 0.95rem; }
-  .arc-panel.active { grid-template-columns: 46px 1fr; gap: 0 14px; padding-left: 12px; }
-  #section-story.reading .arc-panel.active { grid-template-columns: 56px 1fr; gap: 0 10px; }
+  .arc-panel.active { padding-left: 12px; }
+  .chapter-subnav { padding: 6px 2px; margin: 0 0 14px; }
+  .chapter-tab { padding: 2px 8px; }
+  .chapter-tab::before { font-size: 0.74rem; }
   .chapter-content .content-card { padding: 26px 16px; }
-  .chapter-subnav { width: 40px; padding: 12px 0 24px; }
-  .chapter-tab { width: 30px; height: 28px; }
-  .chapter-tab::before { font-size: 0.85rem; }
 }
 
 /* ════════════════ CHAPTER CONTENT ════════════════ */
@@ -2143,26 +2129,10 @@ body.leaving{opacity:0;transition:opacity .3s ease}
     tab.classList.add('fallen');
     fallenTab = tab;
   }
-  function unfurlRibbon(panel) {
-    const ribbon = panel.querySelector('.chapter-subnav');
-    if (ribbon && getComputedStyle(ribbon).display !== 'none') {
-      ribbon.classList.remove('unfurl');
-      ribbon.getBoundingClientRect();
-      ribbon.classList.add('unfurl');
-    }
-  }
-  /* R23 redesign: the silk is a bookmark SEWN AT THE FOLIO'S TOP EDGE —
-     anchored by CSS alone (constant -14px tuck over the panel border).
-     Runtime rect math was the desync source across slow devices; there is
-     now nothing to measure, nothing to drift, nothing to miss. */
-  function attachRibbon(panel, tab) {
-    const ribbon = panel.querySelector('.chapter-subnav');
-    if (ribbon) { ribbon.style.marginTop = ''; ribbon.style.marginLeft = ''; }
-  }
-  // ── landing-driven ribbon release ──
-  // The silk must not unfurl on a guessed delay: it is released only when the
-  // falling tome actually lands flat. At most one release may be pending; any
-  // new selectArc/shelveAll invalidates the old one through the token.
+  /* R24: the silk is dispensed with. The book keeps its own red notch
+     (pure CSS on the tab), and the chapter rail is sewn across the folio.
+     The landing gate remains only to hold the folio veiled until the tome
+     actually lies flat — one token, one watcher, no geometry anywhere. */
   let ribbonReleaseToken = 0;
   let ribbonReleaseHardTimer = null;
   function cancelRibbonRelease() {
@@ -2207,20 +2177,13 @@ body.leaving{opacity:0;transition:opacity .3s ease}
     // fallback 2: never leave the silk knotted if both watchers miss
     ribbonReleaseHardTimer = setTimeout(finish, 1400);
   }
-  function releaseRibbonOnLanding(tab, panel, fresh) {
+  function releaseFolioOnLanding(tab, panel) {
     whenTomeLanded(tab, () => {
-      if (!panel.classList.contains('active')) return;
-      if (fresh) panel.classList.remove('dropping');
-      attachRibbon(panel, tab);
-      const ribbon = panel.querySelector('.chapter-subnav');
-      if (ribbon) ribbon.classList.remove('waiting');
-      unfurlRibbon(panel);
+      if (panel.classList.contains('active')) panel.classList.remove('dropping');
     });
   }
   function selectArc(arcNum, tab) {
     cancelRibbonRelease(); // a new opening supersedes any pending release
-    // a closed volume keeps no unfurled silk: clear stale unfurl animations
-    document.querySelectorAll('.chapter-subnav.unfurl').forEach(r => r.classList.remove('unfurl'));
     const switching = fallenTab && fallenTab !== tab;
     arcNav.querySelectorAll('.arc-tab').forEach(t => t.classList.remove('active'));
     tab.classList.add('active');
@@ -2248,16 +2211,9 @@ body.leaving{opacity:0;transition:opacity .3s ease}
         canonicalSort();
         arcNav.prepend(tab);
       });
-      // the silk waits as a bare red thread at the tome's edge while the
-      // tome is in the air, then unfurls once it lies flat
-      const ribbon = panel.querySelector('.chapter-subnav');
-      if (ribbon) ribbon.classList.add('waiting');
-      attachRibbon(panel, tab);
       setTimeout(() => {
         if (fallenTab === tab && !tab.classList.contains('fallen')) fallTome(tab);
       }, 350);
-      // the silk unfurls only once the falling tome actually lands flat
-      releaseRibbonOnLanding(tab, panel, false);
       setTimeout(() => {
         if (panel.classList.contains('active')) panel.classList.remove('dropping');
       }, 300);
@@ -2268,8 +2224,8 @@ body.leaving{opacity:0;transition:opacity .3s ease}
       arcNav.prepend(tab);
       void arcNav.offsetHeight;
       fallTome(tab);
-      // the tome falls first; once flat, the ribbon drops and the folio rises
-      releaseRibbonOnLanding(tab, panel, true);
+      // the tome falls first; once flat, the folio rises
+      releaseFolioOnLanding(tab, panel);
     }
   }
   function shelveAll() {
@@ -2281,7 +2237,7 @@ body.leaving{opacity:0;transition:opacity .3s ease}
       arcNav.querySelectorAll('.arc-tab').forEach(t =>
         t.classList.remove('fallen', 'lean-l', 'lean-r', 'active'));
     });
-    document.querySelectorAll('.chapter-subnav').forEach(r => { r.style.marginTop = ''; r.style.marginLeft = ''; r.classList.remove('waiting', 'unfurl'); });
+    document.querySelectorAll('.chapter-subnav').forEach(r => { r.classList.remove('waiting', 'unfurl'); });
     if (shelfReturn) shelfReturn.hidden = true;
     if (storySection) storySection.classList.remove('reading');
     document.querySelectorAll('.arc-panel').forEach(p => p.classList.remove('active', 'dropping'));
