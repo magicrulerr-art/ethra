@@ -103,3 +103,52 @@ Pages mirror. Zero code edits.
 
 P0 → P1 → P2. Each item lands as its own round: implement + live-verify
 (smoke suite) + ledger/daily-note, per the standing workflow.
+
+## Round 24 (2026-08-23) — ribbon dispensed with; P2 executed
+
+Ainz-sama: "the ribbon is again separated from the book — dispense with it and
+suggest a better way; work on P2 in parallel."
+
+**R24 design (ribbon replaced, zero runtime geometry):**
+- The silk ribbon is GONE. The book keeps its own marker: a red notch drawn
+  as `::after` ON the fallen tab — pure CSS, rotates/travels with the tome
+  through FLIP and fall, can never separate (commit e6fad3b).
+- Chapter nav is now a horizontal **chapter rail** sewn across the folio's top
+  edge (sticky, small-caps "Chapters" label, roman numerals, gold underline on
+  active, hover title below). Flow layout only — identical on every viewport.
+- JS silk machinery deleted; the proven `whenTomeLanded` gate remains solely
+  to hold the folio veiled until the tome lies flat.
+- probe_r24.py: 23 checks (fresh/switch/mobile + chapter-body-loaded +
+  hygiene) — ALL PASS on live and public.
+
+**P2 executed:**
+- P2.1 monolith split: index.html 3191 → ~165 lines; extracted to
+  `static/css/ethra_core.css`, `static/css/ethra_story.css`,
+  `static/js/ethra_core.js`, `static/js/ethra_story.js`, cache-busted `?v=`
+  (now 25). tools/split_monolith.py is the one-shot slicer.
+- P2.2 viewers: dead `Ethra_viewer.html` + 10 scratch previews archived to
+  `static/_archive/` + `static/maps/_archive/`; canon viewer + dev twin kept
+  (patch-both protocol still stands).
+- P2.3 asset diet (~52 MB archived): superseded -vN covers (arc4-01/04/05 v0,
+  arc5-11 v1–v100), map v1/v3/v4 + sidecars, `$null` junk →
+  `static/images/_archive/` (gitignored, export-skipped). veylar.md `<picture>`
+  repointed to real `shell-singer.*` files. The "56 missing arc5-med" are the
+  timeline's intentional 404-probe discovery, documented not "fixed".
+  tools/link_check_assets.py now reports 0 referenced-but-missing.
+  Report: tools/asset_diet_report.md.
+- P2.4 server hygiene: tools/run_server.py — single-instance, PID-file in
+  %TEMP% (machine-local, never in-repo), PID-specific kill only after
+  command-line verification, health-checked start. `__main__` guard already
+  existed; ROADMAP's "dead flat code" note was stale (flat is live).
+
+**Pages chapter regression (user-reported) — root cause + fix (341709e):**
+the P2a split externalized the inline JS; the bake rewrites `/api/`→
+`/ethra/api/` only inside rendered HTML, so the bare `fetch('/api/chapter/')`
+shipped to Pages un-rewritten and 404'd. Fixed at source (fetchChapter now
+uses `/ethra/api/chapter/` like every other fetch; PrefixMiddleware strips it
+locally) + bake hardening (export_static now rootifies copied static .js/.html
+string literals) + cache-bust v25 + probe now asserts `data-loaded` on all
+paths. Verified 23/23 on live AND public.
+
+Commits: e6fad3b (R24), d285f90 (P2a+diet), 2f9d575 (Pages fix), 341709e
+(run_server hardening).
