@@ -650,9 +650,9 @@ body::before {
 .arc-panel.active.dropping { opacity: 0; }
 /* the ribbon column hugs the silk so the folio reads close beside it */
 #section-story.reading .arc-panel.active { grid-template-columns: 96px 1fr; }
-/* the silk folds over the tome's edge; a short bare tail keeps the first
-   chapter mark clear of the board */
-#section-story.reading .chapter-subnav { padding-top: 44px; justify-self: start; align-self: start; }
+/* R23: the silk is sewn at the folio's top edge — a constant tuck, no
+   runtime geometry; the first chapter mark sits just below the seam */
+#section-story.reading .chapter-subnav { padding-top: 26px; justify-self: start; align-self: start; }
 
 .shelf-return {
   display: block;
@@ -702,13 +702,15 @@ body::before {
   flex-direction: column;
   align-items: center;
   gap: 2px;
-  margin: -26px 0 0;
+  /* R23: constant seam tuck over the folio's top border — identical on
+     every viewport, no measurement involved */
+  margin: -14px 0 0;
   padding: 40px 0 30px;
   transform-origin: top center;
   animation: ribbon-sway 7s ease-in-out infinite;
   position: sticky;
   top: 10px;
-  z-index: 4; /* above the shelf (z3): the silk drapes OVER the board's edge */
+  z-index: 4;
 }
 /* the silk itself lives on a layer so hover titles can escape the clip */
 .chapter-subnav::before {
@@ -717,15 +719,12 @@ body::before {
   inset: 0;
   z-index: -1;
   background:
-    /* the drape: light catch on the part lying over the tome, a dark crease
-       where the silk folds across the board's top edge, shade down its front
-       face, then a last line at the board's bottom lip */
+    /* the seam: light catch where the silk emerges from the folio's top
+       edge, a dark crease at the fold, then clean cloth below */
     linear-gradient(180deg,
-      rgba(255,240,200,0.14) 0 4px,
-      rgba(0,0,0,0.50) 4px 7px,
-      rgba(0,0,0,0.24) 7px 16px,
-      rgba(0,0,0,0.46) 16px 18px,
-      transparent 18px),
+      rgba(255,240,200,0.14) 0 3px,
+      rgba(0,0,0,0.50) 3px 6px,
+      transparent 6px),
     repeating-linear-gradient(180deg, rgba(255,255,255,0.05) 0 1px, transparent 1px 3px),
     repeating-linear-gradient(90deg, rgba(0,0,0,0.06) 0 1px, transparent 1px 3px),
     linear-gradient(90deg, #4a1010, #7a1f1f 28%, #8a2a2a 50%, #7a1f1f 72%, #4a1010);
@@ -2152,26 +2151,13 @@ body.leaving{opacity:0;transition:opacity .3s ease}
       ribbon.classList.add('unfurl');
     }
   }
-  /* the ribbon is a true page marker: its top folds OVER the lying tome's
-     reader-facing edge and the board's front face (the silk's z-index 4
-     paints it above the shelf's z3, so the drape is visible) */
+  /* R23 redesign: the silk is a bookmark SEWN AT THE FOLIO'S TOP EDGE —
+     anchored by CSS alone (constant -14px tuck over the panel border).
+     Runtime rect math was the desync source across slow devices; there is
+     now nothing to measure, nothing to drift, nothing to miss. */
   function attachRibbon(panel, tab) {
     const ribbon = panel.querySelector('.chapter-subnav');
-    if (!ribbon || !arcNav) return;
-    if (getComputedStyle(ribbon).display === 'none') return;
-    const navR = arcNav.getBoundingClientRect();
-    ribbon.style.marginTop = '0px';
-    ribbon.style.marginLeft = '0px';
-    const r0 = ribbon.getBoundingClientRect();
-    // silk top rests 6px above the board's top edge: it overlaps the lying
-    // tome's bottom edge, then drapes across the board's 11px front face
-    const targetY = navR.bottom - 6;
-    // a true page marker slips between the pages: it hangs from the tome's
-    // HEAD edge (the page-top side, out at the shelf's left end), not mid-body
-    const padL = parseFloat(getComputedStyle(arcNav).paddingLeft) || 24;
-    const bookLeft = navR.left + padL - (tab.offsetHeight || 172);
-    ribbon.style.marginTop = (targetY - r0.top) + 'px';
-    ribbon.style.marginLeft = (bookLeft + r0.width / 2 - (r0.left + r0.width / 2)) + 'px';
+    if (ribbon) { ribbon.style.marginTop = ''; ribbon.style.marginLeft = ''; }
   }
   // ── landing-driven ribbon release ──
   // The silk must not unfurl on a guessed delay: it is released only when the
@@ -2600,7 +2586,7 @@ body.leaving{opacity:0;transition:opacity .3s ease}
       e.stopPropagation();
       zoomTo(s2, s1);
     });
-    function descendToMap(){ document.body.classList.add('descend'); setTimeout(function(){ location.href = '/map/'; }, 620); }
+    function descendToMap(){ document.body.classList.add('descend'); setTimeout(function(){ var a = document.querySelector('#site-nav a[href*="/map/"]'); location.href = a ? a.getAttribute('href') : '/map/'; }, 620); }
     const wb = document.getElementById('orrery-world');
     wb.addEventListener('click', descendToMap);
     wb.addEventListener('keydown', function(e){ if (e.key === 'Enter' || e.key === ' ') descendToMap(); });
