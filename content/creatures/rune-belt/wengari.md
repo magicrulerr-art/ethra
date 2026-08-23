@@ -1,3 +1,11 @@
+---
+name: Wengari (Anchor Race)
+kind: race
+x_pct: 30.7
+y_pct: 35.9
+subtitle: Bright Paws / Shadow Paws / Mottled Paws / Stripe Paws / Snow Paws
+image_full: /static/images/tide-wolf.png
+---
 # Wengari
 
 **Classification:** Sentient Race / Anchor Race of Ethra  

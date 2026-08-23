@@ -1,3 +1,10 @@
+---
+name: Sea Marsh (Veylar cultivar)
+kind: creature
+x_pct: 26.0
+y_pct: 71.8
+image_full: /static/images/sea-marsh.png
+---
 # Sea Marsh (Veylar Cultivar)
 
 **Classification:** Cultivated Flora / Living Marsh  

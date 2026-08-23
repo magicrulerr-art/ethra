@@ -1,3 +1,11 @@
+---
+name: Dragari
+kind: race
+x_pct: 19.7
+y_pct: 58.6
+subtitle: Ancient gentle sea-singers; one of Ethra's oldest races
+image_full: /static/images/dragari.png
+---
 # Dragari
 
 **Classification:** Sentient Race / Anchor Species  

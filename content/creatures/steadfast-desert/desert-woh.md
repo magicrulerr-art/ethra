@@ -1,3 +1,10 @@
+---
+name: Desert Woh
+kind: creature
+x_pct: 47
+y_pct: 68
+image_full: /static/images/desert-woh.png
+---
 # Desert Woh
 
 **Classification:** Mount / Heavy Cavalry  

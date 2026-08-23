@@ -1,3 +1,10 @@
+---
+name: Bright Paw
+kind: creature
+x_pct: 48.0
+y_pct: 48.2
+image_full: /static/images/bright-paw.png
+---
 # Bright Paw Wengari
 
 **Classification:** Sentient Race / Wengari Family  

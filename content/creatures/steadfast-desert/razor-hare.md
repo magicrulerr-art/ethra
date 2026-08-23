@@ -1,3 +1,10 @@
+---
+name: Razor Hare
+kind: creature
+x_pct: 55.1
+y_pct: 69.9
+image_full: /static/images/razor-hare.png
+---
 # Razor Hare
 
 **Classification:** Prey  

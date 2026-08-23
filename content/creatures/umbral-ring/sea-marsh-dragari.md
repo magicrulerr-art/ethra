@@ -1,3 +1,10 @@
+---
+name: Sea Marsh (Dragari cultivar)
+kind: creature
+x_pct: 23.6
+y_pct: 76.6
+image_full: /static/images/sea-marsh.png
+---
 # Sea Marsh (Dragari Cultivar)
 
 **Classification:** Cultivated Flora / Sacred Marsh  

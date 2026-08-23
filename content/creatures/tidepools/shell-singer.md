@@ -1,3 +1,10 @@
+---
+name: Shell-Singer
+kind: creature
+x_pct: 62.2
+y_pct: 73.7
+image_full: /static/images/shell-singer.png
+---
 # Shell-Singer
 
 <picture><source srcset="/static/images/shell-singer.webp" type="image/webp" /><source srcset="/static/images/shell-singer.jpg" type="image/jpeg" /><img src="/static/images/shell-singer.png" alt="Veylar Shell-Singer" class="creature-portrait" style="max-width:350px;float:right;margin:0 0 1em 1em;border:2px solid #333;"></picture>

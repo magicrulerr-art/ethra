@@ -445,6 +445,11 @@ def load_md(filepath):
         return None
     with open(filepath, 'r', encoding='utf-8') as f:
         content = f.read()
+    # P1 drop-in: files may carry a YAML-lite frontmatter block (creatures,
+    # places). It is metadata for APIs/map pins, never reader-facing prose,
+    # so strip it before rendering.
+    if content.startswith('---'):
+        _meta, content = _parse_frontmatter(content)
     return parse_markdown(content)
 
 
@@ -795,6 +800,67 @@ def api_map_coordinates():
             data = json.load(f)
     except (OSError, ValueError) as e:
         return jsonify({'error': 'map coordinates unreadable', 'detail': str(e)}), 500
+
+    # P1 drop-in: creature pins live in the creature files themselves.
+    # Each content/creatures/<biome>/<slug>.md may carry frontmatter with
+    # x_pct/y_pct (+ optional name/kind/subtitle/image_full). The JSON
+    # `creatures` array is now OVERRIDE-ONLY: a JSON entry with the same
+    # slug wins field-by-field (manual repositioning without touching the
+    # prose file), and JSON-only entries (no file) still pass through.
+    creatures_dir = os.path.join(CONTENT_DIR, "creatures")
+    fm_entries = {}
+    if os.path.isdir(creatures_dir):
+        for biome in sorted(os.listdir(creatures_dir)):
+            bdir = os.path.join(creatures_dir, biome)
+            if not os.path.isdir(bdir):
+                continue
+            for fn in sorted(os.listdir(bdir)):
+                if not fn.endswith('.md'):
+                    continue
+                try:
+                    with open(os.path.join(bdir, fn), 'r', encoding='utf-8') as cf:
+                        meta, _ = _parse_frontmatter(cf.read())
+                except OSError:
+                    continue
+                if 'x_pct' not in meta or 'y_pct' not in meta:
+                    continue
+                try:
+                    entry = {
+                        'kind': meta.get('kind', 'creature'),
+                        'biome': biome,
+                        'slug': fn[:-3],
+                        'name': meta.get('name', fn[:-3]),
+                        'x_pct': float(meta['x_pct']),
+                        'y_pct': float(meta['y_pct']),
+                    }
+                    for opt in ('subtitle', 'image_full'):
+                        if opt in meta:
+                            entry[opt] = meta[opt]
+                except (ValueError, TypeError):
+                    continue
+                fm_entries[entry['slug']] = entry
+
+    json_creatures = data.get('creatures', [])
+    merged = []
+    seen = set()
+    for jc in json_creatures:
+        if not isinstance(jc, dict):
+            continue
+        slug = jc.get('slug')
+        base = fm_entries.get(slug)
+        if base:
+            base = dict(base)
+            base.update({k: v for k, v in jc.items() if v is not None})
+            merged.append(base)
+            seen.add(slug)
+        else:
+            merged.append(jc)
+            if slug:
+                seen.add(slug)
+    for slug in sorted(fm_entries):
+        if slug not in seen:
+            merged.append(fm_entries[slug])
+    data['creatures'] = merged
 
     # Merge place pins (P1 drop-in): any content/places/*.md carrying
     # x_pct/y_pct becomes a map pin without touching map-coordinates.json.

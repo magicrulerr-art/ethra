@@ -1,3 +1,11 @@
+---
+name: Veylar
+kind: race
+x_pct: 65.4
+y_pct: 72.8
+subtitle: Aquatic patient Shell-Singers; 20,000-year civilization
+image_full: /static/images/shell-singer.png
+---
 # The Veylar
 
 **Designation:** Sentient Race of the Tidepools

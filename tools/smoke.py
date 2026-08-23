@@ -45,6 +45,7 @@ def main():
     st, html = get('/')
     check('GET / returns 200', st == 200)
     check('landing page title', 'THE GREAT ORRERY' in html.upper())
+    check('landing has city-pin renderer (P1)', 'city-dot' in html and 'openPlaceGazetteer' in html)
 
     # 2. Health
     st, data = jget('/api/health')
@@ -95,11 +96,31 @@ def main():
     check(f'creatures in {first_biome}', st == 200 and len(names) > 0)
     st, cr = jget(f'/api/creature/{first_biome}/{names[0]}')
     check('creature content', st == 200 and len(cr.get('content', '')) > 100)
+    # P1: frontmatter is metadata, must never leak into rendered prose
+    check('creature frontmatter stripped',
+          'x_pct' not in cr.get('content', '') and 'image_full' not in cr.get('content', ''))
 
     # 8. Map coordinates
     st, coords = jget('/api/map/coordinates')
     check('map coordinates + creatures', st == 200 and len(coords.get('creatures', [])) > 0)
     check('city_pins list present', isinstance(coords.get('city_pins'), list))
+    # P1: every creature pin carries coordinates (frontmatter or JSON override)
+    check('all creature pins have coords',
+          all('x_pct' in c and 'y_pct' in c for c in coords.get('creatures', [])))
+    check('36 creature pins', len(coords.get('creatures', [])) == 36,
+          f"got {len(coords.get('creatures', []))}")
+
+    # 8b. Canonical places (P1 drop-in content: content/places/*.md)
+    CANON_PLACES = {'styxian', 'verdantis', 'veysul', 'riversong', 'xhilva', 'ice-city'}
+    st, pl0 = jget('/api/places')
+    have = {p.get('slug') for p in pl0}
+    check('6 canonical places present', CANON_PLACES <= have, str(CANON_PLACES - have))
+    pin_ids = {p.get('id') for p in coords.get('city_pins', [])}
+    check('canonical place pins on map', CANON_PLACES <= pin_ids, str(CANON_PLACES - pin_ids))
+    st, sty = jget('/api/place/styxian')
+    check('styxian gazetteer canon', st == 200 and 'White Death' in sty.get('content', ''))
+    check('styxian meta complete',
+          sty.get('race', '').startswith('Wengari') and sty.get('kind') == 'city')
 
     # 9. Places DROP-IN fixture test (proves one-file addition works)
     places_dir = os.path.join(SITE_ROOT, 'content', 'places')
@@ -126,6 +147,7 @@ def main():
     # 10. Map viewer + static data
     st, mhtml = get('/map/')
     check('GET /map/ 200', st == 200 and '<html' in mhtml.lower())
+    check('map viewer fetches place dossiers (P1)', 'loadPlaceDossiers' in mhtml)
     st, _ = get('/static/data/map-coordinates.json')
     check('static map json served', st == 200)
 

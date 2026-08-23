@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "comment": "Hand-curated creature placement on the Ethra supercontinent panorama (v2: coordinates re-derived against the painted base plate base_ethra_painted.png). x_pct/y_pct are 0..100 along the map's aspect-ratio 24:10 canvas. To add a creature: append an entry with the next free slot. To add a city_pin (future culture/society revamp): append to city_pins.",
+  "comment": "OVERRIDE-ONLY since P1 (2026-08-23). Creature pins now live in each content/creatures/<biome>/<slug>.md frontmatter (x_pct/y_pct on the 24:10 panorama); an entry below with the same slug overrides that frontmatter field-by-field for manual repositioning, and entries with no matching file still pass through. City pins come from content/places/*.md frontmatter (merged by the server). x_pct/y_pct are 0..100 along the map's aspect-ratio 24:10 canvas.",
   "biomes": [
     {
       "slug": "rune-belt",

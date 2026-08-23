@@ -1,3 +1,10 @@
+---
+name: Black-Fire Tide Wolf
+kind: creature
+x_pct: 34.6
+y_pct: 51.0
+image_full: /static/images/black-fire-tide-wolf.png
+---
 # Black Fire Tide Wolf
 
 **Classification:** Apex Predator / War Mount (Elite)  

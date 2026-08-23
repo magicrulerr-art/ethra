@@ -1,3 +1,10 @@
+---
+name: Killer Claw (Suicide Raptor)
+kind: creature
+x_pct: 44.0
+y_pct: 66.0
+image_full: /static/images/killer-claw-v1.png
+---
 # Killer Claw (Suicide Raptor)
 
 **Classification:** One-Way War-Beast

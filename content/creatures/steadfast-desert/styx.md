@@ -1,3 +1,10 @@
+---
+name: Styx
+kind: creature
+x_pct: 46
+y_pct: 57
+image_full: /static/images/styx.png
+---
 # Styx
 
 **Classification:** Flying Omen-Creature  

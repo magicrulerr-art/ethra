@@ -1,3 +1,10 @@
+---
+name: Mottled Paw
+kind: creature
+x_pct: 40.5
+y_pct: 57.5
+image_full: /static/images/mottled-paw.png
+---
 # Mottled Paw Wengari
 
 **Classification:** Sentient Race / Wengari Family  

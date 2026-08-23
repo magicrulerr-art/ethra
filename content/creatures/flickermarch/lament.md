@@ -1,3 +1,10 @@
+---
+name: The Lament
+kind: creature
+x_pct: 66.9
+y_pct: 39.7
+image_full: /static/images/lament.png
+---
 # Lament Threx
 
 **Classification:** Avatar Form  

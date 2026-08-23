@@ -1,3 +1,10 @@
+---
+name: Crimson Hawk
+kind: creature
+x_pct: 49.5
+y_pct: 57.5
+image_full: /static/images/crimson-hawk-v1.png
+---
 # Crimson Hawk
 
 **Classification:** War-Bird / Aerial Bombardier

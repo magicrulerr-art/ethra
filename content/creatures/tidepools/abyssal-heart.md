@@ -1,3 +1,10 @@
+---
+name: Abyssal Heart
+kind: creature
+x_pct: 66.9
+y_pct: 77.5
+image_full: /static/images/abyssal-heart.png
+---
 # Abyssal Heart
 
 <picture><source srcset="/static/images/abyssal-heart.webp" type="image/webp" /><source srcset="/static/images/abyssal-heart.jpg" type="image/jpeg" /><img src="/static/images/abyssal-heart.png" alt="Abyssal Heart" class="creature-portrait" style="max-width:350px;float:right;margin:0 0 1em 1em;border:2px solid #333;"></picture>

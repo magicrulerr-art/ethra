@@ -1785,6 +1785,53 @@ body.leaving{opacity:0;transition:opacity .3s ease}
   outline: 2px solid #c9a059;
   outline-offset: 2px;
 }
+/* City pins — P1 drop-in: content/places/*.md → /api/map/coordinates.city_pins */
+.city-dot {
+  position: absolute;
+  width: 13px; height: 13px;
+  background: #d4af37;
+  border: 2px solid #e8e2d0;
+  cursor: pointer;
+  pointer-events: auto;
+  transform: translate(-50%, -50%) rotate(45deg);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+  z-index: 2;
+  padding: 0;
+}
+.city-dot:hover, .city-dot:focus {
+  transform: translate(-50%, -50%) rotate(45deg) scale(1.3);
+  box-shadow: 0 0 14px rgba(212, 175, 55, 0.8);
+  outline: none;
+}
+#place-gazetteer {
+  position: fixed; inset: 0;
+  background: rgba(5, 10, 20, 0.85);
+  display: none;
+  align-items: center; justify-content: center;
+  z-index: 9999;
+  padding: 20px;
+}
+#place-gazetteer.open { display: flex; }
+#place-gazetteer-card {
+  position: relative;
+  background: linear-gradient(180deg, #14100b 0%, #0e0a06 100%);
+  border: 2px solid #4a3e2c;
+  border-radius: 8px;
+  max-width: 640px; width: 100%;
+  max-height: 82vh; overflow-y: auto;
+  padding: 28px 32px;
+  color: #e0d8c8;
+  font-family: Georgia, serif;
+  line-height: 1.55;
+}
+#place-gazetteer-close {
+  position: absolute; top: 10px; right: 12px;
+  background: #6b3a1a; color: #fff8e8;
+  border: none; border-radius: 4px;
+  font-size: 20px; line-height: 1;
+  padding: 6px 12px; cursor: pointer;
+}
+#place-gazetteer-close:hover { background: #8b4a2a; }
 .dot-tooltip {
   position: absolute;
   background: #fff8e8;
@@ -2921,10 +2968,74 @@ function formatCreatureName(creature) {
         overlay.appendChild(dot);
       }
       
+      // City pins — P1 drop-in: each content/places/<slug>.md with
+      // x_pct/y_pct frontmatter arrives in data.city_pins. Gold diamonds;
+      // click opens the gazetteer entry. One file per city, zero code edits.
+      (data.city_pins || []).forEach(p => {
+        if (!p || p.x_pct === undefined || p.y_pct === undefined) return;
+        const dot = document.createElement('button');
+        dot.className = 'city-dot';
+        dot.style.left = p.x_pct + '%';
+        dot.style.top = p.y_pct + '%';
+        dot.setAttribute('aria-label', p.name + ' — ' + (p.kind || 'place'));
+        
+        const tip = document.createElement('div');
+        tip.className = 'dot-tooltip';
+        tip.innerHTML = '<span class="creature-name">' + p.name + '</span><span class="creature-biome">' + (p.kind || 'place') + '</span>';
+        tip.style.left = (p.x_pct + 2) + '%';
+        tip.style.top = (p.y_pct - 5) + '%';
+        document.body.appendChild(tip);
+        
+        dot.addEventListener('mouseenter', () => tip.classList.add('visible'));
+        dot.addEventListener('mouseleave', () => tip.classList.remove('visible'));
+        dot.addEventListener('focus', () => tip.classList.add('visible'));
+        dot.addEventListener('blur', () => tip.classList.remove('visible'));
+        dot.addEventListener('click', () => openPlaceGazetteer(p.id));
+        
+        overlay.appendChild(dot);
+      });
+      
     } catch(e) {
       cc.innerHTML = '<p style="color:#8a7a55;text-align:center;padding:2rem;"><em>Failed to load map coordinates.</em></p>';
       console.error(e);
     }
+  };
+  
+  // ═════ PLACE GAZETTEER (P1 drop-in — content/places/<slug>.md) ═════
+  window.openPlaceGazetteer = async function(slug) {
+    let gz = document.getElementById('place-gazetteer');
+    if (!gz) {
+      gz = document.createElement('div');
+      gz.id = 'place-gazetteer';
+      gz.setAttribute('role', 'dialog');
+      gz.setAttribute('aria-modal', 'true');
+      gz.innerHTML = '<div id="place-gazetteer-card"><button id="place-gazetteer-close" aria-label="Close">&times;</button><div id="place-gazetteer-body"></div></div>';
+      document.body.appendChild(gz);
+      gz.addEventListener('click', function(e) { if (e.target === gz) closePlaceGazetteer(); });
+      document.getElementById('place-gazetteer-close').addEventListener('click', closePlaceGazetteer);
+      document.addEventListener('keydown', function(e) { if (e.key === 'Escape') closePlaceGazetteer(); });
+    }
+    const body = document.getElementById('place-gazetteer-body');
+    body.innerHTML = '<p style="color:#8a7a55;font-style:italic">Consulting the gazetteer…</p>';
+    gz.classList.add('open');
+    document.body.style.overflow = 'hidden';
+    try {
+      const r = await fetch('/ethra/api/place/' + encodeURIComponent(slug));
+      if (!r.ok) throw new Error('HTTP ' + r.status);
+      const p = await r.json();
+      body.innerHTML =
+        '<h2 style="color:#d4af37;margin:0 0 2px">' + (p.name || slug) + '</h2>' +
+        '<div style="color:#8a7a55;font-size:12px;margin-bottom:14px;letter-spacing:1px">' + (p.region || '') + '</div>' +
+        (p.image ? '<img src="' + p.image + '" alt="" style="width:100%;max-height:280px;object-fit:cover;border:1px solid #4a3e2c;border-radius:4px;margin-bottom:14px">' : '') +
+        '<div>' + (p.content || '') + '</div>';
+    } catch (e) {
+      body.innerHTML = '<p style="color:#8a7a55"><em>The gazetteer holds no entry for this place.</em></p>';
+    }
+  };
+  window.closePlaceGazetteer = function() {
+    const gz = document.getElementById('place-gazetteer');
+    if (gz) gz.classList.remove('open');
+    document.body.style.overflow = '';
   };
   
   // ═════ LOAD BESTIARY BOOK (closed leather tome → opens; ink melts & reforms) ═════

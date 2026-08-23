@@ -1,3 +1,10 @@
+---
+name: Lotus Bloom
+kind: creature
+x_pct: 50
+y_pct: 49.5
+image_full: /static/images/lotus-bloom.png
+---
 # Lotus Bloom
 
 **Classification:** Rare Flora  

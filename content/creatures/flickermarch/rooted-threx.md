@@ -1,3 +1,10 @@
+---
+name: Rooted Threx
+kind: creature
+x_pct: 70.5
+y_pct: 24.6
+image_full: /static/images/rooted-threx.png
+---
 # Rooted Threx
 
 **Classification:** Mature Threx Form  

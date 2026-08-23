@@ -1,3 +1,11 @@
+---
+name: Auruch
+kind: creature
+x_pct: 16.1
+y_pct: 66.2
+subtitle: Giant sea-creatures revered by the Dragari
+image_full: /static/images/auruch.png
+---
 # Auruch
 
 **Classification:** Giant Sea Creature  

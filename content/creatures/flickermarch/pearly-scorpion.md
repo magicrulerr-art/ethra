@@ -1,3 +1,10 @@
+---
+name: Pearly Scorpion
+kind: creature
+x_pct: 64.6
+y_pct: 18.0
+image_full: /static/images/pearly-scorpion.png
+---
 # Pearly Scorpion
 
 <picture><source srcset="/static/images/pearly-scorpion-v3.webp" type="image/webp" /><source srcset="/static/images/pearly-scorpion-v3.jpg" type="image/jpeg" /><img src="/static/images/pearly-scorpion-v3.png" alt="Pearly Scorpion — mounted Humman rider" class="creature-portrait" style="max-width:400px;float:right;margin:0 0 1em 1em;"></picture>

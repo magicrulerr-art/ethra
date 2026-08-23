@@ -171,6 +171,22 @@ const CITY_DOSSIERS={
  'Xhilva':{r:'Wengari (Shadow Paws)',f:'Testing Fire',s:'Deep South Rune Belt',img:'/static/images/city-xhilva.png',d:'The Shadow Paw city in the deep south of the Rune Belt, where the canopy is dense and the light of the Steadfast barely reaches the floor. Built into the only cave of its kind in the Belt; its location is a secret — revealing it is punished by death. Home of the shadow riders and their black tide-wolves.'},
  'The Ice City':{r:'Wengari (Snow Paws)',f:'Testing Fire',s:'Umbral Ring — Far North',img:'/static/images/city-ice-city.png',d:'The great city of ice — the Snow Paws’ frozen citadel in the far north of the Umbral Ring, carved from ancient ice and stone, where the family gathers in the harshest winters and in times of war. From it the Peregrines launch on Sunraptor-back and Wurm-glides cross the tundra. Seat of Cefiro, Prince of the Snow Paws.'}
 };
+/* P1 drop-in: place dossiers are served from content/places/*.md via
+   /api/places. The baked CITY_DOSSIERS above is the offline fallback;
+   the live API wins field-by-field, and any new place file appears on
+   this map with zero code edits. */
+async function loadPlaceDossiers(){
+ try{
+  const r=await fetch('/api/places');
+  if(!r.ok)return;
+  const list=await r.json();
+  (list||[]).forEach(function(p){
+   if(!p||!p.name)return;
+   CITY_DOSSIERS[p.name]={r:p.race||'',f:p.faction||'',s:p.region||'',img:p.image||'',d:p.blurb||'',slug:p.slug||''};
+  });
+ }catch(e){}
+}
+loadPlaceDossiers();
 const RACE_DOSSIERS={
  'wengari':{n:'Wengari',f:'Testing Fire',s:'Rune Belt · Steadfast Desert · Flickermarch',d:'Feline desert-dwellers and warrior culture of five families — Shadow, Mottled, Bright, Stripe and Snow Paws. Anchor race of Ethra, bearers of the Pact.'},
  'humann':{n:'Humman',f:'The Shadow',s:'Rune Belt',d:'Youngest sentient race — a mercantile empire that still fears the rise of another Tyrant. Cunning diplomats, terrified but fascinated.'},
@@ -282,7 +298,14 @@ VP.addEventListener('mousemove',function(e){if(TT.style.display==='block'){TT.st
 
 /* ═══════════════ dossier ═══════════════ */
 function openDossier(html){const p=document.getElementById('dossier');p.classList.remove('hidden');document.getElementById('dossier-content').innerHTML=html}
-function cityDossier(n,c){openDossier('<h3>'+n+'</h3><div style="color:#8a7a5a;font-size:11px;margin-bottom:10px">'+c.s+'</div>'+(c.img?'<img class="dossier-img" src="'+c.img+'" alt="">':'')+'<div class="stat-row"><span class="stat"><strong>Race:</strong> '+c.r+'</span><span class="stat"><strong>Faith:</strong> '+c.f+'</span></div><p style="margin-top:8px;color:#c8b890;line-height:1.5">'+c.d+'</p><p style="margin-top:4px;color:#8a7a5a;font-style:italic">Referenced in world.md canon</p>')}
+function cityDossier(n,c){openDossier('<h3>'+n+'</h3><div style="color:#8a7a5a;font-size:11px;margin-bottom:10px">'+c.s+'</div>'+(c.img?'<img class="dossier-img" src="'+c.img+'" alt="">':'')+'<div class="stat-row"><span class="stat"><strong>Race:</strong> '+c.r+'</span><span class="stat"><strong>Faith:</strong> '+c.f+'</span></div><p style="margin-top:8px;color:#c8b890;line-height:1.5">'+c.d+'</p><p style="margin-top:4px;color:#8a7a5a;font-style:italic">Referenced in world.md canon</p>');
+ /* P1 drop-in: upgrade with the full gazetteer body from content/places */
+ if(c.slug){fetch('/api/place/'+encodeURIComponent(c.slug)).then(function(r){return r.ok?r.json():null}).then(function(p){
+  if(!p||!p.content)return;
+  const h=document.querySelector('#dossier-content h3');
+  if(!h||h.textContent!==n)return; /* reader moved on — don't overwrite */
+  openDossier('<h3>'+n+'</h3><div style="color:#8a7a5a;font-size:11px;margin-bottom:10px">'+(p.region||c.s)+'</div>'+(p.image?'<img class="dossier-img" src="'+p.image+'" alt="">':'')+'<div style="margin-top:8px;color:#c8b890;line-height:1.5">'+p.content+'</div><p style="margin-top:4px;color:#8a7a5a;font-style:italic">Gazetteer — content/places/'+c.slug+'.md</p>');
+ }).catch(function(){})}}
 function raceDossier(slug,c,img){openDossier('<h3>'+c.n+'</h3>'+(img?'<img class="dossier-img" src="'+img+'" alt="">':'')+'<div class="stat-row"><span class="stat"><strong>Faith:</strong> '+c.f+'</span><span class="stat"><strong>Range:</strong> '+c.s+'</span></div><p style="margin-top:8px;color:#c8b890;line-height:1.5">'+c.d+'</p><p style="margin-top:4px;color:#8a7a5a;font-style:italic">Sentient race — canon roster</p>')}
 function simpleDossier(title,sub,desc){openDossier('<h3>'+title+'</h3><div style="color:#8a7a5a;font-size:11px;margin-bottom:8px">'+sub+'</div><p style="color:#c8b890;line-height:1.5">'+desc+'</p>')}
 

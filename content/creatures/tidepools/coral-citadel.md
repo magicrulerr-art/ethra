@@ -1,3 +1,10 @@
+---
+name: Coral Citadel
+kind: creature
+x_pct: 71.3
+y_pct: 70.9
+image_full: /static/images/coral-citadel.png
+---
 # Coral Citadel
 
 <picture><source srcset="/static/images/coral-citadel.webp" type="image/webp" /><source srcset="/static/images/coral-citadel.jpg" type="image/jpeg" /><img src="/static/images/coral-citadel.png" alt="Coral Citadel" class="creature-portrait" style="max-width:350px;float:right;margin:0 0 1em 1em;border:2px solid #333;"></picture>

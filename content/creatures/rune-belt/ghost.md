@@ -1,3 +1,10 @@
+---
+name: Ghost
+kind: creature
+x_pct: 50.5
+y_pct: 38.5
+image_full: /static/images/ghost-v3.png
+---
 # Ghost
 
 **Classification:** Aerial Mount  

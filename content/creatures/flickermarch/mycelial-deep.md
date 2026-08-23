@@ -1,3 +1,10 @@
+---
+name: The Mycelial Deep
+kind: creature
+x_pct: 72.0
+y_pct: 45.4
+image_full: /static/images/mycelial-deep.png
+---
 # Mycelial Deep
 
 <img src="/ethra/static/images/mycelial-deep.png" alt="Mycelial Deep — the living fungal network beneath the Flickermarch" class="creature-portrait" style="max-width:400px;float:right;margin:0 0 1em 1em;">

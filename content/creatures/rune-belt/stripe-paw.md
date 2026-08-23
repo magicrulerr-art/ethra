@@ -1,3 +1,10 @@
+---
+name: Stripe Paw
+kind: creature
+x_pct: 36.5
+y_pct: 47
+image_full: /static/images/stripe-paw.png
+---
 # Stripe Paw Wengari
 
 **Classification:** Sentient Race / Wengari Family  

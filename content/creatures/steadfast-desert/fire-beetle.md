@@ -1,3 +1,10 @@
+---
+name: Fire Beetle
+kind: creature
+x_pct: 48.8
+y_pct: 72.8
+image_full: /static/images/fire-beetle.png
+---
 # Fire Beetle
 
 **Classification:** Hostile Creature  

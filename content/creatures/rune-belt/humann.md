@@ -1,3 +1,11 @@
+---
+name: Humman
+kind: race
+x_pct: 47.5
+y_pct: 40.5
+subtitle: Youngest sentient race — mercantile empire
+image_full: /static/images/humann.png
+---
 # Humman
 
 **Classification:** Sentient Race  

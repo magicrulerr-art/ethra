@@ -1,3 +1,10 @@
+---
+name: Tide Wolf
+kind: creature
+x_pct: 42.9
+y_pct: 44.4
+image_full: /static/images/tide-wolf.png
+---
 # Tide Wolf
 
 **Classification:** Apex Predator  

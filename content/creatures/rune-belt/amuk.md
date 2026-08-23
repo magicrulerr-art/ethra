@@ -1,3 +1,10 @@
+---
+name: Amuk
+kind: creature
+x_pct: 48.0
+y_pct: 22.7
+image_full: /static/images/amuk-v10.png
+---
 # Amuk
 
 **Classification:** War-Beast  

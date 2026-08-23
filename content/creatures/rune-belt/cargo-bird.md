@@ -1,3 +1,10 @@
+---
+name: Cargo Bird
+kind: creature
+x_pct: 36.5
+y_pct: 39.5
+image_full: /static/images/cargo-bird-v1.png
+---
 # Cargo Bird
 
 **Classification:** Transport / Beast of Burden

@@ -1,3 +1,10 @@
+---
+name: Iris Serpent
+kind: creature
+x_pct: 59.4
+y_pct: 28.4
+image_full: /static/images/iris-serpent.png
+---
 # Iris Serpent
 
 **Classification:** Apex Predator  

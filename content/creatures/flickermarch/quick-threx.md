@@ -1,3 +1,10 @@
+---
+name: Quick Threx
+kind: creature
+x_pct: 61.4
+y_pct: 20.8
+image_full: /static/images/quick-threx.png
+---
 # Quick Threx
 
 **Classification:** Young Threx Form  

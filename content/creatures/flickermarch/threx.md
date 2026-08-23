@@ -1,3 +1,11 @@
+---
+name: Threx
+kind: race
+x_pct: 64.6
+y_pct: 32.1
+subtitle: Mycelial beings, connected to the Deep
+image_full: /static/images/lament.png
+---
 # Threx
 
 **Classification:** Sentient Race / Mycelial Collective  

@@ -1,3 +1,11 @@
+---
+name: Pyrinae
+kind: race
+x_pct: 46.1
+y_pct: 59.5
+subtitle: Rune-glass artisans, Hydromancers
+image_full: /static/images/pyrinae.png
+---
 # Pyrinae
 
 **Classification:** Sentient Race / Anchor Species  

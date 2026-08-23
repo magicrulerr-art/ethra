@@ -1,3 +1,10 @@
+---
+name: Shadow Paw
+kind: creature
+x_pct: 32.5
+y_pct: 55
+image_full: /static/images/shadow-paw.png
+---
 # Shadow Paw Wengari
 
 **Classification:** Sentient Race / Wengari Family  

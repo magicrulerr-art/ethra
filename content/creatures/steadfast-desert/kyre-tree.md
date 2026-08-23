@@ -1,3 +1,11 @@
+---
+name: The Kyre Tree
+kind: creature
+x_pct: 59.1
+y_pct: 65.2
+subtitle: Ancient predator-god; bargainer
+image_full: /static/images/kyre-tree.png
+---
 # Kyre Tree
 
 **Classification:** Ancient Desert Organism  
