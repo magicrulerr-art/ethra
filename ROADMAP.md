@@ -21,8 +21,18 @@ Full findings were presented in chat; this file is the actionable plan.
   `tools/serve_pages_test.py` + `probe_pages.py` (11/11). GitHub Actions
   workflow `.github/workflows/pages.yml` bakes + deploys on push to main;
   `actions/configure-pages` enables the Pages source automatically.
-- **P2 — pending**: monolith split, viewer consolidation, asset diet, server
-  hygiene.
+- **P2 — DONE** (round 24, commits `d285f90`, `2f9d575`, `341709e`,
+  `d46f982`): monolith split (index.html 3191→~165 lines, `static/css/` +
+  `static/js/` with `?v=` busting); viewers consolidated (dead
+  `Ethra_viewer.html`, `templates/ethra_map.html` + 10 scratch previews
+  archived; canon viewer + dev twin kept per the patch-both protocol —
+  deliberate deviation from this plan's "archive the dev twin"); asset diet
+  ~52 MB archived (`_archive/`, gitignored + export-skipped; the v1–v190
+  lineage of the audit never existed on disk); server hygiene (`__main__`
+  guard pre-existed, the "dead flat code" note was stale, `run_server.py`
+  PID manager landed). Junk test logs untracked via `update-index`.
+- **Remaining (not code):** Ainz-sama's PAT rotation (standing advisory);
+  nothing else open on this roadmap.
 
 ### Adding a city today (the friction test)
 
@@ -39,7 +49,9 @@ Pages mirror. Zero code edits.
   the same pass). Live and mirror now run identical code.
 - Pages mirror is read-only; `/api/map/upload` stays local-Flask exclusive.
 
-## Today's drop-in matrix (friction = how easy it is to break something)
+## Drop-in matrix — HISTORICAL (pre-P1/P2 state, kept as the audit record;
+today's friction is in Status above: chapters/creatures/cities/world/arcs are
+all drop-in)
 
 | Content type | How it's added today | Friction |
 |---|---|---|
