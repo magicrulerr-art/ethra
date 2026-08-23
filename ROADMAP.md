@@ -4,6 +4,41 @@ Commissioned by Ainz-sama: audit backend + design; make adding content as safe
 as the creature drop-in; never risk breaking everything again.
 Full findings were presented in chat; this file is the actionable plan.
 
+## Status (updated 2026-08-23, round 22)
+
+- **P0 — DONE** (commits `ebbd6a8`, `d608a9f`): git baseline + remote push;
+  smoke suite (now 36 checks); regenerate_chapters.py repaired (script-relative
+  paths, manifest-driven, non-destructive).
+- **P1 — DONE** (commit `ef82fbb`): places drop-in live — six canonical city
+  files in `content/places/` drive `/api/places`, `/api/place/<slug>`, the
+  gold city diamonds + gazetteer overlay on the main site, and the dossier
+  layer of the canon viewer; creature map coords moved into creature-file
+  frontmatter (36 files; JSON demoted to override-only, regression-verified
+  byte-identical); arcs manifest + world auto-discovery.
+- **P1.5 — DONE** (this round): `tools/export_static.py` bakes the whole site
+  (119 documents: landing, viewer, every API response, static tree) into
+  `_pages/` rooted at `/ethra/`; verified locally via
+  `tools/serve_pages_test.py` + `probe_pages.py` (11/11). GitHub Actions
+  workflow `.github/workflows/pages.yml` bakes + deploys on push to main;
+  `actions/configure-pages` enables the Pages source automatically.
+- **P2 — pending**: monolith split, viewer consolidation, asset diet, server
+  hygiene.
+
+### Adding a city today (the friction test)
+
+Drop ONE file: `content/places/<slug>.md` with frontmatter
+(name/kind/biome/x_pct/y_pct/race/faction/region/image/blurb) + a gazetteer
+body. It appears in `/api/places`, as a gold diamond on the bestiary map, in
+the canon viewer's dossier layer, and — after the next push — on the public
+Pages mirror. Zero code edits.
+
+### Known caveats
+
+- The LIVE server (port 8790) still runs pre-P1 code; it needs one manual
+  restart (my session cannot kill processes). Test instances on 8791/8792/8793
+  are zombies until killed or reboot.
+- Pages mirror is read-only; `/api/map/upload` stays local-Flask exclusive.
+
 ## Today's drop-in matrix (friction = how easy it is to break something)
 
 | Content type | How it's added today | Friction |
