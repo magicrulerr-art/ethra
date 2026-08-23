@@ -136,6 +136,28 @@ def main():
     shutil.copytree(os.path.join(BASE, 'static'),
                     os.path.join(OUT, 'static'), ignore=_ignore)
 
+    # ── rootify copied static scripts/pages (they bypass _rootify_html) ──
+    # Bare '/api/...' string literals in static .js/.html would 404 on the
+    # /ethra mount (this is what broke chapter loading after the P2a monolith
+    # split externalized the inline JS). Mirror rewrite_static_paths here so
+    # externalized code behaves identically on Pages.
+    fixed = 0
+    for dirpath, _dirs, files in os.walk(os.path.join(OUT, 'static')):
+        for f in files:
+            if f.endswith(('.js', '.html')):
+                fp = os.path.join(dirpath, f)
+                with open(fp, encoding='utf-8', errors='surrogateescape') as fh:
+                    t = fh.read()
+                t2 = t.replace("'/api/", "'" + ROOT + "/api/") \
+                      .replace('"/api/', '"' + ROOT + '/api/') \
+                      .replace('`/api/', '`' + ROOT + '/api/')
+                if t2 != t:
+                    with open(fp, 'w', encoding='utf-8',
+                              errors='surrogateescape') as fh:
+                        fh.write(t2)
+                    fixed += 1
+    print('rootified %d static script/page file(s)' % fixed)
+
     print('exported %d documents -> %s' % (n, OUT))
     total = 0
     for dirpath, _dirs, files in os.walk(OUT):

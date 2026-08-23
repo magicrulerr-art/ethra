@@ -185,7 +185,7 @@
   // ── Chapter sub-tabs ──
   // Lazy chapter loading: each chapter div is rendered as empty by the server.
   // When the user clicks a chapter tab (or the first chapter of an arc is
-  // auto-activated), we fetch /api/chapter/<id>, inject the HTML into the
+  // auto-activated), we fetch /ethra/api/chapter/<id>, inject the HTML into the
   // div, mark it as loaded, and cache the response for instant re-click.
   const chapterCache = new Map();   // chapter_id -> html string
   const chapterInflight = new Map(); // chapter_id -> Promise<html>
@@ -197,7 +197,9 @@
     if (chapterInflight.has(chapterId)) {
       return chapterInflight.get(chapterId);
     }
-    const p = fetch('/api/chapter/' + encodeURIComponent(chapterId), {
+    // /ethra/ prefix like every other fetch: the local PrefixMiddleware
+    // strips it, and the Pages mirror serves the baked file at that path.
+    const p = fetch('/ethra/api/chapter/' + encodeURIComponent(chapterId), {
       credentials: 'same-origin',
       headers: { 'Accept': 'text/html' }
     }).then(r => {
