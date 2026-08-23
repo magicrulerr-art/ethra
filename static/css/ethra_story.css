@@ -1,0 +1,197 @@
+/* ═════ MAP BESTIARY LAYER ═════ */
+.map-container {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 24/10;
+  background: #000;
+  overflow: hidden;
+  border-radius: 4px;
+}
+.map-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+.dot-overlay {
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  pointer-events: none;
+}
+.creature-dot {
+  position: absolute;
+  width: 14px; height: 14px;
+  border-radius: 50%;
+  background: rgba(196, 168, 130, 0.9);
+  border: 2px solid #3a2f1f;
+  cursor: pointer;
+  pointer-events: auto;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+  transform: translate(-50%, -50%);
+}
+.creature-dot:hover {
+  transform: translate(-50%, -50%) scale(1.25);
+  box-shadow: 0 0 12px rgba(255, 220, 160, 0.7);
+  background: #fff8e8;
+}
+.creature-dot:focus {
+  outline: 2px solid #c9a059;
+  outline-offset: 2px;
+}
+/* City pins — P1 drop-in: content/places/*.md → /api/map/coordinates.city_pins */
+.city-dot {
+  position: absolute;
+  width: 13px; height: 13px;
+  background: #d4af37;
+  border: 2px solid #e8e2d0;
+  cursor: pointer;
+  pointer-events: auto;
+  transform: translate(-50%, -50%) rotate(45deg);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+  z-index: 2;
+  padding: 0;
+}
+.city-dot:hover, .city-dot:focus {
+  transform: translate(-50%, -50%) rotate(45deg) scale(1.3);
+  box-shadow: 0 0 14px rgba(212, 175, 55, 0.8);
+  outline: none;
+}
+#place-gazetteer {
+  position: fixed; inset: 0;
+  background: rgba(5, 10, 20, 0.85);
+  display: none;
+  align-items: center; justify-content: center;
+  z-index: 9999;
+  padding: 20px;
+}
+#place-gazetteer.open { display: flex; }
+#place-gazetteer-card {
+  position: relative;
+  background: linear-gradient(180deg, #14100b 0%, #0e0a06 100%);
+  border: 2px solid #4a3e2c;
+  border-radius: 8px;
+  max-width: 640px; width: 100%;
+  max-height: 82vh; overflow-y: auto;
+  padding: 28px 32px;
+  color: #e0d8c8;
+  font-family: Georgia, serif;
+  line-height: 1.55;
+}
+#place-gazetteer-close {
+  position: absolute; top: 10px; right: 12px;
+  background: #6b3a1a; color: #fff8e8;
+  border: none; border-radius: 4px;
+  font-size: 20px; line-height: 1;
+  padding: 6px 12px; cursor: pointer;
+}
+#place-gazetteer-close:hover { background: #8b4a2a; }
+.dot-tooltip {
+  position: absolute;
+  background: #fff8e8;
+  border: 2px solid #3a2f1f;
+  border-radius: 6px;
+  padding: 8px 10px;
+  font-family: Georgia, serif;
+  font-size: 0.85rem;
+  color: #2a1f0f;
+  white-space: nowrap;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.15s ease;
+  z-index: 10;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.35);
+}
+.dot-tooltip.visible {
+  opacity: 1;
+}
+.dot-tooltip .creature-name {
+  font-weight: bold;
+  display: block;
+  margin-bottom: 4px;
+}
+.dot-tooltip .creature-biome {
+  font-size: 0.75rem;
+  color: #5a4a3a;
+}
+.dot-tooltip .creature-thumb {
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  border-radius: 4px;
+  border: 1px solid #3a2f1f;
+  margin-top: 6px;
+  display: block;
+}
+
+      /* ═════ CREATURE PAGE MODAL (full-page HTML) ═════ */
+      .creature-page-modal {
+        display: none;
+        position: fixed;
+        top: 0; left: 0; right: 0; bottom: 0;
+        background: rgba(6, 13, 24, 0.92);
+        z-index: 9998;
+        overflow: auto;
+      }
+      .creature-page-modal .modal-chrome {
+        position: relative;
+        max-width: 900px;
+        margin: 40px auto;
+        background: #f0e8d0;
+        border: 3px solid #3a2f1f;
+        border-radius: 8px;
+        box-shadow: 0 0 40px rgba(0,0,0,0.7);
+      }
+      .creature-page-modal .modal-scroll {
+        max-height: 70vh;
+        overflow-y: auto;
+        padding: 2rem;
+      }
+      .creature-page-modal .modal-content {
+        font-family: 'Georgia', serif;
+        color: #2a1f0f;
+        line-height: 1.7;
+      }
+      .creature-page-modal .modal-content h1,
+      .creature-page-modal .modal-content h2,
+      .creature-page-modal .modal-content h3 {
+        color: #8b4a2a;
+        margin-top: 1.5rem;
+        margin-bottom: 0.75rem;
+      }
+      .creature-page-modal .modal-close {
+        position: fixed;
+        top: 20px; right: 20px;
+        width: 44px; height: 44px;
+        border-radius: 50%;
+        background: rgba(139, 74, 42, 0.9);
+        border: 2px solid #c9a059;
+        color: #f4e8d0;
+        font-size: 28px;
+        cursor: pointer;
+        z-index: 9999;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+      .creature-page-modal .modal-close:hover {
+        background: #8b4a2a;
+      }
+      .constituent-list button {
+        display: block;
+        width: 100%;
+        padding: 0.75rem 1rem;
+        margin-bottom: 0.5rem;
+        background: #fff8e8;
+        border: 2px solid #3a2f1f;
+        border-radius: 4px;
+        cursor: pointer;
+        font-family: 'Georgia', serif;
+        font-size: 0.95rem;
+        color: #2a1f0f;
+        text-align: left;
+      }
+      .constituent-list button:hover {
+        background: #e8dcc8;
+      }
+

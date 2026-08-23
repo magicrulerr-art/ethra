@@ -45,7 +45,17 @@ def main():
     st, html = get('/')
     check('GET / returns 200', st == 200)
     check('landing page title', 'THE GREAT ORRERY' in html.upper())
-    check('landing has city-pin renderer (P1)', 'city-dot' in html and 'openPlaceGazetteer' in html)
+    # P2a: the city-pin renderer lives in the extracted static assets
+    import re as _re
+    from urllib.parse import urljoin
+    def fetch(href):
+        with urllib.request.urlopen(urljoin(BASE + '/', href), timeout=25) as r:
+            return r.read().decode('utf-8', 'replace')
+    m_css = _re.search(r'href="([^"]*ethra_story\.css[^"]*)"', html)
+    m_js = _re.search(r'src="([^"]*ethra_story\.js[^"]*)"', html)
+    css_body = fetch(m_css.group(1)) if m_css else ''
+    js_body = fetch(m_js.group(1)) if m_js else ''
+    check('landing has city-pin renderer (P1)', 'city-dot' in css_body and 'openPlaceGazetteer' in js_body)
 
     # 2. Health
     st, data = jget('/api/health')
