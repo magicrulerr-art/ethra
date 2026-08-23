@@ -109,17 +109,27 @@ def main():
 
     # ── health check ──
     url = 'http://127.0.0.1:%d/api/health' % port
+    ok = False
     for _ in range(40):
         time.sleep(0.25)
         try:
             with urllib.request.urlopen(url, timeout=3) as r:
                 if r.status == 200:
-                    print('health OK')
-                    return 0
+                    ok = True
+                    break
         except OSError:
             pass
-    print('ERROR: server did not become healthy')
-    return 1
+    if not ok:
+        print('ERROR: server did not become healthy')
+        return 1
+    # record the ACTUAL listener PID: venv python.exe may be a shim whose
+    # child (the real interpreter) holds the port — killing only the shim
+    # would orphan the server.
+    real = listener_pid(port) or proc.pid
+    with open(PIDFILE, 'w') as f:
+        f.write(str(real))
+    print('health OK (listener pid %d)' % real)
+    return 0
 
 
 if __name__ == '__main__':
