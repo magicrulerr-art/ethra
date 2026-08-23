@@ -34,9 +34,9 @@ Pages mirror. Zero code edits.
 
 ### Known caveats
 
-- The LIVE server (port 8790) still runs pre-P1 code; it needs one manual
-  restart (my session cannot kill processes). Test instances on 8791/8792/8793
-  are zombies until killed or reboot.
+- The LIVE server (port 8790) was restarted on current code 2026-08-23
+  (PID-specific kill authorized by Ainz-sama; zombies 8791–8793 cleaned in
+  the same pass). Live and mirror now run identical code.
 - Pages mirror is read-only; `/api/map/upload` stays local-Flask exclusive.
 
 ## Today's drop-in matrix (friction = how easy it is to break something)
