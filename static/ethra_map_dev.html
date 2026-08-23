@@ -1,0 +1,544 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ethra — The Complete Map</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:'Segoe UI',system-ui,sans-serif;background:#0a0a12;color:#e0d8c8;overflow:hidden;height:100vh}
+#viewport{position:fixed;inset:0;background:#0f1621;overflow:hidden;cursor:grab;touch-action:none;user-select:none;-webkit-user-select:none}
+#viewport.dragging{cursor:grabbing}
+#stage{position:absolute;top:0;left:0;transform-origin:0 0}
+#stage svg{display:block}
+#stage.declutter #layer-creatures text{display:none}
+
+#zoombar{position:fixed;top:18px;left:18px;z-index:1001;display:flex;flex-direction:column;gap:6px}
+#zoombar button{width:36px;height:36px;background:#1a1510;color:#c8b890;border:1px solid #4a3e2c;border-radius:4px;font-size:16px;cursor:pointer}
+#zoombar button:hover{background:#2a2018;color:#d4af37}
+
+#veil{position:fixed;inset:0;z-index:1004;pointer-events:none;opacity:0;transition:opacity .6s ease;background-image:
+ radial-gradient(1.5px 1.5px at 11% 16%,#cfdcff 50%,transparent 51%),
+ radial-gradient(1px 1px at 23% 64%,#aab8e8 50%,transparent 51%),
+ radial-gradient(1.5px 1.5px at 34% 31%,#e8ecff 50%,transparent 51%),
+ radial-gradient(1px 1px at 47% 78%,#9aa8d8 50%,transparent 51%),
+ radial-gradient(2px 2px at 58% 22%,#f0e8ff 50%,transparent 51%),
+ radial-gradient(1px 1px at 66% 57%,#aab8e8 50%,transparent 51%),
+ radial-gradient(1.5px 1.5px at 78% 36%,#cfdcff 50%,transparent 51%),
+ radial-gradient(1px 1px at 87% 71%,#9aa8d8 50%,transparent 51%),
+ radial-gradient(1.5px 1.5px at 93% 18%,#e8ecff 50%,transparent 51%),
+ radial-gradient(1px 1px at 8% 84%,#aab8e8 50%,transparent 51%),
+ radial-gradient(1px 1px at 52% 8%,#cfdcff 50%,transparent 51%),
+ radial-gradient(1px 1px at 71% 89%,#9aa8d8 50%,transparent 51%),
+ radial-gradient(ellipse at 30% 25%,#2a1a4a55 0%,transparent 45%),
+ radial-gradient(ellipse at 72% 68%,#1a2a4a44 0%,transparent 50%),
+ radial-gradient(ellipse at 50% 42%,#1c1233 0%,#0d0a1c 55%,#060510 100%)}
+#veil.active{opacity:1}
+#veil .veil-hint{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);color:#8a7ab0;font-size:11px;letter-spacing:3px;font-style:italic;opacity:0;transition:opacity .4s ease .18s}
+#veil.active .veil-hint{opacity:.8}
+
+#legend-panel{position:fixed;top:0;right:0;width:340px;height:100vh;background:linear-gradient(180deg,#1a1510f5 0%,#120e0af5 100%);border-left:2px solid #4a3e2c;z-index:1000;overflow-y:auto;transition:transform 0.35s;backdrop-filter:blur(12px)}
+#legend-panel.collapsed{transform:translateX(340px)}
+#legend-toggle{position:fixed;top:18px;right:18px;z-index:1001;background:#1a1510;color:#c8b890;border:1px solid #4a3e2c;border-radius:4px;padding:6px 12px;cursor:pointer;font-size:13px;transition:right 0.35s}
+#legend-toggle.shifted{right:358px}
+#legend-panel h2{font-size:16px;color:#d4af37;text-align:center;padding:14px 10px 6px;border-bottom:1px solid #3a2e1c;margin-bottom:6px;letter-spacing:2px}
+.subtitle{font-size:10px;color:#8a7a5a;text-align:center;margin-bottom:10px}
+#searchbox{display:flex;gap:6px;margin:0 10px 10px}
+#searchbox input{flex:1;background:#0f0e0a;border:1px solid #3a2e1c;border-radius:4px;color:#e0d8c8;padding:6px 10px;font-size:12px}
+#searchbox input:focus{outline:none;border-color:#c9a059}
+#searchbox button{background:#1a1510;color:#c8b890;border:1px solid #4a3e2c;border-radius:4px;padding:4px 10px;cursor:pointer}
+#searchbox button:hover{color:#d4af37}
+.layer-row{display:flex;align-items:center;justify-content:space-between;margin:2px 10px;padding:7px 10px;border:1px solid #2a2018;border-radius:4px;background:#0f0e0a}
+.layer-row.peel{border-color:#4a6a5a;background:#0e1410}
+.layer-row .lname{font-size:12px;color:#c8b890;display:flex;align-items:center;gap:8px}
+.layer-row .swatch{width:12px;height:12px;border-radius:2px;flex-shrink:0}
+.layer-row .lnote{display:block;font-size:9px;color:#6a5a3a;margin-top:2px}
+.toggle-switch{position:relative;width:36px;height:20px;flex-shrink:0}
+.toggle-switch input{opacity:0;width:0;height:0}
+.toggle-slider{position:absolute;cursor:pointer;top:0;left:0;right:0;bottom:0;background:#2a2018;border-radius:10px;transition:.3s}
+.toggle-slider:before{position:absolute;content:'';height:14px;width:14px;left:3px;bottom:3px;background:#c8b890;border-radius:50%;transition:.3s}
+.toggle-switch input:checked+.toggle-slider{background:#4a6a3a}
+.toggle-switch input:checked+.toggle-slider:before{transform:translateX(16px)}
+.panel-note{margin:12px 14px;padding:10px;border:1px dashed #3a2e1c;border-radius:4px;font-size:10px;color:#8a7a5a;line-height:1.6}
+.panel-note strong{color:#c8b890}
+
+#dossier{position:fixed;bottom:0;left:50%;transform:translateX(-50%);width:700px;max-width:calc(100vw - 380px);background:linear-gradient(180deg,#1a1510fa 0%,#120e0afa 100%);border:2px solid #4a3e2c;border-bottom:none;border-radius:8px 8px 0 0;z-index:1002;overflow-y:auto;max-height:46vh;transition:transform 0.4s;padding:16px 20px;color:#e0d8c8;font-size:13px}
+#dossier.hidden{transform:translateX(-50%) translateY(110%)}
+#dossier h3{color:#d4af37;font-size:18px;margin-bottom:4px}
+.stat-row{display:flex;flex-wrap:wrap;gap:12px;margin:6px 0}
+.stat{background:#1a1510;padding:4px 10px;border-radius:3px;font-size:11px}
+.stat strong{color:#c8b890}
+.close-btn{position:absolute;top:8px;right:12px;background:none;border:none;color:#8a7a5a;font-size:20px;cursor:pointer}
+.close-btn:hover{color:#d4af37}
+
+.ethra-tooltip{position:fixed;pointer-events:none;background:#1a1510ee;color:#e0d8c8;border:1px solid #4a3e2c;border-radius:4px;padding:8px 12px;font-size:12px;z-index:1003;max-width:280px;line-height:1.4}
+.ethra-tooltip strong{color:#d4af37}
+.ethra-tooltip img{display:block;width:100%;max-height:150px;object-fit:cover;border:1px solid #4a3e2c;border-radius:4px;margin-bottom:6px;background:#0a0a12}
+#dossier .dossier-img{width:100%;max-height:240px;object-fit:cover;border:1px solid #4a3e2c;border-radius:4px;margin:8px 0;background:#0a0a12}
+#dossier-content img{max-width:100%;border-radius:4px;border:1px solid #3a2e1c}
+#dossier-content h1,#dossier-content h2{color:#d4af37;font-size:15px;margin:10px 0 4px}
+#dossier-content p{margin:6px 0;line-height:1.55;color:#c8b890}
+#dossier-content ul{margin:4px 0 4px 18px;color:#c8b890}
+
+#loading{position:fixed;top:50%;left:50%;transform:translate(-50%,-50%);background:#1a1510dd;color:#d4af37;padding:20px 40px;border:2px solid #4a3e2c;border-radius:8px;z-index:9999;font-size:14px;letter-spacing:2px;text-align:center}
+#loading .progress{font-size:11px;color:#8a7a5a;margin-top:6px}
+
+#stage svg [data-name],#stage svg [data-slug],#stage svg [data-faith]{cursor:pointer}
+#stage svg [data-name]:hover,#stage svg [data-slug]:hover,#stage svg [data-faith]:hover{filter:brightness(1.6)}
+#site-nav{position:fixed;bottom:16px;left:calc(50% - 170px);transform:translateX(-50%);z-index:70;display:flex;gap:2px;align-items:center;background:rgba(10,22,40,.78);border:1px solid #2a2018;border-radius:6px;padding:6px 12px;backdrop-filter:blur(4px)}
+#site-nav a,#site-nav .here{font-size:11px;letter-spacing:2px;text-transform:uppercase;color:#c8b890;text-decoration:none;padding:2px 6px;border-radius:4px;white-space:nowrap}
+#site-nav a:hover{color:#d4af37;background:rgba(201,160,89,.12)}
+#site-nav .here{color:#d4af37}
+#site-nav .sep{color:#4a3e2c;font-size:10px}
+body{animation:page-in .45s ease}
+@keyframes page-in{from{opacity:0}to{opacity:1}}
+body.leaving{opacity:0;transition:opacity .3s ease}
+/* ═══════════════ phone / tablet: the map must breathe ═══════════════ */
+@media (max-width:860px){
+ #legend-panel{width:min(84vw,340px)}
+ #legend-panel.collapsed{transform:translateX(min(84vw,340px))}
+ #legend-toggle.shifted{right:calc(min(84vw,340px) + 18px)}
+ /* dossiers become a full-width bottom sheet, never a sliver */
+ #dossier{left:0;width:100vw;max-width:100vw;max-height:62vh;transform:none;border-left:none;border-right:none;border-radius:12px 12px 0 0;padding:14px 16px}
+ #dossier.hidden{transform:translateY(110%)}
+ #site-nav{left:50%;bottom:8px;max-width:94vw;flex-wrap:wrap;justify-content:center;padding:4px 8px;gap:0}
+ #site-nav a,#site-nav .here{font-size:10px;letter-spacing:1px;padding:2px 4px}
+ #zoombar{top:12px;left:12px}
+ #zoombar button{width:32px;height:32px}
+ .ethra-tooltip{max-width:70vw}
+}
+</style>
+</head>
+<body>
+<div id="viewport"><div id="stage"></div></div>
+<div id="loading">Unfurling the Scroll of Ethra…<div class="progress" id="load-progress">fetching canon map</div></div>
+
+<nav id="site-nav" aria-label="Ethra site">
+ <span class="here" title="You are here">✦ The Map</span><span class="sep">·</span>
+ <a href="/?section=story">Chronicles</a><span class="sep">·</span>
+ <a href="/?section=bestiary">Bestiary</a><span class="sep">·</span>
+ <a href="/?world=geography">World</a><span class="sep">·</span>
+ <a href="/?world=cosmology">Cosmology</a>
+</nav>
+<div id="veil"><span class="veil-hint">peering through the veil…</span></div>
+
+<div id="zoombar">
+<button onclick="zoomBy(1.25)" title="Zoom in">+</button>
+<button onclick="zoomBy(0.8)" title="Zoom out">−</button>
+<button onclick="fitView()" title="Fit map">⌂</button>
+</div>
+<button id="legend-toggle" onclick="toggleLegend()">☰ Layers</button>
+
+<div id="legend-panel">
+<h2>⚔ Ethra · The Complete Map</h2>
+<div class="subtitle">DEV · canon SVG · layer-* toggle system · v1</div>
+<div id="searchbox"><input id="seek" list="ethra-index" placeholder="seek: creature, city, race, biome…" autocomplete="off"><button onclick="doSeek()" title="fly to">⌖</button></div>
+<datalist id="ethra-index"></datalist>
+<div id="layer-rows"></div>
+<div class="panel-note"><strong>Canon map, DEV.</strong> The painted surface and its ocean are permanent; overlays toggle above. <strong>Peel the Surface</strong> to descend into the Deep. Hover any mark or name to see it; click to read its story. Drag to pan, scroll or pinch to zoom.</div>
+</div>
+
+<div id="dossier" class="hidden">
+<button class="close-btn" onclick="document.getElementById('dossier').classList.add('hidden')">✕</button>
+<div id="dossier-content"></div>
+</div>
+<div id="tooltip" class="ethra-tooltip" style="display:none"></div>
+
+<script>
+'use strict';
+/* ═══════════════ layer registry (matches ethra_canon_v1.svg + runtime layers) ═══════════════ */
+/* ocean + painted landmass are the art itself: always on, no toggle (Ainz directive) */
+const LAYERS=[
+ {id:'layer-routes',    label:'Trade & Song Routes', sw:'#c9a059', def:true,  note:'caravan, supply, song & spore roads'},
+ {id:'layer-cities',    label:'Canonical Cities',    sw:'#d4af37', def:true,  note:'Styxian · Verdantis · Vey’sul · RiverSong · Xhilva · The Ice City'},
+ {id:'layer-races',     label:'Sentient Races',      sw:'#c9a059', def:true,  note:'6 race rings (7 races w/ Chi’Thak below)'},
+ {id:'layer-creatures', label:'Creature Marks',      sw:'#8b2a2a', def:true,  note:'bestiary placements per biome'},
+ {id:'layer-faiths',    label:'The Faiths',          sw:'#7a5ac2', def:false, note:'five faiths of the sentient races'},
+ {id:'layer-deep',      label:'The Deep Veins',      sw:'#3aa6a6', def:false, note:'mycelial network beneath the surface'},
+ {id:'layer-labels',    label:'Biome Name Labels',   sw:'#e8e2d0', def:true,  note:'Umbral Ring → Flickermarch'},
+ {id:'layer-caption',   label:'World-Ocean Caption', sw:'#8a7a5a', def:true,  note:'cartographic caption'},
+ {id:'layer-legend',    label:'Cartouche / Legend',  sw:'#c9a059', def:true,  note:'in-map legend plate'}
+];
+
+/* ═══════════════ canon dossiers (world.md) ═══════════════ */
+const CITY_DOSSIERS={
+ 'Verdantis':{r:'Hummans',f:'The Shadow',s:'Rune Belt Kingdom',img:'/static/images/biome-rune-belt.png',d:'Humman capital. Trade hub of the Rune Belt. Pearly Scorpion mounts exported across Ethra. The youngest race’s seat of power.'},
+ 'Styxian':{r:'Wengari (Bright Paws)',f:'Testing Fire',s:'Steadfast Desert',img:'/static/images/city-styxian.png',d:'Wengari capital, built around the Pact — around the Kyre Tree’s water and the hanging gardens — after the Third Tyrant’s bargain. Seat of the Bright Paw Royal Family, undisputed martial masters of Ethra. Home of the White Death.'},
+ 'Vey\'sul':{r:'Veylar',f:'Communion with the Abyssal Heart (uncodified)',s:'Tidepool Shallows',img:'/static/images/biome-tidepools.png',d:'Frozen city of the Fourth Tyrant Xal’thyra the Tidebreaker, risen with its coral spires among the Tidepool Shallows. The Great Stillness — time stands still within its towers.'},
+ 'RiverSong':{r:'Wengari (Mottled Paws)',f:'Testing Fire',s:'Rune Belt Basin',img:'/static/images/city-riversong.png',d:'Mottled Paw city in the heart of the Rune Belt basin, built atop the jade trees — fifteen-meter refulgent hardwoods, hard as rock and shining, raised against the optic camouflage of the Belt’s predators. Keepers of the ghosts: five-meter camouflaged bats, spoken to through drums. Here since before the Pact.'},
+ 'Xhilva':{r:'Wengari (Shadow Paws)',f:'Testing Fire',s:'Deep South Rune Belt',img:'/static/images/city-xhilva.png',d:'The Shadow Paw city in the deep south of the Rune Belt, where the canopy is dense and the light of the Steadfast barely reaches the floor. Built into the only cave of its kind in the Belt; its location is a secret — revealing it is punished by death. Home of the shadow riders and their black tide-wolves.'},
+ 'The Ice City':{r:'Wengari (Snow Paws)',f:'Testing Fire',s:'Umbral Ring — Far North',img:'/static/images/city-ice-city.png',d:'The great city of ice — the Snow Paws’ frozen citadel in the far north of the Umbral Ring, carved from ancient ice and stone, where the family gathers in the harshest winters and in times of war. From it the Peregrines launch on Sunraptor-back and Wurm-glides cross the tundra. Seat of Cefiro, Prince of the Snow Paws.'}
+};
+const RACE_DOSSIERS={
+ 'wengari':{n:'Wengari',f:'Testing Fire',s:'Rune Belt · Steadfast Desert · Flickermarch',d:'Feline desert-dwellers and warrior culture of five families — Shadow, Mottled, Bright, Stripe and Snow Paws. Anchor race of Ethra, bearers of the Pact.'},
+ 'humann':{n:'Humman',f:'The Shadow',s:'Rune Belt',d:'Youngest sentient race — a mercantile empire that still fears the rise of another Tyrant. Cunning diplomats, terrified but fascinated.'},
+ 'pyrinae':{n:'Pyrinae',f:'Cosmic Calendar',s:'Steadfast Desert',d:'Rune-glass artisans and Hydromancers who commune with the Kyre Tree and read the twin suns.'},
+ 'dragari':{n:'Dragari',f:'Great Song',s:'Umbral Ring',d:'Ancient singers of the Umbral Ring who commune with the Auruchs through song; their melodies carry Tide-survival across generations. Known to no surface race as anything but myth.'},
+ 'threx':{n:'Threx',f:'The Mycelial Deep (communion, uncodified)',s:'Flickermarch',d:'Mycelial beings in three forms — Lament, Quick and Rooted — connected to the Deep beneath Ethra.'},
+ 'veylar':{n:'Veylar',f:'Communion with the Abyssal Heart (uncodified)',s:'Tidepools',d:'Aquatic Shell-Singers of a twenty-thousand-year civilization. Their magic flows through the Abyssal Heart — the deep-ocean entity of the trenches — and the Sea Marsh each family tends. Never bested.'}
+};
+const ROUTE_LORE={
+ 'Pyrinae Caravan Route':{d:'Rune-glass caravans crawl from the Steadfast Desert kilns to the Rune Belt markets, guarded by hydromancers who read the heat-shimmer like scripture. The glass sings in the saddlebags if a storm is coming.'},
+ 'Humman Trade Route':{d:'The great mercantile artery of Verdantis. Coin, grain and Pearly Scorpion mounts move east and west beneath Humman banners — and every toll booth reports twice, for the merchants trust no one, least of all themselves.'},
+ 'Wengari Supply Line':{d:'A martial road of the Paw families. Way-stones every half-day’s run, cached water and dried razor-hare at each. An army that cannot outrun its supply line does not deserve to catch its prey.'},
+ 'Wengari Supply Line II':{d:'The southern branch of the martial road, raised after the Blight scares of the last century. It bends away from the old Chi’Thak scar — the elders remember what the young forget.'},
+ 'Dragari Song Road':{d:'Not a road but a sea-lane of verses. Dragari singers carry the Great Song from marsh to marsh; each tide adds a verse, and no two journeys end with the same ending.'},
+ 'Threx Spore Route':{d:'A drifting corridor of spore-light linking the Lament groves to the Mycelial Deep. Nothing walks it; everything beneath it listens. Where the spores settle, the Rooted wake.'}
+};
+/* The five faiths — all are interpretations of the Crimson Tide (religion.md canon).
+   The suns are not gods; they are the SOURCE of all theology. */
+const FAITHS=[
+ {n:'Testing Fire',c:'#c96a2a',x:54.2,y:62.0,race:'Wengari',d:'The Wengari view: the Crimson Tide is a test of worthiness — those who survive prove their strength. Martial, meritocratic, unforgiving; the faith that watched the First Tyrant descend into paranoia as the Tide approached.'},
+ {n:'Cosmic Calendar',c:'#7a5ac2',x:60.4,y:60.0,race:'Pyrinae',d:'The Pyrinae view: the Styx read the suns, and the Kyre Tree remembers them. The Crimson Tide is a grand astronomical pattern — predictable, measurable, survivable through knowledge and preparation.'},
+ {n:'Great Song',c:'#3aa6a6',x:19.7,y:58.6,race:'Dragari',d:'The Dragari view: they commune with the Auruchs through song, and their melodies encode Tide-survival across generations. The Crimson Tide is a verse in the Great Song — sorrowful, inevitable, survivable through harmony.'},
+ {n:'The Feast',c:'#8a3a2a',x:89.9,y:86.3,race:'Chi’Thak',d:'The Chi’Thak view: the Resonance is feeding time. Not worship — biology elevated to divine scale. Crr’zzak is hero and deity both, his consumption and self-sacrifice the central myth of Chi’Thak existence.'},
+ {n:'The Shadow',c:'#8a8a9a',x:46.5,y:41.5,race:'Hummans',d:'The Humman view: too young for a unified theology. Their experience of the Tide is filtered through the trauma of Velarius Vane, their Fifth Tyrant, whose 65-year plague is still living memory — nascent, fragmented, haunted.'}
+];
+const DEEP_LORE={
+ 'The Deep (heart)':{d:'The mycelial heart beneath Ethra. Neither good nor hungry — it simply connects. The Threx are its fingers; the Lament, its ear.'},
+ 'Chi’Thak Swarm':{d:'The Blight that surfaces every few centuries to devour. Below, it is merely the Deep’s fever — a hunger the network cannot yet quiet.'},
+ 'Super-Organism':{d:'Where all strands braid into one. The Rooted Threx dream here in slow centuries; what they dream, the surface eventually feels.'},
+ 'Rooted Network':{d:'The anchored Threx, half-plant, half-thought, holding the Deep to the stone of the world like roots hold a riverbank.'}
+};
+
+/* ═══════════════ slug → biome + bestiary plate (mirrors map-coordinates.json) ═══════════════ */
+const META={
+ 'wengari':{b:'rune-belt',img:'/static/images/wengari-bestiary.png'},
+  'chithak':{b:'underground',img:'/static/images/chithak.png'},
+  'super-organism':{b:'underground',img:'/static/images/super-organism.png'},
+ 'humann':{b:'rune-belt',img:'/static/images/humann.png'},
+ 'tide-wolf':{b:'rune-belt',img:'/static/images/tide-wolf.png'},
+ 'black-fire-tide-wolf':{b:'rune-belt',img:'/static/images/black-fire-tide-wolf.png'},
+ 'amuk':{b:'rune-belt',img:'/static/images/amuk-v10.png'},
+ 'ghost':{b:'rune-belt',img:'/static/images/ghost-v3.png'},
+ 'lotus-bloom':{b:'rune-belt',img:'/static/images/lotus-bloom.png'},
+ 'woh':{b:'rune-belt',img:'/static/images/woh.png'},
+ 'pyrinae':{b:'steadfast-desert',img:'/static/images/pyrinae.png'},
+ 'styx':{b:'steadfast-desert',img:'/static/images/styx.png'},
+ 'bright-paw':{b:'steadfast-desert',img:'/static/images/bright-paw.png'},
+ 'stripe-paw':{b:'steadfast-desert',img:'/static/images/stripe-paw.png'},
+ 'shadow-paw':{b:'steadfast-desert',img:'/static/images/shadow-paw.png'},
+ 'mottled-paw':{b:'steadfast-desert',img:'/static/images/mottled-paw.png'},
+ 'kyre-tree':{b:'steadfast-desert',img:'/static/images/kyre-tree.png'},
+ 'desert-woh':{b:'steadfast-desert',img:'/static/images/desert-woh.png'},
+ 'fire-beetle':{b:'steadfast-desert',img:'/static/images/fire-beetle.png'},
+ 'razor-hare':{b:'steadfast-desert',img:'/static/images/razor-hare.png'},
+ 'dragari':{b:'umbral-ring',img:'/static/images/dragari.png'},
+ 'auruch':{b:'umbral-ring',img:'/static/images/auruch.png'},
+ 'sea-marsh-dragari':{b:'umbral-ring',img:'/static/images/sea-marsh.png'},
+ 'sea-marsh-veylar':{b:'umbral-ring',img:'/static/images/sea-marsh.png'},
+ 'threx':{b:'flickermarch',img:'/static/images/lament.png'},
+ 'lament':{b:'flickermarch',img:'/static/images/lament.png'},
+ 'iris-serpent':{b:'flickermarch',img:'/static/images/iris-serpent.png'},
+ 'mycelial-deep':{b:'flickermarch',img:'/static/images/mycelial-deep.png'},
+ 'pearly-scorpion':{b:'flickermarch',img:'/static/images/pearly-scorpion.png'},
+ 'quick-threx':{b:'flickermarch',img:'/static/images/quick-threx.png'},
+ 'rooted-threx':{b:'flickermarch',img:'/static/images/rooted-threx.png'},
+ 'veylar':{b:'tidepools',img:'/static/images/shell-singer.png'},
+ 'shell-singer':{b:'tidepools',img:'/static/images/shell-singer.png'},
+ 'abyssal-heart':{b:'tidepools',img:'/static/images/abyssal-heart.png'},
+ 'coral-citadel':{b:'tidepools',img:'/static/images/coral-citadel.png'}
+};
+/* ═══════════════ pan / zoom / pinch viewport ═══════════════ */
+const VP=document.getElementById('viewport'),ST=document.getElementById('stage');
+const SW=2400,SH=1000;
+let sc=1,tx=0,ty=0,fitted=false;
+function apply(){ST.style.transform='translate('+tx+'px,'+ty+'px) scale('+sc+')';ST.classList.toggle('declutter',sc<0.8)}
+function fitView(){const vw=VP.clientWidth,vh=VP.clientHeight;sc=Math.min(vw/SW,vh/SH)*0.98;tx=(vw-SW*sc)/2;ty=(vh-SH*sc)/2;apply();fitted=true}
+function zoomBy(f,cx,cy){const vw=VP.clientWidth,vh=VP.clientHeight;cx=(cx===undefined)?vw/2:cx;cy=(cy===undefined)?vh/2:cy;const ns=Math.min(Math.max(sc*f,0.05),12);f=ns/sc;tx=cx-(cx-tx)*f;ty=cy-(cy-ty)*f;sc=ns;apply()}
+function flyTo(ux,uy){const vw=VP.clientWidth,vh=VP.clientHeight;sc=Math.max(sc,2.2);tx=vw/2-ux*sc;ty=vh/2-uy*sc;apply()}
+let USER_MOVED=false;
+VP.addEventListener('wheel',function(e){e.preventDefault();USER_MOVED=true;const r=VP.getBoundingClientRect();zoomBy(Math.exp(-e.deltaY*0.0016),e.clientX-r.left,e.clientY-r.top)},{passive:false});
+VP.addEventListener('dblclick',function(e){USER_MOVED=true;const r=VP.getBoundingClientRect();zoomBy(1.6,e.clientX-r.left,e.clientY-r.top)});
+window.addEventListener('resize',function(){if(!USER_MOVED)fitView()});
+const pts=new Map();let drag=null,pinch=null;
+VP.addEventListener('pointerdown',function(e){USER_MOVED=true;pts.set(e.pointerId,{x:e.clientX,y:e.clientY});VP.setPointerCapture(e.pointerId);
+ if(pts.size===1){drag={x:e.clientX,y:e.clientY,tx:tx,ty:ty,moved:0,target:e.target};VP.classList.add('dragging')}
+ else if(pts.size===2){drag=null;const p=[...pts.values()];pinch={d:Math.hypot(p[0].x-p[1].x,p[0].y-p[1].y)||1,sc:sc,tx:tx,ty:ty}}
+});
+VP.addEventListener('pointermove',function(e){if(!pts.has(e.pointerId))return;pts.set(e.pointerId,{x:e.clientX,y:e.clientY});
+ if(pinch&&pts.size>=2){const p=[...pts.values()];const r=VP.getBoundingClientRect();
+  const nd=Math.hypot(p[0].x-p[1].x,p[0].y-p[1].y)||1;const mx=(p[0].x+p[1].x)/2-r.left,my=(p[0].y+p[1].y)/2-r.top;
+  const ns=Math.min(Math.max(pinch.sc*(nd/pinch.d),0.05),12);
+  const mapX=(mx-pinch.tx)/pinch.sc,mapY=(my-pinch.ty)/pinch.sc;
+  sc=ns;tx=mx-mapX*ns;ty=my-mapY*ns;apply();
+ }else if(drag){const dx=e.clientX-drag.x,dy=e.clientY-drag.y;drag.moved=Math.max(drag.moved,Math.abs(dx)+Math.abs(dy));if(drag.moved>4){tx=drag.tx+dx;ty=drag.ty+dy;apply()}}
+});
+function endPointer(e){pts.delete(e.pointerId);if(pts.size<2)pinch=null;
+ if(pts.size===0){VP.classList.remove('dragging');if(drag&&drag.moved<=4)handleClick(drag.target);drag=null}}
+VP.addEventListener('pointerup',endPointer);VP.addEventListener('pointercancel',endPointer);
+window.addEventListener('resize',function(){if(fitted)fitView()});
+
+/* ═══════════════ tooltip ═══════════════ */
+const TT=document.getElementById('tooltip');
+function showTT(html,x,y){TT.innerHTML=html;TT.style.display='block';TT.style.left=Math.min(x+16,window.innerWidth-290)+'px';TT.style.top=Math.min(y-10,window.innerHeight-80)+'px'}
+function hideTT(){TT.style.display='none'}
+VP.addEventListener('mousemove',function(e){if(TT.style.display==='block'){TT.style.left=Math.min(e.clientX+16,window.innerWidth-290)+'px';TT.style.top=Math.min(e.clientY-10,window.innerHeight-80)+'px'}});
+
+/* ═══════════════ dossier ═══════════════ */
+function openDossier(html){const p=document.getElementById('dossier');p.classList.remove('hidden');document.getElementById('dossier-content').innerHTML=html}
+function cityDossier(n,c){openDossier('<h3>'+n+'</h3><div style="color:#8a7a5a;font-size:11px;margin-bottom:10px">'+c.s+'</div>'+(c.img?'<img class="dossier-img" src="'+c.img+'" alt="">':'')+'<div class="stat-row"><span class="stat"><strong>Race:</strong> '+c.r+'</span><span class="stat"><strong>Faith:</strong> '+c.f+'</span></div><p style="margin-top:8px;color:#c8b890;line-height:1.5">'+c.d+'</p><p style="margin-top:4px;color:#8a7a5a;font-style:italic">Referenced in world.md canon</p>')}
+function raceDossier(slug,c,img){openDossier('<h3>'+c.n+'</h3>'+(img?'<img class="dossier-img" src="'+img+'" alt="">':'')+'<div class="stat-row"><span class="stat"><strong>Faith:</strong> '+c.f+'</span><span class="stat"><strong>Range:</strong> '+c.s+'</span></div><p style="margin-top:8px;color:#c8b890;line-height:1.5">'+c.d+'</p><p style="margin-top:4px;color:#8a7a5a;font-style:italic">Sentient race — canon roster</p>')}
+function simpleDossier(title,sub,desc){openDossier('<h3>'+title+'</h3><div style="color:#8a7a5a;font-size:11px;margin-bottom:8px">'+sub+'</div><p style="color:#c8b890;line-height:1.5">'+desc+'</p>')}
+
+/* ═══════════════ click routing on SVG hooks ═══════════════ */
+function handleClick(t){
+ if(!t||!t.closest)return;
+ const el=t.closest('[data-name],[data-slug],[data-faith]');
+ if(!el)return;
+ const name=el.getAttribute('data-name'),slug=el.getAttribute('data-slug'),faith=el.getAttribute('data-faith');
+ if(faith){const f=FAITHS.find(function(x){return x.n===faith});simpleDossier(faith,f?('Faith of the '+f.race):'Faith of Ethra',f?f.d:'');return}
+ if(el.getAttribute('data-deep')){const L=DEEP_LORE[name]||{d:'A strand of the Deep.'};simpleDossier(name,'The Deep beneath Ethra',L.d);return}
+ if(el.closest('#layer-cities')&&name&&CITY_DOSSIERS[name]){cityDossier(name,CITY_DOSSIERS[name]);return}
+ if(slug){beastDossier(slug,name);return}
+ if(name&&el.closest('#layer-routes')){const R=ROUTE_LORE[name];simpleDossier(name,'Trade / song route',R?R.d:'A canonical road of Ethra.');return}
+}
+async function beastDossier(slug,svgName){
+ const m=META[slug],rd=RACE_DOSSIERS[slug];
+ const head=svgName||(rd&&rd.n)||slug.replace(/-/g,' ');
+ openDossier('<h3>'+head+'</h3><div style="color:#8a7a5a;font-size:11px">consulting the bestiary…</div>');
+ let html=null;
+ if(m){try{const r=await fetch('/api/creature/'+m.b+'/'+slug);if(r.ok){const j=await r.json();if(j&&j.content)html=j.content;}}catch(e){}}
+ if(html){
+  openDossier('<h3>'+head+'</h3><img class="dossier-img" src="'+(m?m.img:'')+'" alt=""><div class="stat-row"><span class="stat"><strong>Biome:</strong> '+m.b+'</span>'+(rd?'<span class="stat"><strong>Faith:</strong> '+rd.f+'</span>':'')+'</div><div>'+html+'</div>');
+ }else if(rd){
+  raceDossier(slug,rd,m?m.img:null);
+ }else{
+  simpleDossier(head,'Creature mark','Recorded in the Ethra bestiary.');
+ }
+}
+
+/* hover tooltips — creatures show their bestiary plate, faiths their creed */
+VP.addEventListener('mouseover',function(e){const el=e.target.closest?e.target.closest('[data-name],[data-slug],[data-faith]'):null;if(!el)return;
+ const name=el.getAttribute('data-name'),slug=el.getAttribute('data-slug'),faith=el.getAttribute('data-faith');
+ if(faith){const f=FAITHS.find(function(x){return x.n===faith});showTT('<strong>'+faith+'</strong>'+(f?'<br>Faith of the '+f.race:''),e.clientX,e.clientY);return}
+ if(el.getAttribute('data-deep')){showTT('<strong>'+name+'</strong><br><span style="color:#8a7a5a;font-size:10px">a strand of the Deep — click for lore</span>',e.clientX,e.clientY);return}
+ const inRaces=el.closest('#layer-races');
+ if(inRaces&&slug&&RACE_DOSSIERS[slug]){const m=META[slug];showTT((m?'<img src="'+m.img+'" alt="">':'')+'<strong>'+RACE_DOSSIERS[slug].n+'</strong><br>'+RACE_DOSSIERS[slug].f+' · '+RACE_DOSSIERS[slug].s,e.clientX,e.clientY);return}
+ if(el.closest('#layer-creatures')&&slug&&META[slug]){showTT('<img src="'+META[slug].img+'" alt=""><strong>'+name+'</strong><br><span style="color:#8a7a5a;font-size:10px">click for the bestiary entry</span>',e.clientX,e.clientY);return}
+ if(name){const c=CITY_DOSSIERS[name];const rt=ROUTE_LORE[name];showTT('<strong>'+name+'</strong>'+(c?'<br>'+c.r+' · '+c.f:(rt?'<br><span style="color:#8a7a5a;font-size:10px">click for the road’s lore</span>':'')),e.clientX,e.clientY)}
+});
+VP.addEventListener('mouseout',function(e){if(e.target.closest&&e.target.closest('[data-name],[data-slug],[data-faith]'))hideTT()});
+
+/* ═══════════════ legend panel + peel + persistence ═══════════════ */
+function setLayer(id,on){const g=document.getElementById(id);if(g)g.style.display=on?'':'none';if(id==='layer-creatures')syncUnder();}
+/* underground dwellers belong beneath: their marks live in their own
+   group and surface only while the landmass is peeled away */
+function syncUnder(){var ug=document.getElementById('layer-under-dwellers');if(!ug)return;ug.style.display=PEELED?'':'none';}
+function syncToggles(){LAYERS.forEach(function(L){const inp=document.querySelector('input[data-layer="'+L.id+'"]');const g=document.getElementById(L.id);if(inp&&g&&L.id!=='layer-underground')inp.checked=g.style.display!=='none'});const p=document.getElementById('peel-toggle');if(p)p.checked=PEELED}
+function buildLegend(){
+ const host=document.getElementById('layer-rows');
+ LAYERS.forEach(function(L,i){
+  const row=document.createElement('div');row.className='layer-row';
+  row.innerHTML='<span class="lname"><span class="swatch" style="background:'+L.sw+'"></span><span>'+(i+1)+'. '+L.label+'<span class="lnote">'+L.note+'</span></span></span>'+
+   '<label class="toggle-switch"><input type="checkbox" '+(L.def?'checked':'')+' data-layer="'+L.id+'"><span class="toggle-slider"></span></label>';
+  row.querySelector('input').addEventListener('change',function(){setLayer(L.id,this.checked);saveState()});
+  host.appendChild(row);
+ });
+ const peel=document.createElement('div');peel.className='layer-row peel';
+ peel.innerHTML='<span class="lname"><span class="swatch" style="background:#1a2a24;border:1px solid #3aa6a6"></span><span>⛏ Peel the Surface<span class="lnote">peer through the veil into the Deep</span></span></span><label class="toggle-switch"><input type="checkbox" id="peel-toggle"><span class="toggle-slider"></span></label>';
+ peel.querySelector('input').addEventListener('change',function(){setPeel(this.checked)});
+ host.appendChild(peel);
+}
+function toggleLegend(){document.getElementById('legend-panel').classList.toggle('collapsed');document.getElementById('legend-toggle').classList.toggle('shifted')}
+
+/* peel the surface: swap painted landmass for the underground plate,
+   veiled as if peering through the space between */
+let PEELED=false,ORIG_HREF=null,prePeel=null,deepWas=false,VEILING=false,legendWasOpen=false;
+const SURFACE=['layer-routes','layer-cities','layer-races','layer-creatures','layer-faiths','layer-labels','layer-caption','layer-legend'];
+function veilIn(){return new Promise(function(res){const v=document.getElementById('veil');if(!v){res();return}v.classList.add('active');setTimeout(res,620)})}
+function veilOut(){const v=document.getElementById('veil');if(v)v.classList.remove('active')}
+function setPeel(on){
+ const img=ST.querySelector('#layer-landmass image');if(!img||on===PEELED||VEILING)return;
+ VEILING=true;
+ veilIn().then(function(){
+  if(on){
+   ORIG_HREF=ORIG_HREF||img.getAttribute('href');
+   prePeel={};SURFACE.forEach(function(id){const g=document.getElementById(id);prePeel[id]=!!(g&&g.style.display!=='none');if(g)g.style.display='none'});
+   const dg=document.getElementById('layer-deep');deepWas=!!(dg&&dg.style.display!=='none');
+   img.setAttribute('href','/static/maps/dev/base_underground_dev.png?v=1');
+   setLayer('layer-deep',true);
+   /* the Deep needs the whole stage: fold the layer panel away while peeled */
+   legendWasOpen=!document.getElementById('legend-panel').classList.contains('collapsed');
+   if(legendWasOpen)toggleLegend();
+  }else{
+   img.setAttribute('href',ORIG_HREF);
+   SURFACE.forEach(function(id){const g=document.getElementById(id);if(g)g.style.display=prePeel[id]?'':'none'});
+   setLayer('layer-deep',deepWas);
+   if(legendWasOpen&&document.getElementById('legend-panel').classList.contains('collapsed'))toggleLegend();
+  }
+  PEELED=on;syncUnder();syncToggles();saveState();
+  veilOut();
+  setTimeout(function(){VEILING=false},650);
+ });
+}
+
+/* persistence + deep links */
+const SKEY='ethraMapDev';
+function saveState(){const o={layers:{},peel:PEELED};LAYERS.forEach(function(L){const g=document.getElementById(L.id);o.layers[L.id]=!!(g&&g.style.display!=='none')});try{localStorage.setItem(SKEY,JSON.stringify(o))}catch(e){}}
+function loadState(){
+ let o=null;try{o=JSON.parse(localStorage.getItem(SKEY)||'null')}catch(e){}
+ const q=new URLSearchParams(location.search);
+ if(o&&!q.has('on')&&!q.has('off')){LAYERS.forEach(function(L){if(typeof o.layers[L.id]==='boolean')setLayer(L.id,o.layers[L.id])});if(o.peel)setPeel(true)}
+ if(q.has('off'))q.get('off').split(',').forEach(function(s){setLayer('layer-'+s.trim(),false)});
+ if(q.has('on'))q.get('on').split(',').forEach(function(s){setLayer('layer-'+s.trim(),true)});
+ if(q.has('peel'))setPeel(true);
+ syncToggles();
+}
+
+/* ═══════════════ search / jump ═══════════════ */
+let INDEX=[];
+function buildSearchIndex(){
+ const seen=new Set();INDEX=[];
+ const add=function(n,x,y,slug,kind){const k=n.toLowerCase();if(seen.has(k))return;seen.add(k);INDEX.push({n:n,x:x,y:y,slug:slug,kind:kind})};
+ ST.querySelectorAll('#layer-cities path[data-name]').forEach(function(el){const m=/M\s*(-?[\d.]+)[ ,]+(-?[\d.]+)/.exec(el.getAttribute('d')||'');if(m)add(el.getAttribute('data-name'),+m[1],+m[2],null,'city')});
+ ST.querySelectorAll('#layer-races circle[data-slug]').forEach(function(el){if(el.getAttribute('r')==='13'){const rd=RACE_DOSSIERS[el.getAttribute('data-slug')];add((rd&&rd.n)||el.getAttribute('data-slug'),+el.getAttribute('cx'),+el.getAttribute('cy'),el.getAttribute('data-slug'),'race')}});
+ ST.querySelectorAll('#layer-creatures circle[data-slug], #layer-under-dwellers circle[data-slug]').forEach(function(el){if(el.getAttribute('r')==='5')add(el.getAttribute('data-name')||el.getAttribute('data-slug'),+el.getAttribute('cx'),+el.getAttribute('cy'),el.getAttribute('data-slug'),'creature')});
+ FAITHS.forEach(function(f){add(f.n+' (faith)',f.x/100*SW,f.y/100*SH,null,'faith')});
+ [['Umbral Ring',19,55],['Rune Belt',40,37],['Steadfast Desert',52,58],['Flickermarch',70,25],['Tidepools',72,80]].forEach(function(b){add(b[0]+' (biome)',b[1]/100*SW,b[2]/100*SH,null,'biome')});
+ const dl=document.getElementById('ethra-index');dl.innerHTML='';INDEX.forEach(function(e){const op=document.createElement('option');op.value=e.n;dl.appendChild(op)});
+}
+function doSeek(){
+ const q=(document.getElementById('seek').value||'').trim().toLowerCase();if(!q)return;
+ const hit=INDEX.find(function(e){return e.n.toLowerCase()===q})||INDEX.find(function(e){return e.n.toLowerCase().startsWith(q)})||INDEX.find(function(e){return e.n.toLowerCase().indexOf(q)>=0});
+ if(!hit)return;
+ flyTo(hit.x,hit.y);
+ if(hit.kind==='city'&&CITY_DOSSIERS[hit.n])cityDossier(hit.n,CITY_DOSSIERS[hit.n]);
+ else if(hit.kind==='faith'){const f=FAITHS.find(function(x){return x.n+' (faith)'===hit.n});simpleDossier(f.n,'Faith of the '+f.race,f.d)}
+ else if(hit.kind==='biome')simpleDossier(hit.n,'Region of Ethra','One of the five canonical biomes of the painted surface.');
+ else if(hit.slug)beastDossier(hit.slug,hit.n);
+}
+document.getElementById('seek').addEventListener('keydown',function(e){if(e.key==='Enter')doSeek()});
+
+/* ═══════════════ runtime layers: faiths + deep veins ═══════════════ */
+function buildExtraLayers(svg){
+ const NS='http://www.w3.org/2000/svg',legend=svg.querySelector('#layer-legend');
+ const gf=document.createElementNS(NS,'g');gf.id='layer-faiths';
+ FAITHS.forEach(function(f){const x=f.x/100*SW,y=f.y/100*SH;
+  const star=document.createElementNS(NS,'path');
+  star.setAttribute('d','M '+x+' '+(y-11)+' L '+(x+4)+' '+(y-4)+' L '+(x+11)+' '+y+' L '+(x+4)+' '+(y+4)+' L '+x+' '+(y+11)+' L '+(x-4)+' '+(y+4)+' L '+(x-11)+' '+y+' L '+(x-4)+' '+(y-4)+' Z');
+  star.setAttribute('fill',f.c);star.setAttribute('fill-opacity','0.9');star.setAttribute('stroke','#0a0a12');star.setAttribute('stroke-width','1');star.setAttribute('data-faith',f.n);
+  const t=document.createElementNS(NS,'text');t.setAttribute('x',x);t.setAttribute('y',y-16);t.setAttribute('text-anchor','middle');
+  t.setAttribute('font-size','13');t.setAttribute('fill',f.c);t.setAttribute('stroke','#0a0a12');t.setAttribute('stroke-width','3');t.setAttribute('paint-order','stroke');t.setAttribute('font-weight','bold');t.setAttribute('data-faith',f.n);
+  t.textContent=f.n;gf.appendChild(star);gf.appendChild(t)});
+ const gd=document.createElementNS(NS,'g');gd.id='layer-deep';
+ const gu=document.getElementById('layer-under-dwellers')||gd;
+ [[[30,45],[38,52],[47,55],[56,58],[64,63]],[[56,58],[60,45],[66,32]],[[47,55],[45,68],[52,76]],[[64,63],[75,70],[88,84]]].forEach(function(v){
+  const p=document.createElementNS(NS,'path');let d='M '+(v[0][0]/100*SW)+' '+(v[0][1]/100*SH);
+  v.slice(1).forEach(function(pt){d+=' L '+(pt[0]/100*SW)+' '+(pt[1]/100*SH)});
+  p.setAttribute('d',d);p.setAttribute('fill','none');p.setAttribute('stroke','#3aa6a6');p.setAttribute('stroke-width','2.5');p.setAttribute('stroke-opacity','0.7');p.setAttribute('stroke-dasharray','1 7');p.setAttribute('stroke-linecap','round');
+  gd.appendChild(p)});
+ [['The Deep (heart)',56,58,'#3aa6a6',''],['Chi’Thak Swarm',78,72,'#c04040','chithak'],['Super-Organism',76,79,'#c04040','super-organism'],['Rooted Network',66,30,'#3aa6a6','rooted-threx']].forEach(function(nd){
+  const x=nd[1]/100*SW,y=nd[2]/100*SH;
+  const c=document.createElementNS(NS,'circle');c.setAttribute('cx',x);c.setAttribute('cy',y);c.setAttribute('r','9');c.setAttribute('fill',nd[3]);c.setAttribute('fill-opacity','0.5');c.setAttribute('stroke',nd[3]);c.setAttribute('stroke-width','2');c.setAttribute('data-name',nd[0]);if(nd[4])c.setAttribute('data-slug',nd[4]);else c.setAttribute('data-deep','1');
+  const t=document.createElementNS(NS,'text');t.setAttribute('x',x);t.setAttribute('y',y-14);t.setAttribute('text-anchor','middle');t.setAttribute('font-size','13');t.setAttribute('fill',nd[3]);t.setAttribute('stroke','#0a0a12');t.setAttribute('stroke-width','3');t.setAttribute('paint-order','stroke');t.setAttribute('data-name',nd[0]);if(nd[4])t.setAttribute('data-slug',nd[4]);else t.setAttribute('data-deep','1');t.textContent=nd[0];
+  /* the swarm and the super-organism live below: never above the surface */
+  const host=(nd[4]==='chithak'||nd[4]==='super-organism')?gu:gd;
+  host.appendChild(c);host.appendChild(t)});
+ svg.insertBefore(gf,legend);svg.insertBefore(gd,legend);
+}
+
+/* ═══════════════ load canon SVG inline ═══════════════ */
+async function loadCanon(){
+ const prog=document.getElementById('load-progress');
+ try{
+  prog.textContent='fetching canon map (3.6 MB)…';
+  const r=await fetch('/static/maps/dev/ethra_canon_dev.svg?v=r7');
+  if(!r.ok)throw new Error('HTTP '+r.status);
+  let txt=await r.text();
+  prog.textContent='injecting layers…';
+  /* MUST parse as XML: the HTML parser rewrites <image> to <img>, dropping href */
+  const doc=new DOMParser().parseFromString(txt,'image/svg+xml');
+  if(doc.getElementsByTagName('parsererror').length)throw new Error('svg xml parse error');
+  ST.innerHTML='';
+  ST.appendChild(document.importNode(doc.documentElement,true));
+  const svg=ST.querySelector('svg');
+  if(!svg)throw new Error('no svg root');
+  svg.setAttribute('width',SW);svg.setAttribute('height',SH);
+  svg.style.width=SW+'px';svg.style.height=SH+'px';
+  /* race rings are hollow: let the solid centre dot inherit the ring's slug so centre clicks/hovers work */
+  ST.querySelectorAll('#layer-races circle[data-slug]').forEach(function(ring){
+    const dot=ring.nextElementSibling;
+    if(dot&&dot.tagName==='circle'&&!dot.getAttribute('data-slug'))dot.setAttribute('data-slug',ring.getAttribute('data-slug'));
+    const lbl=dot?dot.nextElementSibling:null;
+    if(lbl&&lbl.tagName==='text'&&!lbl.getAttribute('data-slug'))lbl.setAttribute('data-slug',ring.getAttribute('data-slug'));
+  });
+  /* city name labels inherit the diamond's data-name */
+  ST.querySelectorAll('#layer-cities path[data-name]').forEach(function(dia){
+    const lbl=dia.nextElementSibling;
+    if(lbl&&lbl.tagName==='text'&&!lbl.getAttribute('data-name'))lbl.setAttribute('data-name',dia.getAttribute('data-name'));
+  });
+  /* creature marks are template-rendered from map-coordinates.json — the single source of
+     truth, exactly like the bestiary renders entries from its md sources. Adding a creature
+     now means: json entry + portrait file. No SVG surgery. */
+  prog.textContent='consulting the bestiary coordinates…';
+  try{
+    let cr=await fetch('/api/map/coordinates');
+    if(!cr.ok)cr=await fetch('/static/data/map-coordinates.json');
+    if(cr.ok){
+      const cj=await cr.json();
+      const clayer=svg.querySelector('#layer-creatures');
+      (cj.creatures||[]).forEach(function(c){
+        if(!c||!c.slug||!clayer)return;
+        if(c.image_full)META[c.slug]={b:c.biome,img:c.image_full};
+        const cx=Math.round(c.x_pct*24), cy=Math.round(c.y_pct*10);
+        const dot=document.createElementNS('http://www.w3.org/2000/svg','circle');
+        dot.setAttribute('cx',cx);dot.setAttribute('cy',cy);dot.setAttribute('r','5');
+        dot.setAttribute('fill','#8b2a2a');dot.setAttribute('stroke','#e8e2d0');dot.setAttribute('stroke-width','1.5');
+        dot.setAttribute('data-slug',c.slug);dot.setAttribute('data-name',c.name||'');
+        clayer.appendChild(dot);
+        const t=document.createElementNS('http://www.w3.org/2000/svg','text');
+        t.setAttribute('x',cx+4);t.setAttribute('y',cy+18);
+        t.setAttribute('fill','#e8e2d0');t.setAttribute('font-size','12');t.setAttribute('text-anchor','middle');
+        t.setAttribute('stroke','#0a1628');t.setAttribute('stroke-width','4');t.setAttribute('paint-order','stroke');
+        t.setAttribute('stroke-linejoin','round');t.setAttribute('opacity','0.95');
+        t.textContent=c.name||c.slug;
+        clayer.appendChild(t);
+      });
+    }
+  }catch(e){console.warn('creature coordinate injection skipped:',e&&e.message)}
+  /* creature marks are tiny: add invisible hit circles + make their labels interactive */
+  ST.querySelectorAll('#layer-creatures circle[data-slug]').forEach(function(dot){
+    const hit=document.createElementNS('http://www.w3.org/2000/svg','circle');
+    hit.setAttribute('cx',dot.getAttribute('cx'));hit.setAttribute('cy',dot.getAttribute('cy'));
+    hit.setAttribute('r','24');hit.setAttribute('fill','#000');hit.setAttribute('fill-opacity','0');
+    hit.setAttribute('pointer-events','all');
+    hit.setAttribute('data-slug',dot.getAttribute('data-slug'));hit.setAttribute('data-name',dot.getAttribute('data-name')||'');
+    dot.parentNode.insertBefore(hit,dot);
+    const lbl=dot.nextElementSibling;
+    if(lbl&&lbl.tagName==='text'&&!lbl.getAttribute('data-slug')){lbl.setAttribute('data-slug',dot.getAttribute('data-slug'));lbl.setAttribute('data-name',dot.getAttribute('data-name')||'');}
+  });
+  /* underground dwellers belong beneath: lift their marks out of the surface */
+  (function(){
+   var UNDER={'mycelial-deep':1,'rooted-threx':1,'abyssal-heart':1};
+   var ug=document.createElementNS('http://www.w3.org/2000/svg','g');
+   ug.id='layer-under-dwellers';ug.style.display='none';
+   svg.appendChild(ug);
+   Array.prototype.slice.call(ST.querySelectorAll('#layer-creatures [data-slug]')).forEach(function(el){
+     if(UNDER[el.getAttribute('data-slug')])ug.appendChild(el);
+   });
+   syncUnder();
+  })();
+  buildExtraLayers(svg);
+  /* apply default layer states, then saved/linked state overrides */
+  LAYERS.forEach(function(L){setLayer(L.id,L.def)});
+  buildLegend();
+  loadState();
+  /* small screens: the map is the first sight — fold the panel away */
+  if(window.innerWidth<860){const lp=document.getElementById('legend-panel');if(lp&&!lp.classList.contains('collapsed'))toggleLegend();}
+  buildSearchIndex();
+  fitView();
+  /* phone viewports settle late (url bars, rotation): refit once, until touched */
+  setTimeout(function(){if(!USER_MOVED)fitView()},600);
+  document.getElementById('loading').style.display='none';
+  console.log('Ethra canon map DEV v1 — peel, faiths, search, persistence live');
+ }catch(err){
+  prog.textContent='failed to load canon map: '+err.message;
+ }
+}
+loadCanon();
+/* subtle page transition: fade out when leaving via the site bar */
+document.querySelectorAll('#site-nav a[href]').forEach(function(a){a.addEventListener('click',function(e){if(e.metaKey||e.ctrlKey||e.shiftKey)return;e.preventDefault();var u=a.getAttribute('href');document.body.classList.add('leaving');setTimeout(function(){location.href=u},280)})});
+</script>
+</body>
+</html>

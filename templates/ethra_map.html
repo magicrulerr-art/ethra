@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ethra — The Complete Map</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:'Segoe UI',system-ui,sans-serif;background:#0a0a12;color:#e0d8c8;overflow:hidden;height:100vh}
+#map{width:100vw;height:100vh;background:#0f1621}
+.leaflet-container{background:#0f1621!important}
+.leaflet-control-zoom{border:1px solid #3a2e1c!important}
+.leaflet-control-zoom a{background:#1a1510!important;color:#c8b890!important;border-color:#3a2e1c!important}
+
+#legend-panel{position:fixed;top:0;right:0;width:340px;height:100vh;background:linear-gradient(180deg,#1a1510f5 0%,#120e0af5 100%);border-left:2px solid #4a3e2c;z-index:1000;overflow-y:auto;transition:transform 0.35s;backdrop-filter:blur(12px)}
+#legend-panel.collapsed{transform:translateX(340px)}
+#legend-toggle{position:fixed;top:18px;right:18px;z-index:1001;background:#1a1510;color:#c8b890;border:1px solid #4a3e2c;border-radius:4px;padding:6px 12px;cursor:pointer;font-size:13px;transition:right 0.35s}
+#legend-toggle.shifted{right:358px}
+#legend-panel h2{font-size:16px;color:#d4af37;text-align:center;padding:14px 10px 6px;border-bottom:1px solid #3a2e1c;margin-bottom:6px;letter-spacing:2px}
+.subtitle{font-size:10px;color:#8a7a5a;text-align:center;margin-bottom:14px}
+.layer-group{margin:0 10px 12px;border:1px solid #2a2018;border-radius:4px;overflow:hidden}
+.layer-group-header{background:#1a1510;padding:8px 12px;cursor:pointer;display:flex;align-items:center;gap:8px;user-select:none;font-size:13px;font-weight:600}
+.layer-group-header:hover{background:#2a2018}
+.layer-body{display:none;padding:6px 12px 10px;font-size:11px;color:#9a8a6a;background:#0f0e0a}
+.layer-group.open .layer-body{display:block}
+.toggle-row{display:flex;align-items:center;justify-content:space-between;margin:4px 0}
+.toggle-row label{font-size:11px;color:#c8b890}
+.toggle-switch{position:relative;width:36px;height:20px}
+.toggle-switch input{opacity:0;width:0;height:0}
+.toggle-slider{position:absolute;cursor:pointer;top:0;left:0;right:0;bottom:0;background:#2a2018;border-radius:10px;transition:.3s}
+.toggle-slider:before{position:absolute;content:'';height:14px;width:14px;left:3px;bottom:3px;background:#c8b890;border-radius:50%;transition:.3s}
+.toggle-switch input:checked+.toggle-slider{background:#4a6a3a}
+.toggle-switch input:checked+.toggle-slider:before{transform:translateX(16px)}
+.count{font-size:10px;color:#6a5a3a;margin-top:4px}
+
+#dossier{position:fixed;bottom:0;left:50%;transform:translateX(-50%);width:700px;max-width:calc(100vw - 360px);background:linear-gradient(180deg,#1a1510fa 0%,#120e0afa 100%);border:2px solid #4a3e2c;border-bottom:none;border-radius:8px 8px 0 0;z-index:1002;overflow-y:auto;transition:transform 0.4s;padding:16px 20px;color:#e0d8c8;font-size:13px}
+#dossier.hidden{transform:translateX(-50%) translateY(100%)}
+#dossier h3{color:#d4af37;font-size:18px;margin-bottom:4px}
+.stat-row{display:flex;flex-wrap:wrap;gap:12px;margin:6px 0}
+.stat{background:#1a1510;padding:4px 10px;border-radius:3px;font-size:11px}
+.stat strong{color:#c8b890}
+.close-btn{position:absolute;top:8px;right:12px;background:none;border:none;color:#8a7a5a;font-size:20px;cursor:pointer}
+.close-btn:hover{color:#d4af37}
+
+.ethra-tooltip{position:fixed;pointer-events:none;background:#1a1510ee;color:#e0d8c8;border:1px solid #4a3e2c;border-radius:4px;padding:8px 12px;font-size:12px;z-index:1003;max-width:280px;line-height:1.4}
+.ethra-tooltip strong{color:#d4af37}
+
+.region-label{position:absolute;pointer-events:none;font-size:14px;font-weight:700;text-shadow:0 1px 3px #000,0 0 10px #00000088;text-align:center;transform:translate(-50%,-50%);z-index:500;letter-spacing:1px;opacity:0.8}
+
+#loading{position:fixed;top:50%;left:50%;transform:translate(-50%,-50%);background:#1a1510dd;color:#d4af37;padding:20px 40px;border:2px solid #4a3e2c;border-radius:8px;z-index:9999;font-size:14px;letter-spacing:2px;text-align:center}
+#loading .progress{font-size:11px;color:#8a7a5a;margin-top:6px}
+</style>
+</head>
+<body>
+<div id="map"></div>
+<div id="loading">Unfurling the Scroll of Ethra…<div class="progress" id="load-progress"></div></div>
+<button id="legend-toggle" onclick="toggleLegend()">☰ Layers</button>
+
+<div id="legend-panel">
+<h2>⚔ Ethra · The Complete Map</h2>
+<div class="subtitle">10 layers — click headers to toggle</div>
+
+<div class="layer-group open">
+<div class="layer-group-header" onclick="this.parentElement.classList.toggle('open')"><span style="width:14px;height:14px;border-radius:2px;flex-shrink:0;background:linear-gradient(135deg,#4a6a3a,#c8b090)"></span>1. Landmass<span style="font-size:10px;margin-left:auto">▶</span></div>
+<div class="layer-body"><div style="margin-bottom:6px"><strong>Pangea-Ethra</strong> — single supercontinent, polar Umbral Ring to southern Flickermarch</div>
+<div class="toggle-row"><label>Show landmass</label><label class="toggle-switch"><input type="checkbox" checked onchange="toggleLayer('landmass',this.checked)"><span class="toggle-slider"></span></label></div>
+<div class="count">SVG: landmass_v2.svg</div></div></div>
+
+<div class="layer-group">
+<div class="layer-group-header" onclick="this.parentElement.classList.toggle('open')"><span style="width:14px;height:14px;border-radius:2px;flex-shrink:0;background:linear-gradient(135deg,#80c0d0,#4a8a3a,#c8a050,#6a4a2a,#40a0c0)"></span>2. Biomes<span style="font-size:10px;margin-left:auto">▶</span></div>
+<div class="layer-body"><div style="margin-bottom:6px"><strong>5 surface biomes:</strong> Umbral Ring · Rune Belt · Steadfast Desert · Flickermarch · Tidepools</div>
+<div class="toggle-row"><label>Show biomes</label><label class="toggle-switch"><input type="checkbox" onchange="toggleLayer('biomes',this.checked)"><span class="toggle-slider"></span></label></div>
+<div class="count">SVG: biomes_v2.svg</div></div></div>
+
+<div class="layer-group">
+<div class="layer-group-header" onclick="this.parentElement.classList.toggle('open')"><span style="width:14px;height:14px;border-radius:2px;flex-shrink:0;background:linear-gradient(135deg,#2a4a1a,#8a6a3a,#c8b090)"></span>3. Elevation<span style="font-size:10px;margin-left:auto">▶</span></div>
+<div class="layer-body"><div style="margin-bottom:6px" id="hmap-count">Loading...</div>
+<div class="toggle-row"><label>Show heightmap</label><label class="toggle-switch"><input type="checkbox" onchange="toggleLayer('heightmap',this.checked)"><span class="toggle-slider"></span></label></div>
+<div class="count">SVG: heightmap_v2.svg</div></div></div>
+
+<div class="layer-group">
+<div class="layer-group-header" onclick="this.parentElement.classList.toggle('open')"><span style="width:14px;height:14px;border-radius:2px;flex-shrink:0;background:#66c2a5"></span>4. States / Political<span style="font-size:10px;margin-left:auto">▶</span></div>
+<div class="layer-body"><div style="margin-bottom:6px">Rune Belt Kingdom · Stygian Protectorate · Umbral Enclave · Tidepool Shallows · and others</div>
+<div class="toggle-row"><label>Show states</label><label class="toggle-switch"><input type="checkbox" onchange="toggleLayer('states',this.checked)"><span class="toggle-slider"></span></label></div>
+<div class="count">SVG: states_v2.svg</div></div></div>
+
+<div class="layer-group">
+<div class="layer-group-header" onclick="this.parentElement.classList.toggle('open')"><span style="width:14px;height:14px;border-radius:2px;flex-shrink:0;background:#fb8072"></span>5. Cultures / Peoples<span style="font-size:10px;margin-left:auto">▶</span></div>
+<div class="layer-body"><div style="margin-bottom:6px"><strong>7 sentient races:</strong> Wengari <span style="font-size:10px;color:#8a7a5a">(Shadow/Mottled/Bright/Stripe/Snow Paws)</span> · Pyrinae · Dragari · Threx · Hummans · Chi'Thak · Veylar</div>
+<div class="toggle-row"><label>Show cultures</label><label class="toggle-switch"><input type="checkbox" onchange="toggleLayer('cultures',this.checked)"><span class="toggle-slider"></span></label></div>
+<div class="count">SVG: cultures_v2.svg</div></div></div>
+
+<div class="layer-group">
+<div class="layer-group-header" onclick="this.parentElement.classList.toggle('open')"><span style="width:14px;height:14px;border-radius:2px;flex-shrink:0;background:#80b1d3"></span>6. Religions / Faiths<span style="font-size:10px;margin-left:auto">▶</span></div>
+<div class="layer-body"><div style="margin-bottom:6px"><strong>5 faiths:</strong> Testing Fire (Wengari) · Cosmic Calendar (Pyrinae) · Great Song (Dragari) · The Feast (Chi'Thak) · The Shadow (Hummans)</div>
+<div class="toggle-row"><label>Show religions</label><label class="toggle-switch"><input type="checkbox" onchange="toggleLayer('religions',this.checked)"><span class="toggle-slider"></span></label></div>
+<div class="count">SVG: religions_v2.svg</div></div></div>
+
+<div class="layer-group">
+<div class="layer-group-header" onclick="this.parentElement.classList.toggle('open')"><span style="width:14px;height:14px;border-radius:2px;flex-shrink:0;background:#c8a050"></span>7. Canonical Cities<span style="font-size:10px;margin-left:auto">▶</span></div>
+<div class="layer-body"><div style="margin-bottom:6px"><strong>3 named cities:</strong> Verdantis (Humman capital) · Styxian (Wengari capital) · Vey'sul (Fourth Tyrant's frozen city)<br><em style="color:#d4af37">Click markers for council dossiers.</em></div>
+<div class="toggle-row"><label>Show cities</label><label class="toggle-switch"><input type="checkbox" onchange="toggleLayer('cities',this.checked)"><span class="toggle-slider"></span></label></div>
+<div class="count">Source: world.md canon</div></div></div>
+
+<div class="layer-group">
+<div class="layer-group-header" onclick="this.parentElement.classList.toggle('open')"><span style="width:14px;height:14px;border-radius:2px;flex-shrink:0;background:#b8a040"></span>8. Trade Routes<span style="font-size:10px;margin-left:auto">▶</span></div>
+<div class="layer-body"><div style="margin-bottom:6px" id="trade-count">Loading...</div>
+<div class="toggle-row"><label>Show trade routes</label><label class="toggle-switch"><input type="checkbox" onchange="toggleLayer('trade',this.checked)"><span class="toggle-slider"></span></label></div>
+<div class="count">Data: routes_v2.json</div></div></div>
+
+<div class="layer-group">
+<div class="layer-group-header" onclick="this.parentElement.classList.toggle('open')"><span style="width:14px;height:14px;border-radius:2px;flex-shrink:0;background:#8a3030"></span>9. Military Routes<span style="font-size:10px;margin-left:auto">▶</span></div>
+<div class="layer-body"><div style="margin-bottom:6px" id="military-count">Loading...</div>
+<div class="toggle-row"><label>Show military routes</label><label class="toggle-switch"><input type="checkbox" onchange="toggleLayer('military',this.checked)"><span class="toggle-slider"></span></label></div>
+<div class="count">Data: routes_v2.json</div></div></div>
+
+<div class="layer-group">
+<div class="layer-group-header" onclick="this.parentElement.classList.toggle('open')"><span style="width:14px;height:14px;border-radius:2px;flex-shrink:0;background:#8a4a6a"></span>10. Creature Regions<span style="font-size:10px;margin-left:auto">▶</span></div>
+<div class="layer-body"><div style="margin-bottom:6px"><strong>7 sentient species</strong> mapped to native biomes. <em style="color:#d4af37">Click cities for cross-reference.</em></div>
+<div class="toggle-row"><label>Show regions</label><label class="toggle-switch"><input type="checkbox" onchange="toggleLayer('creatures',this.checked)"><span class="toggle-slider"></span></label></div></div></div>
+</div>
+
+<div id="dossier" class="hidden">
+<button class="close-btn" onclick="document.getElementById('dossier').classList.add('hidden')">✕</button>
+<div id="dossier-content"></div>
+</div>
+<div id="tooltip" class="ethra-tooltip" style="display:none"></div>
+
+<meta id="ethra-prefix" data-prefix="/ethra">
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+const PREFIX = '';
+const BOUNDS=[[0,0],[481,756]];
+const map=L.map('map',{crs:L.CRS.Simple,minZoom:-1,maxZoom:4,zoomSnap:0.25,attributionControl:false}).fitBounds(BOUNDS);
+
+var routes=[],cellsFeatures=[],cellsLookup={};
+var tooltip=document.getElementById('tooltip');
+
+const SVGs={
+  landmass:L.imageOverlay(PREFIX+'/static/maps/landmass_v2.svg',BOUNDS,{opacity:0.85}),
+  biomes:L.imageOverlay(PREFIX+'/static/maps/biomes_v2.svg',BOUNDS,{opacity:0.80}),
+  heightmap:L.imageOverlay(PREFIX+'/static/maps/heightmap_v2.svg',BOUNDS,{opacity:0.75}),
+  states:L.imageOverlay(PREFIX+'/static/maps/states_v2.svg',BOUNDS,{opacity:0.70}),
+  cultures:L.imageOverlay(PREFIX+'/static/maps/cultures_v2.svg',BOUNDS,{opacity:0.65}),
+  religions:L.imageOverlay(PREFIX+'/static/maps/religions_v2.svg',BOUNDS,{opacity:0.65})
+};
+
+const groups={};
+['landmass','biomes','heightmap','states','cultures','religions','cities','trade','military','creatures'].forEach(function(n){groups[n]=L.layerGroup()});
+for(var k in SVGs){SVGs[k].addTo(groups[k])}
+
+function toggleLegend(){var p=document.getElementById('legend-panel'),t=document.getElementById('legend-toggle');p.classList.toggle('collapsed');t.classList.toggle('shifted')}
+function toggleLayer(n,v){if(v)groups[n].addTo(map);else map.removeLayer(groups[n])}
+function showTooltip(h,x,y){tooltip.innerHTML=h;tooltip.style.display='block';tooltip.style.left=Math.min(x+16,window.innerWidth-290)+'px';tooltip.style.top=Math.min(y-10,window.innerHeight-80)+'px'}
+function hideTooltip(){tooltip.style.display='none'}
+document.addEventListener('mousemove',function(e){if(tooltip.style.display==='block'){tooltip.style.left=Math.min(e.clientX+16,window.innerWidth-290)+'px';tooltip.style.top=Math.min(e.clientY-10,window.innerHeight-80)+'px'}});
+
+// ── Region Labels ────────────────────────────────────
+function addRegionLabels(){
+  [{t:'UMBRAL RING',y:35,c:'#80c0d0'},{t:'RUNE BELT',y:195,c:'#4a8a3a'},{t:'STEADFAST DESERT',y:285,c:'#c8a050'},{t:'FLICKERMARCH',y:380,c:'#6a4a2a'},{t:'W TIDEPOOLS',y:465,x:55,c:'#40a0c0'},{t:'E TIDEPOOLS',y:465,x:700,c:'#40a0c0'}].forEach(function(l){var d=document.createElement('div');d.className='region-label';d.textContent=l.t;d.style.top=l.y+'px';d.style.left=(l.x||380)+'px';d.style.color=l.c;document.getElementById('map').appendChild(d)});
+}
+
+// ── Canonical Cities (world.md) ──────────────────────
+function buildCities(){
+  var cities=[
+    {n:'Verdantis',x:430,y:210,r:'Hummans',f:'The Shadow',s:'Rune Belt Kingdom',d:'Humman capital. Trade hub of the Rune Belt. Pearly Scorpion mounts exported across Ethra. The youngest race\'s seat of power.',c:'#60a050'},
+    {n:'Styxian',x:370,y:140,r:'Wengari (Bright Paws)',f:'Testing Fire',s:'Rune Belt Kingdom',d:'Wengari capital. Seat of the Bright Paw Royal Family, undisputed martial masters of Ethra. Home of the White Death.',c:'#d4af37'},
+    {n:"Vey'sul",x:65,y:156,r:'Veylar',f:'The Abyss',s:'Tidepool Shallows',d:'Frozen city of the Fourth Tyrant Xal\'thyra the Tidebreaker. The Great Stillness — time stands still within its coral spires.',c:'#40a0c0'}
+  ];
+  cities.forEach(function(c){
+    var ic=L.divIcon({className:'',html:'<div style="transform:translate(-50%,-50%);text-align:center"><div style="width:12px;height:12px;background:'+c.c+';border:2px solid #3a2e1c;border-radius:50%;opacity:0.9"></div><span style="font-size:10px;color:#d4af37;font-weight:700;text-shadow:0 1px 3px #000;white-space:nowrap">'+c.n+'</span></div>',iconSize:[120,24],iconAnchor:[60,0]});
+    var m=L.marker([c.y,c.x],{icon:ic});
+    m.on('click',function(ct){return function(e){L.DomEvent.stopPropagation(e);var p=document.getElementById('dossier');p.classList.remove('hidden');document.getElementById('dossier-content').innerHTML='<h3>'+ct.n+'</h3><div style="color:#8a7a5a;font-size:11px;margin-bottom:10px">'+ct.s+'</div><div class="stat-row"><span class="stat"><strong>Race:</strong> '+ct.r+'</span><span class="stat"><strong>Faith:</strong> '+ct.f+'</span></div><p style="margin-top:8px;color:#c8b890;line-height:1.5">'+ct.d+'</p><p style="margin-top:4px;color:#8a7a5a;font-style:italic">Referenced in world.md canon</p>'}}(c)});
+    m.on('mouseover',function(ct){return function(e){showTooltip('<strong>'+ct.n+'</strong><br>'+ct.r+' · '+ct.f,e.originalEvent.clientX,e.originalEvent.clientY)}}(c));
+    m.on('mouseout',hideTooltip);
+    m.addTo(groups.cities);
+  });
+}
+
+// ── Creature Region Markers (7 races) ────────────────
+function buildCreatures(){
+  [{n:'WENGARI',y:195,x:380,c:'#8a4a6a',sub:'5 families: Shadow · Mottled · Bright · Stripe · Snow Paws'},{n:'DRAGARI',y:45,x:380,c:'#80c0d0',sub:'Umbral Ring — Song-keepers'},{n:'PYRINAE',y:285,x:380,c:'#c8a050',sub:'Steadfast Desert — Astronomers'},{n:'THREX',y:375,x:380,c:'#4a8a4a',sub:'Flickermarch — Mycelial children'},{n:'HUMMANS',y:160,x:430,c:'#c8b890',sub:'Rune Belt — Youngest race'},{n:'VEYLAR',y:465,x:55,c:'#40a0c0',sub:'W Tidepools — Never bested'},{n:'VEYLAR',y:465,x:700,c:'#40a0c0',sub:'E Tidepools'}].forEach(function(cr){
+    var ic=L.divIcon({className:'',html:'<div style="text-align:center;color:'+cr.c+';font-size:11px;font-weight:700;text-shadow:0 1px 3px #000;white-space:nowrap;letter-spacing:1px">'+cr.n+'<br><span style="font-size:9px;font-weight:400;color:#8a7a5a">'+cr.sub+'</span></div>',iconSize:[220,36],iconAnchor:[110,18]});
+    L.marker([cr.y,cr.x],{icon:ic,interactive:false}).addTo(groups.creatures);
+  });
+}
+
+// ── Trade & Military Routes ─────────────────────────
+function buildRoutes(){
+  var tr=0,mr=0;
+  routes.forEach(function(r){
+    if(!r.points||r.points.length<2)return;
+    var ll=r.points.map(function(p){return[p[1],p[0]]});
+    var trade=r.type==='trade';
+    var line=L.polyline(ll,{color:trade?'#b8a040':'#8a3030',weight:trade?1.5:1,opacity:trade?0.55:0.45,dashArray:trade?null:'6 4'});
+    if(r.name)line.bindTooltip(r.name,{sticky:false,opacity:0.8});
+    line.addTo(trade?groups.trade:groups.military);
+    trade?tr++:mr++;
+  });
+  document.getElementById('trade-count').textContent=tr+' trade routes rendered';
+  document.getElementById('military-count').textContent=mr+' military paths rendered';
+}
+
+// ── Cell Spatial Index ──────────────────────────────
+function buildCellIndex(){
+  if(!cellsFeatures)return;
+  cellsFeatures.forEach(function(f){
+    var p=f.properties;if(!p)return;
+    var c=f.geometry&&f.geometry.coordinates&&f.geometry.coordinates[0];
+    if(!c||c.length<3)return;
+    var cx=0,cy=0;for(var i=0;i<c.length-1;i++){cx+=c[i][0];cy+=c[i][1];}
+    cx/=c.length-1;cy/=c.length-1;
+    var k=Math.round(cx/5)*5+','+Math.round(cy/5)*5;
+    if(!cellsLookup[k])cellsLookup[k]=[];cellsLookup[k].push(p);
+  });
+  document.getElementById('hmap-count').textContent=cellsFeatures.length+' land cells indexed';
+}
+
+// ── Load All ────────────────────────────────────────
+var step=0,total=3;
+function prog(m){step++;document.getElementById('load-progress').textContent='['+step+'/'+total+'] '+m;if(step>=total){setTimeout(function(){document.getElementById('loading').style.display='none';addRegionLabels();groups.landmass.addTo(map)},400)}}
+
+async function loadAll(){
+  var ro=await fetch(PREFIX+'/static/maps/routes_v2_data.geojson');routes=await ro.json();prog('Routes: '+routes.length);
+  var ce=await fetch(PREFIX+'/static/maps/cells_v2.geojson');var geo=await ce.json();cellsFeatures=geo.features;prog('Cells: '+(cellsFeatures?cellsFeatures.length:0));
+  buildCellIndex();buildCities();buildCreatures();buildRoutes();prog('Map ready — 3 canonical cities, 7 races');
+  console.log('Ethra Map v2 — lore-accurate');
+}
+loadAll();
+</script>
+</body>
+</html>

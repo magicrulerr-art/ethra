@@ -1,0 +1,335 @@
+/*
+ * Arc 5 War-Dispatch Timeline — Option A (Bare-clock metronome)
+ * ----------------------------------------------------------------------------
+ * Three visual layers, that's it:
+ *   1. The rail (single horizontal line with hour-callouts).
+ *   2. 22 small dots, evenly distributed across the rail by minute.
+ *   3. 5 accent markers (one per med chapter) — small filled circles.
+ *   4. (Optional, after the bar) 1 vertical "now" indicator line.
+ *
+ * No medallion rings. No lane-stagger. No per-tick HH:MM labels.
+ * No rail-edge dots. No meta line below. No mini-title hovering bar.
+ * No image wells for medallions.
+ *
+ * A reader will hold this for less than a second before clicking —
+ * the simpler the better. Pure clock, metronome.
+ * ----------------------------------------------------------------------------
+ */
+.Arc5Timeline {
+  display: none;
+  position: relative;
+  margin: 28px auto 24px;
+  padding: 18px 32px 14px;
+  background: linear-gradient(180deg, rgba(15, 30, 54, 0.55) 0%, rgba(10, 22, 40, 0.7) 100%);
+  border: 1px solid #1a2a40;
+  border-radius: 12px;
+  box-shadow: inset 0 0 22px rgba(0, 0, 0, 0.35);
+  user-select: none;
+}
+.Arc5Timeline.active { display: block; }
+
+.Arc5Timeline .timeline-label {
+  font-family: Georgia, serif;
+  font-size: 0.78rem;
+  letter-spacing: 4px;
+  color: var(--steadfast);
+  text-transform: uppercase;
+  margin-bottom: 16px;
+  border-bottom: 1px solid rgba(201, 160, 89, 0.18);
+  padding-bottom: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+.Arc5Timeline .timeline-label .sepia-seconds {
+  font-family: 'Courier New', monospace;
+  font-size: 0.95rem;
+  letter-spacing: 2px;
+  color: var(--text-secondary);
+  text-transform: none;
+  opacity: 0.85;
+}
+
+/* One single rail line, top of the body */
+.Arc5Timeline .rail-row {
+  position: relative;
+  height: 38px;
+  padding: 0 0;
+  margin-bottom: 8px;
+}
+
+/* The progressed fill that grows from left edge to the active chapter. */
+.Arc5Timeline .rail-fill {
+  position: absolute;
+  top: 18px;
+  left: 0;
+  height: 2px;
+  background: linear-gradient(90deg,
+    rgba(201, 160, 89, 0.95) 0%,
+    rgba(201, 160, 89, 0.95) 78%,
+    rgba(196, 71, 71, 0.95) 100%);
+  border-radius: 2px;
+  transition: width 0.18s ease;
+  z-index: 1;
+}
+
+.Arc5Timeline .rail-track {
+  position: absolute;
+  top: 19px;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background: #1a2a40;
+  z-index: 0;
+}
+
+/* 22 dots on the rail — sized small and uniform. After the slider was added,
+ * we de-emphasize non-med dots so the slider becomes the primary input.
+ * Dots still click (we don't break the original metronome); med dots keep
+ * full opacity because they carry the hover illustration. */
+.Arc5Timeline .tick {
+  position: absolute;
+  top: 14px;
+  width: 6px;
+  height: 6px;
+  margin-left: -3px;
+  border-radius: 50%;
+  background: #8b6e3a;        /* --steadfast-dim */
+  border: none;
+  cursor: pointer;
+  opacity: 0.42;             /* de-emphasized — slider is the way */
+  transition: transform 0.15s ease, background 0.15s ease, width 0.15s ease, height 0.15s ease, opacity 0.15s ease;
+  z-index: 2;
+}
+.Arc5Timeline .tick:hover {
+  background: var(--steadfast);
+  width: 10px;
+  height: 10px;
+  margin-left: -5px;
+  margin-top: -2px;
+  opacity: 1;
+}
+.Arc5Timeline .tick.active {
+  opacity: 1;
+}
+
+/* 5 med markers — same shape, just a different color & slightly larger */
+.Arc5Timeline .med {
+  position: absolute;
+  top: 10px;
+  width: 14px;
+  height: 14px;
+  margin-left: -7px;
+  border-radius: 50%;
+  background: rgba(201, 160, 89, 0.95);
+  border: 2px solid #0a1628;
+  box-shadow: 0 0 8px rgba(201, 160, 89, 0.55);
+  cursor: pointer;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+  z-index: 4;
+  /* When an illustration is present, reveal it as a hovering bubble ABOVE
+   * the dot on :hover, keeping the bare-clock grammar that's running the bar. */
+}
+.Arc5Timeline .med::after {
+  content: '';
+  position: absolute;
+  bottom: 22px;
+  left: 50%;
+  transform: translateX(-50%) translateY(4px);
+  width: 88px;
+  height: 88px;
+  background-color: #1a1208;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border: 2px solid var(--steadfast);
+  border-radius: 50%;
+  box-shadow: 0 0 14px rgba(201, 160, 89, 0.55), inset 0 0 14px rgba(201, 160, 89, 0.18);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+}
+.Arc5Timeline .med[data-illust]::after {
+  background-image: var(--med-illust, none);
+}
+.Arc5Timeline .med.flicker { background: rgba(196, 71, 71, 0.95); box-shadow: 0 0 8px rgba(196, 71, 71, 0.55); }
+.Arc5Timeline .med:hover {
+  transform: scale(1.25);
+}
+.Arc5Timeline .med:hover::after {
+  opacity: 1;
+  transform: translateX(-50%) translateY(0);
+}
+
+/* When a med has an illustration, the dot becomes a small sepia+ink pip,
+ * still clickable, with the bubble revealing on hover. */
+.Arc5Timeline .med[data-illust] {
+  background: transparent;
+  box-shadow: 0 0 0 2px rgba(196, 181, 145, 0.8), 0 0 6px rgba(201, 160, 89, 0.55);
+  border-color: transparent;
+}
+
+/* Active state — same dots gain a thicker ring */
+.Arc5Timeline .tick.active,
+.Arc5Timeline .med.active {
+  background: var(--flicker-bright);
+  box-shadow: 0 0 0 3px rgba(196, 71, 71, 0.35), 0 0 8px rgba(196, 71, 71, 0.6);
+}
+
+/* Vertical "now" indicator, small flag above the active chapter location */
+.Arc5Timeline .now-flag {
+  position: absolute;
+  top: -4px;
+  width: 1px;
+  height: 24px;
+  margin-left: 0;
+  background: var(--flicker-bright);
+  box-shadow: 0 0 6px rgba(196, 71, 71, 0.5);
+  z-index: 5;
+  pointer-events: none;
+  transition: left 0.18s ease;
+}
+.Arc5Timeline .now-flag::before {
+  content: '';
+  position: absolute;
+  top: -5px;
+  left: -4px;
+  width: 9px;
+  height: 5px;
+  background: var(--flicker-bright);
+  clip-path: polygon(50% 100%, 0 0, 100% 0);
+}
+
+/* Hour train — letters live below the rail, not above. Big and spaced. */
+.Arc5Timeline .hour-train {
+  display: flex;
+  justify-content: space-between;
+  margin: 28px 6px 0;
+  font-family: Georgia, serif;
+  font-size: 0.62rem;
+  letter-spacing: 3px;
+  color: var(--text-secondary);
+  text-transform: uppercase;
+}
+.Arc5Timeline .hour-train .h {
+  font-weight: bold;
+  letter-spacing: 4px;
+  color: var(--steadfast);
+  opacity: 0.75;
+}
+.Arc5Timeline .hour-train .h.flicker { color: var(--flicker-bright); }
+
+/* ─────────────────────────────────────────────────────────────────────
+ * Slider row — primary navigation input for Arc 5.
+ * The horizontal range lives BELOW the rail. Dragging the thumb snaps
+ * the "now" flag onto the closest chapter and writes its title below.
+ * Slider thumb = same crimson as the now flag (reads as the same family).
+ * ───────────────────────────────────────────────────────────────────── */
+.Arc5Timeline .slider-row {
+  position: relative;
+  margin: 14px 8px 4px;
+  height: 22px;
+  display: flex;
+  align-items: center;
+}
+.Arc5Timeline input[type="range"].arc5-slider {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 100%;
+  height: 4px;
+  background: transparent;
+  cursor: grab;
+  outline: none;
+  z-index: 6;
+}
+.Arc5Timeline input[type="range"].arc5-slider:active {
+  cursor: grabbing;
+}
+/* WebKit track */
+.Arc5Timeline input[type="range"].arc5-slider::-webkit-slider-runnable-track {
+  height: 4px;
+  background: rgba(26, 42, 64, 0.95);
+  border-radius: 2px;
+  border-top: 1px solid rgba(196, 181, 145, 0.18);
+}
+/* WebKit thumb */
+.Arc5Timeline input[type="range"].arc5-slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: var(--flicker-bright);
+  border: 2px solid var(--steadfast);
+  box-shadow:
+    0 0 8px rgba(196, 71, 71, 0.7),
+    0 0 0 1px rgba(10, 22, 40, 0.85);
+  margin-top: -7px;
+  cursor: grab;
+}
+.Arc5Timeline input[type="range"].arc5-slider::-webkit-slider-thumb:active {
+  cursor: grabbing;
+  transform: scale(1.12);
+}
+/* Mozilla track + thumb */
+.Arc5Timeline input[type="range"].arc5-slider::-moz-range-track {
+  height: 4px;
+  background: rgba(26, 42, 64, 0.95);
+  border-radius: 2px;
+}
+.Arc5Timeline input[type="range"].arc5-slider::-moz-range-thumb {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: var(--flicker-bright);
+  border: 2px solid var(--steadfast);
+  box-shadow: 0 0 8px rgba(196, 71, 71, 0.7);
+  cursor: grab;
+}
+
+/* Chapter-title readout. Lives BELOW the slider, replaces the small
+ * HH:MM text in the top label. As the user scrubs, they see exactly
+ * which chapter they're about to open. */
+.Arc5Timeline .chapter-readout {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  margin: 6px 6px 0;
+  font-family: Georgia, serif;
+  font-size: 0.92rem;
+  color: var(--flicker-bright);
+  letter-spacing: 0.4px;
+  min-height: 1.4em;
+}
+.Arc5Timeline .chapter-readout .ts {
+  font-family: 'Courier New', monospace;
+  font-size: 0.78rem;
+  color: var(--text-secondary);
+  letter-spacing: 1.5px;
+  margin-left: 12px;
+  white-space: nowrap;
+}
+
+/* Hide chapter-subnav and D-pad *Prev / Next* cluster on Arc 5, but keep
+ * the Bottom (page-down) button visible so the reader always has a
+ * quick way back to the bottom of the wall scroll. */
+body.arc5-timeline-on .arc-panel[data-arc="5"] .chapter-subnav,
+body.arc5-timeline-on #arc-panel-5 .chapter-subnav { display: none; }
+
+/* shelf layout: with the ribbon hidden, the reading pane takes the whole grid */
+body.arc5-timeline-on #arc-panel-5 .chapter-content { grid-column: 1 / -1; }
+
+body.arc5-timeline-on #chapterNavPrev,
+body.arc5-timeline-on #chapterNavNext { display: none; }
+/* #chapterNavBottom stays visible. */
+
+/* Responsive: on a narrow screen the rail gets a healthy gutter */
+@media (max-width: 720px) {
+  .Arc5Timeline { padding: 14px 18px 12px; }
+  .Arc5Timeline .rail-row { height: 32px; }
+  .Arc5Timeline .tick { top: 11px; width: 5px; height: 5px; margin-left: -2px; }
+  .Arc5Timeline .med { top: 6px; width: 12px; height: 12px; margin-left: -6px; }
+  .Arc5Timeline .hour-train { margin: 22px 4px 0; font-size: 0.55rem; letter-spacing: 2px; }
+  .Arc5Timeline .chapter-readout { font-size: 0.78rem; flex-direction: column; align-items: flex-start; gap: 4px; }
+  .Arc5Timeline .chapter-readout .ts { margin-left: 0; }
+}

@@ -1,0 +1,398 @@
+{
+  "schema_version": 2,
+  "comment": "Hand-curated creature placement on the Ethra supercontinent panorama (v2: coordinates re-derived against the painted base plate base_ethra_painted.png). x_pct/y_pct are 0..100 along the map's aspect-ratio 24:10 canvas. To add a creature: append an entry with the next free slot. To add a city_pin (future culture/society revamp): append to city_pins.",
+  "biomes": [
+    {
+      "slug": "rune-belt",
+      "name": "Rune Belt",
+      "region_x": 38,
+      "region_y": 30
+    },
+    {
+      "slug": "steadfast-desert",
+      "name": "Steadfast Desert",
+      "region_x": 50,
+      "region_y": 62
+    },
+    {
+      "slug": "umbral-ring",
+      "name": "Umbral Ring",
+      "region_x": 21,
+      "region_y": 52
+    },
+    {
+      "slug": "flickermarch",
+      "name": "Flickermarch",
+      "region_x": 66,
+      "region_y": 24
+    },
+    {
+      "slug": "tidepools",
+      "name": "Tidepools",
+      "region_x": 66,
+      "region_y": 72
+    },
+    {
+      "slug": "underground",
+      "name": "Underground",
+      "region_x": 90,
+      "region_y": 86
+    }
+  ],
+  "creatures": [
+    {
+      "kind": "race",
+      "biome": "rune-belt",
+      "slug": "wengari",
+      "name": "Wengari (Anchor Race)",
+      "x_pct": 30.7,
+      "y_pct": 35.9,
+      "image_full": "/static/images/tide-wolf.png",
+      "subtitle": "Bright Paws / Shadow Paws / Mottled Paws / Stripe Paws / Snow Paws"
+    },
+    {
+      "kind": "creature",
+      "biome": "rune-belt",
+      "slug": "tide-wolf",
+      "name": "Tide Wolf",
+      "x_pct": 42.9,
+      "y_pct": 44.4,
+      "image_full": "/static/images/tide-wolf.png"
+    },
+    {
+      "kind": "creature",
+      "biome": "rune-belt",
+      "slug": "black-fire-tide-wolf",
+      "name": "Black-Fire Tide Wolf",
+      "x_pct": 34.6,
+      "y_pct": 51.0,
+      "image_full": "/static/images/black-fire-tide-wolf.png"
+    },
+    {
+      "kind": "creature",
+      "biome": "rune-belt",
+      "slug": "amuk",
+      "name": "Amuk",
+      "x_pct": 48.0,
+      "y_pct": 22.7,
+      "image_full": "/static/images/amuk-v10.png"
+    },
+    {
+      "kind": "creature",
+      "biome": "rune-belt",
+      "slug": "ghost",
+      "name": "Ghost",
+      "x_pct": 50.5,
+      "y_pct": 38.5,
+      "image_full": "/static/images/ghost-v3.png"
+    },
+    {
+      "kind": "creature",
+      "biome": "rune-belt",
+      "slug": "lotus-bloom",
+      "name": "Lotus Bloom",
+      "x_pct": 50,
+      "y_pct": 49.5,
+      "image_full": "/static/images/lotus-bloom.png"
+    },
+    {
+      "kind": "creature",
+      "biome": "rune-belt",
+      "slug": "woh",
+      "name": "Woh",
+      "x_pct": 39.4,
+      "y_pct": 53.9,
+      "image_full": "/static/images/woh.png"
+    },
+    {
+      "kind": "race",
+      "biome": "rune-belt",
+      "slug": "humann",
+      "name": "Humman",
+      "x_pct": 47.5,
+      "y_pct": 40.5,
+      "image_full": "/static/images/humann.png",
+      "subtitle": "Youngest sentient race — mercantile empire"
+    },
+    {
+      "kind": "race",
+      "biome": "steadfast-desert",
+      "slug": "pyrinae",
+      "name": "Pyrinae",
+      "x_pct": 46.1,
+      "y_pct": 59.5,
+      "image_full": "/static/images/pyrinae.png",
+      "subtitle": "Rune-glass artisans, Hydromancers"
+    },
+    {
+      "kind": "creature",
+      "biome": "steadfast-desert",
+      "slug": "styx",
+      "name": "Styx",
+      "x_pct": 46,
+      "y_pct": 57,
+      "image_full": "/static/images/styx.png"
+    },
+    {
+      "kind": "creature",
+      "biome": "steadfast-desert",
+      "slug": "bright-paw",
+      "name": "Bright Paw",
+      "x_pct": 48.0,
+      "y_pct": 48.2,
+      "image_full": "/static/images/bright-paw.png"
+    },
+    {
+      "kind": "creature",
+      "biome": "rune-belt",
+      "slug": "stripe-paw",
+      "name": "Stripe Paw",
+      "x_pct": 36.5,
+      "y_pct": 47,
+      "image_full": "/static/images/stripe-paw.png"
+    },
+    {
+      "kind": "creature",
+      "biome": "rune-belt",
+      "slug": "shadow-paw",
+      "name": "Shadow Paw",
+      "x_pct": 32.5,
+      "y_pct": 55,
+      "image_full": "/static/images/shadow-paw.png"
+    },
+    {
+      "kind": "creature",
+      "biome": "rune-belt",
+      "slug": "mottled-paw",
+      "name": "Mottled Paw",
+      "x_pct": 40.5,
+      "y_pct": 57.5,
+      "image_full": "/static/images/mottled-paw.png"
+    },
+    {
+      "kind": "creature",
+      "biome": "steadfast-desert",
+      "slug": "kyre-tree",
+      "name": "The Kyre Tree",
+      "x_pct": 59.1,
+      "y_pct": 65.2,
+      "image_full": "/static/images/kyre-tree.png",
+      "subtitle": "Ancient predator-god; bargainer"
+    },
+    {
+      "kind": "creature",
+      "biome": "steadfast-desert",
+      "slug": "desert-woh",
+      "name": "Desert Woh",
+      "x_pct": 47,
+      "y_pct": 68,
+      "image_full": "/static/images/desert-woh.png"
+    },
+    {
+      "kind": "creature",
+      "biome": "steadfast-desert",
+      "slug": "fire-beetle",
+      "name": "Fire Beetle",
+      "x_pct": 48.8,
+      "y_pct": 72.8,
+      "image_full": "/static/images/fire-beetle.png"
+    },
+    {
+      "kind": "creature",
+      "biome": "steadfast-desert",
+      "slug": "razor-hare",
+      "name": "Razor Hare",
+      "x_pct": 55.1,
+      "y_pct": 69.9,
+      "image_full": "/static/images/razor-hare.png"
+    },
+    {
+      "kind": "race",
+      "biome": "umbral-ring",
+      "slug": "dragari",
+      "name": "Dragari",
+      "x_pct": 19.7,
+      "y_pct": 58.6,
+      "image_full": "/static/images/dragari.png",
+      "subtitle": "Ancient gentle sea-singers; one of Ethra's oldest races"
+    },
+    {
+      "kind": "creature",
+      "biome": "umbral-ring",
+      "slug": "auruch",
+      "name": "Auruch",
+      "x_pct": 16.1,
+      "y_pct": 66.2,
+      "image_full": "/static/images/auruch.png",
+      "subtitle": "Giant sea-creatures revered by the Dragari"
+    },
+    {
+      "kind": "creature",
+      "biome": "umbral-ring",
+      "slug": "sea-marsh-dragari",
+      "name": "Sea Marsh (Dragari cultivar)",
+      "x_pct": 23.6,
+      "y_pct": 76.6,
+      "image_full": "/static/images/sea-marsh.png"
+    },
+    {
+      "kind": "creature",
+      "biome": "umbral-ring",
+      "slug": "sea-marsh-veylar",
+      "name": "Sea Marsh (Veylar cultivar)",
+      "x_pct": 26.0,
+      "y_pct": 71.8,
+      "image_full": "/static/images/sea-marsh.png"
+    },
+    {
+      "kind": "race",
+      "biome": "flickermarch",
+      "slug": "threx",
+      "name": "Threx",
+      "x_pct": 64.6,
+      "y_pct": 32.1,
+      "image_full": "/static/images/lament.png",
+      "subtitle": "Mycelial beings, connected to the Deep"
+    },
+    {
+      "kind": "creature",
+      "biome": "flickermarch",
+      "slug": "lament",
+      "name": "The Lament",
+      "x_pct": 66.9,
+      "y_pct": 39.7,
+      "image_full": "/static/images/lament.png"
+    },
+    {
+      "kind": "creature",
+      "biome": "flickermarch",
+      "slug": "iris-serpent",
+      "name": "Iris Serpent",
+      "x_pct": 59.4,
+      "y_pct": 28.4,
+      "image_full": "/static/images/iris-serpent.png"
+    },
+    {
+      "kind": "creature",
+      "biome": "flickermarch",
+      "slug": "mycelial-deep",
+      "name": "The Mycelial Deep",
+      "x_pct": 72.0,
+      "y_pct": 45.4,
+      "image_full": "/static/images/mycelial-deep.png"
+    },
+    {
+      "kind": "creature",
+      "biome": "flickermarch",
+      "slug": "pearly-scorpion",
+      "name": "Pearly Scorpion",
+      "x_pct": 64.6,
+      "y_pct": 18.0,
+      "image_full": "/static/images/pearly-scorpion.png"
+    },
+    {
+      "kind": "creature",
+      "biome": "flickermarch",
+      "slug": "quick-threx",
+      "name": "Quick Threx",
+      "x_pct": 61.4,
+      "y_pct": 20.8,
+      "image_full": "/static/images/quick-threx.png"
+    },
+    {
+      "kind": "creature",
+      "biome": "flickermarch",
+      "slug": "rooted-threx",
+      "name": "Rooted Threx",
+      "x_pct": 70.5,
+      "y_pct": 24.6,
+      "image_full": "/static/images/rooted-threx.png"
+    },
+    {
+      "kind": "race",
+      "biome": "tidepools",
+      "slug": "veylar",
+      "name": "Veylar",
+      "x_pct": 65.4,
+      "y_pct": 72.8,
+      "image_full": "/static/images/shell-singer.png",
+      "subtitle": "Aquatic patient Shell-Singers; 20,000-year civilization"
+    },
+    {
+      "kind": "creature",
+      "biome": "tidepools",
+      "slug": "shell-singer",
+      "name": "Shell-Singer",
+      "x_pct": 62.2,
+      "y_pct": 73.7,
+      "image_full": "/static/images/shell-singer.png"
+    },
+    {
+      "kind": "creature",
+      "biome": "tidepools",
+      "slug": "abyssal-heart",
+      "name": "Abyssal Heart",
+      "x_pct": 66.9,
+      "y_pct": 77.5,
+      "image_full": "/static/images/abyssal-heart.png"
+    },
+    {
+      "kind": "creature",
+      "biome": "tidepools",
+      "slug": "coral-citadel",
+      "name": "Coral Citadel",
+      "x_pct": 71.3,
+      "y_pct": 70.9,
+      "image_full": "/static/images/coral-citadel.png"
+    },
+    {
+      "kind": "creature",
+      "biome": "steadfast-desert",
+      "slug": "crimson-hawk",
+      "name": "Crimson Hawk",
+      "x_pct": 49.5,
+      "y_pct": 57.5,
+      "image_full": "/static/images/crimson-hawk-v1.png"
+    },
+    {
+      "kind": "creature",
+      "biome": "steadfast-desert",
+      "slug": "killer-claw",
+      "name": "Killer Claw (Suicide Raptor)",
+      "x_pct": 44.0,
+      "y_pct": 66.0,
+      "image_full": "/static/images/killer-claw-v1.png"
+    },
+    {
+      "kind": "creature",
+      "biome": "rune-belt",
+      "slug": "cargo-bird",
+      "name": "Cargo Bird",
+      "x_pct": 36.5,
+      "y_pct": 39.5,
+      "image_full": "/static/images/cargo-bird-v1.png"
+    }
+  ],
+  "underground_cave": {
+    "kind": "cave",
+    "biome": "underground",
+    "slug": "underground-cave",
+    "name": "The Underground (cave)",
+    "x_pct": 90,
+    "y_pct": 90,
+    "subtitle": "2 creatures available",
+    "constituents": [
+      {
+        "slug": "chithak",
+        "name": "The Chi'Thak (Blight)",
+        "image_full": "/static/images/lament.png"
+      },
+      {
+        "slug": "super-organism",
+        "name": "Super-Organism",
+        "image_full": "/static/images/mycelial-deep.png"
+      }
+    ]
+  },
+  "city_pins": []
+}

@@ -1,0 +1,3137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Cache-Control" content="no-store, no-cache, must-revalidate, max-age=0" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Expires" content="0" />
+<title>Ethra — The Great Orrery</title>
+<style>
+/* ═══════════════════════════════════════════════════════════
+   ETHRA THEME — Twin Suns · Ancient · Mystical
+   Steadfast Gold (#c9a059) · Flicker Crimson (#8b2a2a)
+   Deep Midnight (#0a1628) · Parchment (#e8dcc8)
+
+   css-build: axis-alignment-v5 — apex 18px above Last, all 4 buttons same size
+   ═══════════════════════════════════════════════════════════ */
+:root {
+  --bg-abyss: #060d18;
+  --bg-deep: #0a1628;
+  --bg-card: #0f1e36;
+  --bg-card-hover: #152844;
+  --steadfast: #c9a059;
+  --steadfast-glow: rgba(201,160,89,0.15);
+  --steadfast-dim: #8b6e3a;
+  --flicker: #8b2a2a;
+  --flicker-glow: rgba(139,42,42,0.2);
+  --flicker-bright: #c44747;
+  --flicker-dim: #6e2020;
+  --text-primary: #e8dcc8;
+  --text-secondary: #a09880;
+  --text-dim: #5a5448;
+  --border: #1a2a40;
+  --border-gold: #2a2418;
+  --parchment: #f0e8d0;
+  --parchment-dark: #d4c8a8;
+  --code-bg: #0d1520;
+  --font-heading: 'Georgia', 'Palatino Linotype', 'Book Antiqua', serif;
+  --font-body: 'Segoe UI', 'Candara', system-ui, sans-serif;
+}
+
+* { margin:0; padding:0; box-sizing:border-box; }
+
+@keyframes fadeIn {
+  from { opacity:0; transform:translateY(12px); }
+  to { opacity:1; transform:translateY(0); }
+}
+@keyframes sunPulse {
+  0%,100% { box-shadow: 0 0 20px var(--steadfast-glow), 0 0 40px var(--flicker-glow); }
+  50% { box-shadow: 0 0 35px var(--steadfast-glow), 0 0 60px var(--flicker-glow); }
+}
+@keyframes slideIn {
+  from { opacity:0; transform:translateX(-20px); }
+  to { opacity:1; transform:translateX(0); }
+}
+
+body {
+  background: var(--bg-abyss);
+  background-image:
+    radial-gradient(ellipse at 50% 0%, rgba(201,160,89,0.06) 0%, transparent 50%),
+    radial-gradient(ellipse at 50% 100%, rgba(139,42,42,0.08) 0%, transparent 50%),
+    radial-gradient(ellipse at 20% 80%, rgba(201,160,89,0.03) 0%, transparent 40%),
+    radial-gradient(ellipse at 80% 20%, rgba(139,42,42,0.04) 0%, transparent 40%);
+  color: var(--text-primary);
+  font-family: var(--font-body);
+  min-height: 100vh;
+  line-height: 1.7;
+}
+body::before {
+  content: '';
+  position: fixed; top:0; left:0; right:0; bottom:0;
+  background-image:
+    radial-gradient(1px 1px at 10% 15%, rgba(255,255,255,0.4), transparent),
+    radial-gradient(1px 1px at 25% 35%, rgba(255,255,255,0.3), transparent),
+    radial-gradient(1.5px 1.5px at 40% 10%, rgba(255,255,255,0.5), transparent),
+    radial-gradient(1px 1px at 55% 45%, rgba(255,255,255,0.3), transparent),
+    radial-gradient(1px 1px at 70% 20%, rgba(255,255,255,0.4), transparent),
+    radial-gradient(1.5px 1.5px at 85% 55%, rgba(255,255,255,0.35), transparent),
+    radial-gradient(1px 1px at 15% 70%, rgba(255,255,255,0.3), transparent),
+    radial-gradient(1px 1px at 60% 80%, rgba(255,255,255,0.35), transparent),
+    radial-gradient(1px 1px at 90% 75%, rgba(255,255,255,0.3), transparent),
+    radial-gradient(1.5px 1.5px at 35% 90%, rgba(255,255,255,0.4), transparent);
+  pointer-events: none; z-index:0;
+}
+
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 20px;
+  position: relative;
+  z-index: 1;
+}
+
+/* ════════════════ HEADER ════════════════ */
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+  padding: 8px 16px;
+  margin-bottom: 18px;
+  background: rgba(6,13,24,0.6);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  position: relative;
+  overflow: hidden;
+}
+.header::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0; height: 1px;
+  background: linear-gradient(90deg, transparent, var(--steadfast), var(--flicker-bright), transparent);
+  animation: sunPulse 4s ease-in-out infinite;
+}
+.header h1 {
+  font-family: var(--font-heading);
+  font-size: 1.05rem;
+  font-weight: 400;
+  letter-spacing: 4px;
+  background: linear-gradient(180deg, #f0e8d0 0%, var(--steadfast) 60%, var(--steadfast-dim) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  margin: 0;
+}
+.header .subtitle {
+  color: var(--text-secondary);
+  font-size: 0.62rem;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  margin: 0;
+}
+.header .title-wrap {
+  position: relative;
+  z-index: 2;
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  gap: 18px;
+  flex-wrap: wrap;
+  margin: 0;
+}
+/* the twin suns orbit the title — the banner is a true orrery */
+.header { --orbitR: 210px; --orbitr: 16px; }
+.header-orbit {
+  position: absolute;
+  left: 50%; top: 50%;
+  width: 0; height: 0;
+  z-index: 1;
+  pointer-events: none;
+}
+.header-orbit .sun { position: absolute; top: -7px; left: -7px; }
+.header-orbit .sun-steadfast { animation: hdr-orbit 18s linear infinite; }
+.header-orbit .sun-flicker  { animation: hdr-orbit 18s linear infinite -9s; }
+@keyframes hdr-orbit {
+  0%     { transform: translate(var(--orbitR), 0); }
+  12.5%  { transform: translate(calc(var(--orbitR) * 0.707), calc(var(--orbitr) * 0.707)); }
+  25%    { transform: translate(0, var(--orbitr)); }
+  37.5%  { transform: translate(calc(var(--orbitR) * -0.707), calc(var(--orbitr) * 0.707)); }
+  50%    { transform: translate(calc(var(--orbitR) * -1), 0); }
+  62.5%  { transform: translate(calc(var(--orbitR) * -0.707), calc(var(--orbitr) * -0.707)); }
+  75%    { transform: translate(0, calc(var(--orbitr) * -1)); }
+  87.5%  { transform: translate(calc(var(--orbitR) * 0.707), calc(var(--orbitr) * -0.707)); }
+  100%   { transform: translate(var(--orbitR), 0); }
+}
+.header .sun {
+  width: 14px; height: 14px;
+  border-radius: 50%;
+  position: relative;
+}
+.header .sun-steadfast {
+  background: radial-gradient(circle, #f0d080, #c9a059 60%, transparent);
+  box-shadow: 0 0 12px rgba(201,160,89,0.5), 0 0 24px rgba(201,160,89,0.2);
+}
+.header .sun-flicker {
+  background: radial-gradient(circle, #e87070, #8b2a2a 60%, transparent);
+  box-shadow: 0 0 12px rgba(139,42,42,0.5), 0 0 24px rgba(139,42,42,0.2);
+}
+.header .sun-label {
+  color: var(--text-dim);
+  font-size: 0.55rem;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin: 0;
+}
+
+/* ════════════════ HAMBURGER MENU SECTIONS ════════════════ */
+#biomeMenu .nav-section-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding: 12px 14px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  color: var(--steadfast);
+  cursor: pointer;
+  font-family: var(--font-heading);
+  font-size: 0.95rem;
+  letter-spacing: 1px;
+  border-radius: 6px;
+  margin-bottom: 4px;
+  text-align: left;
+  transition: all 0.2s ease;
+}
+#biomeMenu .nav-section-header:hover {
+  background: var(--bg-card-hover);
+  border-color: var(--steadfast-dim);
+  box-shadow: 0 0 8px var(--steadfast-glow);
+}
+#biomeMenu .nav-section-header .arrow {
+  font-size: 0.7rem;
+  transition: transform 0.3s ease;
+  color: var(--text-dim);
+}
+#biomeMenu .nav-section-header .arrow.open {
+  transform: rotate(90deg);
+}
+
+/* Nested submenu (Bestiary inside The World of Ethra) */
+.nav-section-header-nested {
+  padding: 10px 14px 10px 28px !important;
+  font-size: 0.85rem !important;
+  background: rgba(15,30,54,0.3) !important;
+  border: none !important;
+  border-radius: 0 !important;
+  margin-bottom: 0 !important;
+  border-bottom: 1px solid rgba(26,42,64,0.3) !important;
+  border-left: 2px solid rgba(201,160,89,0.15) !important;
+  text-align: left;
+  width: 100%;
+  cursor: pointer;
+  font-family: var(--font-heading);
+  color: var(--text-secondary);
+  letter-spacing: 1px;
+  transition: all 0.2s ease;
+}
+.nav-section-header-nested:hover {
+  background: rgba(15,30,54,0.6) !important;
+  color: var(--steadfast) !important;
+  box-shadow: none !important;
+}
+.nav-submenu-nested .nav-section-item {
+  padding-left: 38px !important;
+  font-size: 0.82rem !important;
+}
+.nav-submenu-divider {
+  height: 1px;
+  background: var(--border);
+  margin: 6px 14px;
+  opacity: 0.4;
+}
+.biome-item {
+  padding-left: 34px !important;
+  font-size: 0.82rem !important;
+}
+.biome-item:hover {
+  color: var(--flicker-bright) !important;
+}
+#biomeMenu .nav-section-item {
+  display: block;
+  width: 100%;
+  padding: 10px 14px 10px 24px;
+  background: transparent;
+  border: none;
+  color: var(--text-secondary);
+  cursor: pointer;
+  font-family: var(--font-body);
+  font-size: 0.85rem;
+  border-radius: 4px;
+  margin-bottom: 2px;
+  text-align: left;
+  transition: all 0.2s ease;
+}
+#biomeMenu .nav-section-item:hover {
+  background: var(--bg-card-hover);
+  color: var(--steadfast);
+}
+#biomeMenu .nav-section-item.active {
+  background: rgba(201,160,89,0.12);
+  color: var(--steadfast);
+}
+#biomeMenu .nav-section-item .creature-count {
+  float: right;
+  font-size: 0.7rem;
+  color: var(--text-dim);
+  background: var(--bg-abyss);
+  padding: 1px 5px;
+  border-radius: 4px;
+}
+#biomeMenu .nav-submenu {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease;
+  margin-bottom: 8px;
+}
+#biomeMenu .nav-submenu.open {
+  max-height: 1000px;
+  overflow: visible;
+}
+#biomeMenu .nav-submenu-nested {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease;
+}
+#biomeMenu .nav-submenu-nested.open {
+  max-height: 1000px;
+  overflow: visible;
+}
+
+/* ════════════════ WORLD SECTION THEMES ════════════════ */
+#section-world .content-card.cosmology-theme {
+  background: linear-gradient(135deg, #060d18 0%, #0a1628 40%, #1a0a2e 100%);
+  border-color: #c9a059;
+  box-shadow: 0 0 30px rgba(201,160,89,0.1), 0 0 60px rgba(139,42,42,0.08);
+}
+#section-world .content-card.cosmology-theme h1,
+#section-world .content-card.cosmology-theme h2 {
+  color: #c9a059;
+  text-shadow: 0 0 20px rgba(201,160,89,0.3);
+}
+#section-world .content-card.cosmology-theme h3 {
+  color: #f0d8a0;
+  border-bottom-color: #8b2a2a;
+}
+#section-world .content-card.cosmology-theme strong {
+  color: #e8c878;
+}
+
+#section-world .content-card.magic-theme {
+  background: linear-gradient(135deg, #0a0818 0%, #120828 40%, #0e1428 100%);
+  border-color: #7b5ea7;
+  box-shadow: 0 0 30px rgba(123,94,167,0.12), 0 0 60px rgba(50,30,100,0.06);
+}
+#section-world .content-card.magic-theme h1,
+#section-world .content-card.magic-theme h2 {
+  color: #b895e0;
+  text-shadow: 0 0 20px rgba(123,94,167,0.25);
+}
+#section-world .content-card.magic-theme h3 {
+  color: #d0b0f0;
+  border-bottom-color: #7b5ea7;
+}
+#section-world .content-card.magic-theme strong {
+  color: #c8a0f0;
+}
+
+#section-world .content-card.geography-theme {
+  background: linear-gradient(135deg, #0a1410 0%, #0e1e14 40%, #0a1818 100%);
+  border-color: #5a8a5a;
+  box-shadow: 0 0 30px rgba(90,138,90,0.10), 0 0 60px rgba(60,100,60,0.06);
+}
+#section-world .content-card.geography-theme h1,
+#section-world .content-card.geography-theme h2 {
+  color: #8ac88a;
+  text-shadow: 0 0 15px rgba(90,138,90,0.2);
+}
+#section-world .content-card.geography-theme h3 {
+  color: #a0d8a0;
+  border-bottom-color: #5a8a5a;
+}
+#section-world .content-card.geography-theme strong {
+  color: #90d090;
+}
+
+#section-world .content-card.religion-theme {
+  background: linear-gradient(135deg, #141008 0%, #1e180e 40%, #181410 100%);
+  border-color: #c9a059;
+  box-shadow: 0 0 30px rgba(201,160,89,0.12), 0 0 60px rgba(139,42,42,0.06);
+}
+#section-world .content-card.religion-theme h1,
+#section-world .content-card.religion-theme h2 {
+  color: #e0c878;
+  text-shadow: 0 0 20px rgba(201,160,89,0.2);
+}
+#section-world .content-card.religion-theme h3 {
+  color: #f0dca0;
+  border-bottom-color: #8b6e3a;
+}
+#section-world .content-card.religion-theme strong {
+  color: #e8d090;
+}
+
+#section-world .content-card.history-theme {
+  background: linear-gradient(135deg, #0e0a08 0%, #18100a 40%, #14100e 100%);
+  border-color: #8b6e3a;
+  box-shadow: 0 0 25px rgba(139,110,58,0.12), 0 0 50px rgba(139,42,42,0.06);
+}
+#section-world .content-card.history-theme h1,
+#section-world .content-card.history-theme h2 {
+  color: #d4b87a;
+  text-shadow: 0 0 15px rgba(139,110,58,0.2);
+}
+#section-world .content-card.history-theme h3 {
+  color: #e0c890;
+  border-bottom-color: #8b6e3a;
+}
+#section-world .content-card.history-theme strong {
+  color: #d8c080;
+}
+#section-world .content-card.history-theme table {
+  border-color: #5a4a30;
+}
+#section-world .content-card.history-theme th {
+  background: rgba(139,110,58,0.15);
+  color: #d4b87a;
+}
+#section-world .content-card.history-theme td {
+  border-color: #3a3020;
+}
+
+#section-world .content-card.culture-theme {
+  background: linear-gradient(135deg, #10100a 0%, #1a1810 40%, #141410 100%);
+  border-color: #b89860;
+  box-shadow: 0 0 25px rgba(184,152,96,0.10);
+}
+#section-world .content-card.culture-theme h1,
+#section-world .content-card.culture-theme h2 {
+  color: #d4c090;
+  text-shadow: 0 0 15px rgba(184,152,96,0.15);
+}
+#section-world .content-card.culture-theme h3 {
+  color: #e0d0a0;
+  border-bottom-color: #b89860;
+}
+#section-world .content-card.culture-theme strong {
+  color: #d8c888;
+}
+#section-world .content-card.culture-theme table {
+  border-color: #5a4a30;
+}
+#section-world .content-card.culture-theme th {
+  background: rgba(184,152,96,0.12);
+  color: #d4c090;
+}
+#section-world .content-card.culture-theme td {
+  border-color: #3a3020;
+}
+
+/* World sub-section item accent colors */
+.world-item { padding-left: 34px !important; font-size: 0.82rem !important; }
+.cosmology-item:hover { color: #c9a059 !important; }
+.magic-item:hover { color: #b895e0 !important; }
+.geography-item:hover { color: #8ac88a !important; }
+.religion-item:hover { color: #e0c878 !important; }
+.history-item:hover { color: #d4b87a !important; }
+.culture-item:hover { color: #d4c090 !important; }
+
+
+/* ════════════════ SECTION ════════════════ */
+.section {
+  display: none;
+  animation: fadeIn 0.5s ease;
+}
+.section.active {
+  display: block;
+}
+
+/* ════════════════ THE CHRONICLE SHELF ════════════════ */
+/* (visibility handled by .section / .section.active) */
+/* ── the shelf: six volumes standing on a board ── */
+.arc-nav {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  gap: 10px;
+  margin: 0 0 30px;
+  padding: 20px 24px 0;
+  position: relative;
+  z-index: 3;
+}
+.arc-nav::after {
+  content: '';
+  position: absolute;
+  left: 0; right: 0; bottom: -11px;
+  height: 11px;
+  background: linear-gradient(180deg, #4a2e14, #2a1808 60%, #1a0f04);
+  border-radius: 2px;
+  box-shadow: 0 5px 12px rgba(0,0,0,0.6), inset 0 1px 0 rgba(255,220,150,0.15);
+}
+.arc-tab {
+  position: relative;
+  width: 58px;
+  height: 172px;
+  padding: 12px 0;
+  writing-mode: vertical-rl;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  /* bestiary-book recipe: worn leather, inset gloom, uneven edges */
+  background:
+    repeating-linear-gradient(180deg, transparent 0 28px, rgba(0,0,0,0.22) 28px 31px, rgba(255,220,150,0.07) 31px 33px, transparent 33px 62px),
+    linear-gradient(90deg, rgba(0,0,0,0.55) 0, rgba(0,0,0,0) 16%, rgba(255,220,150,0.10) 50%, rgba(0,0,0,0) 84%, rgba(0,0,0,0.55) 100%),
+    linear-gradient(160deg, #6b4a2a 0%, #5d4022 45%, #4a3118 100%);
+  border: 1px solid rgba(18,10,4,0.9);
+  border-radius: 5px 8px 7px 5px / 7px 6px 8px 5px;
+  color: #c9a059;
+  cursor: pointer;
+  font-family: 'Uncial Antiqua', var(--font-heading);
+  box-shadow:
+    inset 0 0 12px rgba(0,0,0,0.55),
+    inset 3px 0 4px rgba(0,0,0,0.35),
+    inset -3px 0 5px rgba(0,0,0,0.6),
+    inset 1px 0 2px rgba(255,230,170,0.10),
+    2px 3px 8px rgba(0,0,0,0.45);
+  transition: transform 0.35s cubic-bezier(0.25,0.8,0.25,1), box-shadow 0.35s, color 0.35s;
+  transform-origin: bottom center;
+}
+.arc-tab::before, .arc-tab::after {
+  content: '';
+  position: absolute;
+  left: 7px; right: 7px;
+  height: 3px;
+  background: linear-gradient(90deg, transparent, rgba(201,160,89,0.55), transparent);
+}
+.arc-tab::before { top: 9px; }
+.arc-tab::after { bottom: 9px; }
+.arc-tab:hover {
+  color: var(--steadfast);
+  transform: translateY(-8px);
+  box-shadow: inset 2px 0 3px rgba(255,230,170,0.10), inset -3px 0 5px rgba(0,0,0,0.6), 0 10px 18px rgba(0,0,0,0.6);
+}
+.arc-tab.active {
+  color: #f0d080;
+  transform: translateY(-12px);
+  box-shadow: inset 2px 0 3px rgba(255,230,170,0.12), inset -3px 0 5px rgba(0,0,0,0.5), 0 0 18px var(--steadfast-glow), 0 12px 20px rgba(0,0,0,0.6);
+}
+/* each volume keeps its own height, lean and leather tone */
+.arc-tab[data-arc="1"] { height: 176px; transform: rotate(0.5deg); }
+.arc-tab[data-arc="2"] { height: 160px; width: 55px; transform: rotate(-0.9deg); filter: hue-rotate(-6deg) brightness(0.96); }
+.arc-tab[data-arc="3"] { height: 184px; width: 61px; transform: rotate(0.3deg); }
+.arc-tab[data-arc="4"] { height: 166px; transform: rotate(-0.5deg); filter: brightness(1.05); }
+.arc-tab[data-arc="5"] { height: 174px; width: 56px; transform: rotate(0.8deg); filter: hue-rotate(4deg); }
+.arc-tab[data-arc="6"] { height: 158px; transform: rotate(-1.1deg); filter: brightness(0.92); }
+.spine-arc {
+  writing-mode: horizontal-tb;
+  font-size: 0.72rem;
+  letter-spacing: 0.1em;
+  color: #f0d080;
+}
+.spine-title {
+  font-size: 0.6rem;
+  letter-spacing: 0.08em;
+}
+.spine-who {
+  writing-mode: horizontal-tb;
+  font-size: 0.66rem;
+  letter-spacing: 0.06em;
+  color: #f0d080;
+  border-bottom: 1px solid rgba(201,160,89,0.35);
+  padding-bottom: 4px;
+}
+
+/* ── dust rows: one shelf per tyrant, awaiting the quill ── */
+.shelf-stack { position: relative; }
+.arc-nav.dust { margin-bottom: 26px; }
+.arc-nav.dust .arc-tab {
+  cursor: default;
+  color: #7d6c4e;
+  filter: grayscale(0.5) brightness(0.6) sepia(0.15);
+  box-shadow:
+    inset 0 0 14px rgba(0,0,0,0.72),
+    inset -3px 0 5px rgba(0,0,0,0.6),
+    2px 3px 8px rgba(0,0,0,0.4);
+}
+.arc-nav.dust .arc-tab:hover {
+  color: #7d6c4e;
+  transform: none;
+  box-shadow:
+    inset 0 0 14px rgba(0,0,0,0.72),
+    inset -3px 0 5px rgba(0,0,0,0.6),
+    2px 3px 8px rgba(0,0,0,0.4);
+}
+.arc-nav.dust::after { filter: brightness(0.72) saturate(0.8); }
+/* a thin film of dust settled on the board */
+.arc-nav.dust::before {
+  content: '';
+  position: absolute;
+  left: 8px; right: 8px; bottom: -12px;
+  height: 3px;
+  background: linear-gradient(90deg, transparent, rgba(210,205,190,0.14) 20%, rgba(210,205,190,0.22) 50%, rgba(210,205,190,0.12) 80%, transparent);
+  filter: blur(1px);
+  z-index: 4;
+}
+.cobweb {
+  position: absolute;
+  width: 78px; height: 78px;
+  top: -10px;
+  pointer-events: none;
+  z-index: 5;
+}
+.cobweb.tl { left: -6px; }
+.cobweb.tr { right: -6px; transform: scaleX(-1); }
+
+/* the veil: reading pane stays dark until a volume is chosen */
+.chronicle-veil {
+  margin: 4px 24px 30px;
+  padding: 52px 22px;
+  text-align: center;
+  color: #6a5a3f;
+  font-family: 'IM Fell English', var(--font-body);
+  font-style: italic;
+  font-size: 1.05rem;
+  letter-spacing: 0.04em;
+  border: 1px dashed rgba(201,160,89,0.22);
+  border-radius: 6px;
+  background: rgba(10,22,40,0.35);
+}
+.chronicle-veil.gone { display: none; }
+
+/* round 9 — the falling tome: the shelf NEVER hides. The chosen volume
+   tips over and lies flat on its board, the neighbours lean across it,
+   then the silk ribbon drops and the folio opens below the stacks. */
+#section-story.reading .chronicle-veil { display: none; }
+/* the unwritten tyrant shelves step back while a volume is open, so the
+   folio sits directly beneath the live shelf */
+#section-story.reading .arc-nav.dust { display: none; }
+
+.arc-nav { --bw: 58px; --fallw: 188px; }
+/* reading: the board makes room at its left end for the lying tome */
+#section-story.reading #arcNav {
+  padding-left: calc(var(--fallw) + 24px);
+  transition: padding-left 0.7s cubic-bezier(0.3, 1.35, 0.45, 1);
+}
+.arc-tab { transition: transform 0.7s cubic-bezier(0.3, 1.35, 0.45, 1), filter 0.3s ease; will-change: transform; z-index: 2; }
+/* the chosen tome takes FIRST PLACE and falls to the LEFT: it lies flat
+   at the board's left end, top edge pointing left, spine reading upright */
+.arc-nav .arc-tab.fallen {
+  transform: rotate(-90deg);
+  transform-origin: left bottom;
+  z-index: 1;
+  filter: brightness(1.07);
+  cursor: pointer;
+}
+/* every neighbour leans LEFT over the fallen tome */
+.arc-nav .arc-tab.lean-l { transform: rotate(-12deg) translateY(-9px); transform-origin: bottom right; }
+/* domino physics while reading: the row slides together until every tome
+   rests against its neighbour, and the first rests upon the lying tome */
+#section-story.reading #arcNav .arc-tab.lean-l { transform: translateX(-9px) rotate(-12deg); }
+#section-story.reading #arcNav .arc-tab.lean-l:nth-child(3) { transform: translateX(-39px) rotate(-12deg); }
+#section-story.reading #arcNav .arc-tab.lean-l:nth-child(4) { transform: translateX(-48px) rotate(-12deg); }
+#section-story.reading #arcNav .arc-tab.lean-l:nth-child(5) { transform: translateX(-57px) rotate(-12deg); }
+#section-story.reading #arcNav .arc-tab.lean-l:nth-child(6) { transform: translateX(-66px) rotate(-12deg); }
+#section-story.reading #arcNav .arc-tab.lean-l:nth-child(7) { transform: translateX(-75px) rotate(-12deg); }
+#section-story.reading #arcNav .arc-tab.fallen + .arc-tab { transform: translateX(-38px) rotate(-16deg); }
+
+/* the folio waits for the tome to land, then rises as the ribbon drops */
+.arc-panel.active { transition: opacity 0.5s ease; }
+.arc-panel.active.dropping { opacity: 0; }
+/* the ribbon column hugs the silk so the folio reads close beside it */
+#section-story.reading .arc-panel.active { grid-template-columns: 96px 1fr; }
+/* the silk folds over the tome's edge; a short bare tail keeps the first
+   chapter mark clear of the board */
+#section-story.reading .chapter-subnav { padding-top: 44px; justify-self: start; align-self: start; }
+
+.shelf-return {
+  display: block;
+  margin: -16px 26px 16px auto;
+  background: none;
+  border: 1px solid rgba(201,160,89,0.3);
+  border-radius: 4px;
+  color: #b09a6a;
+  font-family: 'IM Fell English', var(--font-body);
+  font-style: italic;
+  font-size: 0.84rem;
+  padding: 6px 12px;
+  cursor: pointer;
+  transition: color 0.25s ease, border-color 0.25s ease;
+  z-index: 4;
+  position: relative;
+}
+.shelf-return:hover { color: #f0d080; border-color: rgba(201,160,89,0.6); }
+.shelf-return[hidden] { display: none; }
+/* candlelight pooled over the reading room */
+#section-story.reading {
+  background: radial-gradient(1100px 480px at 50% 40px, rgba(255,220,150,0.06), transparent 65%);
+}
+/* ════════════════ SILK RIBBON + READING PANE ════════════════ */
+.arc-panel {
+  display: none;
+  animation: fadeIn 0.4s ease;
+  scroll-margin-top: 12px;
+}
+.arc-panel.active {
+  display: grid;
+  grid-template-columns: 58px 1fr;
+  gap: 0 24px;
+  align-items: start;
+  padding-left: 24px;
+}
+#arc5Timeline {
+  grid-column: 1 / -1;
+  margin-bottom: 16px;
+}
+.chapter-subnav {
+  grid-column: 1;
+  justify-self: center;
+  width: 52px;
+  counter-reset: ch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+  margin: -26px 0 0;
+  padding: 40px 0 30px;
+  transform-origin: top center;
+  animation: ribbon-sway 7s ease-in-out infinite;
+  position: sticky;
+  top: 10px;
+  z-index: 4; /* above the shelf (z3): the silk drapes OVER the board's edge */
+}
+/* the silk itself lives on a layer so hover titles can escape the clip */
+.chapter-subnav::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  background:
+    /* the drape: light catch on the part lying over the tome, a dark crease
+       where the silk folds across the board's top edge, shade down its front
+       face, then a last line at the board's bottom lip */
+    linear-gradient(180deg,
+      rgba(255,240,200,0.14) 0 4px,
+      rgba(0,0,0,0.50) 4px 7px,
+      rgba(0,0,0,0.24) 7px 16px,
+      rgba(0,0,0,0.46) 16px 18px,
+      transparent 18px),
+    repeating-linear-gradient(180deg, rgba(255,255,255,0.05) 0 1px, transparent 1px 3px),
+    repeating-linear-gradient(90deg, rgba(0,0,0,0.06) 0 1px, transparent 1px 3px),
+    linear-gradient(90deg, #4a1010, #7a1f1f 28%, #8a2a2a 50%, #7a1f1f 72%, #4a1010);
+  clip-path: polygon(3% 0, 97% 0, 100% 5px, 100% 100%, 50% calc(100% - 14px), 0 100%, 0 5px);
+  box-shadow: inset 0 10px 12px -8px rgba(0,0,0,0.65), 3px 5px 12px rgba(0,0,0,0.5);
+}
+.chapter-subnav.unfurl {
+  animation: ribbon-unfurl 1.15s cubic-bezier(0.34,0.62,0.28,1), ribbon-sway 7s ease-in-out 1.15s infinite;
+}
+/* while the tome is still in the air the silk waits as a bare red thread at
+   its edge — a sliver above the board — and unfurls only once the tome lies flat */
+.chapter-subnav.waiting { scale: 1 0.04; animation: none; }
+@keyframes ribbon-sway {
+  0%, 100% { rotate: 0.9deg; }
+  50% { rotate: -0.9deg; }
+}
+/* cloth settling: drop, overshoot, shiver, rest */
+@keyframes ribbon-unfurl {
+  0%   { scale: 1 0;     rotate: 0deg; }
+  45%  { scale: 1 1.06;  rotate: 1.4deg; }
+  68%  { scale: 1 0.965; rotate: -0.9deg; }
+  84%  { scale: 1 1.02;  rotate: 0.5deg; }
+  100% { scale: 1 1;     rotate: 0deg; }
+}
+.chapter-tab {
+  counter-increment: ch;
+  position: relative;
+  width: 34px;
+  height: 30px;
+  padding: 0;
+  background: none;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #f0d080;
+  font-family: 'IM Fell English', var(--font-body);
+  font-size: 0;
+  transition: color 0.2s ease, text-shadow 0.2s ease;
+}
+.chapter-tab::before {
+  content: counter(ch);
+  font-size: 0.95rem;
+}
+.ch-title { display: none; }
+.chapter-tab::after {
+  content: attr(data-title);
+  position: absolute;
+  left: calc(100% + 16px);
+  top: 50%;
+  translate: -6px -50%;
+  white-space: nowrap;
+  padding: 5px 14px;
+  background: rgba(10,22,40,0.94);
+  border: 1px solid rgba(201,160,89,0.35);
+  border-radius: 4px;
+  color: #e8d8b0;
+  font-family: 'IM Fell English', var(--font-body);
+  font-style: italic;
+  font-size: 0.9rem;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s ease, translate 0.3s ease;
+  z-index: 30;
+}
+@media (hover: hover) {
+  .chapter-tab:hover::after { opacity: 1; translate: 0 -50%; }
+}
+.chapter-tab:focus-visible::after { opacity: 1; translate: 0 -50%; }
+.chapter-tab:hover { color: #fff0c0; }
+.chapter-tab.active {
+  color: #fff0c0;
+  text-shadow: 0 0 9px rgba(240,208,128,0.85);
+}
+.chapter-content {
+  grid-column: 2;
+}
+
+/* reader-friendly chronicle text */
+.chapter-content .content-card {
+  max-width: 880px;
+  margin: 0 auto 24px;
+  line-height: 1.85;
+  font-size: 1.02rem;
+}
+.chapter-content .content-card p {
+  margin: 0 0 1.05em;
+}
+/* mobile: same shelf, same left ribbon — just a smaller printing */
+@media (max-width: 980px) {
+  /* no overflow-x here: it clips the shelf board (.arc-nav::after sits at
+     bottom:-11px) and made the books float — round 9 bugfix */
+  .arc-nav { gap: 6px; padding: 14px 12px 0; margin-bottom: 26px; --bw: 46px; --fallw: 142px; }
+  .arc-tab, .arc-tab[data-arc] { width: 46px; height: 138px; }
+  .arc-tab:hover, .arc-tab.active { transform: translateY(-6px); }
+  .spine-arc { font-size: 0.56rem; }
+  .spine-title { font-size: 0.5rem; }
+  .spine-who { font-size: 0.5rem; }
+  .arc-nav.dust .arc-tab { height: 118px !important; width: 46px; }
+  .cobweb { width: 54px; height: 54px; }
+  .chronicle-veil { margin: 4px 12px 22px; padding: 34px 14px; font-size: 0.95rem; }
+  .arc-panel.active { grid-template-columns: 46px 1fr; gap: 0 14px; padding-left: 12px; }
+  #section-story.reading .arc-panel.active { grid-template-columns: 56px 1fr; gap: 0 10px; }
+  .chapter-content .content-card { padding: 26px 16px; }
+  .chapter-subnav { width: 40px; padding: 12px 0 24px; }
+  .chapter-tab { width: 30px; height: 28px; }
+  .chapter-tab::before { font-size: 0.85rem; }
+}
+
+/* ════════════════ CHAPTER CONTENT ════════════════ */
+.chapter-content {
+  display: none;
+  animation: slideIn 0.4s ease;
+}
+.chapter-content.active {
+  display: block;
+}
+
+/* ════════════════ CARD ════════════════ */
+.content-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 40px 44px;
+  margin-bottom: 24px;
+  position: relative;
+  transition: background 0.5s ease, border-color 0.5s ease, color 0.3s ease;
+}
+.content-card::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 40px; right: 40px; height: 1px;
+  background: linear-gradient(90deg, transparent, var(--steadfast-dim), transparent);
+  opacity: 0.5;
+}
+
+/* ════════════════ LANDING PAGE ════════════════ */
+.landing-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 70vh;
+  text-align: center;
+  padding: 20px;
+  border: none !important;
+  background: transparent !important;
+}
+.landing-page::before { display: none; }
+.ethra-landing-img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 16px;
+  box-shadow: 0 0 40px rgba(201,160,89,0.25), 0 0 80px rgba(139,42,42,0.12);
+  margin-bottom: 32px;
+  transition: transform 0.6s cubic-bezier(0.34, 1.56, 0.64, 1), box-shadow 0.6s ease;
+}
+.ethra-landing-img:hover {
+  transform: scale(1.03);
+  box-shadow: 0 0 60px rgba(201,160,89,0.35), 0 0 100px rgba(139,42,42,0.2);
+}
+.landing-title h1 {
+  font-size: 3.2rem;
+  background: linear-gradient(135deg, var(--steadfast), var(--flicker-bright));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  letter-spacing: 10px;
+  margin-bottom: 10px;
+}
+.landing-subtitle {
+  font-size: 1.3rem;
+  color: var(--steadfast);
+  letter-spacing: 5px;
+  margin-bottom: 10px;
+}
+.landing-tagline {
+  color: var(--text-muted);
+  font-size: 0.95rem;
+  font-style: italic;
+  margin-bottom: 20px;
+}
+.landing-nav-hint {
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  opacity: 0.5;
+  letter-spacing: 1px;
+}
+
+/* ════════════════ WORLD HEADER ════════════════ */
+.world-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid var(--border);
+}
+.world-header h2 {
+  margin: 0;
+  font-size: 1.5rem;
+}
+.back-button {
+  background: transparent;
+  border: 1px solid var(--steadfast-dim);
+  color: var(--steadfast);
+  padding: 8px 18px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: all 0.3s ease;
+}
+.back-button:hover {
+  background: var(--steadfast-dim);
+  color: var(--bg-abyss);
+  border-color: var(--steadfast);
+}
+
+/* ════════════════ MARKDOWN ════════════════ */
+.content-card h1 {
+  font-family: var(--font-heading);
+  font-size: 2rem;
+  color: var(--steadfast);
+  margin: 32px 0 16px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid var(--border);
+  letter-spacing: 1px;
+}
+.content-card h1:first-child { margin-top: 0; }
+.content-card h2 {
+  font-family: var(--font-heading);
+  font-size: 1.5rem;
+  color: var(--flicker-bright);
+  margin: 28px 0 14px;
+  letter-spacing: 0.5px;
+}
+.content-card h3 {
+  font-family: var(--font-heading);
+  font-size: 1.2rem;
+  color: var(--steadfast-dim);
+  margin: 22px 0 10px;
+}
+.content-card h4 {
+  font-family: var(--font-heading);
+  font-size: 1.05rem;
+  color: var(--text-primary);
+  margin: 18px 0 8px;
+}
+.content-card p {
+  margin-bottom: 14px;
+  color: var(--text-primary);
+  line-height: 1.85;
+}
+.content-card strong {
+  color: var(--steadfast);
+  font-weight: 600;
+}
+.content-card em {
+  color: var(--parchment-dark);
+}
+.content-card ul, .content-card ol {
+  margin: 10px 0 16px 24px;
+}
+.content-card li {
+  margin-bottom: 6px;
+  line-height: 1.7;
+}
+
+/* ── Dialogue Block ── */
+.content-card .dialogue-block {
+  margin: 22px 0 22px 18px;
+  padding: 18px 24px 12px 24px;
+  background: linear-gradient(135deg, rgba(201,160,89,0.05), rgba(201,160,89,0.02));
+  border-left: 4px solid var(--steadfast);
+  border-radius: 0 8px 8px 0;
+  position: relative;
+}
+.content-card .dialogue-block::before {
+  content: '\201C';
+  position: absolute;
+  top: -12px;
+  left: -10px;
+  font-size: 1.6rem;
+  color: var(--steadfast);
+  opacity: 0.7;
+  line-height: 1;
+}
+.content-card .dialogue-block .speech-line {
+  color: var(--parchment);
+  font-size: 1.05rem;
+  line-height: 1.9;
+  margin-bottom: 8px;
+}
+.content-card .dialogue-block .speech-attr {
+  color: var(--text-dim);
+  font-size: 0.85rem;
+  font-style: italic;
+  margin-left: 8px;
+}
+
+/* ── Thought Block ── */
+.content-card .thought-block {
+  margin: 18px 0 18px 24px;
+  padding: 14px 22px;
+  background: rgba(139,42,42,0.05);
+  border-left: 3px solid var(--flicker-dim);
+  border-radius: 0 6px 6px 0;
+  color: var(--text-secondary);
+  font-style: italic;
+  line-height: 1.8;
+  position: relative;
+}
+
+/* ── Scene Break ── */
+.content-card hr.scene-break {
+  margin: 36px 0;
+  border: none;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--steadfast-dim), var(--flicker-dim), transparent);
+  position: relative;
+}
+.content-card hr.scene-break::after {
+  content: '✦';
+  position: absolute;
+  top: -10px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--bg-card);
+  padding: 0 12px;
+  color: var(--steadfast);
+  font-size: 0.8rem;
+  opacity: 0.6;
+}
+
+.content-card blockquote {
+  margin: 16px 0;
+  padding: 14px 22px;
+  background: rgba(139,42,42,0.08);
+  border-left: 3px solid var(--flicker);
+  color: var(--text-secondary);
+  font-style: italic;
+  border-radius: 0 6px 6px 0;
+}
+.content-card hr {
+  border: none;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--border), transparent);
+  margin: 28px 0;
+}
+.content-card code {
+  background: var(--code-bg);
+  padding: 2px 7px;
+  border-radius: 4px;
+  font-size: 0.9em;
+  color: var(--steadfast);
+}
+.content-card table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 16px 0 22px;
+  font-size: 0.9rem;
+}
+.content-card th {
+  background: rgba(201,160,89,0.1);
+  color: var(--steadfast);
+  padding: 10px 14px;
+  text-align: left;
+  font-family: var(--font-heading);
+  border-bottom: 2px solid var(--steadfast-dim);
+}
+.content-card td {
+  padding: 8px 14px;
+  border-bottom: 1px solid var(--border);
+  color: var(--text-primary);
+}
+.content-card tr:hover td {
+  background: rgba(201,160,89,0.04);
+}
+
+/* ── Image placeholder ── */
+.image-placeholder {
+  margin: 32px 0;
+  padding: 50px 30px;
+  background: rgba(15,30,54,0.6);
+  border: 2px dashed var(--border-gold);
+  border-radius: 12px;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  transition: all 0.3s ease;
+}
+
+/* ── Chapter Illustrations — centered ── */
+.chapter-illustration {
+  text-align: center;
+  margin: 32px auto;
+  width: 100%;
+  max-width: 100%;
+}
+.chapter-illustration img {
+  max-width: 100%;
+  width: auto;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  border: none;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+}
+.image-placeholder::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background:
+    linear-gradient(135deg, rgba(201,160,89,0.03) 25%, transparent 25%),
+    linear-gradient(225deg, rgba(201,160,89,0.03) 25%, transparent 25%),
+    linear-gradient(315deg, rgba(201,160,89,0.03) 25%, transparent 25%),
+    linear-gradient(45deg, rgba(201,160,89,0.03) 25%, transparent 25%);
+  background-size: 40px 40px;
+  opacity: 0.5;
+}
+.image-placeholder:hover {
+  border-color: var(--steadfast);
+  background: rgba(15,30,54,0.8);
+  box-shadow: 0 0 30px var(--steadfast-glow);
+}
+.image-placeholder .icon {
+  font-size: 3rem;
+  margin-bottom: 12px;
+  opacity: 0.6;
+  position: relative;
+  z-index: 1;
+}
+.image-placeholder .label {
+  color: var(--text-dim);
+  font-family: var(--font-heading);
+  font-size: 0.9rem;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  position: relative;
+  z-index: 1;
+}
+.image-placeholder .hint {
+  color: var(--text-dim);
+  font-size: 0.75rem;
+  margin-top: 6px;
+  opacity: 0.6;
+  position: relative;
+  z-index: 1;
+}
+
+/* ════════════════ BESTIARY MODE — Parchment Tome ════════════════ */
+.bestiary-mode {
+  --bg-card: #c4a882;
+  --bg-card-hover: #b89a70;
+  --border: #9a7a4a;
+  --border-gold: #6b3a1a;
+  --text-primary: #2a1f0e;
+  --text-secondary: #4a3000;
+  --text-dim: #5a4020;
+  --steadfast: #4a3000;
+  --steadfast-dim: #6b3a1a;
+  --steadfast-glow: rgba(74,48,0,0.12);
+  --flicker: #6b3a1a;
+  --flicker-glow: rgba(106,58,26,0.15);
+  --flicker-dim: #5a3010;
+  --flicker-bright: #8b4a2a;
+  --parchment: #c4a882;
+  --parchment-dark: #9a7a4a;
+}
+.bestiary-mode .content-card {
+  background: #c4a882;
+  border-color: #9a7a4a;
+  color: #2a1f0e;
+}
+.bestiary-mode .content-card::before {
+  background: linear-gradient(90deg, transparent, #9a7a4a, transparent);
+  opacity: 0.4;
+}
+.bestiary-mode .content-card h1 {
+  color: #4a3000;
+  border-bottom-color: #9a7a4a;
+}
+.bestiary-mode .content-card h2 { color: #6b3a1a; }
+.bestiary-mode .content-card h3 { color: #5a4020; }
+.bestiary-mode .content-card h4 { color: #2a1f0e; }
+.bestiary-mode .content-card p { color: #2a1f0e; }
+.bestiary-mode .content-card strong { color: #4a3000; }
+.bestiary-mode .content-card em { color: #5a4020; }
+.bestiary-mode .content-card li { color: #2a1f0e; }
+.bestiary-mode .content-card blockquote {
+  background: rgba(106,58,26,0.12);
+  border-left-color: #6b3a1a;
+  color: #3a2a10;
+}
+.bestiary-mode .content-card hr {
+  background: linear-gradient(90deg, transparent, #9a7a4a, transparent);
+}
+.bestiary-mode .content-card code {
+  background: #b09262;
+  color: #2a1f0e;
+}
+.bestiary-mode .content-card th {
+  background: rgba(74,48,0,0.12);
+  color: #4a3000;
+  border-bottom-color: #9a7a4a;
+}
+.bestiary-mode .content-card td {
+  border-bottom-color: #9a7a4a;
+  color: #2a1f0e;
+}
+.bestiary-mode .content-card tr:hover td {
+  background: rgba(74,48,0,0.06);
+}
+.bestiary-mode .content-card .dialogue-block {
+  background: linear-gradient(135deg, rgba(106,58,26,0.08), rgba(106,58,26,0.03));
+  border-left-color: #6b3a1a;
+}
+.bestiary-mode .content-card .dialogue-block .speech-line {
+  color: #1a1008;
+}
+.bestiary-mode .content-card .dialogue-block .speech-attr {
+  color: #5a4020;
+}
+.bestiary-mode .content-card .thought-block {
+  background: rgba(106,58,26,0.08);
+  border-left-color: #6b3a1a;
+  color: #3a2a10;
+}
+.bestiary-mode .content-card hr.scene-break {
+  background: linear-gradient(90deg, transparent, #6b3a1a, #9a7a4a, transparent);
+}
+.bestiary-mode .content-card .image-placeholder {
+  background: rgba(106,58,26,0.1);
+  border-color: #9a7a4a;
+}
+.bestiary-mode .content-card .image-placeholder .label {
+  color: #5a4020;
+}
+.bestiary-mode .content-card .image-placeholder .hint {
+  color: #5a4020;
+}
+.bestiary-mode .content-card table { border-color: #9a7a4a; }
+.bestiary-mode .creature-card {
+  background: #b89a70;
+  border-color: #9a7a4a;
+}
+.bestiary-mode .creature-card:hover {
+  background: #ac8c60;
+  border-color: #6b3a1a;
+  box-shadow: 0 4px 15px rgba(74,48,0,0.2);
+}
+.bestiary-mode .creature-card .creature-name {
+  color: #2a1f0e;
+}
+.bestiary-mode .biome-header h2 { color: #4a3000; }
+.bestiary-mode .back-button {
+  background: #b89a70;
+  border-color: #9a7a4a;
+  color: #2a1f0e;
+}
+.bestiary-mode .back-button:hover {
+  background: #ac8c60;
+  color: #4a3000;
+  border-color: #6b3a1a;
+}
+.bestiary-mode .biome-title { color: #4a3000; }
+.bestiary-mode .creature-name-title { color: #4a3000; }
+.bestiary-mode .biome-badge {
+  background: #b89a70;
+  border-color: #6b3a1a;
+  color: #2a1f0e;
+}
+
+/* ════════════════ BESTIARY PLATE FRAME ════════════════ */
+.creature-portrait {
+  border: none !important;  /* Override inline border style */
+  box-shadow:
+    0 0 0 2px #9a7a4a,
+    0 0 0 5px #6b3a1a,
+    4px 4px 12px rgba(0,0,0,0.3);
+  border-radius: 3px;
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
+  background: #c4a882;
+}
+.creature-portrait:hover {
+  box-shadow:
+    0 0 0 2px #b89a70,
+    0 0 0 5px #8b4a2a,
+    6px 6px 18px rgba(0,0,0,0.4);
+  transform: scale(1.02);
+}
+.bestiary-mode .creature-portrait {
+  box-shadow:
+    0 0 0 2px #b89a70,
+    0 0 0 5px #6b3a1a,
+    4px 4px 10px rgba(0,0,0,0.2);
+}
+.bestiary-mode .creature-portrait:hover {
+  box-shadow:
+    0 0 0 2px #d4c8a8,
+    0 0 0 5px #8b4a2a,
+    6px 6px 16px rgba(0,0,0,0.3);
+  transform: scale(1.02);
+}
+
+/* ════════════════ PORTRAIT HOVER BANNER ════════════════ */
+.portrait-wrapper {
+  position: relative;
+  line-height: 0;
+  display: inline-block;
+}
+.portrait-wrapper .portrait-label {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(26, 16, 8, 0.88);
+  color: #e8dcc8;
+  font-family: 'Georgia', 'Palatino Linotype', serif;
+  font-size: 0.85rem;
+  text-align: center;
+  padding: 6px 10px;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  pointer-events: none;
+  letter-spacing: 0.5px;
+  backdrop-filter: blur(2px);
+  border-radius: 0 0 3px 3px;
+}
+.portrait-wrapper:hover .portrait-label {
+  opacity: 1;
+}
+.bestiary-mode .portrait-wrapper .portrait-label {
+  background: rgba(26, 16, 8, 0.9);
+  color: #f0e8d0;
+}
+
+/* ── Footer ── */
+.footer {
+  text-align: center;
+  padding: 30px 30px 84px;
+  margin-top: 40px;
+  color: var(--text-dim);
+  font-size: 0.8rem;
+  letter-spacing: 2px;
+  border-top: 1px solid var(--border);
+}
+
+/* ════════════════ CREATURE GRID ════════════════ */
+.creature-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 14px;
+  margin-top: 20px;
+}
+.creature-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 16px;
+  cursor: pointer;
+  transition: all 0.25s ease;
+  text-align: center;
+}
+.creature-card:hover {
+  background: var(--bg-card-hover);
+  border-color: var(--steadfast-dim);
+  transform: translateY(-3px);
+  box-shadow: 0 4px 15px var(--steadfast-glow);
+}
+.creature-card .creature-name {
+  color: var(--text-secondary);
+  font-family: var(--font-heading);
+  font-size: 0.95rem;
+  letter-spacing: 0.5px;
+}
+
+/* ════════════════ BIOME HEADER ════════════════ */
+.biome-header {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 20px;
+}
+.biome-header h2 {
+  font-family: var(--font-heading);
+  color: var(--steadfast);
+  font-size: 1.5rem;
+  margin: 0;
+}
+.back-button {
+  padding: 8px 14px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  color: var(--text-secondary);
+  cursor: pointer;
+  font-family: var(--font-body);
+  font-size: 0.85rem;
+  border-radius: 6px;
+  transition: all 0.2s ease;
+}
+.back-button:hover {
+  background: var(--bg-card-hover);
+  color: var(--steadfast);
+  border-color: var(--steadfast-dim);
+}
+
+/* ════════════════ BIOME TITLE ════════════════ */
+.biome-title {
+  font-family: var(--font-heading);
+  color: var(--steadfast);
+  font-size: 1.8rem;
+  margin-bottom: 16px;
+  letter-spacing: 1px;
+}
+
+/* ════════════════ CREATURE DETAIL ════════════════ */
+.creature-detail {
+  margin-top: 20px;
+}
+.creature-name-title {
+  font-family: var(--font-heading);
+  color: var(--steadfast);
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+.biome-badge {
+  display: inline-block;
+  padding: 4px 12px;
+  background: var(--bg-card);
+  border: 1px solid var(--steadfast-dim);
+  color: var(--text-secondary);
+  font-size: 0.8rem;
+  border-radius: 16px;
+  margin-bottom: 20px;
+}
+.creature-content {
+  margin-top: 20px;
+}
+
+/* ════════════════ SITE BAR — single nav system, present on every page ════════════════ */
+#site-nav{position:fixed;bottom:16px;left:50%;transform:translateX(-50%);z-index:900;display:flex;gap:2px;align-items:center;background:rgba(10,22,40,.78);border:1px solid #2a2018;border-radius:6px;padding:6px 12px;backdrop-filter:blur(4px)}
+#site-nav a{font-size:11px;letter-spacing:2px;text-transform:uppercase;color:#c8b890;text-decoration:none;padding:2px 6px;border-radius:4px;white-space:nowrap}
+#site-nav a:hover{color:#d4af37;background:rgba(201,160,89,.12)}
+/* ════════════════ SECTION ZOOM (orrery-style nav) ════════════════ */
+.section{transform-origin:50% 30%}
+.section.sec-zoom-out{animation:sec-out .36s cubic-bezier(.5,.05,.6,.95) forwards}
+@keyframes sec-out{to{opacity:0;transform:scale(1.5);filter:blur(6px)}}
+.section.sec-zoom-in{animation:sec-in .55s cubic-bezier(.16,.7,.2,1)}
+@keyframes sec-in{from{opacity:0;transform:scale(.7);filter:blur(8px)}to{opacity:1;transform:scale(1);filter:blur(0)}}
+/* descent: world → map (and any true navigation toward the map) */
+body.descend{animation:descend .68s cubic-bezier(.55,.06,.68,.4) forwards;transform-origin:50% 42%}
+@keyframes descend{to{transform:scale(3.4);opacity:0;filter:blur(5px)}}
+/* ════════════════ BESTIARY TOME ════════════════ */
+.tome{padding:1.2rem .5rem}
+.tome-title{font-family:'Cinzel',serif;color:#d4af37;text-align:center;font-size:1.6rem;letter-spacing:.12em;margin:0 0 .4rem}
+.tome-sub{color:#8a7a55;text-align:center;font-style:italic;font-size:.85rem;margin:0 0 1.4rem}
+.tome-chapters{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:14px}
+.tome-chapter{display:flex;flex-direction:column;gap:4px;text-align:left;background:rgba(20,32,52,.55);border:1px solid rgba(201,160,89,.35);border-radius:10px;padding:14px 16px;cursor:pointer;color:#c8b890;font-family:inherit;transition:border-color .25s,transform .25s,background .25s}
+.tome-chapter:hover{border-color:#d4af37;background:rgba(201,160,89,.10);transform:translateY(-2px)}
+.tome-chapter-name{font-family:'Cinzel',serif;color:#e8d9ae;font-size:1.02rem;letter-spacing:.06em}
+.tome-chapter-meta{color:#8a7a55;font-size:.72rem;letter-spacing:.14em;text-transform:uppercase}
+.tome-chapter-open{color:#d4af37;font-size:.75rem;letter-spacing:.1em;margin-top:6px}
+/* ════════════════ THE BESTIARY BOOK (heavy leather-bound tome) ════════════════ */
+.book-wrap{display:flex;justify-content:center;align-items:center;padding:2rem .5rem 3rem;perspective:1800px;position:relative;min-height:640px}
+.book{position:relative;display:flex;width:100%;max-width:1120px;min-height:600px;padding:14px;border-radius:14px;
+ background:radial-gradient(120% 90% at 50% 0%,rgba(255,235,200,.06),transparent 60%),repeating-linear-gradient(35deg,rgba(0,0,0,.16) 0 3px,transparent 3px 7px),linear-gradient(140deg,#4a2c17 0%,#3a2210 45%,#2a180a 100%);
+ box-shadow:0 24px 60px rgba(0,0,0,.7),inset 0 2px 6px rgba(255,220,170,.15),inset 0 -3px 8px rgba(0,0,0,.7)}
+.book::before,.book::after{content:'';position:absolute;width:34px;height:34px;border:3px solid #8a6a2a;pointer-events:none;z-index:4}
+.book::before{top:5px;left:5px;border-right:none;border-bottom:none;border-radius:8px 0 0 0}
+.book::after{bottom:5px;right:5px;border-left:none;border-top:none;border-radius:0 0 8px 0}
+.book-page{flex:1;position:relative;overflow:hidden;color:#3a2c1a;padding:30px 36px;
+ background:radial-gradient(90% 70% at 20% 10%,rgba(120,80,20,.10),transparent 60%),radial-gradient(60% 50% at 80% 90%,rgba(120,80,20,.12),transparent 60%),linear-gradient(160deg,#e2cfa4 0%,#d3bd92 55%,#c4ab7c 100%)}
+.book-left{border-radius:6px 0 0 6px;box-shadow:inset -16px 0 24px -14px rgba(60,35,10,.6)}
+.book-right{border-radius:0 6px 6px 0;box-shadow:inset 16px 0 24px -14px rgba(60,35,10,.6)}
+.book-left::after,.book-right::after{content:'';position:absolute;top:6px;bottom:6px;width:7px;pointer-events:none;background:repeating-linear-gradient(90deg,#b99f74 0 1px,#e8d9b4 1px 2px)}
+.book-left::after{left:2px}
+.book-right::after{right:2px}
+.book-page::before{content:'';position:absolute;inset:12px;border:1px solid rgba(90,62,30,.5);box-shadow:0 0 0 4px rgba(90,62,30,.18);pointer-events:none}
+.book-spine{width:30px;flex:0 0 30px;background:linear-gradient(90deg,#2a180a,#5a3a1e 45%,#2a180a);box-shadow:inset 0 0 14px rgba(0,0,0,.8)}
+.book-title{font-family:'Uncial Antiqua','Cinzel',serif;color:#5a3e1e;text-align:center;font-size:1.3rem;letter-spacing:.06em;margin:0 0 .3rem}
+.book-sub{text-align:center;color:#7a5f3a;font-style:italic;font-family:'IM Fell English',serif;font-size:.84rem;margin:0 0 1rem}
+.book-index{list-style:none;margin:0;padding:0 10px 0 4px;max-height:470px;overflow-y:auto;font-family:'IM Fell English',serif}
+.book-biome{margin-bottom:.5rem}
+.book-biome-head{display:flex;justify-content:space-between;align-items:baseline;width:100%;background:none;border:none;border-bottom:1px solid rgba(90,62,30,.4);padding:4px 2px;cursor:pointer;font-family:'Uncial Antiqua','Cinzel',serif;color:#5a3e1e;font-size:.92rem;text-align:left}
+.book-biome-head:hover{color:#8a2a1a}
+.bk-count{font-size:.68rem;color:#7a5f3a;letter-spacing:.12em}
+.book-creatures{list-style:none;margin:.3rem 0 0;padding:0 0 0 .9rem;display:none}
+.book-biome.open .book-creatures{display:block}
+.book-creature{background:none;border:none;cursor:pointer;display:block;width:100%;text-align:left;color:#4a3820;font-size:.88rem;padding:3px 4px;font-family:'IM Fell English',serif}
+.book-creature:hover{color:#8a2a1a;text-decoration:underline}
+.book-creature.sel{color:#8a2a1a;font-weight:bold}
+.book-dossier{max-height:520px;overflow-y:auto;padding:4px 12px 4px 4px;font-family:'IM Fell English',serif;font-size:.97rem;line-height:1.65}
+.book-dossier img{max-width:100% !important;height:auto !important;width:auto !important;float:none !important;display:block;margin:.6rem auto !important;border:1px solid rgba(90,62,30,.5);box-shadow:0 3px 10px rgba(0,0,0,.35)}
+.book-dossier picture{display:block}
+.pg-fl{position:absolute;width:54px;height:54px;pointer-events:none;opacity:.55}
+.pg-fl path{stroke:#8a2a1a;fill:none;stroke-width:1.5}
+.pg-fl circle{fill:#8a2a1a}
+.pg-fl.tl{top:16px;left:16px}
+.pg-fl.tr{top:16px;right:16px;transform:scaleX(-1)}
+.pg-fl.bl{bottom:16px;left:16px;transform:scaleY(-1)}
+.pg-fl.br{bottom:16px;right:16px;transform:scale(-1)}
+.book-entry-title{font-family:'Uncial Antiqua','Cinzel',serif;color:#5a3e1e;margin:.2rem 0 .4rem}
+.book-dossier .biome-badge{display:inline-block;background:rgba(90,62,30,.15);color:#5a3e1e;border:1px solid rgba(90,62,30,.4);border-radius:4px;padding:2px 10px;font-size:.7rem;letter-spacing:.12em;text-transform:uppercase;margin-bottom:.6rem}
+.book-dossier h2,.book-dossier h3{color:#8a2a1a;font-family:'Uncial Antiqua','Cinzel',serif}
+.book-dossier .creature-content > p:first-of-type::first-letter{font-family:'Uncial Antiqua','Cinzel',serif;font-size:2.7em;float:left;line-height:.85;padding:2px 7px 0 0;color:#8a2a1a}
+.book-folio{position:absolute;bottom:16px;font-family:'IM Fell English',serif;font-style:italic;color:#7a5f3a;font-size:.75rem;pointer-events:none}
+.book-left .book-folio{left:24px}
+.book-right .book-folio{right:24px}
+/* ── closed cover ── */
+.book-closed{position:relative;width:430px;max-width:92%;min-height:580px;margin:0 auto;cursor:pointer;border-radius:10px 16px 16px 10px;
+ background:repeating-linear-gradient(35deg,rgba(0,0,0,.18) 0 3px,transparent 3px 7px),linear-gradient(140deg,#4a2c17,#2a180a 70%);
+ box-shadow:0 24px 60px rgba(0,0,0,.75),inset 0 0 0 3px rgba(138,106,42,.55),inset 0 0 60px rgba(0,0,0,.6);
+ display:flex;flex-direction:column;align-items:center;justify-content:center;gap:12px;transition:transform 1.8s cubic-bezier(.4,.1,.2,1),opacity 1.8s;z-index:6}
+.book-closed::before{content:'';position:absolute;left:12px;top:10px;bottom:10px;width:3px;background:rgba(255,220,170,.12);border-radius:2px}
+.book-closed .bc-title{font-family:'Uncial Antiqua','Cinzel',serif;color:#c9a059;font-size:1.5rem;letter-spacing:.08em;text-shadow:0 1px 0 #1a0f06,0 0 18px rgba(201,160,89,.35);text-align:center;padding:0 24px}
+.book-closed .bc-sub{font-family:'IM Fell English',serif;font-style:italic;color:#8a6f4d;font-size:.86rem;text-align:center;padding:0 30px}
+.book-closed .bc-emblem{width:76px;height:76px;border:2px solid #8a6a2a;border-radius:50%;display:flex;align-items:center;justify-content:center;color:#c9a059;font-size:1.7rem;box-shadow:inset 0 0 12px rgba(0,0,0,.6)}
+.book-closed .bc-hint{position:absolute;bottom:18px;color:#8a6f4d;font-family:'IM Fell English',serif;font-style:italic;font-size:.82rem}
+.book-closed .bc-clasp{position:absolute;right:-6px;top:50%;width:26px;height:44px;margin-top:-22px;background:linear-gradient(180deg,#a8853a,#6a4f1a);border-radius:4px;box-shadow:0 2px 6px rgba(0,0,0,.6)}
+.book-opening .book-closed{position:absolute;left:50%;top:50%;width:430px;height:580px;margin:-290px 0 0 -215px;transform-origin:left center;transform:rotateY(-150deg) scale(.92);opacity:0}
+.book-opening .book{animation:book-arrive 1.8s cubic-bezier(.2,.7,.2,1)}
+.book-back{display:none;margin:0 0 12px;padding:6px 14px;font-family:'Uncial Antiqua','Cinzel',serif;font-size:.72rem;letter-spacing:.12em;color:#5a3e1e;background:rgba(139,42,42,.08);border:1px solid rgba(139,42,42,.45);border-radius:3px;cursor:pointer}
+@keyframes page-turn{from{transform:perspective(900px) rotateY(-16deg);opacity:.15}to{transform:none;opacity:1}}
+@media (max-width:900px){
+  .book-wrap{min-height:0;padding:1rem .5rem 6.5rem;align-items:stretch}
+  .book{flex-direction:column;min-height:0;padding:12px}
+  .book-spine{display:none}
+  .book-page{flex:none;width:100%;padding:26px 22px 40px;overflow:visible;border-radius:6px;
+    box-shadow:inset 0 16px 24px -18px rgba(60,35,10,.55),inset 0 -16px 24px -18px rgba(60,35,10,.55)}
+  .book-left::after,.book-right::after{display:none}
+  .book-right{display:none}
+  .book.book-show-entry .book-left{display:none}
+  .book.book-show-entry .book-right{display:block;animation:page-turn .55s ease}
+  .book-index{max-height:none;overflow:visible;padding:0 6px}
+  .book-dossier{max-height:none;overflow:visible;padding:4px 6px}
+  .book-back{display:inline-block}
+  .book-title{font-size:1.15rem}
+}
+@keyframes book-arrive{from{transform:scale(.72) rotateX(14deg);opacity:0}to{transform:scale(1) rotateX(0);opacity:1}}
+/* ════════════════ THE GREAT ORRERY LANDING ════════════════ */
+.orrery-card{background:#050d1a !important;border-color:rgba(201,160,89,.35)}
+.orrery{position:relative;width:100%;min-height:470px;overflow:hidden}
+.orrery-stage{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;transition:opacity .6s ease,transform .6s ease}
+.orrery-stage[hidden]{display:none}
+.orrery-stage.zoom-out{opacity:0;transform:scale(2.6)}
+.orrery-stage.zoom-in{animation:orrery-in .65s ease}
+@keyframes orrery-in{from{opacity:0;transform:scale(.35)}to{opacity:1;transform:scale(1)}}
+.orrery-space{position:relative;width:420px;height:420px}
+.orrery-stars{position:absolute;inset:-40px;background-image:radial-gradient(1px 1px at 20% 30%,rgba(255,255,255,.5) 50%,transparent 50%),radial-gradient(1px 1px at 70% 60%,rgba(255,255,255,.35) 50%,transparent 50%),radial-gradient(1.5px 1.5px at 40% 80%,rgba(255,255,255,.4) 50%,transparent 50%),radial-gradient(1px 1px at 85% 20%,rgba(255,255,255,.3) 50%,transparent 50%),radial-gradient(1px 1px at 10% 70%,rgba(255,255,255,.3) 50%,transparent 50%);background-size:220px 220px}
+.orrery-center{position:absolute;left:50%;top:50%;width:0;height:0}
+.binary-spin{position:absolute;left:0;top:0;animation:orrery-spin 14s linear infinite}
+.binary-spin .sun{position:absolute;top:-9px}
+.sun{display:block;width:18px;height:18px;border-radius:50%}
+.sun-steadfast{background:radial-gradient(circle at 35% 35%,#ffe9b0,#c9a059 60%,#8a6a2a);box-shadow:0 0 18px 4px rgba(201,160,89,.55);left:-26px}
+.sun-flicker{background:radial-gradient(circle at 35% 35%,#ff9a8a,#8b2a2a 60%,#5a1414);box-shadow:0 0 18px 4px rgba(139,42,42,.55);left:8px}
+@keyframes orrery-spin{to{transform:rotate(360deg)}}
+.orbit{position:absolute;border:1px solid rgba(201,160,89,.28);border-radius:50%;pointer-events:none}
+.orrery-stars,.binary-spin,.world-names{pointer-events:none}
+.orbit-ethra{left:50%;top:50%;width:340px;height:340px;margin:-170px 0 0 -170px;animation:orrery-spin 40s linear infinite}
+.world-dot{position:absolute;left:50%;top:-11px;margin-left:-11px;background:none;border:none;cursor:pointer;padding:0;pointer-events:auto}
+.world-sphere{display:block;width:22px;height:22px;border-radius:50%;background:radial-gradient(circle at 35% 35%,#9fd4c8,#2a7a8a 45%,#123a5a 80%);box-shadow:0 0 14px 3px rgba(90,180,200,.45)}
+.world-dot:hover .world-sphere{box-shadow:0 0 22px 6px rgba(212,175,55,.6)}
+.world-label{position:absolute;top:26px;left:50%;font-family:'Cinzel',serif;color:#d4af37;letter-spacing:.3em;font-size:.7rem;animation:orrery-label-back 40s linear infinite}
+@keyframes orrery-label-back{from{transform:translateX(-50%) rotate(0)}to{transform:translateX(-50%) rotate(-360deg)}}
+.orrery-hint{color:#8a7a55;font-style:italic;font-size:.8rem;margin-top:14px;text-align:center}
+.orrery-back{background:none;border:none;color:#d4af37;cursor:pointer;font-style:italic;font-size:.8rem}
+.world-view{display:flex;gap:26px;align-items:stretch;width:100%;padding:0 22px;box-sizing:border-box}
+.world-diagram{position:relative;width:340px;height:340px;flex:0 0 340px}
+.world-big{position:absolute;left:50%;top:50%;width:190px;height:190px;margin:-95px 0 0 -95px;border-radius:50%;cursor:pointer;overflow:hidden;background:#0e2f4c;box-shadow:0 0 30px 6px rgba(90,180,200,.35)}
+.wb-svg{position:absolute;inset:0;width:100%;height:100%;display:block}
+.wb-surf{animation:wb-drift 90s linear infinite}
+.wb-clouds{animation:wb-drift 36s linear infinite}
+@keyframes wb-drift{to{transform:translateX(-150px)}}
+.world-big:hover{box-shadow:0 0 40px 10px rgba(212,175,55,.5),inset -18px -14px 40px rgba(0,0,0,.55)}
+.orbit-sun-a{left:50%;top:50%;width:250px;height:250px;margin:-125px 0 0 -125px;animation:orrery-spin 12s linear infinite}
+.orbit-sun-b{left:50%;top:50%;width:310px;height:310px;margin:-155px 0 0 -155px;animation:orrery-spin 9s linear infinite reverse}
+.orbit-sun-a .sun,.orbit-sun-b .sun{position:absolute;top:-9px;left:50%;margin-left:-9px}
+.world-names{position:absolute;bottom:-6px;left:0;right:0;display:flex;gap:26px;justify-content:center;font-size:.65rem;letter-spacing:.25em}
+.wn-gold{color:#c9a059}.wn-red{color:#8b2a2a}
+.world-lore{flex:1;max-height:360px;overflow-y:auto;color:#c8b890;font-size:.85rem;line-height:1.6;padding:10px 14px;border-left:1px solid rgba(201,160,89,.25)}
+.world-lore h3{color:#d4af37;font-family:'Cinzel',serif;margin:0 0 .6rem}
+.world-lore img{max-width:100%}
+#site-nav .sep{color:#4a3e2c;font-size:10px}
+body{animation:page-in .45s ease}
+@keyframes page-in{from{opacity:0}to{opacity:1}}
+body.leaving{opacity:0;transition:opacity .3s ease}
+.world-tabs{display:flex;gap:6px;flex-wrap:wrap;margin:8px 0 4px}
+.world-tab{background:transparent;border:1px solid var(--border-gold);color:var(--text-dim);font-size:.72rem;letter-spacing:1px;text-transform:uppercase;padding:4px 10px;border-radius:4px;cursor:pointer;transition:all .2s ease}
+.world-tab:hover{color:var(--steadfast);border-color:var(--steadfast-dim)}
+.world-tab.active{color:var(--steadfast);border-color:var(--steadfast);background:rgba(201,160,89,.12)}
+
+/* ════════════════ HAMBURGER MENU ════════════════ */
+#hamburgerBtn {
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  width: 40px;
+  height: 40px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  cursor: pointer;
+  z-index: 1001;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  transition: all 0.3s ease;
+}
+#hamburgerBtn:hover {
+  background: var(--bg-card-hover);
+  border-color: var(--steadfast);
+  box-shadow: 0 0 12px var(--steadfast-glow);
+}
+#hamburgerBtn .bar {
+  width: 20px;
+  height: 2px;
+  background: var(--text-primary);
+  transition: all 0.3s ease;
+}
+#hamburgerBtn.active .bar:nth-child(1) {
+  transform: translateY(7px) rotate(45deg);
+}
+#hamburgerBtn.active .bar:nth-child(2) {
+  opacity: 0;
+}
+#hamburgerBtn.active .bar:nth-child(3) {
+  transform: translateY(-7px) rotate(-45deg);
+}
+#biomeMenu {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 260px;
+  height: 100vh;
+  background: var(--bg-deep);
+  border-right: 1px solid var(--border);
+  padding: 80px 20px 20px;
+  transform: translateX(-100%);
+  transition: transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+  z-index: 1000;
+  overflow-y: auto;
+}
+#biomeMenu.active {
+  transform: translateX(0);
+}
+#biomeMenu .menu-header {
+  color: var(--steadfast);
+  font-family: var(--font-heading);
+  font-size: 1.1rem;
+  letter-spacing: 1px;
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid var(--border-gold);
+}
+#biomeMenu .biome-item {
+  display: block;
+  width: 100%;
+  padding: 10px 14px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  color: var(--text-secondary);
+  cursor: pointer;
+  font-family: var(--font-body);
+  font-size: 0.9rem;
+  border-radius: 6px;
+  margin-bottom: 8px;
+  text-align: left;
+  transition: all 0.2s ease;
+}
+#biomeMenu .biome-item:hover {
+  background: var(--bg-card-hover);
+  color: var(--steadfast);
+  border-color: var(--steadfast-dim);
+}
+#biomeMenu .biome-item.active {
+  background: rgba(201,160,89,0.12);
+  color: var(--steadfast);
+  border-color: var(--steadfast);
+}
+#biomeMenu .biome-item .creature-count {
+  float: right;
+  font-size: 0.75rem;
+  color: var(--text-dim);
+  background: var(--bg-abyss);
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+
+  .header { gap: 12px; flex-wrap: wrap; --orbitR: 130px; --orbitr: 12px; }
+  .header h1 { font-size: 1.3rem; letter-spacing:2px; }
+  .content-card { padding: 24px 20px; }
+  .nav-tab { padding: 10px 16px; font-size:0.8rem; }
+  .arc-tab { padding: 6px 10px; font-size: 0.7rem; }
+  .chapter-tab { padding: 5px 10px; font-size:0.7rem; }
+  .container { padding: 12px; }
+  /* the orrery fits the narrow sky */
+  .orrery-space { transform: scale(.78); }
+  .orrery { min-height: 400px; }
+  /* the bar wraps instead of spilling */
+  #site-nav { max-width: 94vw; flex-wrap: wrap; justify-content: center; bottom: 8px; padding: 4px 8px; }
+  #site-nav a { font-size: 10px; letter-spacing: 1px; padding: 2px 4px; }
+  .footer { font-size: 10px; letter-spacing: 1px; }
+}
+
+::-webkit-scrollbar { width: 8px; }
+::-webkit-scrollbar-track { background: var(--bg-abyss); }
+::-webkit-scrollbar-thumb { background: var(--border); border-radius: 4px; }
+::-webkit-scrollbar-thumb:hover { background: var(--steadfast-dim); }
+</style>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Uncial+Antiqua&family=IM+Fell+English:ital@0;1&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="/static/arc5_timeline.css?v=r6" />
+<style>
+/* ═════ MAP BESTIARY LAYER ═════ */
+.map-container {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 24/10;
+  background: #000;
+  overflow: hidden;
+  border-radius: 4px;
+}
+.map-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+.dot-overlay {
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  pointer-events: none;
+}
+.creature-dot {
+  position: absolute;
+  width: 14px; height: 14px;
+  border-radius: 50%;
+  background: rgba(196, 168, 130, 0.9);
+  border: 2px solid #3a2f1f;
+  cursor: pointer;
+  pointer-events: auto;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+  transform: translate(-50%, -50%);
+}
+.creature-dot:hover {
+  transform: translate(-50%, -50%) scale(1.25);
+  box-shadow: 0 0 12px rgba(255, 220, 160, 0.7);
+  background: #fff8e8;
+}
+.creature-dot:focus {
+  outline: 2px solid #c9a059;
+  outline-offset: 2px;
+}
+.dot-tooltip {
+  position: absolute;
+  background: #fff8e8;
+  border: 2px solid #3a2f1f;
+  border-radius: 6px;
+  padding: 8px 10px;
+  font-family: Georgia, serif;
+  font-size: 0.85rem;
+  color: #2a1f0f;
+  white-space: nowrap;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.15s ease;
+  z-index: 10;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.35);
+}
+.dot-tooltip.visible {
+  opacity: 1;
+}
+.dot-tooltip .creature-name {
+  font-weight: bold;
+  display: block;
+  margin-bottom: 4px;
+}
+.dot-tooltip .creature-biome {
+  font-size: 0.75rem;
+  color: #5a4a3a;
+}
+.dot-tooltip .creature-thumb {
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  border-radius: 4px;
+  border: 1px solid #3a2f1f;
+  margin-top: 6px;
+  display: block;
+}
+
+      /* ═════ CREATURE PAGE MODAL (full-page HTML) ═════ */
+      .creature-page-modal {
+        display: none;
+        position: fixed;
+        top: 0; left: 0; right: 0; bottom: 0;
+        background: rgba(6, 13, 24, 0.92);
+        z-index: 9998;
+        overflow: auto;
+      }
+      .creature-page-modal .modal-chrome {
+        position: relative;
+        max-width: 900px;
+        margin: 40px auto;
+        background: #f0e8d0;
+        border: 3px solid #3a2f1f;
+        border-radius: 8px;
+        box-shadow: 0 0 40px rgba(0,0,0,0.7);
+      }
+      .creature-page-modal .modal-scroll {
+        max-height: 70vh;
+        overflow-y: auto;
+        padding: 2rem;
+      }
+      .creature-page-modal .modal-content {
+        font-family: 'Georgia', serif;
+        color: #2a1f0f;
+        line-height: 1.7;
+      }
+      .creature-page-modal .modal-content h1,
+      .creature-page-modal .modal-content h2,
+      .creature-page-modal .modal-content h3 {
+        color: #8b4a2a;
+        margin-top: 1.5rem;
+        margin-bottom: 0.75rem;
+      }
+      .creature-page-modal .modal-close {
+        position: fixed;
+        top: 20px; right: 20px;
+        width: 44px; height: 44px;
+        border-radius: 50%;
+        background: rgba(139, 74, 42, 0.9);
+        border: 2px solid #c9a059;
+        color: #f4e8d0;
+        font-size: 28px;
+        cursor: pointer;
+        z-index: 9999;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+      .creature-page-modal .modal-close:hover {
+        background: #8b4a2a;
+      }
+      .constituent-list button {
+        display: block;
+        width: 100%;
+        padding: 0.75rem 1rem;
+        margin-bottom: 0.5rem;
+        background: #fff8e8;
+        border: 2px solid #3a2f1f;
+        border-radius: 4px;
+        cursor: pointer;
+        font-family: 'Georgia', serif;
+        font-size: 0.95rem;
+        color: #2a1f0f;
+        text-align: left;
+      }
+      .constituent-list button:hover {
+        background: #e8dcc8;
+      }
+
+</style>
+</head>
+<body>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true"><filter id="ink-melt"><feTurbulence type="fractalNoise" baseFrequency="0.012" numOctaves="2" seed="7" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="0" xChannelSelector="R" yChannelSelector="G"/></filter></svg>
+
+<!-- ══════════ SITE BAR — the single nav system, present on every page ══════════ -->
+<nav id="site-nav" aria-label="Ethra site">
+  <a href="/">✦ Home</a><span class="sep">·</span>
+  <a href="/map/">The Map</a><span class="sep">·</span>
+  <a href="/?section=story">Chronicles</a><span class="sep">·</span>
+  <a href="/?section=bestiary">Bestiary</a><span class="sep">·</span>
+  <a href="/?world=geography">World</a>
+</nav>
+
+<div class="container">
+
+  <!-- ══════════ HEADER ══════════ -->
+  <header class="header">
+    <div class="header-orbit" aria-hidden="true">
+      <span class="sun sun-steadfast"></span>
+      <span class="sun sun-flicker"></span>
+    </div>
+    <div class="title-wrap">
+      <h1>ETHRA</h1>
+      <p class="subtitle">The Great Orrery</p>
+    </div>
+  </header>
+
+  <!-- ══════════ BESTIARY ══════════ -->
+
+
+  <section class="section" id="section-bestiary">
+    <div class="content-card">
+      {{ bestiary_content | safe }}
+    </div>
+  </section>
+
+  <!-- ══════════ WORLD / LANDING ══════════ -->
+  <section class="section active" id="section-world">
+    <div class="content-card landing-page orrery-card"></div>
+  </section>
+
+  <!-- ══════════ TALES OF ETHRA ══════════ -->
+  <section class="section" id="section-story">
+    {% if arcs %}
+    <!-- Arc selector bar — the live shelf (always visible; the chosen tome
+         falls flat upon it and the folio opens below, round 9) -->
+    <div class="shelf-stack">
+    <nav class="arc-nav" id="arcNav">
+      {% for arc_num, arc in arcs.items() %}
+      <button class="arc-tab"
+              data-arc="{{ arc_num }}" aria-label="{{ arc.title }}">
+        <span class="spine-who">Ajani</span>
+        <span class="spine-arc">{{ arc.title.split(':')[0] }}</span>
+        <span class="spine-title">{{ arc.title.split(': ', 1)[1] if ': ' in arc.title else arc.title }}</span>
+      </button>
+      {% endfor %}
+    </nav>
+
+    <!-- ── dust rows: one shelf per tyrant, awaiting the quill ── -->
+    {% set tyrants = [
+      ('First Tyrant', 3),
+      ("Crr'zzak", 2),
+      ('Uthgar', 3),
+      ("Xal'thyra", 2),
+      ('Velarius Vane', 3)
+    ] %}
+    {% for name, count in tyrants %}
+    <nav class="arc-nav dust" aria-label="{{ name }} — chronicle unwritten">
+      <svg class="cobweb tl" viewBox="0 0 100 100" aria-hidden="true"><g fill="none" stroke="rgba(216,214,200,0.16)" stroke-width="1.1">
+        <path d="M0 0 L98 6 M0 0 L90 40 M0 0 L68 68 M0 0 L40 90 M0 0 L6 98"/>
+        <path d="M28 2 Q20 20 2 28"/><path d="M56 4 Q44 44 4 56"/><path d="M86 8 Q66 66 8 86"/>
+      </g></svg>
+      <svg class="cobweb tr" viewBox="0 0 100 100" aria-hidden="true"><g fill="none" stroke="rgba(216,214,200,0.12)" stroke-width="1.1">
+        <path d="M0 0 L98 6 M0 0 L90 40 M0 0 L68 68 M0 0 L40 90 M0 0 L6 98"/>
+        <path d="M28 2 Q20 20 2 28"/><path d="M56 4 Q44 44 4 56"/><path d="M86 8 Q66 66 8 86"/>
+      </g></svg>
+      {% for i in range(count) %}
+      <span class="arc-tab" style="height: {{ [150, 168, 142][i % 3] }}px;">
+        <span class="spine-who">{{ name }}</span>
+        <span class="spine-title">unwritten</span>
+      </span>
+      {% endfor %}
+    </nav>
+    {% endfor %}
+    </div>
+    <button class="shelf-return" id="shelfReturn" hidden>↩ shelve the tome</button>
+
+    <!-- reading pane stays veiled until a volume is chosen -->
+    <div class="chronicle-veil" id="chronicleVeil">The shelf waits — choose a volume to open its chronicle.</div>
+
+    <!-- Arc panels with sub-chapter navigation -->
+    {% for arc_num, arc in arcs.items() %}
+    <div class="arc-panel" id="arc-panel-{{ arc_num }}">
+      <nav class="chapter-subnav" id="chapterNav-{{ arc_num }}">
+        {% for ch in arc.chapters %}
+        <button class="chapter-tab"
+                data-chapter="{{ ch.id }}" aria-label="{{ ch.title }}">
+          <span class="ch-title">{{ ch.title }}</span>
+        </button>
+        {% endfor %}
+      </nav>
+
+      {% for ch in arc.chapters %}
+      <div class="chapter-content" id="{{ ch.id }}" data-chapter-id="{{ ch.id }}" data-loaded="false">
+        <div class="content-card">
+          <div class="chapter-loading-placeholder" style="padding:1rem;color:#8a7a55;font-style:italic;">
+            <em>Loading {{ ch.title }}…</em>
+          </div>
+
+          {% if ch.id in chapter_images %}
+          <div class="chapter-illustration">
+            <picture>
+              {% set ch_img_base = chapter_images[ch.id] | replace('.png', '') %}
+              {# only list derivatives that exist on disk — a missing WebP
+                 source would win <picture> negotiation and break the image #}
+              {% if image_exists is defined and image_exists(ch_img_base ~ '.webp') %}<source srcset="/static/images/{{ ch_img_base }}.webp" type="image/webp" />{% endif %}
+              {% if image_exists is defined and image_exists(ch_img_base ~ '.jpg') %}<source srcset="/static/images/{{ ch_img_base }}.jpg" type="image/jpeg" />{% endif %}
+              <img src="/static/images/{{ chapter_images[ch.id] }}" alt="Illustration — {{ ch.title }}" loading="lazy">
+            </picture>
+          </div>
+          {% else %}
+          <div class="image-placeholder">
+            <div class="icon">✦</div>
+            <div class="label">Illustration — {{ ch.title }}</div>
+            <div class="hint">Place image in static/images/{{ ch.id }}.png</div>
+          </div>
+          {% endif %}
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+    {% endfor %}
+
+    {% else %}
+    <div class="content-card">
+      <p><em>No chapters found. Add arcXX-chYY.md files to content/story/chapters/</em></p>
+    </div>
+    {% endif %}
+  </section>
+
+  <footer class="footer">
+    <p>✦ Ethra — The Great Orrery ✦  &copy; {{ current_year }}</p>
+  </footer>
+</div>
+
+<script>
+(function() {
+  // ── Always show landing page first ──
+  document.querySelectorAll('.section').forEach(s => s.classList.remove('active'));
+  const worldSection = document.getElementById('section-world');
+  if (worldSection) worldSection.classList.add('active');
+
+  // ── Arc tabs + the falling tome (round 9) ──
+  // The shelf never hides. The chosen volume tips over and lies flat on its
+  // board, the neighbours lean across it, and once it lands the silk ribbon
+  // drops and the folio opens below the stacks.
+  const arcNav = document.getElementById('arcNav');
+  const storySection = document.getElementById('section-story');
+  const shelfReturn = document.getElementById('shelfReturn');
+
+  let fallenTab = null;
+  function clearFall() {
+    if (!arcNav) return;
+    arcNav.querySelectorAll('.arc-tab').forEach(t => {
+      t.classList.remove('fallen', 'lean-l', 'lean-r', 'active');
+      t.style.transition = '';
+      t.style.transform = '';
+    });
+  }
+  /* FLIP: capture x, mutate the shelf, invert, let the 0.7s transition play */
+  function flipTabs(mutate) {
+    if (!arcNav) return;
+    const tabs = Array.from(arcNav.querySelectorAll('.arc-tab'));
+    const firstX = new Map(tabs.map(t => [t, t.getBoundingClientRect().left]));
+    mutate();
+    arcNav.getBoundingClientRect();
+    tabs.forEach(t => {
+      const dx = firstX.get(t) - t.getBoundingClientRect().left;
+      if (Math.abs(dx) > 0.5) {
+        t.style.transition = 'none';
+        t.style.transform = 'translateX(' + dx + 'px)';
+      }
+    });
+    arcNav.getBoundingClientRect();
+    tabs.forEach(t => {
+      if (t.style.transform) { t.style.transition = ''; t.style.transform = ''; }
+    });
+  }
+  function canonicalSort() {
+    Array.from(arcNav.querySelectorAll('.arc-tab'))
+      .sort((a, b) => (+a.getAttribute('data-arc')) - (+b.getAttribute('data-arc')))
+      .forEach(t => arcNav.appendChild(t));
+  }
+  function fallTome(tab) {
+    if (!arcNav) return;
+    arcNav.querySelectorAll('.arc-tab').forEach(t => {
+      if (t !== tab) t.classList.add('lean-l');
+    });
+    tab.classList.remove('lean-l');
+    tab.classList.add('fallen');
+    fallenTab = tab;
+  }
+  function unfurlRibbon(panel) {
+    const ribbon = panel.querySelector('.chapter-subnav');
+    if (ribbon && getComputedStyle(ribbon).display !== 'none') {
+      ribbon.classList.remove('unfurl');
+      ribbon.getBoundingClientRect();
+      ribbon.classList.add('unfurl');
+    }
+  }
+  /* the ribbon is a true page marker: its top folds OVER the lying tome's
+     reader-facing edge and the board's front face (the silk's z-index 4
+     paints it above the shelf's z3, so the drape is visible) */
+  function attachRibbon(panel, tab) {
+    const ribbon = panel.querySelector('.chapter-subnav');
+    if (!ribbon || !arcNav) return;
+    if (getComputedStyle(ribbon).display === 'none') return;
+    const navR = arcNav.getBoundingClientRect();
+    ribbon.style.marginTop = '0px';
+    ribbon.style.marginLeft = '0px';
+    const r0 = ribbon.getBoundingClientRect();
+    // silk top rests 6px above the board's top edge: it overlaps the lying
+    // tome's bottom edge, then drapes across the board's 11px front face
+    const targetY = navR.bottom - 6;
+    // a true page marker slips between the pages: it hangs from the tome's
+    // HEAD edge (the page-top side, out at the shelf's left end), not mid-body
+    const padL = parseFloat(getComputedStyle(arcNav).paddingLeft) || 24;
+    const bookLeft = navR.left + padL - (tab.offsetHeight || 172);
+    ribbon.style.marginTop = (targetY - r0.top) + 'px';
+    ribbon.style.marginLeft = (bookLeft + r0.width / 2 - (r0.left + r0.width / 2)) + 'px';
+  }
+  // ── landing-driven ribbon release ──
+  // The silk must not unfurl on a guessed delay: it is released only when the
+  // falling tome actually lands flat. At most one release may be pending; any
+  // new selectArc/shelveAll invalidates the old one through the token.
+  let ribbonReleaseToken = 0;
+  let ribbonReleaseHardTimer = null;
+  function cancelRibbonRelease() {
+    ribbonReleaseToken++;
+    if (ribbonReleaseHardTimer) { clearTimeout(ribbonReleaseHardTimer); ribbonReleaseHardTimer = null; }
+  }
+  function whenTomeLanded(tab, cb) {
+    const token = ribbonReleaseToken;
+    let done = false;
+    // "flat" is relative to THIS tome: lying down, its bounding box is no
+    // taller than its own spine width (+2px slack). A fixed pixel threshold
+    // fails both ways — arc 3 rests at 61px on desktop, and on mobile the
+    // overshoot bounce can stay under a fixed bar.
+    const flatEnough = () => tab.getBoundingClientRect().height <= tab.offsetWidth + 2;
+    const finish = () => {
+      if (done || token !== ribbonReleaseToken) return;
+      done = true;
+      tab.removeEventListener('transitionend', onEnd);
+      if (ribbonReleaseHardTimer) { clearTimeout(ribbonReleaseHardTimer); ribbonReleaseHardTimer = null; }
+      cb();
+    };
+    const onEnd = (e) => {
+      // the fall is a transform transition; ignore the filter's event, and
+      // trust only an end that leaves the tome lying flat
+      if (e.target === tab && e.propertyName === 'transform' && flatEnough()) finish();
+    };
+    tab.addEventListener('transitionend', onEnd);
+    // fallback 1: watch the box. The fall bezier OVERSHOOTS, so the box
+    // swings THROUGH "flat" once mid-air; a single thin reading is not a
+    // landing. Only SUSTAINED flatness (3 consecutive frames) releases.
+    let flatStreak = 0;
+    const poll = () => {
+      if (done || token !== ribbonReleaseToken) return;
+      if (flatEnough()) {
+        if (++flatStreak >= 3) { finish(); return; }
+      } else {
+        flatStreak = 0;
+      }
+      requestAnimationFrame(poll);
+    };
+    requestAnimationFrame(poll);
+    // fallback 2: never leave the silk knotted if both watchers miss
+    ribbonReleaseHardTimer = setTimeout(finish, 1400);
+  }
+  function releaseRibbonOnLanding(tab, panel, fresh) {
+    whenTomeLanded(tab, () => {
+      if (!panel.classList.contains('active')) return;
+      if (fresh) panel.classList.remove('dropping');
+      attachRibbon(panel, tab);
+      const ribbon = panel.querySelector('.chapter-subnav');
+      if (ribbon) ribbon.classList.remove('waiting');
+      unfurlRibbon(panel);
+    });
+  }
+  function selectArc(arcNum, tab) {
+    cancelRibbonRelease(); // a new opening supersedes any pending release
+    // a closed volume keeps no unfurled silk: clear stale unfurl animations
+    document.querySelectorAll('.chapter-subnav.unfurl').forEach(r => r.classList.remove('unfurl'));
+    const switching = fallenTab && fallenTab !== tab;
+    arcNav.querySelectorAll('.arc-tab').forEach(t => t.classList.remove('active'));
+    tab.classList.add('active');
+    document.querySelectorAll('.arc-panel').forEach(p => p.classList.remove('active', 'dropping'));
+    const panel = document.getElementById('arc-panel-' + arcNum);
+    panel.classList.add('active', 'dropping');
+    const veil = document.getElementById('chronicleVeil');
+    if (veil) veil.classList.add('gone');
+    // first opening of a volume: wake its first chapter
+    if (!panel.querySelector('.chapter-tab.active')) {
+      const firstTab = panel.querySelector('.chapter-tab');
+      if (firstTab) firstTab.click();
+    }
+    localStorage.setItem('ethra-arc', arcNum);
+    if (storySection) storySection.classList.add('reading');
+    if (shelfReturn) shelfReturn.hidden = false;
+    if (arcNav) arcNav.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    if (switching) {
+      // replacement only: the old tome rises and slides home, the new one
+      // slides to first place and tips left; the others never re-fall
+      const old = fallenTab;
+      fallenTab = tab;
+      old.classList.remove('fallen');
+      flipTabs(() => {
+        canonicalSort();
+        arcNav.prepend(tab);
+      });
+      // the silk waits as a bare red thread at the tome's edge while the
+      // tome is in the air, then unfurls once it lies flat
+      const ribbon = panel.querySelector('.chapter-subnav');
+      if (ribbon) ribbon.classList.add('waiting');
+      attachRibbon(panel, tab);
+      setTimeout(() => {
+        if (fallenTab === tab && !tab.classList.contains('fallen')) fallTome(tab);
+      }, 350);
+      // the silk unfurls only once the falling tome actually lands flat
+      releaseRibbonOnLanding(tab, panel, false);
+      setTimeout(() => {
+        if (panel.classList.contains('active')) panel.classList.remove('dropping');
+      }, 300);
+    } else {
+      // fresh fall: the tome takes first place and tips left at once.
+      // Force a layout between the DOM move and the class so the fall
+      // actually animates instead of snapping flat.
+      arcNav.prepend(tab);
+      void arcNav.offsetHeight;
+      fallTome(tab);
+      // the tome falls first; once flat, the ribbon drops and the folio rises
+      releaseRibbonOnLanding(tab, panel, true);
+    }
+  }
+  function shelveAll() {
+    if (!arcNav) return;
+    cancelRibbonRelease(); // shelving supersedes any pending release
+    fallenTab = null;
+    flipTabs(() => {
+      canonicalSort();
+      arcNav.querySelectorAll('.arc-tab').forEach(t =>
+        t.classList.remove('fallen', 'lean-l', 'lean-r', 'active'));
+    });
+    document.querySelectorAll('.chapter-subnav').forEach(r => { r.style.marginTop = ''; r.style.marginLeft = ''; r.classList.remove('waiting', 'unfurl'); });
+    if (shelfReturn) shelfReturn.hidden = true;
+    if (storySection) storySection.classList.remove('reading');
+    document.querySelectorAll('.arc-panel').forEach(p => p.classList.remove('active', 'dropping'));
+    if (arcNav) arcNav.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+  if (arcNav) {
+    arcNav.querySelectorAll('.arc-tab').forEach(tab => {
+      tab.addEventListener('click', () => {
+        if (tab.classList.contains('fallen')) { shelveAll(); return; }
+        selectArc(tab.getAttribute('data-arc'), tab);
+      });
+    });
+  }
+  if (shelfReturn) shelfReturn.addEventListener('click', shelveAll);
+  // give each ribbon number its chapter title for the hover reveal
+  document.querySelectorAll('.chapter-tab').forEach(b => {
+    if (!b.getAttribute('data-title')) b.setAttribute('data-title', b.textContent.trim());
+  });
+
+  // ── Chapter sub-tabs ──
+  // Lazy chapter loading: each chapter div is rendered as empty by the server.
+  // When the user clicks a chapter tab (or the first chapter of an arc is
+  // auto-activated), we fetch /api/chapter/<id>, inject the HTML into the
+  // div, mark it as loaded, and cache the response for instant re-click.
+  const chapterCache = new Map();   // chapter_id -> html string
+  const chapterInflight = new Map(); // chapter_id -> Promise<html>
+
+  function fetchChapter(chapterId) {
+    if (chapterCache.has(chapterId)) {
+      return Promise.resolve(chapterCache.get(chapterId));
+    }
+    if (chapterInflight.has(chapterId)) {
+      return chapterInflight.get(chapterId);
+    }
+    const p = fetch('/api/chapter/' + encodeURIComponent(chapterId), {
+      credentials: 'same-origin',
+      headers: { 'Accept': 'text/html' }
+    }).then(r => {
+      if (!r.ok) throw new Error('HTTP ' + r.status + ' loading ' + chapterId);
+      return r.text();
+    }).then(html => {
+      chapterCache.set(chapterId, html);
+      chapterInflight.delete(chapterId);
+      return html;
+    }).catch(err => {
+      chapterInflight.delete(chapterId);
+      throw err;
+    });
+    chapterInflight.set(chapterId, p);
+    return p;
+  }
+
+  function renderChapterInto(chapterId, html) {
+    const div = document.getElementById(chapterId);
+    if (!div) return;
+    const card = div.querySelector('.content-card');
+    if (!card) return;
+    // Preserve any chapter-illustration / image-placeholder AFTER the prose
+    // by building a fresh prose container at the TOP of the card.
+    let proseHost = card.querySelector('.chapter-prose');
+    if (!proseHost) {
+      proseHost = document.createElement('div');
+      proseHost.className = 'chapter-prose';
+      // Insert at the top so the illustration block remains below (or wherever
+      // it currently sits). For consistency with current layout, prepend.
+      card.insertBefore(proseHost, card.firstChild);
+    }
+    proseHost.innerHTML = html;
+    // the "Loading…" scaffold has served its purpose — clear it so the
+    // end-of-chapter illustration sits flush under the prose
+    const scaffold = card.querySelector('.chapter-loading-placeholder');
+    if (scaffold) scaffold.remove();
+    div.setAttribute('data-loaded', 'true');
+  }
+
+  function activateChapter(chapterId) {
+    const div = document.getElementById(chapterId);
+    if (!div) return Promise.resolve();
+    if (div.getAttribute('data-loaded') === 'true') return Promise.resolve();
+    return fetchChapter(chapterId)
+      .then(html => renderChapterInto(chapterId, html))
+      .catch(err => {
+        const card = div.querySelector('.content-card');
+        if (card) {
+          card.insertAdjacentHTML(
+            'afterbegin',
+            '<div class="chapter-load-error" style="padding:1rem;color:#a04040;">' +
+              '<strong>Could not load chapter.</strong><br>' +
+              (err && err.message ? err.message : 'Unknown error') +
+              '</div>'
+          );
+        }
+        console.error('Chapter load failed', chapterId, err);
+      });
+  }
+
+
+  document.querySelectorAll('.chapter-subnav').forEach(subnav => {
+    const parentPanel = subnav.parentElement;
+    const chapterTabs = subnav.querySelectorAll('.chapter-tab');
+    const chapterContents = parentPanel.querySelectorAll('.chapter-content');
+
+    chapterTabs.forEach(tab => {
+      tab.addEventListener('click', () => {
+        const target = tab.getAttribute('data-chapter');
+        chapterTabs.forEach(t => t.classList.remove('active'));
+        tab.classList.add('active');
+        chapterContents.forEach(c => c.classList.remove('active'));
+        document.getElementById(target).classList.add('active');
+        try { localStorage.setItem('ethra-chapter', target); } catch(e) {}
+        activateChapter(target);
+      });
+    });
+  });
+
+  // ── Prefetch first chapter of each arc after page load ──
+  // Walks the rendered subnavs, grabs the first chapter of each arc, and
+  // pre-loads it so cold-start behaves as if it were inlined (without the
+  // 2 MB cost).
+  document.querySelectorAll('.chapter-subnav').forEach(subnav => {
+    const firstTab = subnav.querySelector('.chapter-tab');
+    if (firstTab) {
+      const firstId = firstTab.getAttribute('data-chapter');
+      // schedule, don't block
+      if ('requestIdleCallback' in window) {
+        requestIdleCallback(() => activateChapter(firstId), { timeout: 1500 });
+      } else {
+        setTimeout(() => activateChapter(firstId), 50);
+      }
+    }
+  });
+
+  // Round-7 direction: the reading pane stays veiled until a volume is
+  // chosen by hand — no auto-restore of the last arc/chapter on load.
+  // (Deep links still click their arc/chapter tabs explicitly.)
+
+  // ── Section switching (from hamburger menu) ──
+  window.__firstSwitch = true;
+  window.switchSection = function(sectionId) {
+    const target = document.getElementById('section-' + sectionId);
+    const current = document.querySelector('.section.active');
+    const first = window.__firstSwitch; window.__firstSwitch = false;
+    if (target && current && target !== current && !window.__secAnimating && !first) {
+      // orrery-style zoom between categories
+      window.__secAnimating = true;
+      current.classList.add('sec-zoom-out');
+      setTimeout(function () {
+        current.classList.remove('active', 'sec-zoom-out');
+        target.classList.add('active', 'sec-zoom-in');
+        setTimeout(function () { target.classList.remove('sec-zoom-in'); window.__secAnimating = false; }, 560);
+      }, 320);
+    } else {
+      document.querySelectorAll('.section').forEach(s => s.classList.remove('active'));
+      if (target) target.classList.add('active');
+    }
+    // Toggle bestiary parchment mode
+    const container = document.querySelector('.container');
+    if (container) {
+      if (sectionId === 'bestiary') {
+        container.classList.add('bestiary-mode');
+      } else {
+        container.classList.remove('bestiary-mode');
+      }
+    }
+    // Close menu
+    const hb = document.getElementById('hamburgerBtn');
+    const bm = document.getElementById('biomeMenu');
+    if (hb) hb.classList.remove('active');
+    if (bm) bm.classList.remove('active');
+    try { localStorage.setItem('ethra-section', sectionId); } catch(e) {}
+  };
+  
+  // ── Collapsible menu sections ──
+  window.toggleSection = function(submenuId) {
+    const sub = document.getElementById(submenuId);
+    const arrow = document.getElementById('arrow-' + submenuId);
+    if (sub) sub.classList.toggle('open');
+    if (arrow) arrow.classList.toggle('open');
+  };
+  
+  // ── Load biome creatures ──
+  window.loadBiome = async function(biome) {
+    switchSection('bestiary');
+    const resp = await fetch(`/ethra/api/creatures/${biome}`);
+    const creatures = await resp.json();
+    const cc = document.querySelector('#section-bestiary .content-card');
+    let html = '<div class="biome-header"><h2>Biomes of Ethra</h2><button class="back-button" onclick="loadBestiaryBook()">← Back</button></div>';
+    html += '<div class="biome-title">' + formatBiomeName(biome) + '</div><div class="creature-grid">';
+    creatures.forEach(c => {
+      html += '<button class="creature-card" onclick="loadCreature(\'' + biome + '\',\'' + c + '\')"><div class="creature-name">' + formatCreatureName(c) + '</div></button>';
+    });
+    html += '</div>';
+    cc.innerHTML = html;
+  };
+  
+  // ── Load individual creature ──
+  window.loadCreature = async function(biome, creature) {
+    const resp = await fetch(`/ethra/api/creature/${biome}/${creature}`);
+    const data = await resp.json();
+    const cc = document.querySelector('#section-bestiary .content-card');
+    cc.innerHTML = '<div class="biome-header"><h2>Biomes of Ethra</h2><button class="back-button" onclick="loadBiome(\'' + biome + '\')">← Back</button></div><div class="creature-detail"><div class="creature-name-title">' + formatCreatureName(creature) + '</div><div class="biome-badge">' + formatBiomeName(biome) + '</div><div class="creature-content">' + data.content + '</div></div>';
+  };
+
+  // ── Show landing page — THE GREAT ORRERY (three-stage zoom) ──
+  window.showLandingPage = function() {
+    const cc = document.querySelector('#section-world .content-card');
+    cc.className = 'content-card landing-page orrery-card';
+    cc.innerHTML =
+      '<div class="orrery" id="orrery">' +
+        '<div class="orrery-stage" id="orrery-stage-1">' +
+          '<div class="orrery-space">' +
+            '<div class="orrery-stars"></div>' +
+            '<div class="orrery-center"><div class="binary-spin"><span class="sun sun-steadfast"></span><span class="sun sun-flicker"></span></div></div>' +
+            '<div class="orbit orbit-ethra">' +
+              '<button class="world-dot" id="orrery-ethra" aria-label="Ethra"><span class="world-sphere"></span><span class="world-label">ETHRA</span></button>' +
+            '</div>' +
+          '</div>' +
+          '<p class="orrery-hint">Touch the world.</p>' +
+        '</div>' +
+        '<div class="orrery-stage" id="orrery-stage-2" hidden>' +
+          '<div class="world-view">' +
+            '<div class="world-diagram">' +
+              '<div class="world-big" id="orrery-world" role="button" tabindex="0" aria-label="Descend to the map of Ethra" title="Descend to Ethra">' +
+                  '<svg class="wb-svg" viewBox="0 0 150 150" aria-hidden="true">' +
+                    '<defs>' +
+                      '<clipPath id="wb-clip"><circle cx="75" cy="75" r="74"/></clipPath>' +
+                      '<clipPath id="wb-landclip"><path d="M26 66 C28 50 44 38 62 34 C74 31 88 30 100 36 C110 41 122 48 126 58 C129 66 122 72 116 76 C112 79 114 86 108 90 C102 94 96 92 92 98 C88 104 90 110 80 112 C70 114 64 106 56 102 C48 98 40 98 34 90 C28 83 24 76 26 66 Z"/></clipPath>' +
+                      '<radialGradient id="wb-ocean" cx="38%" cy="34%" r="80%">' +
+                        '<stop offset="0%" stop-color="#3f96a8"/><stop offset="45%" stop-color="#2a7a8a"/><stop offset="100%" stop-color="#0e2f4c"/>' +
+                      '</radialGradient>' +
+                      '<linearGradient id="wb-land" x1="0" y1="0" x2="0" y2="1">' +
+                        '<stop offset="0%" stop-color="#93b066"/><stop offset="55%" stop-color="#7a9a5a"/><stop offset="100%" stop-color="#b28c4e"/>' +
+                      '</linearGradient>' +
+                      '<radialGradient id="wb-shade" cx="32%" cy="30%" r="90%">' +
+                        '<stop offset="0%" stop-color="rgba(255,244,214,.30)"/><stop offset="30%" stop-color="rgba(255,244,214,0)"/>' +
+                        '<stop offset="70%" stop-color="rgba(4,10,20,0)"/><stop offset="100%" stop-color="rgba(4,10,20,.62)"/>' +
+                      '</radialGradient>' +
+                      '<filter id="wb-soft"><feGaussianBlur stdDeviation="1.4"/></filter>' +
+                    '</defs>' +
+                    '<circle cx="75" cy="75" r="74" fill="url(#wb-ocean)"/>' +
+                    '<g clip-path="url(#wb-clip)">' +
+                      '<g class="wb-surf">' +
+                        '<g id="wb-cont">' +
+                          '<path d="M26 66 C28 50 44 38 62 34 C74 31 88 30 100 36 C110 41 122 48 126 58 C129 66 122 72 116 76 C112 79 114 86 108 90 C102 94 96 92 92 98 C88 104 90 110 80 112 C70 114 64 106 56 102 C48 98 40 98 34 90 C28 83 24 76 26 66 Z" fill="none" stroke="rgba(127,208,218,.20)" stroke-width="6"/>' +
+                          '<path d="M26 66 C28 50 44 38 62 34 C74 31 88 30 100 36 C110 41 122 48 126 58 C129 66 122 72 116 76 C112 79 114 86 108 90 C102 94 96 92 92 98 C88 104 90 110 80 112 C70 114 64 106 56 102 C48 98 40 98 34 90 C28 83 24 76 26 66 Z" fill="url(#wb-land)" stroke="rgba(232,217,174,.28)" stroke-width=".8"/>' +
+                          '<g clip-path="url(#wb-landclip)">' +
+                            '<ellipse cx="72" cy="32" rx="34" ry="9" fill="#eef4f2" opacity=".85"/>' +
+                            '<ellipse cx="70" cy="101" rx="38" ry="14" fill="#c9a059" opacity=".8"/>' +
+                            '<ellipse cx="50" cy="68" rx="12" ry="7" fill="#5f8346" opacity=".55"/>' +
+                            '<ellipse cx="96" cy="58" rx="10" ry="6" fill="#5f8346" opacity=".45"/>' +
+                          '</g>' +
+                          '<path d="M38 62 C46 55 58 54 64 59 C58 64 46 67 40 66 Z" fill="#2a7a8a" opacity=".9"/>' +
+                          '<circle cx="128" cy="82" r="4" fill="url(#wb-land)"/>' +
+                          '<circle cx="134" cy="93" r="2.6" fill="url(#wb-land)"/>' +
+                          '<circle cx="18" cy="100" r="3.4" fill="url(#wb-land)"/>' +
+                          '<circle cx="14" cy="40" r="2.6" fill="#eef4f2" opacity=".7"/>' +
+                        '</g>' +
+                        '<use href="#wb-cont" x="150"/>' +
+                      '</g>' +
+                      '<g class="wb-clouds" fill="#ffffff" opacity=".5" filter="url(#wb-soft)">' +
+                        '<g id="wb-cl">' +
+                          '<ellipse cx="34" cy="52" rx="18" ry="4.5"/>' +
+                          '<ellipse cx="76" cy="66" rx="26" ry="5.5"/>' +
+                          '<ellipse cx="116" cy="48" rx="15" ry="4"/>' +
+                          '<ellipse cx="98" cy="100" rx="20" ry="4.5"/>' +
+                          '<ellipse cx="46" cy="118" rx="14" ry="3.5"/>' +
+                          '<ellipse cx="12" cy="80" rx="10" ry="3"/>' +
+                        '</g>' +
+                        '<use href="#wb-cl" x="150"/>' +
+                      '</g>' +
+                    '</g>' +
+                    '<circle cx="75" cy="75" r="74" fill="url(#wb-shade)"/>' +
+                    '<circle cx="75" cy="75" r="73.2" fill="none" stroke="rgba(160,220,235,.35)" stroke-width="1.4"/>' +
+                  '</svg>' +
+              '</div>' +
+              '<div class="orbit orbit-sun-a"><span class="sun sun-steadfast"></span></div>' +
+              '<div class="orbit orbit-sun-b"><span class="sun sun-flicker"></span></div>' +
+              '<div class="world-names"><span class="wn-gold">STEADFAST</span><span class="wn-red">FLICKER</span></div>' +
+            '</div>' +
+            '<aside class="world-lore" id="orrery-lore"><p><em>Reading the twin fires…</em></p></aside>' +
+          '</div>' +
+          '<p class="orrery-hint">Touch the world again to descend. &nbsp; <button class="orrery-back" id="orrery-back-1">← The Orrery</button></p>' +
+        '</div>' +
+      '</div>';
+    const s1 = document.getElementById('orrery-stage-1');
+    const s2 = document.getElementById('orrery-stage-2');
+    function zoomTo(hideEl, showEl) {
+      hideEl.classList.add('zoom-out');
+      showEl.hidden = false;
+      requestAnimationFrame(function(){ showEl.classList.add('zoom-in'); });
+      setTimeout(function(){ hideEl.hidden = true; hideEl.classList.remove('zoom-out'); }, 650);
+      setTimeout(function(){ showEl.classList.remove('zoom-in'); }, 700);
+    }
+    document.getElementById('orrery-ethra').addEventListener('click', function() {
+      zoomTo(s1, s2);
+      fetch('/ethra/api/world/cosmology').then(function(r){ return r.json(); }).then(function(d) {
+        const el = document.getElementById('orrery-lore');
+        if (el && d && d.content) el.innerHTML = '<h3>' + (d.title || 'Cosmology: The Twin Fires') + '</h3>' + d.content;
+      }).catch(function(){});
+    });
+    document.getElementById('orrery-back-1').addEventListener('click', function(e) {
+      e.stopPropagation();
+      zoomTo(s2, s1);
+    });
+    function descendToMap(){ document.body.classList.add('descend'); setTimeout(function(){ location.href = '/map/'; }, 620); }
+    const wb = document.getElementById('orrery-world');
+    wb.addEventListener('click', descendToMap);
+    wb.addEventListener('keydown', function(e){ if (e.key === 'Enter' || e.key === ' ') descendToMap(); });
+  };
+  // Initial landing render — the Great Orrery
+  showLandingPage();
+
+  // ── Load world sub-section ──
+  window.loadWorldSection = async function(section) {
+    // Switch from whichever section is active (story, bestiary, etc.)
+    // to the world section FIRST — without this, the user is visually
+    // stuck on Tales of Ethra even though a world-section card has been
+    // populated inside the (still empty, still hidden) #section-world.
+    const cc0 = document.querySelector('#section-world .content-card');
+    if (cc0 && cc0.querySelector('.orrery')) cc0.innerHTML = '';
+    if (typeof window.switchSection === 'function') {
+      window.switchSection('world');
+    }
+    const resp = await fetch(`/ethra/api/world/${section}`);
+    const data = await resp.json();
+    const cc = document.querySelector('#section-world .content-card');
+    // Remove all theme classes
+    cc.className = 'content-card';
+    // Add the section's theme class
+    cc.classList.add(section + '-theme');
+    // Build content with back button
+    const _tabs = [['cosmology','Cosmology'],['magic','Magic'],['geography','Geography'],['religion','Religion'],['history','History'],['culture','Culture']];
+    cc.innerHTML = '<div class="world-header"><h2>The World of Ethra</h2><div class="world-tabs">' + _tabs.map(t => '<button class="world-tab' + (t[0]===section?' active':'') + '" onclick="loadWorldSection(\'' + t[0] + '\')">' + t[1] + '</button>').join('') + '</div></div><div class="world-content">' + data.content + '</div>';
+  };
+
+  // ── Deep links: /?world=cosmology opens that World of Ethra section on load.
+  //    Used by the interactive map (the twin-suns banner links here). ──
+  try {
+    const _qs = new URLSearchParams(window.location.search);
+    const _w = _qs.get('world');
+    if (_w) {
+      window.addEventListener('load', function () {
+        setTimeout(function () { if (window.loadWorldSection) window.loadWorldSection(_w); }, 80);
+      });
+    }
+    const _s = _qs.get('section');
+    if (_s && ['story', 'bestiary', 'world'].indexOf(_s) >= 0) {
+      window.addEventListener('load', function () {
+        setTimeout(function () {
+          if (_s === 'bestiary') { if (window.loadBestiaryBook) window.loadBestiaryBook(); }
+          else if (window.switchSection) window.switchSection(_s);
+        }, 80);
+      });
+    }
+    const _b = _qs.get('biome');
+    if (_b) {
+      window.addEventListener('load', function () {
+        setTimeout(function () { if (window.loadBestiaryBook) window.loadBestiaryBook(_b); }, 80);
+      });
+    }
+  } catch (e) { /* deep link is best-effort */ }
+
+  // ── Site bar: orrery-style zoom between categories (in-page when possible) ──
+  document.querySelectorAll('#site-nav a').forEach(a => {
+    a.addEventListener('click', (e) => {
+      if (e.metaKey || e.ctrlKey || e.shiftKey) return;
+      e.preventDefault();
+      const u = a.getAttribute('href');
+      const q = u.indexOf('?');
+      const qs = q >= 0 ? new URLSearchParams(u.slice(q + 1)) : null;
+      const sec = qs && qs.get('section');
+      const wor = qs && qs.get('world');
+      if (u === '/') {
+        if (window.showLandingPage) { window.switchSection('world'); window.showLandingPage(); try { history.pushState(null, '', '/'); } catch (err) {} }
+        return;
+      }
+      if (sec === 'story') { window.switchSection('story'); try { history.pushState(null, '', u); } catch (err) {} return; }
+      if (sec === 'bestiary') { if (window.loadBestiaryBook) window.loadBestiaryBook(); try { history.pushState(null, '', u); } catch (err) {} return; }
+      if (wor && window.loadWorldSection) { window.loadWorldSection(wor); try { history.pushState(null, '', u); } catch (err) {} return; }
+      // /map/ and anything else: true navigation with the fade
+      document.body.classList.add('leaving');
+      setTimeout(() => { location.href = u; }, 280);
+    });
+  });
+
+  // ── Hamburger Menu (retired 2026-08-21 — the site bar is the single nav system) ──
+  const hamburgerBtn = document.getElementById('hamburgerBtn');
+  const biomeMenu = document.getElementById('biomeMenu');
+  
+  if (hamburgerBtn && biomeMenu) {
+    hamburgerBtn.addEventListener('click', () => {
+      hamburgerBtn.classList.toggle('active');
+      biomeMenu.classList.toggle('active');
+    });
+    
+    // Close menu when clicking outside
+    document.addEventListener('click', (e) => {
+      if (!hamburgerBtn.contains(e.target) && !biomeMenu.contains(e.target)) {
+        hamburgerBtn.classList.remove('active');
+        biomeMenu.classList.remove('active');
+      }
+    });
+  }
+  
+  // ── Wrap creature portraits for hover banner ──
+  function wrapCreaturePortraits() {
+    document.querySelectorAll('.creature-portrait').forEach(img => {
+      // Skip if already wrapped
+      const parent = img.parentElement;
+      if (parent && parent.classList.contains('portrait-wrapper')) return;
+      // If parent is already an inline wrapper (creature-inline-img), upgrade it instead
+      if (parent && parent.classList.contains('creature-inline-img')) {
+        parent.classList.add('portrait-wrapper');
+        // Add label if not already present
+        if (!parent.querySelector('.portrait-label')) {
+          const label = document.createElement('span');
+          label.className = 'portrait-label';
+          label.textContent = img.getAttribute('alt') || 'Creature';
+          parent.appendChild(label);
+        }
+        return;
+      }
+      
+      const wrapper = document.createElement('span');
+      wrapper.className = 'portrait-wrapper';
+      
+      // Transfer inline styles from img to wrapper (float, margin, max-width, etc.)
+      const inlineStyle = img.getAttribute('style') || '';
+      const maxWidthMatch = inlineStyle.match(/max-width:\s*(\d+px)/);
+      const maxWidth = maxWidthMatch ? maxWidthMatch[0] : 'max-width: 350px';
+      // Only transfer display, float, margin to wrapper
+      const wrapperStyle = inlineStyle
+        .replace(/max-width:\s*\d+px;?\s*/gi, '')
+        .replace(/border:\s*[^;]+;?\s*/gi, '');
+      wrapper.setAttribute('style', wrapperStyle);
+      // Keep max-width on image, fill wrapper
+      img.setAttribute('style', maxWidth + '; width: 100%; height: auto; display: block;');
+      
+      // Create label banner
+      const label = document.createElement('span');
+      label.className = 'portrait-label';
+      label.textContent = img.getAttribute('alt') || 'Creature';
+      
+      img.parentNode.insertBefore(wrapper, img);
+      wrapper.appendChild(img);
+      wrapper.appendChild(label);
+    });
+  }
+  
+  // Run on initial load
+  wrapCreaturePortraits();
+
+  // ── Patch loadBiome and loadCreature to re-wrap after content updates ──
+  const origLoadBiome = window.loadBiome;
+  window.loadBiome = async function(biome) {
+    await origLoadBiome(biome);
+    wrapCreaturePortraits();
+  };
+  const origLoadCreature = window.loadCreature;
+  window.loadCreature = async function(biome, creature) {
+    await origLoadCreature(biome, creature);
+    wrapCreaturePortraits();
+  };
+})();
+
+// ── Format helpers (global for onclick=) ──
+function formatBiomeName(biome) {
+  return biome.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
+}
+function formatCreatureName(creature) {
+  return creature.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
+}
+
+// ════════════════ CREATURE PORTRAIT MODAL ════════════════
+// Bestiary gallery loads thumbnails (~7 KB ea); click opens full-size image
+// in a fixed overlay. Stored full-size paths come from server.py's
+// _swap_bestiary_to_thumbnails() in data-* attributes.
+(function() {
+  // CSS injected only when needed (bestiary section visible)
+  const CSS_ID = 'creature-modal-styles';
+  function ensureModalCss() {
+    if (document.getElementById(CSS_ID)) return;
+    const style = document.createElement('style');
+    style.id = CSS_ID;
+    style.textContent = `
+      #creature-modal {
+        display: none;
+        position: fixed; inset: 0;
+        background: rgba(10, 22, 40, 0.92);
+        z-index: 9999;
+        align-items: center; justify-content: center;
+        padding: 20px;
+        cursor: zoom-out;
+      }
+      #creature-modal.open { display: flex; }
+      #creature-modal img {
+        max-width: 92vw; max-height: 92vh;
+        box-shadow: 0 0 0 4px #b89a70, 0 0 0 9px #6b3a1a, 0 16px 48px rgba(0,0,0,0.6);
+        border-radius: 4px;
+        cursor: default;
+      }
+      #creature-modal-close {
+        position: fixed; top: 18px; right: 22px;
+        color: #f4e8d0; font-size: 32px; line-height: 1;
+        background: rgba(107, 58, 26, 0.85);
+        border: 2px solid #b89a70; border-radius: 50%;
+        width: 44px; height: 44px;
+        display: flex; align-items: center; justify-content: center;
+        cursor: pointer; font-weight: 700;
+        user-select: none;
+        z-index: 10000;
+      }
+      #creature-modal-close:hover { background: #8b4a2a; }
+      #creature-modal-cap {
+        position: fixed; bottom: 20px; left: 50%;
+        transform: translateX(-50%);
+        color: #d4c8a8; font-family: Georgia, serif;
+        background: rgba(10, 22, 40, 0.78);
+        padding: 8px 16px; border-radius: 4px;
+        border: 1px solid #6b3a1a;
+        max-width: 90vw; text-align: center;
+      }
+      .creature-zoomable { cursor: zoom-in; }
+      .creature-zoomable img { cursor: zoom-in; }
+    `;
+    document.head.appendChild(style);
+  }
+
+  function buildModal() {
+    if (document.getElementById('creature-modal')) return;
+    ensureModalCss();
+    const overlay = document.createElement('div');
+    overlay.id = 'creature-modal';
+    overlay.setAttribute('role', 'dialog');
+    overlay.setAttribute('aria-modal', 'true');
+    overlay.innerHTML = `
+      <button id="creature-modal-close" aria-label="Close">&times;</button>
+      <img id="creature-modal-img" alt="" />
+      <div id="creature-modal-cap"></div>
+    `;
+    document.body.appendChild(overlay);
+    overlay.addEventListener('click', closeModal);
+    document.getElementById('creature-modal-close').addEventListener('click', function(e) {
+      e.stopPropagation(); closeModal();
+    });
+    document.getElementById('creature-modal-img').addEventListener('click', function(e) {
+      e.stopPropagation();
+    });
+    document.addEventListener('keydown', function(e) {
+      if (e.key === 'Escape') closeModal();
+    });
+  }
+
+  function openModal(pic, imgEl) {
+    buildModal();
+    const webp = pic.dataset.fullWebp || '';
+    const jpg = pic.dataset.fullJpg || '';
+    const modalImg = document.getElementById('creature-modal-img');
+    const cap = document.getElementById('creature-modal-cap');
+    modalImg.src = webp || jpg;
+    // Hide modal briefly if browser doesn't support webp
+    modalImg.onerror = function() {
+      if (this.src === webp && jpg) this.src = jpg;
+    };
+    cap.textContent = imgEl.alt || '';
+    document.getElementById('creature-modal').classList.add('open');
+    document.body.style.overflow = 'hidden';
+  }
+
+  function closeModal() {
+    const overlay = document.getElementById('creature-modal');
+    if (overlay) overlay.classList.remove('open');
+    document.body.style.overflow = '';
+  }
+
+  // Event delegation — catches clicks on any creature-zoomable in the document.
+  document.addEventListener('click', function(e) {
+    const pic = e.target.closest('picture.creature-zoomable');
+    if (!pic) return;
+    const img = pic.querySelector('img');
+    if (!img) return;
+    e.preventDefault();
+    openModal(pic, img);
+  });
+})();
+</script>
+<script src="/static/arc5_timeline.js" defer></script>
+<script>
+
+  // ═════ LOAD BESTIARY MAP ═════
+  window.loadBestiaryMap = async function() {
+    switchSection('bestiary');
+    const cc = document.querySelector('#section-bestiary .content-card');
+    if (!cc) return;
+    cc.innerHTML = '<div class="map-container"><img class="map-image" src="/static/images/map-supercontinent-v2.png" alt="Ethra Supercontinent Map" /><div class="dot-overlay" id="dot-overlay"></div></div>';
+    const overlay = document.getElementById('dot-overlay');
+    if (!overlay) return;
+    
+    try {
+      const resp = await fetch('/ethra/api/map/coordinates');
+      const data = await resp.json();
+      
+      // Render creature dots
+      (data.creatures || []).forEach(c => {
+        const dot = document.createElement('button');
+        dot.className = 'creature-dot';
+        dot.style.left = c.x_pct + '%';
+        dot.style.top = c.y_pct + '%';
+        dot.setAttribute('aria-label', c.name + ' in ' + (data.biomes.find(b=>b.slug===c.biome)?.name || c.biome));
+        dot.dataset.creature = JSON.stringify(c);
+        
+        // Tooltip
+        const tip = document.createElement('div');
+        tip.className = 'dot-tooltip';
+        tip.innerHTML = '<span class="creature-name">'+c.name+'</span><span class="creature-biome">'+(data.biomes.find(b=>b.slug===c.biome)?.name || c.biome)+'</span>';
+        tip.style.left = (c.x_pct + 2) + '%';
+        tip.style.top = (c.y_pct - 5) + '%';
+        document.body.appendChild(tip);
+        
+        dot.addEventListener('mouseenter', () => {
+          tip.classList.add('visible');
+          if(c.image_full) {
+            const thumb = document.createElement('img');
+            thumb.className = 'creature-thumb';
+            thumb.src = c.image_full;
+            tip.appendChild(thumb);
+          }
+        });
+        dot.addEventListener('mouseleave', () => {
+          tip.classList.remove('visible');
+          const thumb = tip.querySelector('.creature-thumb');
+          if(thumb) thumb.remove();
+        });
+        dot.addEventListener('focus', () => tip.classList.add('visible'));
+        dot.addEventListener('blur', () => tip.classList.remove('visible'));
+        
+        // Click → open full-page modal
+        dot.addEventListener('click', () => {
+          if(c.kind === 'race' || c.kind === 'creature') {
+            openCreaturePage(c.biome, c.slug);
+          }
+        });
+        
+        overlay.appendChild(dot);
+      });
+      
+      // Underground cave special case
+      if(data.underground_cave) {
+        const uc = data.underground_cave;
+        const dot = document.createElement('button');
+        dot.className = 'creature-dot underground-dot';
+        dot.style.left = uc.x_pct + '%';
+        dot.style.top = uc.y_pct + '%';
+        dot.setAttribute('aria-label', uc.name);
+        dot.dataset.cave = JSON.stringify(uc);
+        
+        const tip = document.createElement('div');
+        tip.className = 'dot-tooltip';
+        tip.innerHTML = '<span class="creature-name">'+uc.name+'</span><span class="creature-biome">'+uc.subtitle+'</span>';
+        tip.style.left = (uc.x_pct + 2) + '%';
+        tip.style.top = (uc.y_pct - 5) + '%';
+        document.body.appendChild(tip);
+        
+        dot.addEventListener('mouseenter', () => tip.classList.add('visible'));
+        dot.addEventListener('mouseleave', () => tip.classList.remove('visible'));
+        dot.addEventListener('focus', () => tip.classList.add('visible'));
+        dot.addEventListener('blur', () => tip.classList.remove('visible'));
+        dot.addEventListener('click', () => openUndergroundCave(uc));
+        
+        overlay.appendChild(dot);
+      }
+      
+    } catch(e) {
+      cc.innerHTML = '<p style="color:#8a7a55;text-align:center;padding:2rem;"><em>Failed to load map coordinates.</em></p>';
+      console.error(e);
+    }
+  };
+  
+  // ═════ LOAD BESTIARY BOOK (closed leather tome → opens; ink melts & reforms) ═════
+  window.loadBestiaryBook = async function(focusBiome, focusSlug) {
+    switchSection('bestiary');
+    const cc = document.querySelector('#section-bestiary .content-card');
+    if (!cc) return;
+    const NAMES = {'rune-belt':'The Rune Belt','steadfast-desert':'The Steadfast Desert','umbral-ring':'The Umbral Ring','flickermarch':'The Flickermarch','tidepools':'The Tidepool Shallows','underground':'The Deep Below'};
+    const ORDER = ['rune-belt','steadfast-desert','umbral-ring','flickermarch','tidepools','underground'];
+    function fmt(s){return s.replace(/-/g,' ').replace(/\b\w/g,function(l){return l.toUpperCase();});}
+    function frontis(){return '<h2 class="book-title" style="margin-top:2.2rem">The Bestiary of Ethra</h2><p class="book-sub">being a true account of the beasts, races &amp; wonders of the supercontinent</p><p style="text-align:center;color:#7a5f3a;font-style:italic;margin-top:2rem">Choose an entry from the index.</p>';}
+    // the tome lies closed until touched
+    cc.innerHTML = '<div class="book-wrap" id="book-wrap"><div class="book-closed" id="book-closed" role="button" tabindex="0" aria-label="Open the Bestiary"><div class="bc-emblem">✦</div><div class="bc-title">The Bestiary of Ethra</div><div class="bc-sub">being a true account of the beasts, races &amp; wonders of the supercontinent</div><div class="bc-clasp"></div><div class="bc-hint">touch the tome to open it</div></div></div>';
+    let DATA = null;
+    try { const r = await fetch('/ethra/api/biomes'); DATA = await r.json(); } catch (e) { DATA = null; }
+    const closed = document.getElementById('book-closed');
+    let opened = false;
+    // margin flourishes: corner vine-work, as in the old bestiaries
+    function fl(cls){return '<svg class="pg-fl ' + cls + '" viewBox="0 0 70 70" aria-hidden="true"><g fill="none" stroke="#8a2a1a" stroke-width="1.5"><path d="M6 66 C10 38 28 18 64 8"/><path d="M16 44 c-7 -2 -11 3 -11 9 c7 2 11 -3 11 -9"/><path d="M30 28 c-2 -7 3 -11 9 -11 c2 7 -3 11 -9 11"/><path d="M47 15 c-4 -5 -1 -10 4 -12 c4 5 1 10 -4 12"/></g><circle cx="64" cy="8" r="2.2" fill="#8a2a1a"/></svg>';}
+    const FLOUR = fl('tl') + fl('tr') + fl('bl') + fl('br');
+    function openBook(){
+      if (opened) return; opened = true;
+      const wrap = document.getElementById('book-wrap');
+      wrap.classList.add('book-opening');
+      const book = document.createElement('div');
+      book.className = 'book';
+      book.innerHTML = '<div class="book-page book-left"><h2 class="book-title">Index</h2><ul class="book-index" id="book-index"><li style="color:#7a5f3a;text-align:center"><em>Opening the book…</em></li></ul><span class="book-folio">i</span>' + FLOUR + '</div>' +
+        '<div class="book-spine"></div>' +
+        '<div class="book-page book-right"><button class="book-back">← Index</button><div id="book-dossier" class="book-dossier">' + frontis() + '</div><span class="book-folio">ii</span>' + FLOUR + '</div>';
+      wrap.appendChild(book);
+      book.querySelector('.book-back').addEventListener('click', bookBackToIndex);
+      setTimeout(function(){ const c = document.getElementById('book-closed'); if (c) c.remove(); wrap.classList.remove('book-opening'); }, 1750);
+      buildIndex();
+    }
+    if (closed) {
+      closed.addEventListener('click', openBook);
+      closed.addEventListener('keydown', function(e){ if (e.key === 'Enter' || e.key === ' ') openBook(); });
+    }
+    // wet-ink melt: turbulence displacement swallows the old text, then releases the new
+    function inkSwap(el, html){
+      const f = document.getElementById('ink-melt');
+      const turb = f && f.querySelector('feTurbulence');
+      const disp = f && f.querySelector('feDisplacementMap');
+      if (!turb || !disp) { el.innerHTML = html; return; }
+      el.style.filter = 'url(#ink-melt)';
+      const t0 = performance.now();
+      (function melt(now){
+        const p = Math.min(1, (now - t0) / 430);
+        disp.setAttribute('scale', (p * 95).toFixed(1));
+        turb.setAttribute('baseFrequency', (0.012 + p * 0.05).toFixed(4));
+        el.style.opacity = String(1 - p * 0.9);
+        if (p < 1) { requestAnimationFrame(melt); } else {
+          el.innerHTML = html;
+          const t1 = performance.now();
+          (function reform(now2){
+            const q = Math.min(1, (now2 - t1) / 600);
+            const e2 = 1 - Math.pow(1 - q, 3);
+            disp.setAttribute('scale', (95 * (1 - e2)).toFixed(1));
+            turb.setAttribute('baseFrequency', (0.062 - e2 * 0.05).toFixed(4));
+            el.style.opacity = String(0.1 + 0.9 * e2);
+            if (q < 1) { requestAnimationFrame(reform); } else { el.style.filter = ''; el.style.opacity = ''; }
+          })(t1);
+        }
+      })(t0);
+    }
+    function setPage(html){ inkSwap(document.getElementById('book-dossier'), html); }
+    function chapterPage(slug, idx, n){
+      return '<h2 class="book-entry-title">' + (NAMES[slug]||fmt(slug)) + '</h2><p class="book-sub">chapter ' + idx + ' · ' + n + ' entries recorded</p><p style="text-align:center;color:#7a5f3a;font-style:italic;margin-top:1.6rem">Choose a creature from the index.</p>';
+    }
+    function bookShowEntry(){ var b = document.querySelector('.book'); if (b) b.classList.add('book-show-entry'); }
+    function bookBackToIndex(){ var b = document.querySelector('.book'); if (b) { b.classList.remove('book-show-entry'); if (window.matchMedia('(max-width:900px)').matches) b.scrollIntoView({behavior:'smooth', block:'start'}); } }
+    function bookDossierView(){ if (window.matchMedia('(max-width:900px)').matches) { var b = document.querySelector('.book'); if (b) b.scrollIntoView({behavior:'smooth', block:'start'}); } }
+    function openCreature(slug, biome, name){
+      fetch('/ethra/api/creature/' + biome + '/' + slug).then(function(r){return r.json();}).then(function(d){
+        const body = (d.content||'').replace(/^\s*<h[12][^>]*>[\s\S]*?<\/h[12]>/, '');
+        setPage('<h2 class="book-entry-title">' + name + '</h2><div class="biome-badge">' + fmt(biome) + '</div><div class="creature-content">' + body + '</div>');
+        bookShowEntry();
+        setTimeout(bookDossierView, 450);
+      }).catch(function(){ setPage('<h2 class="book-entry-title">' + name + '</h2><p><em>The ink for this entry is still being ground.</em></p>'); });
+    }
+    function buildIndex(){
+      const data = DATA || {};
+      const slugs = ORDER.filter(function(s){return data[s];}).concat(Object.keys(data).filter(function(s){return ORDER.indexOf(s)<0;}));
+      const idx = document.getElementById('book-index');
+      if (!slugs.length) { idx.innerHTML = '<li style="color:#7a5f3a;text-align:center"><em>The book would not open.</em></li>'; return; }
+      idx.innerHTML = '';
+      // beings that live in both layers are recorded in the deep chapter too
+      const CROSS = {'underground': [{'slug':'mycelial-deep','home':'flickermarch','name':'The Mycelial Deep'},{'slug':'kyre-tree','home':'steadfast-desert','name':'The Kyre Tree'},{'slug':'abyssal-heart','home':'tidepools','name':'Abyssal Heart'}]};
+      slugs.forEach(function(slug, i) {
+        const list = (data[slug] || []).slice();
+        (CROSS[slug] || []).forEach(function(x){ if (list.indexOf(x.slug) < 0) list.push(x.slug); });
+        const li = document.createElement('li');
+        li.className = 'book-biome';
+        const head = document.createElement('button');
+        head.className = 'book-biome-head';
+        head.innerHTML = '<span>' + (NAMES[slug]||fmt(slug)) + '</span><span class="bk-count">' + list.length + '</span>';
+        const ul = document.createElement('ul');
+        ul.className = 'book-creatures';
+        list.forEach(function(c){
+          const x = (CROSS[slug] || []).filter(function(z){ return z.slug === c; })[0];
+          const homeBiome = x ? x.home : slug;
+          const dispName = x ? x.name : fmt(c);
+          const b = document.createElement('button');
+          b.className = 'book-creature';
+          b.textContent = dispName;
+          b.addEventListener('click', function(){
+            idx.querySelectorAll('.book-creature.sel').forEach(function(y){y.classList.remove('sel');});
+            b.classList.add('sel');
+            openCreature(c, homeBiome, dispName);
+          });
+          const li2 = document.createElement('li');
+          li2.appendChild(b); ul.appendChild(li2);
+        });
+        head.addEventListener('click', function(){
+          li.classList.toggle('open');
+          setPage(chapterPage(slug, i + 1, list.length));
+        });
+        li.appendChild(head); li.appendChild(ul); idx.appendChild(li);
+        if (slug === focusBiome) {
+          li.classList.add('open');
+          const at = list.indexOf(focusSlug);
+          if (focusSlug && at >= 0) {
+            const btn = ul.querySelectorAll('.book-creature')[at];
+            if (btn) { btn.classList.add('sel'); openCreature(focusSlug, slug, fmt(focusSlug)); }
+          } else {
+            setPage(chapterPage(slug, i + 1, list.length));
+          }
+        }
+      });
+    }
+    // deep links open the tome directly to the requested chapter
+    if (focusBiome) openBook();
+  };
+
+  // ═════ OPEN CREATURE PAGE MODAL ═════
+  window.openCreaturePage = async function(biome, slug) {
+    const modalId = 'creature-page-modal';
+    let modal = document.getElementById(modalId);
+    if(!modal) {
+      modal = document.createElement('div');
+      modal.id = modalId;
+      modal.className = 'creature-page-modal';
+      modal.innerHTML = '<div class="modal-chrome"><div class="modal-scroll"><div class="modal-content"></div></div><button class="modal-close" onclick="closeCreaturePageModal()">✕</button></div>';
+      document.body.appendChild(modal);
+    }
+    modal.style.display = 'block';
+    const content = modal.querySelector('.modal-content');
+    content.innerHTML = '<p style="color:#8a7a55;text-align:center;padding:2rem;"><em>Loading...</em></p>';
+    try {
+      const resp = await fetch('/ethra/api/creature/'+biome+'/'+slug);
+      const data = await resp.json();
+      content.innerHTML = data.content || '<p><em>Content not available.</em></p>';
+    } catch(e) {
+      content.innerHTML = '<p style="color:#8a7a55;text-align:center;"><em>Failed to load creature.</em></p>';
+    }
+  };
+  
+  window.closeCreaturePageModal = function() {
+    const modal = document.getElementById('creature-page-modal');
+    if(modal) modal.style.display = 'none';
+  };
+  
+  window.openUndergroundCave = function(cave) {
+    const modalId = 'creature-page-modal';
+    let modal = document.getElementById(modalId);
+    if(!modal) {
+      modal = document.createElement('div');
+      modal.id = modalId;
+      modal.className = 'creature-page-modal';
+      modal.innerHTML = '<div class="modal-chrome"><div class="modal-scroll"><div class="modal-content"></div></div><button class="modal-close" onclick="closeCreaturePageModal()">✕</button></div>';
+      document.body.appendChild(modal);
+    }
+    modal.style.display = 'block';
+    const content = modal.querySelector('.modal-content');
+    content.innerHTML = '<h3 style="color:#c9a059;margin-bottom:1rem;">'+cave.name+'</h3><p style="color:#8a7a55;margin-bottom:1.5rem;">'+cave.subtitle+'</p><div class="constituent-list"></div>';
+    const list = content.querySelector('.constituent-list');
+    (cave.constituents || []).forEach(c => {
+      const link = document.createElement('button');
+      link.style.display = 'block';
+      link.style.width = '100%';
+      link.style.padding = '0.75rem 1rem';
+      link.style.marginBottom = '0.5rem';
+      link.style.background = '#fff8e8';
+      link.style.border = '2px solid #3a2f1f';
+      link.style.borderRadius = '4px';
+      link.style.cursor = 'pointer';
+      link.style.fontFamily = 'Georgia, serif';
+      link.style.fontSize = '0.95rem';
+      link.style.color = '#2a1f0f';
+      link.style.textAlign = 'left';
+      link.textContent = '→ ' + c.name;
+      link.onclick = function() { openCreaturePage('underground', c.slug); };
+      list.appendChild(link);
+    });
+  };
+  
+  // Wire Bestiary nav button to map
+  (function(){
+    const bestiaryBtn = document.querySelector('.nav-section-header-nested[onclick*="bestiary"]');
+    if(bestiaryBtn) {
+      bestiaryBtn.onclick = function() {
+        toggleSection('bestiary-nested');
+        loadBestiaryMap();
+      };
+    }
+  })();
+
+</script>
+</body>
+</html>

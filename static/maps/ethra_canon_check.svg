@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="ethra-canon" xmlns="http://www.w3.org/2000/svg" width="2400" height="1000" viewBox="0 0 2400 1000" font-family="Georgia, serif">
+<title>Ethra — The Great Orrery (canon map v1)</title>
+<g id="layer-ocean">
+<rect x="0" y="0" width="2400" height="1000" fill="#0a1628"/>
+<path d="M 300 200 C 368 165 503 138 620 130 C 737 122 878 152 1000 150 C 1122 148 1233 120 1350 120 C 1467 120 1603 127 1700 150 C 1797 173 1883 218 1930 260 C 1977 302 1977 350 1980 400 C 1983 450 1967 510 1950 560 C 1933 610 1908 663 1880 700 C 1852 737 1810 758 1780 780 C 1750 802 1730 810 1700 830 C 1670 850 1637 883 1600 900 C 1563 917 1538 922 1480 930 C 1422 938 1330 948 1250 950 C 1170 952 1083 943 1000 940 C 917 937 830 937 750 930 C 670 923 590 915 520 900 C 450 885 380 873 330 840 C 280 807 245 753 220 700 C 195 647 182 580 180 520 C 178 460 190 393 210 340 C 230 287 232 235 300 200 Z" fill="none" stroke="#122a44" stroke-width="26" opacity="0.55"/>
+<circle cx="120" cy="120" r="2" fill="#e8e2d0" opacity="0.5"/>
+<circle cx="2280" cy="120" r="2" fill="#e8e2d0" opacity="0.5"/>
+<circle cx="120" cy="940" r="2" fill="#e8e2d0" opacity="0.5"/>
+<circle cx="2280" cy="560" r="2" fill="#e8e2d0" opacity="0.5"/>
+<circle cx="1200" cy="60" r="2" fill="#e8e2d0" opacity="0.5"/>
+<text x="1200" y="985" fill="#e8e2d0" font-size="20" text-anchor="middle" font-style="italic" opacity="0.7">The World-Ocean</text>
+</g>
+<g id="layer-landmass">
+<path d="M 300 200 C 368 165 503 138 620 130 C 737 122 878 152 1000 150 C 1122 148 1233 120 1350 120 C 1467 120 1603 127 1700 150 C 1797 173 1883 218 1930 260 C 1977 302 1977 350 1980 400 C 1983 450 1967 510 1950 560 C 1933 610 1908 663 1880 700 C 1852 737 1810 758 1780 780 C 1750 802 1730 810 1700 830 C 1670 850 1637 883 1600 900 C 1563 917 1538 922 1480 930 C 1422 938 1330 948 1250 950 C 1170 952 1083 943 1000 940 C 917 937 830 937 750 930 C 670 923 590 915 520 900 C 450 885 380 873 330 840 C 280 807 245 753 220 700 C 195 647 182 580 180 520 C 178 460 190 393 210 340 C 230 287 232 235 300 200 Z" fill="#233247" stroke="#c9a059" stroke-width="3"/>
+</g>
+<g id="layer-biomes">
+<path id="biome-rune-belt" d="M 480 300 C 532 268 665 253 760 250 C 855 247 980 258 1050 280 C 1120 302 1163 340 1180 380 C 1197 420 1180 483 1150 520 C 1120 557 1065 583 1000 600 C 935 617 833 627 760 620 C 687 613 612 590 560 560 C 508 530 463 483 450 440 C 437 397 428 332 480 300 Z" fill="#6f8f4f" fill-opacity="0.82" data-name="Rune Belt"/>
+<path id="biome-steadfast-desert" d="M 950 620 C 987 595 1083 597 1150 600 C 1217 603 1303 618 1350 640 C 1397 662 1425 698 1430 730 C 1435 762 1418 807 1380 830 C 1342 853 1260 867 1200 870 C 1140 873 1065 870 1020 850 C 975 830 942 788 930 750 C 918 712 913 645 950 620 Z" fill="#d9b36a" fill-opacity="0.82" data-name="Steadfast Desert"/>
+<path id="biome-umbral-ring" d="M 250 620 C 282 600 368 593 420 600 C 472 607 523 633 560 660 C 597 687 633 727 640 760 C 647 793 632 840 600 860 C 568 880 500 887 450 880 C 400 873 337 847 300 820 C 263 793 238 753 230 720 C 222 687 218 640 250 620 Z" fill="#aebfd4" fill-opacity="0.82" data-name="Umbral Ring"/>
+<path id="biome-flickermarch" d="M 1420 180 C 1467 162 1603 157 1680 170 C 1757 183 1840 225 1880 260 C 1920 295 1928 345 1920 380 C 1912 415 1880 453 1830 470 C 1780 487 1680 492 1620 480 C 1560 468 1507 433 1470 400 C 1433 367 1408 317 1400 280 C 1392 243 1373 198 1420 180 Z" fill="#a4553f" fill-opacity="0.82" data-name="Flickermarch"/>
+<path id="biome-tidepools" d="M 1450 780 C 1473 763 1538 757 1580 760 C 1622 763 1665 800 1700 800 C 1735 800 1760 773 1790 760 C 1820 747 1857 713 1880 720 C 1903 727 1935 772 1930 800 C 1925 828 1892 868 1850 890 C 1808 912 1735 925 1680 930 C 1625 935 1560 932 1520 920 C 1480 908 1452 883 1440 860 C 1428 837 1427 797 1450 780 Z" fill="#3f7f8c" fill-opacity="0.82" data-name="Tidepools"/>
+</g>
+<g id="layer-borders" fill="none" stroke="#e8e2d0" stroke-width="2" stroke-dasharray="7 5" opacity="0.8">
+<path d="M 620 600 C 643 603 708 613 760 620 C 812 627 898 640 930 640"/>
+<path d="M 1180 400 C 1200 405 1263 430 1300 430 C 1337 430 1380 422 1400 400"/>
+<path d="M 450 560 C 462 570 502 603 520 620"/>
+<path d="M 1430 730 C 1433 738 1448 758 1450 780"/>
+</g>
+<g id="layer-rivers" fill="none" stroke="#7fb2d9" stroke-width="3" stroke-linecap="round" opacity="0.85">
+<path d="M 900 300 C 907 317 940 370 940 400 C 940 430 897 453 900 480"/>
+<path d="M 1600 220 C 1593 237 1560 287 1560 320 C 1560 353 1600 395 1600 420"/>
+<path d="M 1250 700 C 1258 713 1282 757 1300 780 C 1318 803 1335 823 1360 840"/>
+</g>
+<g id="layer-routes" fill="none" stroke="#c9a059" stroke-width="2.5" stroke-dasharray="2 6" stroke-linecap="round">
+<path d="M 1200 670 C 1192 657 1168 618 1150 590" data-name="Pyrinae Caravan Route"/>
+<path d="M 1090 505 C 1125 528 1232 598 1300 640 C 1368 682 1437 727 1500 760" data-name="Humman Trade Route"/>
+<path d="M 820 468 C 850 483 937 526 1000 560" data-name="Wengari Supply Line"/>
+<path d="M 820 468 C 792 487 703 543 650 580" data-name="Wengari Supply Line II"/>
+<path d="M 432 720 C 423 728 396 757 380 770 C 364 783 324 787 336 800 C 348 813 406 840 450 850" data-name="Dragari Song Road"/>
+<path d="M 1680 260 C 1717 292 1838 385 1900 450 C 1962 515 2007 582 2050 650" data-name="Threx Spore Route"/>
+</g>
+<g id="layer-underground">
+<rect x="2030" y="700" width="340" height="260" rx="14" fill="#241c18" stroke="#7fd4c1" stroke-width="2.5"/>
+<path d="M 2060 920 Q 2200 740 2340 920 L 2340 940 L 2060 940 Z" fill="#17110e" stroke="#7fd4c1" stroke-width="1.5"/>
+<path d="M 2090 930 Q 2135 860 2150 790" fill="none" stroke="#7fd4c1" stroke-width="1.5" opacity="0.7"/>
+<path d="M 2310 930 Q 2290 865 2240 800" fill="none" stroke="#7fd4c1" stroke-width="1.5" opacity="0.7"/>
+<path d="M 2200 935 Q 2215 852 2200 770" fill="none" stroke="#7fd4c1" stroke-width="1.5" opacity="0.7"/>
+<text x="2200" y="732" fill="#7fd4c1" font-size="22" text-anchor="middle" font-weight="bold">THE UNDERGROUND</text>
+<text x="2200" y="754" fill="#e8e2d0" font-size="14" text-anchor="middle" font-style="italic">Mycelial Deep — Chi&apos;Thak swarm</text>
+<circle cx="2120" cy="890" r="9" fill="#8b2a2a" stroke="#7fd4c1" stroke-width="2"/>
+<text x="2120" y="916" fill="#e8e2d0" font-size="13" text-anchor="middle">The Chi&apos;Thak (Blight)</text>
+<circle cx="2280" cy="890" r="7" fill="#7fd4c1" stroke="#7fd4c1" stroke-width="2"/>
+<text x="2280" y="916" fill="#e8e2d0" font-size="13" text-anchor="middle">Super-Organism</text>
+</g>
+<g id="layer-cities">
+<path d="M 820 459 l 9 9 l -9 9 l -9 -9 Z" fill="#c9a059" stroke="#e8e2d0" stroke-width="2" data-name="Styxian"/>
+<text x="820" y="502" fill="#e8e2d0" font-size="19" font-weight="bold" text-anchor="middle" stroke="#0a1628" stroke-width="3" paint-order="stroke">Styxian</text>
+<path d="M 1090 496 l 9 9 l -9 9 l -9 -9 Z" fill="#c9a059" stroke="#e8e2d0" stroke-width="2" data-name="Verdantis"/>
+<text x="1090" y="539" fill="#e8e2d0" font-size="19" font-weight="bold" text-anchor="middle" stroke="#0a1628" stroke-width="3" paint-order="stroke">Verdantis</text>
+<path d="M 520 781 l 9 9 l -9 9 l -9 -9 Z" fill="#c9a059" stroke="#e8e2d0" stroke-width="2" data-name="Vey&apos;sul"/>
+<text x="520" y="824" fill="#e8e2d0" font-size="19" font-weight="bold" text-anchor="middle" stroke="#0a1628" stroke-width="3" paint-order="stroke">Vey&apos;sul</text>
+</g>
+<g id="layer-races">
+<circle cx="768" cy="440" r="13" fill="none" stroke="#c9a059" stroke-width="3" data-slug="wengari"/>
+<circle cx="768" cy="440" r="5" fill="#c9a059"/>
+<text x="768" y="418" fill="#c9a059" font-size="20" font-weight="bold" text-anchor="middle" stroke="#0a1628" stroke-width="3" paint-order="stroke">Wengari</text>
+<circle cx="1080" cy="530" r="13" fill="none" stroke="#c9a059" stroke-width="3" data-slug="humann"/>
+<circle cx="1080" cy="530" r="5" fill="#c9a059"/>
+<text x="1080" y="508" fill="#c9a059" font-size="20" font-weight="bold" text-anchor="middle" stroke="#0a1628" stroke-width="3" paint-order="stroke">Humman</text>
+<circle cx="1200" cy="670" r="13" fill="none" stroke="#c9a059" stroke-width="3" data-slug="pyrinae"/>
+<circle cx="1200" cy="670" r="5" fill="#c9a059"/>
+<text x="1200" y="710" fill="#c9a059" font-size="20" font-weight="bold" text-anchor="middle" stroke="#0a1628" stroke-width="3" paint-order="stroke">Pyrinae</text>
+<circle cx="432" cy="720" r="13" fill="none" stroke="#c9a059" stroke-width="3" data-slug="dragari"/>
+<circle cx="432" cy="720" r="5" fill="#c9a059"/>
+<text x="418" y="766" fill="#c9a059" font-size="20" font-weight="bold" text-anchor="middle" stroke="#0a1628" stroke-width="3" paint-order="stroke">Dragari</text>
+<circle cx="1680" cy="260" r="13" fill="none" stroke="#c9a059" stroke-width="3" data-slug="threx"/>
+<circle cx="1680" cy="260" r="5" fill="#c9a059"/>
+<text x="1680" y="238" fill="#c9a059" font-size="20" font-weight="bold" text-anchor="middle" stroke="#0a1628" stroke-width="3" paint-order="stroke">Threx</text>
+<circle cx="1680" cy="840" r="13" fill="none" stroke="#c9a059" stroke-width="3" data-slug="veylar"/>
+<circle cx="1680" cy="840" r="5" fill="#c9a059"/>
+<text x="1680" y="818" fill="#c9a059" font-size="20" font-weight="bold" text-anchor="middle" stroke="#0a1628" stroke-width="3" paint-order="stroke">Veylar</text>
+</g>
+<g id="layer-creatures">
+<circle cx="864" cy="500" r="5" fill="#8b2a2a" stroke="#e8e2d0" stroke-width="1.5" data-slug="tide-wolf" data-name="Tide Wolf"/>
+<text x="868" y="518" fill="#e8e2d0" font-size="12" opacity="0.85" text-anchor="middle">Tide Wolf</text>
+<circle cx="792" cy="550" r="5" fill="#8b2a2a" stroke="#e8e2d0" stroke-width="1.5" data-slug="black-fire-tide-wolf" data-name="Black-Fire Tide Wolf"/>
+<text x="796" y="568" fill="#e8e2d0" font-size="12" opacity="0.85" text-anchor="middle">Black-Fire Tide Wolf</text>
+<circle cx="984" cy="420" r="5" fill="#8b2a2a" stroke="#e8e2d0" stroke-width="1.5" data-slug="amuk" data-name="Amuk"/>
+<text x="988" y="438" fill="#e8e2d0" font-size="12" opacity="0.85" text-anchor="middle">Amuk</text>
+<circle cx="1056" cy="480" r="5" fill="#8b2a2a" stroke="#e8e2d0" stroke-width="1.5" data-slug="ghost" data-name="Ghost"/>
+<text x="1060" y="498" fill="#e8e2d0" font-size="12" opacity="0.85" text-anchor="middle">Ghost</text>
+<circle cx="1128" cy="550" r="5" fill="#8b2a2a" stroke="#e8e2d0" stroke-width="1.5" data-slug="lotus-bloom" data-name="Lotus Bloom"/>
+<text x="1132" y="568" fill="#e8e2d0" font-size="12" opacity="0.85" text-anchor="middle">Lotus Bloom</text>
+<circle cx="936" cy="580" r="5" fill="#8b2a2a" stroke="#e8e2d0" stroke-width="1.5" data-slug="woh" data-name="Woh"/>
+<text x="940" y="598" fill="#e8e2d0" font-size="12" opacity="0.85" text-anchor="middle">Woh</text>
+<circle cx="1152" cy="700" r="5" fill="#8b2a2a" stroke="#e8e2d0" stroke-width="1.5" data-slug="styx" data-name="Styx"/>
+<text x="1156" y="718" fill="#e8e2d0" font-size="12" opacity="0.85" text-anchor="middle">Styx</text>
+<circle cx="1272" cy="640" r="5" fill="#8b2a2a" stroke="#e8e2d0" stroke-width="1.5" data-slug="bright-paw" data-name="Bright Paw"/>
+<text x="1276" y="658" fill="#e8e2d0" font-size="12" opacity="0.85" text-anchor="middle">Bright Paw</text>
+<circle cx="1056" cy="620" r="5" fill="#8b2a2a" stroke="#e8e2d0" stroke-width="1.5" data-slug="stripe-paw" data-name="Stripe Paw"/>
+<text x="1060" y="638" fill="#e8e2d0" font-size="12" opacity="0.85" text-anchor="middle">Stripe Paw</text>
+<circle cx="960" cy="650" r="5" fill="#8b2a2a" stroke="#e8e2d0" stroke-width="1.5" data-slug="shadow-paw" data-name="Shadow Paw"/>
+<text x="964" y="668" fill="#e8e2d0" font-size="12" opacity="0.85" text-anchor="middle">Shadow Paw</text>
+<circle cx="1344" cy="700" r="5" fill="#8b2a2a" stroke="#e8e2d0" stroke-width="1.5" data-slug="mottled-paw" data-name="Mottled Paw"/>
+<text x="1348" y="718" fill="#e8e2d0" font-size="12" opacity="0.85" text-anchor="middle">Mottled Paw</text>
+<circle cx="1440" cy="760" r="5" fill="#8b2a2a" stroke="#e8e2d0" stroke-width="1.5" data-slug="kyre-tree" data-name="The Kyre Tree"/>
+<text x="1444" y="778" fill="#e8e2d0" font-size="12" opacity="0.85" text-anchor="middle">The Kyre Tree</text>
+<circle cx="1128" cy="760" r="5" fill="#8b2a2a" stroke="#e8e2d0" stroke-width="1.5" data-slug="desert-woh" data-name="Desert Woh"/>
+<text x="1132" y="778" fill="#e8e2d0" font-size="12" opacity="0.85" text-anchor="middle">Desert Woh</text>
+<circle cx="1224" cy="800" r="5" fill="#8b2a2a" stroke="#e8e2d0" stroke-width="1.5" data-slug="fire-beetle" data-name="Fire Beetle"/>
+<text x="1228" y="818" fill="#e8e2d0" font-size="12" opacity="0.85" text-anchor="middle">Fire Beetle</text>
+<circle cx="1344" cy="800" r="5" fill="#8b2a2a" stroke="#e8e2d0" stroke-width="1.5" data-slug="razor-hare" data-name="Razor Hare"/>
+<text x="1348" y="818" fill="#e8e2d0" font-size="12" opacity="0.85" text-anchor="middle">Razor Hare</text>
+<circle cx="336" cy="800" r="5" fill="#8b2a2a" stroke="#e8e2d0" stroke-width="1.5" data-slug="auruch" data-name="Auruch"/>
+<text x="340" y="818" fill="#e8e2d0" font-size="12" opacity="0.85" text-anchor="middle">Auruch</text>
+<circle cx="576" cy="840" r="5" fill="#8b2a2a" stroke="#e8e2d0" stroke-width="1.5" data-slug="sea-marsh-dragari" data-name="Sea Marsh (Dragari cultivar)"/>
+<text x="580" y="858" fill="#e8e2d0" font-size="12" opacity="0.85" text-anchor="middle">Sea Marsh (Dragari cultivar)</text>
+<circle cx="648" cy="780" r="5" fill="#8b2a2a" stroke="#e8e2d0" stroke-width="1.5" data-slug="sea-marsh-veylar" data-name="Sea Marsh (Veylar cultivar)"/>
+<text x="652" y="798" fill="#e8e2d0" font-size="12" opacity="0.85" text-anchor="middle">Sea Marsh (Veylar cultivar)</text>
+<circle cx="1752" cy="280" r="5" fill="#8b2a2a" stroke="#e8e2d0" stroke-width="1.5" data-slug="lament" data-name="The Lament"/>
+<text x="1756" y="298" fill="#e8e2d0" font-size="12" opacity="0.85" text-anchor="middle">The Lament</text>
+<circle cx="1536" cy="320" r="5" fill="#8b2a2a" stroke="#e8e2d0" stroke-width="1.5" data-slug="iris-serpent" data-name="Iris Serpent"/>
+<text x="1540" y="338" fill="#e8e2d0" font-size="12" opacity="0.85" text-anchor="middle">Iris Serpent</text>
+<circle cx="1872" cy="320" r="5" fill="#8b2a2a" stroke="#e8e2d0" stroke-width="1.5" data-slug="mycelial-deep" data-name="The Mycelial Deep"/>
+<text x="1876" y="338" fill="#e8e2d0" font-size="12" opacity="0.85" text-anchor="middle">The Mycelial Deep</text>
+<circle cx="1632" cy="220" r="5" fill="#8b2a2a" stroke="#e8e2d0" stroke-width="1.5" data-slug="pearly-scorpion" data-name="Pearly Scorpion"/>
+<text x="1636" y="238" fill="#e8e2d0" font-size="12" opacity="0.85" text-anchor="middle">Pearly Scorpion</text>
+<circle cx="1536" cy="260" r="5" fill="#8b2a2a" stroke="#e8e2d0" stroke-width="1.5" data-slug="quick-threx" data-name="Quick Threx"/>
+<text x="1540" y="278" fill="#e8e2d0" font-size="12" opacity="0.85" text-anchor="middle">Quick Threx</text>
+<circle cx="1824" cy="220" r="5" fill="#8b2a2a" stroke="#e8e2d0" stroke-width="1.5" data-slug="rooted-threx" data-name="Rooted Threx"/>
+<text x="1828" y="238" fill="#e8e2d0" font-size="12" opacity="0.85" text-anchor="middle">Rooted Threx</text>
+<circle cx="1584" cy="880" r="5" fill="#8b2a2a" stroke="#e8e2d0" stroke-width="1.5" data-slug="shell-singer" data-name="Shell-Singer"/>
+<text x="1588" y="898" fill="#e8e2d0" font-size="12" opacity="0.85" text-anchor="middle">Shell-Singer</text>
+<circle cx="1776" cy="900" r="5" fill="#8b2a2a" stroke="#e8e2d0" stroke-width="1.5" data-slug="abyssal-heart" data-name="Abyssal Heart"/>
+<text x="1780" y="918" fill="#e8e2d0" font-size="12" opacity="0.85" text-anchor="middle">Abyssal Heart</text>
+<circle cx="1872" cy="860" r="5" fill="#8b2a2a" stroke="#e8e2d0" stroke-width="1.5" data-slug="coral-citadel" data-name="Coral Citadel"/>
+<text x="1876" y="878" fill="#e8e2d0" font-size="12" opacity="0.85" text-anchor="middle">Coral Citadel</text>
+</g>
+<g id="layer-labels">
+<text x="912" y="410" fill="#e8e2d0" font-size="30" font-weight="bold" letter-spacing="4" text-anchor="middle" opacity="0.9">RUNE BELT</text>
+<text x="1200" y="640" fill="#e8e2d0" font-size="30" font-weight="bold" letter-spacing="4" text-anchor="middle" opacity="0.9">STEADFAST DESERT</text>
+<text x="480" y="700" fill="#e8e2d0" font-size="30" font-weight="bold" letter-spacing="4" text-anchor="middle" opacity="0.9">UMBRAL RING</text>
+<text x="1704" y="220" fill="#e8e2d0" font-size="30" font-weight="bold" letter-spacing="4" text-anchor="middle" opacity="0.9">FLICKERMARCH</text>
+<text x="1680" y="800" fill="#e8e2d0" font-size="30" font-weight="bold" letter-spacing="4" text-anchor="middle" opacity="0.9">TIDEPOOLS</text>
+</g>
+<g id="layer-legend">
+<rect x="1985" y="40" width="385" height="372" rx="10" fill="#0a1628" fill-opacity="0.92" stroke="#c9a059" stroke-width="2"/>
+<text x="2177" y="74" fill="#c9a059" font-size="26" font-weight="bold" text-anchor="middle">ETHRA</text>
+<text x="2177" y="94" fill="#e8e2d0" font-size="13" font-style="italic" text-anchor="middle">The Great Orrery — canon map v1</text>
+<circle cx="2015" cy="118" r="10" fill="#c9a059"/><text x="2031" y="122" fill="#e8e2d0" font-size="12">Steadfast</text>
+<circle cx="2115" cy="118" r="10" fill="#8b2a2a"/><text x="2131" y="122" fill="#e8e2d0" font-size="12">Flicker</text>
+<rect x="2009" y="137" width="18" height="14" fill="#6f8f4f" stroke="#e8e2d0" stroke-width="1"/>
+<text x="2035" y="148" fill="#e8e2d0" font-size="14">Rune Belt</text>
+<rect x="2009" y="163" width="18" height="14" fill="#d9b36a" stroke="#e8e2d0" stroke-width="1"/>
+<text x="2035" y="174" fill="#e8e2d0" font-size="14">Steadfast Desert</text>
+<rect x="2009" y="189" width="18" height="14" fill="#aebfd4" stroke="#e8e2d0" stroke-width="1"/>
+<text x="2035" y="200" fill="#e8e2d0" font-size="14">Umbral Ring</text>
+<rect x="2009" y="215" width="18" height="14" fill="#a4553f" stroke="#e8e2d0" stroke-width="1"/>
+<text x="2035" y="226" fill="#e8e2d0" font-size="14">Flickermarch</text>
+<rect x="2009" y="241" width="18" height="14" fill="#3f7f8c" stroke="#e8e2d0" stroke-width="1"/>
+<text x="2035" y="252" fill="#e8e2d0" font-size="14">Tidepools</text>
+<rect x="2009" y="267" width="18" height="14" fill="#241c18" stroke="#e8e2d0" stroke-width="1"/>
+<text x="2035" y="278" fill="#e8e2d0" font-size="14">Underground</text>
+<path d="M 2016 301 l 7 7 l -7 7 l -7 -7 Z" fill="#c9a059"/><text x="2035" y="312" fill="#e8e2d0" font-size="14">Canonical city</text>
+<circle cx="2016" cy="328" r="7" fill="none" stroke="#c9a059" stroke-width="2.5"/><text x="2035" y="332" fill="#e8e2d0" font-size="14">Sentient race</text>
+<circle cx="2016" cy="352" r="4" fill="#8b2a2a"/><text x="2035" y="356" fill="#e8e2d0" font-size="14">Creature</text>
+<path d="M 2007 376 h 20" stroke="#c9a059" stroke-width="2.5" stroke-dasharray="2 5"/><text x="2035" y="380" fill="#e8e2d0" font-size="14">Trade / song route</text>
+</g>
+</svg>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 1568 672"
+     width="1568" height="672">
+  <title>Wengari Settlements — sample dossier overlay (anchored to v4 1568x672)</title>
+  <desc>Three canonical Ethra Wengari strongholds pinned over the v4 supercontinent. Toggleable in Ethra_viewer.html. Coordinates re-anchored 2026-07-14 against map-supercontinent-v4.png actual dimensions.</desc>
+
+  <defs>
+    <!-- Pin glyph: lime-yellow circle with gold stroke -->
+    <g id="wengari-pin">
+      <circle cx="0" cy="0" r="7" fill="#d4ff3a" stroke="#c9a059" stroke-width="1.6"/>
+      <circle cx="0" cy="0" r="2.4" fill="#0a1628"/>
+    </g>
+  </defs>
+
+  <g id="wengari-settlements" font-family="Almendra SC, Cinzel, Cormorant, Georgia, serif">
+    <!-- FLICKERMARCH — northeast Rune Belt boundary, just south of the forest -->
+    <g transform="translate(1098, 285)">
+      <use href="#wengari-pin" transform="translate(0,-10)"/>
+      <rect x="-58" y="4" width="116" height="18" fill="#0a1628" fill-opacity="0.82" stroke="#c9a059" stroke-width="0.5" rx="3"/>
+      <text x="0" y="17" text-anchor="middle" font-size="11" font-weight="bold" fill="#d4ff3a">FLICKERMARCH</text>
+    </g>
+
+    <!-- STEADFAST — center of the desert mass -->
+    <g transform="translate(430, 235)">
+      <use href="#wengari-pin" transform="translate(0,-10)"/>
+      <rect x="-50" y="4" width="100" height="18" fill="#0a1628" fill-opacity="0.82" stroke="#c9a059" stroke-width="0.5" rx="3"/>
+      <text x="0" y="17" text-anchor="middle" font-size="11" font-weight="bold" fill="#d4ff3a">STEADFAST</text>
+    </g>
+
+    <!-- DRIFTARI — inside the eastern WETLAND forest, west of FLICKERMARCH -->
+    <g transform="translate(1020, 355)">
+      <use href="#wengari-pin" transform="translate(0,8)"/>
+      <rect x="-46" y="22" width="92" height="18" fill="#0a1628" fill-opacity="0.82" stroke="#c9a059" stroke-width="0.5" rx="3"/>
+      <text x="0" y="35" text-anchor="middle" font-size="11" font-weight="bold" fill="#d4ff3a">DRIFTARI</text>
+    </g>
+  </g>
+</svg>

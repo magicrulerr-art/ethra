@@ -1,0 +1,256 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2400 1000" width="2400" height="1000" font-family="Georgia, 'Times New Roman', serif">
+  <title>Ethra — Canon Map (Deliverable #1)</title>
+  <desc>Hand-authored canon-accurate map of the Ethra supercontinent. Canvas 2400x1000 (24:10). Layers: landmass, biomes, borders, cities, races, creatures, labels, legend. Coordinate system matches static/data/map-coordinates.json (x_pct * 24, y_pct * 10).</desc>
+
+  <defs>
+    <radialGradient id="oceanGrad" cx="50%" cy="45%" r="75%">
+      <stop offset="0%" stop-color="#16324f"/>
+      <stop offset="100%" stop-color="#0a1628"/>
+    </radialGradient>
+    <radialGradient id="steadfastGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#c9a059" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#c9a059" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="flickerGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#8b2a2a" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#8b2a2a" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Ocean background -->
+  <rect x="0" y="0" width="2400" height="1000" fill="url(#oceanGrad)"/>
+
+  <!-- Twin suns, upper corners -->
+  <circle cx="140" cy="100" r="120" fill="url(#steadfastGlow)"/>
+  <circle cx="140" cy="100" r="34" fill="#c9a059"/>
+  <circle cx="2260" cy="100" r="120" fill="url(#flickerGlow)"/>
+  <circle cx="2260" cy="100" r="30" fill="#8b2a2a"/>
+
+  <!-- ==================== LAYER: LANDMASS ==================== -->
+  <!-- Supercontinent Pangaea-Ethra: polar north rim to south equator, -->
+  <!-- west + east Tidepool coastal indentations (Veylar realms). -->
+  <g id="layer-landmass">
+    <path fill="#3d4a3a" stroke="#5a6b52" stroke-width="3" d="
+      M 180 380
+      C 240 300, 400 240, 620 220
+      C 840 200, 1020 150, 1260 150
+      C 1500 150, 1660 200, 1860 230
+      C 2060 260, 2200 340, 2220 440
+      C 2240 540, 2180 620, 2060 660
+      C 2000 680, 1980 720, 1940 780
+      C 1900 840, 1820 880, 1720 870
+      C 1660 864, 1640 830, 1600 830
+      C 1560 830, 1540 880, 1460 890
+      C 1360 902, 1300 850, 1240 860
+      C 1180 870, 1160 910, 1060 905
+      C 960 900, 920 850, 840 855
+      C 760 860, 740 900, 640 880
+      C 540 860, 500 800, 430 780
+      C 360 760, 300 780, 250 720
+      C 200 660, 160 560, 165 480
+      C 167 440, 170 400, 180 380
+      Z"/>
+    <!-- West Tidepool indentation (Veylar coast) -->
+    <path fill="#16324f" d="
+      M 165 480
+      C 220 490, 300 500, 340 540
+      C 380 580, 360 640, 310 660
+      C 260 680, 220 660, 200 620
+      C 180 580, 160 520, 165 480 Z"/>
+    <!-- East Tidepool indentation (Veylar coast) -->
+    <path fill="#16324f" d="
+      M 2220 470
+      C 2160 490, 2090 510, 2060 560
+      C 2030 610, 2060 660, 2120 660
+      C 2180 660, 2220 610, 2230 550
+      C 2236 520, 2228 490, 2220 470 Z"/>
+    <!-- Southern Tidepool shallows -->
+    <path fill="#1d3a55" d="
+      M 1440 830 C 1500 810, 1580 810, 1620 840
+      C 1660 870, 1620 900, 1560 895
+      C 1500 890, 1420 870, 1440 830 Z"/>
+  </g>
+
+  <!-- ==================== LAYER: BIOMES ==================== -->
+  <g id="layer-biomes" opacity="0.9">
+    <!-- Umbral Ring: polar northern rim (Dragari + Snow Paws) -->
+    <path id="biome-umbral-ring" fill="#d5e7eb" opacity="0.75" d="
+      M 260 360
+      C 300 300, 440 250, 640 232
+      C 850 214, 1030 165, 1260 165
+      C 1490 165, 1650 212, 1850 242
+      C 2000 264, 2120 330, 2160 400
+      C 2050 380, 1900 350, 1700 340
+      C 1450 328, 1200 330, 950 340
+      C 700 350, 450 355, 260 360 Z"/>
+    <!-- Rune Belt: interior temperate band -->
+    <path id="biome-rune-belt" fill="#c8d68f" opacity="0.75" d="
+      M 300 380
+      C 550 360, 900 345, 1250 345
+      C 1550 345, 1850 360, 2080 420
+      C 2120 470, 2120 540, 2060 590
+      C 1800 570, 1500 560, 1200 565
+      C 900 570, 600 590, 380 620
+      C 320 560, 290 460, 300 380 Z"/>
+    <!-- Flickermarch: eastern interior (Threx anchor) -->
+    <path id="biome-flickermarch" fill="#7a9b5e" opacity="0.78" d="
+      M 1380 200
+      C 1560 185, 1750 215, 1900 260
+      C 2000 300, 2050 360, 2020 410
+      C 1900 430, 1720 420, 1560 400
+      C 1440 385, 1360 330, 1350 280
+      C 1345 245, 1355 215, 1380 200 Z"/>
+    <!-- Steadfast Desert: south-central equator (Pyrinae, Kyre Tree) -->
+    <path id="biome-steadfast-desert" fill="#fbe79f" opacity="0.82" d="
+      M 800 560
+      C 1000 545, 1300 545, 1520 570
+      C 1600 600, 1620 680, 1560 740
+      C 1450 790, 1250 800, 1080 785
+      C 920 770, 800 720, 760 650
+      C 740 610, 760 580, 800 560 Z"/>
+    <!-- Tidepools: west + east coastal waters (Veylar) -->
+    <path id="biome-tidepools-west" fill="#466eab" opacity="0.85" d="
+      M 165 480 C 220 490, 300 500, 340 540
+      C 380 580, 360 640, 310 660 C 260 680, 220 660, 200 620
+      C 180 580, 160 520, 165 480 Z"/>
+    <path id="biome-tidepools-east" fill="#466eab" opacity="0.85" d="
+      M 2220 470 C 2160 490, 2090 510, 2060 560
+      C 2030 610, 2060 660, 2120 660 C 2180 660, 2220 610, 2230 550
+      C 2236 520, 2228 490, 2220 470 Z"/>
+    <path id="biome-tidepools-south" fill="#466eab" opacity="0.8" d="
+      M 1440 830 C 1500 810, 1580 810, 1620 840
+      C 1660 870, 1620 900, 1560 895 C 1500 890, 1420 870, 1440 830 Z"/>
+  </g>
+
+  <!-- ==================== LAYER: UNDERGROUND ==================== -->
+  <!-- Mycelial Deep beneath the continent (Chi'Thak); shown as inset cave panel -->
+  <g id="layer-underground">
+    <rect x="1980" y="700" width="380" height="260" rx="18" fill="#120f1a" stroke="#5e3a8a" stroke-width="2.5" stroke-dasharray="8 5"/>
+    <path d="M 2010 900 C 2040 800, 2120 760, 2200 780 C 2290 800, 2330 860, 2330 900 Z" fill="#241636" stroke="#7b4fb0" stroke-width="2"/>
+    <!-- mycelial threads -->
+    <path d="M 2050 890 C 2070 840, 2110 820, 2140 830 M 2160 890 C 2180 830, 2230 820, 2270 850 M 2100 895 C 2130 860, 2190 860, 2220 885" stroke="#9a6fd0" stroke-width="2" fill="none" opacity="0.8"/>
+    <text x="2170" y="735" text-anchor="middle" fill="#b48ae0" font-size="24" font-style="italic">The Underground</text>
+    <text x="2170" y="762" text-anchor="middle" fill="#8a63b8" font-size="16">Mycelial Deep — Chi'Thak (Blight) · Super-Organism</text>
+  </g>
+
+  <!-- ==================== LAYER: BORDERS ==================== -->
+  <!-- Approximate sphere-of-influence borders between the 7 races -->
+  <g id="layer-borders" fill="none" stroke-width="2.5" stroke-dasharray="10 6" opacity="0.85">
+    <!-- Snow Paws / Dragari (Umbral) vs Rune Belt interior -->
+    <path stroke="#9fb8c8" d="M 280 370 C 600 350, 1200 335, 2100 410"/>
+    <!-- Rune Belt vs Steadfast Desert -->
+    <path stroke="#c9a059" d="M 760 640 C 1000 560, 1400 555, 1560 590"/>
+    <!-- Rune Belt vs Flickermarch -->
+    <path stroke="#7a9b5e" d="M 1350 280 C 1400 340, 1500 390, 1650 405"/>
+    <!-- Desert / Tidepool southern coast -->
+    <path stroke="#466eab" d="M 640 800 C 900 830, 1300 840, 1620 830"/>
+  </g>
+
+  <!-- ==================== LAYER: CITIES ==================== -->
+  <!-- Canonical cities ONLY: Verdantis (Humman), Styxian (Wengari), Vey'sul (Veylar ruins) -->
+  <g id="layer-cities">
+    <g id="city-verdantis" transform="translate(1056,470)">
+      <rect x="-10" y="-10" width="20" height="20" fill="#e8d9a0" stroke="#8b2a2a" stroke-width="3" transform="rotate(45)"/>
+      <text x="0" y="34" text-anchor="middle" fill="#f0e6c0" font-size="22" font-weight="bold">Verdantis</text>
+      <text x="0" y="54" text-anchor="middle" fill="#c9a059" font-size="15" font-style="italic">Humman capital</text>
+    </g>
+    <g id="city-styxian" transform="translate(792,440)">
+      <rect x="-10" y="-10" width="20" height="20" fill="#e8c877" stroke="#5e3a12" stroke-width="3" transform="rotate(45)"/>
+      <text x="0" y="34" text-anchor="middle" fill="#f0e6c0" font-size="22" font-weight="bold">Styxian</text>
+      <text x="0" y="54" text-anchor="middle" fill="#c9a059" font-size="15" font-style="italic">Wengari capital</text>
+    </g>
+    <g id="city-veysul" transform="translate(2112,560)">
+      <rect x="-10" y="-10" width="20" height="20" fill="#b8d4e8" stroke="#4a6a8a" stroke-width="3" transform="rotate(45)" opacity="0.8"/>
+      <text x="0" y="-20" text-anchor="middle" fill="#cfe4f5" font-size="22" font-weight="bold">Vey'sul</text>
+      <text x="0" y="-40" text-anchor="middle" fill="#8ab0cc" font-size="15" font-style="italic">time-frozen Veylar city (ruins)</text>
+    </g>
+  </g>
+
+  <!-- ==================== LAYER: RACES ==================== -->
+  <!-- 7 sentient races at their anchor positions (star markers) -->
+  <g id="layer-races">
+    <!-- Wengari (one race, five families) — Rune Belt anchor -->
+    <g id="race-wengari" transform="translate(768,440)">
+      <path d="M0,-16 L4.7,-4.9 L16,-4.9 L6.8,2.3 L10.3,13.4 L0,6.4 L-10.3,13.4 L-6.8,2.3 L-16,-4.9 L-4.7,-4.9 Z" fill="#e8c877" stroke="#5e3a12" stroke-width="1.5"/>
+      <text x="0" y="-24" text-anchor="middle" fill="#f5e3b0" font-size="24" font-weight="bold">Wengari</text>
+      <text x="0" y="40" text-anchor="middle" fill="#d8c090" font-size="14">Bright · Shadow · Mottled · Stripe · Snow Paws</text>
+    </g>
+    <!-- Humman — Rune Belt scattered -->
+    <g id="race-humann" transform="translate(1080,530)">
+      <path d="M0,-16 L4.7,-4.9 L16,-4.9 L6.8,2.3 L10.3,13.4 L0,6.4 L-10.3,13.4 L-6.8,2.3 L-16,-4.9 L-4.7,-4.9 Z" fill="#e07050" stroke="#5e1a1a" stroke-width="1.5"/>
+      <text x="0" y="-24" text-anchor="middle" fill="#f0b090" font-size="24" font-weight="bold">Hummans</text>
+      <text x="0" y="40" text-anchor="middle" fill="#c88070" font-size="14">mercantile empire, scattered</text>
+    </g>
+    <!-- Pyrinae — Steadfast Desert -->
+    <g id="race-pyrinae" transform="translate(1200,670)">
+      <path d="M0,-16 L4.7,-4.9 L16,-4.9 L6.8,2.3 L10.3,13.4 L0,6.4 L-10.3,13.4 L-6.8,2.3 L-16,-4.9 L-4.7,-4.9 Z" fill="#7fd4e8" stroke="#1a4a5e" stroke-width="1.5"/>
+      <text x="0" y="-24" text-anchor="middle" fill="#b0e8f5" font-size="24" font-weight="bold">Pyrinae</text>
+      <text x="0" y="40" text-anchor="middle" fill="#80b8c8" font-size="14">rune-glass artisans, Hydromancers</text>
+    </g>
+    <!-- Dragari — Umbral Ring polar rim -->
+    <g id="race-dragari" transform="translate(432,720)">
+      <path d="M0,-16 L4.7,-4.9 L16,-4.9 L6.8,2.3 L10.3,13.4 L0,6.4 L-10.3,13.4 L-6.8,2.3 L-16,-4.9 L-4.7,-4.9 Z" fill="#a0c8e8" stroke="#2a4a6a" stroke-width="1.5"/>
+      <text x="0" y="-24" text-anchor="middle" fill="#c8e0f5" font-size="24" font-weight="bold">Dragari</text>
+      <text x="0" y="40" text-anchor="middle" fill="#90b0d0" font-size="14">ancient sea-singers of the polar rim</text>
+    </g>
+    <!-- Threx — Flickermarch -->
+    <g id="race-threx" transform="translate(1680,260)">
+      <path d="M0,-16 L4.7,-4.9 L16,-4.9 L6.8,2.3 L10.3,13.4 L0,6.4 L-10.3,13.4 L-6.8,2.3 L-16,-4.9 L-4.7,-4.9 Z" fill="#b890e0" stroke="#4a2a6a" stroke-width="1.5"/>
+      <text x="0" y="-24" text-anchor="middle" fill="#d8b8f5" font-size="24" font-weight="bold">Threx</text>
+      <text x="0" y="40" text-anchor="middle" fill="#a888c8" font-size="14">mycelial beings, three forms</text>
+    </g>
+    <!-- Veylar — Tidepools -->
+    <g id="race-veylar" transform="translate(1680,840)">
+      <path d="M0,-16 L4.7,-4.9 L16,-4.9 L6.8,2.3 L10.3,13.4 L0,6.4 L-10.3,13.4 L-6.8,2.3 L-16,-4.9 L-4.7,-4.9 Z" fill="#70e8c8" stroke="#1a5e4a" stroke-width="1.5"/>
+      <text x="0" y="-24" text-anchor="middle" fill="#a0f5e0" font-size="24" font-weight="bold">Veylar</text>
+      <text x="0" y="40" text-anchor="middle" fill="#70c8b0" font-size="14">Shell-Singers, 20,000-year civilization</text>
+    </g>
+    <!-- Chi'Thak — Underground (inset) -->
+    <g id="race-chithak" transform="translate(2080,860)">
+      <path d="M0,-16 L4.7,-4.9 L16,-4.9 L6.8,2.3 L10.3,13.4 L0,6.4 L-10.3,13.4 L-6.8,2.3 L-16,-4.9 L-4.7,-4.9 Z" fill="#d04040" stroke="#5e1a1a" stroke-width="1.5"/>
+      <text x="0" y="34" text-anchor="middle" fill="#f09090" font-size="22" font-weight="bold">Chi'Thak</text>
+      <text x="0" y="52" text-anchor="middle" fill="#c06060" font-size="13">the Blight</text>
+    </g>
+  </g>
+
+  <!-- ==================== LAYER: CREATURES ==================== -->
+  <!-- Bestiary placements from map-coordinates.json (circle markers) -->
+  <g id="layer-creatures" font-size="14">
+    <!-- Rune Belt creatures -->
+    <g fill="#c8d68f"><circle cx="864" cy="500" r="7"/><text x="878" y="505" fill="#e0e8c0">Tide Wolf</text></g>
+    <g fill="#c8d68f"><circle cx="792" cy="550" r="7"/><text x="806" y="555" fill="#e0e8c0">Black-Fire Tide Wolf</text></g>
+    <g fill="#c8d68f"><circle cx="984" cy="420" r="7"/><text x="998" y="425" fill="#e0e8c0">Amuk</text></g>
+    <g fill="#c8d68f"><circle cx="1056" cy="480" r="7"/><text x="1070" y="470" fill="#e0e8c0">Ghost</text></g>
+    <g fill="#c8d68f"><circle cx="1128" cy="550" r="7"/><text x="1142" y="555" fill="#e0e8c0">Lotus Bloom</text></g>
+    <g fill="#c8d68f"><circle cx="936" cy="580" r="7"/><text x="950" y="585" fill="#e0e8c0">Woh</text></g>
+    <!-- Steadfast Desert creatures -->
+    <g fill="#fbe79f"><circle cx="1152" cy="700" r="7"/><text x="1166" y="705" fill="#f5ecc0">Styx</text></g>
+    <g fill="#fbe79f"><circle cx="1272" cy="640" r="7"/><text x="1286" y="645" fill="#f5ecc0">Bright Paw</text></g>
+    <g fill="#fbe79f"><circle cx="1056" cy="620" r="7"/><text x="1070" y="610" fill="#f5ecc0">Stripe Paw</text></g>
+    <g fill="#fbe79f"><circle cx="960" cy="650" r="7"/><text x="974" y="655" fill="#f5ecc0">Shadow Paw</text></g>
+    <g fill="#fbe79f"><circle cx="1344" cy="700" r="7"/><text x="1358" y="705" fill="#f5ecc0">Mottled Paw</text></g>
+    <g fill="#fbe79f"><circle cx="1440" cy="760" r="9"/><text x="1456" y="765" fill="#f5ecc0" font-weight="bold">The Kyre Tree</text></g>
+    <g fill="#fbe79f"><circle cx="1128" cy="760" r="7"/><text x="1142" y="765" fill="#f5ecc0">Desert Woh</text></g>
+    <g fill="#fbe79f"><circle cx="1224" cy="800" r="7"/><text x="1238" y="805" fill="#f5ecc0">Fire Beetle</text></g>
+    <g fill="#fbe79f"><circle cx="1344" cy="800" r="7"/><text x="1358" y="790" fill="#f5ecc0">Razor Hare</text></g>
+    <!-- Umbral Ring creatures -->
+    <g fill="#d5e7eb"><circle cx="336" cy="800" r="7"/><text x="350" y="805" fill="#e8f2f8">Auruch</text></g>
+    <g fill="#d5e7eb"><circle cx="576" cy="840" r="7"/><text x="590" y="845" fill="#e8f2f8">Sea Marsh (Dragari)</text></g>
+    <g fill="#d5e7eb"><circle cx="648" cy="780" r="7"/><text x="662" y="770" fill="#e8f2f8">Sea Marsh (Veylar)</text></g>
+    <!-- Flickermarch creatures -->
+    <g fill="#7a9b5e"><circle cx="1752" cy="280" r="8"/><text x="1768" y="285" fill="#c8e0b0">The Lament</text></g>
+    <g fill="#7a9b5e"><circle cx="1536" cy="320" r="7"/><text x="1550" y="325" fill="#c8e0b0">Iris Serpent</text></g>
+    <g fill="#7a9b5e"><circle cx="1872" cy="320" r="7"/><text x="1886" y="325" fill="#c8e0b0">Mycelial Deep</text></g>
+    <g fill="#7a9b5e"><circle cx="1632" cy="220" r="7"/><text x="1646" y="225" fill="#c8e0b0">Pearly Scorpion</text></g>
+    <g fill="#7a9b5e"><circle cx="1536" cy="260" r="7"/><text x="1458" y="250" fill="#c8e0b0">Quick Threx</text></g>
+    <g fill="#7a9b5e"><circle cx="1824" cy="220" r="7"/><text x="1838" y="210" fill="#c8e0b0">Rooted Threx</text></g>
+    <!-- Tidepools creatures -->
+    <g fill="#466eab"><circle cx="1584" cy="880" r="7"/><text x="1598" y="885" fill="#a8c8f0">Shell-Singer</text></g>
+    <g fill="#466eab"><circle cx="1776" cy="900" r="7"/><text x="1790" y="905" fill="#a8c8f0">Abyssal Heart</text></g>
+    <g fill="#466eab"><circle cx="1872" cy="860" r="7"/><text x="1886" y="850" fill="#a8c8f0">Coral Citadel</text></g>
+  </g>
+
+  <!-- ==================== LAYER: LABELS ==================== -->
+  <!-- Biome + ocean labels, compass, scale bar -->
+  <g id="layer-labels">
+    <text x="1200" y="300" text-anchor="middle" fill="#e8f0f8"

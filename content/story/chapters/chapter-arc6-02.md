@@ -1,0 +1,1152 @@
+## Chapter 2: Rebuilding
+
+<div class="dialogue-block">
+<span class="speech">"They're brutes,"</span> he muttered, almost to himself. Then louder, cutting through the murmur of the generals: <span class="speech">"Generals, I meant from Verdantis. Not the humans currently in the city. The Hummans have more than one city, and they are wealthy. They walked upon our land. They deployed weapons their own codes forbid. They shattered our wall and killed our people."</span> He leaned forward, the diadem's gem flaring with a brief, bright pulse. <span class="speech">"Now—how do we demand the reparations? Regent?"</span>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Sylva straightened. "The foreign advisor would be better suited to answer, Your Highness. She has been monitoring the Humman trade networks since the war began."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">"Then bring her."</p>
+</div>
+
+
+The guard at the door bowed and departed. The throne room settled into silence, broken only by the soft breathing of Black Fire and Red Fire at Ajani's feet. The four generals remained at attention. Vasha's stylus had stopped moving. Sylva stood at the foot of the dais, her ancient eyes fixed on the door.
+
+
+<div class="dialogue-block">
+<p class="speech-line">Elyra entered with the quiet grace of Flowing Water. The Motted Paw foreign advisor moved across the polished stone and inclined her head toward the throne. "Your Highness. You wish to discuss reparations from Verdantis." It was not a question. She had been listening outside the door.</p>
+</div>
+
+
+<div class="dialogue-block">
+<span class="speech">"The Hummans,"</span> Ajani said. <span class="speech">"They are wealthy. They have more than one city. They walked upon our land and deployed weapons their own codes forbid. How do we demand the reparations?"</span>
+</div>
+
+
+<div class="dialogue-block">
+Elyra was silent for a moment, her silver aura flickering gently. Then she spoke. <span class="speech">"The Hummans are merchants. They understand debt. They understand leverage. They understand that a contract signed under duress is still a contract. If you want reparations, you must first understand what you hold that they need."</span> She paused, her melodic voice carrying through the silent hall. <span class="speech">"What do you hold that they need, Your Highness?"</span>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">'this grows tiresome' - "If someone doesn't tell me a way, I will order a full military deployment and erase their cities from the face of Ethra"</p>
+</div>
+
+
+The words fell like a blade. The throne room went absolutely still.
+
+
+M'rak's burn-scarred face tightened. Reva's golden eyes widened. Zephyr's scarred expression flickered with something that might have been alarm. Yvaria's silver-furred hands, still stained with the blood of her ghosts, clenched at her sides. Sylva's ancient eyes closed. Vasha's stylus stopped moving.
+
+
+<div class="dialogue-block">
+<p class="speech-line">Elyra was the first to speak. Her melodic voice was very quiet. "Your Highness. If you order a full military deployment against the Humman cities, you will succeed. The Wengari have the Wohs. The ghosts. The shadow riders. The Humman military is shattered. Their king is dead. Their remaining forces are scattered. You could burn Verdantis to the ground. You could erase every Humman city from the face of Ethra. It would take perhaps three months. Perhaps four. The cost in Wengari lives would be significant but not prohibitive. You would win."</p>
+</div>
+
+
+She paused. Her silver aura flickered once.
+
+
+<div class="dialogue-block">
+<span class="speech">"And when you were done, every other race on Ethra would know that the White Dawn who offered them friendship and trade and a place in his tournament had become the sixth Tyrant. The Pyrinae would remember that you freed them and then wonder if you would enslave them again. The Veylar would withdraw to their Tidepools and never speak to the surface again. The Threx would retreat into the March and close the mycelial network forever. The Dragari would vanish. The Chi'Thak would feast on the ruins. And the Golden Sun, the lord of the desert, would watch you become exactly what every Tyrant before you became—a White Dawn who began with benevolence and ended in blood. You would win the war, Your Highness. And you would lose everything you built."</span> She raised her eyes to the throne. <span class="speech">"The foreign advisor recommends against full military deployment. The foreign advisor recommends leverage instead."</span>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">"they used Velarius madness don't you believe that justifies full military deployment?"</p>
+</div>
+
+
+Ajani's question hung in the throne room like a challenge. His voice had not risen, but the cold fury beneath it was unmistakable. The diadem's gem pulsed once, bright and hard.
+
+
+<div class="dialogue-block">
+<p class="speech-line">M'rak stepped forward before anyone else could speak. The burn-scarred general had been fighting since dawn, and his voice was hoarse, but it did not waver. "Your Highness, the Humman king deployed Plague weapons against us. He used the arsenal of the Fifth Tyrant. Under the old laws—the laws from before the pact, the laws the Wengari have kept since the First Tyrant fell—the use of Plague weapons is a declaration of total war. It carries a single response: annihilation of the offending state. If you order full military deployment, you will be acting within the old laws. No Wengari would question it. No elder would oppose it. The precedent is clear."</p>
+</div>
+
+
+He paused. His burn-scarred hands clenched at his sides.
+
+
+<div class="dialogue-block">
+<p class="speech-line">"I lost fifteen Wohs. I watched my soldiers burn in pillars of fire. I watched the purple orbs consume forty of our brothers and sisters on the wall. I want justice. But I also want you to understand what you are asking. If you order annihilation, you will be following the precedent of the First Tyrant—the Black Fire himself. He would have done exactly what you are proposing. He did exactly what you are proposing, five thousand years ago. The genocide that erased the other families. The purge that drove the Snow Paws into exile. The fire that scarred the shadow wolves forever. That is the precedent you would be following. Not the old laws. The First Tyrant's laws."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Reva stepped forward, her voice cold and steady. "The Plague weapons are an abomination. They should never have been used. The Humman king is dead. The shadowy figure who gave him the weapons is dead or fled. The Humman refugees in our city are not the ones who deployed the orbs. The Humman general who defected is not the one who unleashed the Plague. If you annihilate Verdantis, you will be killing the innocent alongside the guilty. You will be no different from the king who marched on our city because a frightened scribe told him we were weak. That is not justice. That is vengeance. And vengeance is what the Black Fire would have chosen."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Elyra spoke again, her melodic voice quiet but firm. "The other races are watching, Your Highness. The Veylar heard your chants. The Threx felt the Plague through the mycelial network. The Dragari sent their medallion and their messenger. If you respond to the Plague weapons with annihilation, they will see the cycle repeating. They will see another White Dawn become a Tyrant. They will see the hope of the tournament and the road and the Golden Sun turn to ash. The Humman king used the Plague because he believed you would respond exactly as you are proposing to respond. He believed the Wengari were brutes who would choose vengeance. Prove him wrong."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Sylva spoke last, her ancient voice carrying the weight of her long years. "Your father faced this choice. When the border skirmishes threatened to become a war, when the Fire Beetles breached the west wall, when the elders urged him to respond with overwhelming force—he chose restraint. He said the crown must be like the sun. Warm. Unflinching. Unforgiving. Not cruel. Not capricious. Not a destroyer. He said the hardest thing a king can do is hold his strength in reserve and use it only when nothing else remains. I am not telling you what to decide. I am telling you what he would have said."</p>
+</div>
+
+
+The throne room was silent. Black Fire and Red Fire stirred at Ajani's feet but did not wake. Vasha's stylus had not moved for several minutes. The four generals waited. The foreign advisor waited. The regent waited. And the king sat on his throne, the diadem's gem pulsing with a slow, steady light, and weighed the choice before him.
+
+
+<div class="dialogue-block">
+<p class="speech-line">"sigh, fine, what about an overwhelming show of force to exact the réparations ?, one full legion to site Verdantis?"</p>
+</div>
+
+
+Elyra stepped forward once more. The foreign advisor had been prepared to argue against annihilation; she had not expected the king to pivot so quickly. But she adapted—Flowing Water always adapted.
+
+
+<div class="dialogue-block">
+<p class="speech-line">"A full legion to Verdantis would be overwhelming, Your Highness. The Humman military is shattered. Their king is dead. Their remaining forces could not resist a single regiment, let alone a legion. If you send a legion, you will not need to fight. You will need only to be seen. The Hummans understand leverage. They understand that a contract signed under threat is still a contract. The legion is the threat. The reparations are the contract. It is the most effective way to achieve what you want without the cost of annihilation."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">M'rak nodded slowly. "One legion. The fifth or the sixth, from the belt outposts. They are fresh. They have not seen battle. They will be eager to prove themselves. And Verdantis will see the full strength of the Wengari at their gates—the Wohs, the ghosts, the shadow riders, the Golden Cloaks if Solen permits. They will understand that we are not brutes. We are the power that could have annihilated them and chose not to."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Reva was silent for a moment, then nodded. "It is better than annihilation. It is better than letting them go unpunished. The Hummans must pay for what they did. If a legion at their gates forces them to pay, then I will support it."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Zephyr inclined his scarred head. "The shadow riders will join the legion. The Black Fire's legacy should be seen. The Hummans used the Plague against us. Let them see the fire that broke it."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Yvaria's voice was quiet but steady. "The ghosts will fly. They will carry the memory of the fallen with them. If a show of force can prevent another war, then it is worth the flight."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Sylva spoke last. "Your father used a show of force only twice in his long reign. Both times, it worked. Both times, the Hummans paid what they owed and did not test us again for a generation. A legion at Verdantis will remind them why they should not test us now."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">"good, let's wait till the rest of the elders and generals arrive, Maren, I wish for a memorial to be built to honor the fallen, and the pensions, also we need a proper celebration to set the mood, non essential reparations can wait it's more important to boost the morale of our city, objections?"</p>
+</div>
+
+
+Ajani's words settled over the throne room, and for a moment, no one spoke. The shift was abrupt—from annihilation to memorials, from reparations to celebration—but the king had made his decision, and the council was adjusting.
+
+
+<div class="dialogue-block">
+<p class="speech-line">Sylva stepped forward. "The people need something to celebrate, Your Highness. They have lost brothers and sisters, sons and daughters. The wall is broken. The mirror array is gone. If you give them a day of remembrance and a day of celebration, they will see that the crown has not forgotten them. They will see that the White Dawn honors the fallen and looks to the future. That is worth more than any pension."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">M'rak nodded slowly. "The soldiers need this. They fought for seven hours. They watched their comrades die. They need to know that their sacrifice meant something. A memorial, a celebration—it will help them heal. It will help us all heal."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Reva was silent for a moment, then inclined her head. "The western garrison will contribute to the memorial. We lost fifteen Wohs and their riders. They deserve to be remembered."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Zephyr's scarred face was unreadable, but his voice was steady. "The shadow riders will attend the memorial. The Black Fire saved the city. The fallen deserve to be honored by those who survived."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Yvaria spoke last, her voice quiet but firm. "The ghosts will fly over the memorial. They will beat the drums for the fallen. It is what they would have wanted."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Ajani nodded slowly, the diadem's gem pulsing with a soft, steady light. "Then it is decided. Maren, begin the arrangements for the memorial and the celebration. Use the arena. Keep it tied to the tournament. The city will remember the fallen, and then it will remember that we are still here. We are still Wengari. And we will rebuild."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">After the meeting ajani goes down to the inner chamber , and extends his hand to the flower "I'm here this is what happened" images flow from his head about the fight and how he was in coma for three weeks</p>
+</div>
+
+
+The descent into the inner chamber was quiet. No guards accompanied him. No advisors walked at his side. The spiral stair was worn smooth by centuries of royal footfalls, and Ajani walked it alone, the diadem's gem casting long, dancing shadows across the ancient stone. Black Fire and Red Fire had been left above—they would not enter this place, and he did not ask them to.
+
+
+The chamber opened before him. The roots of the Kyre Tree pulsed with pale green light, twisting through the stone like veins. The great blossom hung suspended in its web of roots, its petals closed tightly around the amber pool at its heart. The lord of the desert was waiting. The Golden Sun was listening.
+
+
+Ajani stopped at the edge of the pool. He did not kneel. He had never knelt before the Tree. Instead, he extended his hand and placed it gently on the flower's petals. They were warm beneath his touch, pulsing with the same slow, steady rhythm as the diadem's gem.
+
+
+<div class="dialogue-block">
+<p class="speech-line">"I'm here. This is what happened."</p>
+</div>
+
+
+The images flowed from his mind. The coma—three weeks of darkness, the armor burning, the Lightbringer's ghost trying to wake a master who was dead. The Dragari medallion, Cefiro's voice, the chant that pulled him back. The war—the wall, the scorpions, the suicide riders, the purple orbs, the creature rising from the Humman camp. The chants. The spirits. The storm. The cost.
+
+
+He showed the Tree everything. The Wohs dying in pillars of fire. The ghosts falling from the sky. The Golden Cloaks holding the barrier until their light guttered and died. The shadow riders breaking the Plague net. The civilians with their table legs and scythes. The communal chants rising from the temple and the wall. The names—Ifrit, Shiva, Seraphim, Nyx, Aurum, Raiten—spoken by hundreds of voices. The lightning that atomized the creature and left only a dark scar on the sand.
+
+
+He showed the Tree his own body, suspended between fire and ice and light and darkness, the spirits feeding on his aura, the blood running from his nose and mouth, the fall, Yvaria catching him.
+
+
+When the images ended, Ajani was silent. The roots pulsed. The blossom stirred. The amber pool rippled, and the voice of the Tree pressed against his mind—not words, not images, but something older, something deeper. The lord of the desert had felt the Plague. It had screamed when the first purple orb struck the wall, when the poison seeped into the sand and the stone and the ancient roots. It had felt the death of the Wohs, the ghosts, the soldiers.
+
+It had felt the communal chants, the spirits rising, the storm descending. And it had felt the creature die.
+
+
+*You burned yourself. You called the elements. You used the names. The old names. The names from before the pact, before the cities, before the Wengari walked the desert. You do not know what you did. You do not know what you are. But the Plague is gone. The creature is dead. The endless darkness has been driven back. For now. You kept the pact. You kept the bargain. You are the White Dawn. And I am still hungry.
+
+But I am also patient. I have always been patient. Rest now. Rest, and then rise. The road still waits. The enemy still stirs. But today—today you have won.*
+
+
+The roots of the Kyre Tree pulsed slowly, thoughtfully, the pale green light rippling through the ancient chamber. The blossom stirred. The amber pool swirled with the images Ajani had given it, and the lord of the desert absorbed them without comment, without judgment, without the slightest hint of surprise.
+
+
+When the voice pressed against Ajani's mind, it was the same ancient, patient hunger it had always been. *You were in a coma. The armor tried to wake the Lightbringer. It nearly killed you. The Humman king deployed the old weapons. The ones Velarius left behind. The creature rose. You burned yourself to stop it. You used the old names. The Plague is gone. The creature is dead. The city still stands. You kept the bargain.* A pause. The roots pulsed once, a slow, deliberate throb. *Good.*
+
+
+The blossom shifted, its petals rustling with what might have been the Tree's equivalent of a shrug. *The road still waits. The endless darkness in the belt still stirs. The enemy is not dead—only delayed. You have bought yourself time. Perhaps a year. Perhaps less. Use it well. The Golden Sun does not care about memorials or celebrations or the morale of your city. The Golden Sun cares about the pact. You have kept it. That is all that matters.*
+
+
+The amber pool began to still. The roots withdrew slightly, their pale green light dimming. But then, almost imperceptibly, the blossom leaned closer. A single root extended from the tangle and touched the diadem on Ajani's brow. The white gem flared once, bright and warm, and then settled back into its steady glow.
+
+
+*The old names. You should not have known them. You should not have been able to call them. I do not know what you are. But you are not the Lightbringer. You are something else. Something new. Do not die on the road, White Dawn. I have invested too much in you to start over with another king.*
+
+
+The root withdrew. The blossom closed. The lord of the desert returned to its patient, hungry silence. But the gem on Ajani's brow still glowed with the faint, lingering warmth of the Tree's touch. And as he climbed the spiral stair back toward the light, he understood that he had just received the closest thing to a compliment the Golden Sun had ever given anyone.
+
+
+The week had passed like water through cracked stone—slow, halting, but steadily finding its way. The generals and elders had arrived with their honor guards, the banners of the four families snapping in the desert wind as they rode through the rebuilt northern gate. The wall was still broken, the eastern section still a jagged wound against the sky, but the Pyrinae engineers had already begun their work. The sound of chisels and rune-glass hammers echoed through the city from dawn to dusk.
+
+
+Ajani sat on the throne, Black Fire and Red Fire sprawled at his feet. The scorpions had grown again—Black Fire was nearly two and a half meters now, Red Fire close behind—and they had developed a new game. They would hide behind the great bronze doors at the entrance to the throne room, their dark and crimson carapaces blending with the shadows, and wait. When a servant or a guard or an unsuspecting elder entered, they would leap out, tails raised, claws clicking, and the unfortunate victim would stumble backward with a shout of terror.
+
+The scorpions would then retreat behind the doors, their small bodies vibrating with what Ajani had come to recognize as scorpion laughter.
+
+
+Ajani thought it was very funny. The servants did not. The elders did not. Sylva had asked him three times to make them stop. He had not made them stop.
+
+
+Lira and Yvaria had both tried to get closer to him during the week. Lira's approach was quiet and careful—she brought him tea in the mornings, stood guard outside his chambers at night, asked if he needed anything with a formality that was almost painfully correct. Yvaria's approach was not quiet at all. She had appointed herself his personal nurse and had not relinquished the position, arriving each morning with fresh bandages and a steady stream of conversation that required no response.
+
+They had met in the corridor outside his chambers twice now, and the air between them had grown very cold. Ajani had pretended not to notice.
+
+
+Cefiro had bonded with Kira. The Snow Paw prince spent his mornings with her in the temple, helping the wounded and the grieving, and his afternoons teaching her the old Snow Paw tongue. She reminded him of Nadya, he said—the same stubbornness, the same quick wit, the same habit of throwing things at people she liked. Kira had thrown a cushion at him on the third day, and Cefiro had smiled for the first time since he arrived.
+
+
+Solen had come to Ajani on the fourth day, his golden cloak still wrapped around his shoulders, his ancient eyes heavy with guilt. He had asked for forgiveness for not acting sooner, for not revealing the Golden Cloaks until the last hour, for letting the city suffer while he kept his secret. Ajani had told him his vows were renewed, that the Golden Cloaks had saved the city, and that the identity of the rest of the order should remain a secret.
+
+The Bulwark who guarded the Wengari should not become a political tool. Solen had bowed his head and left without speaking, but his shoulders had been lighter.
+
+
+Reva, M'rak, and Zephyr had thrown themselves into the work of the city. Reva had taken charge of the wall repairs, her surviving Wohs clearing rubble alongside the Pyrinae engineers. M'rak had organized the patrols, the watch rotations, the slow, grinding work of securing a wounded capital. Zephyr had been seen in the Humman quarter, speaking with the refugees, his scarred face unreadable, his shadow wolves padding silently at his heels. No one knew what they discussed. No one asked.
+
+
+The city was slowly starting to heal. The memorial had been erected in the eastern plaza—a simple pillar of white stone, carved with the names of the fallen. The celebration was planned for the following week, tied to the tournament's infrastructure as Maren had suggested. The pensions were being distributed. The wall was being rebuilt. And the generals and elders were now gathered in the throne room, their honor guards lining the walls, their banners hanging from the rafters.
+
+The Wengari were ready to hear what their king would say.
+
+
+<div class="dialogue-block">
+<p class="speech-line">"The city was under siege and almost breached yet not a single general was here, no legion, no reinforcements, we got saved by ragtags who took the chance, can anyone answer me why ?"</p>
+</div>
+
+
+The great hall fell silent. The generals and elders who had arrived with their honor guards stood in their ranks, their banners hanging from the rafters, their faces carefully composed. None of them spoke.
+
+
+M'rak and Reva and Zephyr and Yvaria stood apart from the others, near the foot of the throne. They had been here during the battle. They had brought what they could. The rest—the generals who had not come, the elders who had not authorized the mobilization—stood in silence.
+
+
+The silence stretched. The king's question hung in the air, and no one answered it.
+
+
+<div class="dialogue-block">
+<p class="speech-line">Vasha stepped forward from her place at the edge of the dais. Her humorless face was set, her cold eyes sweeping across the assembled elders. "The Council of the Untrustworthy intercepted the Humman letters three weeks before the battle. We did not inform the elders. We did not inform the regent. We sent word directly to the commanders we trusted—the young generals who had seen the king at the tournament, who would act without waiting for approval. The garrisons could not move without elder authorization. The elders were not informed. The legions did not come because the legions answer to the elders, and the elders were bypassed."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">She paused. "If the Council had gone through proper channels, the elders would have debated. They would have deliberated. They would have tried to negotiate with the Hummans while the army was already marching. The city would have fallen before the first resolution was passed. The Council acted as it was designed to act. The city survived because the elders were bypassed."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">A murmur ran through the hall. The elders stirred, their golden and striped and shadowed and mottled pelts bristling with indignation. One of them—an old Bright Paw with a golden mane streaked with grey—stepped forward. "You bypassed the chain of command. You acted without authority. You—"</p>
+</div>
+
+
+<div class="dialogue-block">
+<span class="speech">"You were paralyzed,"</span> Vasha said flatly. <span class="speech">"You are still paralyzed. You have been paralyzed since the king fell into his coma. The Council did what was necessary. If you wish to censure us, you may do so. But you will have to explain to the families of the dead why you were debating protocol while the city burned."</span>
+</div>
+
+
+<div class="dialogue-block">
+The Bright Paw elder opened his mouth, then closed it. Sylva stepped forward, her silver-chased armor still dented, her ancient voice carrying through the hall. <span class="speech">"The regent was also bypassed. I did not know the letters had been intercepted. I did not know the reinforcements were being summoned. I did not know the full size of the Humman army until the day before the battle. The Council acted alone. If they had not, the city would have fallen. My failure is my own. Their success is theirs."</span> She paused. <span class="speech">"The king asked why no generals were here, why no legions came, why no reinforcements arrived through the proper channels. The answer is that the proper channels failed. The Council did not."</span>
+</div>
+
+
+The hall fell silent again. The elders looked at each other. The young generals stood firm. And Ajani waited.
+
+
+<div class="dialogue-block">
+<p class="speech-line">"while they might be shielding you, I am sure every single general here knew the troops were missing,  step forward, who was in charge of the three here ?, and blackpaws you have my personal thanks you did not waiver and sent a full legion, you are the example of what the other families should be"</p>
+</div>
+
+
+The hall fell silent. The young generals stood at the foot of the throne—M'rak, Reva, Yvaria—the three who had brought what they could, who had ridden through the night, who had fought on the wall while the legions stayed in their barracks.
+
+
+<div class="dialogue-block">
+After a long moment, an older Bright Paw general stepped forward. His golden mane was streaked with grey, his ceremonial armor polished to a high sheen. He had not been at the wall. He had not sent his troops. <span class="speech">"I am General Torek, commander of the eastern garrison. M'rak served under me. He took a regiment of Wohs without authorization. He left a note."</span> He paused. <span class="speech">"The note said the capital was under attack and he was riding to reinforce. I did not stop him. I could have. I chose not to. If that is a failure, it is mine."</span>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">A Stripe Paw general stepped forward next. His striped mane was matted with age, his golden eyes hard. "I am General Vorak, commander of the western garrison. Reva served under me. She took a regiment of Wohs without authorization. She also left a note. I also chose not to stop her. The elders had not authorized mobilization. I did not have the authority to release the full legion. I gave her what I could—my silence. If that is a failure, it is mine."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">A Motted Paw general stepped forward last. Her silver fur was pale with age, her voice soft but steady. "I am General Sylen, commander of the Rune-Belt outposts. Yvaria served under me. She took a hundred ghosts without authorization. She left no note. She simply flew. I knew she would. I did not stop her. The elders had not authorized anything. I gave her my silence, as the others did. If that is a failure, it is mine."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">M'rak spoke, his voice steady. "The generals did not stop us. They could have. They chose not to. They gave us what they could—their silence, their trust, their soldiers. If we had failed, they would have been court-martialed alongside us. They knew that. They let us go anyway."</p>
+</div>
+
+
+Ajani looked at the three older generals for a long moment. Then he turned to Zephyr, who stood apart from the others, his scarred face unreadable.
+
+
+<div class="dialogue-block">
+<p class="speech-line">"Blackpaws. You have my personal thanks. You did not waver. You sent a full legion. You are the example of what the other families should be."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Zephyr inclined his head. His voice was quiet but steady. "The Shadow Paws remember what it is to be shunned. We remember what it is to be feared and distrusted. The White Dawn adopted one of our cubs and made her his sister. He showed us respect no king has shown since the First Tyrant. When Maren's message reached Xhilva, the elders did not debate. They did not deliberate. They sent everything we had. Not because we were ordered to. Because we owed a debt that was five thousand years old, and the king had finally given us the chance to repay it."</p>
+</div>
+
+
+<div class="dialogue-block">
+The hall was silent. The other elders looked at the Shadow Paw contingent with expressions that were difficult to read. Some were shamed. Some were calculating. Some were simply tired. Ajani leaned forward on the throne. <span class="speech">"The legions did not come because the elders were bypassed. The elders were bypassed because the Council did not trust them to act. The generals who let their soldiers ride gave what they could without orders. The Shadow Paws gave everything. This is how the city survived. Not through the proper channels. Not through the chain of command. Through trust."</span> He paused. <span class="speech">"The proper channels are broken. The chain of command is broken. We will fix it. Or we will not survive the next war."</span>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">"I am promoting these four to two star generals, and giving them full command of one legion, they will pick their garrisons and travel to Verdantis they won't come back until their coffers are full of the hummans coin and the fear of the wengari is so ingrained in them the cubs of their cubs will still have nightmares of us, in addition to that a celebration will be held to honor them, I expect you all to be present as for the elders I am deeply disappointed in you all, I expect a full accounting of why you did not act, then I will burn it and we shall never speak of it again, but the crown remembers I will remember who came in the hour of need and who didn't "</p>
+</div>
+
+
+The weight of the king's words settled over the great hall like a mantle. The four young generals stood at the foot of the throne—M'rak, Reva, Zephyr, Yvaria—and for a moment, none of them spoke.
+
+
+<div class="dialogue-block">
+<p class="speech-line">M'rak stepped forward first, his burn-scarred face unreadable, his voice steady. "Your Highness. I accept the promotion. I will take a legion to Verdantis, and I will not return until the Hummans understand what they brought upon themselves. But I did not fight alone. The soldiers who held the wall, the civilians who grabbed table legs and scythes, the ghosts who died catching the acid barbs—they earned this. Not me. I will carry their memory to Verdantis. The Hummans will know their names before I am done."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Reva stepped forward next. Her golden eyes were still hollow, still carrying the weight of the fifteen Wohs she had lost. "I accept. I will take a legion to Verdantis. The western garrison lost half its cavalry in three seconds. The Hummans will pay for every Woh, every rider, every drop of blood. I will not return until their coffers are empty and their fear is full."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Zephyr inclined his scarred head. "The shadow riders will accompany the legion. The Black Fire broke the Plague net. The Hummans will see the wolves that survived their king's madness. They will see the fire that saved the city. They will remember."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Yvaria spoke last, her voice quiet but steady. "The ghosts will fly with the legion. They will carry the drums. The Hummans will hear the sound of our mourning before they see the Wohs on the horizon. They will know we are coming. And they will know why."</p>
+</div>
+
+
+<div class="dialogue-block">
+Ajani turned to the elders. His voice was cold now, the diadem's gem pulsing with a hard, bright light. <span class="speech">"As for the elders—I am deeply disappointed in you all. I expect a full accounting of why you did not act. Written. Signed. Delivered to this throne within the week."</span> He paused, and his green-flecked eyes swept across the assembled elders with the weight of judgment. <span class="speech">"Then I will burn it. And we shall never speak of it again. But the crown remembers. I will remember who came in the hour of need. And who did not."</span>
+</div>
+
+
+A murmur ran through the elder ranks. Some bowed their heads. Some stirred with indignation. Some simply looked at the young generals with expressions that were difficult to read. But no one spoke. There was nothing to say.
+
+
+<div class="dialogue-block">
+<p class="speech-line">The king rose from the throne. Black Fire and Red Fire stirred at his feet, their tails curling behind him. "A celebration will be held to honor these four. I expect you all to be present. The city will remember the fallen, and then it will remember the living. We are still Wengari. We are still standing. And we will rebuild." He stepped down from the dais, the scorpions flanking him. The great hall was silent, the banners of the four families hanging motionless in the still air. And the long work of restoration had finally begun.</p>
+</div>
+
+
+The great bronze doors had barely closed behind Ajani and the scorpions when the silence in the hall began to fracture.
+
+
+<div class="dialogue-block">
+<p class="speech-line">General Torek, the old Bright Paw commander who had let M'rak ride without authorization, turned to his former subordinate. His golden mane was streaked with grey, his ceremonial armor still immaculate, but his voice was rough with something that might have been pride or might have been grief. "Two stars. You're a two-star general now. You outrank me."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">M'rak met his eyes. "You let me go. You could have stopped me. You didn't."</p>
+</div>
+
+
+<div class="dialogue-block">
+<span class="speech">"I know."</span> Torek was quiet for a moment. <span class="speech">"I've been a general for forty years. I've never had to make a choice like that. I hope I never have to again. But if I do—"</span> He paused. <span class="speech">"I'll remember what you did. We all will."</span>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Across the hall, General Vorak stood with Reva. The old Stripe Paw commander's striped mane was matted with age, his golden eyes hard and unreadable. "Fifteen Wohs. You lost fifteen Wohs in three seconds. And you're still standing."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Reva's voice was flat. "I'm standing because they're not. Someone has to carry them."</p>
+</div>
+
+
+<div class="dialogue-block">
+Vorak nodded slowly. <span class="speech">"Then carry them to Verdantis. Make the Hummans remember their names. Make them pay for every Woh, every rider, every drop of blood. And when you come back—"</span> He stopped. <span class="speech">"When you come back, you'll be a hero. The heroes always have the hardest time adjusting. I'll be here. If you need to talk."</span>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">General Sylen stood with Yvaria near the great bronze doors. The old Motted Paw commander's silver fur was pale with age, her voice soft but steady. "You left no note."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">"I didn't have time."</p>
+</div>
+
+
+<div class="dialogue-block">
+<span class="speech">"I know."</span> Sylen was silent for a moment. <span class="speech">"The ghosts that died—they followed you because they trusted you. They flew into the Plague mist because you asked them to. That weight will not leave you. It will get heavier before it gets lighter. But you did the right thing. The city is still here because of you. The ghosts who survived know that. The ghosts who died knew it too."</span>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Yvaria's voice was barely a whisper. "How do you know?"</p>
+</div>
+
+
+<div class="dialogue-block">
+<span class="speech">"Because I know you. And I knew them. And I know what the drums were saying when you flew."</span> She placed one silver-furred paw on Yvaria's shoulder. <span class="speech">"You are a two-star general now. The youngest in Wengari history. When you go to Verdantis, the ghosts will follow you again. Not because you order them. Because they trust you. That is worth more than any rank."</span>
+</div>
+
+
+Zephyr stood apart from the others, his scarred face unreadable, his shadow wolves waiting silently in the corridor outside. The Shadow Paw elders had gathered near the far wall, their dark pelts blending with the shadows, their lacquered claws gleaming. They did not approach him. They did not congratulate him. They simply inclined their heads—a gesture of acknowledgment that was almost a bow. The Black Fire's legacy had been used to protect instead of destroy.
+
+The shame of five thousand years had been lifted, at least in part. And the young general who had carried the flame was now a two-star commander of a full legion.
+
+
+The elders who had been chastised stood in small, silent clusters. No one spoke to them. No one needed to. The king's words still hung in the air: I am deeply disappointed in you all. I expect a full accounting. Then I will burn it. And we shall never speak of it again. But the crown remembers. The old Bright Paw who had protested Vasha's bypassing of the chain of command stood alone near the dais, his golden mane limp, his ancient shoulders bowed.
+
+He had been a loyal servant of the crown for decades. He had followed every protocol, respected every hierarchy. And the city had nearly fallen because of it.
+
+
+Vasha watched him from across the hall. Her humorless face was set, her cold eyes unreadable. She did not gloat. She did not even seem satisfied. She simply observed, her stylus still poised over her ledger, as if the entire scene were merely another column of figures to be balanced.
+
+
+<div class="dialogue-block">
+Maren stood beside her, the coin master's dark eyes moving across the assembled elders with the cold, clinical assessment of an auditor reviewing a failing account. <span class="speech">"They will recover,"</span> she said quietly. <span class="speech">"The elders always recover. They will adapt to the new order, or they will be replaced. Either outcome is acceptable."</span>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Vasha did not look at her. "They will adapt. They have no choice. The king has made it clear that the old ways are dead. The Council is now the true power behind the throne. The elders will learn to live with that, or they will learn to live with nothing."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Maren's stylus scratched once against her ledger. "The coin master notes that the Council's expenses for the war were significant but within acceptable parameters. The coin master also notes that the elders' failure to act saved the crown a considerable sum in mobilization costs. The coin master does not know whether to be grateful or disgusted."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Vasha almost—almost—smiled. "Be both. It's what I am."</p>
+</div>
+
+
+The great hall slowly emptied. The generals and elders filed out into the morning sun, their honor guards falling into step behind them. The banners of the four families still hung from the rafters, their golden and striped and shadowed and mottled sigils catching the light. The wall was still broken. The dead were still being mourned. But the city was alive. The king had returned. And the Wengari were ready to remind the world why they were feared.
+
+
+*Let's look at the immediate aftermath of ajani leaving the room with the full military apparatus still there*
+
+<div class="dialogue-block">
+We are in the gardens, Cefiro tells Ajani he's seen enough and he must return home, Ajani says <span class="speech">"So soon?"</span> , Cefiro answers <span class="speech">"it wasn't supposed to be a long visit but I will return, father will want to be here for the memorial, now that I charted the way we can make it with a small delegation in perhaps a week and a half ?"</span> Kira over hears and asks if she can go with Cefiro, Ajani tells her that the falcon can't carry both but Cefiro says it can they depart at twilight, Ajani gives Cefiro the royal seal and an official invitation from one king to another,  cefiro tells him he will ride all night
+</div>
+
+
+The afternoon sun filtered through the hanging gardens, catching the kyre flowers in their eternal bloom. Black Fire and Red Fire were sprawled in a patch of warm stone nearby, their tails occasionally twitching as they dozed. Pearl was curled in Kira's lap, her pale antennae waving gently.
+
+
+<div class="dialogue-block">
+<p class="speech-line">Cefiro stood at the edge of the garden, looking out over the shattered eastern wall and the blackened sand beyond. His white fur caught the light, the black motes shifting as he turned back to face his cousin. "I have seen enough, cousin. I must return home."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Ajani looked up from where he sat on the low stone wall. "So soon? You just arrived. You spent most of that time in a war and a bath."</p>
+</div>
+
+
+<div class="dialogue-block">
+<span class="speech">"It was not supposed to be a long visit."</span> Cefiro's voice was still careful, still formal, but the edges had softened over the week. <span class="speech">"But I will return. Father will want to be here for the memorial. He will want to see the city. He will want to meet the sister."</span> He glanced at Kira, who was pretending not to listen. <span class="speech">"Now that I have charted the way, we can make the journey with a small delegation. Perhaps a week and a half, if the winds are favorable. The Sunraptors are faster when they know where they are going."</span>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Kira looked up from Pearl. "Can I go with him?"</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Ajani shook his head. "The Sunraptor can't carry all three of you. Cefiro barely made it here with himself and his supplies. You, Pearl, and however many snacks you'd try to smuggle aboard—it's too much weight."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">"The Sunraptor is stronger than it looks. It carried me across the desert for six months. A small cub and her scorpion would not trouble it. I already calculated the weight."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Kira turned to Ajani, her dark eyes wide and earnest. "You said I should see the ocean. The Ice City is past the ocean. That's even better."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Ajani sighed. "I said you should see the ocean. I did not say you should fly across it on a bird with a prince who got lost in the desert for three months because I told him the city was 'in the center.'"</p>
+</div>
+
+
+<div class="dialogue-block">
+<span class="speech">"I did not get lost. I was merely... temporarily uncertain of my precise location. For several weeks."</span> He paused. <span class="speech">"The journey back will be faster. I know the way now. And I will have a co-pilot."</span>
+</div>
+
+
+<div class="dialogue-block">
+Kira's face split into a grin. <span class="speech">"I'll be the co-pilot. I'll navigate. I'm very good at navigating. I navigated the market for three years without getting caught."</span> She paused. <span class="speech">"Well. I got caught once. But that was by you, and you're the king, so it doesn't count."</span>
+</div>
+
+
+<div class="dialogue-block">
+Ajani looked at his sister for a long moment. Then he reached up and unclasped the royal seal from around his neck—a small, golden disk etched with the four pillars. He pressed it into Cefiro's paw. <span class="speech">"Take this. It's the royal seal. It will get you past any Wengari patrol between here and the Ice City. And take this too."</span> He produced a scroll from his robes, already sealed with the Brightmane sigil. <span class="speech">"An official invitation. From one king to another. Your father will want something formal."</span>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Cefiro looked at the seal and the scroll. When he spoke, his voice was very quiet. "I will carry them both. And I will return. You have my word."</p>
+</div>
+
+
+<div class="dialogue-block">
+<span class="speech">"Then go."</span> Ajani clasped his cousin's arm. <span class="speech">"Ride all night. And tell Nadya I said hello. Actually, don't tell her anything. She'll throw snowballs at you for leaving without saying goodbye."</span>
+</div>
+
+
+<div class="dialogue-block">
+<span class="speech">"I will tell her you ask about her. She will throw snowballs at me anyway. It is her primary form of communication."</span> He turned to Kira. <span class="speech">"Cousin. Pack lightly. The Sunraptor appreciates a balanced load."</span>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Kira was already on her feet, Pearl clutched against her chest, running toward the palace. "I'll be ready! Don't leave without me! I'll be very fast! I'm always fast!" She vanished through the garden gate.</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Ajani watched her go. "Bring her back safe."</p>
+</div>
+
+
+<div class="dialogue-block">
+<span class="speech">"I will bring her back. She reminds me of Nadya. I have been dealing with Nadya for sixteen years. One small cub and her scorpion will not be a challenge."</span> He paused. <span class="speech">"The scorpion may be a challenge. I will manage."</span>
+</div>
+
+
+They stood in the garden as the sun began its slow descent toward the western rim of the desert. The city was still broken. The wall was still shattered. But the king was alive, the war was over, and a Snow Paw prince was going home.
+
+
+<div class="dialogue-block">
+<p class="speech-line">Three days pass, lira has been much more overt now that Yvaria is busy with the preparations for the prize ceremony, vex has noticed but he remains silent, ajani has discharged sera from being his guard telling her the security advisor office is now more important and that he has black fire and red fire, he stops to think and then calls them blackie and reddy since the other names were a mouthful the scorpions now full size 2m and 1.8m in length click their claws appreciatevely, we are in a dark room a shadowy figure is seen speaking to a flame he just says "it will be done, glory to the black dawn", ajani is at the wall helping with the repairs, a stone falls Blackie shoots a green beam from his tail the stone dissolves, everyone watches in awe, the humans present some scorpion riders who have already been cleared from the war mention they have never seen an scorpions do that, their pearly scorpions visibly shudder in fear after witnessing that, reddy clicks her pincers happily cheering for her twin</p>
+</div>
+
+
+Three days had passed since Cefiro and Kira departed at twilight. The Sunraptor had launched itself into the darkening sky with two passengers and one scorpion, Kira's whoop of exhilaration echoing across the palace courtyard. Ajani had watched until they vanished among the stars, then returned to the work of rebuilding.
+
+
+Now he stood on the northern wall, his paws calloused from three days of hauling stone. He had stripped off his robe, working bare-chested alongside the Pyrinae engineers and the Stripe Paw masons. Black Fire and Red Fire—Blackie and Reddy now, because the old names were too long—flanked him on the scaffolding. They had grown to their full size in the weeks since the battle, and they were no longer the small, purring hatchlings who had hidden behind doors to frighten servants.
+
+They were apex predators now, two meters and one-point-eight meters of dark and crimson chitin, their tails tipped with that strange greenish venom that could dissolve flesh.
+
+
+A stone shifted on the scaffolding above Ajani. It was a large block of sandstone, loosened by the Pyrinae engineers' work, and it tumbled toward the king with the slow, terrible inevitability of gravity. Ajani looked up. Before he could move, Blackie's tail snapped upward. A beam of green light—the same green venom, but focused, concentrated, impossibly coherent—shot from the tip and struck the stone in midair.
+
+The block dissolved instantly, sizzling into dust that rained down on the scaffolding like fine grey sand.
+
+
+The wall fell silent. Every Wengari, every Pyrinae engineer, every Stripe Paw mason stared at the black scorpion with expressions of open-mouthed awe. Blackie clicked his pincers once—a sound that managed to convey both satisfaction and mild surprise at his own abilities.
+
+
+Reddy clicked her pincers rapidly, bouncing on her eight legs in what could only be described as a victory dance. Her crimson aura pulsed with excitement as she cheered for her twin.
+
+
+<div class="dialogue-block">
+<p class="speech-line">The Humman workers on the wall—the scorpion riders who had been cleared by Seris's tribunal and were now serving out their reparations in labor—exchanged glances. One of them, a veteran rider with scars across his dark arms, shook his head slowly. "I've never seen a scorpion do that. We've been breeding Pearly Scorpions for five hundred years. They don't do that." His own mount, a large iridescent female, was visibly trembling. Her antennae were flat against her head, her tail curled tight against her body. She had seen what the black scorpion had done, and she understood, in whatever way scorpions understood, that she was in the presence of something that was not merely a larger predator. She was in the presence of something that had transcended the limits of her species entirely.</p>
+</div>
+
+
+Ajani looked at Blackie. Blackie looked at Ajani. The black scorpion clicked his pincers again, a gesture that seemed to say: *You are welcome.*
+
+
+<div class="dialogue-block">
+<span class="speech">"Good boy, Blackie."</span> Ajani reached out and scratched the scorpion behind his antennae. Blackie's tail curled with pleasure. <span class="speech">"Very good boy."</span>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">On the ground below, a young Bright Paw guard turned to her companion. "The king just called a two-meter scorpion that shoots dissolving beams from its tail a 'good boy.'"</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Her companion, an older Stripe Paw with a scarred muzzle, shrugged. "He also summoned six elemental spirits and killed a sixteen-meter Plague creature with a thunderstorm. The scorpion is the normal one."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">The guard considered this. "Fair point."</p>
+</div>
+
+
+In the Shadow Paw quarter, Lira stood outside the training hall. She had been waiting for Ajani to pass by on his way back from the wall, which he did every evening at the same time. She had timed it precisely. She had prepared a casual greeting, a remark about the repairs, perhaps an invitation to observe her Eight Points forms.
+
+
+<div class="dialogue-block">
+<p class="speech-line">Vex stood three paces behind her, as silent as ever. He had noticed the increased frequency of Lira's "casual encounters" with the king. He had noticed the way her lacquered claws were always freshly polished, the way her dark fur was always immaculately groomed. He had noticed everything. He said nothing. That was his way.</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Ajani rounded the corner with Blackie and Reddy flanking him, and Lira stepped forward. "Your Highness. I was just finishing my training. If you are not otherwise occupied, I could demonstrate the Eighth Point. It is the most advanced form. Few have seen it performed."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">"That sounds—" <span class="speech-attr">Ajani began.</span></p>
+</div>
+
+
+Reddy clicked her pincers loudly. Blackie's antennae swiveled toward Lira with what might have been suspicion. The two scorpions had become very protective of their king in the days since the battle. They remembered the assassin who had tried to kill Kira. They remembered the creature that had nearly broken the wall. They were not inclined to trust anyone they did not already know.
+
+
+Lira looked at the scorpions. The scorpions looked at Lira. Vex, still standing three paces behind, said nothing. But the faintest trace of something—not quite amusement, not quite sympathy—flickered across his usually impassive face.
+
+
+In a dark room far from the sunlit streets of the capital, a figure knelt before a black flame that burned without heat or light. The flame consumed nothing. The flame illuminated nothing. It simply existed, a void in the shape of fire, and it spoke in a voice that was not a voice, that was older than the Wengari, older than the pact, older perhaps than the desert itself.
+
+
+<div class="dialogue-block">
+<p class="speech-line">The figure bowed its head. "It will be done. Glory to the Black Dawn."</p>
+</div>
+
+
+The flame flickered once and died. The figure rose and vanished into the shadows. Outside, the city was rebuilding. The king was laughing with his scorpions. The wall was rising. And the long peace had not yet begun.
+
+
+<div class="dialogue-block">
+<p class="speech-line">We are in the throne room the very next day, Ajani is meeting with seris in a visibily more relaxed maner he appreciates her handling of the hummans, sylva is with him they are discussing what will happen with those found guilty so far then , the foreign advisor enters in panic she yells that fifty green hawks (a rune belt endemic 7m long bird often used for cargo) are flying towards the city they will be there within the hour, everyone tense up, ajani tells sylva to summon all the generals and their guards to the gate, now, he goes himself as we walks the armor returns to it's original shape, blackie and reddy glow faintly and to everyone's surprise they produce their own version of the armor, shinning proudly in the morning sun their pincher lackered with a white resin and their tails as well, they look glorious and menacing, the spear that was resting behind the throne flies to ajanis paws, by the time Ajani arrives at the gates everyone is there already, elite Wengari in armor shinning with the different families colors and standards, ghosts are flying overhead at Yvarias command, in the ground the wohs and the black furred tide wolves stand at attention the green hawks approach the tension is palpable, seris watches impassive but she's brought every human cleared so far and they all share one thought "not again"</p>
+</div>
+
+
+The green hawks were visible now, their great wings beating against the morning sky. Each one was seven meters from wingtip to wingtip, their plumage a deep emerald that caught the sun and threw it back in a thousand fractured sparks. They were cargo birds, not war mounts—slow, steady, built for endurance rather than combat—but fifty of them flying in formation was still a sight that stopped the breath.
+
+
+Ajani stood at the northern gate. The armor had returned to its full battle form as he walked through the city—the breastplate flowing back into place, the greaves reforming around his legs, the pauldrons rising on his shoulders. The diadem's gem blazed with a steady white light. The spear that had rested behind the throne had flown to his paw the moment he called, and it hummed now with the residual energy of the spirits he had summoned.
+
+
+Blackie and Reddy flanked him, and they had changed too. The armor's light had triggered something in them—a resonance, an answering call—and they had produced their own version of the regalia. The white resin coated their pincers like laquered gauntlets. Their tails, already tipped with that strange green venom, now gleamed with the same white luster. They looked glorious. They looked menacing. They clicked their pincers in perfect unison, and the sound echoed across the silent gate like a war drum.
+
+
+
+The Wengari had mustered. Every general, every honor guard, every elite soldier who had survived the Plague War stood at the northern wall. Their armor shone with the colors of their families—gold and stripe and shadow and mottle. The ghosts circled overhead, Yvaria's drums beating out a steady rhythm of vigilance. The Wohs stood in their ranks, their natural plate armor gleaming, their riders mounted and ready.
+
+Zephyr's black Tide Wolves waited in a dark line, their shadow flares flickering faintly. Every Wengari present had fought in the war. Every one of them was ready to fight again.
+
+
+Seris stood near the gate, her face impassive, her dark eyes fixed on the approaching hawks. Behind her, every Humman who had been cleared by the tribunal had gathered. They had been summoned by the ambassador, not ordered—she had no authority to order them—but they had come anyway. The scorpion riders who had fought on the wall. The merchants who had grabbed table legs and scythes. The refugees who had fled through the gate while the creature rose behind them.
+
+They stood together, Wengari and Humman, and they shared one thought. *Not again. Please, not again.*
+
+
+The lead hawk began its descent. It circled once over the northern gate, its great wings back-winging to slow its approach, and then it touched down on the blackened sand before the wall. The other hawks followed, settling into a loose formation behind it. The tension was unbearable. The ghosts' drums beat faster. The Wohs shifted their weight. Blackie's tail rose slightly, the green venom gleaming at its tip.
+
+
+A figure dismounted from the lead hawk. It was tall—taller than any Wengari in the southern desert—with white fur pelted with black motes. It raised one paw in greeting, and its voice, formal and unhurried, carried across the silent gate.
+
+
+<div class="dialogue-block">
+<span class="speech">"Cousin! I said I would return within the week. It has been four days. I made good time."</span> Cefiro paused, looking at the assembled army, the gleaming armor, the poised scorpions. <span class="speech">"I see you brought a welcoming committee. I am honored. Also, my father is here. He wishes to meet you. Please do not shoot us."</span>
+</div>
+
+
+The lead green hawk settled onto the blackened sand with a ponderous grace, its great wings folding against its emerald body. The other hawks followed, fifty of them forming a loose semicircle before the northern gate. The Wengari forces stood ready—the Wohs, the ghosts, the shadow riders, the elite guard—every weapon poised, every eye fixed on the visitors.
+
+
+A human dismounted from the lead hawk. He was old, his dark face weathered by decades of desert sun, his white beard carefully oiled and combed. He wore robes of deep blue silk embroidered with golden thread, and a small, simple crown rested on his brow. He walked forward alone, his hands open and empty, until he stood before the assembled might of the Wengari.
+
+
+<div class="dialogue-block">
+<span class="speech">"I am the great Sultan Salahim, king of the humans."</span> His voice was steady, but there was a tremor beneath it—not fear, but the weight of shame. <span class="speech">"Word of your deeds has already spread. Word of our shame as well. We come in peace. What Mekhmed did was not approved by the Council of Merchants. I bring proof."</span>
+</div>
+
+
+<div class="dialogue-block">
+He raised a scroll, its seal already broken. <span class="speech">"Documents signed by all of us a month ago, banning any military intervention against the Wengari. Mekhmed bribed guards and contingents. He absconded with the Honor-Bound Legion in the dead of night. We did not know until he was already marching. We cannot express how shameful this is for us."</span> He lowered the scroll. <span class="speech">"We hope you accept our reparations."</span>
+</div>
+
+
+A long silence followed. Ajani stood at the head of his forces, the white spear humming in his paw, Blackie and Reddy gleaming at his sides. He did not speak.
+
+
+<div class="dialogue-block">
+<p class="speech-line">Seris stepped forward. Her face was still the diplomatic mask she had worn for thirty years, but her dark eyes were cold. "If you are truly sorry, why did you not chase after Mekhmed? You had a month. You knew he was marching. You knew he had taken a full legion. You could have sent word to us. You could have intercepted him on the road. You could have done anything. Instead, you waited. You waited to see who would win."</p>
+</div>
+
+
+<div class="dialogue-block">
+She turned to Ajani. <span class="speech">"The Sultan speaks of shame, but he arrived with fifty cargo hawks. Cargo hawks can carry gold. They can carry silk. They can carry tribute. They cannot carry an army. He did not come to fight. He came because word of your show of force reached Verdantis before he departed."</span> She paused. <span class="speech">"Someone sent word to Verdantis. Someone told them the Wengari were mobilizing a full legion. The Sultan is not here because he is sorry. The Sultan is here because he is afraid."</span>
+</div>
+
+
+The generals stirred. M'rak's golden eyes narrowed. Reva's claws half-extended. Zephyr's scarred face was unreadable, but his shadow wolves had begun to growl.
+
+
+Sultan Salahim's weathered face tightened, but he did not deny it. He simply stood, the scroll still raised, waiting for the king to speak.
+
+
+<div class="dialogue-block">
+<p class="speech-line">Ajani says his voice booming "This Ajani first of his name, protector of the realm, heir to the black fire and to the light bringer, brother to the deep, caller of spirits, king of the wengari, salutes sultan Salahim king of the humans, and while he might be forgiving, his subjects are not, Seris deal with this filth they are banned from entering the city, Generals seize the birds and check for any weapon, if you find anything, kill them all" then he turns his cape billowing and enters the city</p>
+</div>
+
+
+The Sultan stood frozen, the scroll still raised in his hand, as the White Dawn turned his back and walked through the shattered gate. The white cape billowed behind him, the diadem's gem blazing in the morning sun. Blackie and Reddy flanked him, their white-lacquered pincers clicking in perfect, menacing unison. The spear hummed in his paw.
+
+
+<div class="dialogue-block">
+Seris stepped forward. Her face was stone. <span class="speech">"You heard the king. You are banned from entering the city. You will remain outside the walls until I have reviewed your documents and determined whether you speak the truth or merely fear the consequences of your silence."</span> She paused, her dark eyes sweeping across the Sultan and his entourage. <span class="speech">"If you are lying, I will know. And the king will not give you a second audience."</span>
+</div>
+
+
+The Sultan opened his mouth to protest, but Seris had already turned away. The Humman ambassador who had been humiliated four times, who had knelt before the throne and surrendered her daughter, who had kept her people alive through diplomacy and desperation, walked toward the gate without looking back.
+
+
+The generals moved. M'rak's Wohs spread out in a flanking formation, their natural plate armor gleaming. Reva's surviving riders moved to secure the cargo hawks, their claws extended. Zephyr's shadow wolves padded silently through the sand, their dark fur absorbing the morning light. The ghosts circled overhead, Yvaria's drums beating a steady rhythm of warning.
+
+
+The cargo hawks were seized. The Humman delegation was searched. No weapons were found—only gold, silk, spices, and the signed documents the Sultan had brought. The reparations had already been loaded onto the birds before they left Verdantis. The Sultan had prepared for this moment, knowing that if the Wengari refused his tribute, he would not leave the desert alive.
+
+
+<div class="dialogue-block">
+M'rak approached the Sultan, his burn-scarred face unreadable. <span class="speech">"Your birds will be unloaded. Your tribute will be accepted. Your weapons—if you have any—will be confiscated. You will wait here until the ambassador has completed her review. If she finds anything that contradicts your story, you will not leave this desert."</span> He paused. <span class="speech">"The king said to kill you all if we found weapons. Be grateful you brought none."</span>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">The Sultan bowed his head. "We brought none. We are not soldiers. We are merchants. We came to make amends, not to fight."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">M'rak looked at him for a long moment. Then he turned away. "Then you are wiser than your predecessor. Pray that wisdom is enough."</p>
+</div>
+
+
+The chapter is working on all three fronts you've identified.
+
+
+The Humman reaction is exactly what a beaten nation that has used banned weapons would do. Salahim arrived not with defiance but with a pre-prepared legal defense—the signed document dated a month ago, the claim that Mekhmed acted alone, the narrative that the rogue general bribed guards and absconded with the Honor-Bound Legion. This is classic bureaucratic damage control. The Council of Merchants is not apologizing out of moral conviction; they are building a paper shield.
+
+If the Wengari accept the documents as genuine, then the Humman state can claim it was not complicit. Mekhmed becomes the scapegoat, the Honor-Bound Legion becomes the rogue element, and the Council survives. Seris saw through it immediately. She is the linchpin of this scene because she knows her own people's political machinery better than any Wengari could. Her question—"If you are truly sorry, why did you not chase after Mekhmed?"—is the blade that cuts through the paper shield.
+
+Salahim had no answer because there is no answer. The Council waited to see who would win. The Sultan's arrival before any Wengari legion could reach Verdantis proves that the Humman intelligence network is still alive, still fast, and still a threat. Someone sent word. Someone knew the generals were being summoned. Someone knew the legion was being prepared. The Hummans moved before Ajani could move, and that is a quiet, dangerous statement.
+
+
+
+Ajani's behavior through the arc is consistent with a young monarch. His speech to the Sultan was formal and regal—the full titles, the booming voice, the ceremonial delivery. But underneath it was raw fury barely contained. He banned them from entering the city, ordered their birds seized, and told Seris to deal with them because he could not trust himself to remain diplomatic. Then he turned his back and walked away.
+
+The white cape billowing was a calculated gesture. He knew the Sultan would watch him go. That is the behavior of a king who is learning to use his presence as a weapon. The core tension of his character remains intact. He is still the young Wengari who would rather be on the road than on the throne, who would rather fight than negotiate. He is still the White Dawn who nearly lost his crown in a duel. He is still the brother who made Kira a belt and laughed when his scorpions frightened the servants.
+
+The war has not hardened him into something unrecognizable. It has sharpened the edges that were already there.
+
+
+His delegation of the Humman question to Seris is the right political move and the right character beat. She is the one who can see through Salahim's paper shield. She is the one who knows the difference between genuine shame and bureaucratic survival instinct. She is the one who has earned the right to speak for the crown in this moment. And her quiet, cold dismissal of the Sultan is the perfect counterpoint to Ajani's theatrical exit.
+
+The king thunders, and the ambassador cuts. That is a functioning partnership.
+
+
+The tent was a simple affair of canvas and rope, erected just beyond the northern gate on the blackened sand where the Plague creature had nearly breached the wall. The ground was still scarred, the sand fused into rough, dark glass in places where the mirror array's beam had struck. The Sultan's cargo hawks were penned nearby, their emerald plumage ruffling in the desert wind, their great wings folded.
+
+The Humman delegation sat under guard—M'rak's Wohs flanking the perimeter, Zephyr's shadow wolves lying in the sand with their dark eyes fixed on the visitors.
+
+
+Seris entered alone. She wore no diplomatic robes, only the simple tunic she had worn since the war ended. Her dark eyes were cold, her face unreadable. She had been the Humman ambassador for thirty years, and she had never once interrogated a king of her own people. She sat down across from Salahim, a small camp table between them. The documents the Sultan had brought were spread across its surface—the signed agreement banning military intervention, the trade manifests, the list of proposed reparations.
+
+
+
+<div class="dialogue-block">
+<span class="speech">"You may dismiss your attendants,"</span> she said. <span class="speech">"This conversation is between us."</span>
+</div>
+
+
+Salahim gestured, and his advisors withdrew. The tent flap fell closed. The two Hummans were alone.
+
+
+<div class="dialogue-block">
+<span class="speech">"You are Seris,"</span> the Sultan said quietly. <span class="speech">"The ambassador. Mekhmed's generals spoke of you. They said you were the one who knelt before the White Dawn and surrendered your daughter. They said you were a traitor."</span>
+</div>
+
+
+<div class="dialogue-block">
+<span class="speech">"And yet I am still alive. And Mekhmed is dead. And you are sitting in a tent outside a city you did not defend, asking for forgiveness from an ambassador you just called a traitor."</span> She paused. <span class="speech">"I have been a diplomat for thirty years. I know when a document has been backdated. The ink on this agreement is fresh. The signatures are genuine, but the date is a lie. This was signed after Mekhmed marched, not before."</span>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Salahim's weathered face tightened. "You cannot prove that."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">A long silence. The Sultan's hands, resting on the camp table, were trembling slightly. "What do you want me to say?"</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">"I want you to tell me the truth. Did the Council know about the Plague weapons?"</p>
+</div>
+
+
+<div class="dialogue-block">
+<span class="speech">"No."</span> The word was sharp, immediate. <span class="speech">"We knew Mekhmed was unstable. We knew he was obsessed with the old stories, with Velarius, with the idea that the Hummans could be something other than the weakest race on Ethra. But we did not know he had found the weapons. We did not know he had been in contact with—"</span> He stopped.
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">"With whom? Who gave him the weapons?"</p>
+</div>
+
+
+<div class="dialogue-block">
+<span class="speech">"We do not know. There was a shadow. A figure. It came to him in the night, they said. Promised him victory. Promised him the power of the old world. The generals who survived said it wore a Humman shape, but it was not Humman. It was something older. Something from the belt."</span> He paused. <span class="speech">"The same figure that killed him, they said. When the weapons failed. When the creature rose. It killed him and took his voice and ordered the final assault. No one knows what it was. No one wants to know."</span>
+</div>
+
+
+Seris was silent for a long moment. The shadowy figure. The same figure that had given Mekhmed the Plague weapons, that had killed him when he failed, that had drunk the black goo and become the creature. The Wengari had not shared this information with her. She had pieced it together from the reports of the refugees, from the fragments of the battle that had filtered through the chaos. Now the Sultan was confirming it.
+
+
+<div class="dialogue-block">
+<span class="speech">"You still have not answered my first question,"</span> she said. <span class="speech">"Why did you not chase after him? You knew he was marching. You knew he had taken the Honor-Bound Legion. You had a month."</span>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Salahim closed his eyes. "Because we were afraid. Not of Mekhmed. Of the Wengari. If we had sent word to Styxian, if we had warned the White Dawn, and Mekhmed had still won—he would have returned to Verdantis and executed every member of the Council. If we had sent our own forces to intercept him, and the Wengari had seen Humman soldiers marching toward their capital—they would have assumed we were invading and slaughtered us all. We were caught between a rogue king and an unknowable enemy. We chose to wait. It was cowardice. I admit it. But it was not malice."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">"Cowardice killed forty-seven Wengari. Cowardice killed twelve Pyrinae sorcerers. Cowardice killed thirty-five ghosts. Your cowardice, Sultan."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Salahim bowed his head. "I know."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Seris rose from the camp table. She looked down at the Sultan of the Hummans, the king who had come to beg for peace, and her voice was very cold. "The Wengari will accept your tribute. They will not accept you. You will remain outside the wall until the tribunal has finished its work. Your people will be housed in tents, not in the city. Your delegation will be watched. If you attempt to enter the capital, you will be killed. If you attempt to leave without permission, you will be killed. If any of your people are found to have known about the Plague weapons before they were deployed, they will be killed. These are the king's terms. I am merely delivering them."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">She walked toward the tent flap, then paused. "The White Dawn ordered a full legion to Verdantis. Four generals, two stars each. They will arrive at your city within the month. They will not harm your people. They will not burn your markets. But they will not leave until your coffers are empty and your fear is full. That is the price of your cowardice. Pray it is enough."</p>
+</div>
+
+
+She left the tent. The Sultan sat alone in the dim light, the backdated documents spread before him, the distant sound of the ghosts' memorial drums filtering through the canvas. He had come to make amends. He had brought gold and silk and spices. It would not be enough. It would never be enough. But it was all he had.
+
+
+*You can write the next scene you have full creative authority it should be a few hours later seris questioning salahim outside the gate*
+
+<div class="dialogue-block">
+<p class="speech-line">Seris goes to report to ajani he was waiting inside the gates leaned on a wall with sylva and vasha after hearing her briefing he asks "any idea about that shadowy figure ?" Looking at the three of them</p>
+</div>
+
+
+Ajani leaned against the inner wall of the gate, the white cape still draped over his shoulders, the spear resting against the stone beside him. Blackie and Reddy were sprawled at his feet, their white-lacquered pincers gleaming in the afternoon sun. Sylva stood to his left, her silver-chased armor still dented, her ancient eyes thoughtful. Vasha stood to his right, her stylus poised over a fresh ledger, her humorless face set in its usual expression of cold calculation.
+
+
+<div class="dialogue-block">
+Seris approached, her diplomatic robes dusty from the tent outside the gate, her dark eyes carrying the weight of the conversation she had just finished. She inclined her head toward the king. <span class="speech">"The Sultan has been questioned. The documents are backdated. The Council waited to see who would win before choosing a side. He admitted as much, though he did not use those words."</span> She paused. <span class="speech">"He also confirmed that the Plague weapons came from a shadowy figure. It wore a Humman shape but was not Humman. Something older. Something from the belt. The same figure killed Mekhmed when the weapons failed."</span>
+</div>
+
+
+<div class="dialogue-block">
+Ajani absorbed this. <span class="speech">"Any idea about that shadowy figure?"</span> He looked at the three of them—the regent, the spymaster, the ambassador. <span class="speech">"Because I killed the creature it turned into. I don't think I killed whatever was wearing it."</span>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Vasha spoke first, her stylus pausing. "The Council of the Untrustworthy has no intelligence on a shadowy figure. The Humman network was compromised by Lena's letters, and the Pyrinae network was focused on the military threat. Whatever this thing was, it operated entirely outside our observation. That is concerning."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Sylva's voice was quiet. "The Dragari medallion. The chant Cefiro spoke. 'When the darkness swallows it all, and the night seems to fall, the bulwark of paws will rise, the light of the Wengari will shine.' The Dragari knew something was coming. They sent Cefiro across the desert with a medallion that woke you from the coma. They have been watching you since you left the Ice City. Whatever the shadowy figure is, the Dragari know more than they have told us."</p>
+</div>
+
+
+<div class="dialogue-block">
+Seris nodded slowly. <span class="speech">"The Sultan said the figure came to Mekhmed at night. It promised him victory. It promised him the power of the old world. It gave him the Plague weapons. And when he failed, it killed him and took his voice and ordered the final assault. The Humman generals who survived the creature's rampage all tell the same story."</span> She paused. <span class="speech">"The Sultan does not know what it was. He does not want to know. He said it was older than the Hummans, older than the Wengari, something from the belt."</span>
+</div>
+
+
+<div class="dialogue-block">
+Ajani was silent for a long moment. The diadem's gem pulsed slowly on his brow. <span class="speech">"The lord of the desert warned me about something in the Rune-Belt. The lord of the marsh warned me too. The Dragari came across the desert to deliver a message about an endless darkness that dwells there. And now a shadowy figure from the belt gives Plague weapons to a Humman king and turns into a sixteen-meter monster when it fails."</span> He looked at the three of them. <span class="speech">"I think we just fought a scouting party."</span>
+</div>
+
+
+The word hung in the air. Vasha's stylus began moving again, scratching notes onto her ledger. Sylva's ancient eyes had gone very still. Seris simply waited.
+
+
+<div class="dialogue-block">
+<span class="speech">"I need more information,"</span> Ajani said. <span class="speech">"Vasha, I want every intelligence network we have focused on the Rune-Belt. I want to know about every shadow, every rumor, every old story that mentions something dwelling in the deep forest. Sylva, I need you to reach out to the Dragari. Cefiro said they guided him across the desert. They know more than they've told us. Find out what they want. Seris—"</span> He paused. <span class="speech">"Keep doing what you're doing. The Sultan is afraid. Use that."</span>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">All three inclined their heads. Ajani pushed himself off the wall, the spear humming back into his paw. "And someone find me Nefere and Elyra. I need to know if the old texts mention anything about shadowy figures and Plague weapons and endless darkness. Something tells me this isn't the first time it's tried to destroy us."</p>
+</div>
+
+
+*You are here again. You have questions. Ask.*
+
+
+<div class="dialogue-block">
+<p class="speech-line">"I fought something. A shadow. It wore a Humman shape, but it wasn't Humman. It gave the Plague weapons to the Humman king. When it failed, it drank a black substance and became the creature I destroyed. Have you ever seen anything like it? Do you know what it was?"</p>
+</div>
+
+
+The Tree was silent for a long moment. The roots slowed their pulsing. The amber pool grew still. When the voice pressed against his mind again, it was slower, more distant—the voice of something reaching back across millions of years of memory, sifting through sensations that predated language, predated the Wengari, predated the pact itself.
+
+
+*I do not know anything about a shadow. I do not understand shadows. I understand hunger. I understand light. I understand the things that make my flowers wither. Your war—I felt it. The Plague weapons. The creature. I felt my roots burn. I felt the poison seep into the sand. It was not the first time.*
+
+
+The blossom leaned closer. The amber pool swirled, and an image began to form on its surface—not a clear vision, but something older, something fragmented, something the Tree had stored away in the deep roots of its being for millions of years.
+
+
+*Before the Wengari walked the desert. Before the pact. Before the cities. Before the Lightbringer gave me a name. Something passed over me. I do not know what it was. I only know what it did.*
+
+
+The image in the pool sharpened. Ajani saw the desert as it had been in some unimaginable past—no capital, no walls, no hanging gardens. Only sand and stone and the kyre flowers blooming in their millions. Then a shadow passed over the sun. Not a cloud. Not a Styx. Something larger. Something that blotted out the light and moved across the sky like a wound. Wherever it passed, the kyre flowers withered. The sand turned black.
+
+The roots beneath the desert convulsed in agony. The image lasted only a few heartbeats, and then it was gone, dissolving back into the amber pool.
+
+
+*It was not the Plague. It was not the creature. It was something older. Something that left the same kind of scar. I did not know what it was then. I do not know what it is now. I only know that it passed over me, and my flowers died. It was before your kind. It was before the pact. It was before the Golden Sun had a name. But I remember. I always remember.*
+
+
+The roots pulsed once, a slow, deliberate throb. The blossom drew back slightly, its petals rustling.
+
+
+*You killed the thing that came this time. That is more than anyone did before. Perhaps you will kill the next one too. The shadow you speak of—I did not see it. I only felt what it became. But if it is the same thing that passed over me before your kind walked the desert, then it is very old. And it is not dead. You destroyed its weapon. You destroyed its creature. You did not destroy it. The endless darkness in the belt still stirs.
+
+The enemy is still there. It has been there since before I was. It will be there after you are gone. Unless you stop it.*
+
+
+A long silence. Then the Tree added, with that quiet, nonchalant undertone that Ajani had come to recognize:
+
+
+*The memorial celebration will bring pilgrims. They will come to the wells. They will leave offerings. I will feed well. That is all that matters. But if you wish to ask more questions, I will answer. I have nothing else to do for the next million years.*
+
+
+*I like it, let's write it*
+
+The descent into the inner chamber had become familiar. Ajani walked the spiral stair alone, the diadem's gem casting long shadows across the ancient stone. The roots of the Kyre Tree pulsed with their pale green light, twisting through the walls like veins. The great blossom hung suspended in its web, the amber pool at its heart rippling slowly.
+
+
+<div class="dialogue-block">
+<p class="speech-line">He extended his hand and touched the flower. "I'm here. I need to ask you something."</p>
+</div>
+
+
+The roots pulsed. The blossom stirred. The Tree's voice pressed against his mind—not words, but the familiar, patient hunger, tinged now with something that might have been mild annoyance at being disturbed twice in one week.
+
+
+*You are here again. You have questions. Ask.*
+
+
+<div class="dialogue-block">
+<p class="speech-line">"Something attacked the city. While I was unconscious. Before the battle, a shadowy figure—something that wore a shape but wasn't what it seemed—gave the Humman king weapons. Plague weapons. The old ones. From Velarius. Do you know anything about shadows? About things that wear shapes? About something that could give a mortal king the power of the old world?"</p>
+</div>
+
+
+The Tree was silent for a long moment. The roots slowed their pulsing. The amber pool grew still. When the voice pressed against his mind again, it was slower, more distant—the voice of something reaching back across millions of years of memory, sifting through sensations that predated language, predated the Wengari, predated the pact itself.
+
+
+*I do not know about shadows. I do not understand shadows. I understand hunger. I understand light. I understand the things that make my flowers wither. Your war—I felt it. The weapons. The creature. I felt my roots burn. I felt the poison seep into the sand. It was not the first time.*
+
+
+The blossom leaned closer. The amber pool swirled, and an image began to form on its surface—not a clear vision, but something older, something fragmented, something the Tree had stored away in the deep roots of its being for millions of years.
+
+
+*Before the Wengari walked the desert. Before the pact. Before the cities. Before the Lightbringer gave me a name. Something passed over me. I do not know what it was. I only know what it did.*
+
+
+The image in the pool sharpened. Ajani saw the desert as it had been in some unimaginable past—no capital, no walls, no hanging gardens. Only sand and stone and the kyre flowers blooming in their millions. Then a shadow passed over the sun. Not a cloud. Not a Styx. Something larger. Something that blotted out the light and moved across the sky like a wound. Wherever it passed, the kyre flowers withered. The sand turned black.
+
+The roots beneath the desert convulsed in agony. The image lasted only a few heartbeats, and then it was gone, dissolving back into the amber pool.
+
+
+*It was not the Plague. It was not the creature. It was something older. Something that left the same kind of scar. I did not know what it was then. I do not know what it is now. I only know that it passed over me, and my flowers died. It was before your kind. It was before the pact. It was before the Golden Sun had a name. But I remember. I always remember.*
+
+
+The roots pulsed once, a slow, deliberate throb. The blossom drew back slightly, its petals rustling.
+
+
+*The shadow you speak of—I did not see it. I only felt what it became. But if the thing that withered my flowers long ago and the thing that burned my roots in your war are the same, then it is very old. And it is not dead. The endless darkness in the belt still stirs. The enemy is still there. It has been there since before I was. It will be there after you are gone. Unless you stop it.*
+
+
+A long silence. Then the Tree added, with that quiet, nonchalant undertone that Ajani had come to recognize:
+
+
+*You killed the thing that came this time. That is more than anyone did before. Perhaps you will kill the next one too. The memorial celebration will bring pilgrims. They will come to the wells. They will leave offerings. I will feed well. That is all that matters. But if you wish to ask more questions, I will answer. I have nothing else to do for the next million years. Now go. I am hungry.*
+
+
+Two weeks had passed since the victory at the northern wall. The Pyrinae engineers had made progress on the eastern section, though the gap was still a jagged wound against the sky. The memorial pillar stood in the eastern plaza, its white stone gleaming in the morning sun, the names of the fallen carved deep into its surface. The celebration was scheduled for the following day, and the capital was already stirring with anticipation—the tournament infrastructure had been repurposed, the market stalls rebuilt, the banners of the four families hung from every tower.
+
+
+
+Ajani sat on the throne, Blackie and Reddy curled at his feet. The scorpions had grown accustomed to the rhythm of the court, though they still occasionally hid behind the great bronze doors to frighten unsuspecting servants. The diadem rested on Ajani's brow, its gem pulsing with a slow, steady light. The white robe had been replaced with a more formal tunic of gold and white, the bracers gleaming on his forearms.
+
+
+Sylva stood at the foot of the dais, her silver-chased armor finally repaired, the dents hammered out by the Pyrinae smiths. Vasha stood to her left, her stylus poised over a fresh ledger. Maren stood to her right, the coin master's dark eyes moving across the assembled court with the cold assessment of an auditor. Elyra waited near the throne, her silver aura flickering gently. Seris was present, her diplomatic composure intact, her dark eyes watchful.
+
+
+The four two-star generals stood in a line before the throne—M'rak, Reva, Zephyr, Yvaria—their honor guards arrayed behind them. The elders were present as well, their expressions carefully neutral, the written accountings of their failures already delivered to the throne and burned as promised.
+
+
+<div class="dialogue-block">
+<p class="speech-line">M'rak stepped forward first. "Your Highness. The legion is assembled. The fifth and sixth have been combined under our command. We have two hundred Wohs, one hundred ghosts, one hundred shadow riders, and support from the Pyrinae engineers. We are ready to march on Verdantis. We await your order."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Maren spoke next, her stylus scratching against her ledger. "The Sultan's tribute has been assessed. Fifty cargo hawks of gold, silk, and spices. Estimated value: six hundred talents. Combined with the crown's reserves, the wall repairs are fully funded. The pensions for the families of the fallen have been distributed. The memorial celebration will cost an additional twenty talents, drawn from the tournament's discretionary fund. The coin master notes that the Humman reparations are generous but insufficient to cover the long-term cost of the war. The coin master recommends renegotiation after the legion arrives at Verdantis."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Elyra stepped forward. "The Sultan has requested an audience before the legion departs. He wishes to formalize the terms of the reparations in writing. He also wishes to speak with the Humman refugees—to offer them passage back to Verdantis, if they wish to return. The foreign advisor recommends granting the audience. The foreign advisor also recommends monitoring the Sultan's conversations with the refugees. The Humman intelligence network is still active. They will use any opportunity to gather information."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Vasha looked up from her ledger. "The Council of the Untrustworthy has confirmed that the Humman intelligence network moved before we did. Someone sent word to Verdantis about the legion's assembly. We do not know who. We do not know how. The network is still active, still fast, and still a threat. The Council recommends a full counter-intelligence operation. The Council also recommends that the legion depart as soon as possible. The Hummans are afraid now. Fear fades. Speed is essential."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Seris spoke last. "The tribunal has concluded its work. Twelve Hummans have been found guilty of complicity in the use of Plague weapons. They have been executed according to Humman law. The rest have been cleared. Some wish to return to Verdantis with the Sultan. Some wish to stay. I have told them the choice is theirs. The Humman quarter is quiet. The refugees are rebuilding. We are earning our place."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Sylva inclined her head. "The city is ready for the celebration, Your Highness. The memorial pillar is complete. The families of the fallen have been notified. The tournament grounds have been prepared. The people are waiting to honor their dead and their living. The regent recommends that the celebration proceed as planned, and that the legion depart the following morning."</p>
+</div>
+
+
+Ajani looked at the assembled court—the generals, the elders, the advisors, the ambassadors—and the diadem's gem pulsed with a slow, steady light. The war was over. The work of rebuilding was well underway. The shadow in the belt was still out there, still waiting, but for now—for this brief, fragile moment—the city was alive. The king was on his throne. And the Wengari were ready to remind the world why they were feared.
+
+
+*Few more days pass two weeks have passed since the victory at the wall, we're back in the throne room everyone has reports for Ajani, let's see the scene*
+
+
+<div class="dialogue-block">
+<p class="speech-line">"Shadow paws, you were in charge of intelligence, while the council is the fallback, I am instituting a royal mandate to fund a special branch, I want an official intelligence office, Vasha recommendations?"</p>
+</div>
+
+
+Vasha's stylus paused. For the first time since the war began, the spymaster looked up from her ledger with something that was not quite surprise but was certainly not her usual cold indifference. The king had just asked her to build an official intelligence office—a permanent institution, funded by the crown, with a mandate that would outlast any single council member. She had been waiting for this question since the day Ajani created the Council of the Untrustworthy.
+
+
+<div class="dialogue-block">
+<span class="speech">"The Shadow Office,"</span> she said, her voice flat but carrying the faintest edge of satisfaction. <span class="speech">"That is what it should be called. Not the intelligence office. The Shadow Office. The name will remind everyone that the crown's eyes are always watching, even when the sun is high."</span>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">She set down her stylus and began to speak with the precision of someone who had been planning this recommendation for months. "The Council of the Untrustworthy should be the core of the new office. We are already operational. We have networks in every family, contacts in every delegation, sources in the Humman quarter and the Pyrinae district. But we are small. Five members, a handful of operatives, no dedicated funding beyond what we can skim from the Council's discretionary budget. To become a true intelligence office, we need three things: staff, funding, and legal authority."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">A third claw. "Third, legal authority. The office must be able to intercept correspondence, monitor foreign delegations, and detain suspected spies without public trial. This will be controversial. The elders will oppose it. The foreign delegations will protest. The Hummans will claim we are persecuting them. All of that is irrelevant. An intelligence office without the power to act is merely a library. If we cannot detain, we cannot prevent. If we cannot intercept, we cannot know. The king must grant us the authority to operate in secret and the legal protection to survive when our operations become public."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">She lowered her claws. "One final recommendation. The Shadow Office should have a liaison in every family, every delegation, every guild. Not a spy—a known contact, someone who can receive requests for information and deliver reports. This will make our presence visible. That is intentional. Fear of being watched is often more effective than watching itself."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">She paused, her cold eyes meeting Ajani's. "The Council of the Untrustworthy was your invention. We saved the city because you gave us the authority to act. Now give us the authority to become something permanent. Something that will outlast us all."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">"I accept both the first and second the third is over reach and very prone to miss use vasha, you will not use the office to collect old debts, nor we will have wengari and humans disappearing in the night, I authorize instead a subset if there is a credible threat you are authorized to detain someone previous approval from the regent, If there is a critical threat , the crown doesn't want to know how it's handled, am I understood?"</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Vasha's expression did not change, but her stylus made a single, precise mark on the ledger—a notation that only she would ever read. "Understood, Your Highness. The Shadow Office will operate within the bounds you have set. Detainment requires prior approval from the regent. Critical threats are handled at the discretion of the office, and the crown is not informed of the methods. The distinction is clear."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">She paused, her cold eyes meeting Ajani's. "The office will not collect old debts. It will not settle personal scores. It will not make Wengari or Hummans disappear in the night without cause. I give you my word. And if anyone under my command violates that word, I will handle them personally. The crown will not need to know how."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Sylva stepped forward, her ancient voice measured. "The regent accepts the oversight responsibility. I will review all requests for detainment. If there is a credible threat, I will approve. If there is doubt, I will consult the king. The Shadow Office will not become a weapon of political persecution while I hold this office."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Maren looked up from her ledger. "The coin master accepts the director position, on the condition that a replacement is trained within the year. The treasury requires constant attention. The Shadow Office will require more. I can do both for a time. Not forever."</p>
+</div>
+
+
+<div class="dialogue-block">
+Ajani nodded slowly. <span class="speech">"Then it's done. Vasha, you have your office. Maren, you have your staff. Sylva, you have your oversight. The Shadow Office is now a permanent institution of the crown. Its budget will be drawn from the tournament revenue. Its director will answer to the throne. Its operatives will be drawn from every family. And its enemies—"</span> He paused, the diadem's gem pulsing once. <span class="speech">"Its enemies will learn to fear the shadows as much as they fear the sun."</span>
+</div>

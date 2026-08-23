@@ -1,0 +1,16 @@
+# ── Ethra site repo — ignore rules ─────────────────────────
+# Build tooling inside the Azgaar map source (never tracked)
+static/maps/azgaar_src/node_modules/
+static/maps/azgaar_src/dist/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS / editor junk
+Thumbs.db
+desktop.ini
+*.swp
+
+# Local secrets — never commit credentials
+.git-credentials

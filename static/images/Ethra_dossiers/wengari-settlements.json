@@ -1,0 +1,14 @@
+{
+  "id": "wengari-settlements.v2",
+  "patch": "v2 (2026-07-14): re-anchored coordinates to map-supercontinent-v4.png native 1568x672 frame; previous v1 used v3's 2368x1024 viewBox which placed pins off-canvas.",
+  "label": "Wengari settlements",
+  "hint": "Three canonical Wengari strongholds",
+  "source_svg": "static/images/Ethra_dossiers/wengari-settlements.svg",
+  "viewBox": "0 0 1568 672",
+  "anchored_to": "map-supercontinent-v4.png",
+  "pins": [
+    {"id":"flickermarch","label":"FLICKERMARCH","x":1098,"y":285,"kind":"settlement","notes":"northeast Rune Belt boundary; Bright Mane dynasty seat"},
+    {"id":"steadfast","label":"STEADFAST","x":430,"y":235,"kind":"royal-capital","notes":"desert mass center; royal capital"},
+    {"id":"driftari","label":"DRIFTARI","x":1020,"y":355,"kind":"settlement","notes":"eastern Wetland forest; ranger outposts (west of Flickermarch)"}
+  ]
+}

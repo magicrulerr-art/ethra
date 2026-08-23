@@ -1,0 +1,16 @@
+{
+  "seed": "pangea_template_v1",
+  "mapName": "Ethra Supercontinent",
+  "graphWidth": 763.88,
+  "graphHeight": 434.58,
+  "cellCount": 6935,
+  "landCells": 6915,
+  "regions": {
+    "umbralRing": {"cells": 455, "y_max": 0.12},
+    "steafastDesert": {"cells": 764, "y": "0.55-0.72", "x": "0.25-0.75"},
+    "westTidepool": {"cells": 38, "x_max": 0.14},
+    "eastTidepool": {"cells": 146, "x_min": 0.86},
+    "runeBelt": {"cells": 5512}
+  },
+  "derived": "Pangea template with W/E Tidepool indentations, Umbral Ring polar rim, Steadfast Desert south-central"
+}
