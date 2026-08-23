@@ -52,7 +52,7 @@ Cefiro raised one white paw, his pale blue eyes wide. <span class="speech">"This
 
 
 <div class="dialogue-block">
-Tamsin stepped forward from the corner where she had been standing apart from the Wengari. <span class="speech">"The Humman army was deceived. Our king was a fool and a coward. I defected. I brought a hundred civilians to the wall with table legs and scythes. We held the gate. Your soldiers and my soldiers fought together."</span> Seris, her dark eyes hollow, her diplomatic composure in ruins, spoke from her place beside Sylva. <span class="speech">"My daughter is dead. Executed by Mekhmed for writing the letters. I didn't know. I swear on the Golden Sun I didn't know."</span> Nefere leaned heavily on her cracked staff. <span class="speech">"The mirror array destroyed one orb and carved the creature nearly in half. It will never fire again. The ancient crystals are shattered. A thousand years of maturation, gone."</span> Sera's ruined face was impassive, but her voice was quiet and steady. <span class="speech">"We held the gate with twenty soldiers. Twenty. Against four hundred scorpion riders. We didn't break."</span> Solen, still standing guard at the door, added through the din, <span class="speech">"The Golden Cloaks are sworn to protect the White Dawn. They have always been real."</span>
+Tamsin stepped forward from the corner where she had been standing apart from the Wengari. <span class="speech">"The Humman army was deceived. Our king was a fool and a coward. I defected. I brought a hundred civilians to the wall with table legs and scythes. We held the gate. Your soldiers and my soldiers fought together."</span> Seris, her dark eyes hollow, her diplomatic composure in ruins, spoke from her place beside Sylva. <span class="speech">"My daughter is missing. She had a job at the palace. She hasn't been seen since the battle began. I swear on the Golden Sun I didn't know."</span> Nefere leaned heavily on her cracked staff. <span class="speech">"The mirror array destroyed one orb and carved the creature nearly in half. It will never fire again. The ancient crystals are shattered. A thousand years of maturation, gone."</span> Sera's ruined face was impassive, but her voice was quiet and steady. <span class="speech">"We held the gate with twenty soldiers. Twenty. Against four hundred scorpion riders. We didn't break."</span> Solen, still standing guard at the door, added through the din, <span class="speech">"The Golden Cloaks are sworn to protect the White Dawn. They have always been real."</span>
 </div>
 
 
@@ -62,185 +62,6 @@ Tamsin stepped forward from the corner where she had been standing apart from th
 
 
 The cacophony continued, voices overlapping, accusations and explanations and grief all spilling out at once. Ajani sat on the edge of his bed, Black Fire and Red Fire sleeping in his lap, the crown of white Styx feathers still flickering on his head, and listened to his kingdom tell him what he had missed.
-
-
-<div class="dialogue-block">
-<p class="speech-line">Ajani rubbed his temples with both paws. "Aahm. So who can tell me why I woke up to a war?"</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">The room erupted. M'rak was already speaking, his burn-scarred arms gesturing toward the shattered window. "The Humman army marched from Verdantis, nine hundred kilometers, a thousand scorpion riders. We held the wall with twenty elite and a hundred volunteers. The mirror array is destroyed. The eastern section of the wall is gone. I don't understand half of what happened in the last hour—"</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Yvaria spoke over him, her silver-furred hands still stained with the blood of the ghosts she had lost. "I brought a hundred ghosts! Thirty-five of them died before they even knew what was happening! They flew through the Plague mist and it killed them in seconds!"</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Zephyr's voice joined the clamor, his scarred face twisted. "The shadow riders broke the Plague net! The Black Fire's legacy saved the city, and none of you even knew it would work! We charged through the purple light and the wolves burned it away!"</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Cefiro raised one white paw. His voice was formal and careful, the accent precise and slightly stiff. "This one arrived expecting a diplomatic reception. There was a very large creature. No one explained the very large creature. Also, cousin, you did not mention the sister. Or the scorpions. The notebook requires updating."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Reva was shouting now, her golden eyes blazing. "I lost fifteen Wohs in three seconds to a purple orb that came from nowhere! My riders are dead! No one told us about the Plague weapons!"</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Tamsin stepped forward from the corner where she had been standing apart. "The Humman army was deceived. Our king was a fool and a coward. I defected. I brought a hundred civilians to the wall. We held the gate."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Seris, her dark eyes hollow, her diplomatic composure in ruins, spoke from her place beside Sylva. "My daughter is missing. She had a job at the palace. She hasn't been seen since the battle began. I don't know if she's alive."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Nefere leaned heavily on her cracked staff. "The mirror array destroyed one orb and carved the creature nearly in half. It will never fire again. The ancient crystals are shattered."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Sera's ruined face was impassive, but her voice was quiet and steady. "We held the gate with twenty soldiers. Twenty. Against four hundred scorpion riders. The elite unit did not break."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Solen, still standing guard at the door, added through the din, "The Golden Cloaks are sworn to protect the White Dawn. They have always been real."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Kira, still curled on her cushion with Pearl in her lap, looked up at Ajani. "I made you a belt. The Shadow Paws almost gave you a bride instead. Also Cefiro put a medallion on you and you woke up. Also you have a cousin now. Also the scorpions got bigger and Black Fire melted an assassin."</p>
-</div>
-
-
-The cacophony continued, voices overlapping, accusations and explanations and grief all spilling out at once. Ajani sat on the edge of his bed, Black Fire and Red Fire sleeping in his lap, the crown of white Styx feathers still flickering on his head, and listened to his kingdom tell him what he had missed.
-
-
-M'rak let the silence stretch. He looked at Reva, who had lost half her command in three seconds. At Zephyr, whose wolves still bore the scars of the shadow charge. At Yvaria, whose ghosts had fallen from the sky. At Sera, whose claws were still caked with dried blood. They all looked back at him. No one spoke. No one wanted to be the one to tell the king what had happened.
-
-
-Finally, M'rak sighed. He straightened his shoulders—the burn-scarred shoulders of a soldier who had been fighting since dawn and had not stopped—and faced the throne. His voice was hoarse and steady, the voice of a commander giving a report he wished he did not have to give.
-
-
-<div class="dialogue-block">
-<span class="speech">"The Humman army marched from Verdantis. Nine hundred kilometers. A thousand scorpion riders, fifty Tide Wolf cavalry, ten Amuk war-beasts. They arrived at dawn. We held the wall with twenty elite soldiers and a hundred volunteers. The Woh riders from the eastern and western garrisons reinforced at the first hour. The ghosts arrived at the second. The shadow riders arrived at the third."</span> He paused. <span class="speech">"The Humman king deployed Plague weapons. Suicide scorpions. Purple orbs. We lost fifteen Wohs in the first strike. Thirty-five ghosts in the second. Fifteen more Wohs in the third. The mirror array destroyed one orb and carved the creature nearly in half. The array is gone. The eastern section of the wall is gone."</span>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Reva spoke, her voice flat and empty. "I brought thirty Wohs from the western garrison. Fifteen of them died before they reached the gate."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Yvaria's voice was barely a whisper. "I brought a hundred ghosts. Thirty-five of them flew through the Plague mist and died."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Zephyr's scarred face was stone. "The shadow riders broke the Plague net. The wolves' fire burned through the tendrils. We lost no one in the charge. But the creature kept coming."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Tamsin stepped forward. "The Humman king is dead. He was killed by the shadowy figure that gave him the Plague weapons. I defected. I brought a hundred civilians to the wall. They fought with table legs and scythes."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Seris was silent for a long moment. When she spoke, her voice was hollow. "My daughter is missing. She had a job at the palace. She has not been seen since the battle began."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Sera looked at her claws. "The elite unit held the gate against the second vanguard. We did not break."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Solen's voice came from the door, quiet and steady. "The Golden Cloaks are sworn to protect the White Dawn. We held the creature as long as we could. The wall fell. You woke."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Cefiro spoke last, his accent formal and careful, his Russian cadence bleeding through the Wengari words. "I arrived expecting hospitality. I found a war. I put the Dragari medallion on you, and you woke. Then you flew to the wall and summoned spirits from the old texts. I have many questions. But they can wait."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Kira looked up from her cushion, Pearl still cradled in her lap. "I made you a belt. The Shadow Paws almost gave you a bride instead. Black Fire melted an assassin."</p>
-</div>
-
-
-Ajani sat on the edge of his bed, Black Fire and Red Fire sleeping in his lap, the crown of white Styx feathers still flickering on his head. He listened to the quiet that followed. No one else spoke. The reports were done.
-
-
-M'rak let the silence stretch. He looked at Reva, who had lost half her command in three seconds. At Zephyr, whose wolves still bore the scars of the shadow charge. At Yvaria, whose ghosts had fallen from the sky. At Sera, whose claws were still caked with dried blood. They all looked back at him. No one spoke. No one wanted to be the one to tell the king what had happened.
-
-
-Finally, M'rak sighed. He straightened his shoulders—the burn-scarred shoulders of a soldier who had been fighting since dawn and had not stopped—and faced the throne. His voice was hoarse and steady, the voice of a commander giving a report he wished he did not have to give.
-
-
-<div class="dialogue-block">
-<span class="speech">"The Humman army marched from Verdantis. Nine hundred kilometers. A thousand scorpion riders, fifty Tide Wolf cavalry, ten Amuk war-beasts. They arrived at dawn. We held the wall with twenty elite soldiers and a hundred volunteers. The Woh riders from the eastern and western garrisons reinforced at the first hour. The ghosts arrived at the second. The shadow riders arrived at the third."</span> He paused. <span class="speech">"The Humman king deployed Plague weapons. Suicide scorpions. Purple orbs. We lost fifteen Wohs in the first strike. Thirty-five ghosts in the second. Fifteen more Wohs in the third. The mirror array destroyed one orb. The array is gone. The eastern section of the wall is gone."</span>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Reva spoke, her voice flat and empty. "I brought thirty Wohs from the western garrison. Fifteen of them died before they reached the gate."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Yvaria's voice was barely a whisper. "I brought a hundred ghosts. Thirty-five of them flew through the Plague mist and died."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Zephyr's scarred face was stone. "The shadow riders broke the Plague net. The wolves' fire burned through the tendrils. We lost no one in the charge. The creature kept coming."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Tamsin stepped forward. She was the only Humman in the room, and she stood apart from the Wengari, her scarred face unreadable. "The Humman king is dead. He was killed by the shadowy figure that gave him the Plague weapons. I defected. I brought a hundred civilians to the wall. They fought with table legs and scythes."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Sera looked at her claws. "The elite unit held the gate against the second vanguard. We did not break."</p>
-</div>
-
-
-A silence followed. The generals had said their piece. No one else spoke.
-
-
-<div class="dialogue-block">
-Cefiro spoke last, his accent formal and careful, his Russian cadence bleeding through the Wengari words. <span class="speech">"I arrived expecting hospitality. I found a war. I put the Dragari medallion on you, and you woke. Then you flew to the wall and summoned spirits from the old texts. I have many questions."</span> He paused. <span class="speech">"They can wait."</span>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Kira looked up from her cushion, Pearl still cradled in her lap. "I made you a belt. The Shadow Paws almost gave you a bride instead. Black Fire melted an assassin."</p>
-</div>
-
-
-<div class="dialogue-block">
-Another silence. Sylva had not spoken since the reports began. She stood at the foot of the bed, her silver-chased ceremonial armor still dented and scorched, her ancient eyes hollow from the long night of triage and recovery. When she finally spoke, her voice was quiet and steady. <span class="speech">"The city held. The wall is broken, but the gate stands. The Humman refugees are in the eastern district. The Pyrinae are tending the wounded. The dead are being counted."</span> She paused. <span class="speech">"I have tendered my resignation as regent. It awaits your approval."</span>
-</div>
-
-
-Ajani sat on the edge of his bed, Black Fire and Red Fire sleeping in his lap, the crown of white Styx feathers still flickering on his head. He listened to the quiet that followed. The reports were done. No one else spoke.
 
 
 M'rak let the silence stretch. He looked at Reva, who had lost half her command in three seconds. At Zephyr, whose wolves still bore the scars of the shadow charge. At Yvaria, whose ghosts had fallen from the sky. At Sera, whose claws were still caked with dried blood. They all looked back at him. No one spoke. No one wanted to be the one to tell the king what had happened.
@@ -3546,9 +3367,6 @@ Nikolai stepped forward and placed one massive paw on his son's shoulder. <span 
 
 
 Nadya's delighted laughter echoed across the frozen landing platform, and somewhere in the palace, a servant began preparing rooms for guests who had come from the other side of the world.
-
-
-*On the 7th day they finally find their way, and they arrive the ice city on the 8th, here we meet the entire snow paw royal family, the tsar Nikolai an absolute massive wengari standing almost at 2.8m (the tallest stripe paw is around 2.6m same as Cefiro), he's 46 years old, middle age by snow paw standards Anastasia the tsarina, 43, 2.5m tall , lithe and beautiful with a quiet frightening demeanor, the oldest daughter Vanya, 2.4m tall and 27 years old, the youngest daughter Nadya at 16 and 2.2m tall and the youngest son, Ivan, he's the same age and height as Kira, and as soon as he sees her he's smitten everyone but they notice this, Nikolai comments how ajanis tales were right and there are indeed more wengari the scene should revolve around the questions from Nikolai to Cefiro and the constant interruptions from Vanya and Nadya asking for what has become of ajani, when Cefiro tells them he's not only king but a white dawn the surprise should be palpable*
 
 
 The dining hall of the Ice Palace was a vast chamber carved from living glacier, its walls enchanted to glow with a soft blue luminescence that cast no shadows. The table at its center was a single slab of ancient ice, polished to a mirror sheen, and the chairs were carved from the same frozen stone, their seats covered with thick furs of white bear and snow hare. The meal was a feast of northern delicacies—roasted ice fish, preserved snow berries, haunches of white bear meat, and a clear, potent liquor that the Snow Paws called Frostfire.

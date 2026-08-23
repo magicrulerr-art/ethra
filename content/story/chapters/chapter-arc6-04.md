@@ -33,9 +33,6 @@ Nikolai stepped forward and placed one massive paw on his son's shoulder. <span 
 Nadya's delighted laughter echoed across the frozen landing platform, and somewhere in the palace, a servant began preparing rooms for guests who had come from the other side of the world.
 
 
-*On the 7th day they finally find their way, and they arrive the ice city on the 8th, here we meet the entire snow paw royal family, the tsar Nikolai an absolute massive wengari standing almost at 2.8m (the tallest stripe paw is around 2.6m same as Cefiro), he's 46 years old, middle age by snow paw standards Anastasia the tsarina, 43, 2.5m tall , lithe and beautiful with a quiet frightening demeanor, the oldest daughter Vanya, 2.4m tall and 27 years old, the youngest daughter Nadya at 16 and 2.2m tall and the youngest son, Ivan, he's the same age and height as Kira, and as soon as he sees her he's smitten everyone but they notice this, Nikolai comments how ajanis tales were right and there are indeed more wengari the scene should revolve around the questions from Nikolai to Cefiro and the constant interruptions from Vanya and Nadya asking for what has become of ajani, when Cefiro tells them he's not only king but a white dawn the surprise should be palpable*
-
-
 The dining hall of the Ice Palace was a vast chamber carved from living glacier, its walls enchanted to glow with a soft blue luminescence that cast no shadows. The table at its center was a single slab of ancient ice, polished to a mirror sheen, and the chairs were carved from the same frozen stone, their seats covered with thick furs of white bear and snow hare. The meal was a feast of northern delicacies—roasted ice fish, preserved snow berries, haunches of white bear meat, and a clear, potent liquor that the Snow Paws called Frostfire.
 
 Kira sat between Cefiro and the empty chair that Ivan had claimed the moment he entered the room, his pale blue eyes fixed on her with an intensity that was almost alarming.
