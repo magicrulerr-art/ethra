@@ -14,7 +14,7 @@ image_full: /static/images/shell-singer.png
 
 ---
 
-<picture><source srcset="/static/images/veylar-shell-singer.webp" type="image/webp" /><source srcset="/static/images/veylar-shell-singer.jpg" type="image/jpeg" /><img src="/static/images/veylar-shell-singer.png" alt="Veylar Shell-Singer" class="creature-portrait" style="max-width:400px;float:right;margin:0 0 1em 1em;border:2px solid #333;"></picture>
+<picture><source srcset="/static/images/shell-singer.webp" type="image/webp" /><source srcset="/static/images/shell-singer.jpg" type="image/jpeg" /><img src="/static/images/shell-singer.png" alt="Veylar Shell-Singer" class="creature-portrait" style="max-width:400px;float:right;margin:0 0 1em 1em;border:2px solid #333;"></picture>
 
 ## Overview
 
