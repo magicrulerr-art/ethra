@@ -1,0 +1,59 @@
+{
+  "_doc": "Single source of truth for arc metadata. Consumed by server.py (ARC_TITLES) and regenerate_chapters.py. Adding an arc = add an entry here + drop the umbrella chapter-0X.md; no code edits.",
+  "arcs": {
+    "1": {
+      "source": "chapter-01.md",
+      "title": "Arc I: The White Dawn",
+      "sub_titles": ["The Return", "The Chamber", "The Pact", "The Styx", "The Four Pillars", "The Passing"]
+    },
+    "2": {
+      "source": "chapter-02.md",
+      "title": "Arc II: The Council",
+      "sub_titles": ["The Summons", "The Confession", "The Shadow Paw", "The Tree's Judgment", "The Hydromancer", "Foreign Delegations"]
+    },
+    "3": {
+      "source": "chapter-03.md",
+      "title": "Arc III: The Tournament",
+      "sub_titles": ["The Arena", "First Blood", "The Fire Feet", "The Tyrant Cycle", "The Hour Before"]
+    },
+    "4": {
+      "source": "chapter-04.md",
+      "title": "Arc IV: The Consolidation",
+      "sub_titles": ["Bureaucracy", "The Caravans", "The Pyrinae Accord", "The Humman Delegation", "The Gifts", "Aftermath"]
+    },
+    "5": {
+      "source": "chapter-05.md",
+      "title": "Arc V: The Great War",
+      "sub_titles": [
+        "05:25 — Vasha Storms In",
+        "06:55 — Sera Holds The Gate",
+        "06:25 — The War Room Still Watches",
+        "07:55 — The Dome Shimmers",
+        "08:15 — The Second Shot",
+        "08:20 — The Light Shield Falls",
+        "08:40 — The Plague Comes",
+        "08:45 — Scorpions Still Marching",
+        "09:00 — The Truce Lasts An Hour",
+        "09:30 — The Wall Breaks",
+        "09:45 — The War Becomes Worse",
+        "10:35 — The Wall Blanketed",
+        "11:20 — The Shadow Figure Drinks",
+        "11:35 — The Wall Learns Horror",
+        "11:40 — M'rak Yells Clear",
+        "11:50 — Vows Are Absolved",
+        "11:55 — The Legend Answers",
+        "11:59 — Nefere Fires",
+        "12:02 — Ajani Throws The Spear",
+        "12:03 — Cefiro Arrives",
+        "12:05 — The Light Cage Fades",
+        "12:06 — The White Dawn Wakes"
+      ],
+      "split_anchors": [410, 550, 728, 772, 792, 998, 1090, 1111, 1146, 1278, 1592, 1636, 1668, 1703, 1762, 1872, 1909, 2023, 2132, 2156, 2193]
+    },
+    "6": {
+      "source": "chapter-06.md",
+      "title": "Arc VI: Aftermath & The Road",
+      "sub_titles": ["The Cost", "Rebuilding", "The Vision", "The Road Begins", "Epilogue"]
+    }
+  }
+}

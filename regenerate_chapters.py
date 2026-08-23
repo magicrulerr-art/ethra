@@ -1,138 +1,52 @@
 """
-Regenerate all sub-chapter files from the 6 clean chapter files.
-Splits at logical scene boundaries and outputs to content/story/chapters/
-with naming: chapter-arc{ARC}-{CH}.md
+Regenerate all sub-chapter files from the clean umbrella chapter files.
 
-Also generates arc summary files in content/story/arcs/arc-{ARC}.md
+R20 repair (roadmap P0):
+  * BASE is now script-relative (the old hardcoded C:\\Users\\magic\\.copaw
+    path was wrong on this machine).
+  * Arc metadata (titles / sub_titles / split_anchors / source) is read from
+    content/story/arcs.json — the single source of truth shared with
+    server.py. Adding an arc no longer requires editing this script.
+  * NON-DESTRUCTIVE: output is staged in chapters/_new + arcs/_new, verified
+    (file counts per arc must match the manifest), and only then swapped in.
+    The previous live splits are preserved under backups/splits-<timestamp>/.
+    The old script deleted all live splits BEFORE regenerating — a single
+    bad run could have destroyed content with no undo.
+  * --check mode: stage + diff against live, report, touch nothing.
+
+Splitting logic is unchanged from the proven R-era implementation.
+Outputs: content/story/chapters/chapter-arc{ARC}-{CH}.md and
+content/story/arcs/arc-{ARC}.md
 """
 
-import os
+import json
 import re
+import shutil
+import sys
+import time
 from pathlib import Path
 
-BASE = Path(r'C:\Users\magic\.copaw\workspaces\default\ethra_site')
+BASE = Path(__file__).resolve().parent
 STORY = BASE / 'content' / 'story'
 CHAPTERS_DIR = STORY / 'chapters'
 ARCS_DIR = STORY / 'arcs'
+MANIFEST = STORY / 'arcs.json'
 
-# Ensure output directories exist
+CHECK_ONLY = '--check' in sys.argv
+
+ARCS = json.loads(MANIFEST.read_text(encoding='utf-8'))['arcs']
+
 CHAPTERS_DIR.mkdir(parents=True, exist_ok=True)
 ARCS_DIR.mkdir(parents=True, exist_ok=True)
-
-# ── Delete old files ──────────────────────────────────────
-print("Cleaning old files...")
-for f in CHAPTERS_DIR.glob("chapter-arc*.md"):
-    f.unlink()
-    print(f"  Deleted: {f.name}")
-for f in ARCS_DIR.glob("arc-*.md"):
-    f.unlink()
-    print(f"  Deleted: {f.name}")
-
-# ── Arc metadata ──────────────────────────────────────────
-ARCS = {
-    1: {
-        'source': 'chapter-01.md',
-        'title': 'Arc I: The White Dawn',
-        'sub_titles': [
-            'The Return',
-            'The Chamber',
-            'The Pact',
-            'The Styx',
-            'The Four Pillars',
-            'The Passing',
-        ],
-    },
-    2: {
-        'source': 'chapter-02.md',
-        'title': 'Arc II: The Council',
-        'sub_titles': [
-            'The Summons',
-            'The Confession',
-            'The Shadow Paw',
-            'The Tree\'s Judgment',
-            'The Hydromancer',
-            'Foreign Delegations',
-        ],
-    },
-    3: {
-        'source': 'chapter-03.md',
-        'title': 'Arc III: The Tournament',
-        'sub_titles': [
-            'The Arena',
-            'First Blood',
-            'The Fire Feet',
-            'The Tyrant Cycle',
-            'The Hour Before',
-        ],
-    },
-    4: {
-        'source': 'chapter-04.md',
-        'title': 'Arc IV: The Consolidation',
-        'sub_titles': [
-            'Bureaucracy',
-            'The Caravans',
-            'The Pyrinae Accord',
-            'The Humman Delegation',
-            'The Gifts',
-            'Aftermath',
-        ],
-    },
-    5: {
-        'source': 'chapter-05.md',
-        'title': 'Arc V: The Great War',
-        'sub_titles': [
-            '05:25 — Vasha Storms In',
-            '06:55 — Sera Holds The Gate',
-            '06:25 — The War Room Still Watches',
-            '07:55 — The Dome Shimmers',
-            '08:15 — The Second Shot',
-            '08:20 — The Light Shield Falls',
-            '08:40 — The Plague Comes',
-            '08:45 — Scorpions Still Marching',
-            '09:00 — The Truce Lasts An Hour',
-            '09:30 — The Wall Breaks',
-            '09:45 — The War Becomes Worse',
-            '10:35 — The Wall Blanketed',
-            '11:20 — The Shadow Figure Drinks',
-            '11:35 — The Wall Learns Horror',
-            '11:40 — M\'rak Yells Clear',
-            '11:50 — Vows Are Absolved',
-            '11:55 — The Legend Answers',
-            '11:59 — Nefere Fires',
-            '12:02 — Ajani Throws The Spear',
-            '12:03 — Cefiro Arrives',
-            '12:05 — The Light Cage Fades',
-            '12:06 — The White Dawn Wakes',
-        ],
-        # Timestamp-aware split: each anchor is a 1-based line number in
-        # chapter-05.md where the new sub-chapter/title boundary lands.
-        # The first chapter always begins at the source's first line; the
-        # anchors below mark the LAST line of each preceding chapter
-        # (equivalently, the FIRST line of the next chapter).
-        # Strategy: war-dispatch mode — every distinct prose timestamp is
-        # a chapter boundary. 21 anchors produce 22 chapters from
-        # 22 timestamps (5:25 → 12:06). The 12:04 timestamp is a one-sentence
-        # beat (only 2 source lines) which has been collapsed into the
-        # adjacent 12:03/12:05 chapter.
-        # Source has been surgically cleaned across 12 cuts of all
-        # DM-author-meta blocks before this splitter is run.
-        'split_anchors': [410, 550, 728, 772, 792, 998, 1090, 1111, 1146, 1278, 1592, 1636, 1668, 1703, 1762, 1872, 1909, 2023, 2132, 2156, 2193],
-    },
-    6: {
-        'source': 'chapter-06.md',
-        'title': 'Arc VI: Aftermath & The Road',
-        'sub_titles': [
-            'The Cost',
-            'Rebuilding',
-            'The Vision',
-            'The Road Begins',
-            'Epilogue',
-        ],
-    },
-}
+CH_NEW = CHAPTERS_DIR / '_new'
+AR_NEW = ARCS_DIR / '_new'
+for _d in (CH_NEW, AR_NEW):
+    if _d.exists():
+        shutil.rmtree(_d)
+    _d.mkdir(parents=True)
 
 # ── Scene break detection ─────────────────────────────────
-# When we can't find explicit markers, we split at the first
+# When we can't find explicit markers, split at the first
 # paragraph break after roughly equal word counts.
 
 SCENE_BREAK_MARKERS = [
@@ -154,7 +68,6 @@ def line_to_offset(content, line_no):
     """
     if line_no <= 1:
         return 0
-    # Find offsets of each newline up to line_no-1
     offset = 0
     for _ in range(line_no - 1):
         nl = content.find('\n', offset)
@@ -171,26 +84,17 @@ def find_split_points(content, num_chunks):
     """
     total_len = len(content)
     approx_chunk_size = total_len // num_chunks
-    
-    # Find paragraphs (split by double newline)
-    para_positions = []
-    for m in re.finditer(r'\n\n+', content):
-        para_positions.append(m.start())
-    
+
+    para_positions = [m.start() for m in re.finditer(r'\n\n+', content)]
     if not para_positions:
         return []
-    
-    # Find split points near approximate boundaries
+
     split_points = []
     used_positions = set()
-    
     for i in range(1, num_chunks):
         target = i * approx_chunk_size
-        
-        # Find paragraph break closest to target
         best_pos = None
         best_dist = float('inf')
-        
         for pos in para_positions:
             if pos in used_positions:
                 continue
@@ -198,34 +102,30 @@ def find_split_points(content, num_chunks):
             if dist < best_dist and dist < approx_chunk_size * 0.5:
                 best_dist = dist
                 best_pos = pos
-        
         if best_pos is not None:
             split_points.append(best_pos)
             used_positions.add(best_pos)
-    
+
     split_points.sort()
     return split_points
 
 
-def generate_sub_chapters(arc_num, arc_data):
-    """Read a clean chapter file and split into sub-chapters."""
+def generate_sub_chapters(arc_num, arc_data, out_dir):
+    """Read a clean chapter file and split into sub-chapters (staged)."""
     source_path = STORY / arc_data['source']
-    
+
     if not source_path.exists():
         print(f"  ERROR: Source file not found: {source_path}")
         return []
-    
-    with open(source_path, 'r', encoding='utf-8') as f:
-        content = f.read()
-    
+
+    content = source_path.read_text(encoding='utf-8')
+
     sub_titles = arc_data['sub_titles']
     num_chunks = len(sub_titles)
-    
-    # Find the first line (chapter header)
+
     first_newline = content.find('\n')
     chapter_header = content[:first_newline].strip() if first_newline > 0 else ''
-    
-    # Find split points (timestamp-aware override for arcs that declare split_anchors)
+
     if arc_data.get('split_anchors'):
         anchors = arc_data['split_anchors']
         split_points = [line_to_offset(content, ln) for ln in anchors]
@@ -235,24 +135,16 @@ def generate_sub_chapters(arc_num, arc_data):
 
     if len(split_points) != num_chunks - 1:
         print(f"  WARNING: Found {len(split_points)} splits for {num_chunks} chunks")
-        # Fall back to equal character splits
         total = len(content)
-        split_points = [total * (i+1) // num_chunks for i in range(num_chunks - 1)]
-    
-    # Build chunks
+        split_points = [total * (i + 1) // num_chunks for i in range(num_chunks - 1)]
+
     chapters = []
     prev = 0
     for i in range(num_chunks):
-        if i < len(split_points):
-            end = split_points[i]
-        else:
-            end = len(content)
-        
+        end = split_points[i] if i < len(split_points) else len(content)
         chunk = content[prev:end].strip()
 
         # Detect pre-existing canonical heading inside this chunk.
-        # If the source has its own "# Chapter N: <Canonical>" or "## Chapter N: <Canonical>"
-        # we prefer that exact canonical title over the hardcoded sub_titles entry.
         canonical_title = None
         first_nl = None
         ch_num = i + 1
@@ -261,127 +153,140 @@ def generate_sub_chapters(arc_num, arc_data):
             chunk,
         )
         if m:
-            heading_level, src_ch_num, src_title = m.group(1), m.group(2), m.group(3).strip()
-            # Only adopt canonical title if chapter numbers match (avoid cross-pollination)
+            _lvl, src_ch_num, src_title = m.group(1), m.group(2), m.group(3).strip()
             if str(ch_num) == str(src_ch_num):
                 canonical_title = src_title
                 first_nl = chunk.find('\n')
 
         title = canonical_title if canonical_title is not None else sub_titles[i]
 
-        # Build the sub-chapter content.
-        # If the chunk already starts with a "# Chapter N: ..." heading we adopted, drop it —
-        # otherwise we'd have a duplicate heading in the served HTML.
         if first_nl is not None:
-            header_line = chunk[:first_nl]
             rest = chunk[first_nl:].lstrip('\n')
             sub_content = f"## Chapter {ch_num}: {title}\n\n{rest}"
         else:
             sub_content = f"## Chapter {ch_num}: {title}\n\n{chunk}"
 
-        # Defensive: collapse duplicate "## Chapter N:" headings. Some umbrella files
-        # carry the canonical heading mid-chunk; we keep the FIRST occurrence and
-        # delete every subsequent line that matches "^## Chapter N:". This avoids the
-        # double-heading pathology observed in chapter-arc4-05.md line 151/1.
-        # Ainz-sama additionally flagged: every slot-1 file previously carried the
-        # umbrella's leading "# Chapter N:" heading as a stale carry-forward. We
-        # now delete any single-hash "# Chapter N:" header entirely (it should not
-        # appear in a slot file — the canonical heading we wrote above is double-hash).
+        # Defensive: collapse duplicate "## Chapter N:" headings and drop
+        # stale single-hash "# Chapter N:" umbrella carry-forwards.
         dedup_lines = []
         seen_chapter_heading = False
         for line in sub_content.split('\n'):
             if re.match(r'^##\s+Chapter\s+\d+\s*:', line):
                 if seen_chapter_heading:
-                    continue  # skip duplicate
+                    continue
                 seen_chapter_heading = True
                 dedup_lines.append(line)
                 continue
             if re.match(r'^#\s+Chapter\s+\d+\s*:', line):
-                # Stale umbrella carry-forward (# Chapter N:) — discard entirely
                 continue
             dedup_lines.append(line)
         sub_content = '\n'.join(dedup_lines).lstrip('\n')
 
-        # Write to file
         filename = f"chapter-arc{arc_num}-{ch_num:02d}.md"
-        filepath = CHAPTERS_DIR / filename
-        with open(filepath, 'w', encoding='utf-8') as f:
-            f.write(sub_content)
-        
+        (out_dir / filename).write_text(sub_content, encoding='utf-8')
+
         chapters.append({
             'filename': filename,
             'title': title,
             'ch_num': ch_num,
             'word_count': len(chunk.split()),
         })
-        
         print(f"  {filename}: {title} ({len(chunk.split())} words)")
-        
         prev = end
-    
+
     return chapters
 
 
-def generate_arc_summary(arc_num, arc_data, chapters):
-    """Generate an arc summary markdown file."""
+def generate_arc_summary(arc_num, arc_data, chapters, ch_dir, ar_dir):
+    """Generate an arc summary markdown file (staged)."""
     source_path = STORY / arc_data['source']
-    
-    with open(source_path, 'r', encoding='utf-8') as f:
-        content = f.read()
-    
-    # Extract the chapter header
+    content = source_path.read_text(encoding='utf-8')
+
     first_nl = content.find('\n')
     header = content[:first_nl].strip() if first_nl > 0 else ''
-    
-    # Build summary
+
     total_words = sum(ch['word_count'] for ch in chapters)
-    summary = f"{header}\n\n"
-    summary += f"*{total_words:,} words across {len(chapters)} chapters*\n\n"
-    
+    summary = f"{header}\n\n*{total_words:,} words across {len(chapters)} chapters*\n\n"
+
     for ch in chapters:
-        # Get first paragraph of each chapter as preview
-        ch_file = CHAPTERS_DIR / ch['filename']
+        ch_file = ch_dir / ch['filename']
         if ch_file.exists():
-            with open(ch_file, 'r', encoding='utf-8') as f:
-                ch_content = f.read()
-            # Skip the chapter header, get first narrative paragraph
-            lines = ch_content.split('\n')
-            preview = ''
+            ch_content = ch_file.read_text(encoding='utf-8')
             in_narrative = False
-            for line in lines:
+            preview = ''
+            for line in ch_content.split('\n'):
                 stripped = line.strip()
                 if stripped.startswith('## Chapter'):
                     in_narrative = True
                     continue
                 if in_narrative and stripped and not stripped.startswith('#'):
-                    # Clean HTML tags for preview
                     clean = re.sub(r'<[^>]+>', '', stripped)
                     if len(clean) > 30:
                         preview = clean[:200] + '...'
                         break
-            
             summary += f"### {ch['title']}\n\n{preview}\n\n"
-    
-    # Write arc summary
-    arc_path = ARCS_DIR / f"arc-{arc_num:02d}.md"
-    with open(arc_path, 'w', encoding='utf-8') as f:
-        f.write(summary)
-    
+
+    (ar_dir / f"arc-{arc_num:02d}.md").write_text(summary, encoding='utf-8')
     print(f"  arc-{arc_num:02d}.md: {total_words:,} total words")
 
 
 # ── Main ───────────────────────────────────────────────────
-print("\nRegenerating sub-chapters from clean source files...\n")
+print(f"\nRegenerating sub-chapters ({'--check' if CHECK_ONLY else 'live swap'})...\n")
 
 all_chapters = []
-for arc_num in sorted(ARCS.keys()):
-    arc_data = ARCS[arc_num]
+for arc_str in sorted(ARCS, key=int):
+    arc_num = int(arc_str)
+    arc_data = ARCS[arc_str]
     print(f"Arc {arc_num}: {arc_data['title']}")
-    chapters = generate_sub_chapters(arc_num, arc_data)
-    generate_arc_summary(arc_num, arc_data, chapters)
+    chapters = generate_sub_chapters(arc_num, arc_data, CH_NEW)
+    generate_arc_summary(arc_num, arc_data, chapters, CH_NEW, AR_NEW)
     all_chapters.extend(chapters)
     print()
 
+# ── Verify staged output BEFORE touching live files ───────
+problems = []
+for arc_str in ARCS:
+    expect = len(ARCS[arc_str]['sub_titles'])
+    got = len(list(CH_NEW.glob(f"chapter-arc{arc_str}-*.md")))
+    if got != expect:
+        problems.append(f"arc {arc_str}: staged {got} files, manifest expects {expect}")
+if problems:
+    print("VERIFICATION FAILED — live files untouched:")
+    for p in problems:
+        print("  ", p)
+    sys.exit(1)
+
+staged = sorted(CH_NEW.glob("chapter-arc*.md"))
+
+if CHECK_ONLY:
+    diffs = [f.name for f in staged
+             if not (CHAPTERS_DIR / f.name).exists()
+             or (CHAPTERS_DIR / f.name).read_text(encoding='utf-8') != f.read_text(encoding='utf-8')]
+    print(f"--check: {len(diffs)} of {len(staged)} staged files differ from live.")
+    for d in diffs:
+        print("   DIFFERS:", d)
+    print("Live files untouched.")
+    shutil.rmtree(CH_NEW)
+    shutil.rmtree(AR_NEW)
+    sys.exit(0)
+
+# ── Backup live splits, then swap staged in ───────────────
+ts = time.strftime('%Y%m%d-%H%M%S')
+BAK = BASE / 'backups' / f'splits-{ts}'
+(BAK / 'chapters').mkdir(parents=True)
+(BAK / 'arcs').mkdir(parents=True)
+for f in CHAPTERS_DIR.glob("chapter-arc*.md"):
+    shutil.move(str(f), str(BAK / 'chapters' / f.name))
+for f in ARCS_DIR.glob("arc-*.md"):
+    shutil.move(str(f), str(BAK / 'arcs' / f.name))
+for f in staged:
+    shutil.move(str(f), str(CHAPTERS_DIR / f.name))
+for f in AR_NEW.glob("arc-*.md"):
+    shutil.move(str(f), str(ARCS_DIR / f.name))
+shutil.rmtree(CH_NEW)
+shutil.rmtree(AR_NEW)
+
 total = sum(ch['word_count'] for ch in all_chapters)
-print(f"Done. {len(all_chapters)} sub-chapters generated.")
+print(f"Done. {len(all_chapters)} sub-chapters swapped in.")
 print(f"Total words: {total:,}")
+print(f"Previous splits preserved in: {BAK}")

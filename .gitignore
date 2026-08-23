@@ -14,3 +14,7 @@ desktop.ini
 
 # Local secrets — never commit credentials
 .git-credentials
+
+# Runtime artifacts
+server_stdout.log
+backups/

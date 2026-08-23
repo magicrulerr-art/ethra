@@ -426,14 +426,19 @@ def _inline_markdown(text):
 #  CONTENT LOADING
 # ═══════════════════════════════════════════════════════════
 
-ARC_TITLES = {
-    1: "Arc I: The White Dawn",
-    2: "Arc II: The Council",
-    3: "Arc III: The Tournament",
-    4: "Arc IV: The Consolidation",
-    5: "Arc V: The Great War",
-    6: "Arc VI: Aftermath & The Road",
-}
+def _load_arc_manifest():
+    """Read content/story/arcs.json — the single source of truth for arc
+    metadata, shared with regenerate_chapters.py. Adding an arc = one entry
+    in that file; no server code change needed. Falls back to an empty
+    dict (generic titles) if the manifest is missing or unreadable."""
+    try:
+        with open(os.path.join(STORY_DIR, 'arcs.json'), 'r', encoding='utf-8') as f:
+            return json.load(f).get('arcs', {})
+    except (OSError, ValueError):
+        return {}
+
+ARC_META = _load_arc_manifest()
+ARC_TITLES = {int(k): v.get('title', f"Arc {k}") for k, v in ARC_META.items()}
 
 def load_md(filepath):
     if not os.path.exists(filepath):
@@ -487,11 +492,6 @@ def get_arcs_and_chapters():
     # walking all chapters in arc+chapter order across all arcs as one
     # flat sequence. This lets the template render Previous/Next/Go-to-End
     # buttons without needing to know arc boundaries.
-    flat = [
-        ch
-        for arc_num in sorted(arcs.keys())
-        for ch in arc_num and arcs[arc_num]['chapters']  # noqa - keep flat list ordered
-    ]
     flat = []
     for arc_num in sorted(arcs.keys()):
         for ch in arcs[arc_num]['chapters']:
@@ -697,6 +697,20 @@ def api_world_sections():
                 'id': key,
                 'label': section_labels.get(key, key.replace('-', ' ').title())
             })
+    # Auto-discover any world/*.md files not in the known order — a new
+    # lore section is now a one-file drop-in, no code edit needed.
+    try:
+        for fn in sorted(os.listdir(world_dir)):
+            if not fn.endswith('.md'):
+                continue
+            key = fn[:-3]
+            if key not in section_order and os.path.isfile(os.path.join(world_dir, fn)):
+                sections.append({
+                    'id': key,
+                    'label': section_labels.get(key, key.replace('-', ' ').title())
+                })
+    except OSError:
+        pass
     return jsonify(sections)
 
 @app.route("/api/world/<section>")
@@ -781,7 +795,121 @@ def api_map_coordinates():
             data = json.load(f)
     except (OSError, ValueError) as e:
         return jsonify({'error': 'map coordinates unreadable', 'detail': str(e)}), 500
+
+    # Merge place pins (P1 drop-in): any content/places/*.md carrying
+    # x_pct/y_pct becomes a map pin without touching map-coordinates.json.
+    # Frontmatter pins win over same-id entries already in the JSON.
+    if os.path.isdir(PLACES_DIR):
+        pins = data.setdefault('city_pins', [])
+        pin_ids = {p.get('id') for p in pins if isinstance(p, dict)}
+        for fn in sorted(os.listdir(PLACES_DIR)):
+            if not fn.endswith('.md'):
+                continue
+            loaded = _read_place(fn[:-3])
+            if not loaded:
+                continue
+            meta, _ = loaded
+            if 'x_pct' not in meta or 'y_pct' not in meta:
+                continue
+            try:
+                pin = {
+                    'id': meta['slug'],
+                    'name': meta.get('name', meta['slug']),
+                    'kind': meta.get('kind', 'place'),
+                    'x_pct': float(meta['x_pct']),
+                    'y_pct': float(meta['y_pct']),
+                }
+            except (ValueError, TypeError):
+                continue
+            if pin['id'] in pin_ids:
+                continue
+            pins.append(pin)
+            pin_ids.add(pin['id'])
+
     return jsonify(data)
+
+
+# ═══════════════════════════════════════════════════════════
+#  PLACES (P1 drop-in) — content/places/<slug>.md with frontmatter
+# ═══════════════════════════════════════════════════════════
+# A place (city / ruin / landmark) is ONE file:
+#   content/places/vashar.md
+#   ---
+#   name: Vashar
+#   kind: city
+#   biome: steadfast-desert
+#   x_pct: 62.4
+#   y_pct: 41.0
+#   race: Wengari
+#   blurb: The capital of the Wengari kingdoms.
+#   ---
+#   (gazetteer body in markdown)
+# It then appears in /api/places, /api/place/<slug>, and as a pin on the
+# map via the city_pins merge in /api/map/coordinates — no code edit.
+
+PLACES_DIR = os.path.join(CONTENT_DIR, "places")
+
+# Slug convention: lowercase letters/digits/hyphens, starting with a
+# letter or digit. The filename IS the slug (keystone.md -> slug "keystone").
+_PLACE_SLUG_RE = re.compile(r'^[a-z0-9][a-z0-9\-]*$')
+
+
+def _parse_frontmatter(text):
+    """Parse a YAML-lite frontmatter block (flat key: value pairs only).
+    Returns (meta_dict, body_text). Files without frontmatter pass through
+    with an empty meta dict."""
+    meta = {}
+    body = text
+    if text.startswith('---'):
+        parts = text.split('---', 2)
+        if len(parts) >= 3:
+            for line in parts[1].strip().split('\n'):
+                if ':' in line:
+                    k, v = line.split(':', 1)
+                    meta[k.strip()] = v.strip().strip('"\'')
+            body = parts[2]
+    return meta, body
+
+
+def _read_place(slug):
+    """Read one place file by slug. Returns (meta, body) or None."""
+    if not _PLACE_SLUG_RE.match(slug):
+        return None
+    path = os.path.join(PLACES_DIR, f"{slug}.md")
+    if not os.path.isfile(path):
+        return None
+    try:
+        with open(path, 'r', encoding='utf-8') as f:
+            meta, body = _parse_frontmatter(f.read())
+    except OSError:
+        return None
+    meta['slug'] = slug
+    return meta, body
+
+
+@app.route("/api/places")
+def api_places():
+    """List all places with their frontmatter metadata (no body)."""
+    places = []
+    if os.path.isdir(PLACES_DIR):
+        for fn in sorted(os.listdir(PLACES_DIR)):
+            if not fn.endswith('.md'):
+                continue
+            loaded = _read_place(fn[:-3])
+            if loaded:
+                places.append(loaded[0])
+    return jsonify(places)
+
+
+@app.route("/api/place/<slug>")
+def api_place(slug):
+    """One place: metadata + rendered gazetteer body."""
+    loaded = _read_place(slug)
+    if not loaded:
+        return jsonify({'error': 'Place not found'}), 404
+    meta, body = loaded
+    html = rewrite_static_paths(parse_markdown(body), request.script_root)
+    return jsonify({**meta, 'content': html})
 
 
 # ═══════════════════════════════════════════════════════════
@@ -867,4 +995,8 @@ def api_map_upload():
     return jsonify({"ok": True, "filename": filename, "bytes": size})
 
 
-app.run(host="0.0.0.0", port=port, debug=False)
+if __name__ == "__main__":
+    # `port` is defined in the __main__ banner block above (module scope).
+    # Guarded so `import server` never starts the listener (was previously
+    # a bare module-level app.run()).
+    app.run(host="0.0.0.0", port=port, debug=False)
