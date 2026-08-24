@@ -70,7 +70,7 @@ Bestiary plan). Coordinate data lives at `static/data/map-coordinates.json`.
 | arc2-01 | (TBD) | 🟡 pre-Mare history | `chapter-arc2-01-v3.png` | — | pre-2026-06 |
 | arc2-02 | (TBD) | 🟡 pre-Mare history | `chapter-arc2-02.png` | — | pre-2026-06 |
 | arc2-03 | (TBD) | 🟡 pre-Mare history | `chapter-arc2-03.png` | — | pre-2026-06 |
-| arc2-04 | (TBD) | 🟡 pre-Mare history | `chapter-arc2-04-v4.png` | — | pre-2026-06 |
+| arc2-04 | The Tree's Judgment | 🟡 pending v6 (doctrine reforge of lizard-men v4; kneeling tiger woman + Seris from behind, Ajani sole frontal face; v5 rejected quadruped; awaiting Ainz verdict; site serves v6) | `chapter-arc2-04-v6.png` | 7,054,970 | **2026-08-24** |
 | arc2-05 | (TBD) | 🟡 pre-Mare history | `chapter-arc2-05-v5.png` | — | pre-2026-06 |
 | arc2-06 | (TBD) | 🟡 pre-Mare history | `chapter-arc2-06.png` | — | pre-2026-06 |
 
