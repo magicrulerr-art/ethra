@@ -1,6 +1,57 @@
 ## Chapter 2: Rebuilding
 
 <div class="dialogue-block">
+<p class="speech-line">Elyra spoke again, her melodic voice quiet but firm. "The other races are watching, Your Highness. The Veylar heard your chants. The Threx felt the Plague through the mycelial network. The Dragari sent their medallion and their messenger. If you respond to the Plague weapons with annihilation, they will see the cycle repeating. They will see another White Dawn become a Tyrant. They will see the hope of the tournament and the road and the Golden Sun turn to ash. The Humman king used the Plague because he believed you would respond exactly as you are proposing to respond. He believed the Wengari were brutes who would choose vengeance. Prove him wrong."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Sylva spoke last, her ancient voice carrying the weight of her long years. "Your father faced this choice. When the border skirmishes threatened to become a war, when the Fire Beetles breached the west wall, when the elders urged him to respond with overwhelming force—he chose restraint. He said the crown must be like the sun. Warm. Unflinching. Unforgiving. Not cruel. Not capricious. Not a destroyer. He said the hardest thing a king can do is hold his strength in reserve and use it only when nothing else remains. I am not telling you what to decide. I am telling you what he would have said."</p>
+</div>
+
+
+The throne room was silent. Black Fire and Red Fire stirred at Ajani's feet but did not wake. Vasha's stylus had not moved for several minutes. The four generals waited. The foreign advisor waited. The regent waited. And the king sat on his throne, the diadem's gem pulsing with a slow, steady light, and weighed the choice before him.
+
+
+<div class="dialogue-block">
+<p class="speech-line">"sigh, fine, what about an overwhelming show of force to exact the réparations ?, one full legion to site Verdantis?"</p>
+</div>
+
+
+Elyra stepped forward once more. The foreign advisor had been prepared to argue against annihilation; she had not expected the king to pivot so quickly. But she adapted—Flowing Water always adapted.
+
+
+<div class="dialogue-block">
+<p class="speech-line">"A full legion to Verdantis would be overwhelming, Your Highness. The Humman military is shattered. Their king is dead. Their remaining forces could not resist a single regiment, let alone a legion. If you send a legion, you will not need to fight. You will need only to be seen. The Hummans understand leverage. They understand that a contract signed under threat is still a contract. The legion is the threat. The reparations are the contract. It is the most effective way to achieve what you want without the cost of annihilation."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">M'rak nodded slowly. "One legion. The fifth or the sixth, from the belt outposts. They are fresh. They have not seen battle. They will be eager to prove themselves. And Verdantis will see the full strength of the Wengari at their gates—the Wohs, the ghosts, the shadow riders, the Golden Cloaks if Solen permits. They will understand that we are not brutes. We are the power that could have annihilated them and chose not to."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Reva was silent for a moment, then nodded. "It is better than annihilation. It is better than letting them go unpunished. The Hummans must pay for what they did. If a legion at their gates forces them to pay, then I will support it."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Zephyr inclined his scarred head. "The shadow riders will join the legion. The Black Fire's legacy should be seen. The Hummans used the Plague against us. Let them see the fire that broke it."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Yvaria's voice was quiet but steady. "The ghosts will fly. They will carry the memory of the fallen with them. If a show of force can prevent another war, then it is worth the flight."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Sylva spoke last. "Your father used a show of force only twice in his long reign. Both times, it worked. Both times, the Hummans paid what they owed and did not test us again for a generation. A legion at Verdantis will remind them why they should not test us now."</p>
+</div>
+
+
+<div class="dialogue-block">
 <p class="speech-line">"good, let's wait till the rest of the elders and generals arrive, Maren, I wish for a memorial to be built to honor the fallen, and the pensions, also we need a proper celebration to set the mood, non essential reparations can wait it's more important to boost the morale of our city, objections?"</p>
 </div>
 
@@ -68,7 +119,7 @@ When the images ended, Ajani was silent. The roots pulsed. The blossom stirred. 
 It had felt the communal chants, the spirits rising, the storm descending. And it had felt the creature die.
 
 
-'You burned yourself. You called the elements. You used the names. The old names. The names from before the pact, before the cities, before the Wengari walked the desert. You do not know what you did. You do not know what you are. But the Plague is gone. The creature is dead. The endless darkness has been driven back. For now. You kept the pact. You kept the bargain. You are the White Dawn. And I am still hungry.  But I am also patient. I have always been patient. Rest now. Rest, and then rise. The road still waits. The enemy still stirs. But today—today you have won.*   The roots of the Kyre Tree pulsed slowly, thoughtfully, the pale green light rippling through the ancient chamber. The blossom stirred. The amber pool swirled with the images Ajani had given it, and the lord of the desert absorbed them without comment, without judgment, without the slightest hint of surprise.   When the voice pressed against Ajani's mind, it was the same ancient, patient hunger it had always been. *You were in a coma. The armor tried to wake the Lightbringer. It nearly killed you. The Human king deployed the old weapons. The ones Velarius left behind. The creature rose. You burned yourself to stop it. You used the old names. The Plague is gone. The creature is dead. The city still stands. You kept the bargain.* A pause. The roots pulsed once, a slow, deliberate throb. *Good.*   The blossom shifted, its petals rustling with what might have been the Tree's equivalent of a shrug. *The road still waits. The endless darkness in the belt still stirs. The enemy is not dead—only delayed. You have bought yourself time. Perhaps a year. Perhaps less. Use it well. The Golden Sun does not care about memorials or celebrations or the morale of your city. The Golden Sun cares about the pact. You have kept it. That is all that matters.*   The amber pool began to still. The roots withdrew slightly, their pale green light dimming. But then, almost imperceptibly, the blossom leaned closer. A single root extended from the tangle and touched the diadem on Ajani's brow. The white gem flared once, bright and warm, and then settled back into its steady glow.   'The old names. You should not have known them. You should not have been able to call them. I do not know what you are. But you are not the Lightbringer. You are something else. Something new. Do not die on the road, White Dawn. I have invested too much in you to start over with another king.''
+'You burned yourself. You called the elements. You used the names. The old names. The names from before the pact, before the cities, before the Wengari walked the desert. You do not know what you did. You do not know what you are. But the Plague is gone. The creature is dead. The endless darkness has been driven back. For now. You kept the pact. You kept the bargain. You are the White Dawn. And I am still hungry.  But I am also patient. I have always been patient. Rest now. Rest, and then rise. The road still waits. The enemy still stirs. But today—today you have won.*   The roots of the Kyre Tree pulsed slowly, thoughtfully, the pale green light rippling through the ancient chamber. The blossom stirred. The amber pool swirled with the images Ajani had given it, and the lord of the desert absorbed them without comment, without judgment, without the slightest hint of surprise.   When the voice pressed against Ajani's mind, it was the same ancient, patient hunger it had always been. *You were in a coma. The armor tried to wake the Lightbringer. It nearly killed you. The Humman king deployed the old weapons. The ones Velarius left behind. The creature rose. You burned yourself to stop it. You used the old names. The Plague is gone. The creature is dead. The city still stands. You kept the bargain.* A pause. The roots pulsed once, a slow, deliberate throb. *Good.*   The blossom shifted, its petals rustling with what might have been the Tree's equivalent of a shrug. *The road still waits. The endless darkness in the belt still stirs. The enemy is not dead—only delayed. You have bought yourself time. Perhaps a year. Perhaps less. Use it well. The Golden Sun does not care about memorials or celebrations or the morale of your city. The Golden Sun cares about the pact. You have kept it. That is all that matters.*   The amber pool began to still. The roots withdrew slightly, their pale green light dimming. But then, almost imperceptibly, the blossom leaned closer. A single root extended from the tangle and touched the diadem on Ajani's brow. The white gem flared once, bright and warm, and then settled back into its steady glow.   'The old names. You should not have known them. You should not have been able to call them. I do not know what you are. But you are not the Lightbringer. You are something else. Something new. Do not die on the road, White Dawn. I have invested too much in you to start over with another king.''
 
 
 The root withdrew. The blossom closed. The lord of the desert returned to its patient, hungry silence. But the gem on Ajani's brow still glowed with the faint, lingering warmth of the Tree's touch. And as he climbed the spiral stair back toward the light, he understood that he had just received the closest thing to a compliment the Golden Sun had ever given anyone.
@@ -98,7 +149,7 @@ Solen had come to Ajani on the fourth day, his golden cloak still wrapped around
 The Bulwark who guarded the Wengari should not become a political tool. Solen had bowed his head and left without speaking, but his shoulders had been lighter.
 
 
-Reva, M'rak, and Zephyr had thrown themselves into the work of the city. Reva had taken charge of the wall repairs, her surviving Wohs clearing rubble alongside the Pyrinae engineers. M'rak had organized the patrols, the watch rotations, the slow, grinding work of securing a wounded capital. Zephyr had been seen in the Human quarter, speaking with the refugees, his scarred face unreadable, his shadow wolves padding silently at his heels. No one knew what they discussed. No one asked.
+Reva, M'rak, and Zephyr had thrown themselves into the work of the city. Reva had taken charge of the wall repairs, her surviving Wohs clearing rubble alongside the Pyrinae engineers. M'rak had organized the patrols, the watch rotations, the slow, grinding work of securing a wounded capital. Zephyr had been seen in the Humman quarter, speaking with the refugees, his scarred face unreadable, his shadow wolves padding silently at his heels. No one knew what they discussed. No one asked.
 
 
 The city was slowly starting to heal. The memorial had been erected in the eastern plaza—a simple pillar of white stone, carved with the names of the fallen. The celebration was planned for the following week, tied to the tournament's infrastructure as Maren had suggested. The pensions were being distributed. The wall was being rebuilt. And the generals and elders were now gathered in the throne room, their honor guards lining the walls, their banners hanging from the rafters.
@@ -126,7 +177,7 @@ The silence stretched. The king's question hung in the air, and no one answered 
 
 
 <div class="dialogue-block">
-<p class="speech-line">She paused. "If the Council had gone through proper channels, the elders would have debated. They would have deliberated. They would have tried to negotiate with the Humans while the army was already marching. The city would have fallen before the first resolution was passed. The Council acted as it was designed to act. The city survived because the elders were bypassed."</p>
+<p class="speech-line">She paused. "If the Council had gone through proper channels, the elders would have debated. They would have deliberated. They would have tried to negotiate with the Hummans while the army was already marching. The city would have fallen before the first resolution was passed. The Council acted as it was designed to act. The city survived because the elders were bypassed."</p>
 </div>
 
 
@@ -198,29 +249,29 @@ The hall was silent. The other elders looked at the Shadow Paw contingent with e
 
 
 <div class="dialogue-block">
-<p class="speech-line">"I am promoting these four to two star generals, and giving them full command of one legion. They will pick their garrisons and travel to Verdantis. They won't come back until the Humans understand what they brought upon themselves."</p>
+<p class="speech-line">"I am promoting these four to two star generals, and giving them full command of one legion. They will pick their garrisons and travel to Verdantis. They won't come back until the Hummans understand what they brought upon themselves."</p>
 </div>
 
 The weight of the king's words settled over the great hall like a mantle. The four young generals stood at the foot of the throne—M'rak, Reva, Zephyr, Yvaria—and for a moment, none of them spoke.
 
 
 <div class="dialogue-block">
-<p class="speech-line">M'rak stepped forward first, his burn-scarred face unreadable, his voice steady. "Your Highness. I accept the promotion. I will take a legion to Verdantis, and I will not return until the Humans understand what they brought upon themselves. But I did not fight alone. The soldiers who held the wall, the civilians who grabbed table legs and scythes, the ghosts who died catching the acid barbs—they earned this. Not me. I will carry their memory to Verdantis. The Humans will know their names before I am done."</p>
+<p class="speech-line">M'rak stepped forward first, his burn-scarred face unreadable, his voice steady. "Your Highness. I accept the promotion. I will take a legion to Verdantis, and I will not return until the Hummans understand what they brought upon themselves. But I did not fight alone. The soldiers who held the wall, the civilians who grabbed table legs and scythes, the ghosts who died catching the acid barbs—they earned this. Not me. I will carry their memory to Verdantis. The Hummans will know their names before I am done."</p>
 </div>
 
 
 <div class="dialogue-block">
-<p class="speech-line">Reva stepped forward next. Her golden eyes were still hollow, still carrying the weight of the fifteen Wohs she had lost. "I accept. I will take a legion to Verdantis. The western garrison lost half its cavalry in three seconds. The Humans will pay for every Woh, every rider, every drop of blood. I will not return until their coffers are empty and their fear is full."</p>
+<p class="speech-line">Reva stepped forward next. Her golden eyes were still hollow, still carrying the weight of the fifteen Wohs she had lost. "I accept. I will take a legion to Verdantis. The western garrison lost half its cavalry in three seconds. The Hummans will pay for every Woh, every rider, every drop of blood. I will not return until their coffers are empty and their fear is full."</p>
 </div>
 
 
 <div class="dialogue-block">
-<p class="speech-line">Zephyr inclined his scarred head. "The shadow riders will accompany the legion. The Black Fire broke the Plague net. The Humans will see the wolves that survived their king's madness. They will see the fire that saved the city. They will remember."</p>
+<p class="speech-line">Zephyr inclined his scarred head. "The shadow riders will accompany the legion. The Black Fire broke the Plague net. The Hummans will see the wolves that survived their king's madness. They will see the fire that saved the city. They will remember."</p>
 </div>
 
 
 <div class="dialogue-block">
-<p class="speech-line">Yvaria spoke last, her voice quiet but steady. "The ghosts will fly with the legion. They will carry the drums. The Humans will hear the sound of our mourning before they see the Wohs on the horizon. They will know we are coming. And they will know why."</p>
+<p class="speech-line">Yvaria spoke last, her voice quiet but steady. "The ghosts will fly with the legion. They will carry the drums. The Hummans will hear the sound of our mourning before they see the Wohs on the horizon. They will know we are coming. And they will know why."</p>
 </div>
 
 
@@ -266,7 +317,7 @@ The great bronze doors had barely closed behind Ajani and the scorpions when the
 
 
 <div class="dialogue-block">
-Vorak nodded slowly. <span class="speech">"Then carry them to Verdantis. Make the Humans remember their names. Make them pay for every Woh, every rider, every drop of blood. And when you come back—"</span> He stopped. <span class="speech">"When you come back, you'll be a hero. The heroes always have the hardest time adjusting. I'll be here. If you need to talk."</span>
+Vorak nodded slowly. <span class="speech">"Then carry them to Verdantis. Make the Hummans remember their names. Make them pay for every Woh, every rider, every drop of blood. And when you come back—"</span> He stopped. <span class="speech">"When you come back, you'll be a hero. The heroes always have the hardest time adjusting. I'll be here. If you need to talk."</span>
 </div>
 
 
@@ -545,11 +596,11 @@ A figure dismounted from the lead hawk. It was tall—taller than any Wengari in
 The lead green hawk settled onto the blackened sand with a ponderous grace, its great wings folding against its emerald body. The other hawks followed, fifty of them forming a loose semicircle before the northern gate. The Wengari forces stood ready—the Wohs, the ghosts, the shadow riders, the elite guard—every weapon poised, every eye fixed on the visitors.
 
 
-A human dismounted from the lead hawk. He was old, his dark face weathered by decades of desert sun, his white beard carefully oiled and combed. He wore robes of deep blue silk embroidered with golden thread, and a small, simple crown rested on his brow. He walked forward alone, his hands open and empty, until he stood before the assembled might of the Wengari.
+A Humman dismounted from the lead hawk. He was old, his dark face weathered by decades of desert sun, his white beard carefully oiled and combed. He wore robes of deep blue silk embroidered with golden thread, and a small, simple crown rested on his brow. He walked forward alone, his hands open and empty, until he stood before the assembled might of the Wengari.
 
 
 <div class="dialogue-block">
-<span class="speech">"I am the great Sultan Salahim, king of the humans."</span> His voice was steady, but there was a tremor beneath it—not fear, but the weight of shame. <span class="speech">"Word of your deeds has already spread. Word of our shame as well. We come in peace. What Mekhmed did was not approved by the Council of Merchants. I bring proof."</span>
+<span class="speech">"I am the great Sultan Salahim, king of the Hummans."</span> His voice was steady, but there was a tremor beneath it—not fear, but the weight of shame. <span class="speech">"Word of your deeds has already spread. Word of our shame as well. We come in peace. What Mekhmed did was not approved by the Council of Merchants. I bring proof."</span>
 </div>
 
 
@@ -578,7 +629,7 @@ Sultan Salahim's weathered face tightened, but he did not deny it. He simply sto
 
 
 <div class="dialogue-block">
-<p class="speech-line">Ajani says his voice booming "This Ajani first of his name, protector of the realm, heir to the black fire and to the light bringer, brother to the deep, caller of spirits, king of the wengari, salutes sultan Salahim king of the humans, and while he might be forgiving, his subjects are not, Seris deal with this filth they are banned from entering the city, Generals seize the birds and check for any weapon, if you find anything, kill them all" then he turns his cape billowing and enters the city</p>
+<p class="speech-line">Ajani says his voice booming "This Ajani first of his name, protector of the realm, heir to the black fire and to the light bringer, brother to the deep, caller of spirits, king of the wengari, salutes sultan Salahim king of the Hummans, and while he might be forgiving, his subjects are not, Seris deal with this filth they are banned from entering the city, Generals seize the birds and check for any weapon, if you find anything, kill them all" then he turns his cape billowing and enters the city</p>
 </div>
 
 
@@ -590,13 +641,13 @@ Seris stepped forward. Her face was stone. <span class="speech">"You heard the k
 </div>
 
 
-The Sultan opened his mouth to protest, but Seris had already turned away. The Human ambassador who had been humiliated four times, who had knelt before the throne and surrendered her daughter, who had kept her people alive through diplomacy and desperation, walked toward the gate without looking back.
+The Sultan opened his mouth to protest, but Seris had already turned away. The Humman ambassador who had been humiliated four times, who had knelt before the throne and surrendered her daughter, who had kept her people alive through diplomacy and desperation, walked toward the gate without looking back.
 
 
 The generals moved. M'rak's Wohs spread out in a flanking formation, their natural plate armor gleaming. Reva's surviving riders moved to secure the cargo hawks, their claws extended. Zephyr's shadow wolves padded silently through the sand, their dark fur absorbing the morning light. The ghosts circled overhead, Yvaria's drums beating a steady rhythm of warning.
 
 
-The cargo hawks were seized. The Human delegation was searched. No weapons were found—only gold, silk, spices, and the signed documents the Sultan had brought. The reparations had already been loaded onto the birds before they left Verdantis. The Sultan had prepared for this moment, knowing that if the Wengari refused his tribute, he would not leave the desert alive.
+The cargo hawks were seized. The Humman delegation was searched. No weapons were found—only gold, silk, spices, and the signed documents the Sultan had brought. The reparations had already been loaded onto the birds before they left Verdantis. The Sultan had prepared for this moment, knowing that if the Wengari refused his tribute, he would not leave the desert alive.
 
 
 <div class="dialogue-block">
@@ -627,10 +678,10 @@ The king thunders, and the ambassador cuts. That is a functioning partnership.
 
 The tent was a simple affair of canvas and rope, erected just beyond the northern gate on the blackened sand where the Plague creature had nearly breached the wall. The ground was still scarred, the sand fused into rough, dark glass in places where the mirror array's beam had struck. The Sultan's cargo hawks were penned nearby, their emerald plumage ruffling in the desert wind, their great wings folded.
 
-The Human delegation sat under guard—M'rak's Wohs flanking the perimeter, Zephyr's shadow wolves lying in the sand with their dark eyes fixed on the visitors.
+The Humman delegation sat under guard—M'rak's Wohs flanking the perimeter, Zephyr's shadow wolves lying in the sand with their dark eyes fixed on the visitors.
 
 
-Seris entered alone. She wore no diplomatic robes, only the simple tunic she had worn since the war ended. Her dark eyes were cold, her face unreadable. She had been the Human ambassador for thirty years, and she had never once interrogated a king of her own people. She sat down across from Salahim, a small camp table between them. The documents the Sultan had brought were spread across its surface—the signed agreement banning military intervention, the trade manifests, the list of proposed reparations.
+Seris entered alone. She wore no diplomatic robes, only the simple tunic she had worn since the war ended. Her dark eyes were cold, her face unreadable. She had been the Humman ambassador for thirty years, and she had never once interrogated a king of her own people. She sat down across from Salahim, a small camp table between them. The documents the Sultan had brought were spread across its surface—the signed agreement banning military intervention, the trade manifests, the list of proposed reparations.
 
 
 
@@ -639,7 +690,7 @@ Seris entered alone. She wore no diplomatic robes, only the simple tunic she had
 </div>
 
 
-Salahim gestured, and his advisors withdrew. The tent flap fell closed. The two Humans were alone.
+Salahim gestured, and his advisors withdrew. The tent flap fell closed. The two Hummans were alone.
 
 
 <div class="dialogue-block">
@@ -668,7 +719,7 @@ Salahim gestured, and his advisors withdrew. The tent flap fell closed. The two 
 
 
 <div class="dialogue-block">
-<span class="speech">"No."</span> The word was sharp, immediate. <span class="speech">"We knew Mekhmed was unstable. We knew he was obsessed with the old stories, with Velarius, with the idea that the Humans could be something other than the weakest race on Ethra. But we did not know he had found the weapons. We did not know he had been in contact with—"</span> He stopped.
+<span class="speech">"No."</span> The word was sharp, immediate. <span class="speech">"We knew Mekhmed was unstable. We knew he was obsessed with the old stories, with Velarius, with the idea that the Hummans could be something other than the weakest race on Ethra. But we did not know he had found the weapons. We did not know he had been in contact with—"</span> He stopped.
 </div>
 
 
@@ -691,7 +742,7 @@ Seris was silent for a long moment. The shadowy figure. The same figure that had
 
 
 <div class="dialogue-block">
-<p class="speech-line">Salahim closed his eyes. "Because we were afraid. Not of Mekhmed. Of the Wengari. If we had sent word to Styxian, if we had warned the White Dawn, and Mekhmed had still won—he would have returned to Verdantis and executed every member of the Council. If we had sent our own forces to intercept him, and the Wengari had seen Human soldiers marching toward their capital—they would have assumed we were invading and slaughtered us all. We were caught between a rogue king and an unknowable enemy. We chose to wait. It was cowardice. I admit it. But it was not malice."</p>
+<p class="speech-line">Salahim closed his eyes. "Because we were afraid. Not of Mekhmed. Of the Wengari. If we had sent word to Styxian, if we had warned the White Dawn, and Mekhmed had still won—he would have returned to Verdantis and executed every member of the Council. If we had sent our own forces to intercept him, and the Wengari had seen Humman soldiers marching toward their capital—they would have assumed we were invading and slaughtered us all. We were caught between a rogue king and an unknowable enemy. We chose to wait. It was cowardice. I admit it. But it was not malice."</p>
 </div>
 
 
@@ -706,7 +757,7 @@ Seris was silent for a long moment. The shadowy figure. The same figure that had
 
 
 <div class="dialogue-block">
-<p class="speech-line">Seris rose from the camp table. She looked down at the Sultan of the Humans, the king who had come to beg for peace, and her voice was very cold. "The Wengari will accept your tribute. They will not accept you. You will remain outside the wall until the tribunal has finished its work. Your people will be housed in tents, not in the city. Your delegation will be watched. If you attempt to enter the capital, you will be killed. If you attempt to leave without permission, you will be killed. If any of your people are found to have known about the Plague weapons before they were deployed, they will be killed. These are the king's terms. I am merely delivering them."</p>
+<p class="speech-line">Seris rose from the camp table. She looked down at the Sultan of the Hummans, the king who had come to beg for peace, and her voice was very cold. "The Wengari will accept your tribute. They will not accept you. You will remain outside the wall until the tribunal has finished its work. Your people will be housed in tents, not in the city. Your delegation will be watched. If you attempt to enter the capital, you will be killed. If you attempt to leave without permission, you will be killed. If any of your people are found to have known about the Plague weapons before they were deployed, they will be killed. These are the king's terms. I am merely delivering them."</p>
 </div>
 
 
@@ -735,7 +786,7 @@ Ajani absorbed this. <span class="speech">"Any idea about that shadowy figure?"<
 
 
 <div class="dialogue-block">
-<p class="speech-line">Vasha spoke first, her stylus pausing. "The Council of the Untrustworthy has no intelligence on a shadowy figure. The Human network was compromised by Lena's letters, and the Pyrinae network was focused on the military threat. Whatever this thing was, it operated entirely outside our observation. That is concerning."</p>
+<p class="speech-line">Vasha spoke first, her stylus pausing. "The Council of the Untrustworthy has no intelligence on a shadowy figure. The Humman network was compromised by Lena's letters, and the Pyrinae network was focused on the military threat. Whatever this thing was, it operated entirely outside our observation. That is concerning."</p>
 </div>
 
 
@@ -745,12 +796,12 @@ Ajani absorbed this. <span class="speech">"Any idea about that shadowy figure?"<
 
 
 <div class="dialogue-block">
-Seris nodded slowly. <span class="speech">"The Sultan said the figure came to Mekhmed at night. It promised him victory. It promised him the power of the old world. It gave him the Plague weapons. And when he failed, it killed him and took his voice and ordered the final assault. The Human generals who survived the creature's rampage all tell the same story."</span> She paused. <span class="speech">"The Sultan does not know what it was. He does not want to know. He said it was older than the Humans, older than the Wengari, something from the belt."</span>
+Seris nodded slowly. <span class="speech">"The Sultan said the figure came to Mekhmed at night. It promised him victory. It promised him the power of the old world. It gave him the Plague weapons. And when he failed, it killed him and took his voice and ordered the final assault. The Humman generals who survived the creature's rampage all tell the same story."</span> She paused. <span class="speech">"The Sultan does not know what it was. He does not want to know. He said it was older than the Hummans, older than the Wengari, something from the belt."</span>
 </div>
 
 
 <div class="dialogue-block">
-Ajani was silent for a long moment. The diadem's gem pulsed slowly on his brow. <span class="speech">"The lord of the desert warned me about something in the Rune-Belt. The lord of the marsh warned me too. The Dragari came across the desert to deliver a message about an endless darkness that dwells there. And now a shadowy figure from the belt gives Plague weapons to a Human king and turns into a sixteen-meter monster when it fails."</span> He looked at the three of them. <span class="speech">"I think we just fought a scouting party."</span>
+Ajani was silent for a long moment. The diadem's gem pulsed slowly on his brow. <span class="speech">"The lord of the desert warned me about something in the Rune-Belt. The lord of the marsh warned me too. The Dragari came across the desert to deliver a message about an endless darkness that dwells there. And now a shadowy figure from the belt gives Plague weapons to a Humman king and turns into a sixteen-meter monster when it fails."</span> He looked at the three of them. <span class="speech">"I think we just fought a scouting party."</span>
 </div>
 
 
@@ -783,7 +834,7 @@ The roots pulsed. The blossom stirred. The Tree's voice pressed against his mind
 
 
 <div class="dialogue-block">
-<p class="speech-line">"Something attacked the city. While I was unconscious. Before the battle, a shadowy figure—something that wore a shape but wasn't what it seemed—gave the Human king weapons. Plague weapons. The old ones. From Velarius. Do you know anything about shadows? About things that wear shapes? About something that could give a mortal king the power of the old world?"</p>
+<p class="speech-line">"Something attacked the city. While I was unconscious. Before the battle, a shadowy figure—something that wore a shape but wasn't what it seemed—gave the Humman king weapons. Plague weapons. The old ones. From Velarius. Do you know anything about shadows? About things that wear shapes? About something that could give a mortal king the power of the old world?"</p>
 </div>
 
 
@@ -843,17 +894,17 @@ The four two-star generals stood in a line before the throne—M'rak, Reva, Zeph
 
 
 <div class="dialogue-block">
-<p class="speech-line">Elyra stepped forward. "The Sultan has requested an audience before the legion departs. He wishes to formalize the terms of the reparations in writing. He also wishes to speak with the Human refugees—to offer them passage back to Verdantis, if they wish to return. The foreign advisor recommends granting the audience. The foreign advisor also recommends monitoring the Sultan's conversations with the refugees. The Human intelligence network is still active. They will use any opportunity to gather information."</p>
+<p class="speech-line">Elyra stepped forward. "The Sultan has requested an audience before the legion departs. He wishes to formalize the terms of the reparations in writing. He also wishes to speak with the Human refugees—to offer them passage back to Verdantis, if they wish to return. The foreign advisor recommends granting the audience. The foreign advisor also recommends monitoring the Sultan's conversations with the refugees. The Humman intelligence network is still active. They will use any opportunity to gather information."</p>
 </div>
 
 
 <div class="dialogue-block">
-<p class="speech-line">Vasha looked up from her ledger. "The Council of the Untrustworthy has confirmed that the Human intelligence network moved before we did. Someone sent word to Verdantis about the legion's assembly. We do not know who. We do not know how. The network is still active, still fast, and still a threat. The Council recommends a full counter-intelligence operation. The Council also recommends that the legion depart as soon as possible. The Humans are afraid now. Fear fades. Speed is essential."</p>
+<p class="speech-line">Vasha looked up from her ledger. "The Council of the Untrustworthy has confirmed that the Humman intelligence network moved before we did. Someone sent word to Verdantis about the legion's assembly. We do not know who. We do not know how. The network is still active, still fast, and still a threat. The Council recommends a full counter-intelligence operation. The Council also recommends that the legion depart as soon as possible. The Hummans are afraid now. Fear fades. Speed is essential."</p>
 </div>
 
 
 <div class="dialogue-block">
-<p class="speech-line">Seris spoke last. "The tribunal has concluded its work. Twelve Humans have been found guilty of complicity in the use of Plague weapons. They have been executed according to Human law. The rest have been cleared. Some wish to return to Verdantis with the Sultan. Some wish to stay. I have told them the choice is theirs. The Human quarter is quiet. The refugees are rebuilding. We are earning our place."</p>
+<p class="speech-line">Seris spoke last. "The tribunal has concluded its work. Twelve Hummans have been found guilty of complicity in the use of Plague weapons. They have been executed according to Human law. The rest have been cleared. Some wish to return to Verdantis with the Sultan. Some wish to stay. I have told them the choice is theirs. The Humman quarter is quiet. The refugees are rebuilding. We are earning our place."</p>
 </div>
 
 
@@ -881,12 +932,12 @@ Vasha's stylus paused. For the first time since the war began, the spymaster loo
 
 
 <div class="dialogue-block">
-<p class="speech-line">She set down her stylus and began to speak with the precision of someone who had been planning this recommendation for months. "The Council of the Untrustworthy should be the core of the new office. We are already operational. We have networks in every family, contacts in every delegation, sources in the Human quarter and the Pyrinae district. But we are small. Five members, a handful of operatives, no dedicated funding beyond what we can skim from the Council's discretionary budget. To become a true intelligence office, we need three things: staff, funding, and legal authority."</p>
+<p class="speech-line">She set down her stylus and began to speak with the precision of someone who had been planning this recommendation for months. "The Council of the Untrustworthy should be the core of the new office. We are already operational. We have networks in every family, contacts in every delegation, sources in the Humman quarter and the Pyrinae district. But we are small. Five members, a handful of operatives, no dedicated funding beyond what we can skim from the Council's discretionary budget. To become a true intelligence office, we need three things: staff, funding, and legal authority."</p>
 </div>
 
 
 <div class="dialogue-block">
-<p class="speech-line">A third claw. "Third, legal authority. The office must be able to intercept correspondence, monitor foreign delegations, and detain suspected spies without public trial. This will be controversial. The elders will oppose it. The foreign delegations will protest. The Humans will claim we are persecuting them. All of that is irrelevant. An intelligence office without the power to act is merely a library. If we cannot detain, we cannot prevent. If we cannot intercept, we cannot know. The king must grant us the authority to operate in secret and the legal protection to survive when our operations become public."</p>
+<p class="speech-line">A third claw. "Third, legal authority. The office must be able to intercept correspondence, monitor foreign delegations, and detain suspected spies without public trial. This will be controversial. The elders will oppose it. The foreign delegations will protest. The Hummans will claim we are persecuting them. All of that is irrelevant. An intelligence office without the power to act is merely a library. If we cannot detain, we cannot prevent. If we cannot intercept, we cannot know. The king must grant us the authority to operate in secret and the legal protection to survive when our operations become public."</p>
 </div>
 
 
@@ -901,7 +952,7 @@ Vasha's stylus paused. For the first time since the war began, the spymaster loo
 
 
 <div class="dialogue-block">
-<p class="speech-line">"I accept both the first and second the third is over reach and very prone to miss use vasha, you will not use the office to collect old debts, nor we will have wengari and humans disappearing in the night, I authorize instead a subset if there is a credible threat you are authorized to detain someone previous approval from the regent, If there is a critical threat , the crown doesn't want to know how it's handled, am I understood?"</p>
+<p class="speech-line">"I accept both the first and second the third is over reach and very prone to miss use vasha, you will not use the office to collect old debts, nor we will have wengari and Hummans disappearing in the night, I authorize instead a subset if there is a credible threat you are authorized to detain someone previous approval from the regent, If there is a critical threat , the crown doesn't want to know how it's handled, am I understood?"</p>
 </div>
 
 
@@ -911,7 +962,7 @@ Vasha's stylus paused. For the first time since the war began, the spymaster loo
 
 
 <div class="dialogue-block">
-<p class="speech-line">She paused, her cold eyes meeting Ajani's. "The office will not collect old debts. It will not settle personal scores. It will not make Wengari or Humans disappear in the night without cause. I give you my word. And if anyone under my command violates that word, I will handle them personally. The crown will not need to know how."</p>
+<p class="speech-line">She paused, her cold eyes meeting Ajani's. "The office will not collect old debts. It will not settle personal scores. It will not make Wengari or Hummans disappear in the night without cause. I give you my word. And if anyone under my command violates that word, I will handle them personally. The crown will not need to know how."</p>
 </div>
 
 
@@ -957,7 +1008,7 @@ Across the hall, the elders were stirring. The old Bright Paw who had protested 
 
 
 <div class="dialogue-block">
-<p class="speech-line">A Shadow Paw elder, her dark pelt blending with the shadows, inclined her head. "You are just now realizing this? The king bypassed us during the war. He promoted four young generals over every commander in this room. He gave the Council official recognition. He formalized the tournament. He established the schools. He made the Pyrinae free and the Humans brothers. The old order has been dying since the day he took the throne. The Shadow Office is merely the final nail in the coffin. Adapt or fade. Those are the only choices."</p>
+<p class="speech-line">A Shadow Paw elder, her dark pelt blending with the shadows, inclined her head. "You are just now realizing this? The king bypassed us during the war. He promoted four young generals over every commander in this room. He gave the Council official recognition. He formalized the tournament. He established the schools. He made the Pyrinae free and the Hummans brothers. The old order has been dying since the day he took the throne. The Shadow Office is merely the final nail in the coffin. Adapt or fade. Those are the only choices."</p>
 </div>
 
 
@@ -975,7 +1026,7 @@ Vasha remained at her place near the dais, her stylus still moving across her le
 
 
 <div class="dialogue-block">
-<p class="speech-line">"The Human ambassador is not afraid. She is calculating. She knows the Shadow Office will be watching her people. She is already planning how to turn that to her advantage."</p>
+<p class="speech-line">"The Humman ambassador is not afraid. She is calculating. She knows the Shadow Office will be watching her people. She is already planning how to turn that to her advantage."</p>
 </div>
 
 
@@ -1021,110 +1072,4 @@ Vasha remained at her place near the dais, her stylus still moving across her le
 
 <div class="dialogue-block">
 <p class="speech-line">"The caravan masters will pay. They always pay. The coin master will see to it."</p>
-</div>
-
-
-Outside the great hall, the morning sun was climbing higher over the shattered capital. The wall was still broken. The memorial pillar stood in the eastern plaza, waiting for the celebration. The legion was preparing to march on Verdantis. The Shadow Office was being born. And the king, his scorpions flanking him, was already walking toward the northern gate to work the stone alongside his people.
-
-
-
-<div class="dialogue-block">
-<p class="speech-line">A few hours later ajani is helping everyone on the wall, taking his example several old and young generals are also helping an ambience of camaraderie is felt where the hummans were seen with disdain now it's almost gone they helping on the wall and the resistance they mounted on the war has gone a great way on smoothing things a very tenous peace has been forged through shared strife Ajani is offering to help a young humman lift a boulder when a sandstorm approaches and dissipates a lament and 20 quick threx are at the gates it's the most threx anyone has ever seen they look at the humans hiss and raise their limbs then ajani panicked stands between them shouting "THEY'RE FRIENDS THEYRE FRINDS!"</p>
-</div>
-
-
-The wall had become a place of healing. In the weeks since the victory, Ajani had made it his practice to work alongside the laborers every afternoon. He had no skill with stone—the Pyrinae engineers had politely suggested he focus on hauling rather than masonry—but his presence had changed the atmosphere on the scaffolding. If the king could sweat alongside them, so could the generals. If the generals could haul stone, so could the honor guards.
-
-And if the honor guards could work beside the Human refugees, so could everyone else.
-
-
-The young Human was struggling with a boulder. He was perhaps sixteen, his dark arms thin but wiry, his face still carrying the hollow look of someone who had not eaten well in weeks. He had been one of the civilians who grabbed a table leg and marched to the wall on the morning of the battle, and he had been working the stone ever since, refusing all offers of lighter duty.
-
-
-<div class="dialogue-block">
-<p class="speech-line">Ajani walked over to him. "Let me help with that."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">The boy looked up, his eyes widening. "Your Highness, I can—"</p>
-</div>
-
-
-<div class="dialogue-block">
-<span class="speech">"You can accept help. It's not a sign of weakness. It took me three weeks in a coma to learn that."</span> Ajani bent down and gripped the boulder, his golden arms tensing. <span class="speech">"On three. One, two—"</span>
-</div>
-
-
-The sandstorm descended without warning. The sky turned orange and then black, the wind whipping across the scaffolding with a sound like screaming. Ajani dropped the boulder and pushed the young Human behind him, his body instinctively shielding the boy. Blackie and Reddy were already moving, their tails rising, their white-lacquered pincers clicking with alarm.
-
-
-And then, just as suddenly, the sandstorm dissipated. Where the swirling dust had been, twenty-one figures now stood at the northern gate. Twenty of them were small—barely chest-height on a Wengari—their iridescent chitin catching the afternoon sun, their multifaceted eyes blinking in the unfamiliar light. The twenty-first was not small. It was a Lament, its chitin dark and gleaming, its multifaceted eyes ancient and patient, its body radiating the quiet, inexorable presence of the Mycelial Deep.
-
-It was the most Threx anyone had ever seen in one place. It was more Threx than most Wengari had seen in a lifetime.
-
-
-The Threx looked at the Humans on the wall. Their multifaceted eyes took in the scorpion riders, the merchants, the refugees who had been working alongside the Wengari. And then, as one, the Quick raised their limbs and hissed—a sound of pure, instinctive hostility, the sound of creatures who had been burned by the Plague twice before and remembered.
-
-
-The young Human behind Ajani went rigid with terror. The scorpion riders on the wall scrambled backward, their hands reaching for weapons they had not carried since the battle. The Wengari soldiers tensed, their claws half-extending, unsure whether to defend the Humans or stand aside.
-
-
-<div class="dialogue-block">
-Ajani threw himself between the Threx and the humans. His arms were spread wide, the diadem's gem blazing on his brow. <span class="speech">"THEY'RE FRIENDS! THEY'RE FRIENDS! THEY FOUGHT WITH US!"</span> His voice cracked with panic, the voice of a king who had seen too much death already and would not permit more. <span class="speech">"THE HUMANS FOUGHT ON THE WALL! THEY'RE NOT THE ENEMY! STAND DOWN!"</span>
-</div>
-
-
-The Quick hesitated. Their hissing faltered. Their raised limbs wavered. They looked at the Lament, waiting.
-
-
-<div class="dialogue-block">
-The Lament stepped forward. Its ancient, multifaceted eyes moved across Ajani's face, then across the humans behind him, then back to Ajani. When it spoke, its voice was a low, resonant hum that vibrated through the stone of the wall. <span class="speech">"These are the ones who unleashed the Plague. Our network felt it. The Deep felt it. We came to see if the White Dawn needed us. We find him shielding the enemy."</span> The Lament paused. <span class="speech">"Explain."</span>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Then without warning the lament extends a limb and touches ajanis forehead, a light passes between them then too fast for anyone to react it snaps the back of ajanis head with a force that drops him to his knees and he shouts in the common tongue "STUPID DISCIPLE I TOLD YOU TO NEVER TRY THAT RIDICULOUS IDEA OF SPIRIT SUMMONING YOU COULD HAVE DIED" everyone stares slawjacked</p>
-</div>
-
-
-The Lament's limb touched Ajani's forehead, and a pulse of light passed between them—green, ancient, the light of the Mycelial Deep. For a single, breathless moment, the Wengari on the wall and the humans on the scaffolding and the Threx at the gate all stood frozen, unsure whether this was a greeting or an attack.
-
-
-Then the Lament's other limb snapped forward and struck Ajani across the back of the head with enough force to drop him to his knees. The crack echoed across the silent wall.
-
-
-<div class="dialogue-block">
-<p class="speech-line">"STUPID DISCIPLE! I TOLD YOU TO NEVER TRY THAT RIDICULOUS IDEA OF SPIRIT SUMMONING! YOU COULD HAVE DIED!"</p>
-</div>
-
-
-Ajani's head rang. The diadem's gem flickered and steadied. Blackie and Reddy had surged forward, their tails raised, their white-lacquered stingers aimed at the Lament—and then they stopped. The voice had not been a threat. The voice had been—concerned. Angry, certainly. Furious, absolutely. But underneath the fury, there was something else. Something that sounded very much like fear.
-
-
-<div class="dialogue-block">
-<p class="speech-line">Ajani looked up from his knees. "L'vat?"</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">"OF COURSE IT'S ME! WHO ELSE WOULD CROSS A DESERT TO DISCIPLINE AN IDIOT STUDENT WHO ALMOST BURNED HIMSELF TO ASH SUMMONING SIX ELEMENTAL SPIRITS WITH NO PROPER TRAINING?!"</p>
-</div>
-
-
-Every Wengari on the wall was staring. Every human was staring. The young Human boy whom Ajani had been helping with the boulder was staring with his mouth hanging open. The scorpion riders who had been cleared by Seris's tribunal were staring. The Pyrinae engineers had stopped their work entirely. The generals—M'rak, Reva, the others—had frozen mid-step on their way to reinforce the gate.
-
-
-<div class="dialogue-block">
-<p class="speech-line">The ancient Lament, the avatar of the Mycelial Deep, the most powerful Threx anyone had ever seen, was standing over the king of the Wengari and berating him like a cub who had been caught playing with fire. Because that was exactly what had happened. Ajani slowly got to his feet. He did not try to defend himself. He knew better. "I didn't have a choice."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">"THERE IS ALWAYS A CHOICE! YOU COULD HAVE DIED! YOUR AURA WAS ALMOST DEPLETED! I FELT IT THROUGH THE NETWORK! I FELT YOU SUMMONING THE OLD NAMES! DO YOU KNOW WHAT THOSE NAMES ARE? DO YOU KNOW WHERE THEY COME FROM? NO! YOU JUST SHOUTED THEM INTO THE SKY AND HOPED SOMETHING WOULD ANSWER!"</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">"I was right, though. Something did answer. Six somethings, actually."</p>
 </div>

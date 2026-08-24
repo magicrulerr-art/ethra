@@ -1,5 +1,116 @@
 ## Chapter 4: The Road Begins
 
+And standing slightly apart, trying very hard to look formal and failing utterly, was the youngest son. Ivan. He was the same age as Kira, the same height as Kira, and the moment he saw her—a dark-furred Wengari girl with a white scorpion on her shoulder, walking through the snow like she belonged there—his pale blue eyes went very wide. His mouth opened slightly. His tail gave a single, involuntary twitch.
+
+Vanya noticed. Nadya noticed. Anastasia noticed. Nikolai noticed. No one said anything. Ivan did not stop staring.
+
+
+<div class="dialogue-block">
+Nikolai stepped forward, his voice deep and resonant, carrying the weight of five thousand years of isolation. <span class="speech">"Cefiro. You are home."</span> He looked at Kira, his pale blue eyes taking in her dark fur, her fierce expression, the practice saber still strapped to her back. <span class="speech">"And you have brought a guest. A Shadow Paw. The stories the wanderer told us were true. There are indeed more Wengari."</span>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Cefiro inclined his head. "This is Kira Brightmane. Adopted sister of Ajani Brightmane, first of his name, White Dawn, king of the Wengari. She has come to see the Ice City and to bring word of the south."</p>
+</div>
+
+
+The silence that followed was absolute. Even the wind seemed to pause. Vanya's sharp eyes widened. Nadya's fierce expression flickered with something that was not quite shock and not quite delight. Anastasia's quiet, frightening stillness deepened. Nikolai's massive frame seemed to grow even larger. Ivan was still staring at Kira and had not heard a word anyone had said.
+
+
+<div class="dialogue-block">
+<span class="speech">"He is king,"</span> Nikolai said. It was not a question. <span class="speech">"The starving boy who wandered into our city three years ago is now a king."</span> Cefiro nodded. <span class="speech">"He is not merely a king. He is a White Dawn. Convergence-born. Touched by both suns. He renewed the pact with the lord of the desert. He trained under the lord of the marsh. He freed the Pyrinae from three thousand years of vassalage. He held a tournament and put his crown on the line. He survived an assassination attempt, a coup, a coma, and a war. He summoned six elemental spirits and destroyed a Plague creature with a thunderstorm. He has united the four families under a new government. He has built offices and councils and trade routes. The Shadow Paws fight for him. The Motted Paws serve as his regent. The Stripe Paws carry his coin. The Bright Paws are learning to be strong again. And he sent me here with the royal seal and an invitation from one king to another."</span> He produced the seal from his cloak. <span class="speech">"Ajani Brightmane requests formal diplomatic relations with the Snow Paws. He wishes for the fifth family to come home."</span>
+</div>
+
+
+<div class="dialogue-block">
+Vanya broke the silence. <span class="speech"><span class="speech">"Is he married?"</span></span> Nadya shoved her sister. <span class="speech">"Vanya! He's a king! You can't just—"</span> <span class="speech">"I'm asking. It's a legitimate question."</span> She turned back to Cefiro. "Is he married?"
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Cefiro closed his eyes. "No. He is not married. He is, in fact, alarmingly single. Several individuals have attempted to rectify this. He has not noticed any of them."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Nadya's eyes blazed. "I threw snowballs at him. For a month. He didn't notice either. I thought he was just being polite. I should have thrown more snowballs."</p>
+</div>
+
+
+<div class="dialogue-block">
+Anastasia spoke for the first time. Her voice was soft and cold, like snow falling on still water. <span class="speech">"The White Dawn. The Convergence-born. The one who was promised. We have kept the old tales. We have waited for this."</span> She looked at her son. <span class="speech">"You have done well, Cefiro."</span>
+</div>
+
+
+<div class="dialogue-block">
+Nikolai stepped forward and placed one massive paw on his son's shoulder. <span class="speech">"The journey was long. The news is longer. We will speak more inside."</span> He turned to Kira, and his stern face softened almost imperceptibly. <span class="speech">"Kira Brightmane. Shadow Paw. Sister of the White Dawn. You are welcome in the Ice City. Our home is yours."</span> Kira inclined her head. <span class="speech">"Thank you, Tsar Nikolai. Ajani sends his greetings. And he says to tell Nadya she still throws like a cub."</span>
+</div>
+
+
+Nadya's delighted laughter echoed across the frozen landing platform, and somewhere in the palace, a servant began preparing rooms for guests who had come from the other side of the world.
+
+
+The dining hall of the Ice Palace was a vast chamber carved from living glacier, its walls enchanted to glow with a soft blue luminescence that cast no shadows. The table at its center was a single slab of ancient ice, polished to a mirror sheen, and the chairs were carved from the same frozen stone, their seats covered with thick furs of white bear and snow hare. The meal was a feast of northern delicacies—roasted ice fish, preserved snow berries, haunches of white bear meat, and a clear, potent liquor that the Snow Paws called Frostfire.
+
+Kira sat between Cefiro and the empty chair that Ivan had claimed the moment he entered the room, his pale blue eyes fixed on her with an intensity that was almost alarming.
+
+
+Ivan was trying very hard to get Kira to notice him. He had offered her the best cut of fish. He had refilled her cup of Frostfire before she had taken a single sip. He had asked if she was cold, if she was tired, if she needed more furs, if she wanted to see the northern lights from the observation spire, if she liked snow sculptures, if she had ever seen a white bear, if she—
+
+
+Kira did not notice any of this. Her dark eyes were fixed on Anastasia, who sat at the far end of the table with the quiet, frightening stillness of a winter storm waiting to break. Pearl was on the table beside her plate, her pale carapace gleaming in the blue luminescence. The Tsarina was examining the scorpion with the careful, appreciative gaze of a master craftswoman.
+
+
+<div class="dialogue-block">
+<span class="speech">"You're an ice smith,"</span> Kira said. It was not a question. She had been watching Anastasia since she entered the room, watching the way the Tsarina's paws moved, the way her pale blue eyes assessed everything she looked at. <span class="speech">"You enchant ice. You make things out of it."</span>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Anastasia inclined her head. "I do. The walls of this city. The gates. The weapons our warriors carry. All of it is ice. All of it is enchanted. I have been the ice smith of the Snow Paws since before you were born."</p>
+</div>
+
+
+<div class="dialogue-block">
+Kira leaned forward. <span class="speech">"My mother was an armorsmith. She made armor for the Bright Paw guards at the west wall. She died when the Fire Beetles broke through. I was six."</span> She paused. <span class="speech">"I made a belt for Ajani. Fire scarab leather. I sewed it myself. The stitching is crooked on the left side because I ran out of thread, but he still wears it."</span>
+</div>
+
+
+<div class="dialogue-block">
+Anastasia's quiet stillness deepened. <span class="speech">"You are an armorsmith's daughter. You understand that what we do is not merely craft. It is protection. We wrap our loved ones in our work, and we hope it holds."</span> She reached out and touched Pearl's pale carapace. <span class="speech">"This scorpion. She is beautiful. She carries your affection for her in every movement. You have raised her well."</span>
+</div>
+
+
+Pearl's antennae waved with what could only be described as pride. She clicked her pincers once, and her tail curled in a graceful arc, as if presenting herself for inspection.
+
+
+<div class="dialogue-block">
+Kira smiled for the first time since she entered the city. <span class="speech">"Her name is Pearl. She deflected an assassin's blade. She's the bravest of the three."</span> She paused. <span class="speech">"Blackie and Reddy are bigger. They're with Ajani. They shoot dissolving beams from their tails now. I don't think Pearl can do that yet. But she's still the bravest."</span>
+</div>
+
+
+<div class="dialogue-block">
+Across the table, Ivan was listening with the rapt attention of someone who had never heard a story like this in his life. His pale blue eyes were wide with horror and wonder and something else entirely. <span class="speech">"An assassin,"</span> he breathed. <span class="speech">"Someone tried to kill you. In your own room."</span> Kira looked at him as if noticing him for the first time. <span class="speech">"It was a Bright Paw. He was part of the Black Dawn. They think all Convergence-born are catastrophes. Blackie melted him. I watched."</span>
+</div>
+
+
+Ivan's mouth opened. It closed. It opened again. No sound came out. Nikolai watched his youngest son with the quiet, knowing expression of a father who had already begun to hear wedding bells.
+
+
+But Nikolai was also a king. A king who had just learned that his long-lost cousins were alive and thriving and led by a White Dawn who had accomplished more in a year than most monarchs did in a lifetime. A king who was itching to fight that White Dawn. He turned to Cefiro, his massive form dwarfing the chair he sat in.
+
+
+<div class="dialogue-block">
+<p class="speech-line">"Tell me about this war. The Plague War. You said the Humman king deployed weapons from Velarius. You said there was a creature. You said Ajani summoned elemental spirits and destroyed it. Tell me everything. Numbers. Tactics. Casualties. The state of the Wengari military. The strength of their walls. The loyalty of their generals. Everything a king would need to know about a potential ally."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Cefiro set down his cup of Frostfire. "The Human army marched from Verdantis. Nine hundred kilometers. A thousand scorpion riders, fifty Tide Wolf cavalry, ten Amuk war-beasts. They arrived at dawn. The capital was defended by a garrison of twenty elite soldiers and a hundred volunteers. The Woh riders reinforced at the first hour. The ghosts at the second. The shadow riders at the third. The Humman king deployed Plague weapons—suicide scorpions, purple orbs. We lost Wohs and ghosts and riders. The wall was breached. The light shield fell. The mirror array fired its last shot. The Golden Cloaks rose. The creature manifested. Ajani woke. He summoned six elemental spirits and destroyed the creature with a thunderstorm. The Humman king is dead. The city is rebuilding. The generals are loyal. The elders have been bypassed. The military is stronger than it was before the war."</p>
+</div>
+
+
 <div class="dialogue-block">
 <p class="speech-line">Nikolai listened without interruption. When Cefiro finished, the Tsar was silent for a long moment. Then he spoke, his deep voice quiet and contemplative. "I want to fight him. This White Dawn. This Ajani Brightmane. Three years ago, he was a starving boy who could not defeat my son in a sparring match. Now you tell me he is something else. Something more. I want to see it for myself."</p>
 </div>
@@ -59,7 +170,7 @@ Kira sat between Cefiro and the empty chair that Ivan had claimed the moment he 
 
 
 <div class="dialogue-block">
-<p class="speech-line">Nikolai leaned forward, his massive frame dwarfing the chair he sat in. "Tell me about this war. This Plague War. You said the Human king deployed weapons. You said there was a creature. You said Ajani summoned elemental spirits and destroyed it. Tell me everything. Numbers. Tactics. Casualties. The state of the Wengari military. Everything a king would need to know about a potential ally."</p>
+<p class="speech-line">Nikolai leaned forward, his massive frame dwarfing the chair he sat in. "Tell me about this war. This Plague War. You said the Humman king deployed weapons. You said there was a creature. You said Ajani summoned elemental spirits and destroyed it. Tell me everything. Numbers. Tactics. Casualties. The state of the Wengari military. Everything a king would need to know about a potential ally."</p>
 </div>
 
 
@@ -74,7 +185,7 @@ Kira sat between Cefiro and the empty chair that Ivan had claimed the moment he 
 
 
 <div class="dialogue-block">
-<p class="speech-line">"A war-beast. Eight-legged. Five meters tall. Tusked. The Humans use them as siege engines. They carry artillery on their backs."</p>
+<p class="speech-line">"A war-beast. Eight-legged. Five meters tall. Tusked. The Hummans use them as siege engines. They carry artillery on their backs."</p>
 </div>
 
 
@@ -137,7 +248,7 @@ Nikolai's expression darkened. The First Tyrant. The Black Fire. The reason the 
 
 
 <div class="dialogue-block">
-Cefiro paused. He was telling the story in the wrong order. <span class="speech">"The Human king—Mekhmed—deployed weapons from the Fifth Tyrant. Suicide scorpions. Purple orbs. The orbs created a net of tendrils that trapped and consumed anything they touched. The shadow riders burned through it with the Black Fire. But the Plague weapons—"</span> He stopped. <span class="speech">"The Plague is a long story. It involves the Fifth Tyrant, Velarius Vane. He poisoned the world for sixty-five years. He died five hundred years ago. The Human king somehow acquired his old weapons."</span>
+Cefiro paused. He was telling the story in the wrong order. <span class="speech">"The Humman king—Mekhmed—deployed weapons from the Fifth Tyrant. Suicide scorpions. Purple orbs. The orbs created a net of tendrils that trapped and consumed anything they touched. The shadow riders burned through it with the Black Fire. But the Plague weapons—"</span> He stopped. <span class="speech">"The Plague is a long story. It involves the Fifth Tyrant, Velarius Vane. He poisoned the world for sixty-five years. He died five hundred years ago. The Humman king somehow acquired his old weapons."</span>
 </div>
 
 
@@ -169,7 +280,7 @@ The dining hall was silent. Even the Frostfire seemed to have stopped burning. N
 
 
 <div class="dialogue-block">
-Nikolai was silent for a long moment. Then he looked at his son, and his voice was very quiet. <span class="speech">"You have been in the south for less than a month. You have learned more about our people in that time than we have learned in five thousand years. The Snow Paws have been alone in the ice, tending our own fires, telling our own stories, and the world kept turning without us. Tyrants rose and fell. Pacts were made and broken. A human nearly destroyed the Wengari, and a White Dawn saved them. And we knew nothing of any of it."</span> He rose from his chair, his massive form casting a long shadow across the frozen table. <span class="speech">"We will go south. I will bring my family. I will bring gifts. I will bring questions. And I will spar with this White Dawn. We will see if he is as strong as my son claims."</span>
+Nikolai was silent for a long moment. Then he looked at his son, and his voice was very quiet. <span class="speech">"You have been in the south for less than a month. You have learned more about our people in that time than we have learned in five thousand years. The Snow Paws have been alone in the ice, tending our own fires, telling our own stories, and the world kept turning without us. Tyrants rose and fell. Pacts were made and broken. A Humman nearly destroyed the Wengari, and a White Dawn saved them. And we knew nothing of any of it."</span> He rose from his chair, his massive form casting a long shadow across the frozen table. <span class="speech">"We will go south. I will bring my family. I will bring gifts. I will bring questions. And I will spar with this White Dawn. We will see if he is as strong as my son claims."</span>
 </div>
 
 
@@ -594,7 +705,7 @@ Cefiro was silent for a long moment. The northern lights flickered overhead, and
 
 
 <div class="dialogue-block">
-<p class="speech-line">"The lord of the desert spoke of it. The lord of the marsh spoke of it. The Dragari crossed the desert to warn him. The creature that rose in the Plague War—the shadowy figure that gave the Human king his weapons—was merely a servant. The true enemy is still out there. It has been there since before the Wengari walked the desert. It has destroyed civilizations. It has been waiting. And Ajani is building a coalition to fight it. He does not yet know this. He thinks he is building a road. He is building an army."</p>
+<p class="speech-line">"The lord of the desert spoke of it. The lord of the marsh spoke of it. The Dragari crossed the desert to warn him. The creature that rose in the Plague War—the shadowy figure that gave the Humman king his weapons—was merely a servant. The true enemy is still out there. It has been there since before the Wengari walked the desert. It has destroyed civilizations. It has been waiting. And Ajani is building a coalition to fight it. He does not yet know this. He thinks he is building a road. He is building an army."</p>
 </div>
 
 
@@ -1049,49 +1160,19 @@ The commotion brought everyone to the wall. M'rak and Reva and Zephyr and Yvaria
 On the third week after the Plague War, Styxian welcomed what would be called the Meeting of the World. The Threx had returned. The Veylar had arrived. The Snow Paws had come home. And Ajani Brightmane, first of his name, White Dawn, king of the Wengari, stood on the broken wall of his shattered capital and watched his coalition take shape.
 
 
-The chapter's core achievement is that it answers the question the Great War posed: what happens after the victory? The war was seven hours of desperate, grinding defense. The three weeks that follow are a slow, deliberate unfurling of consequence across every dimension of the world we built. Political. Institutional. Diplomatic. Personal. Cosmic. The chapter moves through all of these registers without losing coherence because each scene is anchored to a specific character's perspective and a specific consequence of the war.
 
 
 
-The Sultan's arrival and Seris's interrogation are the political capstone of the Human arc. Salahim came with backdated documents and a pre-prepared narrative, and Seris dismantled it because she knows her own people's machinery better than any Wengari could. Her question—"If you are truly sorry, why did you not chase after Mekhmed?"—is the blade that cuts through the paper shield. The Verdantis council scene confirms that the Human intelligence network is still alive and still fast, but also that the Humans are genuinely afraid.
+
+The Sultan's arrival and Seris's interrogation are the political capstone of the Humman arc. Salahim came with backdated documents and a pre-prepared narrative, and Seris dismantled it because she knows her own people's machinery better than any Wengari could. Her question—"If you are truly sorry, why did you not chase after Mekhmed?"—is the blade that cuts through the paper shield. The Verdantis council scene confirms that the Humman intelligence network is still alive and still fast, but also that the Hummans are genuinely afraid.
 
 They are not plotting revenge; they are calculating survival. The legion preparing to march on Verdantis is the shadow that makes their calculations urgent.
 
 
-<div class="dialogue-block">
-The Shadow Office is the institutional payoff for the Council of the Untrustworthy. Vasha has been waiting for this since the day Ajani created the Council, and her recommendations—staff, funding, legal authority—are coldly practical and entirely in character. Ajani's refusal to grant unlimited detainment authority is the right check on her power, and his distinction between <span class="speech">"credible threat"</span> and <span class="speech">"critical threat"</span> is the kind of precise thinking that separates a competent king from a tyrant. The elders' reaction—fear, resignation, the dawning realization that they are becoming obsolete—is the quiet death of the old order.
-</div>
-
-
-The Threx visit is the emotional heart of the chapter. L'vat's arrival, his fury, his fear, his pride—all of it is the voice of a teacher who nearly lost his student and crossed a desert to tell him so. The Quick in the market, enchanted by baubles, embracing a merchant, being followed by children—these are images of pure, uncomplicated joy that the story has earned through seven hours of unrelenting darkness.
-
-The smallest Quick asking to stay, and L'vat's gentle refusal, is a small, perfect beat. And the trade route with Korr—the first permanent link between the desert and the marsh—is the practical fulfillment of the pact Ajani made with the Deep.
-
-
-The Veylar scene is the diplomatic surprise the chapter needed. The Shell-Singer arrived to threaten war and was overruled in real time by her own Council. The deep voice speaking through the Petal-Shell, the announcement of the queen's imminent arrival, Ajani's immediate pivot to asking about trade for the Resonant Network—this is the White Dawn thinking like a king, not a warrior. The dispatch of the shadow riders and the ghosts to escort the queen is the right response, and it sets up the next major diplomatic event.
 
 
 
-The Tree and the Deep's conversation is the cosmic anchor. Two ancient powers, neighbors for millions of years, speaking for the first time because a young king built a road. The shared memory of the shadow that passed over the desert before the Wengari walked—the flowers withering, the sand blackening—confirms that the entity in the belt is older than everything. And the Tree's final line—"Perhaps that will be enough"—is the closest thing to hope an ancient predator has ever expressed.
 
-
-The Cefiro and Kira journey is the chapter's secret weapon. It accomplishes three things simultaneously. First, it gives us the Snow Paw culture in full—the Ice City, the royal family, the ice weapons, the rite of passage, the isolation that has preserved them for five thousand years. Second, it deepens Kira's character through her training, her navigation, her defense of Ajani's honor. Third, it sets up the political and personal stakes for the Snow Paws' return.
-
-Nikolai is a king assessing a potential ally. Anastasia is a mother planning a wedding. Ivan is a boy who has just met the most terrifying and magnificent person he has ever encountered. Vanya wants to fight everyone. Nadya wants to marry Ajani. The family dynamics are distinct and lively, and they make the Snow Paws feel like real people rather than a plot device.
-
-
-The lore drops in this chapter are the densest we have attempted, and they all land because they are delivered through character interaction rather than exposition. The ice weapons are revealed through Vanya's demonstration. The Snow Paw history is revealed through Nikolai's interrogation of Cefiro. The rite of passage is revealed through Ivan's exclusion. The snow wurms are revealed through Kira's curiosity and Nikolai's pride.
-
-Each piece of lore is attached to a character moment, which makes it feel organic rather than informative.
-
-
-The chapter's only structural weakness is that it is dense. Three weeks of political, institutional, diplomatic, personal, and cosmic events compressed into a relatively short span of prose. Each scene earns its place, but the reader is asked to absorb a great deal. The humor—L'vat smacking Ajani, the Quick and the baubles, Cefiro getting lost and Kira yelling at him, Ivan's hopeless crush, the entire Silverpelt family's reaction to the five-day journey revelation—provides necessary relief, but the pace is relentless.
-
-
-
-The Meeting of the World at the chapter's close is the right visual and thematic capstone. Three delegations arriving simultaneously from three different directions, each one representing a different alliance Ajani has forged. The Threx from the marsh. The Veylar from the sea. The Snow Paws from the ice. The shadow riders and the fire feet and the snow wurms and the ghosts all converging on the broken wall of the capital.
-
-This is the coalition taking physical form. This is the answer to the question the Great War posed: what did the city survive for? It survived for this.
 
 
 <div class="dialogue-block">
@@ -1131,41 +1212,7 @@ Nikolai threw back his head and laughed—a great, booming roar of delight that 
 </div>
 
 
-**Feedback on the Combat Choreography**
 
-
-**The Halberd User (Nikolai)**
-
-
-The halberd is a polearm with reach, leverage, and versatility. Nikolai used it correctly. His opening strike was a downward chop—the standard opening for a polearm user against a shorter weapon, using gravity and reach to overwhelm the opponent's guard. Ajani's spear met it, which is the correct response from a spear user. The ground fractured under Ajani's paws, which tells us Nikolai's strength is immense.
-
-
-Nikolai then pulled the halberd back for a second strike. Ajani dismissed his spear, causing Nikolai to pull through empty air. This is the correct reaction from Nikolai—he was committed to the pull, expecting resistance, and the sudden absence of it threw him off balance for a heartbeat. A halberd is heavy; a missed pull disrupts the user's center of gravity. Nikolai recovered instantly and thrust forward—correct, because a thrust is the fastest follow-up, using the halberd's reach to keep the opponent at distance.
-
-
-
-When Ajani dodged sideways, Nikolai switched to a wide sweep. This is correct—a sweep converts the forward momentum of the thrust into a lateral arc, covering the space the opponent dodged into. Ajani jumped over it. Nikolai then thrust upward, changing direction quickly. This is the mark of an expert halberd user—the ability to redirect the weapon's momentum mid-swing, exploiting the fact that a jumping opponent cannot change direction in the air.
-
-
-The final exchange—Ajani parrying the upward thrust with his staff, driving the halberd down, and landing on the shaft—is the correct conclusion. A halberd's weakness is that once the blade is committed to a strike, especially a heavy upward thrust that meets unexpected resistance, it takes a moment to recover. Ajani exploited that moment by closing the distance and pinning the weapon. Nikolai's surprise was genuine—he had not expected the weapon switch to the staff, nor the speed of the counter.
-
-
-
-**The Four Pillars User (Ajani)**
-
-
-Ajani's weapon switches were correct for the Four Pillars philosophy. The spear is the king—long-reaching, authoritative, used to meet the initial charge and match reach. He dismissed it when the halberd pulled back, which is the correct tactical choice: rather than being pulled off balance himself, he vanished the resistance entirely, using the halberd's own momentum against Nikolai. This is the Four Pillars at its highest level—not merely switching weapons, but using the absence of a weapon as a tool.
-
-
-
-The dodge was correct—a sideways evasion against a thrusting weapon. The jump over the sweep was correct—a halberd sweep covers a wide arc, and going over it is one of the few effective responses. The staff parry was correct—the grandfather is the defensive pillar, and using it to block an upward thrust and convert the parry into an upward leap was a master-level application of the form. The ji descent was correct—the ji is the weapon of the Deep, the form Ajani has not fully mastered but has learned to trust, and using it to pin the halberd and close the fight was the right finale.
-
-
-
-**The Verdict**
-
-
-The choreography respects the strengths and weaknesses of both weapons. The halberd has reach, power, and versatility, but it is heavy and requires commitment to each strike. The Four Pillars have adaptability, speed, and the ability to change range and angle at will, but each switch costs concentration and aura. Nikolai used his reach and power to control the engagement. Ajani used his adaptability and speed to disrupt Nikolai's control and close the distance.
 
 The final exchange—staff parry into ji descent—was the correct resolution. The halberd user was beaten by an opponent who could change weapons faster than the halberd could change direction. That is the Four Pillars philosophy in its purest form.
 
@@ -1219,125 +1266,4 @@ Pearl launched herself from Kira's shoulder and landed on Blackie's back, her pa
 
 <div class="dialogue-block">
 <p class="speech-line">"That does not make my statement less true!"</p>
-</div>
-
-
-Nikolai watched the exchange with the carefully impassive face of a king who was assessing information. *That's an incomplete form,* he thought. *The ji—the weapon he used to best me—is an incomplete form. He defeated me with a technique he has not yet mastered.* His stern face betrayed nothing. But his pale blue eyes flickered with something that was not quite alarm and not quite admiration.
-
-
-Vanya and Nadya had descended from the snow wurm and were standing at the edge of the celebration, their pale blue eyes fixed on Ajani with expressions that were not remotely subtle. Vanya's gaze was assessing—she had just watched a king defeat her father with an incomplete form, and she was recalculating everything she had assumed about the southern Wengari. Nadya's gaze was something else entirely.
-
-
-<div class="dialogue-block">
-<p class="speech-line">"He's taller than I remembered," <span class="speech-attr">Nadya said quietly.</span></p>
-</div>
-
-
-<div class="dialogue-block">
-<span class="speech">"You threw snowballs at him for a month,"</span> Vanya said. <span class="speech">"He probably doesn't remember you."</span>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">"He'll remember me. I'll make sure of it."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Yvaria had recovered from her missed lunge and was advancing on Ajani with the determined stride of someone who had been publicly humiliated and was not going to let it stand. "Your Highness! You dodged! I crossed the desert for the queen's escort and then flew back ahead of the delegation to see you and you—you—you sent your scorpions after your sister instead!"</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">"I haven't seen Kira in weeks. You've been gone for three days."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">"Three days is an eternity! I am your personal nurse! I am your—"</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">"You appointed yourself my personal nurse. While I was unconscious. I didn't get a vote."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Lira had materialized at Ajani's other side, her lacquered claws gleaming, her dark eyes fixed on Yvaria with the cold, patient hatred of someone who had been competing for the king's attention and was not about to lose ground. "The king is unharmed. The king does not need a nurse. The king needs a guard. I am his guard."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">"You were his guard before the war and you let a stranger walk past you into his chambers."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Lira's claws half-extended. "The stranger was a Dragari. No one could have stopped him. Not even you."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Ajani closed his eyes. "They're arguing again."</p>
-</div>
-
-
-<div class="dialogue-block">
-<span class="speech">"They've been arguing since you were unconscious,"</span> Sylva said, appearing at his side with the quiet, patient grace of a regent who had been managing crises all morning. <span class="speech">"It has become a routine. They argue about who should stand where. They argue about who should bring you tea. They argue about who should escort you to the wall. Yesterday they argued about which of them Blackie likes more. Blackie likes neither of them. Blackie tolerates them because you do."</span>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Ajani looked at his regent. "How long until the delegations are settled?"</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">"The Pyrinae have offered their district for the Veylar queen's retinue. The Stripe Paws have cleared the eastern caravan grounds for the Snow Paws. The Threx have requested permission to stay in the market district, near the bauble stalls. The Quick have already found the same merchant who sold them jewelry during their last visit. She is weeping. I do not know if it is joy or despair."</p>
-</div>
-
-
-<div class="dialogue-block">
-<span class="speech">"She's probably calculating the profit margins,"</span> Ajani said. <span class="speech">"That's what Korr would do."</span>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">"Korr is already negotiating with the Threx for wood and herbs. He has not stopped smiling since the caravan arrived. It is unsettling."</p>
-</div>
-
-
-Ajani looked out at the chaotic, joyful, utterly unprecedented scene before him. The Snow Paws were dismounting from their wurms. The Veylar queen was being helped from her coral palanquin. The Threx Quick were already following the Bright Paw priests toward the market. Zephyr's shadow riders were being greeted by the elite unit. The ghosts were circling overhead, their drums beating a rhythm of welcome.
-
-Kira was sitting between Blackie and Reddy, Pearl on her shoulder, telling them about the Ice City while Ivan stood nearby, trying very hard to look casual and failing utterly. Nikolai was speaking with M'rak and Reva, his massive form towering over the southern generals, his pale blue eyes taking in every detail of the wall, the soldiers, the city. Anastasia was examining the Pyrinae rune-glass with the quiet, frightening attention of a master craftswoman.
-
-Vanya was already asking Zephyr about the shadow riders. Nadya was staring at Ajani with the focused intensity of someone who had been planning this moment for three years.
-
-
-And L'vat was still critiquing his form.
-
-
-<div class="dialogue-block">
-<p class="speech-line">"You should have dodged faster! The halberd's upward thrust was telegraphed! I saw it from the gate! And the ji—the ji, Ajani! You promised me you would not summon the ji until you had completed the spear training!"</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">"I didn't promise. I said I would consider it."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">"That is not the same thing!"</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">"I know. That's why I said it."</p>
-</div>
-
-
-<div class="dialogue-block">
-Sylva watched the exchange with the patient, ancient eyes of a regent who had long ago accepted that her king was a chaos magnet and there was nothing she could do about it. <span class="speech">"The Meeting of the World,"</span> she said quietly. <span class="speech">"They will write songs about this day."</span>
 </div>
