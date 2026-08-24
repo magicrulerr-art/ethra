@@ -78,7 +78,7 @@ Bestiary plan). Coordinate data lives at `static/data/map-coordinates.json`.
 
 | Chapter | Title | Status | Canonical filename | Bytes | Locked |
 |---------|-------|--------|--------------------|-------|--------|
-| arc3-01 | (TBD) | 🟡 pre-Mare history | `chapter-arc3-01-v2.png` | — | 2026-06-16 |
+| arc3-01 | The Arena | 🟡 pending v4 (doctrine reforge of gorilla-musculature v2; sundown answer, lean king frontal, Seris back-view; v3 rejected for STYX text label; awaiting Ainz verdict; site serves v4) | `chapter-arc3-01-v4.png` | 6,514,097 | **2026-08-24** |
 | arc3-02 | (TBD) | 🟡 pre-Mare history | `chapter-arc3-02.png` | — | 2026-06-16 |
 | arc3-03 | The Fire Feet | 🟡 pending v4 (doctrine reforge of two-tails v3; lone king on dais, green claw-fire, one tail, back view; awaiting Ainz verdict; site serves v4) | `chapter-arc3-03-v4.png` | 7,305,842 | **2026-08-24** |
 | arc3-04 | (TBD) | 🟡 pre-Mare history | `chapter-arc3-04.png` | — | 2026-06-16 |
