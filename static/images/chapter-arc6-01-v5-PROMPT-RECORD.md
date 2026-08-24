@@ -18,5 +18,7 @@ historical record. Chapter 2 "Rebuilding" forge may now begin.
 
 Same turn: Ainz-sama approved the arc typography+accent idea on the
 condition that EVERY arc receives its own identity (consistency
-ruling). Implemented site-wide in `static/css/ethra_core.css` as the
-ARC IDENTITIES block (six hands / six hues) — see memory/2026-08-24.md.
+ruling). CORRECTION (same turn): the identity belongs to the TEXT, not
+the books — shelf stays uniform leather+gold. Final scope: chapter
+heads, illuminated opening letter, chapter rail, scene stars per arc
+(`#arc-panel-N` vars in `static/css/ethra_core.css`, css v28).
