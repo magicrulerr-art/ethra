@@ -88,7 +88,7 @@ Bestiary plan). Coordinate data lives at `static/data/map-coordinates.json`.
 
 | Chapter | Title | Status | Canonical filename | Bytes | Locked |
 |---------|-------|--------|--------------------|-------|--------|
-| arc4-01 | Bureaucracy | ✅ LOCKED v2 | `chapter-arc4-01-v2.png` | — | 2026-06 |
+| arc4-01 | Bureaucracy | 🟡 pending v6 (doctrine reforge of wolf-pup v2; throne duo from behind, empty hall; v3-v5 rejected: human elders / quadruped Sylva; awaiting Ainz verdict; site serves v6) | `chapter-arc4-01-v6.png` | 7,357,449 | **2026-08-24** |
 | arc4-02 | The Caravans | ✅ LOCKED v1 | `chapter-arc4-02.png` | — | 2026-06 |
 | arc4-03 | The Pyrinae Accord | ✅ LOCKED v1 | `chapter-arc4-03.png` | — | 2026-06 |
 | arc4-04 | The Humman Delegation | ✅ LOCKED v2 | `chapter-arc4-04-v2.png` | — | 2026-06 |
