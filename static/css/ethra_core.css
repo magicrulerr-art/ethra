@@ -485,9 +485,9 @@ body::before {
     linear-gradient(160deg, #6b4a2a 0%, #5d4022 45%, #4a3118 100%);
   border: 1px solid rgba(18,10,4,0.9);
   border-radius: 5px 8px 7px 5px / 7px 6px 8px 5px;
-  color: #c9a059;
+  color: var(--arc-accent, #c9a059);
   cursor: pointer;
-  font-family: 'Uncial Antiqua', var(--font-heading);
+  font-family: var(--arc-head, 'Uncial Antiqua', var(--font-heading));
   box-shadow:
     inset 0 0 12px rgba(0,0,0,0.55),
     inset 3px 0 4px rgba(0,0,0,0.35),
@@ -507,14 +507,14 @@ body::before {
 .arc-tab::before { top: 9px; }
 .arc-tab::after { bottom: 9px; }
 .arc-tab:hover {
-  color: var(--steadfast);
+  color: var(--arc-bright, var(--steadfast));
   transform: translateY(-8px);
   box-shadow: inset 2px 0 3px rgba(255,230,170,0.10), inset -3px 0 5px rgba(0,0,0,0.6), 0 10px 18px rgba(0,0,0,0.6);
 }
 .arc-tab.active {
-  color: #f0d080;
+  color: var(--arc-bright, #f0d080);
   transform: translateY(-12px);
-  box-shadow: inset 2px 0 3px rgba(255,230,170,0.12), inset -3px 0 5px rgba(0,0,0,0.5), 0 0 18px var(--steadfast-glow), 0 12px 20px rgba(0,0,0,0.6);
+  box-shadow: inset 2px 0 3px rgba(255,230,170,0.12), inset -3px 0 5px rgba(0,0,0,0.5), 0 0 18px var(--arc-glow, var(--steadfast-glow)), 0 12px 20px rgba(0,0,0,0.6);
 }
 /* each volume keeps its own height, lean and leather tone */
 .arc-tab[data-arc="1"] { height: 176px; transform: rotate(0.5deg); }
@@ -523,6 +523,16 @@ body::before {
 .arc-tab[data-arc="4"] { height: 166px; transform: rotate(-0.5deg); filter: brightness(1.05); }
 .arc-tab[data-arc="5"] { height: 174px; width: 56px; transform: rotate(0.8deg); filter: hue-rotate(4deg); }
 .arc-tab[data-arc="6"] { height: 158px; transform: rotate(-1.1deg); filter: brightness(0.92); }
+/* ════════════════ ARC IDENTITIES — typography + accents (2026-08-24) ════════════════
+   each volume owns a hand and an accent drawn from its own narrative:
+   I dawn-gold uncial · II council-green Cinzel · III arena-ember Almendra
+   IV rune-glass teal Caudex · V war-crimson blackletter · VI road-ice stone */
+.arc-tab[data-arc="1"], #arc-panel-1 { --arc-accent:#c9a059; --arc-bright:#f0d080; --arc-glow:rgba(201,160,89,0.55); --arc-silk-a:#4a3210; --arc-silk-b:#8a6a2a; --arc-silk-m:#a07828; --arc-line:rgba(201,160,89,0.35); --arc-head:'Uncial Antiqua', serif; }
+.arc-tab[data-arc="2"], #arc-panel-2 { --arc-accent:#8ac88a; --arc-bright:#c0e8c0; --arc-glow:rgba(138,200,138,0.5); --arc-silk-a:#14301c; --arc-silk-b:#2a5a3a; --arc-silk-m:#3a7a4a; --arc-line:rgba(138,200,138,0.35); --arc-head:'Cinzel', serif; }
+.arc-tab[data-arc="3"], #arc-panel-3 { --arc-accent:#cd7f4a; --arc-bright:#f0b888; --arc-glow:rgba(205,127,74,0.5); --arc-silk-a:#4a2008; --arc-silk-b:#7a3a1a; --arc-silk-m:#a05020; --arc-line:rgba(205,127,74,0.35); --arc-head:'Almendra', serif; }
+.arc-tab[data-arc="4"], #arc-panel-4 { --arc-accent:#3aa6a6; --arc-bright:#8ad8d8; --arc-glow:rgba(58,166,166,0.5); --arc-silk-a:#0a332e; --arc-silk-b:#1a5a52; --arc-silk-m:#2a7a72; --arc-line:rgba(58,166,166,0.35); --arc-head:'Caudex', serif; }
+.arc-tab[data-arc="5"], #arc-panel-5 { --arc-accent:#c05050; --arc-bright:#f0a0a0; --arc-glow:rgba(192,80,80,0.55); --arc-silk-a:#401010; --arc-silk-b:#7a1f1f; --arc-silk-m:#8a2a2a; --arc-line:rgba(192,80,80,0.35); --arc-head:'Grenze Gotisch', serif; }
+.arc-tab[data-arc="6"], #arc-panel-6 { --arc-accent:#9db8cc; --arc-bright:#d0e4f0; --arc-glow:rgba(157,184,204,0.5); --arc-silk-a:#1a2a3a; --arc-silk-b:#3a5a74; --arc-silk-m:#4a6a84; --arc-line:rgba(157,184,204,0.35); --arc-head:'Metamorphous', serif; }
 .spine-arc {
   writing-mode: horizontal-tb;
   font-size: 0.72rem;
@@ -644,7 +654,7 @@ body::before {
   top: 7px;
   width: 24px;
   height: 11px;
-  background: linear-gradient(180deg, #7a1f1f, #8a2a2a 45%, #5a1515);
+  background: linear-gradient(180deg, var(--arc-silk-b, #7a1f1f), var(--arc-silk-m, #8a2a2a) 45%, var(--arc-silk-a, #5a1515));
   clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%, 6px 50%);
   box-shadow: 1px 3px 5px rgba(0,0,0,0.55);
   z-index: 5;
@@ -708,20 +718,20 @@ body::before {
   gap: 2px 6px;
   padding: 8px 6px 8px;
   margin: 0 0 20px;
-  border-bottom: 1px solid rgba(201,160,89,0.28);
+  border-bottom: 1px solid var(--arc-line, rgba(201,160,89,0.28));
   position: sticky;
   top: 0;
   z-index: 6;
   background: linear-gradient(180deg, rgba(10,22,40,0.94) 0%, rgba(10,22,40,0.86) 100%);
 }
-/* the rail's small gold heading */
+/* the rail's small heading — each volume names its chapters in its own hand */
 .chapter-subnav::before {
   content: 'Chapters';
-  font-family: 'IM Fell English Small Caps', 'IM Fell English', var(--font-body);
+  font-family: var(--arc-head, 'IM Fell English Small Caps', 'IM Fell English', var(--font-body));
   font-size: 0.72rem;
   letter-spacing: 0.18em;
   text-transform: lowercase;
-  color: var(--steadfast-dim);
+  color: var(--arc-accent, var(--steadfast-dim));
   margin-right: 10px;
   padding-left: 2px;
 }
@@ -756,7 +766,7 @@ body::before {
   white-space: nowrap;
   padding: 5px 14px;
   background: rgba(10,22,40,0.94);
-  border: 1px solid rgba(201,160,89,0.35);
+  border: 1px solid var(--arc-line, rgba(201,160,89,0.35));
   border-radius: 4px;
   color: #e8d8b0;
   font-family: 'IM Fell English', var(--font-body);
@@ -771,11 +781,11 @@ body::before {
   .chapter-tab:hover::after { opacity: 1; translate: -50% 0; }
 }
 .chapter-tab:focus-visible::after { opacity: 1; translate: -50% 0; }
-.chapter-tab:hover { color: #f0d080; }
+.chapter-tab:hover { color: var(--arc-bright, #f0d080); }
 .chapter-tab.active {
-  color: #fff0c0;
-  border-bottom-color: var(--steadfast);
-  text-shadow: 0 0 9px rgba(240,208,128,0.85);
+  color: var(--arc-bright, #fff0c0);
+  border-bottom-color: var(--arc-accent, var(--steadfast));
+  text-shadow: 0 0 9px var(--arc-glow, rgba(240,208,128,0.85));
 }
 .chapter-content {
   grid-column: 1 / -1;
@@ -790,6 +800,12 @@ body::before {
 }
 .chapter-content .content-card p {
   margin: 0 0 1.05em;
+}
+/* arc identity: the chapter head wears the arc's hand and accent */
+#section-story .chapter-content .content-card h2 {
+  font-family: var(--arc-head, var(--font-heading));
+  color: var(--arc-accent, var(--steadfast));
+  letter-spacing: 0.05em;
 }
 /* mobile: same shelf, same left ribbon — just a smaller printing */
 @media (max-width: 980px) {
