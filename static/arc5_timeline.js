@@ -114,7 +114,11 @@
          * but the timeline med slot keeps its own versioning. Pick first
          * on-disk match in priority order. */
         function tryProbe(version, onFound, onFail) {
-          const path = '/static/images/arc5-med-' + e.id + '-' + version + '.png';
+          /* /ethra/ prefix like every other fetch: the local PrefixMiddleware
+           * strips it, and the Pages mirror bakes the art at that path. A bare
+           * /static/ probe 404s on Pages and leaves the hover bubble a black
+           * disc (Ainz-reported, 2026-08-24). */
+          const path = '/ethra/static/images/arc5-med-' + e.id + '-' + version + '.png';
           const sub = new Image();
           sub.onload = () => onFound(path, version);
           sub.onerror = () => onFail();

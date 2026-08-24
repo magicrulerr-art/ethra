@@ -4,7 +4,7 @@
     switchSection('bestiary');
     const cc = document.querySelector('#section-bestiary .content-card');
     if (!cc) return;
-    cc.innerHTML = '<div class="map-container"><img class="map-image" src="/static/images/map-supercontinent-v2.png" alt="Ethra Supercontinent Map" /><div class="dot-overlay" id="dot-overlay"></div></div>';
+    cc.innerHTML = '<div class="map-container"><img class="map-image" src="/ethra/static/images/map-supercontinent-v2.png" alt="Ethra Supercontinent Map" /><div class="dot-overlay" id="dot-overlay"></div></div>';
     const overlay = document.getElementById('dot-overlay');
     if (!overlay) return;
     

@@ -99,7 +99,7 @@ Bestiary plan). Coordinate data lives at `static/data/map-coordinates.json`.
 
 | Chapter | Title | Status | Canonical filename | Bytes | Locked |
 |---------|-------|--------|--------------------|-------|--------|
-| arc5-01 | War Drums | ✅ LOCKED v2 | `chapter-arc5-01-v2.png` | 6,845,766 | **2026-06-23** |
+| arc5-01 | War Drums | ✅ LOCKED v3 — approved by Ainz 2026-08-24 (doctrine demo; doctrine green-lit for the 13-cover reforge queue) | `chapter-arc5-01-v3.png` | 6,771,866 | **2026-08-24** |
 | arc5-02 | The First Battle | 🟡 In progress | — | — | — |
 | arc5-03 | (TBD) | ⏳ Not yet forged | — | — | — |
 | arc5-04 | (TBD) | ⏳ Not yet forged | — | — | — |
@@ -111,7 +111,7 @@ Bestiary plan). Coordinate data lives at `static/data/map-coordinates.json`.
 ### Emblematic medallion slots (Arc 5 timeline UI)
 | Slot | Ch | Mirror | Canonical version |
 |------|----|----|----|
-| 05:25 | arc5-ch01 | `arc5-med-arc5-ch01-v1.png` | v2 (canonical via priority) |
+| 05:25 | arc5-ch01 | `arc5-med-arc5-ch01-v3.png` | v3 LOCKED (mirror of locked cover; probe priority picks v3) |
 | 08:15 | arc5-ch05 | `arc5-med-arc5-ch05-v2.png` | v2 LOCKED |
 | 09:45 | arc5-ch11 | `arc5-med-arc5-ch11-v101.png` | v101 LOCKED |
 | 12:02 | arc5-ch19 | `arc5-med-arc5-ch19-v4.png` | v4 LOCKED |
