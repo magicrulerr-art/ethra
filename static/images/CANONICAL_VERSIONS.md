@@ -8,7 +8,7 @@
 > live server 404s both). Do NOT rebuild toward v186/v190. Before any new map work,
 > re-baseline this ledger from the live state in the same turn.
 
-> Last updated: 2026-07-11
+> Last updated: 2026-08-23
 > Maintained by: Mare Bello Fiore (Guardian of the Sixth Floor)
 > Authority: this file is the single source of truth for which illustration
 > version is currently shipped as a chapter cover on the Ethra site.
@@ -116,6 +116,18 @@ Bestiary plan). Coordinate data lives at `static/data/map-coordinates.json`.
 | 09:45 | arc5-ch11 | `arc5-med-arc5-ch11-v101.png` | v101 LOCKED |
 | 12:02 | arc5-ch19 | `arc5-med-arc5-ch19-v4.png` | v4 LOCKED |
 | 12:06 | arc5-ch22 | `arc5-med-arc5-ch22-v1.png` | v1 LOCKED |
+
+## Arc 6 — Aftermath & The Road
+
+| Chapter | Title | Status | Canonical filename | Bytes | Locked |
+|---------|-------|--------|--------------------|-------|--------|
+| arc6-01 | The Cost | 🟡 FORGED v1 (pending Ainz verdict) | `chapter-arc6-01-v1.png` | 4,081,214 | forged 2026-08-23 (sha 7D457C0E…; webp+jpg derivatives shipped; sidecar `chapter-arc6-01-v1-PROMPT-RECORD.md`) |
+| arc6-02 | Rebuilding | ⏳ Not yet forged (brief anchored: throne, flaring diadem, Elyra below the dais) | — | — | — |
+| arc6-03 | The Vision | ⏳ Not yet forged (brief anchored: bronze doors closing behind Ajani + scorpions) | — | — | — |
+| arc6-04 | The Road Begins | ⏳ Not yet forged (brief anchored: Cefiro presents seal to Tsar Nikolai, Ice City; palette question open) | — | — | — |
+| arc6-05 | Epilogue | ⏳ Not yet forged (brief anchored: delegations beyond the rebuilt gate, twin suns standing arrangement) | — | — | — |
+
+Arc 6 pre-forge scrub (2026-08-23, commit 0cd5006): umbrella `chapter-06.md` + slices meta-scrubbed — Ch 4 planning-bleed stripped; Ch 1 quadruple-stacked opening drafts deduplicated (~12 KB) to the canonical flow; Seris "executed by Mekhmed" draft error corrected to canon (Lena missing). Umbrella snapshot preserved at `chapter-06.md.bak.before_pass1`.
 
 ---
 
