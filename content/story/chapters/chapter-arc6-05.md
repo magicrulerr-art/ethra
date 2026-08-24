@@ -1,121 +1,6 @@
 ## Chapter 5: Epilogue
 
 <div class="dialogue-block">
-<p class="speech-line">"He's taller than I remembered," <span class="speech-attr">Nadya said quietly.</span></p>
-</div>
-
-
-<div class="dialogue-block">
-<span class="speech">"You threw snowballs at him for a month,"</span> Vanya said. <span class="speech">"He probably doesn't remember you."</span>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">"He'll remember me. I'll make sure of it."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Yvaria had recovered from her missed lunge and was advancing on Ajani with the determined stride of someone who had been publicly humiliated and was not going to let it stand. "Your Highness! You dodged! I crossed the desert for the queen's escort and then flew back ahead of the delegation to see you and you—you—you sent your scorpions after your sister instead!"</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">"I haven't seen Kira in weeks. You've been gone for three days."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">"Three days is an eternity! I am your personal nurse! I am your—"</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">"You appointed yourself my personal nurse. While I was unconscious. I didn't get a vote."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Lira had materialized at Ajani's other side, her lacquered claws gleaming, her dark eyes fixed on Yvaria with the cold, patient hatred of someone who had been competing for the king's attention and was not about to lose ground. "The king is unharmed. The king does not need a nurse. The king needs a guard. I am his guard."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">"You were his guard before the war and you let a stranger walk past you into his chambers."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Lira's claws half-extended. "The stranger was a Dragari. No one could have stopped him. Not even you."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Ajani closed his eyes. "They're arguing again."</p>
-</div>
-
-
-<div class="dialogue-block">
-<span class="speech">"They've been arguing since you were unconscious,"</span> Sylva said, appearing at his side with the quiet, patient grace of a regent who had been managing crises all morning. <span class="speech">"It has become a routine. They argue about who should stand where. They argue about who should bring you tea. They argue about who should escort you to the wall. Yesterday they argued about which of them Blackie likes more. Blackie likes neither of them. Blackie tolerates them because you do."</span>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Ajani looked at his regent. "How long until the delegations are settled?"</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">"The Pyrinae have offered their district for the Veylar queen's retinue. The Stripe Paws have cleared the eastern caravan grounds for the Snow Paws. The Threx have requested permission to stay in the market district, near the bauble stalls. The Quick have already found the same merchant who sold them jewelry during their last visit. She is weeping. I do not know if it is joy or despair."</p>
-</div>
-
-
-<div class="dialogue-block">
-<span class="speech">"She's probably calculating the profit margins,"</span> Ajani said. <span class="speech">"That's what Korr would do."</span>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">"Korr is already negotiating with the Threx for wood and herbs. He has not stopped smiling since the caravan arrived. It is unsettling."</p>
-</div>
-
-
-Ajani looked out at the chaotic, joyful, utterly unprecedented scene before him. The Snow Paws were dismounting from their wurms. The Veylar queen was being helped from her coral palanquin. The Threx Quick were already following the Bright Paw priests toward the market. Zephyr's shadow riders were being greeted by the elite unit. The ghosts were circling overhead, their drums beating a rhythm of welcome.
-
-Kira was sitting between Blackie and Reddy, Pearl on her shoulder, telling them about the Ice City while Ivan stood nearby, trying very hard to look casual and failing utterly. Nikolai was speaking with M'rak and Reva, his massive form towering over the southern generals, his pale blue eyes taking in every detail of the wall, the soldiers, the city. Anastasia was examining the Pyrinae rune-glass with the quiet, frightening attention of a master craftswoman.
-
-Vanya was already asking Zephyr about the shadow riders. Nadya was staring at Ajani with the focused intensity of someone who had been planning this moment for three years.
-
-
-And L'vat was still critiquing his form.
-
-
-<div class="dialogue-block">
-<p class="speech-line">"You should have dodged faster! The halberd's upward thrust was telegraphed! I saw it from the gate! And the ji—the ji, Ajani! You promised me you would not summon the ji until you had completed the spear training!"</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">"I didn't promise. I said I would consider it."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">"That is not the same thing!"</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">"I know. That's why I said it."</p>
-</div>
-
-
-<div class="dialogue-block">
-Sylva watched the exchange with the patient, ancient eyes of a regent who had long ago accepted that her king was a chaos magnet and there was nothing she could do about it. <span class="speech">"The Meeting of the World,"</span> she said quietly. <span class="speech">"They will write songs about this day."</span>
-</div>
-
-
-<div class="dialogue-block">
 <p class="speech-line">"They'll write songs about the day a Tsar tried to kill me and my old teacher yelled at me in front of every delegation on the continent. That's not a song. That's a comedy."</p>
 </div>
 
@@ -264,7 +149,7 @@ The Bright Paw guards came next, forty of them, each one carrying a coffin on th
 The procession walked through the silent streets of Styxian, and wherever it passed, the city joined it.
 
 
-Wengari stepped out of their homes in black robes. Humans emerged from the Humman quarter in dark tunics. Pyrinae engineers and Stripe Paw merchants and Shadow Paw assassins and Motted Paw observers fell into step behind the coffins. No one spoke. The only sound was the slow, rhythmic tread of paws on stone, and the distant beat of the ghosts' drums high above the city—a mourning rhythm, slow and steady, the sound of grief translated into bone-vibration and wingbeat.
+Wengari stepped out of their homes in black robes. Humans emerged from the Human quarter in dark tunics. Pyrinae engineers and Stripe Paw merchants and Shadow Paw assassins and Motted Paw observers fell into step behind the coffins. No one spoke. The only sound was the slow, rhythmic tread of paws on stone, and the distant beat of the ghosts' drums high above the city—a mourning rhythm, slow and steady, the sound of grief translated into bone-vibration and wingbeat.
 
 
 Nikolai walked beside Ajani, his massive frame draped in a black robe that the servants had worked through the night to prepare. He had not known the fallen. He had not fought in the war. But he was Wengari, and the Wengari honored their dead. On Ajani's left walked the Veylar queen, her iridescent skin dimmed to a deep, mournful blue, her ancient eyes fixed forward. Her Shell-Singers walked behind her, their Petal-Shells pulsing with a soft, rhythmic light that matched the drums.
@@ -339,9 +224,8 @@ Kira marked the stone last. She was the smallest, and she had to stand on her to
 The city returned to silence. The day passed. And the memorial stood in the eastern plaza, marked by the living, waiting for the next dawn.
 
 
-*Ajani declared the day a mourning day no work, no practice, it was meant to be a say of remembrance and silence, as the procesion moved back to the palace he stopped at the memorial, he opened his finger with his claw and draw a line in the memorial then moved on, every one present did the same thing*
 
-The atrium was a thing of beauty, a temporary structure of white stone and golden rune-glass that the Pyrinae had raised in a single night. Its columns were carved with the sigils of the four families, and its domed ceiling was open to the sky, the morning sun pouring down in shafts of amber light. The banners of every allied race hung from the rafters—the golden sunburst of the Wengari, the crystalline sigil of the Pyrinae, the coiled scorpion of the Hummans, the tidal spiral of the Veylar, the mycelial web of the Threx, and now, for the first time, the frozen star of the Snow Paws.
+The atrium was a thing of beauty, a temporary structure of white stone and golden rune-glass that the Pyrinae had raised in a single night. Its columns were carved with the sigils of the four families, and its domed ceiling was open to the sky, the morning sun pouring down in shafts of amber light. The banners of every allied race hung from the rafters—the golden sunburst of the Wengari, the crystalline sigil of the Pyrinae, the coiled scorpion of the Humans, the tidal spiral of the Veylar, the mycelial web of the Threx, and now, for the first time, the frozen star of the Snow Paws.
 
 
 
@@ -614,21 +498,21 @@ Sylva stepped forward once more, her silver-chased armor gleaming in the morning
 
 
 <div class="dialogue-block">
-<p class="speech-line">"Tamsin of the Hummans, present yourself to the crown!"</p>
+<p class="speech-line">"Tamsin of the Humans, present yourself to the crown!"</p>
 </div>
 
 
-The crowd stirred. This was unexpected. The Humman general who had defected, who had ridden through her own lines with her hands raised, who had brought a hundred civilians to the wall—she was being called before the throne. The Wengari watched with curiosity. The Humman refugees watched with something closer to disbelief.
+The crowd stirred. This was unexpected. The Human general who had defected, who had ridden through her own lines with her hands raised, who had brought a hundred civilians to the wall—she was being called before the throne. The Wengari watched with curiosity. The Human refugees watched with something closer to disbelief.
 
 
-Tamsin walked through the assembled ranks. Her scarred face was set, her dark eyes forward, her back straight. She had been a general of the Humman army. She had served a king she despised. She had defected when she saw the Plague weapons fire, and she had fought alongside the Wengari ever since. She stopped before the throne and knelt. Her chains were gone, removed weeks ago, but the memory of them still lingered in the way she held her wrists.
+Tamsin walked through the assembled ranks. Her scarred face was set, her dark eyes forward, her back straight. She had been a general of the Human army. She had served a king she despised. She had defected when she saw the Plague weapons fire, and she had fought alongside the Wengari ever since. She stopped before the throne and knelt. Her chains were gone, removed weeks ago, but the memory of them still lingered in the way she held her wrists.
 
 
 Ajani looked down at her, and when he spoke, his voice was quieter than it had been for the Heavenly Generals. This was not a warrior of the Wengari. This was something rarer.
 
 
 <div class="dialogue-block">
-<p class="speech-line">"Tamsin of the Hummans. You were our enemy. You marched against us under a king who carried forbidden weapons. When you saw those weapons deployed, you did not stay silent. You did not look away. You rode through your own lines with your hands raised. You brought a hundred civilians to the wall. You led them in battle. You held the gate alongside my soldiers. You are not a Wengari. You are not bound to us by blood or by oath. And yet you fought for this city as if it were your own."</p>
+<p class="speech-line">"Tamsin of the Humans. You were our enemy. You marched against us under a king who carried forbidden weapons. When you saw those weapons deployed, you did not stay silent. You did not look away. You rode through your own lines with your hands raised. You brought a hundred civilians to the wall. You led them in battle. You held the gate alongside my soldiers. You are not a Wengari. You are not bound to us by blood or by oath. And yet you fought for this city as if it were your own."</p>
 </div>
 
 
@@ -641,7 +525,7 @@ He paused. The diadem's gem pulsed once, a slow, steady beat.
 
 
 <div class="dialogue-block">
-<p class="speech-line">The crowd erupted. It was not the thunderous roar that had greeted the Heavenly Generals—it was something more complex, something that carried the weight of old hatreds and new alliances. The Humman refugees in the plaza were weeping. The Wengari soldiers who had fought alongside Tamsin on the wall were cheering. Seris, standing near the back of the atrium, had closed her eyes, and a single tear traced a line down her dark cheek. Tamsin rose from her knees. Her scarred face was still set, but her dark eyes glistened. She saluted the throne in the Wengari fashion—claws extended, then retracted—and her voice, when she spoke, was steady. "I am not Wengari. I will never be Wengari. But I will serve this city until I die. This I swear."</p>
+<p class="speech-line">The crowd erupted. It was not the thunderous roar that had greeted the Heavenly Generals—it was something more complex, something that carried the weight of old hatreds and new alliances. The Human refugees in the plaza were weeping. The Wengari soldiers who had fought alongside Tamsin on the wall were cheering. Seris, standing near the back of the atrium, had closed her eyes, and a single tear traced a line down her dark cheek. Tamsin rose from her knees. Her scarred face was still set, but her dark eyes glistened. She saluted the throne in the Wengari fashion—claws extended, then retracted—and her voice, when she spoke, was steady. "I am not Wengari. I will never be Wengari. But I will serve this city until I die. This I swear."</p>
 </div>
 
 
@@ -654,7 +538,7 @@ Sylva stepped forward once more, a third scroll passing from her paw to Ajani's.
 
 
 <div class="dialogue-block">
-<p class="speech-line">"Tamsin of the Hummans, present yourself to the crown!"</p>
+<p class="speech-line">"Tamsin of the Humans, present yourself to the crown!"</p>
 </div>
 
 
@@ -662,11 +546,11 @@ Tamsin walked through the assembled ranks, and the crowd parted for her. She was
 
 
 <div class="dialogue-block">
-<p class="speech-line">Ajani's voice carried across the silent plaza, each word deliberate, each phrase weighted with the memory of the war. "Humman soldiers are taught to obey orders, not question them. For recognizing when an order endangers everything, and having the aplomb to oppose it. For carrying hope through the darkness. For standing her ground and fighting her own. This crown awards its highest honor ever. Rise, Tamsin, the first and only Knight of the Wengari. Rise, Tamsin of the Golden Claw!"</p>
+<p class="speech-line">Ajani's voice carried across the silent plaza, each word deliberate, each phrase weighted with the memory of the war. "Human soldiers are taught to obey orders, not question them. For recognizing when an order endangers everything, and having the aplomb to oppose it. For carrying hope through the darkness. For standing her ground and fighting her own. This crown awards its highest honor ever. Rise, Tamsin, the first and only Knight of the Wengari. Rise, Tamsin of the Golden Claw!"</p>
 </div>
 
 
-The crowd erupted. This was not the thunderous roar that had greeted the Heavenly Generals. This was something sharper, something that carried the weight of old hatreds and new alliances colliding. The Wengari soldiers who had fought alongside Tamsin on the wall were cheering. The Humman refugees in the plaza were weeping openly. Seris, standing near the back of the atrium, had her dark eyes fixed on Tamsin with an expression that was not quite pride and not quite grief.
+The crowd erupted. This was not the thunderous roar that had greeted the Heavenly Generals. This was something sharper, something that carried the weight of old hatreds and new alliances colliding. The Wengari soldiers who had fought alongside Tamsin on the wall were cheering. The Human refugees in the plaza were weeping openly. Seris, standing near the back of the atrium, had her dark eyes fixed on Tamsin with an expression that was not quite pride and not quite grief.
 
 Her people had been enemies. Her people had been broken. And now one of her own was being honored with the highest title the Wengari had ever bestowed on an outsider.
 
@@ -692,9 +576,9 @@ The elemental naming is the most brilliant stroke. Wind, Earth, Fire, Shadow. Th
 The choice to elevate M'rak with the Brightmane name is the emotional capstone of the entire ceremony. He is not blood. He is not noble. He is a soldier who held the gate. And the king has made him family. This is the most direct statement Ajani could make about what it means to be Wengari: it is not about blood. It is about what you do when the wall is breaking.
 
 
-Tamsin's proclamation is structurally distinct from the Heavenly Generals'. The first line states the problem with Humman military culture, which does the political work of distinguishing Tamsin from her former army. The next three lines name her specific virtues, and then comes the title itself. Knight of the Wengari and the Golden Claw are not elemental. They are unique. This is the highest honor the crown has ever bestowed on an outsider, and it is a challenge to the Wengari as much as it is a reward for Tamsin.
+Tamsin's proclamation is structurally distinct from the Heavenly Generals'. The first line states the problem with Human military culture, which does the political work of distinguishing Tamsin from her former army. The next three lines name her specific virtues, and then comes the title itself. Knight of the Wengari and the Golden Claw are not elemental. They are unique. This is the highest honor the crown has ever bestowed on an outsider, and it is a challenge to the Wengari as much as it is a reward for Tamsin.
 
-By elevating a Humman who defied her own king, Ajani is reminding his own people that loyalty to the crown is the highest virtue—higher than blood, higher than tradition, higher than the old hatreds.
+By elevating a Human who defied her own king, Ajani is reminding his own people that loyalty to the crown is the highest virtue—higher than blood, higher than tradition, higher than the old hatreds.
 
 
 The theatricality of the scroll is the right choice for this ceremony. The war was fought in desperation and chaos. The celebration is a performance, and Ajani understands this. He is performing the role of the king who rewards loyalty, the White Dawn who keeps his promises. The theatrics are not vanity. They are statecraft. Every elder who watches this ceremony understands that the king is demonstrating exactly how he intends to rule.
@@ -705,7 +589,7 @@ The Heavenly Generals and the Knight of the Golden Claw are the template for the
 The language of the proclamations is elevated without being archaic. It uses rhythmic repetition and concrete imagery in a way that feels like it belongs in the old tales even as it is being spoken for the first time. The balance between honoring the fallen and rewarding the living is precise; neither overshadows the other.
 
 
-Finally, the proclamations accomplish a diplomatic function. The Snow Paws are watching. The Veylar are listening through their Shell-Singers. The Threx are present. The humans are present. The titles are a message to all of them: this is how the White Dawn honors service, regardless of race or family or past allegiance. Tamsin's knighthood is an invitation and a warning. The invitation is to every other Humman who might wonder if there is a place for them in the new order.
+Finally, the proclamations accomplish a diplomatic function. The Snow Paws are watching. The Veylar are listening through their Shell-Singers. The Threx are present. The humans are present. The titles are a message to all of them: this is how the White Dawn honors service, regardless of race or family or past allegiance. Tamsin's knighthood is an invitation and a warning. The invitation is to every other Human who might wonder if there is a place for them in the new order.
 
 The warning is to every Wengari who might think the old hatreds still apply.
 
@@ -726,17 +610,17 @@ Sylva stepped forward a final time, and the scroll she placed in Ajani's paw was
 </div>
 
 
-Vasha walked forward from her place near the throne, her humorless face set, her cold eyes unreadable. She had been the spymaster who intercepted the Humman letters, the architect of the Council of the Untrustworthy, the one who had bypassed the elders and saved the city. She did not smile. She never smiled. She knelt before the throne with the stiff, formal posture of someone who had been recognized many times and had never once felt satisfaction.
+Vasha walked forward from her place near the throne, her humorless face set, her cold eyes unreadable. She had been the spymaster who intercepted the Human letters, the architect of the Council of the Untrustworthy, the one who had bypassed the elders and saved the city. She did not smile. She never smiled. She knelt before the throne with the stiff, formal posture of someone who had been recognized many times and had never once felt satisfaction.
 
 
-Mira walked forward from the Pyrinae delegation. The Sun-Walker envoy had been Nefere's right hand, the coordinator of the intelligence network that had tracked the Humman army, the one who had kept the lines of communication open between the Pyrinae and the crown. She knelt beside Vasha, her sharp merchant's eyes still assessing, still calculating, even in the moment of honor.
+Mira walked forward from the Pyrinae delegation. The Sun-Walker envoy had been Nefere's right hand, the coordinator of the intelligence network that had tracked the Human army, the one who had kept the lines of communication open between the Pyrinae and the crown. She knelt beside Vasha, her sharp merchant's eyes still assessing, still calculating, even in the moment of honor.
 
 
 Ajani looked down at them, and when he spoke, his voice was quieter than it had been for the generals. This was not a reward for martial prowess. This was something subtler, something that many in the crowd would not fully understand.
 
 
 <div class="dialogue-block">
-<span class="speech">"In the shadows, in the silence, in the places where no songs are sung and no banners fly, there are those who fight without being seen. When the Humman letters were intercepted, it was not a general who found them. It was a spymaster and an envoy. When the Council of the Untrustworthy acted, it was not a soldier who gave the order. It was the one who had built the council with her own cold hands. When the reinforcements were summoned, it was not a commander who sent word. It was the one who had kept the lines of communication open when every other channel failed."</span> He paused. <span class="speech">"The Heavenly Generals fought on the wall. The Knight of the Golden Claw fought at the gate. These two fought in the shadows. And without them, the wall would have fallen before the first Woh ever crested the ridge."</span>
+<span class="speech">"In the shadows, in the silence, in the places where no songs are sung and no banners fly, there are those who fight without being seen. When the Human letters were intercepted, it was not a general who found them. It was a spymaster and an envoy. When the Council of the Untrustworthy acted, it was not a soldier who gave the order. It was the one who had built the council with her own cold hands. When the reinforcements were summoned, it was not a commander who sent word. It was the one who had kept the lines of communication open when every other channel failed."</span> He paused. <span class="speech">"The Heavenly Generals fought on the wall. The Knight of the Golden Claw fought at the gate. These two fought in the shadows. And without them, the wall would have fallen before the first Woh ever crested the ridge."</span>
 </div>
 
 
@@ -752,7 +636,7 @@ Mira kept her face still, but her sharp merchant's eyes flickered with something
 
 
 <div class="dialogue-block">
-<p class="speech-line">"For acting when others wouldn't. For coordinating a veritable resistance against the Hummans with nothing but will and wits. This crown elevates Vasha of the Stripe Paws. From henceforth, she shall be known as Vasha Cloakfur. And it awards her the title of the All-Seeing. Rise, Vasha the All-Seeing!"</p>
+<p class="speech-line">"For acting when others wouldn't. For coordinating a veritable resistance against the Humans with nothing but will and wits. This crown elevates Vasha of the Stripe Paws. From henceforth, she shall be known as Vasha Cloakfur. And it awards her the title of the All-Seeing. Rise, Vasha the All-Seeing!"</p>
 </div>
 
 
@@ -796,12 +680,9 @@ Ajani inclined his head, and the diadem's gem pulsed once, a slow, steady beat o
 Mira stepped back into the ranks of the Pyrinae delegation, and the ceremony continued.
 
 
-<div class="dialogue-block">
-As the spirits are high a war horn sounds everyone stands to attention two cargo birds from Verdantis are seen landing just outside the gates, ajani looks at seris she dénies with her head, Ajani is about to rise when Nikolai stops him, he says <span class="speech">"Allow me nephew, it's time I stretched my legs, Nadya, Vanya, to me!! Let's go greet them properly"</span> Nikolai cracks his neck, Vanya and Anya grin and suddenly the three vanish leaving behind just snow Anastasia facepalms and so does Cefiro, she says to ajani <span class="speech">"forgive your uncle and cousins I swear they aren't always like this"</span> , Ivan quips <span class="speech">"yes the are mother"</span>, Cefiro echoes, everyone suppresses a laugh
-</div>
 
 
-The war horn's echo had barely faded when the three Snow Paws vanished. Where Nikolai, Vanya, and Nadya had stood a heartbeat before, there was only a swirl of snowflakes settling gently onto the polished stone. The crowd stared at the empty space where the Tsar and his daughters had been. The cargo birds were still descending beyond the gate, their green plumage catching the morning sun. The Humman delegation from Verdantis had arrived—unannounced, unexpected, and at the worst possible moment for anyone hoping to make a quiet entrance.
+The war horn's echo had barely faded when the three Snow Paws vanished. Where Nikolai, Vanya, and Nadya had stood a heartbeat before, there was only a swirl of snowflakes settling gently onto the polished stone. The crowd stared at the empty space where the Tsar and his daughters had been. The cargo birds were still descending beyond the gate, their green plumage catching the morning sun. The Human delegation from Verdantis had arrived—unannounced, unexpected, and at the worst possible moment for anyone hoping to make a quiet entrance.
 
 
 
@@ -829,7 +710,7 @@ A ripple of suppressed laughter ran through the assembled court. Sylva's ancient
 
 
 <div class="dialogue-block">
-<p class="speech-line">Anastasia opened her eyes. "Nikolai has been cooped up in the palace for three days. He has been very patient. He has attended every meeting. He has worn formal robes. He has made diplomatic conversation. He has not fought anyone since your spar at the gate. He is bored. The Hummans have just given him something to do. He will not kill them. Probably."</p>
+<p class="speech-line">Anastasia opened her eyes. "Nikolai has been cooped up in the palace for three days. He has been very patient. He has attended every meeting. He has worn formal robes. He has made diplomatic conversation. He has not fought anyone since your spar at the gate. He is bored. The Humans have just given him something to do. He will not kill them. Probably."</p>
 </div>
 
 
@@ -854,7 +735,7 @@ A ripple of suppressed laughter ran through the assembled court. Sylva's ancient
 
 
 <div class="dialogue-block">
-<p class="speech-line">"She is charging an unarmed Humman delegation with her father and sister."</p>
+<p class="speech-line">"She is charging an unarmed Human delegation with her father and sister."</p>
 </div>
 
 
@@ -864,12 +745,12 @@ A ripple of suppressed laughter ran through the assembled court. Sylva's ancient
 
 
 <div class="dialogue-block">
-<p class="speech-line">Ajani pressed his paw to his face. The diadem's gem pulsed once, a slow, steady beat. Somewhere beyond the gate, three Snow Paws were descending on a delegation of Humman merchants who had just flown across the desert expecting a diplomatic reception. The Heavenly Generals were watching with expressions that ranged from concern to barely concealed delight. Kira was grinning openly. "I like your uncle. He's very dramatic."</p>
+<p class="speech-line">Ajani pressed his paw to his face. The diadem's gem pulsed once, a slow, steady beat. Somewhere beyond the gate, three Snow Paws were descending on a delegation of Human merchants who had just flown across the desert expecting a diplomatic reception. The Heavenly Generals were watching with expressions that ranged from concern to barely concealed delight. Kira was grinning openly. "I like your uncle. He's very dramatic."</p>
 </div>
 
 
 <div class="dialogue-block">
-<p class="speech-line">"He's going to give the Hummans a heart attack."</p>
+<p class="speech-line">"He's going to give the Humans a heart attack."</p>
 </div>
 
 
@@ -883,7 +764,7 @@ A ripple of suppressed laughter ran through the assembled court. Sylva's ancient
 </div>
 
 
-Salahim, Sultan of the Hummans, had prepared for many things. He had prepared for hostility. He had prepared for cold formality. He had prepared for the possibility that he would not be permitted to enter the city at all. He had come with only two honor guards, as a gesture of trust, and he had ordered the cargo birds to land well before the gate, as a gesture of deference. He had done everything correctly.
+Salahim, Sultan of the Humans, had prepared for many things. He had prepared for hostility. He had prepared for cold formality. He had prepared for the possibility that he would not be permitted to enter the city at all. He had come with only two honor guards, as a gesture of trust, and he had ordered the cargo birds to land well before the gate, as a gesture of deference. He had done everything correctly.
 
 
 He had not prepared for Nikolai Silverpelt.
@@ -937,12 +818,12 @@ Nikolai let out a low, rumbling chuckle. <span class="speech">"My daughters. One
 </div>
 
 
-Vanya and Nadya fell into step behind their father, and the three Snow Paws escorted the Humman delegation through the northern gate. The cargo birds followed, their green plumage ruffling in the desert wind, their pilots glancing nervously at the massive white Wengari who had appeared out of nowhere like a ghost from the frozen north. The Sultan walked with his back straight and his face composed, but his heart was pounding.
+Vanya and Nadya fell into step behind their father, and the three Snow Paws escorted the Human delegation through the northern gate. The cargo birds followed, their green plumage ruffling in the desert wind, their pilots glancing nervously at the massive white Wengari who had appeared out of nowhere like a ghost from the frozen north. The Sultan walked with his back straight and his face composed, but his heart was pounding.
 
 He had expected hostility. He had not expected to be greeted by a family of giants who had been missing for five thousand years and seemed to find the entire situation mildly amusing. This was going to be a very long afternoon.
 
 
-Nikolai let out a great, billowing roar and swung his halberd in a wide, lazy arc—the gesture of a warrior who had been waiting for something to do and was finally, gloriously, about to do it. The Humman honor guards flinched. The cargo birds screeched. Salahim closed his eyes and prepared for death.
+Nikolai let out a great, billowing roar and swung his halberd in a wide, lazy arc—the gesture of a warrior who had been waiting for something to do and was finally, gloriously, about to do it. The Human honor guards flinched. The cargo birds screeched. Salahim closed his eyes and prepared for death.
 
 
 Then Nikolai stopped.
@@ -993,7 +874,7 @@ Salahim felt the warmth spreading through his own robes. His eyes were still clo
 
 
 <div class="dialogue-block">
-<span class="speech">"It's coming from the gate,"</span> Ivan said helpfully. <span class="speech">"I think one of the Hummans had an accident."</span>
+<span class="speech">"It's coming from the gate,"</span> Ivan said helpfully. <span class="speech">"I think one of the Humans had an accident."</span>
 </div>
 
 
@@ -1011,7 +892,7 @@ Pearl clicked her pincers once. Remembered.
 
 
 <div class="dialogue-block">
-At the gate, Nikolai lowered his halberd entirely. His fighting spirit was gone. His desire to intimidate the Humman delegation had evaporated. He looked at the young honor guard, who was trembling so violently that his armor was rattling, and then he looked at Salahim, who had still not opened his eyes. <span class="speech">"Your man has soiled himself,"</span> Nikolai said. <span class="speech">"I do not know the protocol for this. In the Ice City, we would offer him a change of clothes and never speak of it again. What do the Hummans do?"</span>
+At the gate, Nikolai lowered his halberd entirely. His fighting spirit was gone. His desire to intimidate the Human delegation had evaporated. He looked at the young honor guard, who was trembling so violently that his armor was rattling, and then he looked at Salahim, who had still not opened his eyes. <span class="speech">"Your man has soiled himself,"</span> Nikolai said. <span class="speech">"I do not know the protocol for this. In the Ice City, we would offer him a change of clothes and never speak of it again. What do the Humans do?"</span>
 </div>
 
 
@@ -1039,7 +920,7 @@ Nikolai turned. The great halberd dissolved into a swirl of snowflakes, and the 
 
 
 <div class="dialogue-block">
-<p class="speech-line">"Come, Humman. And perhaps next time, bring better guards."</p>
+<p class="speech-line">"Come, Human. And perhaps next time, bring better guards."</p>
 </div>
 
 
@@ -1114,7 +995,7 @@ Zephyr's scarred face had not changed, but his shadow wolves were making a low, 
 
 
 <div class="dialogue-block">
-<p class="speech-line">Ivan absorbed this. "That seems unfair. He was very brave to come here at all. The Hummans were our enemies. He probably thought he was going to die."</p>
+<p class="speech-line">Ivan absorbed this. "That seems unfair. He was very brave to come here at all. The Humans were our enemies. He probably thought he was going to die."</p>
 </div>
 
 
@@ -1141,13 +1022,13 @@ Pearl clicked her pincers once. Remembered. The scorpion would remember this for
 </div>
 
 
-The soiled guard would never be permitted to walk through the city in that state—not by the Wengari, who are a warrior race with strict codes of dignity, and not by the Hummans, who would be mortified to present such a figure before the White Dawn. He would have been quietly left behind at the cargo birds to clean himself up. The remaining honor guard would walk with the Sultan, and the young guard's absence would be conspicuous but unmentioned.
+The soiled guard would never be permitted to walk through the city in that state—not by the Wengari, who are a warrior race with strict codes of dignity, and not by the Humans, who would be mortified to present such a figure before the White Dawn. He would have been quietly left behind at the cargo birds to clean himself up. The remaining honor guard would walk with the Sultan, and the young guard's absence would be conspicuous but unmentioned.
 
 
 Kira and Ivan had come to the wall to watch the commotion. Nikolai, spotting them among the crowd, would have scooped them up—one under each massive arm—and carried them back toward the atrium with the same casual strength he had used to leap from the snow wurm. They would have arrived at the gate with the rest of the procession, Kira still perched on Nikolai's shoulder, Ivan tucked under his other arm, both of them thoroughly unbothered by the mode of transport.
 
 
-The four Heavenly Generals had been at the wall as well, watching the cargo birds descend. They walked back in formation behind the Snow Paws, their ceremonial armor gleaming, their expressions carefully composed. The rest of the military fell into step behind them, a slow, dignified procession escorting the Humman delegation to the throne.
+The four Heavenly Generals had been at the wall as well, watching the cargo birds descend. They walked back in formation behind the Snow Paws, their ceremonial armor gleaming, their expressions carefully composed. The rest of the military fell into step behind them, a slow, dignified procession escorting the Human delegation to the throne.
 
 
 The walk back to the atrium was long and very quiet. Nikolai led the way, his massive frame slumping more with each step, Kira still on his shoulder, Ivan still under his arm. Vanya and Nadya walked behind him, their weapons dismissed, their earlier battle-lust replaced by the glum silence of warriors who had been promised a fight and been denied. Salahim walked behind them, his one remaining honor guard at his side, the young guard's absence a silent, mortifying reminder of how the encounter had actually gone.
@@ -1160,12 +1041,12 @@ Ajani watched the procession approach from the throne, the diadem's gem pulsing 
 
 
 <div class="dialogue-block">
-<p class="speech-line">"Uncle. You were gone for quite some time. Did the Hummans give you trouble?"</p>
+<p class="speech-line">"Uncle. You were gone for quite some time. Did the Humans give you trouble?"</p>
 </div>
 
 
 <div class="dialogue-block">
-<p class="speech-line">Nikolai looked up at his nephew. His pale blue eyes were hollow. His massive shoulders were slumped. His voice, when he found it, was very quiet. "The Hummans did not give me trouble. One of the honor guards had an accident. I do not wish to discuss it further. Please receive the Sultan so I may go sit in the shade and forget this day ever happened."</p>
+<p class="speech-line">Nikolai looked up at his nephew. His pale blue eyes were hollow. His massive shoulders were slumped. His voice, when he found it, was very quiet. "The Humans did not give me trouble. One of the honor guards had an accident. I do not wish to discuss it further. Please receive the Sultan so I may go sit in the shade and forget this day ever happened."</p>
 </div>
 
 
@@ -1174,7 +1055,7 @@ Ajani watched the procession approach from the throne, the diadem's gem pulsing 
 </div>
 
 
-Ajani looked from Nikolai's defeated posture to the Sultan's carefully composed face. The Humman king was weary—not merely from the desert journey, but from the ordeal of the past few minutes, from the war, from the weight of a crown he had not wanted and a throne he had inherited from a fool. The diadem's gem pulsed once, a slow, steady beat. Then the White Dawn did something that surprised everyone present.
+Ajani looked from Nikolai's defeated posture to the Sultan's carefully composed face. The Human king was weary—not merely from the desert journey, but from the ordeal of the past few minutes, from the war, from the weight of a crown he had not wanted and a throne he had inherited from a fool. The diadem's gem pulsed once, a slow, steady beat. Then the White Dawn did something that surprised everyone present.
 
 
 He laughed. It was not the cold laugh of the throne room, nor the fierce laugh of the arena. It was the genuine, surprised laughter of a young king who had been handed a situation so absurd that there was nothing left to do but find it funny. He gestured toward a shaded alcove near the edge of the atrium, where the Pyrinae had woven a canopy of rune-glass and living vines to shield the Veylar queen from the desert heat.
@@ -1198,12 +1079,12 @@ The queen had declined to attend, and her seat remained empty, a quiet pool of c
 
 
 <div class="dialogue-block">
-<p class="speech-line">Nikolai, already trudging toward the alcove, paused and looked back over his shoulder. "You are making me share the shade with the Humman."</p>
+<p class="speech-line">Nikolai, already trudging toward the alcove, paused and looked back over his shoulder. "You are making me share the shade with the Human."</p>
 </div>
 
 
 <div class="dialogue-block">
-<p class="speech-line">"I am making you share the shade with the Sultan of the Hummans, who has come to offer reparations and who has very graciously agreed to forget whatever happened at the gate. You will sit together. You will be civil. You will drink the cold tea the Pyrinae have prepared. This is my command as your king and your nephew."</p>
+<p class="speech-line">"I am making you share the shade with the Sultan of the Humans, who has come to offer reparations and who has very graciously agreed to forget whatever happened at the gate. You will sit together. You will be civil. You will drink the cold tea the Pyrinae have prepared. This is my command as your king and your nephew."</p>
 </div>
 
 

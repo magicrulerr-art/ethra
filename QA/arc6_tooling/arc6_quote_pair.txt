@@ -1,0 +1,258 @@
+==============================================================================
+chapter-arc6-01.md
+  DQ-OPEN-ACROSS-BLANK: opened L641 still open at blank L642
+  DQ-OPEN-ACROSS-BLANK: opened L641 still open at blank L643
+  DQ-OPEN-ACROSS-BLANK: opened L645 still open at blank L647
+  DQ-OPEN-ACROSS-BLANK: opened L645 still open at blank L648
+  DQ-OPEN-ACROSS-BLANK: opened L650 still open at blank L652
+  DQ-OPEN-ACROSS-BLANK: opened L650 still open at blank L653
+  DQ-OPEN-ACROSS-BLANK: opened L655 still open at blank L657
+  DQ-OPEN-ACROSS-BLANK: opened L655 still open at blank L658
+  DQ-OPEN-ACROSS-BLANK: opened L660 still open at blank L662
+  DQ-OPEN-ACROSS-BLANK: opened L660 still open at blank L663
+  DQ-OPEN-ACROSS-BLANK: opened L665 still open at blank L667
+  DQ-OPEN-ACROSS-BLANK: opened L665 still open at blank L668
+  DQ-OPEN-ACROSS-BLANK: opened L670 still open at blank L672
+  DQ-OPEN-ACROSS-BLANK: opened L670 still open at blank L673
+  DQ-OPEN-ACROSS-BLANK: opened L675 still open at blank L677
+  DQ-OPEN-ACROSS-BLANK: opened L675 still open at blank L678
+  DQ-OPEN-ACROSS-BLANK: opened L675 still open at blank L680
+  DQ-OPEN-ACROSS-BLANK: opened L675 still open at blank L681
+  DQ-OPEN-ACROSS-BLANK: opened L675 still open at blank L683
+  DQ-OPEN-ACROSS-BLANK: opened L675 still open at blank L684
+  DQ-OPEN-ACROSS-BLANK: opened L686 still open at blank L688
+  DQ-OPEN-ACROSS-BLANK: opened L686 still open at blank L689
+  DQ-OPEN-ACROSS-BLANK: opened L691 still open at blank L693
+  DQ-OPEN-ACROSS-BLANK: opened L691 still open at blank L694
+  DQ-OPEN-ACROSS-BLANK: opened L696 still open at blank L698
+  DQ-OPEN-ACROSS-BLANK: opened L696 still open at blank L699
+  DQ-OPEN-ACROSS-BLANK: opened L701 still open at blank L703
+  DQ-OPEN-ACROSS-BLANK: opened L701 still open at blank L704
+  DQ-OPEN-ACROSS-BLANK: opened L706 still open at blank L708
+  DQ-OPEN-ACROSS-BLANK: opened L706 still open at blank L709
+  DQ-OPEN-ACROSS-BLANK: opened L711 still open at blank L713
+  DQ-OPEN-ACROSS-BLANK: opened L711 still open at blank L714
+  DQ-OPEN-ACROSS-BLANK: opened L716 still open at blank L718
+  DQ-OPEN-ACROSS-BLANK: opened L716 still open at blank L719
+  DQ-OPEN-ACROSS-BLANK: opened L721 still open at blank L723
+  DQ-OPEN-ACROSS-BLANK: opened L721 still open at blank L724
+  DQ-OPEN-ACROSS-BLANK: opened L726 still open at blank L728
+  DQ-OPEN-ACROSS-BLANK: opened L726 still open at blank L729
+  DQ-OPEN-ACROSS-BLANK: opened L731 still open at blank L733
+  DQ-OPEN-ACROSS-BLANK: opened L731 still open at blank L734
+  DQ-OPEN-ACROSS-BLANK: opened L731 still open at blank L736
+  DQ-OPEN-ACROSS-BLANK: opened L731 still open at blank L737
+  DQ-OPEN-ACROSS-BLANK: opened L731 still open at blank L739
+  DQ-OPEN-ACROSS-BLANK: opened L731 still open at blank L740
+  DQ-OPEN-ACROSS-BLANK: opened L731 still open at blank L742
+  DQ-OPEN-ACROSS-BLANK: opened L731 still open at blank L744
+  DQ-OPEN-ACROSS-BLANK: opened L731 still open at blank L745
+  DQ-OPEN-ACROSS-BLANK: opened L731 still open at blank L747
+  DQ-OPEN-ACROSS-BLANK: opened L731 still open at blank L748
+  DQ-OPEN-ACROSS-BLANK: opened L750 still open at blank L752
+  DQ-OPEN-ACROSS-BLANK: opened L750 still open at blank L753
+  DQ-OPEN-ACROSS-BLANK: opened L750 still open at blank L755
+  DQ-OPEN-ACROSS-BLANK: opened L750 still open at blank L756
+  DQ-OPEN-ACROSS-BLANK: opened L758 still open at blank L760
+  DQ-OPEN-ACROSS-BLANK: opened L758 still open at blank L761
+  DQ-OPEN-ACROSS-BLANK: opened L758 still open at blank L763
+  DQ-OPEN-ACROSS-BLANK: opened L758 still open at blank L764
+  DQ-OPEN-ACROSS-BLANK: opened L758 still open at blank L766
+  DQ-OPEN-ACROSS-BLANK: opened L758 still open at blank L768
+  DQ-OPEN-ACROSS-BLANK: opened L758 still open at blank L769
+  DQ-OPEN-ACROSS-BLANK: opened L758 still open at blank L771
+  DQ-OPEN-ACROSS-BLANK: opened L758 still open at blank L772
+  DQ-OPEN-ACROSS-BLANK: opened L758 still open at blank L774
+  DQ-OPEN-ACROSS-BLANK: opened L758 still open at blank L776
+  DQ-OPEN-ACROSS-BLANK: opened L758 still open at blank L777
+  DQ-OPEN-ACROSS-BLANK: opened L758 still open at blank L779
+  DQ-OPEN-ACROSS-BLANK: opened L758 still open at blank L780
+  DQ-OPEN-ACROSS-BLANK: opened L758 still open at blank L782
+  DQ-OPEN-ACROSS-BLANK: opened L758 still open at blank L784
+  DQ-OPEN-ACROSS-BLANK: opened L758 still open at blank L785
+  DQ-OPEN-ACROSS-BLANK: opened L758 still open at blank L787
+  DQ-OPEN-ACROSS-BLANK: opened L758 still open at blank L788
+  DQ-OPEN-ACROSS-BLANK: opened L758 still open at blank L790
+  DQ-OPEN-ACROSS-BLANK: opened L758 still open at blank L792
+  DQ-OPEN-ACROSS-BLANK: opened L758 still open at blank L793
+  DQ-OPEN-ACROSS-BLANK: opened L758 still open at blank L795
+  DQ-OPEN-ACROSS-BLANK: opened L758 still open at blank L796
+  DQ-OPEN-ACROSS-BLANK: opened L798 still open at blank L800
+  DQ-OPEN-ACROSS-BLANK: opened L798 still open at blank L801
+  DQ-OPEN-ACROSS-BLANK: opened L798 still open at blank L803
+  DQ-OPEN-ACROSS-BLANK: opened L798 still open at blank L804
+  DQ-OPEN-ACROSS-BLANK: opened L798 still open at blank L806
+  DQ-OPEN-ACROSS-BLANK: opened L798 still open at blank L808
+  DQ-OPEN-ACROSS-BLANK: opened L798 still open at blank L809
+  DQ-OPEN-ACROSS-BLANK: opened L798 still open at blank L811
+  DQ-OPEN-ACROSS-BLANK: opened L798 still open at blank L813
+  DQ-OPEN-ACROSS-BLANK: opened L798 still open at blank L814
+  DQ-OPEN-ACROSS-BLANK: opened L798 still open at blank L816
+  DQ-OPEN-ACROSS-BLANK: opened L798 still open at blank L817
+  DQ-OPEN-ACROSS-BLANK: opened L798 still open at blank L819
+  DQ-OPEN-ACROSS-BLANK: opened L798 still open at blank L821
+  DQ-OPEN-ACROSS-BLANK: opened L798 still open at blank L822
+  DQ-OPEN-ACROSS-BLANK: opened L798 still open at blank L824
+  DQ-OPEN-ACROSS-BLANK: opened L798 still open at blank L825
+  DQ-OPEN-ACROSS-BLANK: opened L798 still open at blank L827
+  DQ-OPEN-ACROSS-BLANK: opened L798 still open at blank L828
+  DQ-OPEN-ACROSS-BLANK: opened L798 still open at blank L830
+  DQ-OPEN-ACROSS-BLANK: opened L798 still open at blank L831
+  DQ-OPEN-ACROSS-BLANK: opened L833 still open at blank L835
+  DQ-OPEN-ACROSS-BLANK: opened L833 still open at blank L836
+  DQ-OPEN-ACROSS-BLANK: opened L838 still open at blank L840
+  DQ-OPEN-ACROSS-BLANK: opened L838 still open at blank L841
+  DQ-OPEN-ACROSS-BLANK: opened L843 still open at blank L845
+  DQ-OPEN-ACROSS-BLANK: opened L843 still open at blank L846
+  DQ-OPEN-ACROSS-BLANK: opened L848 still open at blank L850
+  DQ-OPEN-ACROSS-BLANK: opened L848 still open at blank L851
+  DQ-OPEN-ACROSS-BLANK: opened L848 still open at blank L853
+  DQ-OPEN-ACROSS-BLANK: opened L848 still open at blank L854
+  DQ-OPEN-ACROSS-BLANK: opened L848 still open at blank L856
+  DQ-OPEN-ACROSS-BLANK: opened L848 still open at blank L857
+  DQ-OPEN-ACROSS-BLANK: opened L848 still open at blank L859
+  DQ-OPEN-ACROSS-BLANK: opened L848 still open at blank L860
+  DQ-OPEN-ACROSS-BLANK: opened L862 still open at blank L864
+  DQ-OPEN-ACROSS-BLANK: opened L862 still open at blank L865
+  DQ-OPEN-ACROSS-BLANK: opened L867 still open at blank L869
+  DQ-OPEN-ACROSS-BLANK: opened L867 still open at blank L870
+  DQ-OPEN-ACROSS-BLANK: opened L872 still open at blank L874
+  DQ-OPEN-ACROSS-BLANK: opened L872 still open at blank L875
+  DQ-OPEN-ACROSS-BLANK: opened L877 still open at blank L879
+  DQ-OPEN-ACROSS-BLANK: opened L877 still open at blank L880
+  DQ-OPEN-ACROSS-BLANK: opened L882 still open at blank L884
+  DQ-OPEN-ACROSS-BLANK: opened L882 still open at blank L885
+  DQ-OPEN-ACROSS-BLANK: opened L887 still open at blank L889
+  DQ-OPEN-ACROSS-BLANK: opened L887 still open at blank L890
+  DQ-OPEN-ACROSS-BLANK: opened L892 still open at blank L894
+  DQ-OPEN-ACROSS-BLANK: opened L892 still open at blank L895
+  DQ-OPEN-ACROSS-BLANK: opened L892 still open at blank L897
+  DQ-OPEN-ACROSS-BLANK: opened L892 still open at blank L898
+  DQ-OPEN-ACROSS-BLANK: opened L892 still open at blank L900
+  DQ-OPEN-ACROSS-BLANK: opened L892 still open at blank L901
+  DQ-OPEN-ACROSS-BLANK: opened L892 still open at blank L903
+  DQ-OPEN-ACROSS-BLANK: opened L892 still open at blank L904
+  DQ-OPEN-ACROSS-BLANK: opened L892 still open at blank L906
+  DQ-OPEN-ACROSS-BLANK: opened L908 still open at blank L910
+  DQ-OPEN-ACROSS-BLANK: opened L908 still open at blank L911
+  DQ-OPEN-ACROSS-BLANK: opened L908 still open at blank L913
+  DQ-OPEN-ACROSS-BLANK: opened L908 still open at blank L914
+  DQ-OPEN-ACROSS-BLANK: opened L908 still open at blank L916
+  DQ-OPEN-ACROSS-BLANK: opened L908 still open at blank L917
+  DQ-OPEN-ACROSS-BLANK: opened L908 still open at blank L919
+  DQ-OPEN-ACROSS-BLANK: opened L908 still open at blank L920
+  DQ-OPEN-ACROSS-BLANK: opened L908 still open at blank L922
+  DQ-OPEN-ACROSS-BLANK: opened L908 still open at blank L923
+  DQ-OPEN-ACROSS-BLANK: opened L925 still open at blank L927
+  DQ-OPEN-ACROSS-BLANK: opened L925 still open at blank L928
+  DQ-OPEN-ACROSS-BLANK: opened L930 still open at blank L932
+  DQ-OPEN-ACROSS-BLANK: opened L930 still open at blank L933
+  DQ-OPEN-ACROSS-BLANK: opened L935 still open at blank L937
+  DQ-OPEN-ACROSS-BLANK: opened L935 still open at blank L938
+  DQ-OPEN-ACROSS-BLANK: opened L940 still open at blank L942
+  DQ-OPEN-ACROSS-BLANK: opened L940 still open at blank L943
+  DQ-OPEN-ACROSS-BLANK: opened L945 still open at blank L947
+  DQ-OPEN-ACROSS-BLANK: opened L945 still open at blank L948
+  DQ-OPEN-ACROSS-BLANK: opened L950 still open at blank L952
+  DQ-OPEN-ACROSS-BLANK: opened L950 still open at blank L953
+  DQ-OPEN-ACROSS-BLANK: opened L955 still open at blank L957
+  DQ-OPEN-ACROSS-BLANK: opened L955 still open at blank L958
+  DQ-OPEN-ACROSS-BLANK: opened L955 still open at blank L960
+  DQ-OPEN-ACROSS-BLANK: opened L955 still open at blank L961
+  DQ-OPEN-ACROSS-BLANK: opened L963 still open at blank L965
+  DQ-OPEN-ACROSS-BLANK: opened L963 still open at blank L966
+  DQ-OPEN-ACROSS-BLANK: opened L963 still open at blank L968
+  DQ-OPEN-ACROSS-BLANK: opened L963 still open at blank L969
+  DQ-OPEN-ACROSS-BLANK: opened L963 still open at blank L971
+  DQ-OPEN-ACROSS-BLANK: opened L963 still open at blank L972
+  DQ-OPEN-ACROSS-BLANK: opened L963 still open at blank L974
+  DQ-OPEN-ACROSS-BLANK: opened L963 still open at blank L975
+  DQ-OPEN-ACROSS-BLANK: opened L977 still open at blank L979
+  DQ-OPEN-ACROSS-BLANK: opened L977 still open at blank L980
+  DQ-OPEN-ACROSS-BLANK: opened L982 still open at blank L984
+  DQ-OPEN-ACROSS-BLANK: opened L982 still open at blank L985
+  DQ-OPEN-ACROSS-BLANK: opened L982 still open at blank L987
+  DQ-OPEN-ACROSS-BLANK: opened L982 still open at blank L988
+  DQ-OPEN-ACROSS-BLANK: opened L990 still open at blank L992
+  DQ-OPEN-ACROSS-BLANK: opened L990 still open at blank L993
+  DQ-OPEN-ACROSS-BLANK: opened L990 still open at blank L995
+  DQ-OPEN-ACROSS-BLANK: opened L990 still open at blank L996
+  DQ-OPEN-ACROSS-BLANK: opened L998 still open at blank L1000
+  DQ-OPEN-ACROSS-BLANK: opened L998 still open at blank L1001
+  DQ-OPEN-ACROSS-BLANK: opened L998 still open at blank L1003
+  DQ-OPEN-ACROSS-BLANK: opened L998 still open at blank L1004
+  DQ-OPEN-ACROSS-BLANK: opened L1006 still open at blank L1008
+  DQ-OPEN-ACROSS-BLANK: opened L1006 still open at blank L1009
+  DQ-OPEN-ACROSS-BLANK: opened L1011 still open at blank L1013
+  DQ-OPEN-ACROSS-BLANK: opened L1011 still open at blank L1014
+  DQ-OPEN-ACROSS-BLANK: opened L1011 still open at blank L1016
+  DQ-OPEN-ACROSS-BLANK: opened L1011 still open at blank L1017
+  DQ-OPEN-ACROSS-BLANK: opened L1019 still open at blank L1021
+  DQ-OPEN-ACROSS-BLANK: opened L1019 still open at blank L1022
+  DQ-OPEN-ACROSS-BLANK: opened L1024 still open at blank L1026
+  DQ-OPEN-ACROSS-BLANK: opened L1024 still open at blank L1027
+  DQ-OPEN-ACROSS-BLANK: opened L1029 still open at blank L1031
+  DQ-OPEN-ACROSS-BLANK: opened L1029 still open at blank L1032
+  DQ-OPEN-ACROSS-BLANK: opened L1034 still open at blank L1036
+  DQ-OPEN-ACROSS-BLANK: opened L1034 still open at blank L1037
+  DQ-OPEN-ACROSS-BLANK: opened L1034 still open at blank L1039
+  DQ-OPEN-ACROSS-BLANK: opened L1034 still open at blank L1040
+  DQ-OPEN-ACROSS-BLANK: opened L1042 still open at blank L1044
+  DQ-OPEN-ACROSS-BLANK: opened L1042 still open at blank L1045
+  DQ-UNBALANCED-AT-EOF: opened L1042
+  SQ-ODD(1) L90: Zephyr's scarred face was stone. "The shadow riders broke the Plague net. The wolves' fire burned through the tendrils. We lost no one in the charge. 
+  SQ-ODD(1) L238: M'rak nodded grimly. "Every garrison commander along the belt made the same call. The fifth and sixth legions are at the Rune-Belt outposts. They didn
+  SQ-ODD(1) L260: M'rak and Reva and Yvaria brought what they could scrounge from their personal commands—a regiment here, a contingent there—because that was all they 
+  SQ-ODD(1) L305: "I didn't know. That is not an excuse. It is the truth. I was so consumed by the weight of command—by the offices, the council, the pilgrims' road, th
+  SQ-ODD(1) L1006: "The crown can cover the repairs, Your Highness. Barely. It will require freezing all non-essential expenditures for the next six months, liquidating 
+  AST: balanced across whole file
+==============================================================================
+chapter-arc6-02.md
+  DQ: balanced across whole file
+  SQ-ODD(1) L474: Maren's stylus scratched once against her ledger. "The coin master notes that the Council's expenses for the war were significant but within acceptabl
+  SQ-ODD(1) L597: A stone shifted on the scaffolding above Ajani. It was a large block of sandstone, loosened by the Pyrinae engineers' work, and it tumbled toward the 
+  SQ-ODD(1) L696: The lead hawk began its descent. It circled once over the northern gate, its great wings back-winging to slow its approach, and then it touched down o
+  SQ-ODD(1) L892: She left the tent. The Sultan sat alone in the dim light, the backdated documents spread before him, the distant sound of the ghosts' memorial drums f
+  AST-ODD L208 (state now OPEN): *You burned yourself. You called the elements. You used the names. The old names. The names from before the pact, before the cities, before the Wengar
+  AST-OPEN-ACROSS-BLANK: opened L208 still open at blank L209
+  AST-ODD L210 (state now closed): But I am also patient. I have always been patient. Rest now. Rest, and then rise. The road still waits. The enemy still stirs. But today—today you hav
+  AST-ODD L979 (state now OPEN): *You killed the thing that came this time. That is more than anyone did before. Perhaps you will kill the next one too. The shadow you speak of—I did 
+  AST-OPEN-ACROSS-BLANK: opened L210 still open at blank L980
+  AST-ODD L981 (state now closed): The enemy is still there. It has been there since before I was. It will be there after you are gone. Unless you stop it.*
+  AST: balanced across whole file
+==============================================================================
+chapter-arc6-03.md
+  DQ: balanced across whole file
+  SQ-ODD(1) L252: "Of course I came." The Lament's multifaceted eyes blazed. "I had to convince the Deep to let me go. To let twenty Quick go. Do you know how hard that
+  SQ-ODD(1) L875: The Shadow Office is the institutional payoff for the Council of the Untrustworthy. Vasha has been waiting for this since the day Ajani created the Co
+  AST-ODD L543 (state now OPEN): The blossom stirred. The amber pool swirled. The voice of the Tree pressed against L'vat's mind—not words, not images, but the ancient, patient hunger
+  AST-OPEN-ACROSS-BLANK: opened L543 still open at blank L544
+  AST-ODD L545 (state now closed): Speak. Why do you despise the thing in the belt? I will tell you my reasons if you tell me yours.*
+  AST-ODD L556 (state now OPEN): *Before the Wengari. Before the Tyrants. Before your kind walked the March. Something passed over my desert. It withered my flowers. It blackened my s
+  AST-OPEN-ACROSS-BLANK: opened L545 still open at blank L557
+  AST-ODD L558 (state now closed): The marsh and the desert. The children of both. The White Dawn. Together. Perhaps that will be enough.*
+  AST: balanced across whole file
+==============================================================================
+chapter-arc6-04.md
+  DQ-OPEN-ACROSS-BLANK: opened L528 still open at blank L529
+  DQ: balanced across whole file
+  SQ-ODD(1) L1158: The Shadow Office is the institutional payoff for the Council of the Untrustworthy. Vasha has been waiting for this since the day Ajani created the Co
+  SQ-ODD(1) L1174: The Cefiro and Kira journey is the chapter's secret weapon. It accomplishes three things simultaneously. First, it gives us the Snow Paw culture in fu
+  AST-ODD L528 (state now OPEN): *"Most people think the saber is like a tide wolf. Fast. Hard. Destructive."* Ajani's voice echoed in her memory, the voice of her brother teaching he
+  AST-OPEN-ACROSS-BLANK: opened L528 still open at blank L529
+  AST-ODD L530 (state now closed): Annoying. Poisonous. It doesn't overwhelm. It waits. It coils. And when the moment is right—"* He had demonstrated the form, his blade flickering out 
+  AST: balanced across whole file
+==============================================================================
+chapter-arc6-05.md
+  DQ: balanced across whole file
+  SQ-ODD(1) L175: She turned a page. "The prize ceremony will follow the memorial. The four two-star generals will be honored—M'rak, Reva, Zephyr, and Yvaria. The elite
+  SQ-ODD(1) L243: She turned a page. "The prize ceremony will follow the memorial. The four two-star generals will be honored—M'rak, Reva, Zephyr, and Yvaria. The elite
+  SQ-ODD(1) L267: Wengari stepped out of their homes in black robes. Humans emerged from the Humman quarter in dark tunics. Pyrinae engineers and Stripe Paw merchants a
+  SQ-ODD(1) L295: The silence is the scene's greatest strength. The procession walks through the city without a single word, and the reader is forced to sit in that sil
+  SQ-ODD(1) L316: The ghosts' arrows have fallen, the pyre has burned, and the dawn has come. Now we move into the light.
+  SQ-ODD(1) L395: The cub who scratched the king's face in the market is now the princess of the realm. The scorpions' capes depicting their greatest triumphs—Blackie d
+  SQ-ODD(1) L526: A wave of heat washed through the atrium—not the oppressive heat of the desert sun, but the bright, fierce warmth of a hearth fire, of a forge, of the
+  SQ-ODD(1) L613: Sylva stepped forward once more, her silver-chased armor gleaming in the morning light. A second scroll passed from her paw to Ajani's, and he unfurle
+  SQ-ODD(1) L695: Tamsin's proclamation is structurally distinct from the Heavenly Generals'. The first line states the problem with Humman military culture, which does
+  SQ-ODD(1) L793: Ajani inclined his head, and the diadem's gem pulsed once, a slow, steady beat of acknowledgment. The woman who had built the mirror array in a week w
+  AST: balanced across whole file

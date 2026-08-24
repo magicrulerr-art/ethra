@@ -1,0 +1,38 @@
+### HUM VARIANTS PER CHAPTER (case-insensitive exact forms) ###
+chapter-arc1-01.md {'humman': 1}
+chapter-arc1-02.md {}
+chapter-arc1-03.md {}
+chapter-arc1-04.md {}
+chapter-arc1-05.md {'Humman': 1, 'hummans': 1}
+chapter-arc1-06.md {'Hummans': 2}
+chapter-arc2-01.md {'Humman': 3, 'Hummans': 2}
+chapter-arc2-02.md {'Humman': 1}
+chapter-arc2-03.md {'Humman': 6, 'Hummans': 4, 'humans': 1}
+chapter-arc2-04.md {'Humman': 8, 'Hummans': 13, 'human': 1, 'humman': 2, 'hummans': 2}
+chapter-arc2-05.md {'Humman': 1, 'Hummans': 2, 'human': 2, 'hummans': 1}
+chapter-arc2-06.md {'Humman': 1, 'Hummans': 5, 'human': 1}
+GRAND: {'Humman': 21, 'Hummans': 28, 'human': 4, 'humans': 1, 'humman': 3, 'hummans': 4}
+
+### KING/KING PER CHAPTER ###
+chapter-arc1-01.md King=0 king=12
+chapter-arc1-02.md King=0 king=8
+chapter-arc1-03.md King=0 king=12
+chapter-arc1-04.md King=0 king=6
+chapter-arc1-05.md King=0 king=6
+chapter-arc1-06.md King=0 king=14
+chapter-arc2-01.md King=4 king=39
+chapter-arc2-02.md King=0 king=12
+chapter-arc2-03.md King=0 king=26
+chapter-arc2-04.md King=4 king=26
+chapter-arc2-05.md King=8 king=18
+chapter-arc2-06.md King=12 king=4
+
+### REPORTED REPETITIONS ###
+arc2-03 'Bright Paw capital' (incl heading): 3
+arc2-06 'She stepped closer': 3
+arc2-06 'Sylara' (any): 10
+arc2-06 'She raised': 7
+arc2-06 'She raised the Petal-Shell': 6
+
+### 'hummans' canon check across non-arc1/2 corpus ###
+Rest of corpus: 'Humman(s)' (canon)=2013, plain 'human(s)'=-1781

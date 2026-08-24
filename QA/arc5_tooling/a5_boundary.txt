@@ -1,0 +1,95 @@
+====================================================================================================
+PART 1 — REGENERATION CONSISTENCY (rebuild splits in-memory, diff vs published)
+====================================================================================================
+  chapter-arc5-01.md       MATCH  (title=05:25 — Vasha Storms In)
+  chapter-arc5-02.md       MATCH  (title=06:55 — Sera Holds The Gate)
+  chapter-arc5-03.md       MATCH  (title=06:25 — The War Room Still Watches)
+  chapter-arc5-04.md       MATCH  (title=07:55 — The Dome Shimmers)
+  chapter-arc5-05.md       MATCH  (title=08:15 — The Second Shot)
+  chapter-arc5-06.md       MATCH  (title=08:20 — The Light Shield Falls)
+  chapter-arc5-07.md       MATCH  (title=08:40 — The Plague Comes)
+  chapter-arc5-08.md       MATCH  (title=08:45 — Scorpions Still Marching)
+  chapter-arc5-09.md       MATCH  (title=09:00 — The Truce Lasts An Hour)
+  chapter-arc5-10.md       MATCH  (title=09:30 — The Wall Breaks)
+  chapter-arc5-11.md       MATCH  (title=09:45 — The War Becomes Worse)
+  chapter-arc5-12.md       MATCH  (title=10:35 — The Wall Blanketed)
+  chapter-arc5-13.md       MATCH  (title=11:20 — The Shadow Figure Drinks)
+  chapter-arc5-14.md       MATCH  (title=11:35 — The Wall Learns Horror)
+  chapter-arc5-15.md       MATCH  (title=11:40 — M'rak Yells Clear)
+  chapter-arc5-16.md       MATCH  (title=11:50 — Vows Are Absolved)
+  chapter-arc5-17.md       MATCH  (title=11:55 — The Legend Answers)
+  chapter-arc5-18.md       MATCH  (title=11:59 — Nefere Fires)
+  chapter-arc5-19.md       MATCH  (title=12:02 — Ajani Throws The Spear)
+  chapter-arc5-20.md       MATCH  (title=12:03 — Cefiro Arrives)
+  chapter-arc5-21.md       MATCH  (title=12:05 — The Light Cage Fades)
+  chapter-arc5-22.md       MATCH  (title=12:06 — The White Dawn Wakes)
+ALL MATCH: True
+
+====================================================================================================
+PART 2 — BOUNDARY INTEGRITY (last prose line of ch N / first prose line of ch N+1)
+====================================================================================================
+--- ch 01 (chapter-arc5-01.md)
+    LAST  L410  [SENTENCE-END] Outside, the third wave was forming—four hundred scorpion riders, the last of the vanguard, the last hope of a king who had never fought a battle. The
+    FIRST L3    At 6:55, Sera held the gate.
+--- ch 02 (chapter-arc5-02.md)
+    LAST  L141  [SENTENCE-END] They rode. East, west, south—they rode toward the capital, toward the gate, toward the battle that was already raging. The Woh riders thundered across
+    FIRST L3    It was 6:25 in the morning, the seventh day of the Month of Storms, and the war room was thick with exhaustion and fear. Sylva stood at the head of th
+--- ch 03 (chapter-arc5-03.md)
+    LAST  L179  [SENTENCE-END] They hummed together, the three of them, a tiny chorus of comfort in the dim light of the royal chamber. And Kira, who had been alone for three years,
+    FIRST L3    It was 7:55 in the morning, the seventh day of the Month of Storms, and the golden dome still shimmered over the capital. The Amuk artillery had been 
+--- ch 04 (chapter-arc5-04.md)
+    LAST  L45   [SENTENCE-END] She did not say that they were following the orders of a fool. She did not need to. The war drums pounded on, low and patient and utterly without loya
+    FIRST L3    The second shot came at 8:15.
+--- ch 05 (chapter-arc5-05.md)
+    LAST  L21   [SENTENCE-END] But the wall was breaking. The Amuk fireballs had torn too many holes in the defenses. The Pyrinae sorcerers were exhausted, their rune-glass staves f
+    FIRST L3    It was 8:20 in the morning, the seventh day of the Month of Storms, in the first year of the reign of Ajani Brightmane. The light shield was gone. The
+--- ch 06 (chapter-arc5-06.md)
+    LAST  L207  [SENTENCE-END] It would be the end of everything.
+    FIRST L3    It was 8:40 in the morning, the seventh day of the Month of Storms, in the first year of the reign of Ajani Brightmane. The Plague was coming. And the
+--- ch 07 (chapter-arc5-07.md)
+    LAST  L93   [SENTENCE-END] The regent of the Wengari, who had been patient for so long, who had held the capital together through the tournament and the offices and the Golden S
+    FIRST L3    It was 8:45 in the morning. The second contingent of suicide scorpions was still marching toward the gate. The Plague mist was still rising from the g
+--- ch 08 (chapter-arc5-08.md)
+    LAST  L20   [SENTENCE-END] An old general—promoted twice in the past hour, his scarred face weary beyond measure—stood at the edge of the Humman perimeter and looked out across 
+    FIRST L4    He did not need to say who "he" was. The other soldiers within earshot nodded grimly. The truce would last an hour. Perhaps more. The Wengari would us
+--- ch 09 (chapter-arc5-09.md)
+    LAST  L37   [SENTENCE-END] It was not a scream of pain. It was a scream of recognition. The Plague was not merely a weapon. It was a living thing, and it had just been woken.
+    FIRST L3    It was 9:30 in the morning. The wall was broken. The purple mist was spreading. And the great war had just become something far worse.
+--- ch 10 (chapter-arc5-10.md)
+    LAST  L133  [SENTENCE-END] The ominous glow bathed the desert, painting the battlefield in shades of sickness and decay. The Truce was over. The Plague was still spreading. And 
+    FIRST L3    It was 9:45 in the morning, the seventh day of the Month of Storms, in the first year of the reign of Ajani Brightmane. The wall was broken. The reinf
+--- ch 11 (chapter-arc5-11.md)
+    LAST  L314  [SENTENCE-END] "The shadow riders have been spotted on the northern ridge. They will arrive within the hour." The figure stepped over Mekhmed's body and walked towar
+    FIRST L3    It was 10:35 in the morning, the seventh day of the Month of Storms, in the first year of the reign of Ajani Brightmane. The wall was blanketed in Pla
+--- ch 12 (chapter-arc5-12.md)
+    LAST  L44   [SENTENCE-END] The shadow riders reached the gate. Their flames guttered and died, leaving only the faint, flickering remnant that had carried them through the deser
+    FIRST L3    At 11:20, in the Humman camp, the shadow figure drank from the vial.
+--- ch 13 (chapter-arc5-13.md)
+    LAST  L32   [SENTENCE-END] At the wall, the black thing took shape before them: a giant eight-legged creature with purple orbs in the place where its eyes would be. M'rak asked 
+    FIRST L3    It was 11:35 in the morning, and the wall was about to learn what horror meant. The green barbs came first.
+--- ch 14 (chapter-arc5-14.md)
+    LAST  L35   [SENTENCE-END] It was 11:35 in the morning, the seventh day of the Month of Storms, in the first year of the reign of Ajani Brightmane. The wall was broken. The Wohs
+    FIRST L4    The black thing approaches slowly as if it couldn't quite control it's body, M'rak yells "ALL CANNONS FIRE!!!! FIRE THE RAY!!!! NOW!!! " all the rune 
+--- ch 15 (chapter-arc5-15.md)
+    LAST  L61   [SENTENCE-END] It was 11:40 in the morning, the seventh day of the Month of Storms, in the first year of the reign of Ajani Brightmane. The wall was broken. The defe
+    FIRST L3    At 11:50, the temple summoned Solen. On the wall, M'rak was losing minutes he did not have.
+--- ch 16 (chapter-arc5-16.md)
+    LAST  L110  [SENTENCE-END] At the wall, the creature kept advancing. Suddenly twenty light meteors fell in front of it, and then light pillars shot up to the sky. A twenty-first
+    FIRST L3    It was 11:55 in the morning, and the legend had answered.
+--- ch 17 (chapter-arc5-17.md)
+    LAST  L37   [SENTENCE-END] It was 11:55 in the morning, the seventh day of the Month of Storms, in the first year of the reign of Ajani Brightmane. The Golden Cloaks had returne
+    FIRST L4    The light walk begins to crack, then it breaks Nefere yells "FIRE" an impossibly hot beam of light cleaves trough the sand it hits the creature dead c
+--- ch 18 (chapter-arc5-18.md)
+    LAST  L115  [SENTENCE-END] Then he looked back at the creature. It was noon. He had been unconscious for three weeks. The city was in ruins. And the endless darkness that dwelle
+    FIRST L4    Ajani says "crap" and flies up in the sky the white spear in his hand then he throws it with all his might the spear divides and surrounds the creatur
+--- ch 19 (chapter-arc5-19.md)
+    LAST  L111  [SENTENCE-END] For the first time since it rose from the Humman camp, the black thing was being driven back.
+    FIRST L3    It was 12:03 in the afternoon. The city was chanting. The spirits were fighting. And Ajani, suspended between fire and ice, his aura draining into bot
+--- ch 20 (chapter-arc5-20.md)
+    LAST  L25   [SENTENCE-END] The ice Ajani, its scepter raised, froze another. The creature screamed—a sound of genuine, desperate agony, its purple eyes flickering, its wounds no
+    FIRST L3    It was 12:04 in the afternoon. The elemental avatars were giants. The city was chanting. And the White Dawn, suspended between fire and ice and light 
+--- ch 21 (chapter-arc5-21.md)
+    LAST  L37   [SENTENCE-END] And Ajani, still aloft on his golden wings, still bleeding from his nose and his shoulder and his frozen and burned and blackened flesh, reached for t
+    FIRST L4    Ajani tores a fifth page, deep gold runes adorn it and he chants visibily strained "Golden Spirit from the deep, the one who guards the gate, keeper o
+--- ch 22 (chapter-arc5-22.md)
+    LAST  L83   [SENTENCE-END] On the seventh day of the Month of Storms, in the first year of the reign of King Ajani Brightmane, the battle that would be known as the Plague War w

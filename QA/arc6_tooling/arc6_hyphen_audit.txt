@@ -1,0 +1,113 @@
+=== SPACED HYPHENS (space before/after '-') ===
+  chapter-arc6-01.md L147  'well that's understandable, he is odd' - "right, let me make the proper presenta
+  chapter-arc6-01.md L197  ow bad is the state of the north wall?" - ' cef can wait a bit '
+  chapter-arc6-01.md L313  ard them and also all of the ones here' - "The resignation is not accepted you fo
+  chapter-arc6-01.md L443  'so these are the ones' - "So you are the ones who unleashed Vela
+  chapter-arc6-01.md L485  ervice to the crown and to your people" - 'bow your head ' - "This king recognize
+  chapter-arc6-01.md L485  and to your people" - 'bow your head ' - "This king recognizes you, it takes cou
+  chapter-arc6-01.md L963  'its worse than I thought ' - "call for Maren please"
+  chapter-arc6-01.md L1042 'theyre brutes, brutes !' - "Generals I meant from Verdantis not th
+  chapter-arc6-02.md L37   'this grows tiresome' - "If someone doesn't tell me a way, I wi
+
+=== TRAILING HYPHENS (word ends with '-' and line/segment ends) ===
+
+=== UNIQUE word-word COMPOUNDS (count x locations) ===
+  x21  burn-scarred                 chapter-arc6-01.md L24, chapter-arc6-01.md L71, chapter-arc6-01.md L201
+  x14  silver-chased                chapter-arc6-01.md L24, chapter-arc6-01.md L113, chapter-arc6-01.md L247
+  x12  rune-glass                   chapter-arc6-01.md L532, chapter-arc6-01.md L572, chapter-arc6-01.md L990
+  x12  shell-singer                 chapter-arc6-03.md L602, chapter-arc6-03.md L614, chapter-arc6-03.md L622
+  x11  silver-furred                chapter-arc6-01.md L13, chapter-arc6-01.md L46, chapter-arc6-01.md L287
+  x11  two-star                     chapter-arc6-02.md L396, chapter-arc6-02.md L446, chapter-arc6-02.md L452
+  x10  thirty-five                  chapter-arc6-01.md L46, chapter-arc6-01.md L75, chapter-arc6-01.md L85
+  x10  white-lacquered              chapter-arc6-02.md L747, chapter-arc6-02.md L902, chapter-arc6-03.md L105
+  x9   forty-seven                  chapter-arc6-01.md L205, chapter-arc6-01.md L425, chapter-arc6-01.md L930
+  x9   sun-walker                   chapter-arc6-04.md L122, chapter-arc6-05.md L725, chapter-arc6-05.md L732
+  x8   half-extended                chapter-arc6-01.md L18, chapter-arc6-01.md L130, chapter-arc6-02.md L736
+  x8   rune-belt                    chapter-arc6-01.md L238, chapter-arc6-01.md L577, chapter-arc6-01.md L582
+  x7   petal-shell                  chapter-arc6-03.md L602, chapter-arc6-03.md L637, chapter-arc6-03.md L646
+  x7   shell-singers                chapter-arc6-04.md L1129, chapter-arc6-05.md L270, chapter-arc6-05.md L364
+  x6   all-seeing                   chapter-arc6-05.md L755, chapter-arc6-05.md L755, chapter-arc6-05.md L760
+  x6   long-lost                    chapter-arc6-01.md L185, chapter-arc6-04.md L83, chapter-arc6-04.md L707
+  x5   convergence-born             chapter-arc6-04.md L4, chapter-arc6-04.md L24, chapter-arc6-04.md L76
+  x4   green-flecked                chapter-arc6-01.md L967, chapter-arc6-02.md L380, chapter-arc6-03.md L677
+  x4   honor-bound                  chapter-arc6-02.md L719, chapter-arc6-02.md L782, chapter-arc6-02.md L784
+  x4   surface-dweller              chapter-arc6-03.md L637, chapter-arc6-03.md L696, chapter-arc6-04.md L1131
+  x3   half-frozen                  chapter-arc6-01.md L559, chapter-arc6-01.md L602, chapter-arc6-03.md L1082
+  x3   half-starved                 chapter-arc6-01.md L559, chapter-arc6-01.md L602, chapter-arc6-03.md L1082
+  x3   high-quality                 chapter-arc6-03.md L787, chapter-arc6-04.md L1126, chapter-arc6-05.md L190
+  x3   mid-swing                    chapter-arc6-03.md L1057, chapter-arc6-04.md L1243, chapter-arc6-05.md L951
+  x3   petal-shells                 chapter-arc6-03.md L682, chapter-arc6-05.md L270, chapter-arc6-05.md L364
+  x3   pre-prepared                 chapter-arc6-02.md L782, chapter-arc6-03.md L869, chapter-arc6-04.md L1152
+  x3   sixteen-meter                chapter-arc6-02.md L627, chapter-arc6-02.md L931, chapter-arc6-03.md L979
+  x3   sixty-five                   chapter-arc6-01.md L508, chapter-arc6-04.md L234, chapter-arc6-04.md L247
+  x3   war-beasts                   chapter-arc6-01.md L75, chapter-arc6-04.md L92, chapter-arc6-04.md L161
+  x3   year-old                     chapter-arc6-04.md L122, chapter-arc6-05.md L378, chapter-arc6-05.md L777
+  x2   bone-vibration               chapter-arc6-01.md L823, chapter-arc6-05.md L267
+  x2   co-pilot                     chapter-arc6-02.md L537, chapter-arc6-02.md L542
+  x2   cross-legged                 chapter-arc6-01.md L16, chapter-arc6-01.md L138
+  x2   dark-furred                  chapter-arc6-03.md L1124, chapter-arc6-04.md L870
+  x2   dual-bladed                  chapter-arc6-04.md L450, chapter-arc6-05.md L892
+  x2   elder-approved               chapter-arc6-01.md L262, chapter-arc6-01.md L292
+  x2   half-dead                    chapter-arc6-01.md L544, chapter-arc6-01.md L577
+  x2   half-extending               chapter-arc6-03.md L116, chapter-arc6-04.md L1118
+  x2   shell-singer's               chapter-arc6-03.md L633, chapter-arc6-03.md L672
+  x2   six-month                    chapter-arc6-04.md L816, chapter-arc6-04.md L841
+  x2   three-throne                 chapter-arc6-05.md L378, chapter-arc6-05.md L404
+  x2   twenty-five                  chapter-arc6-01.md L706, chapter-arc6-03.md L841
+  x2   white-furred                 chapter-arc6-01.md L185, chapter-arc6-03.md L1109
+  x1   back-winging                 chapter-arc6-02.md L696
+  x1   bare-chested                 chapter-arc6-02.md L592
+  x1   battle-lust                  chapter-arc6-05.md L1153
+  x1   black-mottled                chapter-arc6-01.md L185
+  x1   chest-height                 chapter-arc6-03.md L108
+  x1   counter-intelligence         chapter-arc6-02.md L1072
+  x1   court-martial                chapter-arc6-01.md L260
+  x1   court-martialed              chapter-arc6-02.md L329
+  x1   deep-watchers                chapter-arc6-04.md L1129
+  x1   dress-up                     chapter-arc6-03.md L511
+  x1   eight-legged                 chapter-arc6-04.md L171
+  x1   exposition-heavy             chapter-arc6-05.md L133
+  x1   fin-ridges                   chapter-arc6-03.md L602
+  x1   five-day                     chapter-arc6-04.md L1184
+  x1   five-meter                   chapter-arc6-04.md L196
+  x1   flicker-attuned              chapter-arc6-04.md L891
+  x1   follow-up                    chapter-arc6-04.md L1239
+  x1   full-bodied                  chapter-arc6-03.md L511
+  x1   gold-threaded                chapter-arc6-05.md L462
+  x1   half-closed                  chapter-arc6-01.md L540
+  x1   long-reaching                chapter-arc6-04.md L1253
+  x1   long-term                    chapter-arc6-02.md L1062
+  x1   master-level                 chapter-arc6-04.md L1257
+  x1   mid-step                     chapter-arc6-03.md L161
+  x1   multi-species                chapter-arc6-05.md L298
+  x1   non-essential                chapter-arc6-01.md L1006
+  x1   off-hand                     chapter-arc6-03.md L364
+  x1   one-handed                   chapter-arc6-04.md L450
+  x1   one-point                    chapter-arc6-02.md L594
+  x1   one-time                     chapter-arc6-03.md L58
+  x1   open-ended                   chapter-arc6-01.md L325
+  x1   open-mouthed                 chapter-arc6-02.md L602
+  x1   pearl-white                  chapter-arc6-03.md L602
+  x1   petal-shell's                chapter-arc6-03.md L696
+  x1   point-eight                  chapter-arc6-02.md L594
+  x1   post-war                     chapter-arc6-05.md L314
+  x1   sand-scrubbing               chapter-arc6-01.md L735
+  x1   sea-green                    chapter-arc6-03.md L602
+  x1   seventy-three                chapter-arc6-01.md L251
+  x1   short-lived                  chapter-arc6-04.md L891
+  x1   six-year                     chapter-arc6-05.md L378
+  x1   sixteen-year                 chapter-arc6-04.md L122
+  x1   snow-dusted                  chapter-arc6-04.md L645
+  x1   spider-webbing               chapter-arc6-04.md L1200
+  x1   stable-masters               chapter-arc6-01.md L607
+  x1   thirty-seven                 chapter-arc6-05.md L185
+  x1   thousand-year                chapter-arc6-05.md L777
+  x1   tide-wardens                 chapter-arc6-04.md L1129
+  x1   twenty-first                 chapter-arc6-03.md L108
+  x1   twenty-one                   chapter-arc6-03.md L108
+  x1   twenty-seven                 chapter-arc6-03.md L1121
+  x1   two-meter                    chapter-arc6-02.md L622
+  x1   two-week                     chapter-arc6-04.md L841
+  x1   war-beast                    chapter-arc6-04.md L171
+  x1   well-wishers                 chapter-arc6-03.md L773
+  x1   white-knuckled               chapter-arc6-04.md L353

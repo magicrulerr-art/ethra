@@ -1,0 +1,181 @@
+======================================================================
+chapter-arc1-01.md
+  L16   [OPEN-MID(suspect)] The arena stirs again. The Shadow Paws in the northern tiers murmur to one another. The Stripe Paws thump their tails ag
+  L26   [CUT(speech)     ] "My prince. Your father awaits you in the Chamber of Reflection, beneath the throne. He asked that you come to him befor
+  L41   [OPEN-MID(suspect)] The attendant's eyes widened. For a heartbeat, he seemed frozen—the weight of the prince's command, the sudden clarity i
+  L56   [OPEN-MID(suspect)] The attendant led Ajani through the palace corridors—wide halls of polished stone, hung with tapestries depicting the Th
+  L66   [CUT(speech)     ] "He is within, my prince. He asked that none disturb you. He asked—" The young Wengari swallowed. "He asked that you bri
+  L81   [OPEN-MID(suspect)] Not with the steady golden glow of the Bright Paw sorcery that Ajani had known since childhood, but with something older
+  L87   [OPEN-MID(suspect)] Beyond the threshold, a narrow passage descended deeper into the bedrock. The walls were lined with niches, and in each 
+  L118  [OPEN-MID(suspect)] The king regarded his son for a long moment. The faintest ghost of a smile crossed his weary face—not the smile of a kin
+  L142  [TAIL(elab)      ] He raised his right hand, and a faint, trembling light kindled in his palm—the last ember of the Lightbringer's gift, gu
+======================================================================
+chapter-arc1-02.md
+  L23   [TAIL(elab)      ] "That is how the son serves the Wengari. Not with a spear. Not with a sword. With a choice. Will you take the pact, Ajan
+  L34   [OPEN-MID(suspect)] 3. **"The white dawn" instead of "convergence-touched."** Each race has its own term for those born under both suns. For
+  L50   [OPEN-MID(suspect)] "You ask how the son can serve the Wengari. You will serve them by becoming king. And the king serves the Wengari by kee
+  L86   [OPEN-MID(suspect)] He raised his right hand, and a faint, trembling light kindled in his palm—the last ember of the Lightbringer's gift. It
+  L98   [TAIL(elab)      ] "That is how the son serves the Wengari, Ajani. Not with a spear. Not with a sword. With a choice. Will you go to the Tr
+  L108  [OPEN-MID(suspect)] Uthgard IX did not flinch at his son's outburst. He had expected it—dreaded it, rehearsed it in a thousand sleepless nig
+======================================================================
+chapter-arc1-03.md
+  L14   [OPEN-MID(suspect)] Uthgard IX, at 473 years old, is an anomaly. He has survived two full Crimson Tides—a feat almost unheard of for a Wenga
+  L52   [TAIL(elab)      ] The lamps held their silence. For a long moment, Uthgard IX simply looked at his son—not as a king regarding his heir, b
+  L96   [TAIL(elab)      ] "She was a Stripe Paw attendant. Not a warrior, not a noble, not a diplomat. She carried water to the caravans and mende
+  L112  [CUT(speech)     ] "She faded, Ajani. Slowly. Year by year. The physicians could find no disease, no poison, no cause. But I knew. The Tree
+  L128  [TAIL(elab)      ] "That is the truth of your mother, Ajani. She was not strong. She was frail. And she was the bravest soul I have ever kn
+  L136  [OPEN-MID(suspect)] "The court does not know this. The other families do not know this. They believe Layla died of a wasting sickness common
+======================================================================
+chapter-arc1-04.md
+  L16   [OPEN-MID(suspect)] He pressed his right palm against the ancient stone, and a seam of amber light traced itself along the wall—a door that 
+  L19   [OPEN-MID(suspect)] Beyond the threshold, a narrow passage descended into the bedrock. The air that rose from it was cool and dry, carrying 
+  L35   [OPEN-MID(suspect)] And then, ahead, the passage opened into a vast underground chamber. The ceiling soared into darkness. The walls were li
+  L58   [OPEN-MID(suspect)] The voice came again—but now it was not images. It was words, dragged from some ancient depth, shaped by a consciousness
+  L64   [TAIL(elab)      ] The words hung in the air, repeated back to him in a voice that was not a voice—a resonance that vibrated through the ro
+  L73   [OPEN-MID(suspect)] *"The pact was never a bargain of equals. The Lightbringer understood this. He came to me not as a servant, but as a par
+  L85   [OPEN-MID(suspect)] *"But you, Son of Layla, Chosen by the Deep—you are what the Lightbringer was. The first true White Dawn to walk this de
+  L108  [OPEN-MID(suspect)] The amber pool stilled. The green luminescence that pulsed through the roots dimmed, then brightened, then dimmed again—
+  L120  [OPEN-MID(suspect)] The roots shifted. Somewhere deep in the rock, stone ground against stone as the Tree rearranged itself, considering. Th
+  L129  [OPEN-MID(suspect)] *"The Lightbringer came to me as a partner. He offered me his life, and I took it—not as a tithe, not as a meal, but as 
+======================================================================
+chapter-arc1-05.md
+  L9    [TAIL(elab)      ] The word hung in the air, strange and unexpected. Lonely. The Kyre Tree, the ancient horror of the desert, the hunger be
+  L21   [TAIL(elab)      ] The blossom drew back, and the voice hardened—not with anger, but with the slow, grinding weight of a decision being mad
+  L27   [OPEN-MID(suspect)] The pool rippled, and the image shifted again—this time showing the Rune-Belt, its forests and grasslands, its Tide Wolv
+  L36   [OPEN-MID(suspect)] The green spear blazed in the chamber, its light not the warm gold of the Bright Paw legacy but something wilder—the dee
+  L42   [OPEN-MID(suspect)] The amber pool rippled, and in its surface, Ajani saw reflections—not of himself, but of possibilities. The Rune-Belt, i
+  L45   [TAIL(elab)      ] *"You speak of the one who dwells in the Rune-Belt—the one we do not name. The one Velarius wounded. You know of the lot
+  L54   [OPEN-MID(suspect)] The amber pool swirled, and a single root extended from the blossom—thin, delicate, almost hesitant. It touched the tip 
+  L66   [OPEN-MID(suspect)] The passage behind Ajani began to glow with a warm, golden light—the light of the Bright Paw legacy, guiding him back to
+  L75   [TAIL(elab)      ] The amber pool rippled, and a new image formed. Not a vision of the future, but a memory—one of the Tree's own memories,
+  L78   [OPEN-MID(suspect)] Ajani saw the Rune-Belt as it was millennia ago, before the Wengari, before the Bright Paws, before the pact. He saw a f
+  L81   [OPEN-MID(suspect)] *"The one you seek to broker peace with... is the one who broke the world before the Tyrants ever walked it. He is the r
+  L87   [OPEN-MID(suspect)] *"Go now. You have done what no king has done since the Lightbringer. But your greatest trial is yet to come. Someone is
+  L93   [OPEN-MID(suspect)] The Tree is not a mentor. It is not a friend. It is not even an ally in any conventional sense. It is ancient, patient, 
+  L99   [OPEN-MID(suspect)] *The green spear blazed, and the roots recoiled. Then, slowly, they leaned in once more. The amber pool rippled—not with
+  L102  [OPEN-MID(suspect)] *"You speak for the Deep. You carry its mark. You offer a road—a corridor through the Rune-Belt, where my roots have nev
+  L111  [OPEN-MID(suspect)] *A single root extended from the blossom—thin, dark, thorned. It touched the tip of Ajani's green spear, and the chamber
+======================================================================
+chapter-arc1-06.md
+  L3    [TAIL(elab)      ] *The thorned root withdrew, leaving a single drop of amber sap on the tip of the green spear—a mark, a binding, a deadli
+  L9    [TAIL(elab)      ] *The blossom began to close, its petals folding inward like a fist. The green luminescence faded. The roots withdrew int
+  L20   [OPEN-MID(suspect)] I'll take the seed and run with it. The Tree's final words are perfectly calibrated—ancient, patient, and utterly withou
+  L44   [OPEN-MID(suspect)] But before Ajani could answer, the sound came again—that roar, closer now, shaking the very walls of the palace. Uthgard
+  L52   [TAIL(elab)      ] He looked at his son—not as a king regarding his heir, but as a father seeing something impossible.
+  L64   [TAIL(elab)      ] "My king! My prince! Come quickly! The sky—the sky is full of fire!"
+  L68   [OPEN-MID(suspect)] The mist swirled at the arena's edge, thick and golden and utterly wrong—not the dry heat-haze of the desert, but someth
+  L80   [TAIL(elab)      ] It was vast—easily the size of a Lament, but where the Lament was chitin and iridescence and the memory of a person, thi
+  L89   [TAIL(elab)      ] It stopped at the edge of the arena's central sand, its massive head swiveling slowly, surveying the gathered races with
+  L92   [OPEN-MID(suspect)] Then it lifted its head and howled. The sound was not a wolf's howl. It was the sound of the desert itself—the grinding 
+  L95   [TAIL(elab)      ] It lowered its head. It bent one massive foreleg. And the Tide Wolf, the apex predator of the Rune-Belt, the creature th
+  L98   [TAIL(elab)      ] The Lament raised its arms to the sky and began to sing—a song of the Deep, of the Tree, of the road that would stretch 
+  L133  [OPEN-MID(suspect)] "The Lightbringer's fire passes from king to heir. It has done so since Uthgard the Second took up the mantle when the f
+  L137  [TAIL(elab)      ] His hand begins to glow—a soft, golden light, the last ember of the Lightbringer's gift.
+======================================================================
+chapter-arc2-01.md
+  L19   [CUT(speech)     ] "Yes, my—" He caught himself. "Yes, Ajani. I will announce you. And then I will sleep. You have my word."
+  L41   [CUT(speech)     ] "Elders of the Wengari, honored guests of the Pyrinae and the Humman delegation, I present to you Ajani Brightmane, firs
+  L68   [OPEN-MID(suspect)] "Brothers. Esteemed elders. You have summoned me—the king. Tell me in which way I can serve the Wengari."
+  L76   [CUT(speech)     ] "We have served the Wengari for five thousand years," Kareth said, his voice rough as sand. "We served the First Tyrant,
+  L84   [OPEN-MID(suspect)] "So I will ask you plainly, King Ajani, first of your name, what the other elders are too polite or too afraid to ask. W
+  L102  [OPEN-MID(suspect)] Kareth inclined his head—a gesture of respect, or at least of acknowledgment. "The king speaks plainly. That is more tha
+  L108  [TAIL(elab)      ] The Motted Paw representatives, sleek and silent, their spotted coats making them nearly invisible against the stone. An
+  L127  [OPEN-MID(suspect)] Kareth's one good eye widened. His obsidian staff, which had not wavered in decades of council meetings, trembled in his
+  L144  [OPEN-MID(suspect)] Another voice spoke—soft, almost gentle, but carrying a weight that silenced the chamber. It was the Motted Paw represen
+  L156  [TAIL(elab)      ] Nyasha regarded the young king for a long moment. Her ancient eyes, pale as moonstone, seemed to look not at Ajani but t
+  L195  [OPEN-MID(suspect)] The descent was slow. The spiral stair had been carved by the Lightbringer's own sorcery three thousand years ago, and t
+  L200  [TAIL(elab)      ] Nyasha, impossibly old, moving with the slow, deliberate grace of one who had walked these depths before—perhaps in anot
+  L209  [OPEN-MID(suspect)] The passage opened. The vast underground chamber lay before them—the roots of the Kyre Tree pulsing with pale green ligh
+  L213  [CUT(speech)     ] Then Kareth, his voice rough with awe and exhaustion, whispered: "The Lightbringer stood here. The First stood here. Eve
+  L229  [CUT(speech)     ] Kareth, the old general, the scarred Shadow Paw who had served three kings and buried two of them, was the first to spea
+  L249  [CUT(speech)     ] She turned to Ajani. "You said you were the heir of the First. But you are the heir of the Third as well. You carry his 
+  L264  [CUT(speech)     ] Zara, the Stripe Paw chief, was not so easily placated. "You say the Tree does not kill the weak. You say they die by th
+======================================================================
+chapter-arc2-02.md
+  L17   [OPEN-MID(suspect)] Kareth, the old general, took a step forward. His obsidian staff clicked against the stone, and the sound echoed like a 
+  L22   [CUT(speech)     ] Zara, the Stripe Paw chief, had not moved. Her claws were still extended, her massive frame still trembling. But her voi
+  L32   [OPEN-MID(suspect)] She turned back to Ajani, and her ancient eyes held something that might have been pride, or might have been sorrow, or 
+  L42   [CUT(speech)     ] One by one, the other chiefs and heirs bent their heads. Zara, the Stripe Paw, her claws finally retracting. The Bright 
+  L46   [TAIL(elab)      ] The amber pool rippled. The blossom stirred. The Tree was listening. And for the first time since the Lightbringer vanis
+  L68   [CUT(speech)     ] Nyasha, who had already spoken more in this chamber than she had in three decades of council meetings, raised a hand. "T
+  L95   [OPEN-MID(suspect)] "You have spoken for the Motted Paws for three decades without saying a word," Kareth said, his rough voice echoing in t
+  L117  [TAIL(elab)      ] The amber pool swirled. The roots pulsed. And then, slowly, a single petal unfurled from the blossom and drifted down to
+  L134  [OPEN-MID(suspect)] The Bright Paw heir, a young golden-maned warrior named Solen who had been Ajani's childhood rival, stepped forward with
+  L158  [OPEN-MID(suspect)] And the Tree, silent for so long, spoke—not in words, but in a pulse of green light that filled the chamber and resonate
+  L175  [OPEN-MID(suspect)] The Bright Paw heir, a young golden-maned warrior named Solen who had been Ajani's childhood rival, stepped forward with
+  L178  [OPEN-MID(suspect)] His Aura flared—bright gold, the color of his lineage—and the Tree drank. The young warrior's body convulsed as the root
+  L196  [OPEN-MID(suspect)] And then came the last of the Bright Paw elders. His name was Joren, and he was old—older than Kareth, older than Nyasha
+  L210  [OPEN-MID(suspect)] And the Tree, silent for so long, spoke—not in words, but in a pulse of green light that filled the chamber and resonate
+======================================================================
+chapter-arc2-03.md
+  L16   [TAIL(elab)      ] The chant echoed through the roots, through the stone, through the ancient heart of the Kyre Tree itself. And the Tree, 
+  L20   [CUT(speech)     ] Ajani stood at the center of the chamber, the green fire of the Deep flickering along his claws, the white feather of th
+  L36   [OPEN-MID(suspect)] The Hydromancer was silent for a long moment. Then she smiled—a thin, knowing expression that had not crossed her face i
+  L49   [TAIL(elab)      ] Seris listened. The rumble grew louder. The fire flickered. And for the first time since she had arrived in this desert 
+  L59   [OPEN-MID(suspect)] "Ajani—my king—they're here. All of them. The delegations. The Pyrinae have requested a formal audience—not as vassals, 
+  L103  [OPEN-MID(suspect)] "Ajani—my king—they're here. Delegations. The Pyrinae have requested a formal audience—not as vassals, they said, but as
+  L188  [OPEN-MID(suspect)] T'van hesitated. "The watchmen on the northern road. They saw something. Walking down from the coast. Alone. Singing. Th
+  L206  [OPEN-MID(suspect)] He hesitated at the door. "Ajani—the Threx. The small one. It's been standing at the eastern gate since dawn. It hasn't 
+  L211  [OPEN-MID(suspect)] The young priest shook his head, a faint, bewildered smile crossing his weary face. "I will tell the delegations. One by
+  L223  [OPEN-MID(suspect)] The Quick stood alone at the center of the arena, its small frame dwarfed by the vast stone tiers that had held thousand
+  L225  [OPEN-MID(suspect)] The Threx were allies in name, but the Laments were one thing—terrifying, yes, but comprehensible. This small, frightene
+  L228  [OPEN-MID(suspect)] At Ajani's approach, the Quick's head snapped up. Its eyes caught the green fire flickering along the king's claws and w
+  L239  [OPEN-MID(suspect)] The Quick flinched as Ajani reached out—an instinctive recoil, the reflex of a creature that had spent twenty-eight days
+  L256  [CUT(speech)     ] It swayed again, but this time it was not exhaustion. It was something closer to peace. "I will rest now. The pool—I wou
+  L266  [OPEN-MID(suspect)] T'van returned with the summons, his breath still short from running. "The Humman ambassador is waiting at the arena's e
+  L270  [OPEN-MID(suspect)] Ajani settled onto the throne. The cold stone was familiar now—it had been a month, and the seat had begun to mold to hi
+  L289  [OPEN-MID(suspect)] Ambassador Seris led them—a woman of middle years, her dark hair streaked with grey, her clothing practical and unadorne
+  L291  [OPEN-MID(suspect)] The green fire flared along Ajani's claws, and the air in the arena changed. It thickened. Pressed. The Humman merchants
+  L293  [OPEN-MID(suspect)] Seris held out longer. The ambassador's jaw was clenched, her eyes fixed on the young king with a defiance that was admi
+  L312  [OPEN-MID(suspect)] The Stripe Paw mercenary braced for fire. She had seen the coronation. Everyone had seen the coronation—the Four Pillars
+  L318  [OPEN-MID(suspect)] It was light. Almost gentle. A single claw, extended, resting on the joint where her shoulder met her neck. And then the
+  L323  [OPEN-MID(suspect)] The green fire pulsed once. The mercenary's legs buckled. She knelt—not in submission, not in reverence, but in the simp
+  L331  [OPEN-MID(suspect)] The Stripe Paw mercenary braced for fire. She had seen the coronation. Everyone had seen the coronation—the Four Pillars
+======================================================================
+chapter-arc2-04.md
+  L3    [TAIL(elab)      ] It was cold. Not the cold of desert night, but the cold of deep water, of ancient roots, of something that had learned p
+  L38   [TAIL(elab)      ] The Humman merchants exchanged terrified glances. The one who had fallen first—a portly man in Verdantian silks—scramble
+  L44   [OPEN-MID(suspect)] "Go," Seris said quietly to her council. "I will speak for Verdantis. The rest of you—wait outside. If the king wished y
+  L61   [OPEN-MID(suspect)] Seris recognized it. Her eyes flicked to Ajani's claws, then back to his face, and something shifted in her expression—a
+  L102  [OPEN-MID(suspect)] She gestured at the arena, at the empty tiers where the delegations had not yet gathered. "The Threx sent a Quick to spe
+  L107  [CUT(speech)     ] She spread her empty hands. "That is my offer. That is my council's offer. If you refuse it—" She swallowed. "Then I wil
+  L126  [CUT(speech)     ] "Honorary Wengari," she repeated, her voice hollow. "Our best guilds. Our most trusted aides. Sworn to you. Living in yo
+  L152  [OPEN-MID(suspect)] She turned to leave, her steps measured, her back straight—a diplomat's posture, maintained by sheer force of will. At t
+  L167  [CUT(speech)     ] "The Pyrinae delegation, my king. The Hydromancers of the Vein-Dwellers, the Sun-Walker trade envoy, and—" He hesitated,
+  L183  [OPEN-MID(suspect)] The Hydromancer stopped at the center of the sand, exactly where the Humman ambassador had knelt. She did not kneel. She
+  L192  [OPEN-MID(suspect)] The Hydromancer's clouded eyes registered the extended hand, and something ancient stirred in their depths—not quite amu
+  L201  [TAIL(elab)      ] The Hydromancer made a soft sound that might have been a laugh. "The young are so direct." She stepped forward, her embe
+  L205  [OPEN-MID(suspect)] The Root-Speaker, still cowled and silent, raised one hand. The air in the arena thickened. The green fire along Ajani's
+  L225  [CUT(speech)     ] "That was unnecessary," she said quietly. "But I understand why you did it. The Hummans needed to see strength. The Veyl
+  L235  [CUT(speech)     ] She stopped at the foot of the throne's dais, her clouded eyes level with his. "The question is not whether we will foll
+======================================================================
+chapter-arc2-05.md
+  L3    [OPEN-MID(suspect)] The Hydromancer's ancient composure did not crack. But something shifted in her clouded eyes—a flicker of recognition, p
+  L10   [CUT(speech)     ] "You are your father's son," she said quietly. "He also did not tolerate flattery. He also demanded honesty beneath the 
+  L28   [OPEN-MID(suspect)] But something shifted in her expression. The ancient composure, the patient diplomacy of centuries, the quiet certainty 
+  L33   [OPEN-MID(suspect)] She drew a slow breath, and the rune-glass filaments embedded in her flesh pulsed with amber light. "You want the truth.
+  L59   [OPEN-MID(suspect)] The Hydromancer saw the flicker of skepticism in Ajani's eyes and inclined her head. "You wonder what value our words ho
+  L103  [CUT(speech)     ] "Nefere," she said quietly. "My name is Nefere. I was a Sun-Walker once, before the Root-Speakers called me to the deep 
+  L126  [OPEN-MID(suspect)] She stepped back, her rune-glass filaments dimming. "But if you wish to honor an old woman's sentiment—see the ocean. Yo
+  L141  [OPEN-MID(suspect)] The Hydromancer inclined her head, the faintest smile touching her weathered lips. "As you command, King Ajani." She rai
+  L149  [OPEN-MID(suspect)] Nefere resumed her formal posture, her voice returning to the measured cadence of a diplomat—but softer now, edged with 
+  L161  [TAIL(elab)      ] Five cities. The abandoned Wengari settlements, scattered across the desert like bones, their wells still running, their
+  L170  [CUT(speech)     ] Nefere opened her mouth, then closed it. For the first time in a century of diplomacy, she had no words. It was the Sun-
+  L175  [CUT(speech)     ] "I heard him," Nefere said quietly. She took a step toward the throne, her clouded eyes fixed on the young king. "You of
+  L180  [CUT(speech)     ] She lowered her head. Not the formal bow of a diplomat. Not the reluctant concession of a supplicant. A slow, deliberate
+  L198  [OPEN-MID(suspect)] She walked back across the sand, her bare feet leaving faint impressions that the wind would erase within the hour. "I h
+  L203  [OPEN-MID(suspect)] She stopped at the foot of the throne's dais and raised her eyes to the king. "I am old, Ajani Brightmane. I have perhap
+======================================================================
+chapter-arc2-06.md
+  L3    [OPEN-MID(suspect)] T'van appeared at the arena's edge, his breath short, his shaved mane slick with sweat. He had been running since dawn—c
+  L7    [CUT(speech)     ] "The Veylar delegation, my king. A single Shell-Singer. She arrived at the eastern gate this morning and has been waitin
+  L44   [TAIL(elab)      ] Sylara inclined her head. Her fin-ridges rippled faintly, tasting the air, reading the currents of heat and pressure tha
+  L62   [OPEN-MID(suspect)] Sylara was silent for a long moment. The Petal-Shell in her hands pulsed with a slow, rhythmic light, matching the stead
+  L74   [CUT(speech)     ] She took a step closer, her webbed feet leaving faint impressions in the sand. "The Veylar do not seek help. We have nev
+  L79   [OPEN-MID(suspect)] She raised the Petal-Shell, and its light brightened until it cast shimmering reflections across the stone tiers. "The V
+  L107  [OPEN-MID(suspect)] She raised the Petal-Shell, and the sphere of water still hovering before the throne began to pulse in rhythm with its l
+  L115  [TAIL(elab)      ] Sylara's fin-ridges rippled, and her iridescent skin dimmed to a deep, contemplative blue. "The Veylar do not spit on fr
+  L165  [OPEN-MID(suspect)] Sylara blinked. The iridescent shimmer of her skin, which had flared silver with defiance moments before, rippled throug
+  L179  [OPEN-MID(suspect)] She extended her webbed hand once more, and the sphere of water that had hovered between them pulsed once, twice, then s
+  L189  [CUT(speech)     ] Sylara's fin-ridges flared, then settled, then flared again in a rapid sequence that might have been the Veylar equivale
+  L197  [OPEN-MID(suspect)] She raised the Petal-Shell, and its light pulsed once, twice, then steadied. "Send your envoys. Send your guards. The Ti

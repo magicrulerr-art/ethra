@@ -1,0 +1,724 @@
+================================================================================
+chapter-arc6-01.md
+----------------------------------------------------------------------
+L123-123 (1 lines) DRAFT-BEAT Next scene beats >...Lira speaks angrily
+  L123  <p class="speech-line">Next scene beats >When all have said their piece Lira speaks angrily pointing at Cefiro "OKAY I CANT HANDLE IT ANYMORE WHO IS HE AND HOW 
+----------------------------------------------------------------------
+L197-197 (1 lines) DRAFT-LINE Ajani 'well now that's out of the way...' (J2-style reword? NO: E1 rewrite)
+  L197  <p class="speech-line">"well now that's out of the way, I need the talky, M'rak, that's your name right ? How many did we loss ? How many wengari, resident humm
+----------------------------------------------------------------------
+L313-313 (1 lines) DRAFT-HYBRID 'hmm the council worked as designed...'
+  L313  <p class="speech-line">'hmm the council worked as designed I'll need to reward them and also all of the ones here' - "The resignation is not accepted you fought
+----------------------------------------------------------------------
+L439-439 (1 lines) DRAFT-BEAT *The next scene is a couple of hours after ajani...*
+  L439  *The next scene is a couple of hours after ajani is sitting on the throne now, healers still checking him all over black fire and red fire have comfortably sett
+----------------------------------------------------------------------
+L443-443 (1 lines) DRAFT-HYBRID 'so these are the ones'
+  L443  <p class="speech-line">'so these are the ones' - "So you are the ones who unleashed Velarius madness upon the world ?, Ambassador tell me what would the humman 
+----------------------------------------------------------------------
+L485-485 (1 lines) DRAFT-LINE 'Ambassador these are your people...'
+  L485  <span class="speech">"Ambassador these are your people, deal with them as you see fit, I don't want more blood in my city, General Tamsin, you provided a great 
+----------------------------------------------------------------------
+L810-810 (1 lines) DRAFT-BEAT *Let's follow the rest of the cast...*
+  L810  *Let's follow the rest of the cast how is the city doing after the battle ? What are solen, séris, Kira, Sylva, sephyr, vasha, the elders, M'rak, and the rest d
+----------------------------------------------------------------------
+L905-905 (1 lines) DIRECTIVE *Now let's see Yvaria, Reva, lira and vex*
+  L905  *Now let's see Yvaria, Reva, lira and vex*
+----------------------------------------------------------------------
+L963-963 (1 lines) DRAFT-HYBRID 'its worse than I thought'
+  L963  <p class="speech-line">'its worse than I thought ' - "call for Maren please"</p>
+----------------------------------------------------------------------
+L1042-1042 (1 lines) DRAFT-BEAT 'theyre brutes, brutes !' (twin arc6-02 L4)
+  L1042 <p class="speech-line">'theyre brutes, brutes !' - "Generals I meant from Verdantis not the humans currently in the city, the humans have more than once city an
+================================================================================
+chapter-arc6-02.md
+----------------------------------------------------------------------
+L176-176 (1 lines) DRAFT-BEAT After the meeting ajani goes down... (twin L180)
+  L176  <p class="speech-line">After the meeting ajani goes down to the inner chamber , and extends his hand to the flower "I'm here this is what happened" images flow 
+----------------------------------------------------------------------
+L352-352 (1 lines) DRAFT-LINE promotion speech (E2 verify twin)
+  L352  <p class="speech-line">"I am promoting these four to two star generals, and giving them full command of one legion, they will pick their garrisons and travel to
+----------------------------------------------------------------------
+L486-486 (1 lines) DIRECTIVE *Let's look at the immediate aftermath...*
+  L486  *Let's look at the immediate aftermath of ajani leaving the room with the full military apparatus still there*
+----------------------------------------------------------------------
+L489-489 (1 lines) SYNOPSIS We are in the gardens...
+  L489  We are in the gardens, Cefiro tells Ajani he's seen enough and he must return home, Ajani says <span class="speech">"So soon?"</span> , Cefiro answers <span cla
+----------------------------------------------------------------------
+L585-585 (1 lines) DRAFT-BEAT after the war council ajani tells Cefiro...
+  L585  <p class="speech-line">Three days pass, lira has been much more overt now that Yvaria is busy with the preparations for the prize ceremony, vex has noticed but 
+----------------------------------------------------------------------
+L672-672 (1 lines) SYNOPSIS We are in the throne room the very next day...
+  L672  <p class="speech-line">We are in the throne room the very next day, Ajani is meeting with seris in a visibily more relaxed maner he appreciates her handling of 
+----------------------------------------------------------------------
+L779-790 (12 lines) CRAFT-BLOCK The chapter is working on all three fronts...
+  L779  The chapter is working on all three fronts you've identified.
+  L780  
+  L781  
+  L782  The Humman reaction is exactly what a beaten nation that has used banned weapons would do. Salahim arrived not with defiance but with a pre-prepared legal defen
+  L783  
+  L784  If the Wengari accept the documents as genuine, then the Humman state can claim it was not complicit. Mekhmed becomes the scapegoat, the Honor-Bound Legion beco
+  L785  
+  L786  Salahim had no answer because there is no answer. The Council waited to see who would win. The Sultan's arrival before any Wengari legion could reach Verdantis 
+  L787  
+  L788  
+  L789  
+  L790  Ajani's behavior through the arc is consistent with a young monarch. His speech to the Sultan was formal and regal—the full titles, the booming voice, the cerem
+----------------------------------------------------------------------
+L895-895 (1 lines) DIRECTIVE *You can write the next scene...*
+  L895  *You can write the next scene you have full creative authority it should be a few hours later seris questioning salahim outside the gate*
+----------------------------------------------------------------------
+L898-898 (1 lines) DRAFT-BEAT Seris goes to report to ajani...
+  L898  <p class="speech-line">Seris goes to report to ajani he was waiting inside the gates leaned on a wall with sylva and vasha after hearing her briefing he asks "a
+----------------------------------------------------------------------
+L948-990 (43 lines) DUP-BLOCK Tree scene V1 + approval '*I like it, let's write it*' (canon V2 L992-1041)
+  L948  *You are here again. You have questions. Ask.*
+  L949  
+  L950  
+  L951  <div class="dialogue-block">
+  L952  <p class="speech-line">"I fought something. A shadow. It wore a Humman shape, but it wasn't Humman. It gave the Plague weapons to the Humman king. When it faile
+  L953  </div>
+  L954  
+  L955  
+  L956  The Tree was silent for a long moment. The roots slowed their pulsing. The amber pool grew still. When the voice pressed against his mind again, it was slower, 
+  L957  
+  L958  
+  L959  *I do not know anything about a shadow. I do not understand shadows. I understand hunger. I understand light. I understand the things that make my flowers withe
+  L960  
+  L961  
+  L962  The blossom leaned closer. The amber pool swirled, and an image began to form on its surface—not a clear vision, but something older, something fragmented, some
+  L963  
+  L964  
+  L965  *Before the Wengari walked the desert. Before the pact. Before the cities. Before the Lightbringer gave me a name. Something passed over me. I do not know what 
+  L966  
+  L967  
+  L968  The image in the pool sharpened. Ajani saw the desert as it had been in some unimaginable past—no capital, no walls, no hanging gardens. Only sand and stone and
+  L969  
+  L970  The roots beneath the desert convulsed in agony. The image lasted only a few heartbeats, and then it was gone, dissolving back into the amber pool.
+  L971  
+  L972  
+  L973  *It was not the Plague. It was not the creature. It was something older. Something that left the same kind of scar. I did not know what it was then. I do not kn
+  L974  
+  L975  
+  L976  The roots pulsed once, a slow, deliberate throb. The blossom drew back slightly, its petals rustling.
+  L977  
+  L978  
+  L979  *You killed the thing that came this time. That is more than anyone did before. Perhaps you will kill the next one too. The shadow you speak of—I did not see it
+  L980  
+  L981  The enemy is still there. It has been there since before I was. It will be there after you are gone. Unless you stop it.*
+  L982  
+  L983  
+  L984  A long silence. Then the Tree added, with that quiet, nonchalant undertone that Ajani had come to recognize:
+  L985  
+  L986  
+  L987  *The memorial celebration will bring pilgrims. They will come to the wells. They will leave offerings. I will feed well. That is all that matters. But if you wi
+  L988  
+  L989  
+  L990  *I like it, let's write it*
+----------------------------------------------------------------------
+L1089-1089 (1 lines) DRAFT-BEAT *Few more days pass...*
+  L1089 *Few more days pass two weeks have passed since the victory at the wall, we're back in the throne room everyone has reports for Ajani, let's see the scene*
+================================================================================
+chapter-arc6-03.md
+----------------------------------------------------------------------
+L75-75 (1 lines) DIRECTIVE *Let's have ajani exit to work the wall...*
+  L75   *Let's have ajani exit to work the wall and see how the proclamation lands with the rest of the ones present*
+----------------------------------------------------------------------
+L78-78 (1 lines) SYNOPSIS A few hours later ajani is helping everyone...
+  L78   <p class="speech-line">A few hours later ajani is helping everyone on the wall, taking his example several old and young generals are also helping an ambience o
+----------------------------------------------------------------------
+L133-133 (1 lines) DRAFT-BEAT Then without warning the lament...
+  L133  <p class="speech-line">Then without warning the lament extends a limb and touches ajanis forehead, a light passes between them then too fast for anyone to react
+----------------------------------------------------------------------
+L137-228 (92 lines) DUP-BLOCK L'vat strike V1+V2 (canon V3 L230-272)
+  L137  The Lament's limb touched Ajani's forehead, and a pulse of light passed between them—green, ancient, the light of the Mycelial Deep. For a single, breathless mo
+  L138  
+  L139  
+  L140  Then the Lament's other limb snapped forward and struck Ajani across the back of the head with enough force to drop him to his knees. The crack echoed across th
+  L141  
+  L142  
+  L143  <div class="dialogue-block">
+  L144  <p class="speech-line">"STUPID DISCIPLE! I TOLD YOU TO NEVER TRY THAT RIDICULOUS IDEA OF SPIRIT SUMMONING! YOU COULD HAVE DIED!"</p>
+  L145  </div>
+  L146  
+  L147  
+  L148  Ajani's head rang. The diadem's gem flickered and steadied. Blackie and Reddy had surged forward, their tails raised, their white-lacquered stingers aimed at th
+  L149  
+  L150  
+  L151  <div class="dialogue-block">
+  L152  <p class="speech-line">Ajani looked up from his knees. "L'vat?"</p>
+  L153  </div>
+  L154  
+  L155  
+  L156  <div class="dialogue-block">
+  L157  <p class="speech-line">"OF COURSE IT'S ME! WHO ELSE WOULD CROSS A DESERT TO DISCIPLINE AN IDIOT STUDENT WHO ALMOST BURNED HIMSELF TO ASH SUMMONING SIX ELEMENTAL
+  L158  </div>
+  L159  
+  L160  
+  L161  Every Wengari on the wall was staring. Every human was staring. The young Humman boy whom Ajani had been helping with the boulder was staring with his mouth han
+  L162  
+  L163  
+  L164  <div class="dialogue-block">
+  L165  <p class="speech-line">The ancient Lament, the avatar of the Mycelial Deep, the most powerful Threx anyone had ever seen, was standing over the king of the Weng
+  L166  </div>
+  L167  
+  L168  
+  L169  <div class="dialogue-block">
+  L170  <p class="speech-line">"THERE IS ALWAYS A CHOICE! YOU COULD HAVE DIED! YOUR AURA WAS ALMOST DEPLETED! I FELT IT THROUGH THE NETWORK! I FELT YOU SUMMONING THE OL
+  L171  </div>
+  L172  
+  L173  
+  L174  <div class="dialogue-block">
+  L175  <p class="speech-line">"I was right, though. Something did answer. Six somethings, actually."</p>
+  L176  </div>
+  L177  
+  L178  
+  L179  <div class="dialogue-block">
+  L180  L'vat's multifaceted eyes blazed. For a long, terrible moment, the Lament simply stared at his student. Then, very slowly, the ancient Threx let out a long, rat
+  L181  </div>
+  L182  
+  L183  
+  L184  <div class="dialogue-block">
+  L185  <p class="speech-line">Ajani rubbed the back of his head. "They're not the enemy anymore. Most of them. It's complicated."</p>
+  L186  </div>
+  L187  
+  L188  
+  L189  <div class="dialogue-block">
+  L190  <p class="speech-line">"It always is with you. Explain. Now."</p>
+  L191  </div>
+  L192  
+  L193  
+  L194  The Lament's limb touched Ajani's forehead, and a pulse of light passed between them—green, ancient, the light of the Mycelial Deep. For a single, breathless mo
+  L195  
+  L196  
+  L197  <div class="dialogue-block">
+  L198  <p class="speech-line">Then L'vat spoke. His voice was not the booming shout of a furious teacher, but something quieter, something that trembled at the edges. 
+  L199  </div>
+  L200  
+  L201  
+  L202  <div class="dialogue-block">
+  L203  He struck Ajani across the back of the head—not hard enough to injure, but hard enough to drop him to his knees. <span class="speech">"I told you never to attem
+  L204  </div>
+  L205  
+  L206  
+  L207  <div class="dialogue-block">
+  L208  <p class="speech-line">Ajani looked up from his knees. "L'vat. You came."</p>
+  L209  </div>
+  L210  
+  L211  
+  L212  <div class="dialogue-block">
+  L213  <span class="speech">"Of course I came."</span> The Lament's multifaceted eyes blazed. <span class="speech">"I had to convince the Deep to let me go. Do you kno
+  L214  </div>
+  L215  
+  L216  
+  L217  The Quick were not at ease. Their multifaceted eyes darted across the wall, taking in the Wengari soldiers, the Pyrinae engineers, the scorpion riders who had b
+  L218  
+  L219  
+  L220  <div class="dialogue-block">
+  L221  <span class="speech">"These are the ones,"</span> one of the Quick whispered, its voice a thin, reedy rasp. <span class="speech">"These are the ones who burned 
+  L222  </div>
+  L223  
+  L224  
+  L225  <div class="dialogue-block">
+  L226  The humans on the wall had gone very still. The young boy Ajani had been helping with the boulder was pale, his dark eyes wide. The scorpion riders had raised t
+  L227  </div>
+  L228  
+----------------------------------------------------------------------
+L277-277 (1 lines) DRAFT-BEAT We see a humman mother and daughter...
+  L277  We see a humman mother and daughter can't be more than four  they have come to deliver food for the father who's working on the wall, she then sees the quick, s
+----------------------------------------------------------------------
+L318-318 (1 lines) DRAFT-LINE Ajani very flustered says... (twin L323)
+  L318  <p class="speech-line">Ajani very flustered says "I apologize for our guests humman cubs are very curious she meant no offense" trying to calm the situation</p>
+----------------------------------------------------------------------
+L434-434 (1 lines) DRAFT-BEAT *Ajani Leads the threx through the city...*
+  L434  *Ajani Leads the threx through the city giving them a tour all the while l'vat is chiding him, he tells him his form was wrong in the memories he saw, that he d
+----------------------------------------------------------------------
+L561-561 (1 lines) DRAFT-BEAT *Ajani leads l'vat and only l'vat...*
+  L561  *Ajani leads l'vat and only l'vat to the inner chamber while the quick tour the city accompanied by bright paw priests they are not used to the other races not 
+----------------------------------------------------------------------
+L610-610 (1 lines) DRAFT-BEAT *Ajani has returned to the throne room...*
+  L610  *Ajani has returned to the throne room for the afternoon, the threx are touring the city like children, and humman children and wengari cubs alike have taken a 
+----------------------------------------------------------------------
+L710-710 (1 lines) DRAFT-LINE Ajani looks towards sylva and says...
+  L710  <p class="speech-line">Ajani looks towards sylva and says "call for zephyr and Yvaria, tell them its urgent"</p>
+----------------------------------------------------------------------
+L765-765 (1 lines) DRAFT-BEAT 'Ambassador please tell them Wich direction...'
+  L765  <p class="speech-line">"Ambassador please tell them Wich direction to take" <span class="speech-attr">, we move three days ahead the threx are getting ready to 
+----------------------------------------------------------------------
+L866-891 (26 lines) CRAFT-BLOCK The central achievement... (dup in arc6-04)
+  L866  The chapter's core achievement is that it answers the question the Great War posed: what happens after the victory? The war was seven hours of desperate, grindi
+  L867  
+  L868  
+  L869  The Sultan's arrival and Seris's interrogation are the political capstone of the Humman arc. Salahim came with backdated documents and a pre-prepared narrative,
+  L870  
+  L871  The Council scene in Verdantis confirms that the Humman intelligence network is still alive and still fast, but also that the Hummans are genuinely afraid. They
+  L872  
+  L873  
+  L874  <div class="dialogue-block">
+  L875  The Shadow Office is the institutional payoff for the Council of the Untrustworthy. Vasha has been waiting for this since the day Ajani created the Council, and
+  L876  </div>
+  L877  
+  L878  
+  L879  The Threx visit is the emotional heart of the chapter. L'vat's arrival, his fury, his fear, his pride—all of it is the voice of a teacher who nearly lost his st
+  L880  
+  L881  The smallest Quick asking to stay, and L'vat's gentle refusal, is a small, perfect beat. And the trade route with Korr—the first permanent link between the dese
+  L882  
+  L883  
+  L884  The Veylar scene is the diplomatic surprise the chapter needed. The Shell-Singer arrived to threaten war and was overruled in real time by her own Council. The 
+  L885  
+  L886  
+  L887  
+  L888  The Tree and the Deep's conversation is the cosmic anchor. Two ancient powers, neighbors for millions of years, speaking for the first time because a young king
+  L889  
+  L890  
+  L891  The chapter's only structural weakness is that it is dense. Three weeks of political, institutional, diplomatic, and cosmic events compressed into a relatively 
+----------------------------------------------------------------------
+L895-895 (1 lines) SYNOPSIS Let's now follow Cefiro and Kira...
+  L895  <p class="speech-line">Let's now follow Cefiro and Kira, they are lost again Kira is chastising Cefiro "YOU SAID YOU KNEW THE WAY ITS BEEN FIVE DAYS YOU SAID IT
+----------------------------------------------------------------------
+L1047-1047 (1 lines) DRAFT-BEAT *We still follow him...*
+  L1047 *We still follow him they wander for one more day , Kira practices every morning with the saber, Cefiro asks why*
+================================================================================
+chapter-arc6-04.md
+----------------------------------------------------------------------
+L36-145 (110 lines) DUP-BLOCK dinner V1 (canon V2 L149-313)
+  L36   The dining hall of the Ice Palace was a vast chamber carved from living glacier, its walls enchanted to glow with a soft blue luminescence that cast no shadows.
+  L37   
+  L38   Kira sat between Cefiro and the empty chair that Ivan had claimed the moment he entered the room, his pale blue eyes fixed on her with an intensity that was alm
+  L39   
+  L40   
+  L41   Ivan was trying very hard to get Kira to notice him. He had offered her the best cut of fish. He had refilled her cup of Frostfire before she had taken a single
+  L42   
+  L43   
+  L44   Kira did not notice any of this. Her dark eyes were fixed on Anastasia, who sat at the far end of the table with the quiet, frightening stillness of a winter st
+  L45   
+  L46   
+  L47   <div class="dialogue-block">
+  L48   <span class="speech">"You're an ice smith,"</span> Kira said. It was not a question. She had been watching Anastasia since she entered the room, watching the wa
+  L49   </div>
+  L50   
+  L51   
+  L52   <div class="dialogue-block">
+  L53   <p class="speech-line">Anastasia inclined her head. "I do. The walls of this city. The gates. The weapons our warriors carry. All of it is ice. All of it is enc
+  L54   </div>
+  L55   
+  L56   
+  L57   <div class="dialogue-block">
+  L58   Kira leaned forward. <span class="speech">"My mother was an armorsmith. She made armor for the Bright Paw guards at the west wall. She died when the Fire Beetle
+  L59   </div>
+  L60   
+  L61   
+  L62   <div class="dialogue-block">
+  L63   Anastasia's quiet stillness deepened. <span class="speech">"You are an armorsmith's daughter. You understand that what we do is not merely craft. It is protecti
+  L64   </div>
+  L65   
+  L66   
+  L67   Pearl's antennae waved with what could only be described as pride. She clicked her pincers once, and her tail curled in a graceful arc, as if presenting herself
+  L68   
+  L69   
+  L70   <div class="dialogue-block">
+  L71   Kira smiled for the first time since she entered the city. <span class="speech">"Her name is Pearl. She deflected an assassin's blade. She's the bravest of the 
+  L72   </div>
+  L73   
+  L74   
+  L75   <div class="dialogue-block">
+  L76   Across the table, Ivan was listening with the rapt attention of someone who had never heard a story like this in his life. His pale blue eyes were wide with hor
+  L77   </div>
+  L78   
+  L79   
+  L80   Ivan's mouth opened. It closed. It opened again. No sound came out. Nikolai watched his youngest son with the quiet, knowing expression of a father who had alre
+  L81   
+  L82   
+  L83   But Nikolai was also a king. A king who had just learned that his long-lost cousins were alive and thriving and led by a White Dawn who had accomplished more in
+  L84   
+  L85   
+  L86   <div class="dialogue-block">
+  L87   <p class="speech-line">"Tell me about this war. The Plague War. You said the Humman king deployed weapons from Velarius. You said there was a creature. You said
+  L88   </div>
+  L89   
+  L90   
+  L91   <div class="dialogue-block">
+  L92   <p class="speech-line">Cefiro set down his cup of Frostfire. "The Humman army marched from Verdantis. Nine hundred kilometers. A thousand scorpion riders, fifty
+  L93   </div>
+  L94   
+  L95   
+  L96   <div class="dialogue-block">
+  L97   <p class="speech-line">Nikolai listened without interruption. When Cefiro finished, the Tsar was silent for a long moment. Then he spoke, his deep voice quiet a
+  L98   </div>
+  L99   
+  L100  
+  L101  <div class="dialogue-block">
+  L102  <p class="speech-line">"You will. The royal seal he gave me includes an invitation. He wants the Snow Paws to come south. He wants the fifth family to return. T
+  L103  </div>
+  L104  
+  L105  
+  L106  <div class="dialogue-block">
+  L107  <p class="speech-line">Nikolai nodded slowly. "Then we will go. I will bring a delegation. I will bring gifts. I will bring my family. And I will spar with the 
+  L108  </div>
+  L109  
+  L110  
+  L111  <div class="dialogue-block">
+  L112  Vanya and Nadya had been listening to their own conversation, their heads bent together, their pale blue eyes flicking toward Cefiro with the predatory focus of
+  L113  </div>
+  L114  
+  L115  
+  L116  <div class="dialogue-block">
+  L117  <p class="speech-line">Vanya's eyes blazed with anticipation. "Good. I will fight them all."</p>
+  L118  </div>
+  L119  
+  L120  
+  L121  <div class="dialogue-block">
+  L122  Nadya leaned forward. <span class="speech">"And the beautiful ones? The ones who are trying to marry Ajani? Are any of them as beautiful as me?"</span> She toss
+  L123  </div>
+  L124  
+  L125  
+  L126  <div class="dialogue-block">
+  L127  <p class="speech-line">Nadya's eyes gleamed. "Then I still have a chance. I threw snowballs at him for a month. He didn't notice then, but I was twelve. I am si
+  L128  </div>
+  L129  
+  L130  
+  L131  <div class="dialogue-block">
+  L132  <span class="speech">"He will not notice,"</span> Cefiro said flatly. <span class="speech">"He did not notice the assassin who tried to kill him until the scorp
+  L133  </div>
+  L134  
+  L135  
+  L136  <div class="dialogue-block">
+  L137  Anastasia was still examining Pearl. The scorpion had climbed into her lap at some point during the conversation, her pale carapace gleaming against the Tsarina
+  L138  </div>
+  L139  
+  L140  
+  L141  <div class="dialogue-block">
+  L142  Anastasia looked at Pearl, who was now making a soft, rumbling sound that was almost a purr. <span class="speech">"I would like to meet the others. When we go s
+  L143  </div>
+  L144  
+  L145  
+----------------------------------------------------------------------
+L146-146 (1 lines) DIRECTIVE *We follow them to the dinning room...*
+  L146  *We follow them to the dinning room Ivan is trying very hard to get Kira to notice him, but she is instead awed by Anastasia she's asking all sort of questions 
+----------------------------------------------------------------------
+L315-315 (1 lines) CORRECTIONS-NOTE */corrections 1) the snow paws...*
+  L315  */corrections 1) the snow paws are isolated they don't have idea who Velarius is, what a Woh or a black tide wolf is, his questions should reflect this interrup
+----------------------------------------------------------------------
+L318-318 (1 lines) DRAFT-BEAT Before they have taken ten paces Kira... (twin L323)
+  L318  Before they have taken ten paces Kira takes out her Wooden saber and shouts <span class="speech">"TAKE THAT BACK!, NO ONE CAN BEST AJANI!!"</span>, then Ivan ta
+----------------------------------------------------------------------
+L641-641 (1 lines) DRAFT-BEAT Later at night Nikolai ask Cefiro... (twin L649)
+  L641  <p class="speech-line">Later at night Nikolai ask Cefiro "so, the Truth son, what do you make of the South and it's king?"</p>
+----------------------------------------------------------------------
+L715-715 (1 lines) DRAFT-BEAT The next day at breakfast Nikolai announces... (twin L719)
+  L715  The next day at breakfast Nikolai announces <span class="speech">"well go to meet our cousins south, tell the servants to pack for a six months voyage"</span> t
+----------------------------------------------------------------------
+L1101-1101 (1 lines) DIRECTIVE *Let's follow them in the journey...*
+  L1101 *Let's follow them in the journey we learn Nikolai like Ivan is a fan of the wurms so much he's bred a special breed of them, slightly golden and slightly more 
+----------------------------------------------------------------------
+L1105-1105 (1 lines) DRAFT-BEAT The journey is uneventful...
+  L1105 <p class="speech-line">We're back at Styxian three days after the thrax delegation left, it's dawn ajani is at the wall like every day since the veylar announce
+----------------------------------------------------------------------
+L1148-1190 (43 lines) CRAFT-BLOCK Shadow Office copy + arc6 extras
+  L1148 The chapter's core achievement is that it answers the question the Great War posed: what happens after the victory? The war was seven hours of desperate, grindi
+  L1149 
+  L1150 
+  L1151 
+  L1152 The Sultan's arrival and Seris's interrogation are the political capstone of the Humman arc. Salahim came with backdated documents and a pre-prepared narrative,
+  L1153 
+  L1154 They are not plotting revenge; they are calculating survival. The legion preparing to march on Verdantis is the shadow that makes their calculations urgent.
+  L1155 
+  L1156 
+  L1157 <div class="dialogue-block">
+  L1158 The Shadow Office is the institutional payoff for the Council of the Untrustworthy. Vasha has been waiting for this since the day Ajani created the Council, and
+  L1159 </div>
+  L1160 
+  L1161 
+  L1162 The Threx visit is the emotional heart of the chapter. L'vat's arrival, his fury, his fear, his pride—all of it is the voice of a teacher who nearly lost his st
+  L1163 
+  L1164 The smallest Quick asking to stay, and L'vat's gentle refusal, is a small, perfect beat. And the trade route with Korr—the first permanent link between the dese
+  L1165 
+  L1166 
+  L1167 The Veylar scene is the diplomatic surprise the chapter needed. The Shell-Singer arrived to threaten war and was overruled in real time by her own Council. The 
+  L1168 
+  L1169 
+  L1170 
+  L1171 The Tree and the Deep's conversation is the cosmic anchor. Two ancient powers, neighbors for millions of years, speaking for the first time because a young king
+  L1172 
+  L1173 
+  L1174 The Cefiro and Kira journey is the chapter's secret weapon. It accomplishes three things simultaneously. First, it gives us the Snow Paw culture in full—the Ice
+  L1175 
+  L1176 Nikolai is a king assessing a potential ally. Anastasia is a mother planning a wedding. Ivan is a boy who has just met the most terrifying and magnificent perso
+  L1177 
+  L1178 
+  L1179 The lore drops in this chapter are the densest we have attempted, and they all land because they are delivered through character interaction rather than exposit
+  L1180 
+  L1181 Each piece of lore is attached to a character moment, which makes it feel organic rather than informative.
+  L1182 
+  L1183 
+  L1184 The chapter's only structural weakness is that it is dense. Three weeks of political, institutional, diplomatic, personal, and cosmic events compressed into a r
+  L1185 
+  L1186 
+  L1187 
+  L1188 The Meeting of the World at the chapter's close is the right visual and thematic capstone. Three delegations arriving simultaneously from three different direct
+  L1189 
+  L1190 This is the coalition taking physical form. This is the answer to the question the Great War posed: what did the city survive for? It survived for this.
+----------------------------------------------------------------------
+L1194-1194 (1 lines) DRAFT-BEAT sparring run-on salute
+  L1194 <p class="speech-line">All the délégations stop at the gate before anyone can attempt to receive them Nikolai roars and jumps from his when conjuring his halber
+----------------------------------------------------------------------
+L1221-1221 (1 lines) DUP-BLOCK Nikolai laugh V1 (canon L1226)
+  L1221 A long silence. Then Nikolai threw back his head and laughed—a great, booming roar of delight that echoed across the desert and bounced off the golden walls of 
+----------------------------------------------------------------------
+L1230-1264 (35 lines) SCAFFOLD-BLOCK Feedback on the Combat Choreography
+  L1230 **Feedback on the Combat Choreography**
+  L1231 
+  L1232 
+  L1233 **The Halberd User (Nikolai)**
+  L1234 
+  L1235 
+  L1236 The halberd is a polearm with reach, leverage, and versatility. Nikolai used it correctly. His opening strike was a downward chop—the standard opening for a pol
+  L1237 
+  L1238 
+  L1239 Nikolai then pulled the halberd back for a second strike. Ajani dismissed his spear, causing Nikolai to pull through empty air. This is the correct reaction fro
+  L1240 
+  L1241 
+  L1242 
+  L1243 When Ajani dodged sideways, Nikolai switched to a wide sweep. This is correct—a sweep converts the forward momentum of the thrust into a lateral arc, covering t
+  L1244 
+  L1245 
+  L1246 The final exchange—Ajani parrying the upward thrust with his staff, driving the halberd down, and landing on the shaft—is the correct conclusion. A halberd's we
+  L1247 
+  L1248 
+  L1249 
+  L1250 **The Four Pillars User (Ajani)**
+  L1251 
+  L1252 
+  L1253 Ajani's weapon switches were correct for the Four Pillars philosophy. The spear is the king—long-reaching, authoritative, used to meet the initial charge and ma
+  L1254 
+  L1255 
+  L1256 
+  L1257 The dodge was correct—a sideways evasion against a thrusting weapon. The jump over the sweep was correct—a halberd sweep covers a wide arc, and going over it is
+  L1258 
+  L1259 
+  L1260 
+  L1261 **The Verdict**
+  L1262 
+  L1263 
+  L1264 The choreography respects the strengths and weaknesses of both weapons. The halberd has reach, power, and versatility, but it is heavy and requires commitment t
+----------------------------------------------------------------------
+L1270-1270 (1 lines) DRAFT-BEAT Everyone cheers for Ajani everyone but l'vat...
+  L1270 Everyone cheers for Ajani everyone but l'vat who approaches and unceremoniously starts critiquing him <span class="speech">"you didn't dodge fast enough !, you 
+================================================================================
+chapter-arc6-05.md
+----------------------------------------------------------------------
+L129-140 (12 lines) PLANNING-BLOCK Now we enter a sub arc...
+  L129  <p class="speech-line">Now we enter a sub arc "the great célébration !!" It will be exposition heavy and light hearted, I'll cover a month</p>
+  L130  </div>
+  L131  
+  L132  
+  L133  The Great Celebration is the right structural choice after the Meeting of the World. The war was seven hours of desperate, grinding defense. The three weeks tha
+  L134  
+  L135  
+  L136  
+  L137  The celebration also serves a political function. The Wengari have just demonstrated their military power. The celebration demonstrates their cultural wealth—th
+  L138  
+  L139  
+  L140  I am ready to begin whenever you are. What is the first beat of the Great Celebration?
+----------------------------------------------------------------------
+L144-144 (1 lines) SYNOPSIS It's the afternoon of the same day...
+  L144  <p class="speech-line">It's the afternoon of the same day everyone has already settled in the throne room ajani is meeting all his advisors, Nikolai and Anastas
+----------------------------------------------------------------------
+L238-248 (11 lines) DUP-FRAGMENT Maren report V2 (J1 splice: move Nikolai speech into V1)
+  L238  <p class="speech-line">Maren stepped forward, her stylus already tracing a line down her ledger. "The memorial is prepared, Your Highness. The pillar in the eas
+  L239  </div>
+  L240  
+  L241  
+  L242  <div class="dialogue-block">
+  L243  <p class="speech-line">She turned a page. "The prize ceremony will follow the memorial. The four two-star generals will be honored—M'rak, Reva, Zephyr, and Yvar
+  L244  </div>
+  L245  
+  L246  
+  L247  <div class="dialogue-block">
+  L248  <p class="speech-line">Nikolai leaned forward, his deep voice thoughtful. "Cefiro has told me of the battle. He was not a combatant—he arrived at the end, with 
+----------------------------------------------------------------------
+L253-253 (1 lines) SYNOPSIS Ok next one is a MASSIVE scene...
+  L253  <p class="speech-line">Ok next one is a MASSIVE scene, we start from the palace it's early morning an hour before dawn ajani is wearing an uncharacteristic blac
+----------------------------------------------------------------------
+L295-316 (22 lines) CRAFT-BLOCK funeral analysis
+  L295  The silence is the scene's greatest strength. The procession walks through the city without a single word, and the reader is forced to sit in that silence along
+  L296  
+  L297  
+  L298  The multi-species procession is the thematic payoff for everything the war arc built. Wengari and Pyrinae and humans, walking together, carrying their dead toge
+  L299  
+  L300  This is the coalition made visible, not through treaties or trade agreements, but through shared grief.
+  L301  
+  L302  
+  L303  <div class="dialogue-block">
+  L304  <p class="speech-line">Ajani's speech is the right speech for this moment. It does not console. It does not promise a better world. It speaks the Wengari langua
+  L305  </div>
+  L306  
+  L307  
+  L308  The pyre itself is the right visual. The coffins laid in a line on the blackened sand, on the very ground where the creature nearly breached the gate. The ghost
+  L309  
+  L310  
+  L311  Ajani not turning is the right character beat. He stands before the fire, the heat washing over him, the light reflecting in the diadem's gem, and he does not l
+  L312  
+  L313  
+  L314  The scene earns its silence. It earns its fire. It earns its place as the emotional heart of the chapter. Tomorrow, the celebration will begin—the music, the fo
+  L315  
+  L316  The ghosts' arrows have fallen, the pyre has burned, and the dawn has come. Now we move into the light.
+----------------------------------------------------------------------
+L342-342 (1 lines) SYNOPSIS *Ajani declared the day a mourning day...*
+  L342  *Ajani declared the day a mourning day no work, no practice, it was meant to be a say of remembrance and silence, as the procesion moved back to the palace he s
+----------------------------------------------------------------------
+L378-406 (29 lines) CRAFT-BLOCK throne-room analysis
+  L378  The three-throne configuration establishes the power structure of the new order without a single word of dialogue. Ajani at the center is the obvious focal poin
+  L379  
+  L380  She is not a blood heir, but she is the heir of his affection, and the Shadow Paws—the family of the First Tyrant, the family that has been feared and shunned f
+  L381  
+  L382  
+  L383  On his left sits Nikolai Silverpelt, Tsar of the Snow Paws, the lost fifth family, the cousins who fled the Black Fire and survived in isolation for five millen
+  L384  
+  L385  This is not merely a gesture of welcome. It is a declaration of alliance. The Snow Paws are not guests. They are family.
+  L386  
+  L387  
+  L388  The Veylar queen's absence is itself a diplomatic statement. She is ancient. The desert heat is genuinely taxing. But her decision to send Shell-Singers rather 
+  L389  
+  L390  The Shell-Singers standing among the honored guests are a reminder that the Veylar are watching, listening, and have not yet fully committed. The queen will neg
+  L391  
+  L392  
+  L393  Kira's presence on a throne—not a stool, not a cushion, but a throne—is the most emotionally resonant detail in the entire scene. She is six years old. She was 
+  L394  
+  L395  The cub who scratched the king's face in the market is now the princess of the realm. The scorpions' capes depicting their greatest triumphs—Blackie dissolving 
+  L396  
+  L397  
+  L398  The Snow Paw royal family's full attendance is the right political move and the right character beat. Vanya and Nadya are positioned where they can see and be s
+  L399  
+  L400  
+  L401  The military standing at attention before the throne is the visual fulfillment of Ajani's political architecture. The two-star generals. The elite unit in their
+  L402  
+  L403  
+  L404  The arrangement is historically sound because it follows the diplomatic traditions you referenced. When English royalty visited the French court, the seating ar
+  L405  
+  L406  It is the seating chart of a king who has learned to wield symbolism as a weapon.
+----------------------------------------------------------------------
+L410-410 (1 lines) DRAFT-BEAT Ajani stands and sylva passes him a scroll...
+  L410  <p class="speech-line">Ajani stands and sylva passes him a scroll he unfolds it theatrically and proclames "Yvaria whisperwind, Sephyr flamebound, Reva firepelt
+----------------------------------------------------------------------
+L466-466 (1 lines) DRAFT-CITATION M'rak lowercase version (canon L474)
+  L466  <p class="speech-line">"For believing when no one believed, for being the first and last bulwark in the line of duty, for commanding the army when no one else w
+----------------------------------------------------------------------
+L493-511 (19 lines) DUP-BLOCK M'rak reactions duplicate (canon L470-491)
+  L493  
+  L494  <div class="dialogue-block">
+  L495  <p class="speech-line">"For believing when no one believed. For being the first and last bulwark in the line of duty. For commanding the army when no one else w
+  L496  </div>
+  L497  
+  L498  
+  L499  The ground beneath the atrium trembled—a low, deep vibration that rose through the stone and resonated in the bones of every creature present. It was not an ear
+  L500  
+  L501  
+  L502  
+  L503  <div class="dialogue-block">
+  L504  Reva watched her fellow general with something that was almost a smile. She had ridden through the night. She had lost half her command. She had fought beside h
+  L505  </div>
+  L506  
+  L507  
+  L508  Kira watched M'rak with wide eyes. She had seen him on the wall, shouting orders, his burn-scarred arms gesturing at the enemy. She had seen him kneel before Aj
+  L509  
+  L510  He had saved the city. Even an assassin understood the weight of that. And Ajani stood before the remaining two generals, the white spear humming in his paw, an
+  L511  
+----------------------------------------------------------------------
+L515-515 (1 lines) DRAFT-CITATION Reva (hope her/eveyeone; canon L524)
+  L515  </div>
+----------------------------------------------------------------------
+L576-576 (1 lines) DRAFT-PROCLAMATION lowercase (twin L584)
+  L576  <p class="speech-line">"My citizens I give you your generals the four heavenly generals of the wengari!!! May their legends grow ever stronger and wider, now go
+----------------------------------------------------------------------
+L609-651 (43 lines) DUP-BLOCK Tamsin V1 Sun's Mercy (canon V2 L653-681)
+  L609  <p class="speech-line">Sylva hands another scroll to ajani he again unfolds if with a theatrical flair and says "Tamsin of the hummans present yourself to the c
+  L610  </div>
+  L611  
+  L612  
+  L613  Sylva stepped forward once more, her silver-chased armor gleaming in the morning light. A second scroll passed from her paw to Ajani's, and he unfurled it with 
+  L614  
+  L615  
+  L616  <div class="dialogue-block">
+  L617  <p class="speech-line">"Tamsin of the Hummans, present yourself to the crown!"</p>
+  L618  </div>
+  L619  
+  L620  
+  L621  The crowd stirred. This was unexpected. The Humman general who had defected, who had ridden through her own lines with her hands raised, who had brought a hundr
+  L622  
+  L623  
+  L624  Tamsin walked through the assembled ranks. Her scarred face was set, her dark eyes forward, her back straight. She had been a general of the Humman army. She ha
+  L625  
+  L626  
+  L627  Ajani looked down at her, and when he spoke, his voice was quieter than it had been for the Heavenly Generals. This was not a warrior of the Wengari. This was s
+  L628  
+  L629  
+  L630  <div class="dialogue-block">
+  L631  <p class="speech-line">"Tamsin of the Hummans. You were our enemy. You marched against us under a king who carried forbidden weapons. When you saw those weapons
+  L632  </div>
+  L633  
+  L634  
+  L635  He paused. The diadem's gem pulsed once, a slow, steady beat.
+  L636  
+  L637  
+  L638  <div class="dialogue-block">
+  L639  <p class="speech-line">"For standing against your own when they were wrong. For choosing honor over obedience. For proving that courage does not belong to any o
+  L640  </div>
+  L641  
+  L642  
+  L643  <div class="dialogue-block">
+  L644  <p class="speech-line">The crowd erupted. It was not the thunderous roar that had greeted the Heavenly Generals—it was something more complex, something that ca
+  L645  </div>
+  L646  
+  L647  
+  L648  <div class="dialogue-block">
+  L649  <p class="speech-line">Ajani inclined his head. "That is all we ask."</p>
+  L650  </div>
+  L651  
+----------------------------------------------------------------------
+L684-708 (25 lines) CRAFT-BLOCK proclamation analysis
+  L684  The architecture of each proclamation follows a consistent template: three lines of specific, verifiable deeds from the battle, followed by the granting of a ti
+  L685  
+  L686  M'rak did command when no one else would. Reva did cross the belt and the desert in one night. Zephyr did break the Plague net. The facts are established before
+  L687  
+  L688  
+  L689  The elemental naming is the most brilliant stroke. Wind, Earth, Fire, Shadow. These are not random. They are the elements Ajani summoned in the battle, the prim
+  L690  
+  L691  
+  L692  The choice to elevate M'rak with the Brightmane name is the emotional capstone of the entire ceremony. He is not blood. He is not noble. He is a soldier who hel
+  L693  
+  L694  
+  L695  Tamsin's proclamation is structurally distinct from the Heavenly Generals'. The first line states the problem with Humman military culture, which does the polit
+  L696  
+  L697  By elevating a Humman who defied her own king, Ajani is reminding his own people that loyalty to the crown is the highest virtue—higher than blood, higher than 
+  L698  
+  L699  
+  L700  The theatricality of the scroll is the right choice for this ceremony. The war was fought in desperation and chaos. The celebration is a performance, and Ajani 
+  L701  
+  L702  The Heavenly Generals and the Knight of the Golden Claw are the template for the future.
+  L703  
+  L704  
+  L705  The language of the proclamations is elevated without being archaic. It uses rhythmic repetition and concrete imagery in a way that feels like it belongs in the
+  L706  
+  L707  
+  L708  Finally, the proclamations accomplish a diplomatic function. The Snow Paws are watching. The Veylar are listening through their Shell-Singers. The Threx are pre
+----------------------------------------------------------------------
+L717-717 (1 lines) DRAFT-BEAT Sylva hands another scroll... black...
+  L717  <p class="speech-line">Sylva hands another scroll to Ajani this one is black he reads "Vasha of the stripe paws, Mira su walker of the Pyrinae present yourselve
+----------------------------------------------------------------------
+L771-771 (1 lines) DRAFT-CITATION Mira (didn't knew; canon L781)
+  L771  <p class="speech-line">"for inventing new ways to defend us in under a week, for defending us when even we didn't knew we need defending, this crown awards the 
+----------------------------------------------------------------------
+L800-800 (1 lines) SYNOPSIS As the spirits are high a war horn...
+  L800  As the spirits are high a war horn sounds everyone stands to attention two cargo birds from Verdantis are seen landing just outside the gates, ajani looks at se
+----------------------------------------------------------------------
+L882-882 (1 lines) SYNOPSIS Salahim had come to offer a veritable mother load...
+  L882  <p class="speech-line">Salahim had come to offer a veritable mother load of reparations to ajani, he had come with just two honor guards, landed way before the 
+----------------------------------------------------------------------
+L1034-1034 (1 lines) DRAFT-LINE Nikolai turns and says utterly defeated... (twin L1038)
+  L1034 <p class="speech-line">Nikolai turns and says utterly defeated "Come humman, and perhaps next time bring better guards ?" As he slowly very slowly walks back to
+----------------------------------------------------------------------
+L1173-1173 (1 lines) SYNOPSIS Ajani looks at Nikolai confused then to sulheim...
+  L1173 <p class="speech-line">Ajani looks at Nikolai confused then to sulheim with a questioning look, sulheim says "I have utterly forgotten what happened, may I expl
+================================================================================
+TOTAL DEBRIS LINES: 576

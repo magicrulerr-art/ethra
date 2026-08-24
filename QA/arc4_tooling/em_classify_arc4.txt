@@ -1,0 +1,291 @@
+======================================================================
+chapter-arc4-01.md
+  L10   [TAIL(elab)      ] The Stripe Paws, still flush with their victory in the mounted phase and their new overlordship of trade, sprawled acros
+  L17   [CUT(speech)     ] The Stripe Paw elder, Zara, rose first. "King Ajani. The Stripe Paws wish to know when the trade agreements will be form
+  L49   [CUT(speech)     ] Zara straightened. "The yearly tournament?" She considered for a moment, her golden eyes narrowing as she weighed the qu
+  L54   [OPEN-MID(suspect)] He had not asked the Shadow Paws or the Motted Paws or his own humiliated kin because he already knew what they would sa
+  L56   [TAIL(elab)      ] The silence that followed was not the silence of confusion or dissent. It was the silence of recalibration. Every elder 
+  L61   [CUT(speech)     ] Zara was the first to speak. Her golden eyes gleamed with the calculating light of a merchant who had just been handed t
+  L65   [CUT(speech)     ] Kareth rose more slowly. His obsidian staff clicked against the stone, and his one good eye moved across the gathered el
+  L75   [OPEN-MID(suspect)] Ajani leaned forward. "The Bright Paws are the face of the Wengari. The tournament needs a host. It needs a voice. It ne
+  L89   [OPEN-MID(suspect)] She raised one silver-furred paw, and her aura flared—not the gentle, patient flicker of Flowing Water, but something br
+  L114  [OPEN-MID(suspect)] The Stripe Paws are given logistics and trade—the thing they already want, the thing they are already best at, the thing
+  L118  [OPEN-MID(suspect)] The Shadow Paws are given intelligence and security—the thing they have always done in secret, now legitimized and made 
+  L122  [OPEN-MID(suspect)] The Motted Paws are given the most delicate task—envoys, ambassadors, the face of the Wengari to the other races. Sylva 
+  L126  [OPEN-MID(suspect)] The Bright Paws are given the role of internal oversight—the eyes within every other family, the face of the tournament'
+  L185  [CUT(speech)     ] The Hall of the Sun erupted. Zara was on her feet again, her striped mane fully bristled, her claws extended, her voice 
+  L189  [CUT(speech)     ] "And they would have earned it." Kareth's voice cut through the chaos like a blade. The Shadow Paw elder had risen now, 
+  L204  [OPEN-MID(suspect)] Ajani leaned back on the cold throne. The green fire flickered gently along his claws. The plan was audacious. It was re
+  L217  [OPEN-MID(suspect)] Kareth inclined his scarred head. "The Shadow Paws also accept. But I must ask—the fifteen percent for each family. That
+  L235  [CUT(speech)     ] Ajani leaned forward on the cold stone. "Then let the distribution be thirty to the crown, fifteen each to the Stripe Pa
+  L247  [OPEN-MID(suspect)] Zara nodded slowly, her merchant's mind already running the new numbers. "Four families. Four shares. The Stripe Paws ac
+  L262  [OPEN-MID(suspect)] Ajani settled back onto the cold stone of the throne. The green fire along his claws had dimmed to a faint, steady pulse
+  L265  [CUT(speech)     ] "The coin is spoken for, you said. The crown will take thirty percent. The families will each take fifteen. The particip
+  L269  [OPEN-MID(suspect)] Kareth rose beside her. The Shadow Paw elder's scarred face was unreadable, but his one good eye was fixed on the throne
+  L297  [OPEN-MID(suspect)] Solen, the Bright Paw High Priest, rose last. His golden mane was still dulled, his ancient shoulders still bowed, but h
+  L300  [OPEN-MID(suspect)] Ajani leaned back on the cold throne. The green fire flickered gently along his claws. The plan was set. The coin was sp
+  L309  [TAIL(elab)      ] Zara's voice was low, almost reverent. "The Pyrinae will teach us their building techniques. The roads to the five citie
+  L317  [TAIL(elab)      ] Sylva's soft voice was the last to speak. "The Motted Paws will study the other races as we have always studied. Their s
+  L321  [TAIL(elab)      ] Sylva's soft voice was the last to speak. "The Motted Paws will study the other races as we have always studied. Their s
+  L328  [TAIL(elab)      ] The silence that followed was different from the silences that had come before. The elders of the four families exchange
+  L339  [CUT(speech)     ] Sylva's silver aura flickered gently. "The Motted Paws will serve where we are needed. The office of foreign advisor see
+  L343  [OPEN-MID(suspect)] Solen rose slowly. "The Bright Paws have been humiliated, but we are still the royal family. We will propose candidates 
+  L350  [OPEN-MID(suspect)] The shift in the room was immediate. The eagerness that had flickered in the elders' eyes moments before dimmed, replace
+  L359  [OPEN-MID(suspect)] Kareth inclined his scarred head. "The Shadow Paws propose Maren. She is an assassin by training, but her true skill is 
+  L383  [OPEN-MID(suspect)] Sylva's soft voice carried a faint note of amusement. "Then the Motted Paws will teach her our techniques of silent obse
+  L396  [OPEN-MID(suspect)] The elders felt the shift in the air before they understood its source. The king had been methodical, almost playful in 
+  L398  [OPEN-MID(suspect)] This was a bulwark against extinction. The Blight was coming. Everyone in the Hall of the Sun knew it. The Quick's warni
+  L412  [OPEN-MID(suspect)] The hall was silent. The Styx were the overlords of the sky. Nothing in the desert could match them. To train a unit tha
+  L424  [TAIL(elab)      ] The world also has a single large moon that stabilizes its axial tilt but causes extreme, complex tides. Sentient life h
+  L452  [OPEN-MID(suspect)] The Underground is a global network of caves and deep places, inhabited by the Chi'Thak—the Blight. They are small insec
+  L494  [TAIL(elab)      ] Ajani descended into the inner chamber and faced the Kyre Tree. He did not kneel. He offered not his life but a partners
+  L496  [TAIL(elab)      ] The Styx acknowledged Ajani but did not bow. Ajani performed the Four Pillars ritual, igniting the spear, sword, saber, 
+  L511  [OPEN-MID(suspect)] "The same." Kareth's scarred face was unreadable. "She was my best student. She nearly defeated her master. And she foug
+  L535  [OPEN-MID(suspect)] Kareth inclined his scarred head. "The Shadow Paws are not suited to this role. We are the darkness. We are the fear. Ev
+  L539  [OPEN-MID(suspect)] Solen rose slowly. "The Bright Paws support Sylva for foreign advisor. She has proven herself in the tournament. She has
+======================================================================
+chapter-arc4-02.md
+  L8    [OPEN-MID(suspect)] He paused, his ancient eyes meeting Ajani's. "There is wisdom in this. The Lightbringer himself did not rule alone—he ha
+  L15   [TAIL(elab)      ] The silence that followed was not the silence of shock—the elders had absorbed too many revelations in too short a time 
+  L39   [TAIL(elab)      ] The rhythm of this chapter is a deliberate, grinding repetition: proposal, objection, debate, resolution. Each office fo
+  L41   [OPEN-MID(suspect)] The security advisor debate centered on the nature of the unit—not glory-seekers but Wengari with something to lose, fig
+  L43   [OPEN-MID(suspect)] This structure works because it mirrors the experience of governance. The reader, like Ajani, is trapped in the council 
+  L52   [OPEN-MID(suspect)] His strategic mind is also on full display. The grand vizier gambit was a masterstroke. He offloaded almost all his work
+  L57   [OPEN-MID(suspect)] This chapter reveals a new domain: institutional design. The speaker is not merely building a tournament or a road. They
+  L59   [OPEN-MID(suspect)] The five-year terms, the prohibition on holding multiple offices, the tying of the grand vizier's office to the tourname
+  L75   [OPEN-MID(suspect)] What remains for the crown? The pact. The throne. The right to overrule the grand vizier in extremis. The right to defen
+  L82   [CUT(speech)     ] "The king has given us the trade routes," Zara said, her rough voice carrying through the stables. "The logistics. The p
+  L86   [OPEN-MID(suspect)] She turned to face the stables, where the war-mounts shifted in the gloom. "We have a year. One year to train a champion
+  L94   [OPEN-MID(suspect)] Zara's whiskers twitched. "I know. That's why I proposed you. The king chose otherwise. We will work with Maren. We will
+  L97   [TAIL(elab)      ] **The Shadow Paws — Underground Training Halls, Night**
+  L99   [TAIL(elab)      ] The Shadow Paw quarter was carved into the base of the plateau, a labyrinth of dark stone and ancient silence. Kareth wa
+  L112  [CUT(speech)     ] Kareth stopped. He turned to face her, his scarred face unreadable in the darkness. "Thane will train. You will train. T
+  L115  [TAIL(elab)      ] **The Bright Paws — Temple of the Lightbringer, Night**
+  L117  [TAIL(elab)      ] Solen sat alone in the sanctuary, the golden mosaics of the Lightbringer's deeds flickering in the lamplight. The other 
+  L127  [OPEN-MID(suspect)] The Bright Paws would not be silent. They would not be still. They would train. They would learn. They would find a cham
+  L129  [TAIL(elab)      ] Not through blood. Not through tradition. Through strength. That was the king's will. That was the new way. And the Brig
+  L131  [TAIL(elab)      ] **The Motted Paws — The Silent Halls, Midnight**
+  L137  [OPEN-MID(suspect)] But the grand vizier's office was tied to the tournament, and the tournament was yearly. Every year, a new champion woul
+  L143  [TAIL(elab)      ] Ajani sat on the throne at the far end of the hall, the white cloak of his father draped across his shoulders, the green
+  L146  [OPEN-MID(suspect)] T'van stood at his side, a stack of scrolls tucked under one arm, his golden eyes bright with the particular exhaustion 
+  L174  [OPEN-MID(suspect)] She stopped at the center of the hall, her rune-glass staff humming faintly as she planted it on the polished stone. "Th
+  L178  [CUT(speech)     ] She paused, her clouded eyes meeting Ajani's. "The lord of the desert—" She used the Wengari term with the careful preci
+  L185  [TAIL(elab)      ] Nefere's ancient eyes crinkled at the corners. The faintest smile crossed her weathered face—not the smile of a diplomat
+  L192  [OPEN-MID(suspect)] Mira, the Sun-Walker envoy, stepped forward. Her sharp merchant's eyes gleamed with the particular light of someone who 
+  L200  [OPEN-MID(suspect)] Nefere inclined her head one final time. "Then we will take our leave, King Ajani. The Stripe Paws are still in the capi
+  L210  [OPEN-MID(suspect)] "The Hummans are restless, King Ajani. Ambassador Seris has spent the days since the tournament organizing her people—no
+  L214  [OPEN-MID(suspect)] Mira stepped forward, her sharp merchant's eyes gleaming. "The Sun-Walkers have been watching her as you requested. She 
+  L229  [OPEN-MID(suspect)] Nefere accepted the parchment with her ancient, weathered paws, her clouded eyes moving across the signatures—the king's
+  L236  [OPEN-MID(suspect)] She raised her clouded eyes to meet his. "I will continue the watching, King Ajani. The Hummans will be observed. The St
+  L244  [OPEN-MID(suspect)] T'van was already moving before the king finished speaking, his sandals slapping against the polished stone as he hurrie
+  L251  [OPEN-MID(suspect)] Sylva entered a moment later. The Motted Paw regent had shed her usual quiet robes for the ceremonial armor of her new o
+  L257  [OPEN-MID(suspect)] From the shadows behind the throne, two figures stirred. They had been there all along—silent, patient, invisible. Sera 
+  L263  [OPEN-MID(suspect)] Ajani allowed himself the faintest twitch of his whiskers. The trap was set. The hall was dressed in its full splendor—g
+  L272  [CUT(speech)     ] "It will be done, King Ajani." Her voice was quiet, almost gentle, the voice of someone who had killed many times and ta
+  L293  [OPEN-MID(suspect)] Behind her walked her daughter Lena, the young scribe who had been traded to the capital as surety for her people's good
+  L297  [OPEN-MID(suspect)] The guards roared. Twenty Bright Paw warriors in ceremonial armor, their golden manes bristling, their auras flaring in 
+  L299  [OPEN-MID(suspect)] Seris did not stumble. Her step faltered for only a heartbeat, and then she continued forward, her jaw set, her eyes fix
+  L312  [OPEN-MID(suspect)] Ajani's voice, when it finally came, was quiet—almost conversational. "No one fainted. Disappointing. I owe the Stripe P
+  L326  [OPEN-MID(suspect)] Seris inclined her head, her diplomatic composure still intact. "The Hummans are honored by the king's welcome. We have 
+  L336  [OPEN-MID(suspect)] Seris inclined her head, her diplomatic composure still intact despite the tremor in the merchant behind her. "The Humma
+  L346  [OPEN-MID(suspect)] Seris inclined her head, recognizing the opening for what it was. "The Hummans are grateful for the opportunity to serve
+  L359  [TAIL(elab)      ] She stepped forward, her silver-chased ceremonial armor catching the amber light, her ancient voice carrying through the
+  L381  [OPEN-MID(suspect)] The shadows moved before the echo of the king's voice died. Sera and her silent companion flowed out of the darkness beh
+  L389  [OPEN-MID(suspect)] Sylva stood motionless beside the throne, her silver aura flickering faintly. She had been overruled. Publicly. Complete
+  L393  [TAIL(elab)      ] The guard captain stepped forward, her golden mane bristling, her ceremonial armor still humming with the residue of her
+  L396  [OPEN-MID(suspect)] "Writing implements, Your Majesty. Scribe's tools. Personal seals. A small amount of coin—Verdantian silver, nothing unu
+  L415  [OPEN-MID(suspect)] The guards rose as one, their golden manes bristling, their ceremonial armor clashing like cymbals as they snapped to at
+  L424  [OPEN-MID(suspect)] She held up the paper, its surface covered in the ambassador's precise, cramped handwriting. "Names of Wengari. Stripe P
+  L434  [OPEN-MID(suspect)] She held up the list of names—the Stripe Paw merchants, the caravan masters, the guild leaders. "She did not come unprep
+  L457  [OPEN-MID(suspect)] She did not search with her paws. She searched with her sorcery—a low, resonant hum that vibrated through the air, the s
+  L471  [TAIL(elab)      ] Ajani's gaze shifted to Seris, still kneeling on the polished stone, her diplomatic composure finally beginning to crack
+  L486  [CUT(speech)     ] "King Ajani." Her voice was steady, but it cost her. "The stone was a gift. Given to me years ago by a Pyrinae trader wh
+  L490  [OPEN-MID(suspect)] She raised her dark eyes to meet the king's. "You demanded that we become your brothers. You demanded our best guilds, o
+  L502  [OPEN-MID(suspect)] "Both are true, King Ajani. I did not know the stone would work against the guards' display—not for certain. It was a gi
+  L512  [CUT(speech)     ] The merchants screamed. One of them—the portly Wind-Trader who had provided the wine for the tournament—threw himself at
+  L518  [OPEN-MID(suspect)] "Please. My daughter knew nothing of the stone. She knew nothing of the list. She is a scribe, nothing more. Kill me if 
+  L533  [TAIL(elab)      ] Sylva stood motionless beside the throne. Her silver aura flickered gently in the amber light, and her ancient eyes move
+  L545  [OPEN-MID(suspect)] Sylva remained where she had stood throughout the audience—motionless, patient, her silver-chased ceremonial armor gleam
+  L579  [OPEN-MID(suspect)] She turned and walked toward the great bronze doors, her silver-chased ceremonial armor gleaming in the amber light. The
+  L584  [CUT(speech)     ] "She carried you for a year," Korr said. "Through the Flickermarch. Through the deep desert. Through places no fire foot
+  L597  [TAIL(elab)      ] The capital stirred with the arrival of foreign delegations. Word of the White Dawn had spread across the continent, car
+======================================================================
+chapter-arc4-03.md
+  L11   [OPEN-MID(suspect)] Other delegations followed. A caravan of Stripe Paws returning from the eastern routes brought word that the Rune-Belt w
+  L16   [OPEN-MID(suspect)] The Shadow Paws came first. Kareth himself presented the gift—a simple obsidian dagger, its blade so dark it seemed to a
+  L22   [OPEN-MID(suspect)] The Stripe Paws came next, and their gift was Ember—but that was not all. Zara also presented a set of ceremonial bardin
+  L62   [OPEN-MID(suspect)] Sylva studied her for a long moment. Then she nodded, a slow, deliberate inclination of her elegant head. "You are stron
+  L75   [OPEN-MID(suspect)] The saber blazed to life in his right paw, green fire trailing along the blade. He moved through the forms—the five form
+  L112  [OPEN-MID(suspect)] Sera had begun recruiting for the elite unit. She had not chosen the strongest warriors or the fastest or the most aggre
+  L134  [OPEN-MID(suspect)] Vasha examined the parchment with the cold, meticulous eye of someone who had once audited her own cousin's caravan ledg
+  L142  [OPEN-MID(suspect)] Vasha studied the parchment for a long moment. Then she nodded. "Agreed. The Stripe Paws will honor this agreement. The 
+  L151  [TAIL(elab)      ] The descent into the inner chamber was quiet. The spiral stair had been worn smooth by centuries of royal footfalls, and
+  L161  [OPEN-MID(suspect)] The roots pulsed. The blossom stirred. The voice of the Tree, when it came, was not a voice at all—not a sound, not a wo
+  L179  [OPEN-MID(suspect)] The roots pulsed. The blossom stirred. The voice of the Tree, when it came, was not a voice at all—not a sound, not a wo
+  L184  [OPEN-MID(suspect)] Ajani did not wait for the Tree to ask. He spoke into the silence, his voice steady, his green-flecked eyes fixed on the
+  L193  [OPEN-MID(suspect)] The roots of the Kyre Tree pulsed once, a slow, rhythmic throb that rippled through the ancient chamber like a heartbeat
+  L208  [OPEN-MID(suspect)] He paused, the green fire flickering along his claws. "But this is a new pact. The old bargain was water for aura. This 
+  L213  [OPEN-MID(suspect)] The roots of the Kyre Tree pulsed once, a slow, rhythmic throb that rippled through the ancient chamber like a heartbeat
+  L219  [TAIL(elab)      ] The roots pulsed faster, brighter, the pale green light flickering with something that might have been acknowledgment or
+  L227  [OPEN-MID(suspect)] The roots of the Kyre Tree pulsed in slow, rhythmic waves, the pale green light rippling through the ancient chamber lik
+  L231  [OPEN-MID(suspect)] The roots pulsed again, faster now, the green light flickering with something that might have been anticipation or might
+  L237  [TAIL(elab)      ] The blossom leaned closer, its petals trembling with the intensity of the Tree's focus. The amber pool rippled, and an i
+  L249  [OPEN-MID(suspect)] The roots of the Kyre Tree went very still. The pale green light that pulsed through the ancient chamber dimmed, then br
+  L251  [OPEN-MID(suspect)] And at the center of that plan, the Tree itself would be elevated—not merely a predator hiding beneath the sand, but a g
+  L253  [OPEN-MID(suspect)] *You are offering me worship. Temples. Pilgrimages. A people who know my name—or the name you will give me. You are offe
+  L257  [TAIL(elab)      ] The roots pulsed faster, brighter, the green light flickering with something that might have been excitement or might ha
+  L265  [TAIL(elab)      ] The blossom unfurled further, its petals spreading wide, and the amber pool blazed with light—a light that was not green
+  L269  [OPEN-MID(suspect)] *I accept your pact, Ajani Brightmane. I will light the way to the old wells. I will feast during the tournament. I will
+  L273  [OPEN-MID(suspect)] The roots of the Kyre Tree pulsed slowly, thoughtfully, the pale green light rippling through the ancient chamber like b
+  L279  [OPEN-MID(suspect)] *First. The feast you offer—the tournament, the delegations, the yearly gathering of the races. You say this will happen
+  L289  [OPEN-MID(suspect)] The blossom drew back slightly, its petals closing just a fraction, and the pressure against Ajani's mind intensified—no
+  L291  [OPEN-MID(suspect)] *Third. You wish me to make myself known to your people. To call me guardian. To have them build temples at my wells and
+  L295  [OPEN-MID(suspect)] The roots pulsed once more, and the green light steadied into a slow, rhythmic glow—the light of something ancient and p
+  L299  [OPEN-MID(suspect)] The roots of the Kyre Tree pulsed slowly, thoughtfully, the pale green light rippling through the ancient chamber like b
+  L321  [OPEN-MID(suspect)] The roots of the Kyre Tree pulsed in slow, rhythmic waves, the pale green light rippling through the ancient chamber lik
+  L329  [TAIL(elab)      ] *You say no one must know I feed on them. You say we must blame it on the sun. The gathering of the strong—I will sap th
+  L349  [OPEN-MID(suspect)] The roots pulsed faster as Ajani continued, and the Tree's attention sharpened at the mention of the Styx. The memory of
+  L353  [OPEN-MID(suspect)] The blossom leaned closer, and the pressure against Ajani's mind intensified—not with threat, but with the weight of sha
+  L359  [OPEN-MID(suspect)] The roots slowed, steadied, and the amber pool swirled with a new image—a sun, golden and warm, rising over the desert. 
+  L361  [OPEN-MID(suspect)] *The Golden Sun. It is a good name. It is a lie, of course—I am not the sun, I am the shadow beneath the sun—but it is a
+  L369  [OPEN-MID(suspect)] The roots of the Kyre Tree pulsed in slow, deliberate rhythms, the pale green light rippling through the ancient chamber
+  L379  [OPEN-MID(suspect)] *I will choose the strong ones. The ones whose aura burns brightest. The ones whose ambition and pride and desperation m
+  L385  [OPEN-MID(suspect)] The blossom leaned closer, its petals trembling with the intensity of the Tree's focus. The amber pool swirled with an i
+  L407  [OPEN-MID(suspect)] Ajani stood on the raised stone platform, the noon sun blazing overhead, his white cloak billowing in the hot desert win
+  L409  [OPEN-MID(suspect)] Sylva watched from her place at Ajani's side, her silver aura flickering almost imperceptibly. She knew what was coming.
+  L427  [OPEN-MID(suspect)] Sylva stood motionless at Ajani's side, her silver-chased ceremonial armor gleaming in the noon light. Her ancient face 
+  L440  [CUT(speech)     ] A weathered Stripe Paw merchant near the front of the crowd spoke first, her voice rough with age but carrying clearly t
+  L453  [OPEN-MID(suspect)] The Bright Paw priests near the front of the crowd were already conferring among themselves, their golden manes bent tog
+  L456  [OPEN-MID(suspect)] One of the priests, a young female with a fresh scar across her muzzle from Motted Paw training, stepped forward and rai
+  L469  [TAIL(elab)      ] Then the kyre flowers began to bloom. Not the slow, patient unfurling of a desert blossom greeting the dawn, but a sudde
+  L473  [OPEN-MID(suspect)] A low vibration rose through the soles of the crowd's feet. It was not an earthquake. It was not a tremor. It was someth
+  L492  [OPEN-MID(suspect)] A shower of gold erupted above the eastern fountain. That was the only way to describe it—droplets of pure, liquid light
+  L505  [TAIL(elab)      ] It was not fire. It was not light. It was something in between—the memory of a color that had no name, the echo of a bri
+  L515  [OPEN-MID(suspect)] The light show lasted perhaps five seconds. Perhaps ten. No one would ever agree on the exact duration, because time see
+  L517  [OPEN-MID(suspect)] But the crowd had seen it. Every Wengari in the plaza had witnessed something—something different, something personal, s
+======================================================================
+chapter-arc4-04.md
+  L5    [OPEN-MID(suspect)] Below the plaza, in the ancient darkness, the lord of the desert stirred. The Golden Sun felt the surge of belief ripple
+  L48   [CUT(speech)     ] T'van appeared at her elbow, his scroll still clutched in one paw. "Regent. I relayed the king's message. He said—" The 
+  L64   [CUT(speech)     ] T'van consulted his scroll, though he did not need to. His memory was excellent. "They are saying many things, Regent. T
+  L77   [OPEN-MID(suspect)] Sylva nodded slowly. The Root-Speakers had been listening to the lord of the desert for three thousand years. They had n
+  L85   [OPEN-MID(suspect)] The Wengari were now being given a different lie—a lie that made them feel chosen, favored, destined to rule. It was a m
+  L97   [OPEN-MID(suspect)] They had been meditating since the announcement ended. They had felt the surge of the Golden Sun's display—the sudden bl
+  L100  [OPEN-MID(suspect)] The eldest of the three, a Root-Speaker whose name had been forgotten even by her own order, raised one withered hand. T
+  L135  [OPEN-MID(suspect)] Sylva was silent for a long moment. The Hydromancer's words were careful, measured, diplomatic—but beneath them, she cou
+  L140  [OPEN-MID(suspect)] "The king is not careless," Sylva said quietly. "He is young. He is eager. He is trying to build a new order while the o
+  L148  [CUT(speech)     ] "I did. All the elders did. The lord of the desert accepted our offerings, and it gave us its mark. But the king's pact 
+  L160  [OPEN-MID(suspect)] Nefere's ancient eyes opened, and something flickered in their clouded depths—not amusement, not quite, but something cl
+  L177  [OPEN-MID(suspect)] The Council of the Untrustworthy met for the first time in a small, windowless chamber beneath the Great Hall. Vasha of 
+  L179  [TAIL(elab)      ] To her left sat two Motted Paw envoys and a Bright Paw observer whose name no one had bothered to learn. To her right sa
+  L199  [TAIL(elab)      ] Elyra, the Motted Paw foreign advisor, received her first foreign delegation in the newly constructed audience chamber n
+  L213  [OPEN-MID(suspect)] Sylva met with Ajani in the throne room at the end of each week, and their meetings had settled into a rhythm that was n
+  L247  [TAIL(elab)      ] Seris met with her daughter in the gardens behind the Motted Paw quarter, under the watchful eyes of the Shadow Paw guar
+  L254  [OPEN-MID(suspect)] Lena nodded. "She is teaching me Flowing Water. Not the martial art—I am not a warrior. But the philosophy. Patience. Re
+  L258  [CUT(speech)     ] Seris was silent for a long moment. Then she reached out and took her daughter's hand. "She is teaching you well. Better
+  L305  [OPEN-MID(suspect)] I need to either retroactively establish her or remove her entirely. The concept of a young Bright Paw cub given to the 
+  L307  [OPEN-MID(suspect)] The Fire Beetles fill a crucial gap in the desert's food web that I should have noticed earlier. We established the Styx
+  L311  [OPEN-MID(suspect)] The evolutionary arms race you have described is elegant. The beetles grow larger and stronger over generations. The Wen
+  L320  [OPEN-MID(suspect)] The breeding female was magnificent—a deep chestnut mare with powerful haunches and the distinctive Ironcrest lineage in
+  L338  [OPEN-MID(suspect)] Ajani grabbed the cub by the arm and ran. Behind them, the market erupted in chaos—merchants shouting, guards scrambling
+  L353  [OPEN-MID(suspect)] "The west wall breach." Ajani's voice was quieter now, the earlier amusement fading. "Three years ago. The big beetle—th
+  L372  [OPEN-MID(suspect)] The breeding female was magnificent—a deep chestnut mare with powerful haunches and the distinctive Ironcrest lineage in
+  L384  [TAIL(elab)      ] The cub paused mid-crouch. She had expected anger, perhaps, or the guards being called. She had not expected appreciatio
+  L390  [OPEN-MID(suspect)] Ajani grabbed the cub by the arm and ran. Behind them, the market erupted in chaos—merchants shouting, guards scrambling
+  L428  [OPEN-MID(suspect)] The breeding female was magnificent—a deep chestnut mare with powerful haunches and the distinctive Ironcrest lineage in
+  L440  [TAIL(elab)      ] The cub paused mid-crouch. She had expected anger, perhaps, or the guards being called. She had not expected appreciatio
+  L446  [OPEN-MID(suspect)] Ajani grabbed the cub by the arm and ran. Behind them, the market erupted in chaos—merchants shouting, guards scrambling
+  L472  [OPEN-MID(suspect)] A soft sound came from the shadows behind Ajani—a quiet, almost imperceptible exhalation that might have been a sigh. Se
+  L479  [OPEN-MID(suspect)] She turned her one good eye toward Kira, who had gone very still at the sight of the two assassins. "You are Shadow Paw.
+  L486  [OPEN-MID(suspect)] The green fire flared along Ajani's claws as he drew one sharp point across his own palm. The cut was clean, precise—a l
+  L494  [TAIL(elab)      ] Sera stood motionless in the shadows, her ruined face unreadable. The silent male Shadow Paw beside her had not moved, b
+  L498  [TAIL(elab)      ] Kira looked down at her own paw, at the faint scars on her forearms, at the dirt ingrained in her dark fur. Then she loo
+  L513  [OPEN-MID(suspect)] "As you command, King Ajani." She stepped forward and extended one lacquered claw toward Kira—not a threat, but an offer
+  L521  [TAIL(elab)      ] Sera's voice was quiet, almost gentle. "Then you already know the hardest part. The rest can be learned. I will teach yo
+  L533  [OPEN-MID(suspect)] Kira grinned—a real grin, the first real grin she had worn in three years. "No promises." And she took Sera's claw and w
+  L544  [TAIL(elab)      ] Third, the Fire Beetle lore you introduced through her backstory serves multiple functions simultaneously. It fills a ge
+  L560  [TAIL(elab)      ] The schism you mentioned is also shrewd. Kira is a Shadow Paw by blood and a Brightmane by adoption. She belongs to two 
+  L571  [OPEN-MID(suspect)] Her tutors arrived on the fourth day. The first was a Bright Paw scholar named Toren, an ancient, withered Wengari whose
+  L584  [OPEN-MID(suspect)] Morning training with Ajani was the thing Kira looked forward to most. It was the only time she had him to herself—no el
+======================================================================
+chapter-arc4-05.md
+  L4    [CUT(speech)     ] Ajani's whiskers twitched. "That's probably true. But I'm your stupid king. And you're stuck with me." He rose and picke
+  L15   [TAIL(elab)      ] Kira learned the palace's secret places from Ajani over the following weeks. The hidden passage behind the throne room t
+  L55   [OPEN-MID(suspect)] The Humman merchant's face went pale beneath its furless skin. His companion, the one to whom he had whispered the insul
+  L58   [CUT(speech)     ] Seris stepped forward, her diplomatic composure cracking. "King Ajani, I apologize on behalf of my delegation. The merch
+  L82   [CUT(speech)     ] "I—I said—" The merchant's voice was a strangled rasp, forced out between the king's claws and the guards' unyielding gr
+  L86   [CUT(speech)     ] "You didn't know." Ajani's whisper was cold and soft and utterly without pity. "You didn't know that the cub standing in
+  L105  [OPEN-MID(suspect)] Kira stepped out of the shadows behind the throne, her dark pelt blending with the gloom, her golden eyes wide. She had 
+  L123  [OPEN-MID(suspect)] Kira stepped out of the shadows between Sera and Vex, her dark pelt blending with the gloom, her golden eyes wide but st
+  L145  [TAIL(elab)      ] Seris saw the opening. She was a diplomat of thirty years, and she understood power even when it wore the face of a six-
+  L148  [OPEN-MID(suspect)] She stepped forward, her movements careful, her voice pitched low and gentle, the voice of a mother soothing a frightene
+  L155  [OPEN-MID(suspect)] She had never been looked at like this before. On the streets, she had been invisible—a shadow among shadows, a stray to
+  L175  [TAIL(elab)      ] The scorpion egg sat on a cushion of woven silk in the center of her chamber, its iridescent shell catching the lampligh
+  L183  [OPEN-MID(suspect)] She did not weep. She was too angry for tears. Her hands trembled at her sides, and she pressed them flat against her ro
+  L189  [OPEN-MID(suspect)] But this time. This time she had done everything right. She had spent weeks researching the king—his moods, his preferen
+  L209  [OPEN-MID(suspect)] The scorpion egg pulsed once in the lamplight. Seris stared at it, her mind already racing through the calculations that
+  L215  [OPEN-MID(suspect)] The first avenue was the Pyrinae. Nefere's network was everywhere—the old Hydromancer had been watching the Hummans sinc
+  L218  [CUT(speech)     ] She summoned her daughter Lena. The girl arrived within the hour, still wearing the simple robes of Sylva's service, her
+  L233  [TAIL(elab)      ] She sent a runner to the Hydromancer's chambers and composed a brief report for the regent. The intelligence network tha
+  L269  [OPEN-MID(suspect)] "Send word to the regent," Nefere said. "Tell her the Humman ambassador has a gift for the king that cannot wait. Tell h
+  L281  [TAIL(elab)      ] The reports reached Ajani in his private chambers, where he sat with Kira beside the window overlooking the hanging gard
+  L284  [OPEN-MID(suspect)] T'van entered, his scroll clutched in one paw, his golden eyes bright with the particular urgency of someone who had bee
+  L398  [CUT(speech)     ] "All of them. I can hear the fire feet. And the caravans. And—" She tilted her head, her ears swiveling. "Someone is run
+  L431  [OPEN-MID(suspect)] Zara stepped forward, her massive paw resting on Ember's flank. "The Stripe Paws do not forget. This is Ember. She carri
+  L452  [CUT(speech)     ] Kira was quiet for a moment. Then she tilted her head, her ears swiveling. "Someone's coming. I can hear fire feet. Lots
+  L456  [CUT(speech)     ] Ajani opened one eye. "The Stripe Paws. Vasha finally stopped delaying the ambassador's messages and decided to collect 
+  L461  [OPEN-MID(suspect)] She was larger than he remembered—the young yearling who had carried him through the marshes was gone, replaced by a sle
+  L469  [OPEN-MID(suspect)] The pale fire foot let out a sound that was not a rumble and not a roar—something higher, brighter, the sound of a creat
+  L475  [OPEN-MID(suspect)] It was subtle—nothing like the blazing gold of Rask's Fire Paws or the cold silver of Sylva's Flowing Water. It was the 
+  L508  [CUT(speech)     ] Before Ajani could respond, Kira tugged at his sleeve. "More of them. The Shadow Paws are here. And—" She tilted her hea
+  L522  [OPEN-MID(suspect)] Vex's reaction will be the most telling moment of the scene. He does not speak often. He has been silent for most of his
+  L528  [OPEN-MID(suspect)] I have only one small note. The Tide Wolf claw beads are a beautiful detail, but we should make sure they are consistent
+  L531  [TAIL(elab)      ] She was beautiful. There was no denying it. Her dark pelt gleamed with the subtle iridescence of a raven's wing, and her
+  L539  [OPEN-MID(suspect)] She had been carrying it for weeks. Ajani had noticed it, of course—a small, worn leather satchel that she kept with her
+  L544  [CUT(speech)     ] The elder stopped before Ajani and inclined his head. "King Ajani. The Shadow Paws have come to present your coronation 
+  L589  [OPEN-MID(suspect)] Kira raised her head. Her tears were still falling, but her breath had steadied. She looked at the belt around her broth
+  L612  [OPEN-MID(suspect)] Lira's face shifted. The confusion gave way to understanding, and then to something else—not anger, not yet, but the fir
+  L625  [OPEN-MID(suspect)] Ajani accepted the bundle and unwrapped it. The daggers were exquisite—blades of dark rune-glass that seemed to drink th
+  L653  [OPEN-MID(suspect)] Nefere's clouded eyes moved across the scene—the Stripe Paws exchanging coin, the Shadow Paws standing in shamed silence
+  L666  [OPEN-MID(suspect)] The spear split. One became two, then four, then five—five identical spears arcing through the air in perfect formation,
+======================================================================
+chapter-arc4-06.md
+  L4    [OPEN-MID(suspect)] Elyra stepped forward, the grimoire cradled in her arms. "The Motted Paws offer this. A grimoire of Flowing Water, bound
+  L12   [TAIL(elab)      ] Elyra's silver aura flickered. "Yes. The book will hold any sorcery inscribed in it. It will animate any sequence, as lo
+  L16   [OPEN-MID(suspect)] Ajani closed the book gently. "This is the best gift I have received today." He paused, looking at the grimoire with an 
+  L19   [OPEN-MID(suspect)] Nefere inclined her head, her clouded eyes unreadable. She was not offended—she had known Ajani long enough to understan
+  L41   [OPEN-MID(suspect)] The page dissolved entirely. In its place, a sphere of pale green light hovered in the air above Ajani's palm—a perfect,
+  L54   [TAIL(elab)      ] Ajani closed the grimoire and held it against his chest. The green fire along his claws had steadied into a warm, steady
+  L85   [OPEN-MID(suspect)] The page dissolved entirely. In its place, a sphere of pale green light hovered in the air above Ajani's palm—a perfect,
+  L106  [TAIL(elab)      ] Ajani closed the grimoire and held it against his chest. The green fire along his claws had steadied into a warm, steady
+  L123  [CUT(speech)     ] "I will explain," he said. "But first—" His gaze found Seris. "The Humman ambassador has been waiting to present her gif
+  L136  [OPEN-MID(suspect)] Ajani looked at the egg. The green fire along his claws flickered, and his expression shifted—not to anger, not to coldn
+  L152  [OPEN-MID(suspect)] Seris stared at him. Her arms tightened around the pulsing egg, and something flickered in her dark eyes—not anger, not 
+  L155  [CUT(speech)     ] "The egg will hatch within hours," she said quietly. "If you do not accept it, I must find someone else. It will imprint
+  L158  [OPEN-MID(suspect)] Ajani followed her gaze. Kira was staring at the egg with an expression of pure, unguarded wonder. She had never seen a 
+  L186  [TAIL(elab)      ] The words came out wrong. He could hear them as soon as he spoke—too fast, too halting, the voice of a king who was tryi
+  L225  [OPEN-MID(suspect)] "That does not make you less terrible." He opened his eyes and looked at Seris. The Humman ambassador was staring at him
+  L245  [OPEN-MID(suspect)] Ajani stared at her. Then he started to laugh—the same bright, surprised laugh that had echoed through the water hole wh
+  L256  [OPEN-MID(suspect)] The first was black—lustrous, gleaming like polished obsidian, its chitin catching the afternoon light and throwing it b
+  L258  [OPEN-MID(suspect)] The second was red—a deep, burnished crimson that shimmered with a faint, pulsing aura. It was slightly smaller than the
+  L260  [OPEN-MID(suspect)] The third was white—iridescent, shimmering like moonlight on still water, the smallest of the three at just over a meter
+  L267  [CUT(speech)     ] "Get them off," he said. His voice was very calm. "Get them off get them off get them off—"
+  L280  [OPEN-MID(suspect)] The egg was whole in Ajani's paws. He could feel the creatures moving inside—three distinct shapes, three distinct pulse
+  L283  [CUT(speech)     ] "King Ajani." Seris stepped forward, her diplomatic composure reassembling itself piece by piece. She had seen his fear.
+  L294  [OPEN-MID(suspect)] It was not a threatening vibration. It was not the warning rattle of a scorpion preparing to strike. It was something so
+  L308  [OPEN-MID(suspect)] Seris stood at the edge of the gathering, her diplomatic composure flickering between horror and calculation. She had in
+  L322  [TAIL(elab)      ] The fire beetle bracers adorned with green gems. The travel boots of sturdy, unfamiliar leather studded with white gems.
+  L332  [TAIL(elab)      ] But Lira's approach had triggered something—a territorial instinct, a protective surge, a newborn's absolute certainty t
+  L362  [OPEN-MID(suspect)] The regalia stopped spinning. The crown descended first, settling gently onto Ajani's head. The white flames rose around
+  L379  [OPEN-MID(suspect)] A voice spoke from the ridge above the water hole. It was faint, ancient, resonant—a voice that had been walking for mon
+  L440  [TAIL(elab)      ] It was the fifth day after the assassination attempt, but the sound still echoed in the memory of every Wengari who had 
+  L444  [OPEN-MID(suspect)] Black Fire reached him first. The black scorpion had grown in the week since the collapse—still young, still small by th
+  L446  [TAIL(elab)      ] And his tail—the very tip of his tail had changed to a pale, greenish hue, the color of marsh water and ancient roots.
+  L482  [TAIL(elab)      ] They came from the north, riding hard on exhausted fire feet, their striped manes caked with dust. They brought news tha
+  L513  [CUT(speech)     ] "The Hummans would not invade," Seris said. She was standing at the edge of the war room, her diplomatic composure fraye
+  L546  [OPEN-MID(suspect)] It reached Nefere through the roots beneath the Pyrinae district, a pulse of ancient consciousness pressing against her 
+  L562  [TAIL(elab)      ] The elite unit stood at the gate. Twenty Wengari warriors, handpicked by Sera, their dark pelts gleaming in the pre-dawn
+  L566  [OPEN-MID(suspect)] Nefere returned on the seventh day. She was exhausted, her ancient frame trembling, her clouded eyes bright with somethi
+  L594  [TAIL(elab)      ] The war room was thick with the smell of old stone and older fear. The table at its center was carved from a single slab
+  L650  [OPEN-MID(suspect)] He reined his scorpion to a halt just beyond the range of the rune cannons, close enough to be heard, far enough to flee
+  L670  [OPEN-MID(suspect)] Sylva stood at the edge of the gate, her silver-chased ceremonial armor gleaming in the growing light. She had heard the

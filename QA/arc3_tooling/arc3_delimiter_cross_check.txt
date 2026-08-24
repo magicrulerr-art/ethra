@@ -1,0 +1,33 @@
+==============================================================================
+chapter-arc3-01.md
+  L49   [OPEN(')] Seris blinked. The tension that had held her rigid through the long afternoon—through the negotiations, the ultimatums, the king's laughter and his threats and his terrifying, toothy smile—drained out of her in a single,
+==============================================================================
+chapter-arc3-02.md
+  L437  [OPEN(')] Korr nodded slowly. "And if the other families' champions do not share our loyalty?"
+==============================================================================
+chapter-arc3-03.md
+  L68   [OPEN(')] The Humman delegation, after a frantic, whispered conference, sent forth a single champion—a Stripe Paw mercenary hired at great expense, her striped armor gleaming, her expression one of grim resignation. She had not ex
+  L132  [OPEN(')] It started with a low hum—a vibration that rose from the Vein-Dwellers' staffs and spread through the stone of the arena floor. The sand rippled. The ancient flagstones groaned. Then, with a sound like the cracking of a 
+  L257  [OPEN(')] A long, uncomfortable silence stretched across the arena. The Stripe Paws shifted in their seats. The Shadow Paws watched with unreadable expressions. The delegations—Pyrinae, Humman, Veylar—observed the Bright Paws' hes
+  L310  [OPEN(*)] The Veylar Shell-Singer had risen from her seat. Her Petal-Shell pulsed with a steady, rhythmic light, and her luminous eyes were fixed on the basin with an intensity that no surface-dweller could interpret. The Humman a
+  L312  [OPEN(*)] The tournament will be a battle. The desert will drink deep today.*
+  L362  [CROSSED] *'half of it down, no one is engaging, it should end soon... They will want glory for their name'*
+  L393  [CROSSED] *'it begins '*
+  L439  [CROSSED] *'yes they would make good regents, two for two and they're unscathed '*
+==============================================================================
+chapter-arc3-04.md
+  L456  [OPEN(')] The beams slid into place between them, locked by sorcery, smoothed by centuries of craftsmanship. The structure rose in silence, broken only by the soft hum of the Vein-Dwellers' staffs and the occasional sharp crack of
+==============================================================================
+chapter-arc3-05.md
+  L18   [OPEN(')] Her golden eyes narrowed, then softened. She had seen many things in her decades as Stripe Paw chief. She had never seen a Bright Paw king lean over a fence rail and shout himself hoarse for a Motted Paw victory. The fir
+  L203  [OPEN(')] The internal consistency of the tournament holds. The Bright Paws' elimination in the first quarter of the first incense stick is not merely humiliation. It is the logical consequence of their ceremonial training meeting
+  L245  [OPEN(')] The Motted Paws' silver aura is the moonlight on still water—patient, adaptable, reflective. Each family's aura is a declaration of who they are.
+  L250  [OPEN(')] The green fire is the mark of that year. It is the Deep's influence, woven into Ajani's aura as surely as the Stripe Paws' caravan routes are woven into their golden light.
+  L267  [CROSSED] *OH, ok, she has claws... spear then' - "You're stronger than I expected, like a good regent should be, lets have the sun shine brighter then!" - 'Styx style, first form aim for her shoulder, when she deflects point to t
+  L296  [CROSSED] *What on....ok... calm, breathe, shes unarmed, sword then, lets see her try to catch a dual blade'- "You're good, but im better!" - 'Five forms, fourth form, aim for the wrist, twist to the lung, if she catches or deflec
+  L325  [CROSSED] *This is getting annoying!!!, why cant i reach her?!, im faster than her, im sure i am, im stronger than her, how is she still catching me?!' - "Perhaps there is some true to your words, but im still better!!" - 'Faint, 
+  L351  [CROSSED] *OK THIS ENDS NOW, SHE NEEDS TO GO DOWN, NOW' - "oh... you're going down now, youre good, i admit it, you might even be better than me, but i am still the heir of the light, WITNESS MY MIGHT!!" - 'this will take a toll, 
+  L355  [OPEN(')] The ji blazed to life in Ajani's paws—a weapon none of the gathered Wengari had ever seen. Its shaft was long, nearly the height of the king himself, and it shimmered with an unstable, shifting light that cycled between 
+  L472  [CROSSED] *what?' - "I DECLINE, BASED ON THE FACT THAT I WAS ALREADY PLANNING TO LEAVE A COUNCIL I EVEN SAID AFTER THIS I WOULD MEET ALL ELDERS TO PLAN FOR THE YEARLY TOURNAMENT, WHAT IS THAT IF NOT A COUNCIL RIGHT BROTHERS?, ASK 
+==============================================================================
+TOTAL flagged lines: 21

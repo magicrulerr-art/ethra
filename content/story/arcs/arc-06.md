@@ -1,6 +1,6 @@
-# Chapter 6: Aftermath & The Road
+## Chapter 1: The Cost
 
-*80,677 words across 5 chapters*
+*75,111 words across 5 chapters*
 
 ### The Cost
 
@@ -8,17 +8,17 @@ The throne room was not a throne room anymore. It was a hospital ward, a war cou
 
 ### Rebuilding
 
-"They're brutes," he muttered, almost to himself. Then louder, cutting through the murmur of the generals: "Generals, I meant from Verdantis. Not the humans currently in the city. The Hummans have mor...
+"good, let's wait till the rest of the elders and generals arrive, Maren, I wish for a memorial to be built to honor the fallen, and the pensions, also we need a proper celebration to set the mood, no...
 
 ### The Vision
 
-Ajani rose from the throne and walked out of the great hall, Blackie and Reddy falling into step behind him. The scorpions clicked their pincers once in unison, and then they were gone, the great bron...
+L'vat's multifaceted eyes blazed. For a long, terrible moment, the Lament simply stared at his student. Then, very slowly, the ancient Threx let out a long, rattling breath that might have been a sigh...
 
 ### The Road Begins
 
-"He is king," Nikolai said. It was not a question. "The starving boy who wandered into our city three years ago is now a king." Cefiro nodded. "He is not merely a king. He is a White Dawn. Convergence...
+Nikolai listened without interruption. When Cefiro finished, the Tsar was silent for a long moment. Then he spoke, his deep voice quiet and contemplative. "I want to fight him. This White Dawn. This A...
 
 ### Epilogue
 
-"He's taller than I remembered," Nadya said quietly....
+"They'll write songs about the day a Tsar tried to kill me and my old teacher yelled at me in front of every delegation on the continent. That's not a song. That's a comedy."...
 

@@ -1,0 +1,790 @@
+=== CONTRACTIONS MISSING APOSTROPHE ===
+chapter-arc1-01.md: 8 hits
+   L37 [cant] 'The sun rises and the shadows grow long.... thats why l'vat wanted me here, could he not have said just that? ive lived with them for a year and he s
+   L37 [cant] 'The sun rises and the shadows grow long.... thats why l'vat wanted me here, could he not have said just that? ive lived with them for a year and he s
+   L4 [ill] 'seven years, has it been that long?, I remember it like it was yesterday, I wonder how is father doing, I heard last year wasnt a good year, I wanted
+   L37 [ive] 'The sun rises and the shadows grow long.... thats why l'vat wanted me here, could he not have said just that? ive lived with them for a year and he s
+   L74 [ive] *Ive never been here, but somehow i know what to do', "The Spear is the king... the sword is the gentle man... the saber is the tiger...the staff is t
+   L37 [thats] 'The sun rises and the shadows grow long.... thats why l'vat wanted me here, could he not have said just that? ive lived with them for a year and he s
+   L74 [theyre] *Ive never been here, but somehow i know what to do', "The Spear is the king... the sword is the gentle man... the saber is the tiger...the staff is t
+   L4 [wasnt] 'seven years, has it been that long?, I remember it like it was yesterday, I wonder how is father doing, I heard last year wasnt a good year, I wanted
+chapter-arc1-03.md: 2 hits
+   L141 [hes] 'Mother....' -"The son acknowledges, his mother sacrifice...", 'look at him, so frail, even the king pays its tithe to the tree, hes carried this with
+   L29 [lets] "The Lightbringer's gift—the White Dawn blood that runs in our veins—is not a gentle inheritance. It lengthens life, yes. I have walked this world for
+chapter-arc1-04.md: 1 hits
+   L28 [theres] *its just as l'vat described, the spiral stair, the faint lights... the air gets thinner... if i handt lived with them for a year I think i would have
+chapter-arc1-06.md: 1 hits
+   L118 [ive] *'what in the world?! ive never seen so many styx before, and this.. mist what is going on?, is that? what is that thing?'*
+chapter-arc2-01.md: 8 hits
+   L6 [ill] 'what day is it?, whos he?... a the priest!, t'van', "Raise your head T'van, Ajani please, when you say my king i look behind my back for my father, I
+   L97 [ill] 'kareth, an old general i believe... the shadow paws blunt as always, at least he is to the point', "Brother, I must be honest until a week ago I wasn
+   L234 [ill] Zara, the Stripe Paw chief, stepped forward. Her massive frame trembled, not with fear but with fury. "Every king has paid in blood. You said the stro
+   L97 [im] 'kareth, an old general i believe... the shadow paws blunt as always, at least he is to the point', "Brother, I must be honest until a week ago I wasn
+   L97 [ive] 'kareth, an old general i believe... the shadow paws blunt as always, at least he is to the point', "Brother, I must be honest until a week ago I wasn
+   L54 [lets] 'ok... i see everyone is here.. lets get this done so i can sleep too, i should sit on the throne, that seems appropriate, father always said if they 
+   L97 [wasnt] 'kareth, an old general i believe... the shadow paws blunt as always, at least he is to the point', "Brother, I must be honest until a week ago I wasn
+   L6 [whos] 'what day is it?, whos he?... a the priest!, t'van', "Raise your head T'van, Ajani please, when you say my king i look behind my back for my father, I
+chapter-arc2-02.md: 1 hits
+   L50 [dont] *now....for the real test', "the pact isn't with me, it's with the lord of the desert, and he must choose you and accept your offer, what you say it's
+chapter-arc2-04.md: 1 hits
+   L26 [shes] *good' - "Guards, please remove our sister, shes feeling I'll, as for the human, the ambassador can stay, the others do so at their own peril", 'and j
+
+=== LOWERCASE STANDALONE i ===
+chapter-arc1-01.md: 3 hits
+   L4 'seven years, has it been that long?, I remember it like it was yesterday, I wonder how is father doing, I heard last year wasnt a good year, I wanted
+   L74 *Ive never been here, but somehow i know what to do', "The Spear is the king... the sword is the gentle man... the saber is the tiger...the staff is t
+   L114 'the doors just closed behind me... spooky, i should kneel, seems appropiate', "Father, Keeper of the light, Warrior amongst Warrior, the one who give
+chapter-arc1-04.md: 4 hits
+   L28 *its just as l'vat described, the spiral stair, the faint lights... the air gets thinner... if i handt lived with them for a year I think i would have
+   L28 *its just as l'vat described, the spiral stair, the faint lights... the air gets thinner... if i handt lived with them for a year I think i would have
+   L101 "I am not uthgard, I am Ajani, and I know what you are and what you are not, as much as I know what I am and what I am not, I will not make the mistak
+   L101 "I am not uthgard, I am Ajani, and I know what you are and what you are not, as much as I know what I am and what I am not, I will not make the mistak
+chapter-arc1-06.md: 2 hits
+   L16 "You may go now, Ajani the first king of the wengari, a pact is brokered a pact is kept, the first did not speak of me, i wonder, will you do so?, i l
+   L16 "You may go now, Ajani the first king of the wengari, a pact is brokered a pact is kept, the first did not speak of me, i wonder, will you do so?, i l
+chapter-arc2-01.md: 9 hits
+   L6 'what day is it?, whos he?... a the priest!, t'van', "Raise your head T'van, Ajani please, when you say my king i look behind my back for my father, I
+   L6 'what day is it?, whos he?... a the priest!, t'van', "Raise your head T'van, Ajani please, when you say my king i look behind my back for my father, I
+   L54 'ok... i see everyone is here.. lets get this done so i can sleep too, i should sit on the throne, that seems appropriate, father always said if they 
+   L54 'ok... i see everyone is here.. lets get this done so i can sleep too, i should sit on the throne, that seems appropriate, father always said if they 
+   L54 'ok... i see everyone is here.. lets get this done so i can sleep too, i should sit on the throne, that seems appropriate, father always said if they 
+   L54 'ok... i see everyone is here.. lets get this done so i can sleep too, i should sit on the throne, that seems appropriate, father always said if they 
+   L97 'kareth, an old general i believe... the shadow paws blunt as always, at least he is to the point', "Brother, I must be honest until a week ago I wasn
+   L97 'kareth, an old general i believe... the shadow paws blunt as always, at least he is to the point', "Brother, I must be honest until a week ago I wasn
+   L192 'i hope the tree doesn't kill anyone' -"careful elders, the steps are steep the air gets thin, if anyone doesn't feel strong to go on, grab my hand"-'
+
+=== QUOTE INVENTORY (per chapter) ===
+chapter-arc1-01.md: ascii"=38 ascii'=22 curlyOpen"=0 curlyClose"=0 curlyOpen'=0 curlyClose'=0
+chapter-arc1-02.md: ascii"=48 ascii'=16 curlyOpen"=0 curlyClose"=0 curlyOpen'=0 curlyClose'=0
+chapter-arc1-03.md: ascii"=42 ascii'=15 curlyOpen"=0 curlyClose"=0 curlyOpen'=0 curlyClose'=0
+chapter-arc1-04.md: ascii"=36 ascii'=18 curlyOpen"=0 curlyClose"=0 curlyOpen'=0 curlyClose'=0
+chapter-arc1-05.md: ascii"=34 ascii'=11 curlyOpen"=0 curlyClose"=0 curlyOpen'=0 curlyClose'=0
+chapter-arc1-06.md: ascii"=32 ascii'=18 curlyOpen"=0 curlyClose"=0 curlyOpen'=0 curlyClose'=0
+chapter-arc2-01.md: ascii"=127 ascii'=58 curlyOpen"=0 curlyClose"=0 curlyOpen'=0 curlyClose'=0
+chapter-arc2-02.md: ascii"=114 ascii'=41 curlyOpen"=0 curlyClose"=0 curlyOpen'=0 curlyClose'=0
+chapter-arc2-03.md: ascii"=118 ascii'=99 curlyOpen"=0 curlyClose"=0 curlyOpen'=0 curlyClose'=0
+chapter-arc2-04.md: ascii"=124 ascii'=60 curlyOpen"=0 curlyClose"=0 curlyOpen'=0 curlyClose'=0
+chapter-arc2-05.md: ascii"=110 ascii'=52 curlyOpen"=0 curlyClose"=0 curlyOpen'=0 curlyClose'=0
+chapter-arc2-06.md: ascii"=114 ascii'=49 curlyOpen"=0 curlyClose"=0 curlyOpen'=0 curlyClose'=0
+
+=== LINES WITH ODD ASCII-DOUBLE-QUOTE COUNT ===
+chapter-arc1-05.md L114 *"I accept your offer, Ajani Brightmane. The pact is renewed. But it is not renewed as it was. The tithe is ended. The rituals are ended. You will build the roa
+chapter-arc1-05.md L116 The gardens wither. The wells run dry. The Bright Paws perish. I do not say this as a threat. I say this as a fact. I am old. I am patient. I am hungry. And I w
+chapter-arc2-01.md L120 'ok here it goes...", "Brothers , my father's last works spoken to me were that I was indeed the white dawn...he confirmed to me himself I am...the heir of the 
+
+=== LINES WITH ODD ASCII-SINGLE-QUOTE COUNT ===
+chapter-arc1-01.md L4 'seven years, has it been that long?, I remember it like it was yesterday, I wonder how is father doing, I heard last year wasnt a good year, I wanted to see th
+chapter-arc1-01.md L26 "My prince. Your father awaits you in the Chamber of Reflection, beneath the throne. He asked that you come to him before the ceremony. He said—" The attendant 
+chapter-arc1-01.md L30 The Four Pillars gleam at the arena's center, waiting. The crowd is watching. The king is below, in the chamber where Uthgar Lightbringer vanished three thousan
+chapter-arc1-01.md L37 'The sun rises and the shadows grow long.... thats why l'vat wanted me here, could he not have said just that? ive lived with them for a year and he still cant 
+chapter-arc1-01.md L41 The attendant's eyes widened. For a heartbeat, he seemed frozen—the weight of the prince's command, the sudden clarity in Ajani's voice, the implication of thos
+chapter-arc1-01.md L53 The Lament did not follow. But as Ajani passed the arena's edge, its head swiveled slowly, tracking him toward the palace, its multifaceted eyes catching the li
+chapter-arc1-01.md L56 The attendant led Ajani through the palace corridors—wide halls of polished stone, hung with tapestries depicting the Third Tyrant's great works: the hanging ga
+chapter-arc1-01.md L93 Uthgard IX, king of the Bright Paws, lord of the hanging gardens, keeper of the Kyre Tree's pact, was dying.
+chapter-arc1-01.md L96 His golden mane, once as thick and bright as Ajani's own, had faded to a pale, brittle white. His eyes, still sharp, were sunk deep into a face lined with decad
+chapter-arc1-01.md L107 Behind Ajani, the door began to close. The attendant's terrified face vanished. The lamps flickered. Father and son were alone in the Chamber of Reflection, whe
+chapter-arc1-01.md L134 He leaned forward, his golden eyes—still sharp, still fierce—locking onto Ajani's.
+chapter-arc1-01.md L142 He raised his right hand, and a faint, trembling light kindled in his palm—the last ember of the Lightbringer's gift, guttering like a candle in a storm.
+chapter-arc1-02.md L3 He let the silence stretch, watching his son's face.
+chapter-arc1-02.md L15 "The Styx have not heralded you. The Chi'Thak have not stirred. But the Lament has walked out of the Flickermarch for the first time in three hundred years. It 
+chapter-arc1-02.md L27 The lamps flickered. Somewhere far above, in the arena, the Lament's hum deepened, vibrating through the stone like the first tremor of an earthquake.
+chapter-arc1-02.md L38 Uthgard IX looked upon his son. The faint smile that had touched his weary face at Ajani's careful kneeling faded, replaced by something heavier: the weight of 
+chapter-arc1-02.md L62 His golden eyes—still fierce, still sharp—found Ajani's.
+chapter-arc1-02.md L70 The lamps flickered again. Somewhere far above, in the arena, the Lament's hum deepened, a resonant thrum that vibrated through the stone.
+chapter-arc1-02.md L82 "But the Styx have not heralded you. The Chi'Thak have not stirred. And yet a Lament has walked out of the Flickermarch for the first time in three centuries. I
+chapter-arc1-02.md L86 He raised his right hand, and a faint, trembling light kindled in his palm—the last ember of the Lightbringer's gift. It guttered and died.
+chapter-arc1-02.md L105 'L'vat was right!!!, we are a fraud!, all my life I have believed our city was a marvel yet is nothing but a well kept cage!!!' -"Father... is this true?, are w
+chapter-arc1-02.md L148 He reached out with his right hand—the one that still worked—and placed it gently on Ajani's shoulder.
+chapter-arc1-03.md L8 The lamps flickered. The Lament hummed. And the king waited for his son's answer.
+chapter-arc1-03.md L14 Uthgard IX, at 473 years old, is an anomaly. He has survived two full Crimson Tides—a feat almost unheard of for a Wengari. His longevity is not natural; it is 
+chapter-arc1-03.md L29 "The Lightbringer's gift—the White Dawn blood that runs in our veins—is not a gentle inheritance. It lengthens life, yes. I have walked this world for four hund
+chapter-arc1-03.md L96 "She was a Stripe Paw attendant. Not a warrior, not a noble, not a diplomat. She carried water to the caravans and mended the tents and sang songs to the cubs w
+chapter-arc1-03.md L104 "I brought her here. To the capital. I knew the risks—the Tree's sapping influence is hardest on those who are not bred to endure it. The Bright Paws thrive her
+chapter-arc1-03.md L132 He reached out with his right hand and grasped Ajani's shoulder, his claws pressing gently into the golden fur.
+chapter-arc1-03.md L141 'Mother....' -"The son acknowledges, his mother sacrifice...", 'look at him, so frail, even the king pays its tithe to the tree, hes carried this with him for y
+chapter-arc1-04.md L4 "You have your mother's heart, Ajani. She would have been proud of you. I am proud of you."
+chapter-arc1-04.md L8 He released his son's shoulder and rose slowly from the stone throne, his movements heavy with the weight of centuries. His dead left hand hung at his side, the
+chapter-arc1-04.md L23 "Ajani." Uthgard's voice stopped him at the threshold. "Whatever the Tree asks of you—whatever it demands—remember that you are not merely the heir to the Light
+chapter-arc1-04.md L28 *its just as l'vat described, the spiral stair, the faint lights... the air gets thinner... if i handt lived with them for a year I think i would have fainted b
+chapter-arc1-04.md L35 And then, ahead, the passage opened into a vast underground chamber. The ceiling soared into darkness. The walls were lined with the roots of the Kyre Tree—not 
+chapter-arc1-04.md L41 The voice came again, clearer now. It did not speak in words. It spoke in images, in sensations, in memories that were not Ajani's own. He saw the Lightbringer 
+chapter-arc1-04.md L47 The blossom at the chamber's center began to open.
+chapter-arc1-04.md L76 The image shifted. Ajani saw Uthgar Lightbringer pressing his palm to the very pool that now held his reflection, saw the amber liquid climb up his arm, saw the
+chapter-arc1-05.md L33 The blossom fell silent. The roots waited. The amber pool reflected the young king's face, waiting for his answer.
+chapter-arc1-05.md L60 The root withdrew. The spear's green light faded, leaving only the soft amber glow of the Tree. And then the voice came one last time, softer than before, almos
+chapter-arc1-05.md L66 The passage behind Ajani began to glow with a warm, golden light—the light of the Bright Paw legacy, guiding him back to the surface. The Tree's blossom slowly 
+chapter-arc1-05.md L75 The amber pool rippled, and a new image formed. Not a vision of the future, but a memory—one of the Tree's own memories, pulled from deep within its ancient con
+chapter-arc1-05.md L84 The image faded, and the Tree's voice dropped to a whisper.
+chapter-arc1-05.md L96 Let me rewrite the Tree's final exchange with Ajani.
+chapter-arc1-05.md L111 *A single root extended from the blossom—thin, dark, thorned. It touched the tip of Ajani's green spear, and the chamber grew cold.*
+chapter-arc1-06.md L9 *The blossom began to close, its petals folding inward like a fist. The green luminescence faded. The roots withdrew into the rock. And the Tree's voice echoed 
+chapter-arc1-06.md L32 A roar—not of any beast Ajani had ever heard, but something deeper, older, more resonant. It was answered by another, and another, until the air itself seemed t
+chapter-arc1-06.md L36 The passage before Ajani blazed with golden light, and he climbed. The stairs seemed shorter now, the air warmer, the weight of the Tree's presence receding wit
+chapter-arc1-06.md L44 But before Ajani could answer, the sound came again—that roar, closer now, shaking the very walls of the palace. Uthgard's eyes widened. He knew that sound. He 
+chapter-arc1-06.md L68 The mist swirled at the arena's edge, thick and golden and utterly wrong—not the dry heat-haze of the desert, but something damp, living, breathing. It coiled a
+chapter-arc1-06.md L74 Dozens of them—perhaps hundreds—circling the arena in a great, silent vortex. Their plumage blazed with the full spectrum of the Flicker's fire: crimson and amb
+chapter-arc1-06.md L86 But no Tide Wolf had ever been this size. No Tide Wolf had ever burned with the cold fire of the Kyre Tree's ancient light. And no Tide Wolf had ever walked out
+chapter-arc1-06.md L89 It stopped at the edge of the arena's central sand, its massive head swiveling slowly, surveying the gathered races with an intelligence that was not animal, no
+chapter-arc1-06.md L92 Then it lifted its head and howled. The sound was not a wolf's howl. It was the sound of the desert itself—the grinding of stone, the whisper of sand, the patie
+chapter-arc1-06.md L102 Uthgard IX, his withered hand trembling, his golden eyes wet with tears he had not shed in centuries, placed his good hand on his son's shoulder.
+chapter-arc1-06.md L129 He raises his right hand—the hand that still works—and places it on Ajani's chest, over his heart.
+chapter-arc1-06.md L133 "The Lightbringer's fire passes from king to heir. It has done so since Uthgard the Second took up the mantle when the first vanished into the Chamber of Reflec
+chapter-arc1-06.md L137 His hand begins to glow—a soft, golden light, the last ember of the Lightbringer's gift.
+chapter-arc1-06.md L145 The light flows from his hand into Ajani's chest, and Uthgard IX, four hundred and seventy-three years old, survivor of two Crimson Tides, keeper of the pact, f
+chapter-arc2-01.md L14 He raised his head, his golden eyes meeting Ajani's. "Ajani," he repeated, testing the name without the title. It felt strange on his tongue, like a prayer spok
+chapter-arc2-01.md L37 The elders turned. The Hydromancers lifted their heads. Seris raised her pen. And T'van, his voice cracking slightly but growing stronger with every word, spoke
+chapter-arc2-01.md L45 The chamber erupted. The Shadow Paws growled. The Stripe Paws thumped their tails. The Bright Paws leaned forward, their golden eyes gleaming with pride and fea
+chapter-arc2-01.md L49 T'van stepped aside, his duty done. As Ajani passed him, the young priest whispered, so quietly that only the king could hear: "I will sleep now, Ajani. And whe
+chapter-arc2-01.md L54 'ok... i see everyone is here.. lets get this done so i can sleep too, i should sit on the throne, that seems appropriate, father always said if they see your f
+chapter-arc2-01.md L72 The silence that followed was heavy, expectant, charged with the unspoken questions that had been brewing for seven days. It was a Shadow Paw elder who rose fir
+chapter-arc2-01.md L76 "We have served the Wengari for five thousand years," Kareth said, his voice rough as sand. "We served the First Tyrant, who burned half the world and died scre
+chapter-arc2-01.md L88 The chamber fell utterly silent. The Stripe Paws stopped thumping their tails. The Bright Paws held their breath. Even the Pyrinae Hydromancers, who had heard m
+chapter-arc2-01.md L106 When the doors closed, the chamber felt suddenly smaller. The concentric semicircles of the Hall of the Sun, designed to hold the representatives of five great 
+chapter-arc2-01.md L108 The Motted Paw representatives, sleek and silent, their spotted coats making them nearly invisible against the stone. And scattered among them, the heirs—the so
+chapter-arc2-01.md L127 Kareth's one good eye widened. His obsidian staff, which had not wavered in decades of council meetings, trembled in his grip. Around him, the elders of the fiv
+chapter-arc2-01.md L135 He did not need to say the name. No Wengari spoke the Black Fire's true name. He was the First Tyrant, the Shadow Paw who had unified the families and burned ha
+chapter-arc2-01.md L139 A Stripe Paw chief rose from her seat. Her name was Zara, and she was the leader of the largest caravan fleet in the Rune-Belt, a warrior who had fought Tide Wo
+chapter-arc2-01.md L148 Kareth stiffened. The Stripe Paws exchanged glances. The Bright Paws leaned forward. And the elders of the Wengari waited for the king's answer.
+chapter-arc2-01.md L156 Nyasha regarded the young king for a long moment. Her ancient eyes, pale as moonstone, seemed to look not at Ajani but through him—into the chamber below, into 
+chapter-arc2-01.md L175 Zara, the Stripe Paw chief, thumped her tail once against the stone. "And I. The Stripe Paws have carried the Bright Paws' trade for centuries. We have asked no
+chapter-arc2-01.md L183 "I served your father," he said at last. "I served his father before him. I have buried three kings of the Bright Paws. I have watched the pact drain them year 
+chapter-arc2-01.md L188 He met Ajani's eyes, and there was something in his scarred face that might have been hope, or might have been grief, or might have been both. "Lead, King Ajani
+chapter-arc2-01.md L195 The descent was slow. The spiral stair had been carved by the Lightbringer's own sorcery three thousand years ago, and the steps were worn smooth by centuries o
+chapter-arc2-01.md L198 Ajani's green fire flickered along the walls, casting dancing shadows that made the ancient runes seem to writhe. Behind him, the elders of the five families fo
+chapter-arc2-01.md L203 The other elders followed. The heirs followed. And at the rear, the Bright Paw priests who had been permitted to accompany their new king exchanged nervous glan
+chapter-arc2-01.md L221 'ok...please don't kill anyone', "this is the crime of the lightbringer, this is the truth, what you see here is the lord of the desert, we all live and die und
+chapter-arc2-01.md L234 Zara, the Stripe Paw chief, stepped forward. Her massive frame trembled, not with fear but with fury. "Every king has paid in blood. You said the strongest amon
+chapter-arc2-01.md L239 Her claws extended involuntarily, gouging furrows in the ancient stone. "How many others? How many Stripe Paws, how many Shadow Paws, how many Motted Paws have 
+chapter-arc2-01.md L244 Before Ajani could answer, another voice spoke. It was Nyasha, the ancient Motted Paw, her pale silver fur catching the green light. She had not spoken since th
+chapter-arc2-01.md L259 Kareth, the old general, the scarred Shadow Paw who had served three kings and buried two of them, let out a sound that might have been a laugh or might have be
+chapter-arc2-02.md L4 Nyasha, who had been silent since her last words, spoke again. "The crime remains," she agreed. "But the young king is right about one thing. We are the stronge
+chapter-arc2-02.md L9 'ok... So good, so far' , "I brought you here because the lord of the desert isn't the only one, while I was in the marsh I met the lord of the marsh, I trained
+chapter-arc2-02.md L13 The chamber fell into a silence so profound that the faint pulsing of the Kyre Tree's roots seemed to grow louder, filling the ancient space with a steady, rhyt
+chapter-arc2-02.md L50 *now....for the real test', "the pact isn't with me, it's with the lord of the desert, and he must choose you and accept your offer, what you say it's between y
+chapter-arc2-02.md L54 The words hung in the air like a blade poised to fall. The elders and heirs of the five families stood frozen, their eyes fixed on the pulsing blossom at the ce
+chapter-arc2-02.md L63 Zara stepped forward. The Stripe Paw chief had retracted her claws, but her massive frame was still tense, coiled like a spring. "He asks what no king has ever 
+chapter-arc2-02.md L78 It also fits the Wengari ethos. The Shadow Paws are the family of the Black Fire. They are proud, fierce, and deeply aware of their own history. Kareth would no
+chapter-arc2-02.md L83 Nyasha had taken only two steps toward the blossom when Kareth's voice cut through the chamber like a blade.
+chapter-arc2-02.md L117 The amber pool swirled. The roots pulsed. And then, slowly, a single petal unfurled from the blossom and drifted down to rest at Kareth's feet. It was not a rej
+chapter-arc2-02.md L130 Zara, the Stripe Paw chief, did not speak of trade or caravans. She spoke of her mother, who had died in the capital, drained by the Tree's hunger. She spoke of
+chapter-arc2-02.md L143 A Shadow Paw cub—no more than ten years old, the youngest heir present—stepped forward when no one expected her to. She was small for her age, her dark fur stil
+chapter-arc2-02.md L172 The amber pool swirled. The roots pulsed. And then, slowly, a single petal unfurled from the blossom—darker than the first, edged with silver—and drifted down t
+chapter-arc2-02.md L178 His Aura flared—bright gold, the color of his lineage—and the Tree drank. The young warrior's body convulsed as the roots nearest to him glowed with a sudden, t
+chapter-arc2-03.md L49 Seris listened. The rumble grew louder. The fire flickered. And for the first time since she had arrived in this desert city, the Humman ambassador felt somethi
+chapter-arc2-03.md L59 "Ajani—my king—they're here. All of them. The delegations. The Pyrinae have requested a formal audience—not as vassals, they said, but as an independent race. T
+chapter-arc2-03.md L74 Ajani looked out the window, toward the northern horizon where the Styx circled and the road was meant to begin. "They're not going to let us leave, are they?"
+chapter-arc2-03.md L79 T'van's ears flattened. "No, my king. I don't think they are."
+chapter-arc2-03.md L126 Ajani's paw stopped halfway to his water flask. He had spent a year in the marshes. He had trained under L'vat. He knew what T'van was describing. But the Draga
+chapter-arc2-03.md L136 The king looked out the window, toward the northern horizon where the Styx circled and the road was meant to begin and something ancient was walking down from t
+chapter-arc2-03.md L141 T'van's ears flattened. "No, my king. I don't think they are."
+chapter-arc2-03.md L170 "Ajani—my king—they're here. Delegations. The Pyrinae have requested a formal audience—not as vassals, they said, but as an independent race. The Hummans have s
+chapter-arc2-03.md L188 T'van hesitated. "The watchmen on the northern road. They saw something. Walking down from the coast. Alone. Singing. They thought it was a mirage—a trick of th
+chapter-arc2-03.md L206 He hesitated at the door. "Ajani—the Threx. The small one. It's been standing at the eastern gate since dawn. It hasn't moved. It hasn't eaten. The guards are a
+chapter-arc2-03.md L211 The young priest shook his head, a faint, bewildered smile crossing his weary face. "I will tell the delegations. One by one. The arena. Their best." He bowed, 
+chapter-arc2-03.md L215 And then he was gone, his hurried footsteps echoing down the corridor as he carried the king's message to the gathered powers of Ethra.
+chapter-arc2-03.md L219 'a Quick not l'vat, the travel must have taken a toll on him, let's not make him wait', "Brother, this Ajani, friend of the marsh, disciple of l'vat salutes you
+chapter-arc2-03.md L228 At Ajani's approach, the Quick's head snapped up. Its eyes caught the green fire flickering along the king's claws and widened—not with fear, but with recogniti
+chapter-arc2-03.md L239 The Quick flinched as Ajani reached out—an instinctive recoil, the reflex of a creature that had spent twenty-eight days alone in a world that would happily kil
+chapter-arc2-03.md L256 It swayed again, but this time it was not exhaustion. It was something closer to peace. "I will rest now. The pool—I would like the pool. And then I will return
+chapter-arc2-03.md L266 T'van returned with the summons, his breath still short from running. "The Humman ambassador is waiting at the arena's edge. She brought her council. And a cham
+chapter-arc2-03.md L270 Ajani settled onto the throne. The cold stone was familiar now—it had been a month, and the seat had begun to mold to his frame, or perhaps he had begun to mold
+chapter-arc2-03.md L282 *well, let's see how they face a king, let them kneel', "Is it not customary to kneel before your king brother ?", 'flare the aura, let them feel the heat of th
+chapter-arc2-03.md L291 The green fire flared along Ajani's claws, and the air in the arena changed. It thickened. Pressed. The Humman merchants stumbled, their silks suddenly stifling
+chapter-arc2-03.md L293 Seris held out longer. The ambassador's jaw was clenched, her eyes fixed on the young king with a defiance that was admirable or foolish—perhaps both. But event
+chapter-arc2-03.md L300 The Stripe Paw's striped mane rippled in the oppressive heat, her claws half-extended, her breathing controlled. She had felt worse. She had trained under worse
+chapter-arc2-03.md L304 The merchant who had fallen first let out a strangled whimper. Seris, still on her knees, closed her eyes as if praying. And the Stripe Paw mercenary waited for
+chapter-arc2-03.md L308 *the absolute insolence!', "I AM AJANI, KEEPER OF THE LIGHT, HEIR TO THE FIRST AND THE THIRD, I AM THE DESERT SUN AND YOU WILL KNEEL TO YOUR KING!!!!!", 'now, w
+chapter-arc2-03.md L327 The Humman merchants, still on their knees, stared at their champion with dawning horror. Seris opened her eyes, saw the mercenary kneeling, and went very pale.
+chapter-arc2-04.md L1 ## Chapter 4: The Tree's Judgment
+chapter-arc2-04.md L14 The Humman merchants, still on their knees, stared at their champion with dawning awe. Seris opened her eyes, saw the mercenary kneeling, and drew a slow, caref
+chapter-arc2-04.md L26 *good' - "Guards, please remove our sister, shes feeling I'll, as for the human, the ambassador can stay, the others do so at their own peril", 'and just a litt
+chapter-arc2-04.md L44 "Go," Seris said quietly to her council. "I will speak for Verdantis. The rest of you—wait outside. If the king wished you dead, you would already be dead." The
+chapter-arc2-04.md L61 Seris recognized it. Her eyes flicked to Ajani's claws, then back to his face, and something shifted in her expression—a recalibration, a reassessment. She had 
+chapter-arc2-04.md L73 "Assurances that the new king of the Wengari does not intend to follow the path of his predecessors. The First Tyrant burned half the world. The Fifth Tyrant—ou
+chapter-arc2-04.md L81 "Give us a limit," Seris said quietly. "A boundary. Something we can hold you to. A promise that can be kept—and verified. The Hummans do not ask for your secre
+chapter-arc2-04.md L90 Seris flinched. The claw tap had stopped, and in its place was the full, terrible weight of the White Dawn's attention. She had been a diplomat for thirty years
+chapter-arc2-04.md L107 She spread her empty hands. "That is my offer. That is my council's offer. If you refuse it—" She swallowed. "Then I will leave this arena, and I will tell my p
+chapter-arc2-04.md L112 *laugh now, booming', "Hahaha, what makes you believe the wengari even need you hummans ?, how many loads can you carry ? , how many days can you endure, you co
+chapter-arc2-04.md L119 The king's laughter echoed through the empty arena, bouncing off the stone tiers where thousands had witnessed his coronation. The green fire flickered along hi
+chapter-arc2-04.md L134 "The Council will not agree to this," she said quietly. "But the Council is in Verdantis. I am here. And I have the authority to speak for my people. I will giv
+chapter-arc2-04.md L148 Seris rose slowly, her knees aching from the stone, her forehead dusted with sand. She did not speak. There was nothing left to say. She had offered her best co
+chapter-arc2-04.md L152 She turned to leave, her steps measured, her back straight—a diplomat's posture, maintained by sheer force of will. At the arena's edge, she paused and looked b
+chapter-arc2-04.md L156 The arena fell silent. The green fire flickered along Ajani's claws, casting dancing shadows across the empty stone tiers. Somewhere in the shaded colonnade, th
+chapter-arc2-04.md L162 "T'van," he called, his voice carrying through the empty arena. "The Pyrinae are next. Send them in."
+chapter-arc2-04.md L173 Their heat-sensing pits, those vestigial remnants of their reptilian ancestors, flickered faintly as they adjusted to the arena's thermal gradients.
+chapter-arc2-04.md L188 *Raise and eyebrow, father say they are like children, they aren't malicious just....naive', "esteemed friends, I salute you, the Pyrinae and the wengari have b
+chapter-arc2-04.md L192 The Hydromancer's clouded eyes registered the extended hand, and something ancient stirred in their depths—not quite amusement, not quite approval, but a recogn
+chapter-arc2-04.md L196 The Sun-Walker envoy, quicker to read the moment, stepped forward and clasped Ajani's forearm in the Wengari fashion. Her grip was firm, her rune-glass humming 
+chapter-arc2-04.md L201 The Hydromancer made a soft sound that might have been a laugh. "The young are so direct." She stepped forward, her embedded rune-glass pulsing with amber light
+chapter-arc2-04.md L205 The Root-Speaker, still cowled and silent, raised one hand. The air in the arena thickened. The green fire along Ajani's claws flickered, then steadied, then br
+chapter-arc2-04.md L218 The other Pyrinae departed without protest. The Sun-Walker envoy inclined her head with the practiced neutrality of a trader who knew when a negotiation had bec
+chapter-arc2-04.md L230 She stepped closer to the throne, her bare feet silent on the warm stone. "You asked us to speak without flattery. I will honor that request. The Pyrinae have b
+chapter-arc2-04.md L235 She stopped at the foot of the throne's dais, her clouded eyes level with his. "The question is not whether we will follow you. The question is whether you will
+chapter-arc2-04.md L240 "do you think me a fool?, three thousands years waiting to serve? Did father ever fall for such lofty words?, I might be a young king, but I am king, you either
+chapter-arc2-05.md L3 The Hydromancer's ancient composure did not crack. But something shifted in her clouded eyes—a flicker of recognition, perhaps even of approval. She had watched
+chapter-arc2-05.md L14 The green fire flickered along the king's claws. Somewhere in the shadows of the colonnade, the Root-Speaker was still listening. Somewhere beneath the desert, 
+chapter-arc2-05.md L18 'twirl the spear, then throw it at her face, grace her lightly...there' - "I am my father son, but I am not my father, I won't miss the next time, the truth, no
+chapter-arc2-05.md L22 The spear whistled through the air, a blur of green fire and gleaming rune-glass, and embedded itself in the stone column beside the Hydromancer's head with a c
+chapter-arc2-05.md L33 She drew a slow breath, and the rune-glass filaments embedded in her flesh pulsed with amber light. "You want the truth. Here it is. We did not wait three thous
+chapter-arc2-05.md L55 The Hydromancer's testimony should be grounded in that: a dream she witnessed, a moment of clarity in the Tree's ancient, dreaming mind. Not a conversation with
+chapter-arc2-05.md L59 The Hydromancer saw the flicker of skepticism in Ajani's eyes and inclined her head. "You wonder what value our words hold. The Tree does not speak to us as it 
+chapter-arc2-05.md L64 She paused, her clouded eyes distant. "Forty years ago, I witnessed a dream. The Tree was remembering the Lightbringer. Not as the Wengari remember him—not as t
+chapter-arc2-05.md L69 She met Ajani's eyes. "I am old. I will not live to see another decade. But I have carried that dream with me for forty years, waiting for the moment it would b
+chapter-arc2-05.md L80 "I am old, King Ajani. One hundred and seventeen years. I have served in this capital since before your father was born. I knew him. Uthgard IX. Not as a suppli
+chapter-arc2-05.md L90 She let the silence stretch. "I am not here to speak of the Lightbringer. I never knew him. No one alive knew him. I am here because your father asked me, forty
+chapter-arc2-05.md L121 "You have already repaid me," she said quietly. "You lived. You grew. You returned from the marshes with the green fire in your claws and the Deep's blessing on
+chapter-arc2-05.md L126 She stepped back, her rune-glass filaments dimming. "But if you wish to honor an old woman's sentiment—see the ocean. Your mother wanted it for you. Your father
+chapter-arc2-05.md L136 'mother...' - "Very well, now let's return to the act, call the rest of your delegation please , before Ajani I am king... And just like the water is life in th
+chapter-arc2-05.md L145 The Sun-Walker's sharp merchant eyes flicked from the spear still quivering in the column to the queen's calm face, and she made a quick, private calculation: t
+chapter-arc2-05.md L161 Five cities. The abandoned Wengari settlements, scattered across the desert like bones, their wells still running, their walls still standing, their foundations
+chapter-arc2-05.md L163 They had done this without ownership, without recognition, without any expectation of reward. Because the cities were Wengari, and the Pyrinae were vassals, and
+chapter-arc2-05.md L170 Nefere opened her mouth, then closed it. For the first time in a century of diplomacy, she had no words. It was the Sun-Walker who recovered first. "Five cities
+chapter-arc2-05.md L185 "Before you leave, I do have one small request, you live with us, I need you to monitor the hummans, I will be gone for the road project I need someone who know
+chapter-arc2-05.md L203 She stopped at the foot of the throne's dais and raised her eyes to the king. "I am old, Ajani Brightmane. I have perhaps three years left, perhaps five. I will
+chapter-arc2-06.md L7 "The Veylar delegation, my king. A single Shell-Singer. She arrived at the eastern gate this morning and has been waiting in the shade of the outer wall ever si
+chapter-arc2-06.md L19 T'van bowed and vanished into the shadows of the eastern gate, his hurried footsteps echoing through the empty arena. For a long moment, there was only silence 
+chapter-arc2-06.md L31 She stopped at the center of the arena, exactly where the other delegations had stood, but she did not kneel. She did not bow. She simply looked up at the thron
+chapter-arc2-06.md L40 "Sylara of the veylar, warden of the tides, this humble king salutes the only race who hasn't been bested by the glory of the wengari, please speak, how can thi
+chapter-arc2-06.md L53 The shell's glow intensified, and for a moment, the arena was filled with a sound that was not quite music and not quite language—a resonance that vibrated in t
+chapter-arc2-06.md L79 She raised the Petal-Shell, and its light brightened until it cast shimmering reflections across the stone tiers. "The Veylar are interested, King Ajani. But we
+chapter-arc2-06.md L93 Sylara's fin-ridges went very still. The iridescent shimmer of her skin, which had pulsed with the gentle colors of the tidepools throughout the audience, dimme
+chapter-arc2-06.md L97 "You misunderstand," she said, and her melodic voice carried a new edge—not anger, but something closer to frustration, the controlled patience of an ancient be
+chapter-arc2-06.md L102 She stepped closer to the throne, her webbed feet leaving delicate impressions in the sand, and the Petal-Shell in her hands pulsed brighter. "But you are right
+chapter-arc2-06.md L120 She stepped closer, and the Petal-Shell in her hands pulsed brighter. "You are right about the Blight. They will come. They have grown larger since the Fourth T
+chapter-arc2-06.md L130 'stubborn little...', "Perhaps I am not making myself clear, that is my error, let me be blunt, by the time the road reaches your shores, your help won't be nee
+chapter-arc2-06.md L134 Sylara's fin-ridges stiffened. The colors that had rippled across her iridescent skin—deep indigo, sea-green, pearl-white—froze into a single, shocked silver. N
+chapter-arc2-06.md L151 She raised the Petal-Shell, and its light flared bright, almost blinding. "You want the Veylar's help? You want our full might behind your road? Then understand
+chapter-arc2-06.md L161 'at last !', "While your offer is, I admit monumental by your standards what can a single veylara do ? You are not predators, you can't help us on land, I offer
+chapter-arc2-06.md L174 She tilted her head, her luminous eyes studying the young king with a new intensity. "Twenty is not a large number. The Veylar have thousands of craftsmen. But 
+chapter-arc2-06.md L179 She extended her webbed hand once more, and the sphere of water that had hovered between them pulsed once, twice, then settled into a steady, rhythmic glow that
+chapter-arc2-06.md L189 Sylara's fin-ridges flared, then settled, then flared again in a rapid sequence that might have been the Veylar equivalent of a startled laugh. "You want to sen
+
+=== EM DASHES ===
+chapter-arc1-01.md: em=19 en=0 hbar=0 oddLines=9
+   ODD(1) L16 The arena stirs again. The Shadow Paws in the northern tiers murmur to one another. The Stripe Paws thump their tails against the stone in a slow, rhythmic beat
+   ODD(1) L26 "My prince. Your father awaits you in the Chamber of Reflection, beneath the throne. He asked that you come to him before the ceremony. He said—" The attendant 
+   ODD(1) L41 The attendant's eyes widened. For a heartbeat, he seemed frozen—the weight of the prince's command, the sudden clarity in Ajani's voice, the implication of thos
+   ODD(1) L56 The attendant led Ajani through the palace corridors—wide halls of polished stone, hung with tapestries depicting the Third Tyrant's great works: the hanging ga
+   ODD(1) L66 "He is within, my prince. He asked that none disturb you. He asked—" The young Wengari swallowed. "He asked that you bring your own light."
+   ODD(1) L81 Not with the steady golden glow of the Bright Paw sorcery that Ajani had known since childhood, but with something older—a deep amber light that seemed to pulse
+   ODD(1) L87 Beyond the threshold, a narrow passage descended deeper into the bedrock. The walls were lined with niches, and in each niche sat a small, flickering flame—not 
+   ODD(1) L118 The king regarded his son for a long moment. The faintest ghost of a smile crossed his weary face—not the smile of a king receiving a formal supplication, but o
+   ODD(1) L142 He raised his right hand, and a faint, trembling light kindled in his palm—the last ember of the Lightbringer's gift, guttering like a candle in a storm.
+chapter-arc1-02.md: em=20 en=0 hbar=0 oddLines=6
+   ODD(1) L23 "That is how the son serves the Wengari. Not with a spear. Not with a sword. With a choice. Will you take the pact, Ajani? Will you go to the Tree and face what
+   ODD(1) L34 3. **"The white dawn" instead of "convergence-touched."** Each race has its own term for those born under both suns. For the Wengari, who are openly White Dawni
+   ODD(1) L50 "You ask how the son can serve the Wengari. You will serve them by becoming king. And the king serves the Wengari by keeping the pact with the Kyre Tree—the anc
+   ODD(1) L86 He raised his right hand, and a faint, trembling light kindled in his palm—the last ember of the Lightbringer's gift. It guttered and died.
+   ODD(1) L98 "That is how the son serves the Wengari, Ajani. Not with a spear. Not with a sword. With a choice. Will you go to the Tree? Will you renew what the Lightbringer
+   ODD(1) L108 Uthgard IX did not flinch at his son's outburst. He had expected it—dreaded it, rehearsed it in a thousand sleepless nights. But hearing the pain in Ajani's voi
+chapter-arc1-03.md: em=22 en=0 hbar=0 oddLines=6
+   ODD(1) L14 Uthgard IX, at 473 years old, is an anomaly. He has survived two full Crimson Tides—a feat almost unheard of for a Wengari. His longevity is not natural; it is 
+   ODD(1) L52 The lamps held their silence. For a long moment, Uthgard IX simply looked at his son—not as a king regarding his heir, but as a man gathering the strength to sp
+   ODD(1) L96 "She was a Stripe Paw attendant. Not a warrior, not a noble, not a diplomat. She carried water to the caravans and mended the tents and sang songs to the cubs w
+   ODD(1) L112 "She faded, Ajani. Slowly. Year by year. The physicians could find no disease, no poison, no cause. But I knew. The Tree was feeding on her, as it feeds on all 
+   ODD(1) L128 "That is the truth of your mother, Ajani. She was not strong. She was frail. And she was the bravest soul I have ever known. She chose you. She chose to give he
+   ODD(1) L136 "The court does not know this. The other families do not know this. They believe Layla died of a wasting sickness common to outsiders. I have let them believe i
+chapter-arc1-04.md: em=22 en=0 hbar=0 oddLines=10
+   ODD(1) L16 He pressed his right palm against the ancient stone, and a seam of amber light traced itself along the wall—a door that had not opened in a thousand years, sinc
+   ODD(1) L19 Beyond the threshold, a narrow passage descended into the bedrock. The air that rose from it was cool and dry, carrying a faint scent of old earth and something
+   ODD(1) L35 And then, ahead, the passage opened into a vast underground chamber. The ceiling soared into darkness. The walls were lined with the roots of the Kyre Tree—not 
+   ODD(1) L58 The voice came again—but now it was not images. It was words, dragged from some ancient depth, shaped by a consciousness that had been patient for millennia.
+   ODD(1) L64 The words hung in the air, repeated back to him in a voice that was not a voice—a resonance that vibrated through the roots, through the stone, through his very
+   ODD(1) L73 *"The pact was never a bargain of equals. The Lightbringer understood this. He came to me not as a servant, but as a partner. He offered me something no king si
+   ODD(1) L85 *"But you, Son of Layla, Chosen by the Deep—you are what the Lightbringer was. The first true White Dawn to walk this desert in three thousand years. The pact c
+   ODD(1) L108 The amber pool stilled. The green luminescence that pulsed through the roots dimmed, then brightened, then dimmed again—a slow, rhythmic cycle that might have b
+   ODD(1) L120 The roots shifted. Somewhere deep in the rock, stone ground against stone as the Tree rearranged itself, considering. The amber pool rippled, and a new image fo
+   ODD(1) L129 *"The Lightbringer came to me as a partner. He offered me his life, and I took it—not as a tithe, not as a meal, but as a bond. For three thousand years, that b
+chapter-arc1-05.md: em=26 en=0 hbar=0 oddLines=16
+   ODD(1) L9 The word hung in the air, strange and unexpected. Lonely. The Kyre Tree, the ancient horror of the desert, the hunger beneath the sand—lonely.
+   ODD(1) L21 The blossom drew back, and the voice hardened—not with anger, but with the slow, grinding weight of a decision being made.
+   ODD(1) L27 The pool rippled, and the image shifted again—this time showing the Rune-Belt, its forests and grasslands, its Tide Wolves and Lotus Blooms, its Wengari nomads 
+   ODD(1) L36 The green spear blazed in the chamber, its light not the warm gold of the Bright Paw legacy but something wilder—the deep green of the Flickermarch, of the Myce
+   ODD(1) L42 The amber pool rippled, and in its surface, Ajani saw reflections—not of himself, but of possibilities. The Rune-Belt, its forests alive with roots and flowers.
+   ODD(3) L45 *"You speak of the one who dwells in the Rune-Belt—the one we do not name. The one Velarius wounded. You know of the lotus and the wells, and you know that the 
+   ODD(1) L54 The amber pool swirled, and a single root extended from the blossom—thin, delicate, almost hesitant. It touched the tip of the green spear, and the chamber blaz
+   ODD(1) L66 The passage behind Ajani began to glow with a warm, golden light—the light of the Bright Paw legacy, guiding him back to the surface. The Tree's blossom slowly 
+   ODD(1) L75 The amber pool rippled, and a new image formed. Not a vision of the future, but a memory—one of the Tree's own memories, pulled from deep within its ancient con
+   ODD(1) L78 Ajani saw the Rune-Belt as it was millennia ago, before the Wengari, before the Bright Paws, before the pact. He saw a figure walking among the trees—a figure w
+   ODD(1) L81 *"The one you seek to broker peace with... is the one who broke the world before the Tyrants ever walked it. He is the reason the super-organisms do not trust e
+   ODD(1) L87 *"Go now. You have done what no king has done since the Lightbringer. But your greatest trial is yet to come. Someone is coming for you, Ajani Brightmane—someon
+   ODD(1) L93 The Tree is not a mentor. It is not a friend. It is not even an ally in any conventional sense. It is ancient, patient, hungry, and utterly indifferent to Ajani
+   ODD(1) L99 *The green spear blazed, and the roots recoiled. Then, slowly, they leaned in once more. The amber pool rippled—not with wonder, not with hope, but with calcula
+   ODD(1) L102 *"You speak for the Deep. You carry its mark. You offer a road—a corridor through the Rune-Belt, where my roots have never been permitted to grow. You offer exp
+   ODD(1) L111 *A single root extended from the blossom—thin, dark, thorned. It touched the tip of Ajani's green spear, and the chamber grew cold.*
+chapter-arc1-06.md: em=32 en=0 hbar=0 oddLines=14
+   ODD(1) L3 *The thorned root withdrew, leaving a single drop of amber sap on the tip of the green spear—a mark, a binding, a deadline.*
+   ODD(1) L9 *The blossom began to close, its petals folding inward like a fist. The green luminescence faded. The roots withdrew into the rock. And the Tree's voice echoed 
+   ODD(1) L20 I'll take the seed and run with it. The Tree's final words are perfectly calibrated—ancient, patient, and utterly without sentiment. No hope offered. No encoura
+   ODD(1) L44 But before Ajani could answer, the sound came again—that roar, closer now, shaking the very walls of the palace. Uthgard's eyes widened. He knew that sound. He 
+   ODD(1) L52 He looked at his son—not as a king regarding his heir, but as a father seeing something impossible.
+   ODD(1) L64 "My king! My prince! Come quickly! The sky—the sky is full of fire!"
+   ODD(1) L68 The mist swirled at the arena's edge, thick and golden and utterly wrong—not the dry heat-haze of the desert, but something damp, living, breathing. It coiled a
+   ODD(3) L80 It was vast—easily the size of a Lament, but where the Lament was chitin and iridescence and the memory of a person, this was something else entirely. Fur. Claw
+   ODD(1) L89 It stopped at the edge of the arena's central sand, its massive head swiveling slowly, surveying the gathered races with an intelligence that was not animal, no
+   ODD(1) L92 Then it lifted its head and howled. The sound was not a wolf's howl. It was the sound of the desert itself—the grinding of stone, the whisper of sand, the patie
+   ODD(1) L95 It lowered its head. It bent one massive foreleg. And the Tide Wolf, the apex predator of the Rune-Belt, the creature that had never bowed to anyone or anything
+   ODD(3) L98 The Lament raised its arms to the sky and began to sing—a song of the Deep, of the Tree, of the road that would stretch from the desert to the sea, of the pact 
+   ODD(1) L133 "The Lightbringer's fire passes from king to heir. It has done so since Uthgard the Second took up the mantle when the first vanished into the Chamber of Reflec
+   ODD(1) L137 His hand begins to glow—a soft, golden light, the last ember of the Lightbringer's gift.
+chapter-arc2-01.md: em=27 en=0 hbar=0 oddLines=17
+   ODD(1) L19 "Yes, my—" He caught himself. "Yes, Ajani. I will announce you. And then I will sleep. You have my word."
+   ODD(1) L41 "Elders of the Wengari, honored guests of the Pyrinae and the Humman delegation, I present to you Ajani Brightmane, first of his name, son of Uthgard the Ninth 
+   ODD(1) L68 "Brothers. Esteemed elders. You have summoned me—the king. Tell me in which way I can serve the Wengari."
+   ODD(1) L76 "We have served the Wengari for five thousand years," Kareth said, his voice rough as sand. "We served the First Tyrant, who burned half the world and died scre
+   ODD(1) L84 "So I will ask you plainly, King Ajani, first of your name, what the other elders are too polite or too afraid to ask. What are you? The White Dawn is a title. 
+   ODD(1) L102 Kareth inclined his head—a gesture of respect, or at least of acknowledgment. "The king speaks plainly. That is more than I expected. We will wait."
+   ODD(1) L108 The Motted Paw representatives, sleek and silent, their spotted coats making them nearly invisible against the stone. And scattered among them, the heirs—the so
+   ODD(1) L127 Kareth's one good eye widened. His obsidian staff, which had not wavered in decades of council meetings, trembled in his grip. Around him, the elders of the fiv
+   ODD(1) L144 Another voice spoke—soft, almost gentle, but carrying a weight that silenced the chamber. It was the Motted Paw representative, an elder so old that her spotted
+   ODD(1) L156 Nyasha regarded the young king for a long moment. Her ancient eyes, pale as moonstone, seemed to look not at Ajani but through him—into the chamber below, into 
+   ODD(1) L195 The descent was slow. The spiral stair had been carved by the Lightbringer's own sorcery three thousand years ago, and the steps were worn smooth by centuries o
+   ODD(1) L200 Nyasha, impossibly old, moving with the slow, deliberate grace of one who had walked these depths before—perhaps in another life, perhaps in another age.
+   ODD(1) L209 The passage opened. The vast underground chamber lay before them—the roots of the Kyre Tree pulsing with pale green light, the blossom at its center still and s
+   ODD(1) L213 Then Kareth, his voice rough with awe and exhaustion, whispered: "The Lightbringer stood here. The First stood here. Every king for three thousand years has sto
+   ODD(1) L229 Kareth, the old general, the scarred Shadow Paw who had served three kings and buried two of them, was the first to speak. His voice was hoarse, barely a whispe
+   ODD(1) L249 She turned to Ajani. "You said you were the heir of the First. But you are the heir of the Third as well. You carry his blood. You carry his pact. You carry his
+   ODD(1) L264 Zara, the Stripe Paw chief, was not so easily placated. "You say the Tree does not kill the weak. You say they die by their own hand. But the Tree creates the c
+chapter-arc2-02.md: em=44 en=0 hbar=0 oddLines=14
+   ODD(3) L17 Kareth, the old general, took a step forward. His obsidian staff clicked against the stone, and the sound echoed like a thunderclap in the stillness. "The lord 
+   ODD(1) L22 Zara, the Stripe Paw chief, had not moved. Her claws were still extended, her massive frame still trembling. But her voice, when she spoke, was quieter than bef
+   ODD(3) L32 She turned back to Ajani, and her ancient eyes held something that might have been pride, or might have been sorrow, or might have been both. "You have done wha
+   ODD(1) L42 One by one, the other chiefs and heirs bent their heads. Zara, the Stripe Paw, her claws finally retracting. The Bright Paw elders, their golden manes gleaming 
+   ODD(1) L46 The amber pool rippled. The blossom stirred. The Tree was listening. And for the first time since the Lightbringer vanished, the Wengari were united—not under a
+   ODD(1) L68 Nyasha, who had already spoken more in this chamber than she had in three decades of council meetings, raised a hand. "The young king is right. If we are to rec
+   ODD(1) L95 "You have spoken for the Motted Paws for three decades without saying a word," Kareth said, his rough voice echoing in the green-lit chamber. "You have watched.
+   ODD(1) L117 The amber pool swirled. The roots pulsed. And then, slowly, a single petal unfurled from the blossom and drifted down to rest at Kareth's feet. It was not a rej
+   ODD(1) L134 The Bright Paw heir, a young golden-maned warrior named Solen who had been Ajani's childhood rival, stepped forward with the arrogance of youth and the terror o
+   ODD(1) L158 And the Tree, silent for so long, spoke—not in words, but in a pulse of green light that filled the chamber and resonated in the bones of every Wengari present.
+   ODD(1) L175 The Bright Paw heir, a young golden-maned warrior named Solen who had been Ajani's childhood rival, stepped forward with the arrogance of youth and the terror o
+   ODD(3) L178 His Aura flared—bright gold, the color of his lineage—and the Tree drank. The young warrior's body convulsed as the roots nearest to him glowed with a sudden, t
+   ODD(1) L196 And then came the last of the Bright Paw elders. His name was Joren, and he was old—older than Kareth, older than Nyasha, older than anyone could remember. His 
+   ODD(1) L210 And the Tree, silent for so long, spoke—not in words, but in a pulse of green light that filled the chamber and resonated in the bones of every Wengari present.
+chapter-arc2-03.md: em=45 en=0 hbar=0 oddLines=23
+   ODD(1) L16 The chant echoed through the roots, through the stone, through the ancient heart of the Kyre Tree itself. And the Tree, ancient and patient and hungry, pulsed w
+   ODD(1) L20 Ajani stood at the center of the chamber, the green fire of the Deep flickering along his claws, the white feather of the Styx tucked into his mane, and raised 
+   ODD(1) L36 The Hydromancer was silent for a long moment. Then she smiled—a thin, knowing expression that had not crossed her face in decades. "That," she said, "is the sou
+   ODD(1) L49 Seris listened. The rumble grew louder. The fire flickered. And for the first time since she had arrived in this desert city, the Humman ambassador felt somethi
+   ODD(5) L59 "Ajani—my king—they're here. All of them. The delegations. The Pyrinae have requested a formal audience—not as vassals, they said, but as an independent race. T
+   ODD(5) L103 "Ajani—my king—they're here. Delegations. The Pyrinae have requested a formal audience—not as vassals, they said, but as an independent race. The Hummans have s
+   ODD(1) L188 T'van hesitated. "The watchmen on the northern road. They saw something. Walking down from the coast. Alone. Singing. They thought it was a mirage—a trick of th
+   ODD(1) L206 He hesitated at the door. "Ajani—the Threx. The small one. It's been standing at the eastern gate since dawn. It hasn't moved. It hasn't eaten. The guards are a
+   ODD(1) L211 The young priest shook his head, a faint, bewildered smile crossing his weary face. "I will tell the delegations. One by one. The arena. Their best." He bowed, 
+   ODD(1) L223 The Quick stood alone at the center of the arena, its small frame dwarfed by the vast stone tiers that had held thousands during the coronation. Its chitin was 
+   ODD(1) L225 The Threx were allies in name, but the Laments were one thing—terrifying, yes, but comprehensible. This small, frightened thing was something else. Something fr
+   ODD(1) L228 At Ajani's approach, the Quick's head snapped up. Its eyes caught the green fire flickering along the king's claws and widened—not with fear, but with recogniti
+   ODD(1) L239 The Quick flinched as Ajani reached out—an instinctive recoil, the reflex of a creature that had spent twenty-eight days alone in a world that would happily kil
+   ODD(5) L256 It swayed again, but this time it was not exhaustion. It was something closer to peace. "I will rest now. The pool—I would like the pool. And then I will return
+   ODD(1) L266 T'van returned with the summons, his breath still short from running. "The Humman ambassador is waiting at the arena's edge. She brought her council. And a cham
+   ODD(1) L270 Ajani settled onto the throne. The cold stone was familiar now—it had been a month, and the seat had begun to mold to his frame, or perhaps he had begun to mold
+   ODD(1) L289 Ambassador Seris led them—a woman of middle years, her dark hair streaked with grey, her clothing practical and unadorned. Behind her walked three merchants in 
+   ODD(1) L291 The green fire flared along Ajani's claws, and the air in the arena changed. It thickened. Pressed. The Humman merchants stumbled, their silks suddenly stifling
+   ODD(1) L293 Seris held out longer. The ambassador's jaw was clenched, her eyes fixed on the young king with a defiance that was admirable or foolish—perhaps both. But event
+   ODD(1) L312 The Stripe Paw mercenary braced for fire. She had seen the coronation. Everyone had seen the coronation—the Four Pillars blazing green and gold, the Styx bowing
+   ODD(1) L318 It was light. Almost gentle. A single claw, extended, resting on the joint where her shoulder met her neck. And then the green fire flowed—not the blazing spear
+   ODD(1) L323 The green fire pulsed once. The mercenary's legs buckled. She knelt—not in submission, not in reverence, but in the simple, physical impossibility of doing anyt
+   ODD(1) L331 The Stripe Paw mercenary braced for fire. She had seen the coronation. Everyone had seen the coronation—the Four Pillars blazing green and gold, the Styx bowing
+chapter-arc2-04.md: em=35 en=0 hbar=0 oddLines=15
+   ODD(1) L3 It was cold. Not the cold of desert night, but the cold of deep water, of ancient roots, of something that had learned patience in a place where the sun never r
+   ODD(3) L38 The Humman merchants exchanged terrified glances. The one who had fallen first—a portly man in Verdantian silks—scrambled backward on his hands and knees, his b
+   ODD(1) L44 "Go," Seris said quietly to her council. "I will speak for Verdantis. The rest of you—wait outside. If the king wished you dead, you would already be dead." The
+   ODD(1) L61 Seris recognized it. Her eyes flicked to Ajani's claws, then back to his face, and something shifted in her expression—a recalibration, a reassessment. She had 
+   ODD(1) L102 She gestured at the arena, at the empty tiers where the delegations had not yet gathered. "The Threx sent a Quick to speak with you. The Veylar sent a Shell-Sin
+   ODD(1) L107 She spread her empty hands. "That is my offer. That is my council's offer. If you refuse it—" She swallowed. "Then I will leave this arena, and I will tell my p
+   ODD(1) L126 "Honorary Wengari," she repeated, her voice hollow. "Our best guilds. Our most trusted aides. Sworn to you. Living in your capital. And in exchange—" She drew a
+   ODD(1) L152 She turned to leave, her steps measured, her back straight—a diplomat's posture, maintained by sheer force of will. At the arena's edge, she paused and looked b
+   ODD(1) L167 "The Pyrinae delegation, my king. The Hydromancers of the Vein-Dwellers, the Sun-Walker trade envoy, and—" He hesitated, just for a heartbeat. "And a Root-Speak
+   ODD(1) L183 The Hydromancer stopped at the center of the sand, exactly where the Humman ambassador had knelt. She did not kneel. She inclined her head—a gesture of respect 
+   ODD(1) L192 The Hydromancer's clouded eyes registered the extended hand, and something ancient stirred in their depths—not quite amusement, not quite approval, but a recogn
+   ODD(1) L201 The Hydromancer made a soft sound that might have been a laugh. "The young are so direct." She stepped forward, her embedded rune-glass pulsing with amber light
+   ODD(1) L205 The Root-Speaker, still cowled and silent, raised one hand. The air in the arena thickened. The green fire along Ajani's claws flickered, then steadied, then br
+   ODD(1) L225 "That was unnecessary," she said quietly. "But I understand why you did it. The Hummans needed to see strength. The Veylar, who are watching from the eastern ga
+   ODD(1) L235 She stopped at the foot of the throne's dais, her clouded eyes level with his. "The question is not whether we will follow you. The question is whether you will
+chapter-arc2-05.md: em=23 en=0 hbar=0 oddLines=15
+   ODD(1) L3 The Hydromancer's ancient composure did not crack. But something shifted in her clouded eyes—a flicker of recognition, perhaps even of approval. She had watched
+   ODD(1) L10 "You are your father's son," she said quietly. "He also did not tolerate flattery. He also demanded honesty beneath the pleasantries. And he also—" She paused, 
+   ODD(1) L28 But something shifted in her expression. The ancient composure, the patient diplomacy of centuries, the quiet certainty that she could outlast any Wengari monar
+   ODD(1) L33 She drew a slow breath, and the rune-glass filaments embedded in her flesh pulsed with amber light. "You want the truth. Here it is. We did not wait three thous
+   ODD(1) L59 The Hydromancer saw the flicker of skepticism in Ajani's eyes and inclined her head. "You wonder what value our words hold. The Tree does not speak to us as it 
+   ODD(1) L103 "Nefere," she said quietly. "My name is Nefere. I was a Sun-Walker once, before the Root-Speakers called me to the deep places. I traveled with the caravans. I 
+   ODD(1) L126 She stepped back, her rune-glass filaments dimming. "But if you wish to honor an old woman's sentiment—see the ocean. Your mother wanted it for you. Your father
+   ODD(1) L141 The Hydromancer inclined her head, the faintest smile touching her weathered lips. "As you command, King Ajani." She raised her hand, and the rune-glass filamen
+   ODD(1) L149 Nefere resumed her formal posture, her voice returning to the measured cadence of a diplomat—but softer now, edged with something that might have been warmth. "
+   ODD(1) L161 Five cities. The abandoned Wengari settlements, scattered across the desert like bones, their wells still running, their walls still standing, their foundations
+   ODD(1) L170 Nefere opened her mouth, then closed it. For the first time in a century of diplomacy, she had no words. It was the Sun-Walker who recovered first. "Five cities
+   ODD(1) L175 "I heard him," Nefere said quietly. She took a step toward the throne, her clouded eyes fixed on the young king. "You offer us cities. Territory. Autonomy. You 
+   ODD(1) L180 She lowered her head. Not the formal bow of a diplomat. Not the reluctant concession of a supplicant. A slow, deliberate, reverent inclination that no living Py
+   ODD(1) L198 She walked back across the sand, her bare feet leaving faint impressions that the wind would erase within the hour. "I have lived among the Wengari for sixty ye
+   ODD(1) L203 She stopped at the foot of the throne's dais and raised her eyes to the king. "I am old, Ajani Brightmane. I have perhaps three years left, perhaps five. I will
+chapter-arc2-06.md: em=36 en=0 hbar=0 oddLines=12
+   ODD(1) L3 T'van appeared at the arena's edge, his breath short, his shaved mane slick with sweat. He had been running since dawn—carrying messages, summoning delegations,
+   ODD(1) L7 "The Veylar delegation, my king. A single Shell-Singer. She arrived at the eastern gate this morning and has been waiting in the shade of the outer wall ever si
+   ODD(1) L44 Sylara inclined her head. Her fin-ridges rippled faintly, tasting the air, reading the currents of heat and pressure that surrounded the throne. When she spoke,
+   ODD(1) L62 Sylara was silent for a long moment. The Petal-Shell in her hands pulsed with a slow, rhythmic light, matching the steady beat of her breathing—a sign, perhaps,
+   ODD(1) L74 She took a step closer, her webbed feet leaving faint impressions in the sand. "The Veylar do not seek help. We have never sought help. But we are not fools. Th
+   ODD(1) L79 She raised the Petal-Shell, and its light brightened until it cast shimmering reflections across the stone tiers. "The Veylar are interested, King Ajani. But we
+   ODD(1) L107 She raised the Petal-Shell, and the sphere of water still hovering before the throne began to pulse in rhythm with its light. "This token is not a refusal. It i
+   ODD(1) L115 Sylara's fin-ridges rippled, and her iridescent skin dimmed to a deep, contemplative blue. "The Veylar do not spit on friendship. We do not reject your hand. Bu
+   ODD(1) L165 Sylara blinked. The iridescent shimmer of her skin, which had flared silver with defiance moments before, rippled through a cascade of colors—surprise, perhaps,
+   ODD(1) L179 She extended her webbed hand once more, and the sphere of water that had hovered between them pulsed once, twice, then settled into a steady, rhythmic glow that
+   ODD(5) L189 Sylara's fin-ridges flared, then settled, then flared again in a rapid sequence that might have been the Veylar equivalent of a startled laugh. "You want to sen
+   ODD(1) L197 She raised the Petal-Shell, and its light pulsed once, twice, then steadied. "Send your envoys. Send your guards. The Tidepools will receive them. I will preced
+
+=== HUM VARIANTS ===
+chapter-arc1-01.md: {'humman': 1}
+chapter-arc1-05.md: {'Humman': 1, 'hummans': 1}
+chapter-arc1-06.md: {'Hummans': 2}
+chapter-arc2-01.md: {'Humman': 3, 'Hummans': 2}
+chapter-arc2-02.md: {'Humman': 1}
+chapter-arc2-03.md: {'Humman': 6, 'Hummans': 4, 'humans': 1}
+chapter-arc2-04.md: {'Humman': 8, 'Hummans': 13, 'human': 1, 'humman': 2, 'hummans': 2}
+chapter-arc2-05.md: {'Humman': 1, 'Hummans': 2, 'human': 2, 'hummans': 1}
+chapter-arc2-06.md: {'Humman': 1, 'Hummans': 5, 'human': 1}
+
+=== KING/KING ===
+chapter-arc1-01.md: 12 hits
+   L30 The Four Pillars gleam at the arena's center, waiting. The crowd is watching. The king is below, in the chamber where Uthgar Lightbringer vanished three thousand years ag
+   L45 "This way, my prince. The king awaits."
+   L59 At the bottom of the stairs, a single door of ancient, rune-etched wood. The Chamber of Reflection. The place where every Bright Paw king had gone before their coronation
+   L70 The door waited, its runes dark. Beyond it, somewhere in the silence, a king was failing. And a son had come to take his name.
+   L74 *Ive never been here, but somehow i know what to do', "The Spear is the king... the sword is the gentle man... the saber is the tiger...the staff is the grandfather", 'Ah
+   L81 Not with the steady golden glow of the Bright Paw sorcery that Ajani had known since childhood, but with something older—a deep amber light that seemed to pulse in rhythm
+   L93 Uthgard IX, king of the Bright Paws, lord of the hanging gardens, keeper of the Kyre Tree's pact, was dying.
+   L118 The king regarded his son for a long moment. The faintest ghost of a smile crossed his weary face—not the smile of a king receiving a formal supplication, but of a father
+   L118 The king regarded his son for a long moment. The faintest ghost of a smile crossed his weary face—not the smile of a king receiving a formal supplication, but of a father
+   L138 "The son serves the Wengari by becoming the king. The king serves the Wengari by keeping the pact. And the pact..." He paused. The lamps flickered. "...the pact has been 
+   L138 "The son serves the Wengari by becoming the king. The king serves the Wengari by keeping the pact. And the pact..." He paused. The lamps flickered. "...the pact has been 
+   L146 "I have kept the rituals. I have delivered the Styx plumage to the Tree. I have spoken the Four Pillars in the sight of the gathered races. But I cannot keep the pact. No
+chapter-arc1-02.md: 8 hits
+   L19 He opened his eyes again, and in them was not the weariness of a dying king, but the fierce, desperate love of a father who had spent twenty-five years trying to protect 
+   L46 The king shifted on the stone throne, his dead left hand scraping against the armrest. He drew a labored breath and began.
+   L50 "You ask how the son can serve the Wengari. You will serve them by becoming king. And the king serves the Wengari by keeping the pact with the Kyre Tree—the ancient one, 
+   L50 "You ask how the son can serve the Wengari. You will serve them by becoming king. And the king serves the Wengari by keeping the pact with the Kyre Tree—the ancient one, 
+   L50 "You ask how the son can serve the Wengari. You will serve them by becoming king. And the king serves the Wengari by keeping the pact with the Kyre Tree—the ancient one, 
+   L66 "This is the shameful secret of our glory, my son. We do not keep the pact. We merely delay its breaking. The Lightbringer was… something more than a king. The scriptures
+   L144 "The price is that every king must face the Tree. Every king must be accepted. And I have been accepted for a thousand years, but I am the last. The Tree's patience is en
+   L144 "The price is that every king must face the Tree. Every king must be accepted. And I have been accepted for a thousand years, but I am the last. The Tree's patience is en
+chapter-arc1-03.md: 12 hits
+   L8 The lamps flickered. The Lament hummed. And the king waited for his son's answer.
+   L14 Uthgard IX, at 473 years old, is an anomaly. He has survived two full Crimson Tides—a feat almost unheard of for a Wengari. His longevity is not natural; it is a side eff
+   L49 The hum of the Lament deepened. The lamps flickered. And the king fell silent, watching his son with the desperate, flickering hope of a man who had outlived everything e
+   L52 The lamps held their silence. For a long moment, Uthgard IX simply looked at his son—not as a king regarding his heir, but as a man gathering the strength to speak a trut
+   L64 "You know that I was old when you were born. What the court whispers—what I have let them whisper—is that the king delayed marriage because he was devoted to his duty. Or
+   L72 "I did not want to be king, Ajani. When I learned what the pact entailed—when my own father took me into this very chamber and told me the shameful secret of our glory—I 
+   L92 His voice softened, and for a moment—just a moment—the dying king looked young again.
+   L96 "She was a Stripe Paw attendant. Not a warrior, not a noble, not a diplomat. She carried water to the caravans and mended the tents and sang songs to the cubs when they c
+   L104 "I brought her here. To the capital. I knew the risks—the Tree's sapping influence is hardest on those who are not bred to endure it. The Bright Paws thrive here because 
+   L124 The king opened his eyes. They glistened in the lamplight.
+   L141 'Mother....' -"The son acknowledges, his mother sacrifice...", 'look at him, so frail, even the king pays its tithe to the tree, hes carried this with him for years, it a
+   L145 Uthgard IX looked at his son for a long, silent moment. The weariness that had clung to him like a shroud seemed, for just an instant, to lift. In its place was something
+chapter-arc1-04.md: 7 hits
+   L12 "The inner chamber lies beyond. It is not a place I can enter with you. Each king must face the Tree alone. But I will wait here. I will wait as long as it takes."
+   L16 He pressed his right palm against the ancient stone, and a seam of amber light traced itself along the wall—a door that had not opened in a thousand years, since the last
+   L67 *"The Deep has not chosen a Bright Paw since the Lightbringer. The Laments do not walk for kings. They walk for White Dawns. They walk for endings. They walk for beginnin
+   L73 *"The pact was never a bargain of equals. The Lightbringer understood this. He came to me not as a servant, but as a partner. He offered me something no king since has da
+   L79 *"Every king since has paid the tithe. Every king since has kept the rituals. But none have offered what the Lightbringer offered. None have been what the Lightbringer wa
+   L79 *"Every king since has paid the tithe. Every king since has kept the rituals. But none have offered what the Lightbringer offered. None have been what the Lightbringer wa
+   L79 *"Every king since has paid the tithe. Every king since has kept the rituals. But none have offered what the Lightbringer offered. None have been what the Lightbringer wa
+chapter-arc1-05.md: 6 hits
+   L33 The blossom fell silent. The roots waited. The amber pool reflected the young king's face, waiting for his answer.
+   L51 *"You are a king. You do not bow. I understand this now. The Lightbringer did not bow either. He stood as you stand, spoke as you speak, offered what he had rather than w
+   L54 The amber pool swirled, and a single root extended from the blossom—thin, delicate, almost hesitant. It touched the tip of the green spear, and the chamber blazed with li
+   L57 *"The pact is renewed. Not as it was—not as a tithe, not as a burden—but as a partnership. You will broker peace between the Deep and myself. You will attempt to bring th
+   L87 *"Go now. You have done what no king has done since the Lightbringer. But your greatest trial is yet to come. Someone is coming for you, Ajani Brightmane—someone who dwel
+   L90 The passage glowed brighter. The roots withdrew. And the Tree fell silent, its ancient consciousness retreating into the depths of the desert, leaving the young king alon
+chapter-arc1-06.md: 16 hits
+   L12 *"You are a king, Ajani Brightmane. Kings do not bow. But kings also do not fail. Not twice. Not when the price is everything."*
+   L12 *"You are a king, Ajani Brightmane. Kings do not bow. But kings also do not fail. Not twice. Not when the price is everything."*
+   L12 *"You are a king, Ajani Brightmane. Kings do not bow. But kings also do not fail. Not twice. Not when the price is everything."*
+   L16 "You may go now, Ajani the first king of the wengari, a pact is brokered a pact is kept, the first did not speak of me, i wonder, will you do so?, i look forward to what 
+   L52 He looked at his son—not as a king regarding his heir, but as a father seeing something impossible.
+   L64 "My king! My prince! Come quickly! The sky—the sky is full of fire!"
+   L86 But no Tide Wolf had ever been this size. No Tide Wolf had ever burned with the cold fire of the Kyre Tree's ancient light. And no Tide Wolf had ever walked out of the de
+   L95 It lowered its head. It bent one massive foreleg. And the Tide Wolf, the apex predator of the Rune-Belt, the creature that had never bowed to anyone or anything in the hi
+   L98 The Lament raised its arms to the sky and began to sing—a song of the Deep, of the Tree, of the road that would stretch from the desert to the sea, of the pact renewed an
+   L98 The Lament raised its arms to the sky and began to sing—a song of the Deep, of the Tree, of the road that would stretch from the desert to the sea, of the pact renewed an
+   L121 He stops before Ajani, and he smiles. It is not the weary smile of a dying king. It is the proud smile of a father who has watched his son become something greater than h
+   L125 "My son. My White Dawn. My king." His voice is soft, meant only for Ajani, though in the silence of the arena it carries to every ear. "I have kept the pact for four hund
+   L133 "The Lightbringer's fire passes from king to heir. It has done so since Uthgard the Second took up the mantle when the first vanished into the Chamber of Reflection. It i
+   L141 "I give it to you now. Not as a burden. Not as a curse. As a gift. The last gift of a dying king to his only son."
+   L151 And when it is done, when the old king is gone and the new king stands alone at the center of the arena, the Four Pillars blazing around him, the Styx circling above, the
+   L151 And when it is done, when the old king is gone and the new king stands alone at the center of the arena, the Four Pillars blazing around him, the Styx circling above, the
+chapter-arc2-01.md: 47 hits
+   L6 'what day is it?, whos he?... a the priest!, t'van', "Raise your head T'van, Ajani please, when you say my king i look behind my back for my father, Ill answer what I can
+   L10 T'van's ears perked up at the sound of his own name. The king—Ajani—knew who he was. After everything that had happened, after the whirlwind of the coronation and the end
+   L10 T'van's ears perked up at the sound of his own name. The king—Ajani—knew who he was. After everything that had happened, after the whirlwind of the coronation and the end
+   L14 He raised his head, his golden eyes meeting Ajani's. "Ajani," he repeated, testing the name without the title. It felt strange on his tongue, like a prayer spoken backwar
+   L14 He raised his head, his golden eyes meeting Ajani's. "Ajani," he repeated, testing the name without the title. It felt strange on his tongue, like a prayer spoken backwar
+   L41 "Elders of the Wengari, honored guests of the Pyrinae and the Humman delegation, I present to you Ajani Brightmane, first of his name, son of Uthgard the Ninth and Layla 
+   L49 T'van stepped aside, his duty done. As Ajani passed him, the young priest whispered, so quietly that only the king could hear: "I will sleep now, Ajani. And when I wake, 
+   L49 T'van stepped aside, his duty done. As Ajani passed him, the young priest whispered, so quietly that only the king could hear: "I will sleep now, Ajani. And when I wake, 
+   L54 'ok... i see everyone is here.. lets get this done so i can sleep too, i should sit on the throne, that seems appropriate, father always said if they see your fur bristle
+   L68 "Brothers. Esteemed elders. You have summoned me—the king. Tell me in which way I can serve the Wengari."
+   L72 The silence that followed was heavy, expectant, charged with the unspoken questions that had been brewing for seven days. It was a Shadow Paw elder who rose first. Old Ka
+   L76 "We have served the Wengari for five thousand years," Kareth said, his voice rough as sand. "We served the First Tyrant, who burned half the world and died screaming. We 
+   L84 "So I will ask you plainly, King Ajani, first of your name, what the other elders are too polite or too afraid to ask. What are you? The White Dawn is a title. Convergenc
+   L84 "So I will ask you plainly, King Ajani, first of your name, what the other elders are too polite or too afraid to ask. What are you? The White Dawn is a title. Convergenc
+   L92 "Tell us the truth, young king. Tell us what you are. And then tell us why we should follow you."
+   L102 Kareth inclined his head—a gesture of respect, or at least of acknowledgment. "The king speaks plainly. That is more than I expected. We will wait."
+   L112 Kareth remained standing. He had not dismissed anyone, but neither had he objected. "The room is yours, King Ajani. Only the elders, the chiefs, and their heirs remain. N
+   L116 He tapped his obsidian staff once against the floor, and the other elders murmured their assent. The Stripe Paws thumped their tails. The Bright Paws bowed their heads. T
+   L144 Another voice spoke—soft, almost gentle, but carrying a weight that silenced the chamber. It was the Motted Paw representative, an elder so old that her spotted fur had f
+   L144 Another voice spoke—soft, almost gentle, but carrying a weight that silenced the chamber. It was the Motted Paw representative, an elder so old that her spotted fur had f
+   L148 Kareth stiffened. The Stripe Paws exchanged glances. The Bright Paws leaned forward. And the elders of the Wengari waited for the king's answer.
+   L156 Nyasha regarded the young king for a long moment. Her ancient eyes, pale as moonstone, seemed to look not at Ajani but through him—into the chamber below, into the Tree's
+   L160 "You would take us to the place where the Lightbringer vanished," she said. "The place where no king has taken anyone since the First built these walls."
+   L165 Kareth's scarred face twisted with something between suspicion and unease. "The inner chamber is forbidden to all but the reigning king. It has been so since the Lightbri
+   L170 "Then it is time that changed." Nyasha rose slowly, her spotted fur catching the light. "The young king offers us truth. Not words. Not promises. Truth. How long has it b
+   L170 "Then it is time that changed." Nyasha rose slowly, her spotted fur catching the light. "The young king offers us truth. Not words. Not promises. Truth. How long has it b
+   L170 "Then it is time that changed." Nyasha rose slowly, her spotted fur catching the light. "The young king offers us truth. Not words. Not promises. Truth. How long has it b
+   L175 Zara, the Stripe Paw chief, thumped her tail once against the stone. "And I. The Stripe Paws have carried the Bright Paws' trade for centuries. We have asked no questions
+   L183 "I served your father," he said at last. "I served his father before him. I have buried three kings of the Bright Paws. I have watched the pact drain them year by year, c
+   L183 "I served your father," he said at last. "I served his father before him. I have buried three kings of the Bright Paws. I have watched the pact drain them year by year, c
+   L188 He met Ajani's eyes, and there was something in his scarred face that might have been hope, or might have been grief, or might have been both. "Lead, King Ajani. Show us 
+   L195 The descent was slow. The spiral stair had been carved by the Lightbringer's own sorcery three thousand years ago, and the steps were worn smooth by centuries of royal fo
+   L195 The descent was slow. The spiral stair had been carved by the Lightbringer's own sorcery three thousand years ago, and the steps were worn smooth by centuries of royal fo
+   L203 The other elders followed. The heirs followed. And at the rear, the Bright Paw priests who had been permitted to accompany their new king exchanged nervous glances as the
+   L213 Then Kareth, his voice rough with awe and exhaustion, whispered: "The Lightbringer stood here. The First stood here. Every king for three thousand years has stood where w
+   L213 Then Kareth, his voice rough with awe and exhaustion, whispered: "The Lightbringer stood here. The First stood here. Every king for three thousand years has stood where w
+   L221 'ok...please don't kill anyone', "this is the crime of the lightbringer, this is the truth, what you see here is the lord of the desert, we all live and die under his sha
+   L221 'ok...please don't kill anyone', "this is the crime of the lightbringer, this is the truth, what you see here is the lord of the desert, we all live and die under his sha
+   L229 Kareth, the old general, the scarred Shadow Paw who had served three kings and buried two of them, was the first to speak. His voice was hoarse, barely a whisper. "The lo
+   L229 Kareth, the old general, the scarred Shadow Paw who had served three kings and buried two of them, was the first to speak. His voice was hoarse, barely a whisper. "The lo
+   L234 Zara, the Stripe Paw chief, stepped forward. Her massive frame trembled, not with fear but with fury. "Every king has paid in blood. You said the strongest among us can l
+   L244 Before Ajani could answer, another voice spoke. It was Nyasha, the ancient Motted Paw, her pale silver fur catching the green light. She had not spoken since the descent 
+   L249 She turned to Ajani. "You said you were the heir of the First. But you are the heir of the Third as well. You carry his blood. You carry his pact. You carry his crime." H
+   L249 She turned to Ajani. "You said you were the heir of the First. But you are the heir of the Third as well. You carry his blood. You carry his pact. You carry his crime." H
+   L259 Kareth, the old general, the scarred Shadow Paw who had served three kings and buried two of them, let out a sound that might have been a laugh or might have been a snarl
+   L259 Kareth, the old general, the scarred Shadow Paw who had served three kings and buried two of them, let out a sound that might have been a laugh or might have been a snarl
+   L269 Nyasha, who had been silent since her last words, spoke again. "The crime remains," she agreed. "But the young king is right about one thing. We are the strongest. We hav
+chapter-arc2-02.md: 17 hits
+   L4 Nyasha, who had been silent since her last words, spoke again. "The crime remains," she agreed. "But the young king is right about one thing. We are the strongest. We hav
+   L4 Nyasha, who had been silent since her last words, spoke again. "The crime remains," she agreed. "But the young king is right about one thing. We are the strongest. We hav
+   L9 'ok... So good, so far' , "I brought you here because the lord of the desert isn't the only one, while I was in the marsh I met the lord of the marsh, I trained under him
+   L27 Nyasha stepped forward. The ancient Motted Paw moved with the slow, deliberate grace of one who had walked the world for centuries, and the other elders parted before her
+   L27 Nyasha stepped forward. The ancient Motted Paw moved with the slow, deliberate grace of one who had walked the world for centuries, and the other elders parted before her
+   L32 She turned back to Ajani, and her ancient eyes held something that might have been pride, or might have been sorrow, or might have been both. "You have done what no king 
+   L42 One by one, the other chiefs and heirs bent their heads. Zara, the Stripe Paw, her claws finally retracting. The Bright Paw elders, their golden manes gleaming in the gre
+   L42 One by one, the other chiefs and heirs bent their heads. Zara, the Stripe Paw, her claws finally retracting. The Bright Paw elders, their golden manes gleaming in the gre
+   L46 The amber pool rippled. The blossom stirred. The Tree was listening. And for the first time since the Lightbringer vanished, the Wengari were united—not under a Tyrant, n
+   L58 Kareth was the first to speak. "You ask us to bargain with a god." His voice was hoarse, barely a whisper. "To offer our hearts to something that has been feeding on our 
+   L63 Zara stepped forward. The Stripe Paw chief had retracted her claws, but her massive frame was still tense, coiled like a spring. "He asks what no king has ever asked. He 
+   L68 Nyasha, who had already spoken more in this chamber than she had in three decades of council meetings, raised a hand. "The young king is right. If we are to reclaim what 
+   L95 "You have spoken for the Motted Paws for three decades without saying a word," Kareth said, his rough voice echoing in the green-lit chamber. "You have watched. You have 
+   L113 "I am Kareth," he said, his voice steady. "Son of no one you would remember. General of the Shadow Paws. I have killed and I have been killed. I have served kings who lie
+   L113 "I am Kareth," he said, his voice steady. "Son of no one you would remember. General of the Shadow Paws. I have killed and I have been killed. I have served kings who lie
+   L113 "I am Kareth," he said, his voice steady. "Son of no one you would remember. General of the Shadow Paws. I have killed and I have been killed. I have served kings who lie
+   L180 He would never fight again. He would never ignite the Four Pillars. He would never be king. The blossom released no petal for Solen. It simply... moved on.
+chapter-arc2-03.md: 26 hits
+   L59 "Ajani—my king—they're here. All of them. The delegations. The Pyrinae have requested a formal audience—not as vassals, they said, but as an independent race. The Hummans
+   L79 T'van's ears flattened. "No, my king. I don't think they are."
+   L83 The king exhaled slowly. The road would have to wait. The world had come to the desert. And it wanted answers.
+   L103 "Ajani—my king—they're here. Delegations. The Pyrinae have requested a formal audience—not as vassals, they said, but as an independent race. The Hummans have sent a full
+   L121 T'van hesitated. "The watchmen also saw something. Walking down from the northern coast. Alone. Singing. They thought it was a mirage. It was tall, my king. Scaled. Iride
+   L136 The king looked out the window, toward the northern horizon where the Styx circled and the road was meant to begin and something ancient was walking down from the coast w
+   L141 T'van's ears flattened. "No, my king. I don't think they are."
+   L149 "Summon the elders. Assemble the delegations in the Hall of the Sun. Tell them the king will speak."
+   L170 "Ajani—my king—they're here. Delegations. The Pyrinae have requested a formal audience—not as vassals, they said, but as an independent race. The Hummans have sent a full
+   L192 The king looked out the window, toward the northern horizon where the Styx circled and the road was meant to begin and something unknown was walking toward them with a so
+   L215 And then he was gone, his hurried footsteps echoing down the corridor as he carried the king's message to the gathered powers of Ethra.
+   L228 At Ajani's approach, the Quick's head snapped up. Its eyes caught the green fire flickering along the king's claws and widened—not with fear, but with recognition. The st
+   L239 The Quick flinched as Ajani reached out—an instinctive recoil, the reflex of a creature that had spent twenty-eight days alone in a world that would happily kill it. But 
+   L261 "and brother, tell l'vat, I'm coming for the thing below the belt...., t'vat !!!!, call the humans, remember, I will only receive their best!" , 'ok, summon the spear sit
+   L270 Ajani settled onto the throne. The cold stone was familiar now—it had been a month, and the seat had begun to mold to his frame, or perhaps he had begun to mold to it. Th
+   L277 He missed him. He would always miss him. But the delegations were waiting, and the road was waiting, and somewhere to the north, something was walking toward them with a 
+   L282 *well, let's see how they face a king, let them kneel', "Is it not customary to kneel before your king brother ?", 'flare the aura, let them feel the heat of the desert s
+   L282 *well, let's see how they face a king, let them kneel', "Is it not customary to kneel before your king brother ?", 'flare the aura, let them feel the heat of the desert s
+   L293 Seris held out longer. The ambassador's jaw was clenched, her eyes fixed on the young king with a defiance that was admirable or foolish—perhaps both. But eventually, her
+   L300 The Stripe Paw's striped mane rippled in the oppressive heat, her claws half-extended, her breathing controlled. She had felt worse. She had trained under worse. But she 
+   L300 The Stripe Paw's striped mane rippled in the oppressive heat, her claws half-extended, her breathing controlled. She had felt worse. She had trained under worse. But she 
+   L300 The Stripe Paw's striped mane rippled in the oppressive heat, her claws half-extended, her breathing controlled. She had felt worse. She had trained under worse. But she 
+   L304 The merchant who had fallen first let out a strangled whimper. Seris, still on her knees, closed her eyes as if praying. And the Stripe Paw mercenary waited for the king'
+   L312 The Stripe Paw mercenary braced for fire. She had seen the coronation. Everyone had seen the coronation—the Four Pillars blazing green and gold, the Styx bowing, the Lame
+   L327 The Humman merchants, still on their knees, stared at their champion with dawning horror. Seris opened her eyes, saw the mercenary kneeling, and went very pale. The Strip
+   L331 The Stripe Paw mercenary braced for fire. She had seen the coronation. Everyone had seen the coronation—the Four Pillars blazing green and gold, the Styx bowing, the Lame
+chapter-arc2-04.md: 32 hits
+   L22 And the king, still seated on his throne, his claws resting on the cold stone, met her eyes and did not answer.
+   L38 The Humman merchants exchanged terrified glances. The one who had fallen first—a portly man in Verdantian silks—scrambled backward on his hands and knees, his breath comi
+   L44 "Go," Seris said quietly to her council. "I will speak for Verdantis. The rest of you—wait outside. If the king wished you dead, you would already be dead." They fled. No
+   L49 "The king's father," she said, her voice steady despite the tremor in her hands, "once told me that a ruler who must remind others of his power is a ruler who has already
+   L49 "The king's father," she said, her voice steady despite the tremor in her hands, "once told me that a ruler who must remind others of his power is a ruler who has already
+   L61 Seris recognized it. Her eyes flicked to Ajani's claws, then back to his face, and something shifted in her expression—a recalibration, a reassessment. She had come prepa
+   L61 Seris recognized it. Her eyes flicked to Ajani's claws, then back to his face, and something shifted in her expression—a recalibration, a reassessment. She had come prepa
+   L61 Seris recognized it. Her eyes flicked to Ajani's claws, then back to his face, and something shifted in her expression—a recalibration, a reassessment. She had come prepa
+   L73 "Assurances that the new king of the Wengari does not intend to follow the path of his predecessors. The First Tyrant burned half the world. The Fifth Tyrant—our Tyrant—p
+   L97 "The sun does not stop for the flowers," she said quietly. "The Styx does not stop for the razor hare. The predator does not ask the prey for permission. But the Hummans 
+   L102 She gestured at the arena, at the empty tiers where the delegations had not yet gathered. "The Threx sent a Quick to speak with you. The Veylar sent a Shell-Singer. The P
+   L119 The king's laughter echoed through the empty arena, bouncing off the stone tiers where thousands had witnessed his coronation. The green fire flickered along his claws, a
+   L122 She had miscalculated. She had come expecting to negotiate with a young king, a new king, a king who might be reasoned with. Instead, she had found Uthgard IX's son, sitt
+   L122 She had miscalculated. She had come expecting to negotiate with a young king, a new king, a king who might be reasoned with. Instead, she had found Uthgard IX's son, sitt
+   L122 She had miscalculated. She had come expecting to negotiate with a young king, a new king, a king who might be reasoned with. Instead, she had found Uthgard IX's son, sitt
+   L139 She pressed her forehead to the sand. "That is my counter-offer, King Ajani. My only one."
+   L148 Seris rose slowly, her knees aching from the stone, her forehead dusted with sand. She did not speak. There was nothing left to say. She had offered her best counter-offe
+   L156 The arena fell silent. The green fire flickered along Ajani's claws, casting dancing shadows across the empty stone tiers. Somewhere in the shaded colonnade, the Stripe P
+   L158 And somewhere beneath the earth, the Blight was stirring, early and organized and hungry. The king sat on his throne and waited for the next delegation.
+   L167 "The Pyrinae delegation, my king. The Hydromancers of the Vein-Dwellers, the Sun-Walker trade envoy, and—" He hesitated, just for a heartbeat. "And a Root-Speaker. The fi
+   L192 The Hydromancer's clouded eyes registered the extended hand, and something ancient stirred in their depths—not quite amusement, not quite approval, but a recognition that
+   L192 The Hydromancer's clouded eyes registered the extended hand, and something ancient stirred in their depths—not quite amusement, not quite approval, but a recognition that
+   L196 The Sun-Walker envoy, quicker to read the moment, stepped forward and clasped Ajani's forearm in the Wengari fashion. Her grip was firm, her rune-glass humming faintly at
+   L201 The Hydromancer made a soft sound that might have been a laugh. "The young are so direct." She stepped forward, her embedded rune-glass pulsing with amber light, and plac
+   L218 The other Pyrinae departed without protest. The Sun-Walker envoy inclined her head with the practiced neutrality of a trader who knew when a negotiation had become someth
+   L221 The Hydromancer remained where she stood, her embedded rune-glass pulsing with slow amber light, her clouded eyes fixed on the young king who had just threatened to kill 
+   L225 "That was unnecessary," she said quietly. "But I understand why you did it. The Hummans needed to see strength. The Veylar, who are watching from the eastern gate even no
+   L225 "That was unnecessary," she said quietly. "But I understand why you did it. The Hummans needed to see strength. The Veylar, who are watching from the eastern gate even no
+   L225 "That was unnecessary," she said quietly. "But I understand why you did it. The Hummans needed to see strength. The Veylar, who are watching from the eastern gate even no
+   L235 She stopped at the foot of the throne's dais, her clouded eyes level with his. "The question is not whether we will follow you. The question is whether you will let us fo
+   L240 "do you think me a fool?, three thousands years waiting to serve? Did father ever fall for such lofty words?, I might be a young king, but I am king, you either treat me 
+   L240 "do you think me a fool?, three thousands years waiting to serve? Did father ever fall for such lofty words?, I might be a young king, but I am king, you either treat me 
+chapter-arc2-05.md: 27 hits
+   L3 The Hydromancer's ancient composure did not crack. But something shifted in her clouded eyes—a flicker of recognition, perhaps even of approval. She had watched three Wen
+   L6 She had never seen a king drop the act so completely.
+   L10 "You are your father's son," she said quietly. "He also did not tolerate flattery. He also demanded honesty beneath the pleasantries. And he also—" She paused, her rune-g
+   L14 The green fire flickered along the king's claws. Somewhere in the shadows of the colonnade, the Root-Speaker was still listening. Somewhere beneath the desert, the Kyre T
+   L14 The green fire flickered along the king's claws. Somewhere in the shadows of the colonnade, the Root-Speaker was still listening. Somewhere beneath the desert, the Kyre T
+   L24 A spear thrown by a young king, however precisely, was not the worst thing she had endured.
+   L28 But something shifted in her expression. The ancient composure, the patient diplomacy of centuries, the quiet certainty that she could outlast any Wengari monarch who sat
+   L51 She touched the severed lock of hair at her shoulder. "I am one hundred and seventeen years old. I will not live to see another decade. But my successor will carry this m
+   L59 The Hydromancer saw the flicker of skepticism in Ajani's eyes and inclined her head. "You wonder what value our words hold. The Tree does not speak to us as it speaks to 
+   L64 She paused, her clouded eyes distant. "Forty years ago, I witnessed a dream. The Tree was remembering the Lightbringer. Not as the Wengari remember him—not as the builder
+   L73 The spear quivered in the stone beside her head. The severed lock of hair drifted down to rest on her shoulder. She did not flinch. She had stood before the Kyre Tree and
+   L80 "I am old, King Ajani. One hundred and seventeen years. I have served in this capital since before your father was born. I knew him. Uthgard IX. Not as a supplicant knows
+   L80 "I am old, King Ajani. One hundred and seventeen years. I have served in this capital since before your father was born. I knew him. Uthgard IX. Not as a supplicant knows
+   L90 She let the silence stretch. "I am not here to speak of the Lightbringer. I never knew him. No one alive knew him. I am here because your father asked me, forty years ago
+   L99 The ancient Hydromancer closed her eyes. For a long moment, she did not speak. When she opened them again, the diplomatic composure she had worn for a century was gone. W
+   L131 She inclined her head—not the formal bow of a diplomat, but the simple, tired nod of an old friend who had said what she came to say. "I will remain in the capital. I am 
+   L136 'mother...' - "Very well, now let's return to the act, call the rest of your delegation please , before Ajani I am king... And just like the water is life in the desert ,
+   L141 The Hydromancer inclined her head, the faintest smile touching her weathered lips. "As you command, King Ajani." She raised her hand, and the rune-glass filaments embedde
+   L141 The Hydromancer inclined her head, the faintest smile touching her weathered lips. "As you command, King Ajani." She raised her hand, and the rune-glass filaments embedde
+   L149 Nefere resumed her formal posture, her voice returning to the measured cadence of a diplomat—but softer now, edged with something that might have been warmth. "The Pyrina
+   L149 Nefere resumed her formal posture, her voice returning to the measured cadence of a diplomat—but softer now, edged with something that might have been warmth. "The Pyrina
+   L166 Now the king was handing them five of their choosing. Not as a lease. Not as a grant. As an acknowledgment of friendship that had never been formally recognized.
+   L175 "I heard him," Nefere said quietly. She took a step toward the throne, her clouded eyes fixed on the young king. "You offer us cities. Territory. Autonomy. You offer us t
+   L180 She lowered her head. Not the formal bow of a diplomat. Not the reluctant concession of a supplicant. A slow, deliberate, reverent inclination that no living Pyrina had e
+   L193 "A humble request," she repeated, turning back toward the throne. Her clouded eyes regarded the young king with something that was not quite amusement and not quite admir
+   L203 She stopped at the foot of the throne's dais and raised her eyes to the king. "I am old, Ajani Brightmane. I have perhaps three years left, perhaps five. I will spend the
+   L208 She straightened, and the faintest smile crossed her weathered face. "I will warn you, though. You have given me cities. You have given me trade. You have given me the fi
+chapter-arc2-06.md: 16 hits
+   L7 "The Veylar delegation, my king. A single Shell-Singer. She arrived at the eastern gate this morning and has been waiting in the shade of the outer wall ever since. She s
+   L35 "King Ajani." Her voice was melodic, resonant, the sound of water over stone, of waves retreating from shore. "I am Sylara, Shell-Singer of the Veylar, Tide-Warden of the
+   L40 "Sylara of the veylar, warden of the tides, this humble king salutes the only race who hasn't been bested by the glory of the wengari, please speak, how can this king hel
+   L40 "Sylara of the veylar, warden of the tides, this humble king salutes the only race who hasn't been bested by the glory of the wengari, please speak, how can this king hel
+   L48 "The Veylar do not seek help, King Ajani. We have never sought help. We have endured the Tides since the world was young. We have sung the songs of the deep places while 
+   L79 She raised the Petal-Shell, and its light brightened until it cast shimmering reflections across the stone tiers. "The Veylar are interested, King Ajani. But we do not ma
+   L107 She raised the Petal-Shell, and the sphere of water still hovering before the throne began to pulse in rhythm with its light. "This token is not a refusal. It is a promis
+   L115 Sylara's fin-ridges rippled, and her iridescent skin dimmed to a deep, contemplative blue. "The Veylar do not spit on friendship. We do not reject your hand. But we are a
+   L125 She raised the Petal-Shell, and the sphere of water hovering before the throne pulsed in time with its light. "This token is not a refusal. It is a promise. When your roa
+   L146 She stepped closer, and the salt air around her intensified, the scent of deep water and ancient patience. "But we are not predators, King Ajani. We are the tide. We are 
+   L156 She lowered the shell, and its light dimmed. "I cannot give you our full might today. The Harmonic Council would never permit it. But I can give you something else. Mysel
+   L174 She tilted her head, her luminous eyes studying the young king with a new intensity. "Twenty is not a large number. The Veylar have thousands of craftsmen. But twenty sen
+   L179 She extended her webbed hand once more, and the sphere of water that had hovered between them pulsed once, twice, then settled into a steady, rhythmic glow that matched t
+   L189 Sylara's fin-ridges flared, then settled, then flared again in a rapid sequence that might have been the Veylar equivalent of a startled laugh. "You want to send Humman e
+   L189 Sylara's fin-ridges flared, then settled, then flared again in a rapid sequence that might have been the Veylar equivalent of a startled laugh. "You want to send Humman e
+   L197 She raised the Petal-Shell, and its light pulsed once, twice, then steadied. "Send your envoys. Send your guards. The Tidepools will receive them. I will precede them acr
+
+=== SPECIAL PHRASES ===
+chapter-arc1-01.md [bright_paw_capital]: 1 hits
+   L56 The attendant led Ajani through the palace corridors—wide halls of polished stone, hung with tapestries depicting the Third Tyrant's great works: the hanging gardens, the
+chapter-arc1-01.md [warrior_amongst]: 1 hits
+   L114 'the doors just closed behind me... spooky, i should kneel, seems appropiate', "Father, Keeper of the light, Warrior amongst Warrior, the one who gives up his name to ser
+chapter-arc2-03.md [bright_paw_capital]: 3 hits
+   L27 Far above, in the darkened streets of the Bright Paw capital, the Pyrinae priests paused in their communions. The eldest Hydromancer, her rune-glass stave humming with an
+   L88 **The Bright Paw Capital**
+   L155 **The Bright Paw Capital**
+chapter-arc2-04.md [she_stepped_closer]: 1 hits
+   L230 She stepped closer to the throne, her bare feet silent on the warm stone. "You asked us to speak without flattery. I will honor that request. The Pyrinae have been patien
+chapter-arc2-04.md [she_raised]: 1 hits
+   L134 "The Council will not agree to this," she said quietly. "But the Council is in Verdantis. I am here. And I have the authority to speak for my people. I will give you my o
+chapter-arc2-05.md [bright_paw_capital]: 1 hits
+   L33 She drew a slow breath, and the rune-glass filaments embedded in her flesh pulsed with amber light. "You want the truth. Here it is. We did not wait three thousand years 
+chapter-arc2-05.md [she_stepped_closer]: 1 hits
+   L38 She stepped closer, her bare feet silent on the warm stone, and her voice dropped to a whisper. "You changed everything. The pact is renewed. The Tree is awake. The Deep 
+chapter-arc2-05.md [she_raised]: 3 hits
+   L90 She let the silence stretch. "I am not here to speak of the Lightbringer. I never knew him. No one alive knew him. I am here because your father asked me, forty years ago
+   L141 The Hydromancer inclined her head, the faintest smile touching her weathered lips. "As you command, King Ajani." She raised her hand, and the rune-glass filaments embedde
+   L180 She lowered her head. Not the formal bow of a diplomat. Not the reluctant concession of a supplicant. A slow, deliberate, reverent inclination that no living Pyrina had e
+chapter-arc2-06.md [she_stepped_closer]: 3 hits
+   L102 She stepped closer to the throne, her webbed feet leaving delicate impressions in the sand, and the Petal-Shell in her hands pulsed brighter. "But you are right about one
+   L120 She stepped closer, and the Petal-Shell in her hands pulsed brighter. "You are right about the Blight. They will come. They have grown larger since the Fourth Tyrant. The
+   L146 She stepped closer, and the salt air around her intensified, the scent of deep water and ancient patience. "But we are not predators, King Ajani. We are the tide. We are 
+chapter-arc2-06.md [sylara_fin]: 10 hits
+   L35 "King Ajani." Her voice was melodic, resonant, the sound of water over stone, of waves retreating from shore. "I am Sylara, Shell-Singer of the Veylar, Tide-Warden of the
+   L40 "Sylara of the veylar, warden of the tides, this humble king salutes the only race who hasn't been bested by the glory of the wengari, please speak, how can this king hel
+   L44 Sylara inclined her head. Her fin-ridges rippled faintly, tasting the air, reading the currents of heat and pressure that surrounded the throne. When she spoke, her voice
+   L62 Sylara was silent for a long moment. The Petal-Shell in her hands pulsed with a slow, rhythmic light, matching the steady beat of her breathing—a sign, perhaps, of deep t
+   L93 Sylara's fin-ridges went very still. The iridescent shimmer of her skin, which had pulsed with the gentle colors of the tidepools throughout the audience, dimmed to a dee
+   L115 Sylara's fin-ridges rippled, and her iridescent skin dimmed to a deep, contemplative blue. "The Veylar do not spit on friendship. We do not reject your hand. But we are a
+   L134 Sylara's fin-ridges stiffened. The colors that had rippled across her iridescent skin—deep indigo, sea-green, pearl-white—froze into a single, shocked silver. No one had 
+   L156 She lowered the shell, and its light dimmed. "I cannot give you our full might today. The Harmonic Council would never permit it. But I can give you something else. Mysel
+   L165 Sylara blinked. The iridescent shimmer of her skin, which had flared silver with defiance moments before, rippled through a cascade of colors—surprise, perhaps, or reasse
+   L189 Sylara's fin-ridges flared, then settled, then flared again in a rapid sequence that might have been the Veylar equivalent of a startled laugh. "You want to send Humman e
+chapter-arc2-06.md [she_raised]: 7 hits
+   L35 "King Ajani." Her voice was melodic, resonant, the sound of water over stone, of waves retreating from shore. "I am Sylara, Shell-Singer of the Veylar, Tide-Warden of the
+   L79 She raised the Petal-Shell, and its light brightened until it cast shimmering reflections across the stone tiers. "The Veylar are interested, King Ajani. But we do not ma
+   L107 She raised the Petal-Shell, and the sphere of water still hovering before the throne began to pulse in rhythm with its light. "This token is not a refusal. It is a promis
+   L125 She raised the Petal-Shell, and the sphere of water hovering before the throne pulsed in time with its light. "This token is not a refusal. It is a promise. When your roa
+   L151 She raised the Petal-Shell, and its light flared bright, almost blinding. "You want the Veylar's help? You want our full might behind your road? Then understand this: we 
+   L189 Sylara's fin-ridges flared, then settled, then flared again in a rapid sequence that might have been the Veylar equivalent of a startled laugh. "You want to send Humman e
+   L197 She raised the Petal-Shell, and its light pulsed once, twice, then steadied. "Send your envoys. Send your guards. The Tidepools will receive them. I will precede them acr
+
+=== DUPLICATE PARAGRAPHS (>=2 occurrences, len>=30) ===
+x2 @ chapter-arc2-03.md p14 L52; chapter-arc2-03.md p26 L96 :: and through it all, the white male styx circled the northern horizon, a constant reminder of the promise ajani had made. the road. the corridor. the pact. fifty years. it seemed li
+x2 @ chapter-arc2-03.md p15 L55; chapter-arc2-03.md p27 L99 :: the morning of their planned departure, t'van burst into ajani's chambers without knocking. his shaved mane was damp with sweat, his golden eyes wide with something between excitem
+x2 @ chapter-arc2-03.md p20 L78; chapter-arc2-03.md p36 L140 :: t'van's ears flattened. "no, my king. i don't think they are."
+x2 @ chapter-arc2-03.md p22 L86; chapter-arc2-03.md p39 L153 :: **one month after the council**
+x2 @ chapter-arc2-03.md p30 L110; chapter-arc2-03.md p47 L177 :: "and the blight. the watchmen on the northern ridge say the ground is stirring. no swarm yet, but the old scouts say it feels wrong. too early. too organized."
+x2 @ chapter-arc2-03.md p81 L312; chapter-arc2-03.md p87 L331 :: the stripe paw mercenary braced for fire. she had seen the coronation. everyone had seen the coronation—the four pillars blazing green and gold, the styx bowing, the lament singing
+
+=== DUPLICATE SENTENCES (>=2 occurrences, len>=35) ===
+x3 @ chapter-arc2-03.md L56; chapter-arc2-03.md L100; chapter-arc2-03.md L167 :: the morning of their planned departure, t'van burst into ajani's chambers without knocking.
+x3 @ chapter-arc2-03.md L61; chapter-arc2-03.md L105; chapter-arc2-03.md L172 :: the pyrinae have requested a formal audience—not as vassals, they said, but as an independent race.
+x3 @ chapter-arc2-06.md L81; chapter-arc2-06.md L99; chapter-arc2-06.md L117 :: we sing the songs of the deep places and wait for the moon's counsel.
+x2 @ chapter-arc1-02.md L9; chapter-arc1-02.md L76 :: i have known what you are since the moment you drew your first breath.
+x2 @ chapter-arc1-05.md L25; chapter-arc1-05.md L109 :: *"but the rune-belt is not yours to give.
+x2 @ chapter-arc1-05.md L88; chapter-arc1-06.md L7 :: do not let him find you unprepared."*
+x2 @ chapter-arc2-01.md L46; chapter-arc2-01.md L117 :: the stripe paws thumped their tails.
+x2 @ chapter-arc2-01.md L271; chapter-arc2-02.md L6 :: nyasha, who had been silent since her last words, spoke again.
+x2 @ chapter-arc2-01.md L271; chapter-arc2-02.md L6 :: "but the young king is right about one thing.
+x2 @ chapter-arc2-01.md L271; chapter-arc2-02.md L6 :: we have survived where others would have perished.
+x2 @ chapter-arc2-01.md L271; chapter-arc2-02.md L6 :: the tree has been our crucible." she turned her ancient eyes toward ajani.
+x2 @ chapter-arc2-02.md L132; chapter-arc2-02.md L165 :: she spoke of her mother, who had died in the capital, drained by the tree's hunger.
+x2 @ chapter-arc2-02.md L132; chapter-arc2-02.md L165 :: she spoke of the cubs who would never know their grandmother.
+x2 @ chapter-arc2-02.md L132; chapter-arc2-02.md L165 :: and she offered the tree something it had never been offered before: forgiveness.
+x2 @ chapter-arc2-02.md L132; chapter-arc2-02.md L170 :: "i do not know if you understand the word," she said, her voice cracking.
+x2 @ chapter-arc2-02.md L132; chapter-arc2-02.md L170 :: "but i will not carry this anger anymore.
+x2 @ chapter-arc2-02.md L135; chapter-arc2-02.md L176 :: the bright paw heir, a young golden-maned warrior named solen who had been ajani's childhood rival, stepped forward with the arrogance of youth and the terror of inadequacy.
+x2 @ chapter-arc2-02.md L135; chapter-arc2-02.md L176 :: he spoke of his fear—that he would never be as strong as his father, that the bright paws had grown soft under the tree's protection, that the green fire ajani wielded was somethin
+x2 @ chapter-arc2-02.md L145; chapter-arc2-02.md L194 :: a shadow paw cub—no more than ten years old, the youngest heir present—stepped forward when no one expected her to.
+x2 @ chapter-arc2-02.md L156; chapter-arc2-02.md L208 :: kareth, still holding his petal, turned to ajani.
+x2 @ chapter-arc2-02.md L156; chapter-arc2-02.md L208 :: "the wengari have made their pacts.
+x2 @ chapter-arc2-02.md L159; chapter-arc2-02.md L211 :: and the tree, silent for so long, spoke—not in words, but in a pulse of green light that filled the chamber and resonated in the bones of every wengari present.
+x2 @ chapter-arc2-03.md L53; chapter-arc2-03.md L97 :: and through it all, the white male styx circled the northern horizon, a constant reminder of the promise ajani had made.
+x2 @ chapter-arc2-03.md L56; chapter-arc2-03.md L100 :: his shaved mane was damp with sweat, his golden eyes wide with something between excitement and terror.
+x2 @ chapter-arc2-03.md L66; chapter-arc2-03.md L118 :: ajani set down the pack he had been filling with dried meat and water flasks.
+x2 @ chapter-arc2-03.md L76; chapter-arc2-03.md L138 :: "they're not going to let us leave, are they?"
+x2 @ chapter-arc2-03.md L92; chapter-arc2-03.md L159 :: the month had been a blur of preparation.
+x2 @ chapter-arc2-03.md L92; chapter-arc2-03.md L159 :: the chosen representatives of the five families had been drilling daily, training for the expedition into the rune-belt.
+x2 @ chapter-arc2-03.md L92; chapter-arc2-03.md L159 :: zara had organized the supply caravans, her stripe paw efficiency turning chaos into order.
+x2 @ chapter-arc2-03.md L94; chapter-arc2-03.md L161 :: solen, the broken bright paw heir, had been sent to the pyrinae healers; they reported that his body would recover, but his aura was gone.
+x2 @ chapter-arc2-03.md L105; chapter-arc2-03.md L172 :: the hummans have sent a full mercantile council.
+x2 @ chapter-arc2-03.md L105; chapter-arc2-03.md L172 :: there's a shell-singer from the tidepools walking through the eastern gate as we speak.
+x2 @ chapter-arc2-03.md L105; chapter-arc2-03.md L172 :: it won't speak to anyone except you."
+x2 @ chapter-arc2-03.md L113; chapter-arc2-03.md L180 :: the watchmen on the northern ridge say the ground is stirring.
+x2 @ chapter-arc2-03.md L113; chapter-arc2-03.md L180 :: no swarm yet, but the old scouts say it feels wrong.
+x2 @ chapter-arc2-03.md L313; chapter-arc2-03.md L332 :: the stripe paw mercenary braced for fire.
+x2 @ chapter-arc2-03.md L313; chapter-arc2-03.md L332 :: everyone had seen the coronation—the four pillars blazing green and gold, the styx bowing, the lament singing.
+x2 @ chapter-arc2-03.md L313; chapter-arc2-03.md L332 :: she knew what the white dawn could do.
+x2 @ chapter-arc2-03.md L313; chapter-arc2-03.md L332 :: she expected to be overwhelmed, incinerated, reduced to ash and memory by a king who would not tolerate defiance.
+x2 @ chapter-arc2-03.md L329; chapter-arc2-04.md L15 :: the stripe paw's voice, when she finally found it, was a hoarse whisper.
+x2 @ chapter-arc2-04.md L185; chapter-arc2-04.md L203 :: "the pyrinae have served the bright paws for three thousand years.
+x2 @ chapter-arc2-04.md L193; chapter-arc2-05.md L4 :: she had watched three wengari kings hold court.
+x2 @ chapter-arc2-05.md L23; chapter-arc2-05.md L74 :: she had stood before the kyre tree and felt its hunger.
+x2 @ chapter-arc2-05.md L48; chapter-arc2-05.md L61 :: the hydromancer saw the flicker of skepticism in ajani's eyes and inclined her head.
+x2 @ chapter-arc2-05.md L53; chapter-arc2-05.md L71 :: i will not live to see another decade.
+x2 @ chapter-arc2-06.md L99; chapter-arc2-06.md L117 :: "the veylar do not spit on friendship.
+x2 @ chapter-arc2-06.md L104; chapter-arc2-06.md L122 :: they have grown larger since the fourth tyrant.
+x2 @ chapter-arc2-06.md L104; chapter-arc2-06.md L122 :: and then, when we act, we act with the full weight of our patience behind us."
+x2 @ chapter-arc2-06.md L109; chapter-arc2-06.md L127 :: when your road reaches the edge of the tidepools, send it back to us.
+x2 @ chapter-arc2-06.md L109; chapter-arc2-06.md L127 :: that is how friendship is built among my people.
+x2 @ chapter-arc2-06.md L191; chapter-arc2-06.md L199 :: he did not ride a styx—that was xal'thyra, our shame and our silence, the only tyrant who ever broke the white flame to her will.
+x2 @ chapter-arc2-06.md L191; chapter-arc2-06.md L199 :: the lightbringer came on foot, with sand still in his mane and the wide eyes of a pilgrim.
+x2 @ chapter-arc2-06.md L191; chapter-arc2-06.md L199 :: i will precede them across the ocean and prepare the council for what is coming.

@@ -1,0 +1,172 @@
+UMBRELLA: content/story/chapter-05.md  (291209 bytes, 2275 lines)
+
+=== 1. HEADING INVENTORY (all # lines) ===
+L1     [ch01] # Chapter 5: The Great War
+
+=== 2. BOLD SCAFFOLD LINES (**...** alone on line) ===
+
+=== 3. META / AUTHOR-VOICE MARKERS ===
+
+=== 4. DRAFT-INSTRUCTION PROSE (present-tense stage direction suspects) ===
+L439   [ch02] Then the Pyrinae sorcerers began to chant. A different chant this time—not the deep, resonant hum of the rune cannons, but something older, something colder. The rune-gla
+L476   [ch02] "Toren sent word." M'rak's voice was calm, almost cheerful. "He's a bastard, but you can trust he'll want to live. If he says the capital needs us, then we march. Our kin
+L633   [ch03] Nefere lowered the mirror. The golden dome shimmered above her, beautiful and doomed, and the scorpions were still massing at the gate. One hour. Perhaps an hour and a ha
+L669   [ch03] Nefere lowered the mirror. The golden dome shimmered above her, beautiful and doomed, and the scorpions were still massing at the gate. One hour. Perhaps an hour and a ha
+L791   [ch05] But the wall was breaking. The Amuk fireballs had torn too many holes in the defenses. The Pyrinae sorcerers were exhausted, their rune-glass staves flickering, their cha
+L1056  [ch07] Velarius Vane has been seeded since the earliest chapters of the Ethra exercise. He is the Fifth Tyrant, the Humman who began as a healer and became a monster. His Plague
+L1704  [ch15] The black thing approaches slowly as if it couldn't quite control it's body, M'rak yells "ALL CANNONS FIRE!!!! FIRE THE RAY!!!! NOW!!! " all the rune cannons the 16 of th
+L1910  [ch18] The light walk begins to crack, then it breaks Nefere yells "FIRE" an impossibly hot beam of light cleaves trough the sand it hits the creature dead center, it screams an
+L1996  [ch18] Ajani lands on the wall shouting "STATUS STATUS, SOMEONE TELL ME WHAT ON EARTH IS THAT" we hear awed whispers "his highness" Al around solen turns to ajani and quickly kn
+L2024  [ch19] Ajani says "crap" and flies up in the sky the white spear in his hand then he throws it with all his might the spear divides and surrounds the creature it stops looking a
+L2049  [ch19] Ajani finished the first page. He tore it from the grimoire, and the paper floated before him, its runes blazing with red light. He began to chant. The words were old—old
+L2085  [ch19] Ajani finished the first page. He tore it from the grimoire, and the paper floated before him, its runes blazing with red light. He began to chant. The words were old—old
+L2104  [ch19] Cefiro turned to the nearest Wengari, a Bright Paw guard whose jaw was hanging open. "What is he doing?" The guard did not answer. He did not know. No one knew. Ajani com
+L2111  [ch19] The ice ring tightened. Ajani's fur froze white, and his breath misted in the desert heat. The water spear—the second of the five that still surrounded the creature—began
+L2116  [ch19] In the temple, the Veylar Shell-Singer heard something. Her luminous eyes opened wide, and her fin-ridges flared. She raised her Petal-Shell, and its light pulsed in time
+L2119  [ch19] The Wengari and Hummans in the temple looked at her. Then a young Humman woman—the wife of the merchant who had been spared in the temple—raised her voice and joined the 
+L2129  [ch19] The chant spread along the wall. Wengari and Humman, soldier and civilian, took up the words. The fire Ajani grew. The serpent on Ajani's arm tightened, and he grimaced i
+L2135  [ch20] Ajani reached for the third page. The fire serpent constricted around his right arm, and the ice ring tightened around his neck, and his fur was frozen white across his s
+L2153  [ch20] The chant spread through the ghosts, through the wall, through the temple. The Veylar Shell-Singer took it up, her melodic voice weaving the words into a harmony that res
+L2167  [ch21] He tore the page from the grimoire. This one was black, its surface drinking the noon light rather than reflecting it. He began to chant. His voice was hoarser now, the i
+L2186  [ch21] Nefere stood beside him, leaning on her cracked staff, her ancient face grim. "No one has. It is not usually possible. Did you ever wonder why a sorcerer must chain the e
+L2194  [ch22] Ajani tores a fifth page, deep gold runes adorn it and he chants visibily strained "Golden Spirit from the deep, the one who guards the gate, keeper of riches untold, thi
+L2197  [ch22] Ajani reached for the fifth page. His left arm was still coiled by the fire serpent, his neck still ringed in ice, his left leg still swirling with tiny white stars, his 
+L2213  [ch22] Everyone who had been chanting felt the drain. The ghosts, their drums silent, began to land on the shattered rampart, their riders slumping in their saddles. The people 
+L2241  [ch22] He began to chant. His voice was barely a whisper now, each word dragged from a body that was almost spent.
+L2247  [ch22] The elemental avatars looked up. The fire Ajani, still gripping its twin sabers. The ice Ajani, still holding its scepter. The light Ajani, still carrying its two-handed 
+L2255  [ch22] Ajani continued chanting. His voice was failing, but the chant carried on, carried by the avatars, carried by the city, carried by something older than all of them.
+L2258  [ch22] "Lend me your power to guard my home! I call upon the destroyer, the lightning that burns with inextinguishable glow! I call upon the storm that wreathes the world! Hear 
+
+=== 5. TIMESTAMP / FORMULAIC OPENERS (dup-scene-heading suspects) ===
+x2  it was 11:40 in the morning, the seventh day of the month of storms, i  -> lines [1733, 1761] (chapters [15, 15])
+x2  it was 11:50 in the morning, the seventh day of the month of storms, i  -> lines [1825, 1867] (chapters [16, 16])
+(singletons omitted; 28 distinct formulaic openers total)
+
+=== 6. DUPLICATE PARAGRAPHS (normalized, len>=35, >=2 occurrences) ===
+x3 @ L1707; L1735; L1827 [chapters [15, 15, 16]]
+      The black thing approached slowly, its eight legs dragging through the sand as if it could not quite control its own limbs. Each step was ponderous and uneven, the creature's massive body swaying from side to side. It wa
+x3 @ L1715; L1743; L1833 [chapters [15, 15, 16]]
+      The rune cannons roared. All sixteen of them, their sorcerers chanting in unison, their barrels aimed at the massive, swaying target. The volley struck the creature full in the body—some shots tearing through its chitino
+x3 @ L1717; L1745; L1835 [chapters [15, 15, 16]]
+      It crashed into the desert floor with the force of a collapsing mountain, its eight legs splayed, its purple eyes flickering, its body twitching and spasming in the sand.
+x3 @ L1719; L1747; L1837 [chapters [15, 15, 16]]
+      For a single, breathless moment, the wall was silent. Reva lowered her claws. Yvaria's ghosts hovered in the sky, their drums still. The Humman refugees in the courtyard stared at the fallen creature with expressions of 
+x3 @ L1725; L1753; L1841 [chapters [15, 15, 16]]
+      It had learned. It had adapted. It tilted its massive head toward the wall, and the purple orbs where its eyes should have been blazed with renewed intensity.
+x3 @ L1727; L1755; L1843 [chapters [15, 15, 16]]
+      M'rak stared. His voice was barely a whisper. "It reformed. We hit it with everything we had, and it reformed."
+x2 @ L77; L151 [chapters [1, 1]]
+      "Status on the north gate!" she barked, her melodic voice stripped of its usual patience. "Report!"
+x2 @ L241; L293 [chapters [1, 1]]
+      The war drums had not yet begun. The first rays of dawn had not yet touched the sand. But the council had known for three weeks that the Humman army was coming, and they had not been idle.
+x2 @ L279; L363 [chapters [1, 1]]
+      Vasha rose from her chair. "The battle is starting. We should go to the war room. The regent will want to know what is coming."
+x2 @ L283; L367 [chapters [1, 1]]
+      "The regent will want to know why we did not tell her sooner," Toren said.
+x2 @ L599; L635 [chapters [3, 3]]
+      Nefere stood on the eastern post of the northern wall, her ancient frame silhouetted against the burning sky. The fireballs from the Amuk artillery had stopped falling—the Hummans were repositioning, preparing for the fi
+x2 @ L601; L637 [chapters [3, 3]]
+      The third wave was about to crash against the gate.
+x2 @ L607; L643 [chapters [3, 3]]
+      A crackle of static. Then a voice—a young Pyrinae sorcerer, her words clipped and urgent. "South front in position." Another voice, older, rougher. "North front in position." A third, barely more than a whisper. "West fr
+x2 @ L611; L647 [chapters [3, 3]]
+      Nefere closed her eyes. The four cardinal points of the capital, each anchored by a Pyrinae sorcerer with a mirror like hers, each one waiting for the signal that would either save the city or doom it. She planted her ru
+x2 @ L615; L651 [chapters [3, 3]]
+      The rune formation began to appear over the city. It started as a faint shimmer in the air above the palace, a ring of pale golden light that pulsed once, twice, and then steadied into a slow, rotating circle. A second r
+x2 @ L617; L653 [chapters [3, 3]]
+      Solen recognized it. The old High Priest had been kneeling in the temple sanctuary, his golden mane still dusty from the frantic ride back from the water hole, his ancient heart still heavy with the guilt of the armor. H
+x2 @ L619; L655 [chapters [3, 3]]
+      It was ancient sorcery, older than the Pyrinae, older than the Wengari, a gift from the lord of the desert in the days when the pact was new and the Golden Sun still walked among them. He whispered the name under his bre
+x2 @ L621; L657 [chapters [3, 3]]
+      The golden dome bathed the city. It descended from the rotating rings like a curtain of light, a hemisphere of hard, shimmering gold that enclosed the capital from the northern gate to the southern wall, from the eastern
+x2 @ L623; L659 [chapters [3, 3]]
+      The Wengari inside the city cheered—a ragged, desperate roar of relief that echoed through the streets and courtyards and up to the burning walls.
+x2 @ L625; L661 [chapters [3, 3]]
+      Nefere did not cheer. She stood on the eastern post, her rune-glass mirror still pressed to her ear, her clouded eyes fixed on the rotating rings above her. The light shield was beautiful. It was also fragile. It was als
+x2 @ L633; L669 [chapters [3, 3]]
+      Nefere lowered the mirror. The golden dome shimmered above her, beautiful and doomed, and the scorpions were still massing at the gate. One hour. Perhaps an hour and a half. The reinforcements were coming, but they were 
+x2 @ L925; L951 [chapters [6, 6]]
+      On the northern wall, M'rak stood amid the aftermath of the fire pillars and tried to breathe. Five Wohs remained healthy. Five. Out of twenty. The others were dead—consumed by the columns of flame that had erupted from 
+x2 @ L933; L955 [chapters [6, 6]]
+      In the Humman command tent, Mekhmed was smiling. It was not a pleasant smile. "Serves them right. Stupid brutes. Did you see the way they just stood there? They thought they had won. They thought we were finished." He sh
+x2 @ L937; L959 [chapters [6, 6]]
+      The generals stood in their loose semicircle, their faces pale. Tamsin was gone—relieved of command, escorted from the tent by guards who had looked at the floor rather than meet her eyes. The remaining generals were you
+x2 @ L941; L963 [chapters [6, 6]]
+      "Something Velarius left for a time like this." Mekhmed's smile widened. "The Fifth Tyrant was a monster, but he was our monster. And he left us many things. Some of them are still useful."
+x2 @ L945; L967 [chapters [6, 6]]
+      The generals stared at him. The scarred man opened his mouth, then closed it. No one spoke. The war drums pounded on outside, low and patient, but the tent was very still. Velarius Vane had been dead for five hundred yea
+x2 @ L1457; L1481 [chapters [11, 11]]
+      M'rak looked at them. A hundred civilians with table legs and scythes, standing in the shadow of the broken gate, asking to fight. They would die. He knew they would die. But they were asking anyway.
+x2 @ L1723; L1751 [chapters [15, 15]]
+      The ichor that had spilled from its wounds began to flow backward, drawn by some invisible force. The shattered chitin knit itself together. The severed leg crawled across the sand like a living thing and reattached itse
+x2 @ L1733; L1761 [chapters [15, 15]]
+      It was 11:40 in the morning, the seventh day of the Month of Storms, in the first year of the reign of Ajani Brightmane. The wall was broken. The defenders were spent. And the creature that had been born from the Plague 
+x2 @ L1803; L1857 [chapters [16, 16]]
+      But every wound healed within seconds. The chitin knit itself together as fast as the wolves could tear it. The shadow fire guttered and died against the creature's flesh, and the wolves were forced back, their jaws bloo
+x2 @ L1805; L1859 [chapters [16, 16]]
+      The ghosts loosed their arrows. Yvaria's drummers beat out a frantic rhythm, and the remaining ghosts fired volley after volley into the creature's eyes, its mouth, its joints. The arrows struck true, but they did nothin
+x2 @ L1807; L1861 [chapters [16, 16]]
+      Zephyr pulled his wolves back, his scarred face twisted with frustration. "Nothing! The wounds don't stay! It's not even slowing!"
+x2 @ L2027; L2063 [chapters [19, 19]]
+      Ajani didn't wait for an answer. He launched himself into the sky, the golden wings snapping open from his back, the white spear of the Pyrinae already materializing in his grip. The creature was a league away—close enou
+x2 @ L2029; L2065 [chapters [19, 19]]
+      He threw the spear with everything he had. It split in midair—one became two, two became four, four became five—the five spears of the Pyrinae gift, each one blazing with a different elemental fury. Fire, water, light, d
+x2 @ L2033; L2069 [chapters [19, 19]]
+      The acid barbs shot upward in a volley of green death—the same barbs that had dissolved the Wohs, the same poison that had melted Wengari flesh from bone. Ajani was still aloft, still scribbling in the grimoire with one 
+x2 @ L2037; L2073 [chapters [19, 19]]
+      Ajani did not look up from the grimoire. His claws were moving faster than they had ever moved, tracing runic circles and elemental sigils with the precision L'vat had beaten into him in the marshes. "I NEED FIVE MINUTES
+x2 @ L2041; L2077 [chapters [19, 19]]
+      On the ground, Zephyr heard him. The young Shadow Paw commander raised his lacquered claws and shouted to his riders. "YOU HEARD HIM! CHARGE! THE WHITE DAWN NEEDS FIVE MINUTES! WE GIVE HIM FIVE MINUTES!" The black Tide W
+x2 @ L2045; L2081 [chapters [19, 19]]
+      Solen raised his spiked mace, and the twenty Golden Cloaks rose with him. Their light pillars blazed with the last reserves of their ancient power—the final stand they had been saving for the evacuation. They flew in a t
+x2 @ L2047; L2083 [chapters [19, 19]]
+      The creature screamed and hammered against the barrier. The light wall cracked. The Golden Cloaks held.
+x2 @ L2049; L2085 [chapters [19, 19]]
+      Ajani finished the first page. He tore it from the grimoire, and the paper floated before him, its runes blazing with red light. He began to chant. The words were old—older than the Wengari, older than the pact, older pe
+x2 @ L2051; L2087 [chapters [19, 19]]
+      "Spirit of fire from the east, giver of life and taker of life, this humble sorcerer beseeches you—take from me and answer my plea. Be made manifest and answer my plea. I call to thee—IFRIT!"
+(41 duplicated paragraph groups)
+
+=== 7. SPLIT-ANCHOR CONTEXT (umbrella line at each anchor; chapter starts there) ===
+anchor L410   -> ch02 start | prev line: 'Outside, the third wave was forming—four hundred scorpion riders, the last of the vanguard'
+                  | anchor line: ''
+anchor L550   -> ch03 start | prev line: 'They rode. East, west, south—they rode toward the capital, toward the gate, toward the bat'
+                  | anchor line: ''
+anchor L728   -> ch04 start | prev line: 'They hummed together, the three of them, a tiny chorus of comfort in the dim light of the '
+                  | anchor line: ''
+anchor L772   -> ch05 start | prev line: 'She did not say that they were following the orders of a fool. She did not need to. The wa'
+                  | anchor line: ''
+anchor L792   -> ch06 start | prev line: 'But the wall was breaking. The Amuk fireballs had torn too many holes in the defenses. The'
+                  | anchor line: ''
+anchor L998   -> ch07 start | prev line: 'It would be the end of everything.'
+                  | anchor line: ''
+anchor L1090  -> ch08 start | prev line: 'The regent of the Wengari, who had been patient for so long, who had held the capital toge'
+                  | anchor line: ''
+anchor L1111  -> ch09 start | prev line: ''
+                  | anchor line: '<div class="dialogue-block">'
+anchor L1146  -> ch10 start | prev line: 'It was not a scream of pain. It was a scream of recognition. The Plague was not merely a w'
+                  | anchor line: ''
+anchor L1278  -> ch11 start | prev line: 'The ominous glow bathed the desert, painting the battlefield in shades of sickness and dec'
+                  | anchor line: ''
+anchor L1592  -> ch12 start | prev line: '</div>'
+                  | anchor line: ''
+anchor L1636  -> ch13 start | prev line: '</div>'
+                  | anchor line: ''
+anchor L1668  -> ch14 start | prev line: '</div>'
+                  | anchor line: ''
+anchor L1703  -> ch15 start | prev line: ''
+                  | anchor line: '<div class="dialogue-block">'
+anchor L1762  -> ch16 start | prev line: 'It was 11:40 in the morning, the seventh day of the Month of Storms, in the first year of '
+                  | anchor line: ''
+anchor L1872  -> ch17 start | prev line: '</div>'
+                  | anchor line: ''
+anchor L1909  -> ch18 start | prev line: ''
+                  | anchor line: '<div class="dialogue-block">'
+anchor L2023  -> ch19 start | prev line: ''
+                  | anchor line: '<div class="dialogue-block">'
+anchor L2132  -> ch20 start | prev line: 'For the first time since it rose from the Humman camp, the black thing was being driven ba'
+                  | anchor line: ''
+anchor L2156  -> ch21 start | prev line: 'The ice Ajani, its scepter raised, froze another. The creature screamed—a sound of genuine'
+                  | anchor line: ''
+anchor L2193  -> ch22 start | prev line: ''
+                  | anchor line: '<div class="dialogue-block">'

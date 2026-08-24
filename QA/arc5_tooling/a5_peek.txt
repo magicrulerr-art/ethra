@@ -1,0 +1,374 @@
+==========================================================================================
+chapter-arc5-01.md  (410 lines)
+--- HEAD (first 6 non-empty-ish) ---
+  L1    '## Chapter 1: 05:25 — Vasha Storms In'
+  L2    ''
+  L3    ''
+  L4    'The first ray of sunlight touched the sand before the northern gate, and the war drums began.'
+  L5    ''
+  L6    'They were sorcery-enhanced, the low, pulsing rhythm of Humman war drums resonating across the desert like a heartbeat. The sound vibrated through the stone of the gate, t'
+  L7    ''
+  L8    'He had never fought in a war. He had never seen a scorpion charge. He had never heard the drums.'
+--- TAIL (last 5) ---
+  L406  '</div>'
+  L407  ''
+  L408  'Tamsin did not move for a long moment. Then she turned and walked out of the tent, her scarred face set, her dark eyes burning with a fury she could not voice. The other '
+  L409  ''
+  L410  'Outside, the third wave was forming—four hundred scorpion riders, the last of the vanguard, the last hope of a king who had never fought a battle. The Amuks were still ad'
+==========================================================================================
+chapter-arc5-02.md  (141 lines)
+--- HEAD (first 6 non-empty-ish) ---
+  L1    '## Chapter 2: 06:55 — Sera Holds The Gate'
+  L2    ''
+  L3    'At 6:55, Sera held the gate.'
+  L4    ''
+  L5    'Sera stood at the gate, her ruined face impassive, her lacquered claws dripping with the blood of the second vanguard. Around her, the elite unit was still breathing hard'
+  L6    ''
+  L7    'And then she saw the third wave.'
+  L8    ''
+--- TAIL (last 5) ---
+  L137  '<div class="dialogue-block">'
+  L138  '<p class="speech-line">"RIDE! RIDE OR I WILL PERSONALLY SLAUGHTER YOU ALL! RIDE!"</p>'
+  L139  '</div>'
+  L140  ''
+  L141  'They rode. East, west, south—they rode toward the capital, toward the gate, toward the battle that was already raging. The Woh riders thundered across the desert. The gho'
+==========================================================================================
+chapter-arc5-03.md  (179 lines)
+--- HEAD (first 6 non-empty-ish) ---
+  L1    '## Chapter 3: 06:25 — The War Room Still Watches'
+  L2    ''
+  L3    'It was 6:25 in the morning, the seventh day of the Month of Storms, and the war room was thick with exhaustion and fear. Sylva stood at the head of the granite table, her'
+  L4    ''
+  L5    '<div class="dialogue-block">'
+  L6    '<p class="speech-line">"I knew you old fools would still be here. I bet you don\'t even know why the Hummans are here, right?"</p>'
+  L7    '</div>'
+  L8    ''
+--- TAIL (last 5) ---
+  L175  'The dome boomed again. Kira sobbed.'
+  L176  ''
+  L177  'The scorpions hummed. It was the same low, rhythmic vibration they had used when Ajani first held them at the water hole—the not-quite-purr that had calmed him when he wa'
+  L178  ''
+  L179  'They hummed together, the three of them, a tiny chorus of comfort in the dim light of the royal chamber. And Kira, who had been alone for three years, who had found a bro'
+==========================================================================================
+chapter-arc5-04.md  (45 lines)
+--- HEAD (first 6 non-empty-ish) ---
+  L1    '## Chapter 4: 07:55 — The Dome Shimmers'
+  L2    ''
+  L3    'It was 7:55 in the morning, the seventh day of the Month of Storms, and the golden dome still shimmered over the capital. The Amuk artillery had been pounding against it '
+  L4    ''
+  L5    '<div class="dialogue-block">'
+  L6    '<span class="speech">"Use the first weapon."</span> His voice was quiet now, the petulant fury of the earlier hours burned away into something colder, something harder. <'
+  L7    '</div>'
+  L8    ''
+--- TAIL (last 5) ---
+  L41   '<div class="dialogue-block">'
+  L42   '<p class="speech-line">The generals did not look at him. They were looking at the Amuk that had collapsed in the sand, its legs shattered, its crew vaporized, its great t'
+  L43   '</div>'
+  L44   ''
+  L45   'She did not say that they were following the orders of a fool. She did not need to. The war drums pounded on, low and patient and utterly without loyalty. And the golden '
+==========================================================================================
+chapter-arc5-05.md  (21 lines)
+--- HEAD (first 6 non-empty-ish) ---
+  L1    '## Chapter 5: 08:15 — The Second Shot'
+  L2    ''
+  L3    'The second shot came at 8:15.'
+  L4    ''
+  L5    'The temple fell silent before it struck. Every Wengari inside—the merchants and the servants, the wounded and the healers, the old and the young—had heard the first shot '
+  L6    ''
+  L7    'The wounded stopped their moaning. The children stopped their crying. And they waited.'
+  L8    ''
+--- TAIL (last 5) ---
+  L17   'The remaining warriors fought on, their dark pelts matted with blood and sand, their Eight Points training turning each engagement into a brief, brutal exchange.'
+  L18   ''
+  L19   'Irek was still on the wall. The young Bright Mane soldier who had watched the first wave die with hope in his heart was bleeding from a gash across his shoulder, his spea'
+  L20   ''
+  L21   'But the wall was breaking. The Amuk fireballs had torn too many holes in the defenses. The Pyrinae sorcerers were exhausted, their rune-glass staves flickering, their cha'
+==========================================================================================
+chapter-arc5-06.md  (207 lines)
+--- HEAD (first 6 non-empty-ish) ---
+  L1    '## Chapter 6: 08:20 — The Light Shield Falls'
+  L2    ''
+  L3    'It was 8:20 in the morning, the seventh day of the Month of Storms, in the first year of the reign of Ajani Brightmane. The light shield was gone. The wall was breaking. '
+  L4    ''
+  L5    "M'rak saw the walls of the capital and felt hope for the first time in hours."
+  L6    ''
+  L7    "He had been riding since four in the morning, his Woh thundering across the desert at full pace, the eastern garrison's thirty riders stretched out behind him in a long, "
+  L8    ''
+--- TAIL (last 5) ---
+  L203  "The Plague had lasted sixty-five years. The Plague had killed eight percent of Ethra's population. The Plague had been born from Velarius Vane, and it had taken a massive"
+  L204  ''
+  L205  'On the sand before the wall, a second contingent of suicide scorpions was already marching. Fifty more riders, their mounts moving at that same slow, deliberate pace, the'
+  L206  ''
+  L207  'It would be the end of everything.'
+==========================================================================================
+chapter-arc5-07.md  (93 lines)
+--- HEAD (first 6 non-empty-ish) ---
+  L1    '## Chapter 7: 08:40 — The Plague Comes'
+  L2    ''
+  L3    'It was 8:40 in the morning, the seventh day of the Month of Storms, in the first year of the reign of Ajani Brightmane. The Plague was coming. And the gate was about to f'
+  L4    ''
+  L5    'Drums were heard from the sky. Not the low, pounding war drums of the Humman army, but something older, something rhythmic and resonant that vibrated through the bones ra'
+  L6    ''
+  L7    'They appeared out of nowhere, loosed from empty air, each shaft finding its mark with impossible precision. A suicide scorpion rider took an arrow through the chest and d'
+  L8    ''
+--- TAIL (last 5) ---
+  L89   'Vasha answered. She did not speak loudly. She did not need to. She simply raised one claw and pointed at the documents still scattered across the granite table. The copie'
+  L90   ''
+  L91   "M'rak picked up one of the papers. His golden eyes scanned the handwriting, the details, the intimate knowledge of the capital's defenses that could only have come from s"
+  L92   ''
+  L93   'The regent of the Wengari, who had been patient for so long, who had held the capital together through the tournament and the offices and the Golden Sun, who had been tea'
+==========================================================================================
+chapter-arc5-08.md  (21 lines)
+--- HEAD (first 6 non-empty-ish) ---
+  L1    '## Chapter 8: 08:45 — Scorpions Still Marching'
+  L2    ''
+  L3    'It was 8:45 in the morning. The second contingent of suicide scorpions was still marching toward the gate. The Plague mist was still rising from the glassed sand. And the'
+  L4    ''
+  L5    'The Humman command tent had grown quiet. The war drums still pounded outside, but they were distant now, a ritual rather than a signal. The golden light of the shattered '
+  L6    ''
+  L7    '<div class="dialogue-block">'
+  L8    '<span class="speech">"Your Wealthiness."</span> The general who spoke was young—promoted in the chaos after Tamsin\'s arrest and the old general\'s execution—and his voice '
+--- TAIL (last 5) ---
+  L17   '</div>'
+  L18   ''
+  L19   '<div class="dialogue-block">'
+  L20   'An old general—promoted twice in the past hour, his scarred face weary beyond measure—stood at the edge of the Humman perimeter and looked out across the glassed sand. Th'
+  L21   '</div>'
+==========================================================================================
+chapter-arc5-09.md  (37 lines)
+--- HEAD (first 6 non-empty-ish) ---
+  L1    '## Chapter 9: 09:00 — The Truce Lasts An Hour'
+  L2    ''
+  L3    '<div class="dialogue-block">'
+  L4    '<p class="speech-line">He did not need to say who "he" was. The other soldiers within earshot nodded grimly. The truce would last an hour. Perhaps more. The Wengari would'
+  L5    '</div>'
+  L6    ''
+  L7    'The purple orb rose from within the Tide Wolf camp like a bruise upon the sky. It was small at first—no larger than a clenched fist—but it pulsed with a sickly, violet li'
+  L8    ''
+--- TAIL (last 5) ---
+  L33   'They did not die cleanly. They screamed, and their screams were not the screams of warriors. They were the screams of something that was not quite alive and not quite dea'
+  L34   ''
+  L35   "In the inner chamber beneath the palace, the roots of the Kyre Tree were thrashing. The lord of the desert had felt the First Tyrant's fire five thousand years ago. It ha"
+  L36   ''
+  L37   'It was not a scream of pain. It was a scream of recognition. The Plague was not merely a weapon. It was a living thing, and it had just been woken.'
+==========================================================================================
+chapter-arc5-10.md  (133 lines)
+--- HEAD (first 6 non-empty-ish) ---
+  L1    '## Chapter 10: 09:30 — The Wall Breaks'
+  L2    ''
+  L3    'It was 9:30 in the morning. The wall was broken. The purple mist was spreading. And the great war had just become something far worse.'
+  L4    ''
+  L5    "Yvaria's voice cut through the chaos like a blade. She was aloft on her ghost, her drum harness strapped across her chest, her silver-furred paws clutching a rune-glass c"
+  L6    ''
+  L7    '<div class="dialogue-block">'
+  L8    '<p class="speech-line">"RETREAT! RETREAT FROM THE WALL! CORDON THE ZONE—SIX SPEARS RADIUS! NO ONE GETS NEAR!"</p>'
+--- TAIL (last 5) ---
+  L129  '</div>'
+  L130  ''
+  L131  'Her voice was raw, hoarse, barely audible over the chaos. The surviving Wohs surged toward the gate, their great legs churning the sand, their riders clinging to their ba'
+  L132  ''
+  L133  'The ominous glow bathed the desert, painting the battlefield in shades of sickness and decay. The Truce was over. The Plague was still spreading. And the second orb was o'
+==========================================================================================
+chapter-arc5-11.md  (315 lines)
+--- HEAD (first 6 non-empty-ish) ---
+  L1    '## Chapter 11: 09:45 — The War Becomes Worse'
+  L2    ''
+  L3    'It was 9:45 in the morning, the seventh day of the Month of Storms, in the first year of the reign of Ajani Brightmane. The wall was broken. The reinforcements were decim'
+  L4    ''
+  L5    'Reva dismounted from her Woh, and for a moment, she did not move.'
+  L6    ''
+  L7    'Her paws touched the scorched stone of the courtyard, and she stood there, her striped mane matted with sweat, her golden eyes wide and unfocused. She had ridden through '
+  L8    ''
+--- TAIL (last 5) ---
+  L311  'The sand beneath the net turned black, then purple, then a deep, bruised shade of violet that seemed to pulse with its own heartbeat. The tendrils kept growing, kept weav'
+  L312  ''
+  L313  '<div class="dialogue-block">'
+  L314  '<span class="speech">"The shadow riders have been spotted on the northern ridge. They will arrive within the hour."</span> The figure stepped over Mekhmed\'s body and walk'
+  L315  '</div>'
+==========================================================================================
+chapter-arc5-12.md  (45 lines)
+--- HEAD (first 6 non-empty-ish) ---
+  L1    '## Chapter 12: 10:35 — The Wall Blanketed'
+  L2    ''
+  L3    'It was 10:35 in the morning, the seventh day of the Month of Storms, in the first year of the reign of Ajani Brightmane. The wall was blanketed in Plague-light. The Humma'
+  L4    ''
+  L5    'The shadow riders came over the northern ridge like a black tide. A hundred Tide Wolves, their dense fur absorbing the morning light, their bodies engulfed in the faint, '
+  L6    ''
+  L7    'The Shadow Paws on their backs were dark shapes against the dark sky, their lacquered claws gleaming with the same purple and green poisons that Vex and Lira had carried.'
+  L8    ''
+--- TAIL (last 5) ---
+  L41   'Behind them, the purple net was coming apart. The tendrils were shriveling. The orbs were flickering. The screams of the trapped were fading into silence. And then a new '
+  L42   ''
+  L43   '<div class="dialogue-block">'
+  L44   '<p class="speech-line">The shadow riders reached the gate. Their flames guttered and died, leaving only the faint, flickering remnant that had carried them through the de'
+  L45   '</div>'
+==========================================================================================
+chapter-arc5-13.md  (33 lines)
+--- HEAD (first 6 non-empty-ish) ---
+  L1    '## Chapter 13: 11:20 — The Shadow Figure Drinks'
+  L2    ''
+  L3    'At 11:20, in the Humman camp, the shadow figure drank from the vial.'
+  L4    ''
+  L5    'The shadowy figure stood alone in the remnants of the command tent, its hood fallen back to reveal a face that was not quite Humman—something older, something colder, som'
+  L6    ''
+  L7    '<div class="dialogue-block">'
+  L8    '<span class="speech">"Disgusting mongrels."</span> The voice was low and cold and utterly without passion. <span class="speech">"Five thousand years, and they still carry'
+--- TAIL (last 5) ---
+  L29   'It was 11:20 in the morning. The shadow riders were at the gate. The wall was broken. The king was still unconscious. And something that had been waiting for this moment '
+  L30   ''
+  L31   '<div class="dialogue-block">'
+  L32   '<p class="speech-line">At the wall, the black thing took shape before them: a giant eight-legged creature with purple orbs in the place where its eyes would be. M\'rak ask'
+  L33   '</div>'
+==========================================================================================
+chapter-arc5-14.md  (35 lines)
+--- HEAD (first 6 non-empty-ish) ---
+  L1    '## Chapter 14: 11:35 — The Wall Learns Horror'
+  L2    ''
+  L3    'It was 11:35 in the morning, and the wall was about to learn what horror meant. The green barbs came first.'
+  L4    ''
+  L5    'The creature rose from the blackened sand like a nightmare given form. It was enormous—sixteen meters from its base to the crown of its misshapen head—and its body was a '
+  L6    ''
+  L7    "And where its eyes should have been, two of the purple Plague orbs pulsed with sickly violet light, their tendrils woven into the creature's flesh like veins."
+  L8    ''
+--- TAIL (last 5) ---
+  L31   'The great bronze doors began to swing open. The Humman refugees surged through, their scorpion mounts skittering across the stone, their Tide Wolves snarling with fear, t'
+  L32   ''
+  L33   'But the black thing was still out there. It was still growing. And the green barbs were still firing.'
+  L34   ''
+  L35   'It was 11:35 in the morning, the seventh day of the Month of Storms, in the first year of the reign of Ajani Brightmane. The wall was broken. The Wohs were dead. The crea'
+==========================================================================================
+chapter-arc5-15.md  (61 lines)
+--- HEAD (first 6 non-empty-ish) ---
+  L1    "## Chapter 15: 11:40 — M'rak Yells Clear"
+  L2    ''
+  L3    '<div class="dialogue-block">'
+  L4    '<p class="speech-line">The black thing approaches slowly as if it couldn\'t quite control it\'s body, M\'rak yells "ALL CANNONS FIRE!!!! FIRE THE RAY!!!! NOW!!! " all the ru'
+  L5    '</div>'
+  L6    ''
+  L7    'The black thing approached slowly, its eight legs dragging through the sand as if it could not quite control its own limbs. Each step was ponderous and uneven, the creatu'
+  L8    ''
+--- TAIL (last 5) ---
+  L57   '</div>'
+  L58   ''
+  L59   'On the wall, no one answered him. The rune cannons were still recharging. The Wohs were dead. The ghosts were spent. The elite unit was exhausted. The civilians with thei'
+  L60   ''
+  L61   'It was 11:40 in the morning, the seventh day of the Month of Storms, in the first year of the reign of Ajani Brightmane. The wall was broken. The defenders were spent. An'
+==========================================================================================
+chapter-arc5-16.md  (111 lines)
+--- HEAD (first 6 non-empty-ish) ---
+  L1    '## Chapter 16: 11:50 — Vows Are Absolved'
+  L2    ''
+  L3    "At 11:50, the temple summoned Solen. On the wall, M'rak was losing minutes he did not have."
+  L4    ''
+  L5    'The temple had become a war council. Solen stood at the center of the great hall, his golden mane dulled by exhaustion, his ancient eyes hollow from the long morning of d'
+  L6    ''
+  L7    'He had fought on the wall since dawn. He had watched his comrades die. He had carried their bodies to the temple and returned to the wall and fought again. Now he was her'
+  L8    ''
+--- TAIL (last 5) ---
+  L107  'It was 11:50 in the morning, the seventh day of the Month of Storms, in the first year of the reign of Ajani Brightmane. The wall was broken. The defenders were spent. An'
+  L108  ''
+  L109  '<div class="dialogue-block">'
+  L110  '<p class="speech-line">At the wall, the creature kept advancing. Suddenly twenty light meteors fell in front of it, and then light pillars shot up to the sky. A twenty-fi'
+  L111  '</div>'
+==========================================================================================
+chapter-arc5-17.md  (37 lines)
+--- HEAD (first 6 non-empty-ish) ---
+  L1    '## Chapter 17: 11:55 — The Legend Answers'
+  L2    ''
+  L3    'It was 11:55 in the morning, and the legend had answered.'
+  L4    ''
+  L5    'The creature kept advancing. Each step was steadier now, its eight legs moving in a terrible, synchronized rhythm. The purple orbs where its eyes should have been were fi'
+  L6    ''
+  L7    'Then the light came.'
+  L8    ''
+--- TAIL (last 5) ---
+  L33   "Solen raised his head. His golden eyes met M'rak's, and he nodded once. Then he launched himself into the sky, his golden cloak streaming behind him, his spiked mace blaz"
+  L34   ''
+  L35   'The creature reached the light wall and stopped. It raised one massive, chitinous leg and struck the barrier with all its force. The wall held. The creature struck again.'
+  L36   ''
+  L37   'It was 11:55 in the morning, the seventh day of the Month of Storms, in the first year of the reign of Ajani Brightmane. The Golden Cloaks had returned. The light wall st'
+==========================================================================================
+chapter-arc5-18.md  (115 lines)
+--- HEAD (first 6 non-empty-ish) ---
+  L1    '## Chapter 18: 11:59 — Nefere Fires'
+  L2    ''
+  L3    '<div class="dialogue-block">'
+  L4    'The light walk begins to crack, then it breaks Nefere yells <span class="speech">"FIRE"</span> an impossibly hot beam of light cleaves trough the sand it hits the creatur'
+  L5    '</div>'
+  L6    ''
+  L7    'The light wall cracked. A fissure ran across its golden surface like lightning across glass, and the creature on the other side screamed in triumph. Its chitinous claws h'
+  L8    ''
+--- TAIL (last 5) ---
+  L111  'Ajani stared at him. Then he looked at the creature, which was still advancing, still regenerating, still one league from the gate. He looked at the broken wall, the diss'
+  L112  ''
+  L113  'He looked at Yvaria, still aloft on her ghost, her drums still strapped to her chest.'
+  L114  ''
+  L115  'Then he looked back at the creature. It was noon. He had been unconscious for three weeks. The city was in ruins. And the endless darkness that dwelled in the belt was at'
+==========================================================================================
+chapter-arc5-19.md  (111 lines)
+--- HEAD (first 6 non-empty-ish) ---
+  L1    '## Chapter 19: 12:02 — Ajani Throws The Spear'
+  L2    ''
+  L3    '<div class="dialogue-block">'
+  L4    'Ajani says <span class="speech">"crap"</span> and flies up in the sky the white spear in his hand then he throws it with all his might the spear divides and surrounds the'
+  L5    '</div>'
+  L6    ''
+  L7    "Ajani didn't wait for an answer. He launched himself into the sky, the golden wings snapping open from his back, the white spear of the Pyrinae already materializing in h"
+  L8    ''
+--- TAIL (last 5) ---
+  L107  '</div>'
+  L108  ''
+  L109  "The chant spread along the wall. Wengari and Humman, soldier and civilian, took up the words. The fire Ajani grew. The serpent on Ajani's arm tightened, and he grimaced i"
+  L110  ''
+  L111  'For the first time since it rose from the Humman camp, the black thing was being driven back.'
+==========================================================================================
+chapter-arc5-20.md  (25 lines)
+--- HEAD (first 6 non-empty-ish) ---
+  L1    '## Chapter 20: 12:03 — Cefiro Arrives'
+  L2    ''
+  L3    'It was 12:03 in the afternoon. The city was chanting. The spirits were fighting. And Ajani, suspended between fire and ice, his aura draining into both, reached for the t'
+  L4    ''
+  L5    'Ajani reached for the third page. The fire serpent constricted around his right arm, and the ice ring tightened around his neck, and his fur was frozen white across his s'
+  L6    ''
+  L7    '<div class="dialogue-block">'
+  L8    '<p class="speech-line">"Spirit of light from the west, the sun that shines upon us all—warm, unforgiving, unflinching. This humble sorcerer beseeches you: take from me an'
+--- TAIL (last 5) ---
+  L21   '</div>'
+  L22   ''
+  L23   'The chant spread through the ghosts, through the wall, through the temple. The Veylar Shell-Singer took it up, her melodic voice weaving the words into a harmony that res'
+  L24   ''
+  L25   'The ice Ajani, its scepter raised, froze another. The creature screamed—a sound of genuine, desperate agony, its purple eyes flickering, its wounds no longer healing.'
+==========================================================================================
+chapter-arc5-21.md  (37 lines)
+--- HEAD (first 6 non-empty-ish) ---
+  L1    '## Chapter 21: 12:05 — The Light Cage Fades'
+  L2    ''
+  L3    'It was 12:04 in the afternoon. The elemental avatars were giants. The city was chanting. And the White Dawn, suspended between fire and ice and light with blood running f'
+  L4    ''
+  L5    'It was 12:05. The light cage faded. The creature advanced, diminished but not defeated, the wound where the black spear had torn it still smoking faintly. The four elemen'
+  L6    ''
+  L7    'Ajani hung in the sky, the golden Styx still perched on his right shoulder with its talons buried deep, the fire serpent coiled around his right arm, the ice ring still t'
+  L8    ''
+--- TAIL (last 5) ---
+  L33   '</div>'
+  L34   ''
+  L35   'The light cage that Solen and the Golden Cloaks had erected flickered and faded. The twenty golden warriors had given everything they had left. Their light pillars gutter'
+  L36   ''
+  L37   'And Ajani, still aloft on his golden wings, still bleeding from his nose and his shoulder and his frozen and burned and blackened flesh, reached for the fifth page. His h'
+==========================================================================================
+chapter-arc5-22.md  (83 lines)
+--- HEAD (first 6 non-empty-ish) ---
+  L1    '## Chapter 22: 12:06 — The White Dawn Wakes'
+  L2    ''
+  L3    '<div class="dialogue-block">'
+  L4    'Ajani tores a fifth page, deep gold runes adorn it and he chants visibily strained <span class="speech">"Golden Spirit from the deep, the one who guards the gate, keeper '
+  L5    '</div>'
+  L6    ''
+  L7    'Ajani reached for the fifth page. His left arm was still coiled by the fire serpent, his neck still ringed in ice, his left leg still swirling with tiny white stars, his '
+  L8    ''
+--- TAIL (last 5) ---
+  L79   '</div>'
+  L80   ''
+  L81   "On the shattered wall, M'rak lowered his claws. Zephyr's Tide Wolves collapsed onto their bellies. Solen and the Golden Cloaks, their light pillars spent, sank to their k"
+  L82   ''
+  L83   'On the seventh day of the Month of Storms, in the first year of the reign of King Ajani Brightmane, the battle that would be known as the Plague War was finally won. The '

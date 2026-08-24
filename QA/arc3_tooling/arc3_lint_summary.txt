@@ -1,0 +1,908 @@
+=== CONTRACTIONS MISSING APOSTROPHE ===
+chapter-arc3-02.md: 1 hits
+   L273 [cant] 'ok, breathe and ...', "BROTHERS!! FRIEND'S!! WELCOME, SURELY YOU ALL KNOW OF THE GREAT PROJECT, THE GLORIOUS ROAD TO UNITE THE WORLD, HOWEVER A KING 
+chapter-arc3-03.md: 1 hits
+   L90 [lets] "IT SEEMS NONE OF OUR GUESTS RISED TO THE CHALLENGE, LETS HONOR THEM, FOR THERE IS STRENGTH IN KNOWING WHEN TO FLEE AND WHEN TO FIGHT, LIKE THE RAZOR 
+chapter-arc3-04.md: 3 hits
+   L515 [dont] 'oh goody... war mounts!!!, i havent seen one since i was a child, look at them!!, would anyone care if i touched one?!,.. wait, regal!, dont look too
+   L515 [havent] 'oh goody... war mounts!!!, i havent seen one since i was a child, look at them!!, would anyone care if i touched one?!,.. wait, regal!, dont look too
+   L151 [ill] "TO MAKE IT FAIR, WE WILL DECIDE PAIRINGS BASED ON AURA, IN THE DESERT THE STYX IS THE OVERLORD, NOTHING CAN BEAT THE DEATH FROM ABOVE, BUT IN THE BEL
+chapter-arc3-05.md: 17 hits
+   L325 [cant] *This is getting annoying!!!, why cant i reach her?!, im faster than her, im sure i am, im stronger than her, how is she still catching me?!' - "Perha
+   L351 [cant] *OK THIS ENDS NOW, SHE NEEDS TO GO DOWN, NOW' - "oh... you're going down now, youre good, i admit it, you might even be better than me, but i am still
+   L296 [dont] *What on....ok... calm, breathe, shes unarmed, sword then, lets see her try to catch a dual blade'- "You're good, but im better!" - 'Five forms, fourt
+   L351 [havent] *OK THIS ENDS NOW, SHE NEEDS TO GO DOWN, NOW' - "oh... you're going down now, youre good, i admit it, you might even be better than me, but i am still
+   L130 [ill] "THEN I SHALL IS IT DONE, AFTER THE DUEL ENDS, I SHALL MEET WITH THE ELDERS, AND THE PYRANEI, THIS TOURNAMENT SHALL BE SPONSORED BY THE CROWN!!" - 'or
+   L351 [ill] *OK THIS ENDS NOW, SHE NEEDS TO GO DOWN, NOW' - "oh... you're going down now, youre good, i admit it, you might even be better than me, but i am still
+   L296 [im] *What on....ok... calm, breathe, shes unarmed, sword then, lets see her try to catch a dual blade'- "You're good, but im better!" - 'Five forms, fourt
+   L325 [im] *This is getting annoying!!!, why cant i reach her?!, im faster than her, im sure i am, im stronger than her, how is she still catching me?!' - "Perha
+   L325 [im] *This is getting annoying!!!, why cant i reach her?!, im faster than her, im sure i am, im stronger than her, how is she still catching me?!' - "Perha
+   L325 [im] *This is getting annoying!!!, why cant i reach her?!, im faster than her, im sure i am, im stronger than her, how is she still catching me?!' - "Perha
+   L325 [im] *This is getting annoying!!!, why cant i reach her?!, im faster than her, im sure i am, im stronger than her, how is she still catching me?!' - "Perha
+   L490 [im] 'im this close to skewering her..' , "OF COURSE, IN FACT, I SHALL MAKE THIS A ROYAL PROCLAMATION, ANY FAMILY IS INVITED TO OPEN SCHOOLS FOR THEIR ART 
+   L267 [lets] *OH, ok, she has claws... spear then' - "You're stronger than I expected, like a good regent should be, lets have the sun shine brighter then!" - 'Sty
+   L296 [lets] *What on....ok... calm, breathe, shes unarmed, sword then, lets see her try to catch a dual blade'- "You're good, but im better!" - 'Five forms, fourt
+   L296 [shes] *What on....ok... calm, breathe, shes unarmed, sword then, lets see her try to catch a dual blade'- "You're good, but im better!" - 'Five forms, fourt
+   L325 [wont] *This is getting annoying!!!, why cant i reach her?!, im faster than her, im sure i am, im stronger than her, how is she still catching me?!' - "Perha
+   L351 [youre] *OK THIS ENDS NOW, SHE NEEDS TO GO DOWN, NOW' - "oh... you're going down now, youre good, i admit it, you might even be better than me, but i am still
+
+=== LOWERCASE STANDALONE i ===
+chapter-arc3-04.md: 3 hits
+   L515 'oh goody... war mounts!!!, i havent seen one since i was a child, look at them!!, would anyone care if i touched one?!,.. wait, regal!, dont look too
+   L515 'oh goody... war mounts!!!, i havent seen one since i was a child, look at them!!, would anyone care if i touched one?!,.. wait, regal!, dont look too
+   L515 'oh goody... war mounts!!!, i havent seen one since i was a child, look at them!!, would anyone care if i touched one?!,.. wait, regal!, dont look too
+chapter-arc3-05.md: 10 hits
+   L70 'styx in heaven i blew it!!... I behaved no better than a cub, but they were so good!!, i should make this a yearly, thing, definetly.. a yearly thing
+   L70 'styx in heaven i blew it!!... I behaved no better than a cub, but they were so good!!, i should make this a yearly, thing, definetly.. a yearly thing
+   L130 "THEN I SHALL IS IT DONE, AFTER THE DUEL ENDS, I SHALL MEET WITH THE ELDERS, AND THE PYRANEI, THIS TOURNAMENT SHALL BE SPONSORED BY THE CROWN!!" - 'or
+   L325 *This is getting annoying!!!, why cant i reach her?!, im faster than her, im sure i am, im stronger than her, how is she still catching me?!' - "Perha
+   L325 *This is getting annoying!!!, why cant i reach her?!, im faster than her, im sure i am, im stronger than her, how is she still catching me?!' - "Perha
+   L325 *This is getting annoying!!!, why cant i reach her?!, im faster than her, im sure i am, im stronger than her, how is she still catching me?!' - "Perha
+   L351 *OK THIS ENDS NOW, SHE NEEDS TO GO DOWN, NOW' - "oh... you're going down now, youre good, i admit it, you might even be better than me, but i am still
+   L351 *OK THIS ENDS NOW, SHE NEEDS TO GO DOWN, NOW' - "oh... you're going down now, youre good, i admit it, you might even be better than me, but i am still
+   L351 *OK THIS ENDS NOW, SHE NEEDS TO GO DOWN, NOW' - "oh... you're going down now, youre good, i admit it, you might even be better than me, but i am still
+   L351 *OK THIS ENDS NOW, SHE NEEDS TO GO DOWN, NOW' - "oh... you're going down now, youre good, i admit it, you might even be better than me, but i am still
+
+=== QUOTE INVENTORY (per chapter) ===
+chapter-arc3-01.md: ascii"=280 ascii'=123 curlyOpen"=0 curlyClose"=0 curlyOpen'=0 curlyClose'=0
+chapter-arc3-02.md: ascii"=298 ascii'=129 curlyOpen"=0 curlyClose"=0 curlyOpen'=0 curlyClose'=0
+chapter-arc3-03.md: ascii"=118 ascii'=113 curlyOpen"=0 curlyClose"=0 curlyOpen'=0 curlyClose'=0
+chapter-arc3-04.md: ascii"=184 ascii'=74 curlyOpen"=0 curlyClose"=0 curlyOpen'=0 curlyClose'=0
+chapter-arc3-05.md: ascii"=130 ascii'=133 curlyOpen"=0 curlyClose"=0 curlyOpen'=0 curlyClose'=0
+
+=== LINES WITH ODD ASCII-DOUBLE-QUOTE COUNT ===
+
+=== LINES WITH ODD ASCII-SINGLE-QUOTE COUNT ===
+chapter-arc3-01.md L18 A knock at the door. T'van's voice, hoarse with exhaustion. "Ajani... the Humman ambassador has returned. She's waiting in the arena. Alone."
+chapter-arc3-01.md L23 Ajani set the feather on the windowsill. "Then let's not keep her waiting."
+chapter-arc3-01.md L30 Seris stood alone at the center of the sand, exactly where she had knelt that morning. The shadows were long now, the stone tiers empty, the air cooling with th
+chapter-arc3-01.md L60 The request hung in the cooling air. The sun was gone now, the arena lit only by the faint glow of the green fire along Ajani's claws and the distant, watchful 
+chapter-arc3-01.md L63 Seris absorbed the words with the practiced stillness of a diplomat who had learned, over decades, to find the hidden kindness in a predator's speech. *The dese
+chapter-arc3-01.md L71 She stepped back, her silhouette framed against the last glow of the vanished sun. The white Styx circled above, patient as the stars. The green fire flickered 
+chapter-arc3-01.md L78 "t'vat call for the elder council of the striped paws, now please "
+chapter-arc3-01.md L104 She had learned of them from a Sun-Walker merchant who had heard it from the Pyrinae envoy, who had been present in the arena. The humiliation of learning her f
+chapter-arc3-01.md L120 Ajani rose from the camp table where he had been reviewing the supply manifests for the road expedition. The chamber was warm, lit by oil lamps, the maps of the
+chapter-arc3-01.md L123 Zara stood at the head of the delegation, her massive frame blocking the doorway, her striped mane bristling with a tension that had nothing to do with fear. Be
+chapter-arc3-01.md L140 'oh .. so it's that ', "I see, tell me Zara, who rules the wengari?"
+chapter-arc3-01.md L144 Zara's ears flattened. The other Stripe Paws—Torek, Veena, Mako—exchanged quick, wary glances. The question was simple, but it was not a question. It was a remi
+chapter-arc3-01.md L148 Zara drew a slow breath and spoke. "You rule the Wengari, King Ajani. The Bright Paws hold the throne. The pact binds us all. We have not forgotten." She paused
+chapter-arc3-01.md L153 The old caravan master, Torek, stepped forward and placed a weathered paw on Zara's shoulder. His voice was gentler than hers, but no less firm. "What my chief 
+chapter-arc3-01.md L158 'so it's pride', "I see you believe me to be a fool, have you perchance heard news about the hummans as well or were your ears only attuned to the sound of coin
+chapter-arc3-01.md L162 Zara stiffened. The other Stripe Paws behind her—old Torek, sharp-eyed Veena, young Mako—shifted uneasily. The king's words hung in the warm lamplight like a bl
+chapter-arc3-01.md L171 Old Torek stepped forward, his weathered paw still resting on Zara's shoulder. "Tell us plainly, King Ajani. What have you done with the Hummans that we have no
+chapter-arc3-01.md L180 Zara's ears, which had been flat with anger, slowly rose. Her claws, half-extended throughout the confrontation, retracted fully into their sheaths. The questio
+chapter-arc3-01.md L194 "yes and no, sit because this is the first and last time I will explain myself and I will only do so because I regard you as brothers, the humans will send thei
+chapter-arc3-01.md L198 The Stripe Paws settled onto the cushions around the camp table, their anger cooling into something more measured. Zara sat directly across from Ajani, her mass
+chapter-arc3-01.md L203 Zara leaned forward, her striped mane catching the lamplight. "You say the Hummans will betray us. You say they will send their second-best to their own capital
+chapter-arc3-01.md L224 "The Pyrinae will pay us to protect what you gave them," Zara continued, turning back to Ajani. "The Hummans will pay us—directly or indirectly—to keep them in 
+chapter-arc3-01.md L229 "A slight correction, before the Pyrinae were our vassals we owed them protection...now they are our friends, our peers, I've travelled with the caravans on the
+chapter-arc3-01.md L242 Old Torek let out a bark of laughter, his weathered face creasing with genuine mirth. "He's telling us we can charge them. He's telling us the Pyrinae will be s
+chapter-arc3-01.md L247 Veena, the sharp-eyed mistress of the eastern routes, stepped forward from her position by the door. Her expression was calculating, her merchant's mind already
+chapter-arc3-01.md L289 Veena stepped forward, her sharp eyes fixed on Ajani. "You are giving us the chance to prove, publicly, that the Stripe Paws are more than merchants. More than 
+chapter-arc3-01.md L306 Zara's smile faltered, then steadied. The other elders—Torek, Veena, Mako—exchanged quick, sober glances. The king had given them a gift, but it was not a gift 
+chapter-arc3-01.md L347 - **Domestication:** The Stripe Paws have bred them since the Third Tyrant's era. Over three thousand years of symbiotic evolution, distinct breeds have emerged
+chapter-arc3-01.md L352 The Stripe Paw elders, having just learned that Ajani traveled with their caravans for three years during his wandering, are now trying to determine *which* car
+chapter-arc3-01.md L365 Torek stepped forward, his old bones creaking. "You traveled with our caravans for three years, King Ajani. You said so yourself. You carry merchant blood—your 
+chapter-arc3-01.md L370 Zara nodded, her striped mane rippling. "We wish to honor you. Not as a king. As a rider. As one who has walked the caravan routes and slept beneath the stars a
+chapter-arc3-01.md L393 "We cannot simply give him a fire foot," Zara said, her voice low but firm. "If we announce it publicly, it's tribute. Currying favor. The other families will s
+chapter-arc3-01.md L398 Torek nodded slowly, his old joints cracking as he settled against the corridor wall. "So we don't announce it. We don't give it as the Stripe Paw elders. We gi
+chapter-arc3-01.md L403 Veena pulled a small, worn notebook from her vest, flipping through pages of trade records and caravan manifests. "I have been thinking about this since the aud
+chapter-arc3-01.md L413 Mako, the young caravan master, spoke for the first time. "What about Korr's caravan? The Ghost Wind. It vanished four years ago. Everyone assumed it was lost t
+chapter-arc3-01.md L418 Old Torek's eyes went distant. "I remember. Korr was a friend. The pale fire feet were his pride. Fastest lizards I ever saw, and smart. Too smart, sometimes. T
+chapter-arc3-01.md L423 Zara rubbed her temples. "We need to know. Quietly. Discreetly. Talk to the caravan masters who are still in the capital. See if anyone remembers a young Bright
+chapter-arc3-01.md L431 "It's done," Seris said. "We accept his terms. The best of our guilds—the Scorpion-Masters, the Wind-Traders, the Silk-Weavers—will relocate to the capital. The
+chapter-arc3-01.md L460 The Pyrinae district was not a camp. It was a settlement, older than the Bright Paw capital itself, built into the living rock of the plateau where the Kyre Tre
+chapter-arc3-01.md L493 The Stripe Paw caravan grounds stretched along the northern edge of the capital, a sprawling encampment of tents and corrals where the fire feet dozed in the co
+chapter-arc3-01.md L496 She stopped beside a corral where a pale fire foot lay curled in the sand, its flanks rising and falling with the slow rhythm of sleep. It was one of Korr's bre
+chapter-arc3-01.md L505 "Couldn't sleep either?"
+chapter-arc3-01.md L523 "I didn't know he was the king. He was just a kid with a golden mane and sad eyes. He worked hard. He never complained. He asked a lot of questions about the fi
+chapter-arc3-02.md L9 Korr shrugged. "He didn't mention it either. I figured he had his reasons. Kings have reasons for everything." He paused. "If we want to give him a gift—a real 
+chapter-arc3-02.md L14 Zara placed a hand on his shoulder. "The Stripe Paws will not forget this, Korr. You carried the White Dawn for three years. You gave him shelter when he was no
+chapter-arc3-02.md L44 The chamber fell silent. Kareth looked at the other elders, their faces unreadable in the flickering light. He had served three generations of Bright Paw kings.
+chapter-arc3-02.md L77 The young priest's ears flattened. "I am angry about the old ways. The Lightbringer built this kingdom on Wengari supremacy. The strong rule. The weak serve. Th
+chapter-arc3-02.md L81 The pool was cool. The Quick had never felt anything like it—not in the marshes, where the water was brackish and thick with mycelium; not on the long journey a
+chapter-arc3-02.md L87 L'vat had told the network many things about Ajani Brightmane. That he was stubborn. That he asked too many questions. That he did not know when to kneel and wh
+chapter-arc3-02.md L92 But the Quick had felt the king's fire. It had felt the green flame pulse through its exhausted body, steadying its breathing, easing the tremors in its limbs, 
+chapter-arc3-02.md L101 The Quick wondered what L'vat would say when it returned. The old root would demand a full report, of course. He would want to know every word the king had spok
+chapter-arc3-02.md L105 The Quick closed its multifaceted eyes. The stars wheeled overhead. The green fire flickered gently along its chitin. And somewhere in the mycelial network, a t
+chapter-arc3-02.md L114 "It's closer," said the younger of the two, a Bright Paw named Renn. His voice was hushed, reverent, afraid. "It was just a shape this morning. A shimmer. Now I
+chapter-arc3-02.md L124 "It's not hostile," Hakar said finally. "At least, not yet. It's been walking for three days. If it wanted to attack, it would have attacked by now. Whatever it
+chapter-arc3-02.md L129 Renn stared at him. "You think that's a Dragari?"
+chapter-arc3-02.md L134 Hakar shrugged, his weathered shoulders rising and falling. "I think I don't know what it is. And neither do you. And neither does the king, I suspect. But it w
+chapter-arc3-02.md L145 "My king—we were ordered not to wake you. By T'van. By the elders. By—" She paused, her ears flicking. "By everyone, it seems. The young priest said you were no
+chapter-arc3-02.md L164 Mira, who had served in the palace since Uthgard IX was young and had seen more than her share of royal panics, calmly reached for a polished silver mirror and 
+chapter-arc3-02.md L174 The younger maid, emboldened by Mira's calm, stepped forward with a brush. "Your mane, my king. If you will permit me—there is time. Not much time, but enough. 
+chapter-arc3-02.md L186 The maids erupted into motion. Mira snapped orders at the younger attendants, who scattered like leaves before a sandstorm—one running for the royal armory, ano
+chapter-arc3-02.md L194 The young maid with the brush made a soft sound that might have been agreement. The fruit arrived—a bowl of sliced desert melon and dried figs, brought by a bre
+chapter-arc3-02.md L209 Mira was already fastening the pauldrons across Ajani's shoulders. The white cloak settled around him, its familiar weight a comfort and a burden. "You will ent
+chapter-arc3-02.md L219 'bow...what did father always said , "never cross a maid or you'll wake in rags" ' - "THANK YOU , THANK YOU ALL, I MUST BE QUICK!"
+chapter-arc3-02.md L228 The corridors of the palace blurred past. Servants flattened themselves against walls. Guards snapped to attention, their golden eyes wide with surprise as thei
+chapter-arc3-02.md L237 "Gathered, my king! The arena is full! The Shell-Singer has been there since dawn, the Pyrinae are in the front seats, the Hummans are in the eastern tier, the 
+chapter-arc3-02.md L246 Ajani flashed him a grateful look and kept running. The eastern colonnade opened before him, a long shaded walkway that led directly to the arena's royal entran
+chapter-arc3-02.md L260 The Shell-Singer's fin-ridges rippled with something that might have been amusement. "I waited eight hundred years for the White Dawn. I can wait eight more min
+chapter-arc3-02.md L264 Ajani burst through the royal entrance just as the noon bell began to toll. The arena stretched before him, the stone tiers packed with Wengari of every family,
+chapter-arc3-02.md L266 And at the center of the arena, the Five Families had assembled, each clan's warriors standing in formation, their claws gleaming, their eyes fixed on the thron
+chapter-arc3-02.md L269 Ajani climbed the dais, his breath still short from the run, his mane barely tamed, the piece of dried fig now hopelessly crushed in his paw. He sat on his fath
+chapter-arc3-02.md L273 'ok, breathe and ...', "BROTHERS!! FRIEND'S!! WELCOME, SURELY YOU ALL KNOW OF THE GREAT PROJECT, THE GLORIOUS ROAD TO UNITE THE WORLD, HOWEVER A KING CANT BE IN
+chapter-arc3-02.md L285 Ajani stood on the dais, his father's white cloak billowing in the desert wind, his golden mane still slightly disheveled from his frantic dash through the pala
+chapter-arc3-02.md L297 "The tournament will be fought in the old way," Ajani continued. "No sorcery. No fire. Only claws and fangs and the strength of the body. The arena will witness
+chapter-arc3-02.md L304 Then the Stripe Paws began to laugh. It was not mocking laughter. It was the laughter of warriors who had just been told that the rules of the game had changed,
+chapter-arc3-02.md L338 In the Pyrinae section, Nefere had risen to her feet, her clouded eyes wide, her rune-glass filaments pulsing with urgent amber light. In the Humman tier, Seris
+chapter-arc3-02.md L357 The green fire flickered along Ajani's claws. His smile was wide, and bright, and utterly terrifying. The white Styx circled far above, patient as the stars. Th
+chapter-arc3-02.md L364 "Have you lost your mind?!" The words burst from the old priest's throat before he had even finished bowing. "You put the crown on the line! The crown of the We
+chapter-arc3-02.md L369 Another elder, a stern Bright Paw named Vasha who had served as Uthgard IX's chief advisor, stepped forward. "The Lightbringer's crown. Your father's crown. The
+chapter-arc3-02.md L379 The High Priest turned back to Ajani, his golden eyes blazing. "Explain yourself, King Ajani. Explain to us why the crown of the Wengari is now the prize in a t
+chapter-arc3-02.md L383 The other Bright Paws fell silent, their golden eyes fixed on their young king. Somewhere in the arena behind them, the other families were already choosing the
+chapter-arc3-02.md L392 Nefere had not moved since the king's announcement. Her ancient frame sat perfectly still on the stone bench, her clouded eyes fixed on the empty arena floor. A
+chapter-arc3-02.md L401 "No." Nefere's voice was quiet but absolute. "The king knows we have no warriors. He did not open this tournament to humiliate us. He opened it to remind the wo
+chapter-arc3-02.md L437 Korr nodded slowly. "And if the other families' champions do not share our loyalty?"
+chapter-arc3-02.md L442 Zara's claws extended, then retracted. "Then we will deal with them. The Stripe Paws are the overlords of trade now. We enforce the covenant. And that includes 
+chapter-arc3-02.md L475 "The king is a White Dawn," said the second, a man named Torin whose scars told of battles fought before Ajani's father was born.
+chapter-arc3-02.md L501 "He's testing us," Seris said quietly. "He wants to see if we will dare. If we send a champion, we prove we are willing to fight—to compete with the Wengari on 
+chapter-arc3-02.md L527 The Threx messenger floated on its back in the shaded pool, its multifaceted eyes watching the sky. It had heard the king's announcement. It had heard the roar 
+chapter-arc3-02.md L530 The Quick could not send a champion. It was small, and young, and far from home. But it could send a thought, through the mycelial network, to L'vat in the dist
+chapter-arc3-02.md L536 The response came not in words but in a feeling—a pulse of warmth, a flicker of something that might have been pride, or might have been worry, or might have be
+chapter-arc3-02.md L546 "Have you lost your mind?!" The words burst from the old priest's throat before he had even finished bowing. "You put the crown on the line! The crown of the We
+chapter-arc3-02.md L560 And Ajani, seated on his father's throne, the white cloak around his shoulders, the green fire flickering along his claws, waited for the silence to settle befo
+chapter-arc3-02.md L568 Solen's golden eyes, clouded with age and fury, met Ajani's green-flecked gaze. The question hung in the air between them—simple, direct, and utterly unanswerab
+chapter-arc3-02.md L581 He rose from the throne, his white cloak swirling around him, and stepped down from the dais until he stood face-to-face with the High Priest. Solen was old—anc
+chapter-arc3-02.md L585 "You are afraid," Ajani said. It was not an accusation. It was an observation. "You are afraid that a Humman will win. Or a Veylar. Or a Shadow Paw. You are afr
+chapter-arc3-02.md L589 He let the silence stretch. Solen's mouth opened, then closed. The other Bright Paw elders stood frozen behind him, their golden manes limp, their claws retract
+chapter-arc3-02.md L603 He withdrew his claw and stepped back. The green fire dimmed along his claws, but did not go out. "You are my elders. You are my priests. You are the keepers of
+chapter-arc3-02.md L614 "I—" Solen's voice faltered. He was not accustomed to faltering. He had served three generations of Bright Paw kings. He had advised Uthgard IX through wars and
+chapter-arc3-02.md L645 Ajani looked at them for a long moment. Then he reached out and placed a gentle claw under Solen's chin, lifting the old priest's head until their eyes met. "Th
+chapter-arc3-03.md L3 The roar echoed through the arena like thunder, and the Bright Paw elders physically recoiled. Solen stumbled backward, his ancient paws scrabbling against the 
+chapter-arc3-03.md L7 "I—my king—I did not—" Solen's voice cracked. He had served three generations of Bright Paw kings. He had advised Uthgard IX through wars and famines and the sl
+chapter-arc3-03.md L20 The green fire dimmed. The heat faded. Ajani stood over his trembling elders, his breath coming hard, his claws still half-extended. He looked at Solen—the old 
+chapter-arc3-03.md L31 In the space of three heartbeats, the dais was empty save for the king himself. The green fire still flickered along Ajani's claws, casting dancing shadows acro
+chapter-arc3-03.md L34 The arena beyond the throne was silent. The gathered families, who had been watching the confrontation with the same rapt attention they would give to a duel, s
+chapter-arc3-03.md L40 'fhe sun is up in the sky, it's time ' -"BROTHERS STEMMED GUESTS, PLEASE PRESENT YOUR CHAMPIONS!!!"
+chapter-arc3-03.md L62 The Motted Paws came last of the Wengari families—three silver-furred warriors whose spotted coats shimmered in the noon light. They were silent as always, thei
+chapter-arc3-03.md L72 The Veylar Shell-Singer rose from her seat in the eastern colonnade and walked slowly onto the sand. She did not present a champion. She raised her Petal-Shell 
+chapter-arc3-03.md L90 "IT SEEMS NONE OF OUR GUESTS RISED TO THE CHALLENGE, LETS HONOR THEM, FOR THERE IS STRENGTH IN KNOWING WHEN TO FLEE AND WHEN TO FIGHT, LIKE THE RAZOR HARE KNOWS
+chapter-arc3-03.md L100 The Quick, floating in its shaded pool, sent a ripple of warmth through the mycelial network that would reach L'vat in the distant marsh—a silent message that t
+chapter-arc3-03.md L103 And the Humman ambassador, Seris, clutched her daughter's hand and whispered something that might have been a prayer.
+chapter-arc3-03.md L106 The champions of the five Wengari families stood alone on the sand—twelve warriors, the best their people could offer, waiting for the tournament to begin. The 
+chapter-arc3-03.md L132 It started with a low hum—a vibration that rose from the Vein-Dwellers' staffs and spread through the stone of the arena floor. The sand rippled. The ancient fl
+chapter-arc3-03.md L137 Nefere stood at the edge of the completed basin, her clouded eyes surveying the work. The walls were smooth as polished glass. The corners were sharp as a blade
+chapter-arc3-03.md L146 'bow the head'- "ESPECTACULAR, THIS SKILL WILL BE INVALUABLE ON THE ROAD, THANK YOU FRIENDS, NOW FOR THE RULES, 1) NO MORTAL WOUNDS ITS A TOURNAMENT NOT AN ASSA
+chapter-arc3-03.md L172 Zara's ears pricked forward. A slow, fierce grin spread across her broad face—the grin of a warrior who had just been told that the full extent of her power was
+chapter-arc3-03.md L189 And in the center of the arena, the rock basin waited. Nine paces by nine paces. Three paces deep. The Pyrinae's gift, forged in seven and a half minutes, ready
+chapter-arc3-03.md L197 The arena absorbed the second rule like a blade sinking into flesh. There was no murmur this time. No shifting of paws or whispered calculations. There was only
+chapter-arc3-03.md L203 Zara, who had seen more tournaments than she could count, felt something cold run down her spine. She had watched Wengari warriors fight until their claws shatt
+chapter-arc3-03.md L212 Thane, the Shadow Paw assassin, spoke for the first time. His voice was soft, almost gentle, but it carried to every corner of the silent arena. "The Shadow Paw
+chapter-arc3-03.md L216 The Bright Paw champions, still pale from the earlier confrontation, bowed their heads in acceptance. The young warrior Solen murmured something to his companio
+chapter-arc3-03.md L227 The Veylar Shell-Singer tilted her head, her iridescent skin flickering through a cascade of colors that no surface-dweller could interpret. She raised her Peta
+chapter-arc3-03.md L250 Kareth rose slowly from his seat in the Shadow Paw section. His obsidian staff clicked against the stone as he made his way down to the arena floor. His one goo
+chapter-arc3-03.md L254 The Bright Paw elders hesitated. Solen, still trembling from the confrontation with Ajani, looked to Vasha, who looked to the other elders. None of them stepped
+chapter-arc3-03.md L257 A long, uncomfortable silence stretched across the arena. The Stripe Paws shifted in their seats. The Shadow Paws watched with unreadable expressions. The deleg
+chapter-arc3-03.md L266 "I will arbit." His voice was rough, unpolished, utterly without ceremony. "I am not an elder. I am not a priest. I am a soldier. But I have fought in three war
+chapter-arc3-03.md L274 The Motted Paws were last. Their silver-furred elders conferred in whispers, their spotted coats shimmering in the noon sun. Then a single figure rose—a woman n
+chapter-arc3-03.md L282 "THEN LET'S START, MY CHAMPIONS, YOU HAVE ONE INCENSE STICK FOR PREPARATIONS, ONCE ITS GONE YOU HAVE THREE, ONLY THOSE REMAINING ON THE ARENA WHEN THE TIME RUNS
+chapter-arc3-03.md L290 Zara, already at the basin's edge, let out a short, sharp laugh. "The king does not want a tournament. The king wants a war." She turned to her three champions—
+chapter-arc3-03.md L315 A servant stepped onto the sand, carrying a single incense stick—thick as a Wengari's thumb, dark with age and fragrant with desert herbs. He placed it in a bro
+chapter-arc3-03.md L321 Solen's golden eyes flicked to the throne, to the White Dawn who had promised death to those who failed. Then he straightened his shoulders, raised his head, an
+chapter-arc3-03.md L329 Rask's blow was swift and merciful. Solen crumpled to the sand, unconscious but alive. The Bright Paw champions were eliminated. The first phase of the tourname
+chapter-arc3-03.md L332 Hakar, the old watchman who had volunteered to arbit for the Bright Paws, stood at the basin's edge. His weathered face was stone. His hands, which had held a s
+chapter-arc3-03.md L338 *Let's begin!*
+chapter-arc3-03.md L340 Ajani's eyes tracked the fallen Bright Paws as they were carried from the basin. Three champions of his own blood, eliminated in less than a quarter of an incen
+chapter-arc3-03.md L346 The Shadow Paws had not yet struck. Thane and his two assassins were still ghosts at the basin's edge, their dark pelts indistinguishable from the shadows of th
+chapter-arc3-03.md L352 Ajani's eyes moved to the assassins. The Shadow Paws had been his family's shame for five thousand years. The legacy of the First Tyrant clung to them like a sc
+chapter-arc3-03.md L357 Ajani's claws continued their slow, steady rhythm against the armrest. The green fire along his knuckles had dimmed to a faint, pulsing glow. He was no longer w
+chapter-arc3-03.md L373 Thane and his assassins materialized from the shadows at the exact moment the Stripe Paws committed to their charge. They had waited, patient as death, for the 
+chapter-arc3-03.md L376 Tor went down first. Thane's strike was surgical—a single blow to the back of the knee that severed the tendon and sent the lean warrior crashing to the sand. H
+chapter-arc3-03.md L389 They would not take advantage of the chaos. They would face whoever remained when the smoke cleared, and they would do so on equal terms. Rask stared at Sylva f
+chapter-arc3-03.md L419 She fought for another minute. Perhaps two. Then Thane's claws found her shoulder, and his poison did its silent work, and the last of the Stripe Paws crumpled 
+chapter-arc3-03.md L436 But Sylva was already walking toward the basin's edge, her silver aura still flickering faintly along her claws. The last ember of the incense stick crumbled in
+chapter-arc3-03.md L439 *'yes they would make good regents, two for two and they're unscathed '*
+chapter-arc3-03.md L448 The Motted Paws rose to meet them. Sylva unfolded from her seated position with the fluid grace of water, her silver aura flaring along her claws like moonlight
+chapter-arc3-03.md L454 Thane and his assassins materialized from the shadows at the exact moment the Stripe Paws committed to their charge. They had waited, patient as death, for the 
+chapter-arc3-03.md L469 But Sylva was already moving. The Motted Paw champion had watched the exchange, her silver aura flickering, her ancient eyes calculating. She saw the opening th
+chapter-arc3-03.md L474 Rask and Thane collided in the center of the basin. The Stripe Paw's roar echoed through the arena as she drove the assassin backward, her strikes powerful enou
+chapter-arc3-03.md L479 But Sera, her face still streaming blood, had not been idle. She had circled behind Rask during the duel, her wounded face a mask of cold fury. Her claws found 
+chapter-arc3-03.md L485 Two champions remained standing: Sylva of the Motted Paws, her silver aura flickering faintly, her claws stained with Vex's blood. And Sera of the Shadow Paws, 
+chapter-arc3-03.md L500 Two champions remained standing at the end of the first phase: Sylva of the Motted Paws, her silver aura flickering faintly, her claws stained with Vex's blood.
+chapter-arc3-03.md L503 The fallen lay scattered across the bloodied sand. Tor and Varn of the Stripe Paws, paralyzed by Shadow Paw poison, their chests still rising and falling. Vex o
+chapter-arc3-03.md L526 The arena was still. The arbiters stood at the basin's edge, their faces grim. The delegations watched in silence. And the king sat on his throne, the green fir
+chapter-arc3-04.md L3 And the king sat on his father's throne, the green fire flickering gently along his claws, his eyes fixed on the broken warriors of his own blood. The apology h
+chapter-arc3-04.md L28 And the green fire flickered gently along Ajani's claws, casting dancing shadows across the ancient stone. The White Dawn had asked a question. Now he would jud
+chapter-arc3-04.md L55 The arena held its breath. The six champions who had survived the first phase stood at the edge of the basin, their auras still flickering, their wounds still f
+chapter-arc3-04.md L58 Thane was the first to speak. The Shadow Paw assassin had regained consciousness after Rask's blow, his shoulder still bleeding, his dark pelt matted with sand 
+chapter-arc3-04.md L97 The Bright Paw trainers bowed their heads as one. Voren, the old veteran who had offered his life to the king's judgment, pressed his forehead to the blood-spat
+chapter-arc3-04.md L107 Ajani rose from his father's throne. The green fire along his claws dimmed to a faint, pulsing glow. He did not speak to the crowd. He did not acknowledge the d
+chapter-arc3-04.md L120 Rask stepped forward first. The massive Stripe Paw had shaken off the last of the Shadow Paw poison through sheer brute force. Her ceremonial beads were still s
+chapter-arc3-04.md L128 Thane rose next. The Shadow Paw assassin's shoulder was still bound where Tor had raked him, and his movements were slower than before. But his dark eyes were s
+chapter-arc3-04.md L132 "The Shadow Paws are ready." Thane's voice was quiet as always, but it carried. "We have lost one of our own. We will not lose again."
+chapter-arc3-04.md L144 The six champions stood in a line before the throne. The basin waited, empty now, its stone walls still gleaming from the Pyrinae's sorcery. The incense had bee
+chapter-arc3-04.md L168 Ajani descended from the throne. He walked across the blood-spattered sand, his white cloak billowing behind him, and took the staff from Nefere's hands. The gr
+chapter-arc3-04.md L186 Let's follow the arena as the Styx feathers measure the champions. The Pyrinae will handle the ceremony—neutral, precise, and practiced in the handling of aura-
+chapter-arc3-04.md L220 Nefere's ancient eyes widened, just slightly. "The Shadow Paw. The feathers see something old in you. Something that has been waiting a very long time."
+chapter-arc3-04.md L227 Sera approached next. The second Shadow Paw, her face still a mask of dried blood and fresh scar tissue, placed her claw upon the staff. The Styx feathers shimm
+chapter-arc3-04.md L249 The companions approached together. The first, a silver-furred male named Torin, placed his claw upon the staff. The light that emerged was a softer echo of Syl
+chapter-arc3-04.md L282 Ajani's smile spread wide across his face—all teeth, no warmth—and his eyes flared with a pulse of green fire that was visible even in the blinding noon sun. Th
+chapter-arc3-04.md L361 Sera attacked again. This time she was more cautious, her combinations shorter, her retreats faster. She was learning. She was adapting. She landed a clean elbo
+chapter-arc3-04.md L374 Sera's one good eye met his. For a long moment, neither of them spoke. Then Sera inclined her head. "I yield." Her voice was steady. "You taught me well. Finish
+chapter-arc3-04.md L388 The green fire flickered gently along Ajani's claws. The king leaned forward on his throne, his eyes moving from the two Shadow Paws in the basin to the two Mot
+chapter-arc3-04.md L402 Elyra moved first. Her style was sharper than Torin's, more aggressive, the silver light of her aura flaring like a blade. She closed the distance in three swif
+chapter-arc3-04.md L410 Elyra pressed harder. Her combinations grew faster, more complex, the silver light of her aura blazing with each strike. She was a torrent now, a rushing river,
+chapter-arc3-04.md L413 Sylva waited. She absorbed what she could, redirected what she could, retreated when she must. Her movements were slower than her student's, more deliberate, bu
+chapter-arc3-04.md L456 The beams slid into place between them, locked by sorcery, smoothed by centuries of craftsmanship. The structure rose in silence, broken only by the soft hum of
+chapter-arc3-04.md L459 Mira, the Sun-Walker envoy, stood at Nefere's side with her parchment and stylus, though she had stopped writing. There were no words for this. Only the work.
+chapter-arc3-04.md L462 On the far side of the arena, Zara turned to Korr. The old caravan master nodded once and vanished into the stables carved into the plateau's base. When he retu
+chapter-arc3-04.md L464 They were bred for combat, trained to carry a rider into the heart of a Chi'Thak swarm and emerge alive. They were not mounts. They were weapons.
+chapter-arc3-04.md L468 "The Stripe Paws offer our three best," Zara called across the arena, her massive paw resting on the lead fire foot's flank. "War-mounts of the Ironcrest line. 
+chapter-arc3-04.md L491 Kareth, standing at the basin's edge with his obsidian staff, simply closed his one good eye and inclined his head. "The king honors the champions with his pres
+chapter-arc3-04.md L504 The Pyrinae, still finishing the fence, paused in their work to stare. Nefere's ancient face creased with something that might have been a smile. "The king will
+chapter-arc3-04.md L508 The fire feet snorted and stamped in their harnesses, sensing the excitement in the air. The fence was complete—fifty paces by fifty, beams at one-pace interval
+chapter-arc3-04.md L567 The incense flared, and the three champions spurred their mounts into the enclosure. Ajani stood at the fence's edge, his white cloak forgotten in the dust, his
+chapter-arc3-04.md L571 "Look at that form! Torin's got the Ironcrest line—see the way she responds to his knees? He's barely touching the reins! That's not training, that's partnershi
+chapter-arc3-04.md L575 Zara, standing at the opposite fence rail, exchanged a glance with Kareth. The Stripe Paw chief's eyebrows rose. The old Shadow Paw general simply shook his hea
+chapter-arc3-04.md L589 Zara's grin was wide and incredulous. "I had no idea. He hid it well in the negotiations."
+chapter-arc3-04.md L608 The final pass was a blur of black scales and silver light. Sylva and Torin moved in perfect synchronization—two practitioners of Flowing Water riding as if the
+chapter-arc3-04.md L611 Ajani's claws were gripping the fence rail so hard the stone creaked. His tail lashed back and forth behind him, a rhythm of pure, undisguised excitement. His m
+chapter-arc3-05.md L9 Thane looked at the claws on his reins, at the two Motted Paws who had outmaneuvered him with the patience of their art, and inclined his head. "I yield. The Mo
+chapter-arc3-05.md L16 And Ajani—Ajani was still gripping the fence rail, his chest heaving, his eyes bright as a cub's. He had not noticed the green fire flaring along his claws. He 
+chapter-arc3-05.md L18 Her golden eyes narrowed, then softened. She had seen many things in her decades as Stripe Paw chief. She had never seen a Bright Paw king lean over a fence rai
+chapter-arc3-05.md L23 Other elders noticed too. Kareth, leaning on his obsidian staff, filed the observation away for the Shadow Paw council. A king who loved spectacle could be hono
+chapter-arc3-05.md L34 Ajani's claws were white-knuckled on the fence rail. His tail had stopped lashing. He was utterly still now, the stillness of a predator watching prey—or of a w
+chapter-arc3-05.md L42 Zara, watching from the opposite rail, saw the king's muscles bunch and release, bunch and release, as if he were the one in the saddle. She had trained warrior
+chapter-arc3-05.md L48 Torin's balance shattered. He gripped the reins, fought for control, but his fire foot was already stumbling, and Sylva was already there, her claws guiding his
+chapter-arc3-05.md L57 Torin looked at the claw on his shoulder, at his master's calm silver eyes, and inclined his head. "I yield. The victory is yours." He dismounted, and the crowd
+chapter-arc3-05.md L82 Zara watched the exchange from the fence rail, her golden eyes still bright with the revelation she had witnessed. The king was a fan of the fire feet. The king
+chapter-arc3-05.md L88 Hakar, the old watchman, was already cataloging the weapons stored in the northern wall's armory. A king who craved spectacle deserved a blade worthy of it.
+chapter-arc3-05.md L91 And Sylva, the new regent, stood in the center of the enclosure with her silver aura flickering gently in the afternoon sun. She had won the tournament. She wou
+chapter-arc3-05.md L100 The arena's roar was all the answer Ajani needed, but the Wengari gave it anyway. "YEARLY! YEARLY! YEARLY!" The chant thundered through the stone tiers, punctua
+chapter-arc3-05.md L105 Zara, standing at the enclosure's edge, exchanged a look with Kareth. "Yearly," she muttered. "He wants to do this yearly. The logistics alone—"
+chapter-arc3-05.md L151 The fire feet handlers were already discussing breeding schedules. The Pyrinae were already sketching plans for next year's arena. The tournament had become mor
+chapter-arc3-05.md L163 Kareth listened, his one good eye moving among his kin. The Shadow Paws had been humiliated by the First Tyrant's legacy. The tournament had given them somethin
+chapter-arc3-05.md L172 "Sign it for my brother! He wants to be a champion someday!" a young Stripe Paw cub demanded, shoving a wooden claw across the table. Rask laughed, her booming 
+chapter-arc3-05.md L181 The Humman encampment had transformed. Seris, the ambassador who had been caught off guard by Ajani's demand for refreshments, had spent the intervening hours p
+chapter-arc3-05.md L183 She had been humiliated in the morning. She had scrambled to fulfill the king's demand. Now she was profiting from it.
+chapter-arc3-05.md L203 The internal consistency of the tournament holds. The Bright Paws' elimination in the first quarter of the first incense stick is not merely humiliation. It is 
+chapter-arc3-05.md L206 The aura-pairing mechanism in Phase Two is clever and grounded in the world's magic system. Styx feathers as aura conduits were established long before the tour
+chapter-arc3-05.md L216 The mounted phase tests a different set of skills. A regent must command not merely personal combat but rapport with the animals that are the backbone of Wengar
+chapter-arc3-05.md L219 This duel will be the tournament's defining memory, and it will establish Ajani not as an untouchable god but as a mortal who is still growing into his power. T
+chapter-arc3-05.md L235 The feint is the resolution. Ajani will win not through the ji's overwhelming force but through the strategic deception of the Four Pillars. He will bait Sylva 
+chapter-arc3-05.md L240 The green fire is not a gift from the Tree. It is not a mark of the pact. It is Ajani. Aura is the manifestation of the inner force of a being—its essence, its 
+chapter-arc3-05.md L243 The green fire is not a gift from the Tree. It is not a mark of the pact. It is Ajani. Aura is the manifestation of the inner force of a being—its essence, its 
+chapter-arc3-05.md L250 The green fire is the mark of that year. It is the Deep's influence, woven into Ajani's aura as surely as the Stripe Paws' caravan routes are woven into their g
+chapter-arc3-05.md L261 She released the blade and stepped back, her silver aura flickering gently, her expression unchanged. The crowd sat stunned. The king's opening combination had 
+chapter-arc3-05.md L267 *OH, ok, she has claws... spear then' - "You're stronger than I expected, like a good regent should be, lets have the sun shine brighter then!" - 'Styx style, f
+chapter-arc3-05.md L279 He lunged. The spear was faster than the saber—longer, more precise, a single point of green fire aimed at Sylva's right shoulder. If she deflected, the blade w
+chapter-arc3-05.md L282 She caught the spear. Not the blade—the shaft. Her silver claws closed around the green fire just behind the leaf-shaped point, and she twisted, not to redirect
+chapter-arc3-05.md L296 *What on....ok... calm, breathe, shes unarmed, sword then, lets see her try to catch a dual blade'- "You're good, but im better!" - 'Five forms, fourth form, ai
+chapter-arc3-05.md L303 Five forms. Fourth form. Aim for the wrist. Twist to the lung. If she catches or deflects, curve to the neck. Keep it tight. Don't allow openings.
+chapter-arc3-05.md L306 He moved. The first strike was a blur of green fire aimed at Sylva's right wrist—a disabling blow, meant to end the duel without bloodshed. She did not catch it
+chapter-arc3-05.md L321 He was going to have to try something he had never tried before. Something his father had never taught him. Something L'vat had never taught him. Something that
+chapter-arc3-05.md L329 The sword dissolved mid-swing, its green fire collapsing into a cascade of sparks, and the staff blazed to life in Ajani's paws in the same fluid motion. The tr
+chapter-arc3-05.md L331 But Ajani was not using it for defense. He was using it for deception. The sword had been the feint. The staff was the kill shot—a sweeping arc of green fire ai
+chapter-arc3-05.md L343 Ajani stood in the center of the platform, his chest heaving, his green fire guttering along the staff's length. His golden mane was damp with sweat. His claws 
+chapter-arc3-05.md L351 *OK THIS ENDS NOW, SHE NEEDS TO GO DOWN, NOW' - "oh... you're going down now, youre good, i admit it, you might even be better than me, but i am still the heir 
+chapter-arc3-05.md L364 Ajani's chest heaved. The green fire along his claws was guttering now, flickering with exhaustion, but the ji held steady in his grip, its emerald blade castin
+chapter-arc3-05.md L369 The first strike was a sweeping arc aimed at Sylva's midsection—a blow meant to cleave her in two if she did not move. She flowed backward, her silver aura flar
+chapter-arc3-05.md L371 Sylva did not try to redirect this one. She dodged—a full, committed dodge, her body rolling across the stone—and the ji's blade struck the platform with a soun
+chapter-arc3-05.md L374 A crack spiderwebbed across the polished stone. One of the rune-glass filaments embedded in the wall shattered, its amber light winking out. A chunk of stone th
+chapter-arc3-05.md L377 The crowd erupted. The ji had damaged the arena. The ji had nearly killed the regent. The ji was magnificent. And terrifying. And clearly, visibly, not fully un
+chapter-arc3-05.md L380 Sylva rose from her dodge, her silver aura flickering, her ancient eyes fixed on the young king. She had seen the overcommitment. She had seen the strain in his
+chapter-arc3-05.md L383 She flowed forward. Not fast—she was never fast—but with the inevitable, unhurried grace of water seeking its level. Ajani raised the ji for another strike, but
+chapter-arc3-05.md L394 The ji dissolved. In the same fluid motion, the saber blazed back to life—not in a wide, sweeping arc, but in a tight, precise thrust that caught Sylva's extend
+chapter-arc3-05.md L405 The ji guttered and died in Ajani's exhausted paws, its emerald blade flickering out like a candle in a sandstorm. His chest heaved. His golden mane was plaster
+chapter-arc3-05.md L413 The ji dissolved. The saber blazed back to life in his right paw—not the wide, sweeping arcs of the Four Pillars, not the calculated feints and precise thrusts 
+chapter-arc3-05.md L415 It had always been his default. He had spent a year under the old Lament's tutelage, drilling sword forms until his claws bled, until the weapon was an extensio
+chapter-arc3-05.md L418 It caught Sylva's extended arm at the wrist and guided it gently, inexorably, away from his throat.
+chapter-arc3-05.md L439 The crowd's roar slowly subsided into an expectant murmur. Sylva stood at the center of the platform, her silver aura still flickering gently around her limbs, 
+chapter-arc3-05.md L454 She turned back to Ajani, and her ancient gaze held his. "I do not ask for land. I do not ask for gold. I do not ask for titles or privileges or exemptions from
+chapter-arc3-05.md L467 She raised one silver-furred paw, and her aura flared—not the gentle, patient flicker of Flowing Water, but something brighter, sharper, more urgent. "I ask tha
+chapter-arc3-05.md L500 "A generous proclamation," she murmured, her soft voice carrying to the young king's ears alone. "You learn quickly. The council seat I requested was a test. Yo
+chapter-arc3-05.md L522 And tomorrow—or the day after, or the day after that, once the celebrations had ended and the delegations had departed and the capital had returned to something
+
+=== EM DASHES ===
+chapter-arc3-01.md: em=87 en=1 hbar=0 oddLines=35
+   ODD(1) L30 Seris stood alone at the center of the sand, exactly where she had knelt that morning. The shadows were long now, the stone tiers empty, the air cooling with th
+   ODD(1) L40 "King Ajani. The Humman Mercantile Council has reached its decision. I am instructed to inform you—" She paused, drew a breath. "We accept your terms."
+   ODD(1) L63 Seris absorbed the words with the practiced stillness of a diplomat who had learned, over decades, to find the hidden kindness in a predator's speech. *The dese
+   ODD(3) L67 She bowed her head one final time, lower than before. "The Pyrinae district, then. My daughter will learn to endure, or she will not. But I am grateful—truly gr
+   ODD(1) L86 "The Stripe Paw elders, my king? Tonight? They will be... they are likely already in council themselves. The news of the Pyrinae's elevation has spread. The mer
+   ODD(1) L90 **The Hall of the Caravan Masters — One Hour Later**
+   ODD(1) L93 The Stripe Paws did not have a formal council chamber like the Bright Paws. They had the Hall of the Caravan Masters, a vast, low-ceilinged building near the ea
+   ODD(1) L98 They had not waited for T'van's summons. They were already here, already angry, already deep in heated debate when the young priest arrived with the king's comm
+   ODD(1) L135 "We are not your brothers tonight, King Ajani. Tonight, we are merchants. And we have questions." She paused, her claws half-extending before she forced them ba
+   ODD(1) L198 The Stripe Paws settled onto the cushions around the camp table, their anger cooling into something more measured. Zara sat directly across from Ajani, her mass
+   ODD(3) L216 "When one needs mercenaries," she said, her voice low but steady, "one goes to the Stripe Paws. We have been the sword-for-hire since before the First Tyrant wa
+   ODD(3) L224 "The Pyrinae will pay us to protect what you gave them," Zara continued, turning back to Ajani. "The Hummans will pay us—directly or indirectly—to keep them in 
+   ODD(1) L237 "A correction," she repeated, her voice carrying a note of something that might have been admiration. "The Pyrinae are no longer vassals. They are friends. Peer
+   ODD(1) L247 Veena, the sharp-eyed mistress of the eastern routes, stepped forward from her position by the door. Her expression was calculating, her merchant's mind already
+   ODD(3) L289 Veena stepped forward, her sharp eyes fixed on Ajani. "You are giving us the chance to prove, publicly, that the Stripe Paws are more than merchants. More than 
+   ODD(1) L310 "Clear, King Ajani," Zara said, her voice formal now, the tone of a chief addressing her sovereign rather than a merchant addressing her partner. "The sun shine
+   ODD(1) L330 Old Torek rose slowly, his weathered paw pressing against the small of his back where the decades of caravan travel had left their mark. "I served your father,"
+   ODD(1) L334 **The Fire Feet — Lore Confirmed**
+   ODD(1) L339 - **Attunement:** Steadfast-attuned, with a unique homeostatic aura adaptation—they maintain a constant internal temperature regardless of environment. This mak
+   ODD(1) L343 - **Temperament:** Quick and intelligent. Herbivorous, with a particular fondness for the grasses of the Rune-Belt—a taste that naturally draws them toward the 
+   ODD(1) L347 - **Domestication:** The Stripe Paws have bred them since the Third Tyrant's era. Over three thousand years of symbiotic evolution, distinct breeds have emerged
+   ODD(1) L349 - **Bond:** The relationship is a true symbiosis, not ownership. The fire feet gain protection, food, and purpose; the Stripe Paws gain mobility, speed, and the
+   ODD(1) L352 The Stripe Paw elders, having just learned that Ajani traveled with their caravans for three years during his wandering, are now trying to determine *which* car
+   ODD(1) L356 The chamber had emptied. The Stripe Paw elders had risen, their maps and notes gathered, their anger cooled into something warmer—respect, perhaps, or the first
+   ODD(1) L370 Zara nodded, her striped mane rippling. "We wish to honor you. Not as a king. As a rider. As one who has walked the caravan routes and slept beneath the stars a
+   ODD(1) L375 Veena, still standing near the door, let out a soft, sharp laugh. "We have narrowed it to three possibilities. The Swift Sands caravan, out of the eastern route
+   ODD(1) L380 Zara spread her massive paws, palms up. "We are not asking for secrets. We are asking for preference. Speed, strength, or endurance? A mount for combat, for tra
+   ODD(1) L393 "We cannot simply give him a fire foot," Zara said, her voice low but firm. "If we announce it publicly, it's tribute. Currying favor. The other families will s
+   ODD(1) L403 Veena pulled a small, worn notebook from her vest, flipping through pages of trade records and caravan manifests. "I have been thinking about this since the aud
+   ODD(1) L408 "Possible," Zara said. "But the Red Claw is a combat caravan. They breed war-mounts. If the king rode with them for three years, he would have learned to fight 
+   ODD(3) L413 Mako, the young caravan master, spoke for the first time. "What about Korr's caravan? The Ghost Wind. It vanished four years ago. Everyone assumed it was lost t
+   ODD(3) L431 "It's done," Seris said. "We accept his terms. The best of our guilds—the Scorpion-Masters, the Wind-Traders, the Silk-Weavers—will relocate to the capital. The
+   ODD(1) L474 The Sun-Walker envoy, whose name was Mira, grinned at her elder. "We are already making the gold. The Stripe Paws will need supplies for their caravans—more sup
+   ODD(1) L496 She stopped beside a corral where a pale fire foot lay curled in the sand, its flanks rising and falling with the slow rhythm of sleep. It was one of Korr's bre
+   ODD(1) L523 "I didn't know he was the king. He was just a kid with a golden mane and sad eyes. He worked hard. He never complained. He asked a lot of questions about the fi
+   HYPHEN-START L337 - **Physical Description:** 3-meter-long black lizards with distinctive red feet, giving them their name. Endemic to the Steadfast Desert.
+   HYPHEN-START L339 - **Attunement:** Steadfast-attuned, with a unique homeostatic aura adaptation—they maintain a constant internal temperature regardless of environment. This mak
+   HYPHEN-START L341 - **Lifespan:** 30–35 years, placing them in the medium range for domesticated animals.
+   HYPHEN-START L343 - **Temperament:** Quick and intelligent. Herbivorous, with a particular fondness for the grasses of the Rune-Belt—a taste that naturally draws them toward the 
+   HYPHEN-START L345 - **Weakness:** Deadly afraid of fire. The Styx hunt them like everything else in the desert, and their fear of flame is deep and instinctual.
+   HYPHEN-START L347 - **Domestication:** The Stripe Paws have bred them since the Third Tyrant's era. Over three thousand years of symbiotic evolution, distinct breeds have emerged
+   HYPHEN-START L349 - **Bond:** The relationship is a true symbiosis, not ownership. The fire feet gain protection, food, and purpose; the Stripe Paws gain mobility, speed, and the
+chapter-arc3-02.md: em=83 en=0 hbar=0 oddLines=41
+   ODD(3) L9 Korr shrugged. "He didn't mention it either. I figured he had his reasons. Kings have reasons for everything." He paused. "If we want to give him a gift—a real 
+   ODD(1) L14 Zara placed a hand on his shoulder. "The Stripe Paws will not forget this, Korr. You carried the White Dawn for three years. You gave him shelter when he was no
+   ODD(1) L40 "Something new," Varek repeated. "That is what they said about the Lightbringer. And he vanished into the Chamber of Reflection and left us with a broken pact. 
+   ODD(3) L53 Varek stared at him for a long moment. Then he inclined his head—a grudging acknowledgment, not agreement. "Watch, then. Wait. But when the madness comes, Karet
+   ODD(1) L77 The young priest's ears flattened. "I am angry about the old ways. The Lightbringer built this kingdom on Wengari supremacy. The strong rule. The weak serve. Th
+   ODD(1) L81 The pool was cool. The Quick had never felt anything like it—not in the marshes, where the water was brackish and thick with mycelium; not on the long journey a
+   ODD(1) L95 It lifted one small limb and watched the green fire flicker along its chitin. The king's fire. The Deep's fire. L'vat's fire. It was all the same fire, in the e
+   ODD(1) L101 The Quick wondered what L'vat would say when it returned. The old root would demand a full report, of course. He would want to know every word the king had spok
+   ODD(1) L108 The northern watchtower was the oldest structure in the capital, older even than the Bright Paw temples, older than the inner chamber where the Lightbringer had
+   ODD(1) L114 "It's closer," said the younger of the two, a Bright Paw named Renn. His voice was hushed, reverent, afraid. "It was just a shape this morning. A shimmer. Now I
+   ODD(1) L134 Hakar shrugged, his weathered shoulders rising and falling. "I think I don't know what it is. And neither do you. And neither does the king, I suspect. But it w
+   ODD(3) L145 "My king—we were ordered not to wake you. By T'van. By the elders. By—" She paused, her ears flicking. "By everyone, it seems. The young priest said you were no
+   ODD(1) L154 Mira shot the younger maid a warning look, but there was no real heat in it. The palace had been tense for a month, ever since the old king died and the new one
+   ODD(1) L164 Mira, who had served in the palace since Uthgard IX was young and had seen more than her share of royal panics, calmly reached for a polished silver mirror and 
+   ODD(1) L186 The maids erupted into motion. Mira snapped orders at the younger attendants, who scattered like leaves before a sandstorm—one running for the royal armory, ano
+   ODD(1) L190 "Your father always woke before dawn," Mira said, her voice calm amid the chaos. "He would sit on the throne for an hour before any audience, composing himself.
+   ODD(1) L199 "The tournament must start at noon," Ajani said, trying to eat a fig while the maid worked on a particularly stubborn knot. "The families are waiting. The deleg
+   ODD(1) L204 "Almost ready," the young maid said firmly, tugging the brush through the last tangle. "Your mane is presentable. Your armor is here. Your fruit is eaten. And y
+   ODD(1) L232 "The tournament! The families! Are they—"
+   ODD(1) L237 "Gathered, my king! The arena is full! The Shell-Singer has been there since dawn, the Pyrinae are in the front seats, the Hummans are in the eastern tier, the 
+   ODD(1) L242 Ajani skidded around a corner and nearly collided with a palace guard who was carrying a ceremonial spear. The guard, a veteran named Hakar who had served in th
+   ODD(1) L264 Ajani burst through the royal entrance just as the noon bell began to toll. The arena stretched before him, the stone tiers packed with Wengari of every family,
+   ODD(1) L301 The roar faltered. For a heartbeat, the arena hung in a strange, uncertain silence—the Wengari processing what their king had just said, the gathered delegation
+   ODD(1) L310 In the Pyrinae section, Nefere leaned toward Mira and murmured something that made the younger Pyrina's eyes widen. In the Humman tier, Seris sat very still, he
+   ODD(1) L345 "You just said—" She stopped. Swallowed. Started again. "You just said the winner gets to challenge you. For the crown. You just put your throne on the line. In
+   ODD(1) L364 "Have you lost your mind?!" The words burst from the old priest's throat before he had even finished bowing. "You put the crown on the line! The crown of the We
+   ODD(1) L392 Nefere had not moved since the king's announcement. Her ancient frame sat perfectly still on the stone bench, her clouded eyes fixed on the empty arena floor. A
+   ODD(1) L396 Mira, the Sun-Walker envoy, leaned close to her elder. "We could send a Tide-Warden. The Veylar trained several of our Vein-Dwellers in their arts, generations 
+   ODD(1) L417 "Zara." Korr appeared at her side, his scarred face unreadable. "The king just put his throne on the line. If our champion wins the tournament and then beats hi
+   ODD(1) L432 She was silent for a long moment. The sparring warriors circled each other in the sand, their claws gleaming. "I want what is best for the Wengari," she said fi
+   ODD(1) L449 Kareth sat alone in the darkened council chamber, his obsidian staff leaning against the wall. The other elders had scattered to prepare their champions. Varek,
+   ODD(1) L466 The Motted Paws did not gather in councils like the other families. They were too few, too scattered, too accustomed to silence. But in the shadowed alcoves ben
+   ODD(1) L501 "He's testing us," Seris said quietly. "He wants to see if we will dare. If we send a champion, we prove we are willing to fight—to compete with the Wengari on 
+   ODD(1) L511 Seris was silent for a long moment. Then she rose to her feet. "We will send a champion. Not because we expect to win. Because we must show that the Hummans are
+   ODD(1) L518 Sylara sat alone in the eastern colonnade, her Petal-Shell cradled in her webbed hands, her luminous eyes watching the arena fill with color and sound. The king
+   ODD(1) L536 The response came not in words but in a feeling—a pulse of warmth, a flicker of something that might have been pride, or might have been worry, or might have be
+   ODD(1) L551 Vasha, the stern advisor who had served Uthgard IX, stepped forward. "The Lightbringer's crown. Your father's crown. The symbol of three thousand years of Brigh
+   ODD(1) L568 Solen's golden eyes, clouded with age and fury, met Ajani's green-flecked gaze. The question hung in the air between them—simple, direct, and utterly unanswerab
+   ODD(1) L572 "You rule the Wengari, King Ajani." The old priest's voice was stiff, the words dragged from him against his will. "The Bright Paws hold the throne. The pact bi
+   ODD(1) L610 Solen's mouth snapped shut. The other Bright Paw elders, who had been nodding and murmuring their agreement moments before, went very still. The High Priest's g
+   ODD(3) L619 "You did imply." Ajani's voice was still quiet, still controlled, but there was something beneath it now—something that had not been there a moment before. Not 
+chapter-arc3-03.md: em=88 en=0 hbar=0 oddLines=48
+   ODD(3) L7 "I—my king—I did not—" Solen's voice cracked. He had served three generations of Bright Paw kings. He had advised Uthgard IX through wars and famines and the sl
+   ODD(1) L11 Vasha fell to her knees. The young priest followed. One by one, the Bright Paw elders bowed before their king—not the formal bows of ceremony, but the desperate
+   ODD(1) L15 "No, my king," the old priest whispered. "I do not entertain the thought. I have never entertained it. I only feared—" He swallowed, his ancient throat bobbing.
+   ODD(3) L20 The green fire dimmed. The heat faded. Ajani stood over his trembling elders, his breath coming hard, his claws still half-extended. He looked at Solen—the old 
+   ODD(1) L59 The Bright Paws, still reeling from their confrontation with Ajani, presented their champions with visible hesitation. The High Priest Solen, his ancient paws s
+   ODD(1) L62 The Motted Paws came last of the Wengari families—three silver-furred warriors whose spotted coats shimmered in the noon light. They were silent as always, thei
+   ODD(1) L68 The Humman delegation, after a frantic, whispered conference, sent forth a single champion—a Stripe Paw mercenary hired at great expense, her striped armor glea
+   ODD(1) L72 The Veylar Shell-Singer rose from her seat in the eastern colonnade and walked slowly onto the sand. She did not present a champion. She raised her Petal-Shell 
+   ODD(1) L81 The Quick, floating in its shaded pool, sent a pulse of green fire through the mycelial network—a silent acknowledgment, a witness from afar. And somewhere in t
+   ODD(1) L97 The Veylar Shell-Singer closed her luminous eyes and let the Petal-Shell pulse once with a soft, golden light—a gesture of acknowledgment, of respect given and 
+   ODD(1) L100 The Quick, floating in its shaded pool, sent a ripple of warmth through the mycelial network that would reach L'vat in the distant marsh—a silent message that t
+   ODD(1) L106 The champions of the five Wengari families stood alone on the sand—twelve warriors, the best their people could offer, waiting for the tournament to begin. The 
+   ODD(1) L137 Nefere stood at the edge of the completed basin, her clouded eyes surveying the work. The walls were smooth as polished glass. The corners were sharp as a blade
+   ODD(1) L150 The arena stirred. A low murmur rippled through the gathered families—not of dissent, but of calculation. The king's rule was harsh, but it was clear. No mortal
+   ODD(1) L157 It was Zara who spoke first. Her massive frame stepped forward from the Stripe Paw formation, her striped mane catching the noon sun. "No objections, King Ajani
+   ODD(1) L172 Zara's ears pricked forward. A slow, fierce grin spread across her broad face—the grin of a warrior who had just been told that the full extent of her power was
+   ODD(1) L186 The Motted Paws simply nodded. Their silver-furred champion, Sylva, flexed her claws once, testing the edge. Her aura flickered along the tips—pale silver, almo
+   ODD(1) L200 No one stops the fight. Not for mercy. Not for pity. Not for the faint of heart. The combatants would decide when it was over—by forfeit, or by the failure of t
+   ODD(1) L219 The Motted Paw champion, Sylva, simply nodded. Her silver aura flickered once along her claws—a sign of acknowledgment, or perhaps of readiness.
+   ODD(1) L222 In the Pyrinae section, Nefere watched the exchange with ancient, clouded eyes. She had witnessed tournaments in the old days, when the Bright Paws ruled with a
+   ODD(1) L227 The Veylar Shell-Singer tilted her head, her iridescent skin flickering through a cascade of colors that no surface-dweller could interpret. She raised her Peta
+   ODD(1) L241 The arena stirred with a different energy now. The first two rules had been about combat—about what the champions could do to each other within the basin. This 
+   ODD(1) L274 The Motted Paws were last. Their silver-furred elders conferred in whispers, their spotted coats shimmering in the noon sun. Then a single figure rose—a woman n
+   ODD(1) L295 Kareth planted his obsidian staff on the sand and closed his one good eye. "The old ways," he murmured. "Before the pact. Before the cities. When the Wengari fo
+   ODD(1) L299 The Bright Paw champions clustered around Hakar, the old watchman who had volunteered to arbit. They were the least prepared—ceremonial fighters thrust into a b
+   ODD(1) L315 A servant stepped onto the sand, carrying a single incense stick—thick as a Wengari's thumb, dark with age and fragrant with desert herbs. He placed it in a bro
+   ODD(1) L332 Hakar, the old watchman who had volunteered to arbit for the Bright Paws, stood at the basin's edge. His weathered face was stone. His hands, which had held a s
+   ODD(1) L340 Ajani's eyes tracked the fallen Bright Paws as they were carried from the basin. Three champions of his own blood, eliminated in less than a quarter of an incen
+   ODD(1) L349 The Motted Paws were still sitting in the center of the basin, their silver-furred champion Sylva cross-legged on the sand, her two companions standing guard. T
+   ODD(1) L352 Ajani's eyes moved to the assassins. The Shadow Paws had been his family's shame for five thousand years. The legacy of the First Tyrant clung to them like a sc
+   ODD(1) L367 Rask led the charge, her massive frame barreling toward the Motted Paws with the full force of a caravan at full gallop. Tor and Varn flanked her, their formati
+   ODD(1) L384 The massive Stripe Paw turned to face her attackers—Thane and Sera closing from the shadows, the Motted Paws still waiting in the center, her two companions dow
+   ODD(1) L417 She charged. Thane met her head-on, his claws flashing, and the basin erupted into its final, desperate combat. Rask was magnificent—her aura blazing, her strik
+   ODD(1) L433 The crowd erupted. Not in anger—in shock. The Motted Paws were surrendering without a fight. They were conceding the phase to the Shadow Paws without a single d
+   ODD(1) L448 The Motted Paws rose to meet them. Sylva unfolded from her seated position with the fluid grace of water, her silver aura flaring along her claws like moonlight
+   ODD(1) L457 Tor sensed them. The lean warrior twisted at the last heartbeat, his aura flaring, and caught Thane's strike on his own claws. The two collided in a shower of s
+   ODD(1) L460 Varn was less fortunate. Sera fell upon him from the shadows, her claws finding the gap in his guard with terrifying speed. He parried once, twice, then crumple
+   ODD(1) L469 But Sylva was already moving. The Motted Paw champion had watched the exchange, her silver aura flickering, her ancient eyes calculating. She saw the opening th
+   ODD(1) L471 The assassin, his attention fixed on Rask, did not see her coming. Her silver claws found his ribs, and he crumpled with a sharp cry—not dead, not paralyzed, bu
+   ODD(1) L474 Rask and Thane collided in the center of the basin. The Stripe Paw's roar echoed through the arena as she drove the assassin backward, her strikes powerful enou
+   ODD(1) L491 The Motted Paws had drawn first blood. The Shadow Paws had lost two of three. The Stripe Paws had fallen, but they had taken their pound of flesh. And the Brigh
+   ODD(1) L511 The Bright Paws had been eliminated in the opening moments. Their three champions were already being tended by Pyrinae healers in the shaded colonnade—alive, bu
+   ODD(1) L538 The Shadow Paws had lost Vex to Sylva's silver claws, but Thane and Sera remained standing—Thane wounded, his shoulder bleeding where Tor had raked him; Sera's 
+   ODD(1) L547 Eight champions remained. The Bright Paws were gone—eliminated in the opening moments, their humiliation complete. The Stripe Paws had proven their strength. Th
+   ODD(1) L559 The Shadow Paws had lost Vex to Sylva's silver claws, but Thane and Sera remained standing—Thane wounded, his shoulder bleeding where Tor had raked him; Sera's 
+   ODD(1) L562 The Stripe Paws had paid for their aggression in blood. Tor and Varn, paralyzed by Shadow Paw poison, could not rise. They would not advance. Only Rask remained
+   ODD(1) L568 Six champions remained: three Motted Paws, two Shadow Paws, one Stripe Paw. The Bright Paws were gone—eliminated in the opening moments, their humiliation compl
+   ODD(1) L586 Solen fell to his knees before the throne. His head was bowed, his shoulders shaking, his voice barely a whisper. "My king. We failed. We were not strong enough
+chapter-arc3-04.md: em=78 en=0 hbar=0 oddLines=42
+   ODD(1) L3 And the king sat on his father's throne, the green fire flickering gently along his claws, his eyes fixed on the broken warriors of his own blood. The apology h
+   ODD(1) L18 The eldest of them, a grizzled veteran named Voren, stepped forward and bowed low before the throne. His voice was steady, but his paws trembled. "I trained the
+   ODD(3) L25 The arena waited. The Stripe Paws, the Shadow Paws, the Motted Paws—all of them watched the king and the trainers and the broken champions kneeling before the t
+   ODD(1) L36 Voren's golden eyes lifted to meet his king's, and in them was something worse than fear. It was acceptance. He had served the Bright Paws for sixty years. He h
+   ODD(1) L58 Thane was the first to speak. The Shadow Paw assassin had regained consciousness after Rask's blow, his shoulder still bleeding, his dark pelt matted with sand 
+   ODD(1) L70 Rask stepped forward next. The massive Stripe Paw was still shaking off the last of the Shadow Paw poison, her great body trembling with exhaustion, but her voi
+   ODD(1) L74 Then Sylva stepped forward. The Motted Paw champion moved with the same silent, fluid grace she had shown in the basin, her silver aura flickering faintly along
+   ODD(1) L97 The Bright Paw trainers bowed their heads as one. Voren, the old veteran who had offered his life to the king's judgment, pressed his forehead to the blood-spat
+   ODD(1) L103 The delegations stirred. Nefere sat very still in the Pyrinae section, her ancient eyes fixed on Sylva's retreating form. Mira, beside her, was already jotting 
+   ODD(1) L117 The six champions rose from their rest in the shaded colonnade. The Pyrinae healers had done their work well—the bleeding had stopped, the poisons had been neut
+   ODD(1) L155 Nefere rose from her seat in the Pyrinae section. The ancient Hydromancer walked slowly across the sand, her clouded eyes fixed on the king, her rune-glass fila
+   ODD(1) L165 She took the staff from her attendants and raised it high. The Styx feathers caught the noon light and shimmered with an iridescent glow—not the white fire of t
+   ODD(1) L177 He raised the staff, and the ancient feathers blazed with light. "The Styx rules the sky. The Tide Wolf rules the land. And a regent must rule both. Your aura w
+   ODD(1) L186 Let's follow the arena as the Styx feathers measure the champions. The Pyrinae will handle the ceremony—neutral, precise, and practiced in the handling of aura-
+   ODD(1) L193 "The champions will approach one at a time," Nefere announced, her clouded eyes sweeping across the six warriors. "Place your dominant claw upon the staff. The 
+   ODD(1) L205 Rask of the Stripe Paws approached the staff with the same direct, unhesitating charge she had shown in the basin. Her massive paw closed around the rune-glass 
+   ODD(1) L216 Thane stepped forward next. The Shadow Paw assassin moved with the same quiet, predatory grace he had shown in the basin. His dark paw closed around the staff, 
+   ODD(1) L227 Sera approached next. The second Shadow Paw, her face still a mask of dried blood and fresh scar tissue, placed her claw upon the staff. The Styx feathers shimm
+   ODD(1) L238 Sylva approached. The Motted Paw champion moved with the silent, fluid grace of moonlight on water. Her silver-furred paw closed around the staff, and the Styx 
+   ODD(1) L249 The companions approached together. The first, a silver-furred male named Torin, placed his claw upon the staff. The light that emerged was a softer echo of Syl
+   ODD(1) L265 A murmur rippled through the crowd. Two Shadow Paws, pitted against each other. Thane turned to look at Sera. Sera turned to look at Thane. Their dark eyes met,
+   ODD(1) L273 Sylva looked at her companion. Elyra looked back at her champion. The two Motted Paws, who had stood together through the first phase, who had trained together 
+   ODD(1) L306 Ajani watched it all from his throne. The green fire along his claws dimmed to a faint, pulsing glow. The Humman gesture was exactly what he had intended—a remi
+   ODD(1) L315 Her mind raced. The Humman encampment outside the eastern wall had supplies—dried fruits, cured meats, the pale wine of the Verdantian vineyards. But they were 
+   ODD(1) L350 Sera struck first. It was not a test. It was a full commitment—a Muay Thai combination, claws and elbows and knees in a blur of dark motion, her wounded face tw
+   ODD(1) L364 They exchanged strikes for another minute, two minutes, three. The sand drank their blood. Their poisons canceled each other—both assassins, both immune to the 
+   ODD(1) L367 Then Sera made her mistake. She overextended on a knee strike—her balance shifting just a fraction too far forward, her wounded face leaving her blind on one si
+   ODD(1) L384 Kareth opened his eye. Something glistened there—not tears, not quite, but something close. "The victor is Thane of the Shadow Paws. Sera fought well. The Shado
+   ODD(1) L391 The arena fell quiet as the two Motted Paws stepped into the basin. Sylva and Elyra moved in perfect, silent synchronization—master and student, champion and co
+   ODD(1) L402 Elyra moved first. Her style was sharper than Torin's, more aggressive, the silver light of her aura flaring like a blade. She closed the distance in three swif
+   ODD(1) L410 Elyra pressed harder. Her combinations grew faster, more complex, the silver light of her aura blazing with each strike. She was a torrent now, a rushing river,
+   ODD(1) L446 The Pyrinae delegation rose as one. Nefere inclined her ancient head, the faintest smile creasing her weathered face. The king had asked them to build again—and
+   ODD(1) L454 The Pyrinae sorcerers spread out across the arena floor. Their rune-glass staffs hummed with stored power, and the ancient flagstones began to ripple like water
+   ODD(1) L462 On the far side of the arena, Zara turned to Korr. The old caravan master nodded once and vanished into the stables carved into the plateau's base. When he retu
+   ODD(1) L508 The fire feet snorted and stamped in their harnesses, sensing the excitement in the air. The fence was complete—fifty paces by fifty, beams at one-pace interval
+   ODD(1) L531 She inclined her elegant head toward Ajani—not a bow, but an acknowledgment. The king had come to stand among his warriors. The Motted Paw would honor that.
+   ODD(1) L535 Ajani raised one paw, the green fire flaring along his claws, and the crowd fell silent. "The rules are these: no mortal wounds—this is a tournament, not a fune
+   ODD(1) L550 Sylva climbed onto the second war-mount, her movements as silent and fluid as everything the Motted Paw did. Her silver aura flickered faintly, and her ancient 
+   ODD(1) L560 Ajani raised one paw, the green fire flaring along his claws, and the crowd fell silent. His voice boomed across the arena. "The rules are these: no mortal woun
+   ODD(3) L579 Thane wheeled his mount hard to the left, cutting off Sylva's line, his Eight Points training evident in every precise movement. His fire foot responded to his 
+   ODD(1) L608 The final pass was a blur of black scales and silver light. Sylva and Torin moved in perfect synchronization—two practitioners of Flowing Water riding as if the
+   ODD(1) L611 Ajani's claws were gripping the fence rail so hard the stone creaked. His tail lashed back and forth behind him, a rhythm of pure, undisguised excitement. His m
+chapter-arc3-05.md: em=85 en=0 hbar=0 oddLines=41
+   ODD(1) L4 Torin's fire foot shouldered Thane's mount, and the Shadow Paw's injured arm buckled. He tried to compensate with his knees, tried to redirect with the reins, b
+   ODD(1) L16 And Ajani—Ajani was still gripping the fence rail, his chest heaving, his eyes bright as a cub's. He had not noticed the green fire flaring along his claws. He 
+   ODD(1) L28 The final pass was a blur of black scales and silver light. Thane was already out—his injured shoulder had betrayed him on the second turn, and Sylva had guided
+   ODD(1) L34 Ajani's claws were white-knuckled on the fence rail. His tail had stopped lashing. He was utterly still now, the stillness of a predator watching prey—or of a w
+   ODD(3) L38 "Torin's testing her guard—he knows she favors the right side, everyone saw it in the duel with Elyra—but Sylva's adapted, she's shortened her stance, she's dar
+   ODD(1) L74 Ajani grabbed Sylva's paw and raised it high above her head, the silver-furred Motted Paw champion still catching her breath from the final exchange. The crowd'
+   ODD(1) L100 The arena's roar was all the answer Ajani needed, but the Wengari gave it anyway. "YEARLY! YEARLY! YEARLY!" The chant thundered through the stone tiers, punctua
+   ODD(1) L105 Zara, standing at the enclosure's edge, exchanged a look with Kareth. "Yearly," she muttered. "He wants to do this yearly. The logistics alone—"
+   ODD(1) L110 "Are trivial compared to what he has already done," Kareth finished. "Let him have his tournament. The families will compete. The people will celebrate. And the
+   ODD(1) L121 It was not merely an arena. It was a stage—a monument that could be seen from every tier, every seat, every corner of the capital.
+   ODD(1) L137 Zara was already calculating. The Stripe Paws would dominate the mounted phase—no other family bred fire feet. If the king wanted his tournament to be a spectac
+   ODD(1) L147 And Nefere, the ancient Hydromancer, inclined her head toward the young king. "The Pyrinae will build your arenas, King Ajani. Every year. Every tournament. We 
+   ODD(1) L154 The hours before twilight transformed the capital into something it had not been in living memory: a festival. The common Wengari, those who had watched the tou
+   ODD(1) L158 The Shadow Paw elders gathered in their darkened council chamber beneath the plateau. Varek, the scarred dissident who had argued for caution, was now arguing f
+   ODD(1) L177 Zara watched from the edge of the grounds, her golden eyes tracking the flow of commerce. The Stripe Paws were making coin—charging modest fees for the fire foo
+   ODD(1) L181 The Humman encampment had transformed. Seris, the ambassador who had been caught off guard by Ajani's demand for refreshments, had spent the intervening hours p
+   ODD(1) L240 The green fire is not a gift from the Tree. It is not a mark of the pact. It is Ajani. Aura is the manifestation of the inner force of a being—its essence, its 
+   ODD(1) L243 The green fire is not a gift from the Tree. It is not a mark of the pact. It is Ajani. Aura is the manifestation of the inner force of a being—its essence, its 
+   ODD(1) L245 The Motted Paws' silver aura is the moonlight on still water—patient, adaptable, reflective. Each family's aura is a declaration of who they are.
+   ODD(1) L261 She released the blade and stepped back, her silver aura flickering gently, her expression unchanged. The crowd sat stunned. The king's opening combination had 
+   ODD(1) L271 The saber dissolved in a cascade of green sparks, and the spear blazed to life in Ajani's paws—a long, elegant shaft of emerald fire, its leaf-shaped blade catc
+   ODD(1) L279 He lunged. The spear was faster than the saber—longer, more precise, a single point of green fire aimed at Sylva's right shoulder. If she deflected, the blade w
+   ODD(1) L300 The sword blazed to life—a double-edged blade of emerald fire, shorter than the spear but faster, more maneuverable, a weapon of precision. Ajani shifted his gr
+   ODD(1) L308 But Sylva was already turning, her body rolling with the strike, and the sword's point grazed her silver fur but did not cut. The third strike was the curve—a s
+   ODD(1) L329 The sword dissolved mid-swing, its green fire collapsing into a cascade of sparks, and the staff blazed to life in Ajani's paws in the same fluid motion. The tr
+   ODD(1) L331 But Ajani was not using it for defense. He was using it for deception. The sword had been the feint. The staff was the kill shot—a sweeping arc of green fire ai
+   ODD(1) L355 The ji blazed to life in Ajani's paws—a weapon none of the gathered Wengari had ever seen. Its shaft was long, nearly the height of the king himself, and it shi
+   ODD(1) L359 The crowd gasped. The Pyrinae Hydromancers leaned forward, their rune-glass staves humming in sympathy with the raw power bleeding off the platform. Zara's grea
+   ODD(1) L369 The first strike was a sweeping arc aimed at Sylva's midsection—a blow meant to cleave her in two if she did not move. She flowed backward, her silver aura flar
+   ODD(3) L383 She flowed forward. Not fast—she was never fast—but with the inevitable, unhurried grace of water seeking its level. Ajani raised the ji for another strike, but
+   ODD(1) L388 The crowd fell utterly silent. The Styx circled above, their fires painting the twilight in shifting shades of flame. Sylva held her pose for a long, breathless
+   ODD(1) L391 And then Ajani grinned. Not the grin of a defeated warrior. The grin of a king who had just remembered that the staff was the grandfather. And the grandfather p
+   ODD(1) L397 Sylva looked down at the saber against her wrist. Then she looked up at the young king, whose chest was heaving, whose golden mane was plastered to his skull wi
+   ODD(1) L413 The ji dissolved. The saber blazed back to life in his right paw—not the wide, sweeping arcs of the Four Pillars, not the calculated feints and precise thrusts 
+   ODD(1) L422 The crowd erupted. The Styx screamed. Sylva looked down at the green blade against her wrist, then up at the young king whose chest was heaving, whose golden ma
+   ODD(1) L431 Ajani stood frozen on the platform, his saber still raised, his chest still heaving, his mind still racing. She thought it was a feint. She thought he had plann
+   ODD(1) L467 She raised one silver-furred paw, and her aura flared—not the gentle, patient flicker of Flowing Water, but something brighter, sharper, more urgent. "I ask tha
+   ODD(1) L476 Sylva's silver eyes held his for a long, quiet moment. The crowd was silent, waiting, watching the young king and the old champion locked in a battle of wills t
+   ODD(1) L494 Sylva inclined her head, her silver aura dimming to a faint, gentle shimmer. The request had been granted—not as she had framed it, but expanded, universalized,
+   ODD(1) L506 And the Stripe Paws, as the overlords of trade, would ensure that the schools had everything they needed—for a reasonable fee.
+   ODD(1) L514 The Bright Paws, still humiliated, still stripped of their training autonomy, saw a glimmer of hope. The Motted Paws would train them—but so could others. The S
+
+=== HUM VARIANTS ===
+chapter-arc3-01.md: {'Humman': 8, 'Hummans': 17, 'humans': 3, 'hummans': 1}
+   L176 [humans] "the best of the humans here means...what Zara ? Tell me what do the humans do best ?"
+   L176 [humans] "the best of the humans here means...what Zara ? Tell me what do the humans do best ?"
+   L194 [humans] "yes and no, sit because this is the first and last time I will explain myself and I will only do so because I regard you as brothers, the humans will
+   L158 [hummans] 'so it's pride', "I see you believe me to be a fool, have you perchance heard news about the hummans as well or were your ears only attuned to the sou
+chapter-arc3-02.md: {'Humman': 6, 'Hummans': 9}
+chapter-arc3-03.md: {'Humman': 9, 'Hummans': 1}
+chapter-arc3-04.md: {'Humman': 10, 'Hummans': 5}
+chapter-arc3-05.md: {'Humman': 1, 'Hummans': 1}
+
+=== KING/KING ===
+chapter-arc3-01.md: 64 hits
+   L40 "King Ajani. The Humman Mercantile Council has reached its decision. I am instructed to inform you—" She paused, drew a breath. "We accept your terms."
+   L49 Seris blinked. The tension that had held her rigid through the long afternoon—through the negotiations, the ultimatums, the king's laughter and his threats and his terrif
+   L52 Instead, the young king was smiling at her—genuinely smiling, not the predatory baring of teeth he had shown her that morning—and welcoming her people as brothers. The wh
+   L56 "You—" She caught herself, steadied her voice. "You are gracious, King Ajani. More gracious than we deserve. More gracious than I would have been, in your place." She pre
+   L63 Seris absorbed the words with the practiced stillness of a diplomat who had learned, over decades, to find the hidden kindness in a predator's speech. *The desert is not 
+   L67 She bowed her head one final time, lower than before. "The Pyrinae district, then. My daughter will learn to endure, or she will not. But I am grateful—truly grateful—tha
+   L71 She stepped back, her silhouette framed against the last glow of the vanished sun. The white Styx circled above, patient as the stars. The green fire flickered along Ajan
+   L73 Somewhere in the capital, the Stripe Paw merchants were already counting their losses. Somewhere in the Bright Paw temples, traditionalists were muttering about cities gi
+   L82 T'van, who had been hovering at the edge of the colonnade waiting to escort Seris to her quarters, snapped to attention. His exhaustion was a physical weight—his paws ach
+   L86 "The Stripe Paw elders, my king? Tonight? They will be... they are likely already in council themselves. The news of the Pyrinae's elevation has spread. The merchant guil
+   L98 They had not waited for T'van's summons. They were already here, already angry, already deep in heated debate when the young priest arrived with the king's command. The n
+   L98 They had not waited for T'van's summons. They were already here, already angry, already deep in heated debate when the young priest arrived with the king's command. The n
+   L108 When T'van announced the king's summons, the chamber fell silent. Zara turned her great head toward the door, her golden eyes narrowing. "The king calls for us," she said
+   L108 When T'van announced the king's summons, the chamber fell silent. Zara turned her great head toward the door, her golden eyes narrowing. "The king calls for us," she said
+   L112 The Stripe Paw elders filed out of the Hall of the Caravan Masters and into the darkened streets of the capital, their claws clicking against the stone, their silence hea
+   L131 Zara did not sit. She did not return the greeting. She walked into the center of the chamber and stopped, her golden eyes fixed on the young king. When she spoke, her voi
+   L135 "We are not your brothers tonight, King Ajani. Tonight, we are merchants. And we have questions." She paused, her claws half-extending before she forced them back. "You g
+   L135 "We are not your brothers tonight, King Ajani. Tonight, we are merchants. And we have questions." She paused, her claws half-extending before she forced them back. "You g
+   L148 Zara drew a slow breath and spoke. "You rule the Wengari, King Ajani. The Bright Paws hold the throne. The pact binds us all. We have not forgotten." She paused, her claw
+   L153 The old caravan master, Torek, stepped forward and placed a weathered paw on Zara's shoulder. His voice was gentler than hers, but no less firm. "What my chief is trying 
+   L162 Zara stiffened. The other Stripe Paws behind her—old Torek, sharp-eyed Veena, young Mako—shifted uneasily. The king's words hung in the warm lamplight like a blade suspen
+   L171 Old Torek stepped forward, his weathered paw still resting on Zara's shoulder. "Tell us plainly, King Ajani. What have you done with the Hummans that we have not yet hear
+   L189 Old Torek let out a long, slow breath. "That's why you didn't consult us. If you had offered us the Humman trade network in council, we would have debated it for weeks. T
+   L198 The Stripe Paws settled onto the cushions around the camp table, their anger cooling into something more measured. Zara sat directly across from Ajani, her massive frame 
+   L220 She looked at the other elders. Torek was stroking his chin, his weathered face unreadable. Veena, still standing by the door, had the faintest hint of a smile on her sha
+   L224 "The Pyrinae will pay us to protect what you gave them," Zara continued, turning back to Ajani. "The Hummans will pay us—directly or indirectly—to keep them in line. And 
+   L224 "The Pyrinae will pay us to protect what you gave them," Zara continued, turning back to Ajani. "The Hummans will pay us—directly or indirectly—to keep them in line. And 
+   L224 "The Pyrinae will pay us to protect what you gave them," Zara continued, turning back to Ajani. "The Hummans will pay us—directly or indirectly—to keep them in line. And 
+   L237 "A correction," she repeated, her voice carrying a note of something that might have been admiration. "The Pyrinae are no longer vassals. They are friends. Peers. And fri
+   L247 Veena, the sharp-eyed mistress of the eastern routes, stepped forward from her position by the door. Her expression was calculating, her merchant's mind already running t
+   L251 Zara, who had been silent, slowly lowered herself onto the cushion opposite Ajani. The tension that had been coiled in her massive frame since she entered the room had di
+   L251 Zara, who had been silent, slowly lowered herself onto the cushion opposite Ajani. The tension that had been coiled in her massive frame since she entered the room had di
+   L255 "You carry merchant blood," she said quietly. "You said so yourself. Your mother was a Stripe Paw. And you traveled with our caravans. For three years. You know us. You k
+   L255 "You carry merchant blood," she said quietly. "You said so yourself. Your mother was a Stripe Paw. And you traveled with our caravans. For three years. You know us. You k
+   L271 "before you go, I need one more thing from you, a king can't be everywhere and I'll be going soon for the belt, I need a regent, tomorrow I will declare a grand tournamen
+   L289 Veena stepped forward, her sharp eyes fixed on Ajani. "You are giving us the chance to prove, publicly, that the Stripe Paws are more than merchants. More than hired claw
+   L297 Zara inclined her head, her striped mane falling forward. "We will deliver, King Ajani. You have our word. And our claws."
+   L306 Zara's smile faltered, then steadied. The other elders—Torek, Veena, Mako—exchanged quick, sober glances. The king had given them a gift, but it was not a gift wrapped in
+   L310 "Clear, King Ajani," Zara said, her voice formal now, the tone of a chief addressing her sovereign rather than a merchant addressing her partner. "The sun shines for all.
+   L320 Old Torek rose slowly, his weathered paw pressing against the small of his back where the decades of caravan travel had left their mark. "I have served four kings," he sa
+   L320 Old Torek rose slowly, his weathered paw pressing against the small of his back where the decades of caravan travel had left their mark. "I have served four kings," he sa
+   L320 Old Torek rose slowly, his weathered paw pressing against the small of his back where the decades of caravan travel had left their mark. "I have served four kings," he sa
+   L324 The elders filed out of the chamber, their voices low, their minds already racing with preparations for the tournament to come. And Ajani, alone at last, let the exhausti
+   L330 Old Torek rose slowly, his weathered paw pressing against the small of his back where the decades of caravan travel had left their mark. "I served your father," he said q
+   L356 The chamber had emptied. The Stripe Paw elders had risen, their maps and notes gathered, their anger cooled into something warmer—respect, perhaps, or the first tentative
+   L365 Torek stepped forward, his old bones creaking. "You traveled with our caravans for three years, King Ajani. You said so yourself. You carry merchant blood—your mother's b
+   L370 Zara nodded, her striped mane rippling. "We wish to honor you. Not as a king. As a rider. As one who has walked the caravan routes and slept beneath the stars and shared 
+   L375 Veena, still standing near the door, let out a soft, sharp laugh. "We have narrowed it to three possibilities. The Swift Sands caravan, out of the eastern routes. The Red
+   L385 Old Torek added, quietly, "It is not every day a Stripe Paw becomes king."
+   L393 "We cannot simply give him a fire foot," Zara said, her voice low but firm. "If we announce it publicly, it's tribute. Currying favor. The other families will say we are 
+   L398 Torek nodded slowly, his old joints cracking as he settled against the corridor wall. "So we don't announce it. We don't give it as the Stripe Paw elders. We give it as f
+   L408 "Possible," Zara said. "But the Red Claw is a combat caravan. They breed war-mounts. If the king rode with them for three years, he would have learned to fight on fire-ba
+   L413 Mako, the young caravan master, spoke for the first time. "What about Korr's caravan? The Ghost Wind. It vanished four years ago. Everyone assumed it was lost to the Blig
+   L418 Old Torek's eyes went distant. "I remember. Korr was a friend. The pale fire feet were his pride. Fastest lizards I ever saw, and smart. Too smart, sometimes. They'd unti
+   L441 Seris closed her eyes. "You will be among them. You will live in the capital, near the Pyrinae district, where the sun is kinder to those of weak composition. The king ha
+   L456 Lena looked at her mother for a long moment. Then she stepped forward and wrapped her arms around the older woman's shoulders. "I'm not angry," she whispered. "I'm afraid
+   L469 "You are all very pleased with yourselves," Nefere said, her voice dry as old parchment. "The king gave us cities. He gave us trade. He gave us a century of free passage 
+   L474 The Sun-Walker envoy, whose name was Mira, grinned at her elder. "We are already making the gold. The Stripe Paws will need supplies for their caravans—more supplies than
+   L479 Nefere accepted the toast, but her ancient eyes were distant. "He will regret it," she said quietly. "Not because we will betray him. Because the world will test him. The
+   L493 The Stripe Paw caravan grounds stretched along the northern edge of the capital, a sprawling encampment of tents and corrals where the fire feet dozed in the cool night a
+   L501 Zara had not thought to ask him about the king. Now she wondered.
+   L513 "I've been thinking," Korr said, "about the king's wandering years. He said he traveled with our caravans for three years. He said he trained under something called L'vat
+   L518 Zara turned to face him fully. "You carried the king. For three years. And you never told anyone."
+   L523 "I didn't know he was the king. He was just a kid with a golden mane and sad eyes. He worked hard. He never complained. He asked a lot of questions about the fire feet—ho
+chapter-arc3-02.md: 76 hits
+   L4 Zara stared at him. "You have the king's favorite mount. The fire foot he rode for three years. And you didn't think to mention this?"
+   L9 Korr shrugged. "He didn't mention it either. I figured he had his reasons. Kings have reasons for everything." He paused. "If we want to give him a gift—a real gift, not 
+   L9 Korr shrugged. "He didn't mention it either. I figured he had his reasons. Kings have reasons for everything." He paused. "If we want to give him a gift—a real gift, not 
+   L19 Korr nodded slowly. "Then we'll do it quietly. After the tournament. After the regent is chosen. No ceremony. No announcement. Just me, and him, and Ember. The way it was
+   L44 The chamber fell silent. Kareth looked at the other elders, their faces unreadable in the flickering light. He had served three generations of Bright Paw kings. He had wa
+   L44 The chamber fell silent. Kareth looked at the other elders, their faces unreadable in the flickering light. He had served three generations of Bright Paw kings. He had wa
+   L67 "The king gave away five cities." The speaker was a younger priest, his golden mane still bright with youth, his voice sharp with indignation. "Five ancient Wengari settl
+   L67 "The king gave away five cities." The speaker was a younger priest, his golden mane still bright with youth, his voice sharp with indignation. "Five ancient Wengari settl
+   L72 The High Priest opened his eyes. They were pale gold, clouded with age, but still sharp. "You speak of cities and trade and political favors," he said, his voice soft but
+   L77 The young priest's ears flattened. "I am angry about the old ways. The Lightbringer built this kingdom on Wengari supremacy. The strong rule. The weak serve. That is the 
+   L81 The pool was cool. The Quick had never felt anything like it—not in the marshes, where the water was brackish and thick with mycelium; not on the long journey across the 
+   L84 It was thinking about the king.
+   L87 L'vat had told the network many things about Ajani Brightmane. That he was stubborn. That he asked too many questions. That he did not know when to kneel and when to stan
+   L92 But the Quick had felt the king's fire. It had felt the green flame pulse through its exhausted body, steadying its breathing, easing the tremors in its limbs, warming it
+   L95 It lifted one small limb and watched the green fire flicker along its chitin. The king's fire. The Deep's fire. L'vat's fire. It was all the same fire, in the end—the fir
+   L95 It lifted one small limb and watched the green fire flicker along its chitin. The king's fire. The Deep's fire. L'vat's fire. It was all the same fire, in the end—the fir
+   L101 The Quick wondered what L'vat would say when it returned. The old root would demand a full report, of course. He would want to know every word the king had spoken, every 
+   L101 The Quick wondered what L'vat would say when it returned. The old root would demand a full report, of course. He would want to know every word the king had spoken, every 
+   L134 Hakar shrugged, his weathered shoulders rising and falling. "I think I don't know what it is. And neither do you. And neither does the king, I suspect. But it will be her
+   L145 "My king—we were ordered not to wake you. By T'van. By the elders. By—" She paused, her ears flicking. "By everyone, it seems. The young priest said you were not to be di
+   L150 Another maid, younger and bolder, spoke up from behind Mira. "The tournament announcement is at noon, my king. You have not missed it. The criers have been spreading the 
+   L154 Mira shot the younger maid a warning look, but there was no real heat in it. The palace had been tense for a month, ever since the old king died and the new one took the 
+   L154 Mira shot the younger maid a warning look, but there was no real heat in it. The palace had been tense for a month, ever since the old king died and the new one took the 
+   L154 Mira shot the younger maid a warning look, but there was no real heat in it. The palace had been tense for a month, ever since the old king died and the new one took the 
+   L164 Mira, who had served in the palace since Uthgard IX was young and had seen more than her share of royal panics, calmly reached for a polished silver mirror and held it be
+   L169 "The families are already gathering, my king," Mira said, her voice steady despite the chaos. "The criers announced the tournament at dawn. The arena is being prepared. T
+   L174 The younger maid, emboldened by Mira's calm, stepped forward with a brush. "Your mane, my king. If you will permit me—there is time. Not much time, but enough. The tourna
+   L190 "Your father always woke before dawn," Mira said, her voice calm amid the chaos. "He would sit on the throne for an hour before any audience, composing himself. He said a
+   L190 "Your father always woke before dawn," Mira said, her voice calm amid the chaos. "He would sit on the throne for an hour before any audience, composing himself. He said a
+   L194 The young maid with the brush made a soft sound that might have been agreement. The fruit arrived—a bowl of sliced desert melon and dried figs, brought by a breathless ki
+   L209 Mira was already fastening the pauldrons across Ajani's shoulders. The white cloak settled around him, its familiar weight a comfort and a burden. "You will enter the are
+   L214 The young maid stepped back, brush still in hand, her golden eyes bright. "You look like a king," she said. Then, quieter: "Go. The arena is waiting."
+   L224 The maids scattered like leaves before a sandstorm as Ajani bolted from his chambers, still fumbling with the clasp of his father's white cloak. The young maid with the b
+   L228 The corridors of the palace blurred past. Servants flattened themselves against walls. Guards snapped to attention, their golden eyes wide with surprise as their king spr
+   L237 "Gathered, my king! The arena is full! The Shell-Singer has been there since dawn, the Pyrinae are in the front seats, the Hummans are in the eastern tier, the Stripe Paw
+   L242 Ajani skidded around a corner and nearly collided with a palace guard who was carrying a ceremonial spear. The guard, a veteran named Hakar who had served in the palace s
+   L246 Ajani flashed him a grateful look and kept running. The eastern colonnade opened before him, a long shaded walkway that led directly to the arena's royal entrance. The Ve
+   L250 "King Ajani. You are late."
+   L301 The roar faltered. For a heartbeat, the arena hung in a strange, uncertain silence—the Wengari processing what their king had just said, the gathered delegations freezing
+   L307 The Bright Paw traditionalists did not laugh. The High Priest Solen, seated among the elders, closed his eyes and pressed his paws together as if in prayer. The young pri
+   L315 "The king has just invited every race on Ethra to compete for the regency of the Wengari," Zara called out, her voice carrying across the arena. "And he has also reminded
+   L319 The other families erupted in response. The Shadow Paws, not to be outdone, began pounding their obsidian staves against the stone. The Bright Paws, traditionalists and r
+   L349 She stared at the young king, her golden eyes searching his face for some sign that this was a joke, a test, a metaphor. She found none.
+   L353 "You are either the bravest king the Wengari have ever had," Zara said slowly, "or the most foolish. And I cannot decide which."
+   L379 The High Priest turned back to Ajani, his golden eyes blazing. "Explain yourself, King Ajani. Explain to us why the crown of the Wengari is now the prize in a tournament 
+   L383 The other Bright Paws fell silent, their golden eyes fixed on their young king. Somewhere in the arena behind them, the other families were already choosing their champio
+   L392 Nefere had not moved since the king's announcement. Her ancient frame sat perfectly still on the stone bench, her clouded eyes fixed on the empty arena floor. Around her,
+   L392 Nefere had not moved since the king's announcement. Her ancient frame sat perfectly still on the stone bench, her clouded eyes fixed on the empty arena floor. Around her,
+   L401 "No." Nefere's voice was quiet but absolute. "The king knows we have no warriors. He did not open this tournament to humiliate us. He opened it to remind the world that t
+   L417 "Zara." Korr appeared at her side, his scarred face unreadable. "The king just put his throne on the line. If our champion wins the tournament and then beats him—" He pau
+   L432 She was silent for a long moment. The sparring warriors circled each other in the sand, their claws gleaming. "I want what is best for the Wengari," she said finally. "Ye
+   L442 Zara's claws extended, then retracted. "Then we will deal with them. The Stripe Paws are the overlords of trade now. We enforce the covenant. And that includes protecting
+   L453 "The king has given us a gift," Varek had said before departing. "A crown, freely offered. If Thane wins, the Shadow Paws will rule the Wengari for the first time since t
+   L470 "The king offers his crown," said the first, a woman named Sylva whose voice was soft as sand.
+   L475 "The king is a White Dawn," said the second, a man named Torin whose scars told of battles fought before Ajani's father was born.
+   L480 "The king is testing us," said the third, a woman so old her name had been forgotten. "He wants to see who will reach for the crown and who will bow. He is learning who h
+   L497 Seris had not moved since the announcement. Her daughter Lena sat beside her, her dark eyes wide, her scribe's hands clasped tightly in her lap. Around them, the Humman d
+   L518 Sylara sat alone in the eastern colonnade, her Petal-Shell cradled in her webbed hands, her luminous eyes watching the arena fill with color and sound. The king had opene
+   L527 The Threx messenger floated on its back in the shaded pool, its multifaceted eyes watching the sky. It had heard the king's announcement. It had heard the roar of the cro
+   L533 *The king has put his crown on the line. The tournament begins in an hour. The Wengari are choosing their champions. The other races are choosing theirs. What should I do
+   L556 Solen drew a ragged breath. "Explain yourself, King Ajani. We are your elders. We are your priests. We deserve an answer."
+   L568 Solen's golden eyes, clouded with age and fury, met Ajani's green-flecked gaze. The question hung in the air between them—simple, direct, and utterly unanswerable in any 
+   L572 "You rule the Wengari, King Ajani." The old priest's voice was stiff, the words dragged from him against his will. "The Bright Paws hold the throne. The pact binds us all
+   L581 He rose from the throne, his white cloak swirling around him, and stepped down from the dais until he stood face-to-face with the High Priest. Solen was old—ancient, even
+   L581 He rose from the throne, his white cloak swirling around him, and stepped down from the dais until he stood face-to-face with the High Priest. Solen was old—ancient, even
+   L603 He withdrew his claw and stepped back. The green fire dimmed along his claws, but did not go out. "You are my elders. You are my priests. You are the keepers of the Light
+   L614 "I—" Solen's voice faltered. He was not accustomed to faltering. He had served three generations of Bright Paw kings. He had advised Uthgard IX through wars and famines a
+   L614 "I—" Solen's voice faltered. He was not accustomed to faltering. He had served three generations of Bright Paw kings. He had advised Uthgard IX through wars and famines a
+   L614 "I—" Solen's voice faltered. He was not accustomed to faltering. He had served three generations of Bright Paw kings. He had advised Uthgard IX through wars and famines a
+   L619 "You did imply." Ajani's voice was still quiet, still controlled, but there was something beneath it now—something that had not been there a moment before. Not anger. Som
+   L623 The silence stretched. The other Bright Paws looked at Solen. Solen looked at the king. And the old priest, who had served three generations of Bright Paw kings and had n
+   L623 The silence stretched. The other Bright Paws looked at Solen. Solen looked at the king. And the old priest, who had served three generations of Bright Paw kings and had n
+   L627 "No, my king." His voice was barely a whisper. "I do not believe you could lose."
+   L637 Solen raised his head, and his ancient eyes glistened with something that might have been tears or might have been revelation. "I am afraid—" He paused, swallowed. "I am 
+   L641 The other Bright Paw elders bowed their heads as well. Vasha, the stern advisor, closed her eyes and placed a paw over her heart. The young priest who had railed against 
+   L645 Ajani looked at them for a long moment. Then he reached out and placed a gentle claw under Solen's chin, lifting the old priest's head until their eyes met. "There is not
+chapter-arc3-03.md: 47 hits
+   L3 The roar echoed through the arena like thunder, and the Bright Paw elders physically recoiled. Solen stumbled backward, his ancient paws scrabbling against the stone, his
+   L3 The roar echoed through the arena like thunder, and the Bright Paw elders physically recoiled. Solen stumbled backward, his ancient paws scrabbling against the stone, his
+   L7 "I—my king—I did not—" Solen's voice cracked. He had served three generations of Bright Paw kings. He had advised Uthgard IX through wars and famines and the slow witheri
+   L7 "I—my king—I did not—" Solen's voice cracked. He had served three generations of Bright Paw kings. He had advised Uthgard IX through wars and famines and the slow witheri
+   L7 "I—my king—I did not—" Solen's voice cracked. He had served three generations of Bright Paw kings. He had advised Uthgard IX through wars and famines and the slow witheri
+   L7 "I—my king—I did not—" Solen's voice cracked. He had served three generations of Bright Paw kings. He had advised Uthgard IX through wars and famines and the slow witheri
+   L11 Vasha fell to her knees. The young priest followed. One by one, the Bright Paw elders bowed before their king—not the formal bows of ceremony, but the desperate, instinct
+   L15 "No, my king," the old priest whispered. "I do not entertain the thought. I have never entertained it. I only feared—" He swallowed, his ancient throat bobbing. "I feared
+   L15 "No, my king," the old priest whispered. "I do not entertain the thought. I have never entertained it. I only feared—" He swallowed, his ancient throat bobbing. "I feared
+   L20 The green fire dimmed. The heat faded. Ajani stood over his trembling elders, his breath coming hard, his claws still half-extended. He looked at Solen—the old priest who
+   L24 The Bright Paw elders fled. There was no other word for it. Solen, who had served three generations of Bright Paw kings, scrambled backward so quickly that he nearly trip
+   L24 The Bright Paw elders fled. There was no other word for it. Solen, who had served three generations of Bright Paw kings, scrambled backward so quickly that he nearly trip
+   L31 In the space of three heartbeats, the dais was empty save for the king himself. The green fire still flickered along Ajani's claws, casting dancing shadows across the anc
+   L37 And the Veylar Shell-Singer, seated alone in the eastern colonnade, opened both luminous eyes and smiled. The White Dawn had reminded his own blood who ruled the desert. 
+   L59 The Bright Paws, still reeling from their confrontation with Ajani, presented their champions with visible hesitation. The High Priest Solen, his ancient paws still tremb
+   L81 The Quick, floating in its shaded pool, sent a pulse of green fire through the mycelial network—a silent acknowledgment, a witness from afar. And somewhere in the shadows
+   L85 Zara stepped forward, her voice carrying across the silent arena. "The champions are presented, King Ajani. The tournament awaits. Who shall fight first?"
+   L141 "It is done, King Ajani. Nine paces by nine paces. Three paces deep. The Pyrinae have delivered." She paused, and the faintest smile crossed her weathered face. "In seven
+   L150 The arena stirred. A low murmur rippled through the gathered families—not of dissent, but of calculation. The king's rule was harsh, but it was clear. No mortal wounds. N
+   L153 The Stripe Paws exchanged glances. They were merchants; they understood liability. The Shadow Paws nodded grimly; they were assassins, and they understood exactly what th
+   L157 It was Zara who spoke first. Her massive frame stepped forward from the Stripe Paw formation, her striped mane catching the noon sun. "No objections, King Ajani. The Stri
+   L164 The green fire flickered along Ajani's claws as he considered. Somewhere in the Bright Paw section, the young priest who had railed against the king the night before held
+   L164 The green fire flickered along Ajani's claws as he considered. Somewhere in the Bright Paw section, the young priest who had railed against the king the night before held
+   L176 "No objections, King Ajani." She stepped back into the Stripe Paw formation, her claws already beginning to glow with the faint, pulsing light of her aura. "The Stripe Pa
+   L180 The Shadow Paw champion, Thane, inclined his dark head. His lacquered claws gleamed in the noon sun. He said nothing. He did not need to. The king had just given the Shad
+   L197 The arena absorbed the second rule like a blade sinking into flesh. There was no murmur this time. No shifting of paws or whispered calculations. There was only the weigh
+   L203 Zara, who had seen more tournaments than she could count, felt something cold run down her spine. She had watched Wengari warriors fight until their claws shattered and t
+   L212 Thane, the Shadow Paw assassin, spoke for the first time. His voice was soft, almost gentle, but it carried to every corner of the silent arena. "The Shadow Paws have no 
+   L216 The Bright Paw champions, still pale from the earlier confrontation, bowed their heads in acceptance. The young warrior Solen murmured something to his companions, and on
+   L222 In the Pyrinae section, Nefere watched the exchange with ancient, clouded eyes. She had witnessed tournaments in the old days, when the Bright Paws ruled with absolute au
+   L233 The twelve champions stood at the edge of the basin, their claws gleaming, their auras flickering, their eyes fixed on the king who had given them these rules and this ar
+   L250 Kareth rose slowly from his seat in the Shadow Paw section. His obsidian staff clicked against the stone as he made his way down to the arena floor. His one good eye swep
+   L254 The Bright Paw elders hesitated. Solen, still trembling from the confrontation with Ajani, looked to Vasha, who looked to the other elders. None of them stepped forward. 
+   L270 Solen stared at him. Vasha stared at him. The entire Bright Paw delegation stared at him. But no one objected. No one else had stepped forward. And the king had demanded 
+   L286 A ripple of shock ran through the arena. The champions had expected individual duels, one against one, in the ancient tradition. The king had just announced something els
+   L290 Zara, already at the basin's edge, let out a short, sharp laugh. "The king does not want a tournament. The king wants a war." She turned to her three champions—Rask, Tor,
+   L290 Zara, already at the basin's edge, let out a short, sharp laugh. "The king does not want a tournament. The king wants a war." She turned to her three champions—Rask, Tor,
+   L335 The incense sticks continued to burn. The Stripe Paws held the center. The Shadow Paws waited in the shadows. The Motted Paws sat in their strange, silent vigil. And the 
+   L425 Thane turned to face them. His dark pelt was streaked with sand, his lacquered claws still dripping with poison. Behind him, Sera and Vex spread out, their formation loos
+   L436 But Sylva was already walking toward the basin's edge, her silver aura still flickering faintly along her claws. The last ember of the incense stick crumbled into ash, an
+   L474 Rask and Thane collided in the center of the basin. The Stripe Paw's roar echoed through the arena as she drove the assassin backward, her strikes powerful enough to crac
+   L494 Six champions would advance. Two Shadow Paws. Two Motted Paws. Two Stripe Paws. The Bright Paws were gone. And the king sat on his throne, the green fire flickering along
+   L526 The arena was still. The arbiters stood at the basin's edge, their faces grim. The delegations watched in silence. And the king sat on his throne, the green fire flickeri
+   L550 And the king sat on his throne, the green fire flickering gently along his claws, his eyes moving across the eight champions who would fight again. The tournament was jus
+   L568 Six champions remained: three Motted Paws, two Shadow Paws, one Stripe Paw. The Bright Paws were gone—eliminated in the opening moments, their humiliation complete. The o
+   L579 The arena fell into a silence deeper than any that had come before. The crowd had roared for the Stripe Paws' charge, gasped at the Shadow Paws' ambush, held its breath a
+   L586 Solen fell to his knees before the throne. His head was bowed, his shoulders shaking, his voice barely a whisper. "My king. We failed. We were not strong enough. We—" His
+chapter-arc3-04.md: 41 hits
+   L3 And the king sat on his father's throne, the green fire flickering gently along his claws, his eyes fixed on the broken warriors of his own blood. The apology hung in the
+   L3 And the king sat on his father's throne, the green fire flickering gently along his claws, his eyes fixed on the broken warriors of his own blood. The apology hung in the
+   L11 The Bright Paw section stirred like a wounded beast. The elders who had confronted Ajani that morning—Solen the High Priest, Vasha the stern advisor, the young priest who
+   L18 The eldest of them, a grizzled veteran named Voren, stepped forward and bowed low before the throne. His voice was steady, but his paws trembled. "I trained them, my king
+   L25 The arena waited. The Stripe Paws, the Shadow Paws, the Motted Paws—all of them watched the king and the trainers and the broken champions kneeling before the throne. The
+   L36 Voren's golden eyes lifted to meet his king's, and in them was something worse than fear. It was acceptance. He had served the Bright Paws for sixty years. He had trained
+   L41 "No, my king." His voice was hoarse, but it did not waver. "The performance you witnessed today was not the best our family has to offer. It was the best I had to offer. 
+   L46 He bowed his head lower, his grey-streaked mane brushing the blood-spattered sand. "I trained them in the old forms. The ceremonial combat of the royal court. I taught th
+   L55 The arena held its breath. The six champions who had survived the first phase stood at the edge of the basin, their auras still flickering, their wounds still fresh. The 
+   L78 "The Motted Paws do not claim prizes," she said, her voice soft as wind through desert grass. "But we claim the right to train them." She paused, her ancient eyes sweepin
+   L97 The Bright Paw trainers bowed their heads as one. Voren, the old veteran who had offered his life to the king's judgment, pressed his forehead to the blood-spattered sand
+   L124 "The Stripe Paws are ready, King Ajani." Her voice rumbled like distant thunder. "We have bled. We have healed. We have waited. Let the duels begin."
+   L147 And the king looked down at his champions—the best the Wengari had to offer—and the green fire flickered gently along his claws. The second phase was about to begin.
+   L155 Nefere rose from her seat in the Pyrinae section. The ancient Hydromancer walked slowly across the sand, her clouded eyes fixed on the king, her rune-glass filaments puls
+   L282 Ajani's smile spread wide across his face—all teeth, no warmth—and his eyes flared with a pulse of green fire that was visible even in the blinding noon sun. The Humman d
+   L288 "Refreshments, King Ajani! Bread and salt and wine from our own stores! A gift! A gesture of our new brotherhood!" Her voice was steady, but her hands trembled as she ges
+   L309 The Humman delegation froze. Seris, the ambassador who had knelt before the king and surrendered her daughter, stared up at the throne with an expression of pure, unguard
+   L309 The Humman delegation froze. Seris, the ambassador who had knelt before the king and surrendered her daughter, stared up at the throne with an expression of pure, unguard
+   L318 But she could not refuse. Not publicly. Not after the king had called them brothers. Not after she had knelt in the sand and accepted his terms. To refuse would be to sha
+   L322 She turned to her aides with a smile that did not reach her eyes. "You heard the king," she said, her voice steady despite the tremor in her hands. "Gather every basket, 
+   L327 The aides scattered like leaves before a sandstorm. Seris turned back to the throne, her diplomatic smile firmly in place, her heart hammering against her ribs. "The Humm
+   L331 She was buying time. The servants would need at least a quarter-hour to gather the supplies and distribute them. But the king had not specified when the refreshments must
+   L388 The green fire flickered gently along Ajani's claws. The king leaned forward on his throne, his eyes moving from the two Shadow Paws in the basin to the two Motted Paws w
+   L446 The Pyrinae delegation rose as one. Nefere inclined her ancient head, the faintest smile creasing her weathered face. The king had asked them to build again—and this time
+   L450 "Fifty paces by fifty paces. Beams at one-pace intervals. Completed within the hour." She turned to her Vein-Dwellers, her Sun-Walkers, her silent Root-Speaker. "You hear
+   L480 The arena erupted. Not in protest—in delight. The common Wengari in the upper tiers roared with laughter and approval. The Stripe Paws thumped their tails against the sto
+   L486 Zara recovered first. The Stripe Paw chief let out a booming laugh that echoed across the arena. "You want to arbit? You? The king? In the dust with the rest of us?" She 
+   L491 Kareth, standing at the basin's edge with his obsidian staff, simply closed his one good eye and inclined his head. "The king honors the champions with his presence. No o
+   L496 Sylva, the Motted Paw champion who had just defeated her own student, turned her silver eyes toward the throne. Her soft voice carried across the silent arena. "The Motte
+   L504 The Pyrinae, still finishing the fence, paused in their work to stare. Nefere's ancient face creased with something that might have been a smile. "The king will arbit. Th
+   L504 The Pyrinae, still finishing the fence, paused in their work to stare. Nefere's ancient face creased with something that might have been a smile. "The king will arbit. Th
+   L504 The Pyrinae, still finishing the fence, paused in their work to stare. Nefere's ancient face creased with something that might have been a smile. "The king will arbit. Th
+   L511 The king was about to arbit the finals. And the desert would witness.
+   L521 And the king was staring at them with the barely restrained excitement of a cub seeing his first Styx.
+   L529 Her golden aura still flickered with exhaustion, but her grin was wide and fierce. She had lost to Torin in the second phase, but she had survived. And in the final phase
+   L531 She inclined her elegant head toward Ajani—not a bow, but an acknowledgment. The king had come to stand among his warriors. The Motted Paw would honor that.
+   L541 And the king was staring at them with the barely restrained excitement of a cub seeing his first Styx.
+   L550 Sylva climbed onto the second war-mount, her movements as silent and fluid as everything the Motted Paw did. Her silver aura flickered faintly, and her ancient eyes took 
+   L550 Sylva climbed onto the second war-mount, her movements as silent and fluid as everything the Motted Paw did. Her silver aura flickered faintly, and her ancient eyes took 
+   L567 The incense flared, and the three champions spurred their mounts into the enclosure. Ajani stood at the fence's edge, his white cloak forgotten in the dust, his green-fle
+   L598 He was gesturing now, his claws tracing tactical diagrams in the air. The green fire flickered along his knuckles, forgotten. The white cloak trailed in the dust. The kin
+chapter-arc3-05.md: 62 hits
+   L13 The crowd erupted. Sylva and Torin remained mounted, their silver auras flickering gently, their faces calm. They had won the final phase. They would advance to face the 
+   L16 And Ajani—Ajani was still gripping the fence rail, his chest heaving, his eyes bright as a cub's. He had not noticed the green fire flaring along his claws. He had not no
+   L18 Her golden eyes narrowed, then softened. She had seen many things in her decades as Stripe Paw chief. She had never seen a Bright Paw king lean over a fence rail and shou
+   L18 Her golden eyes narrowed, then softened. She had seen many things in her decades as Stripe Paw chief. She had never seen a Bright Paw king lean over a fence rail and shou
+   L23 Other elders noticed too. Kareth, leaning on his obsidian staff, filed the observation away for the Shadow Paw council. A king who loved spectacle could be honored with a
+   L23 Other elders noticed too. Kareth, leaning on his obsidian staff, filed the observation away for the Shadow Paw council. A king who loved spectacle could be honored with a
+   L25 And Sylva, still mounted on her war-mount, silver aura flickering, looked down at the king who had shouted himself hoarse for her victory. The Motted Paws had been silent
+   L25 And Sylva, still mounted on her war-mount, silver aura flickering, looked down at the king who had shouted himself hoarse for her victory. The Motted Paws had been silent
+   L42 Zara, watching from the opposite rail, saw the king's muscles bunch and release, bunch and release, as if he were the one in the saddle. She had trained warriors for fort
+   L61 One champion remained. Sylva of the Motted Paws, mounted on a Stripe Paw war-mount, her silver aura flickering gently in the afternoon sun. She would face the king at twi
+   L64 Ajani released the fence rail. His claws had left furrows in the stone. He straightened his white cloak, smoothed his golden mane, and cleared his throat with as much reg
+   L66 The elders had noticed. And the gifts that would follow this tournament would be gifts worthy of a king who, for one glorious afternoon, had forgotten he was supposed to 
+   L78 Sylva inclined her head toward the king, her soft voice barely audible beneath the din. "You did not behave as a king. You behaved as a Wengari. There is a difference." S
+   L78 Sylva inclined her head toward the king, her soft voice barely audible beneath the din. "You did not behave as a king. You behaved as a Wengari. There is a difference." S
+   L78 Sylva inclined her head toward the king, her soft voice barely audible beneath the din. "You did not behave as a king. You behaved as a Wengari. There is a difference." S
+   L82 Zara watched the exchange from the fence rail, her golden eyes still bright with the revelation she had witnessed. The king was a fan of the fire feet. The king had shout
+   L82 Zara watched the exchange from the fence rail, her golden eyes still bright with the revelation she had witnessed. The king was a fan of the fire feet. The king had shout
+   L82 Zara watched the exchange from the fence rail, her golden eyes still bright with the revelation she had witnessed. The king was a fan of the fire feet. The king had shout
+   L85 Kareth leaned on his obsidian staff, his scarred face unreadable. The Shadow Paws had witnessed the king's unguarded passion for combat. An exhibition of the Eight Points
+   L88 Hakar, the old watchman, was already cataloging the weapons stored in the northern wall's armory. A king who craved spectacle deserved a blade worthy of it.
+   L91 And Sylva, the new regent, stood in the center of the enclosure with her silver aura flickering gently in the afternoon sun. She had won the tournament. She would rule th
+   L110 "Are trivial compared to what he has already done," Kareth finished. "Let him have his tournament. The families will compete. The people will celebrate. And the king—" He
+   L110 "Are trivial compared to what he has already done," Kareth finished. "Let him have his tournament. The families will compete. The people will celebrate. And the king—" He
+   L115 Nefere raised one ancient hand, and the Pyrinae delegation rose as one. "Thirty paces deep. Nine by nine. Rising from the ground." She turned to her Vein-Dwellers, her Su
+   L125 "The king asked for a reason," Nefere said, her ancient voice carrying across the silent arena. "The reason is this: at twilight, he will face the champion in that arena,
+   L137 Zara was already calculating. The Stripe Paws would dominate the mounted phase—no other family bred fire feet. If the king wanted his tournament to be a spectacle, the ca
+   L147 And Nefere, the ancient Hydromancer, inclined her head toward the young king. "The Pyrinae will build your arenas, King Ajani. Every year. Every tournament. We will raise
+   L147 And Nefere, the ancient Hydromancer, inclined her head toward the young king. "The Pyrinae will build your arenas, King Ajani. Every year. Every tournament. We will raise
+   L163 Kareth listened, his one good eye moving among his kin. The Shadow Paws had been humiliated by the First Tyrant's legacy. The tournament had given them something they had
+   L177 Zara watched from the edge of the grounds, her golden eyes tracking the flow of commerce. The Stripe Paws were making coin—charging modest fees for the fire foot rides, s
+   L183 She had been humiliated in the morning. She had scrambled to fulfill the king's demand. Now she was profiting from it.
+   L187 "Charge whatever the market will bear," she told her aides. "The Wengari are celebrating. They will pay for convenience. They will pay for novelty. They will pay for the 
+   L195 And the question on every tongue, in every council chamber, in every crowd of common Wengari gathered around the rising arena: would the crown be a yearly stake? The king
+   L235 The feint is the resolution. Ajani will win not through the ji's overwhelming force but through the strategic deception of the Four Pillars. He will bait Sylva into the o
+   L248 Ajani's green tint, then, is a declaration of who *he* is. Not merely a Bright Paw king, not merely a White Dawn, but a Wengari who spent a formative year training under 
+   L253 The third strike was the kill shot—a horizontal sweep aimed at her ribs, the blow that should have ended the duel before it began. Sylva did not redirect this one. She ca
+   L261 She released the blade and stepped back, her silver aura flickering gently, her expression unchanged. The crowd sat stunned. The king's opening combination had been flawl
+   L271 The saber dissolved in a cascade of green sparks, and the spear blazed to life in Ajani's paws—a long, elegant shaft of emerald fire, its leaf-shaped blade catching the l
+   L282 She caught the spear. Not the blade—the shaft. Her silver claws closed around the green fire just behind the leaf-shaped point, and she twisted, not to redirect the weapo
+   L292 The spear had failed. She had caught both. In her bare claws. And told him to try again. The grin that had spread across his face moments before was gone. In its place wa
+   L319 Ajani stood frozen, his sword still raised, his chest heaving. The crowd was utterly silent. The Styx circled above, their fires painting the twilight in shifting shades 
+   L345 She was simply... better. Not at fighting. At understanding. And that understanding was something he could not overpower, could not outmaneuver, could not deceive. The cr
+   L351 *OK THIS ENDS NOW, SHE NEEDS TO GO DOWN, NOW' - "oh... you're going down now, youre good, i admit it, you might even be better than me, but i am still the heir of the lig
+   L355 The ji blazed to life in Ajani's paws—a weapon none of the gathered Wengari had ever seen. Its shaft was long, nearly the height of the king himself, and it shimmered wit
+   L377 The crowd erupted. The ji had damaged the arena. The ji had nearly killed the regent. The ji was magnificent. And terrifying. And clearly, visibly, not fully under the ki
+   L380 Sylva rose from her dodge, her silver aura flickering, her ancient eyes fixed on the young king. She had seen the overcommitment. She had seen the strain in his shoulders
+   L388 The crowd fell utterly silent. The Styx circled above, their fires painting the twilight in shifting shades of flame. Sylva held her pose for a long, breathless moment—th
+   L391 And then Ajani grinned. Not the grin of a defeated warrior. The grin of a king who had just remembered that the staff was the grandfather. And the grandfather protected. 
+   L397 Sylva looked down at the saber against her wrist. Then she looked up at the young king, whose chest was heaving, whose golden mane was plastered to his skull with sweat, 
+   L422 The crowd erupted. The Styx screamed. Sylva looked down at the green blade against her wrist, then up at the young king whose chest was heaving, whose golden mane was a m
+   L439 The crowd's roar slowly subsided into an expectant murmur. Sylva stood at the center of the platform, her silver aura still flickering gently around her limbs, her ancien
+   L449 "The Motted Paws have been silent for five thousand years." She paused, her silver eyes sweeping across the gathered families, the delegations, the common Wengari in the 
+   L467 She raised one silver-furred paw, and her aura flared—not the gentle, patient flicker of Flowing Water, but something brighter, sharper, more urgent. "I ask that the rege
+   L467 She raised one silver-furred paw, and her aura flared—not the gentle, patient flicker of Flowing Water, but something brighter, sharper, more urgent. "I ask that the rege
+   L476 Sylva's silver eyes held his for a long, quiet moment. The crowd was silent, waiting, watching the young king and the old champion locked in a battle of wills that had no
+   L480 "Then I ask for something simpler." Her soft voice carried across the platform, unhurried, patient as Flowing Water itself. "The Motted Paws have trained the Bright Paw c
+   L494 Sylva inclined her head, her silver aura dimming to a faint, gentle shimmer. The request had been granted—not as she had framed it, but expanded, universalized, turned in
+   L500 "A generous proclamation," she murmured, her soft voice carrying to the young king's ears alone. "You learn quickly. The council seat I requested was a test. You passed. 
+   L500 "A generous proclamation," she murmured, her soft voice carrying to the young king's ears alone. "You learn quickly. The council seat I requested was a test. You passed. 
+   L509 Kareth nodded slowly, his scarred face thoughtful. The Shadow Paws had always trained in secret. A school in the capital would require them to emerge from the shadows, to
+   L517 Hakar, the old watchman, thought of the northern wall and the young soldiers who would flock to the capital to study under the masters. The tournament had given them a dr
+   L520 And the young king, exhausted and exhilarated, stood at the center of the platform with the green fire still flickering faintly along his claws and the roar of the crowd 
+
+=== SPECIAL PHRASES ===
+chapter-arc3-01.md [fire_feet]: 14 hits
+chapter-arc3-01.md [tyrant]: 4 hits
+chapter-arc3-01.md [tournament]: 8 hits
+chapter-arc3-02.md [fire_feet]: 1 hits
+chapter-arc3-02.md [tyrant]: 6 hits
+chapter-arc3-02.md [tournament]: 34 hits
+chapter-arc3-03.md [fire_feet]: 2 hits
+chapter-arc3-03.md [tyrant]: 2 hits
+chapter-arc3-03.md [tournament]: 25 hits
+chapter-arc3-04.md [fire_feet]: 9 hits
+chapter-arc3-04.md [tyrant]: 2 hits
+chapter-arc3-04.md [tournament]: 14 hits
+chapter-arc3-05.md [fire_feet]: 8 hits
+chapter-arc3-05.md [tyrant]: 5 hits
+chapter-arc3-05.md [tournament]: 30 hits
+
+=== DUPLICATE PARAGRAPHS (>=2 occurrences, len>=30) ===
+x3 @ chapter-arc3-03.md p147 L488; chapter-arc3-03.md p162 L532; chapter-arc3-03.md p169 L553 :: the incense stick crumbled into ash. the first phase was over.
+x2 @ chapter-arc3-03.md p108 L370; chapter-arc3-03.md p134 L451 :: but it was the shadow paws who struck first.
+x2 @ chapter-arc3-04.md p141 L519; chapter-arc3-04.md p148 L539 :: the incense flared to life, and the arena held its breath. ajani stood at the edge of the newly constructed fence, his white cloak already dusty from the walk across the sand, his 
+x2 @ chapter-arc3-04.md p142 L521; chapter-arc3-04.md p149 L541 :: and the king was staring at them with the barely restrained excitement of a cub seeing his first styx.
+x2 @ chapter-arc3-04.md p143 L524; chapter-arc3-04.md p150 L544 :: he reached out, hesitated, then placed one claw gently on the nearest fire foot's flank. the great beast rumbled—a low, throaty sound that might have been acknowledgment or warning
+x2 @ chapter-arc3-05.md p71 L240; chapter-arc3-05.md p72 L243 :: the green fire is not a gift from the tree. it is not a mark of the pact. it is ajani. aura is the manifestation of the inner force of a being—its essence, its nature, its soul mad
+
+=== DUPLICATE SENTENCES (>=2 occurrences, len>=35) ===
+x5 @ chapter-arc3-05.md L291; chapter-arc3-05.md L320; chapter-arc3-05.md L346; chapter-arc3-05.md L389; chapter-arc3-05.md L443 :: the styx circled above, their fires painting the twilight in shifting shades of flame.
+x4 @ chapter-arc3-03.md L489; chapter-arc3-03.md L498; chapter-arc3-03.md L533; chapter-arc3-03.md L554 :: the incense stick crumbled into ash.
+x3 @ chapter-arc3-02.md L45; chapter-arc3-02.md L616; chapter-arc3-03.md L9 :: he had served three generations of bright paw kings.
+x3 @ chapter-arc3-03.md L530; chapter-arc3-04.md L75; chapter-arc3-05.md L26 :: the motted paws had been silent for five thousand years.
+x2 @ chapter-arc3-01.md L72; chapter-arc3-02.md L358 :: the green fire flickered along ajani's claws.
+x2 @ chapter-arc3-01.md L265; chapter-arc3-01.md L294 :: the other elders murmured their assent.
+x2 @ chapter-arc3-01.md L322; chapter-arc3-01.md L332 :: old torek rose slowly, his weathered paw pressing against the small of his back where the decades of caravan travel had left their mark.
+x2 @ chapter-arc3-01.md L322; chapter-arc3-01.md L332 :: "the stripe paws will follow you, ajani brightmane.
+x2 @ chapter-arc3-02.md L358; chapter-arc3-03.md L107 :: the white styx circled far above, patient as the stars.
+x2 @ chapter-arc3-02.md L366; chapter-arc3-02.md L548 :: "have you lost your mind?!" the words burst from the old priest's throat before he had even finished bowing.
+x2 @ chapter-arc3-02.md L366; chapter-arc3-02.md L548 :: in a tournament you announced this morning!
+x2 @ chapter-arc3-02.md L371; chapter-arc3-02.md L553 :: the symbol of three thousand years of bright paw rule.
+x2 @ chapter-arc3-02.md L616; chapter-arc3-03.md L9 :: he had advised uthgard ix through wars and famines and the slow withering of the pact.
+x2 @ chapter-arc3-03.md L107; chapter-arc3-04.md L389 :: the green fire flickered gently along ajani's claws.
+x2 @ chapter-arc3-03.md L368; chapter-arc3-03.md L446 :: rask led the charge, her massive frame barreling toward the motted paws with the full force of a caravan at full gallop.
+x2 @ chapter-arc3-03.md L368; chapter-arc3-03.md L446 :: the stripe paws had grown tired of waiting.
+x2 @ chapter-arc3-03.md L371; chapter-arc3-03.md L452 :: but it was the shadow paws who struck first.
+x2 @ chapter-arc3-03.md L374; chapter-arc3-03.md L455 :: thane and his assassins materialized from the shadows at the exact moment the stripe paws committed to their charge.
+x2 @ chapter-arc3-03.md L374; chapter-arc3-03.md L455 :: they had waited, patient as death, for the precise instant when rask's attention was fixed on the motted paws.
+x2 @ chapter-arc3-03.md L379; chapter-arc3-03.md L461 :: he parried once, twice, then crumpled, her poison doing its silent work.
+x2 @ chapter-arc3-03.md L385; chapter-arc3-03.md L464 :: her aura blazed bright gold around her clenched fists.
+x2 @ chapter-arc3-03.md L472; chapter-arc3-03.md L492 :: the motted paws had drawn first blood.
+x2 @ chapter-arc3-03.md L486; chapter-arc3-03.md L501 :: and sera of the shadow paws, her face a ruin, her dark pelt matted with her own gore, her one good eye blazing with defiance.
+x2 @ chapter-arc3-03.md L536; chapter-arc3-03.md L557 :: the fallen lay scattered across the bloodied sand, but only the bright paws had been eliminated.
+x2 @ chapter-arc3-03.md L536; chapter-arc3-03.md L557 :: their three champions—solen and his two companions—were already being tended by pyrinae healers in the shaded colonnade.
+x2 @ chapter-arc3-03.md L536; chapter-arc3-03.md L557 :: the ceremonial training of the royal court had not prepared them for the brutal, practical violence of the other families.
+x2 @ chapter-arc3-03.md L548; chapter-arc3-03.md L569 :: the bright paws were gone—eliminated in the opening moments, their humiliation complete.
+x2 @ chapter-arc3-04.md L20; chapter-arc3-04.md L48 :: the ceremonial combat of the royal court.
+x2 @ chapter-arc3-04.md L108; chapter-arc3-04.md L307 :: the green fire along his claws dimmed to a faint, pulsing glow.
+x2 @ chapter-arc3-04.md L520; chapter-arc3-04.md L540 :: the incense flared to life, and the arena held its breath.
+x2 @ chapter-arc3-04.md L520; chapter-arc3-04.md L540 :: ajani stood at the edge of the newly constructed fence, his white cloak already dusty from the walk across the sand, his golden mane catching the afternoon sun.
+x2 @ chapter-arc3-04.md L520; chapter-arc3-04.md L540 :: the three war-mounts snorted and stamped in their harnesses, their black scales gleaming, their red feet leaving faint scorch marks on the stone.
+x2 @ chapter-arc3-04.md L522; chapter-arc3-04.md L542 :: and the king was staring at them with the barely restrained excitement of a cub seeing his first styx.
+x2 @ chapter-arc3-04.md L525; chapter-arc3-04.md L545 :: he reached out, hesitated, then placed one claw gently on the nearest fire foot's flank.
+x2 @ chapter-arc3-04.md L525; chapter-arc3-04.md L545 :: the great beast rumbled—a low, throaty sound that might have been acknowledgment or warning—and did not pull away.
+x2 @ chapter-arc3-04.md L525; chapter-arc3-04.md L545 :: his tail gave a single, involuntary twitch of delight.
+x2 @ chapter-arc3-04.md L525; chapter-arc3-04.md L545 :: then he remembered where he was, and who was watching, and he straightened his white cloak and cleared his throat with as much regal authority as he could muster.
+x2 @ chapter-arc3-04.md L528; chapter-arc3-04.md L548 :: thane swung onto the first fire foot with the fluid grace of an assassin who had been trained in every form of combat.
+x2 @ chapter-arc3-04.md L528; chapter-arc3-04.md L548 :: his injured shoulder protested, but his dark eyes were steady.
+x2 @ chapter-arc3-04.md L528; chapter-arc3-04.md L548 :: he had won his duel against sera with the eight points.
+x2 @ chapter-arc3-04.md L528; chapter-arc3-04.md L548 :: he would win this phase with whatever tools the arena provided.
+x2 @ chapter-arc3-04.md L530; chapter-arc3-04.md L551 :: her silver aura flickered faintly, and her ancient eyes took in the fence, the champions, the king standing in the dust below them.
+x2 @ chapter-arc3-04.md L532; chapter-arc3-04.md L551 :: she inclined her elegant head toward ajani—not a bow, but an acknowledgment.
+x2 @ chapter-arc3-04.md L532; chapter-arc3-04.md L551 :: the king had come to stand among his warriors.
+x2 @ chapter-arc3-04.md L537; chapter-arc3-04.md L562 :: ajani raised one paw, the green fire flaring along his claws, and the crowd fell silent.
+x2 @ chapter-arc3-04.md L537; chapter-arc3-04.md L562 :: "the rules are these: no mortal wounds—this is a tournament, not a funeral.
+x2 @ chapter-arc3-04.md L537; chapter-arc3-04.md L562 :: the fight ends when one champion is thrown from their mount or yields.
+x2 @ chapter-arc3-04.md L537; chapter-arc3-04.md L562 :: the last rider in the saddle advances to face me at twilight.
+x2 @ chapter-arc3-04.md L609; chapter-arc3-05.md L29 :: the final pass was a blur of black scales and silver light.
+x2 @ chapter-arc3-05.md L19; chapter-arc3-05.md L83 :: the king was a fan of the fire feet.
+x2 @ chapter-arc3-05.md L241; chapter-arc3-05.md L244 :: the green fire is not a gift from the tree.
+x2 @ chapter-arc3-05.md L241; chapter-arc3-05.md L244 :: aura is the manifestation of the inner force of a being—its essence, its nature, its soul made visible.
+x2 @ chapter-arc3-05.md L241; chapter-arc3-05.md L244 :: the shadow paws' dark aura reflects their lineage of stealth, patience, and the long shadow of the first tyrant's shame.
+x2 @ chapter-arc3-05.md L241; chapter-arc3-05.md L244 :: the stripe paws' orange-gold aura mirrors their fiery, explosive combat style and their identity as the sun-scorched caravan masters of the open desert.
+x2 @ chapter-arc3-05.md L403; chapter-arc3-05.md L424 :: "the feint," she said quietly, her soft voice carrying across the silent platform.
