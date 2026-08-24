@@ -41,7 +41,7 @@ Seris raised her eyes. Her face was pale, her jaw set, but her voice did not tre
 
 
 <div class="dialogue-block">
-<p class="speech-line">"wonderful!, welcome to the wengari brothers! As a gesture of good will you have one month to move your best to our capital, our friends the Pyrinae will help you get settled in!!"</p>
+<p class="speech-line">"wonderful!, welcome to the Wengari brothers! As a gesture of good will you have one month to move your best to our capital, our friends the Pyrinae will help you get settled in!!"</p>
 </div>
 
 
@@ -74,7 +74,7 @@ Somewhere in the capital, the Stripe Paw merchants were already counting their l
 
 
 <div class="dialogue-block">
-<p class="speech-line">"t'vat call for the elder council of the striped paws, now please "</p>
+<p class="speech-line">"T'vat call for the elder council of the Stripe Paws, now please "</p>
 </div>
 
 
@@ -112,7 +112,7 @@ The Stripe Paw elders filed out of the Hall of the Caravan Masters and into the 
 
 
 <div class="dialogue-block">
-<p class="speech-line">'therye here, good...why do they seem mad?' - "Brothers!, please come in we have much to discuss!"</p>
+<p class="speech-line">'they're here, good...why do they seem mad?' - "Brothers!, please come in we have much to discuss!"</p>
 </div>
 
 
@@ -136,7 +136,7 @@ Zara did not sit. She did not return the greeting. She walked into the center of
 
 
 <div class="dialogue-block">
-<p class="speech-line">'oh .. so it's that ', "I see, tell me Zara, who rules the wengari?"</p>
+<p class="speech-line">'oh .. so it's that ', "I see, tell me Zara, who rules the Wengari?"</p>
 </div>
 
 
@@ -154,7 +154,7 @@ The old caravan master, Torek, stepped forward and placed a weathered paw on Zar
 
 
 <div class="dialogue-block">
-<p class="speech-line">'so it's pride', "I see you believe me to be a fool, have you perchance heard news about the hummans as well or were your ears only attuned to the sound of coin?"</p>
+<p class="speech-line">'so it's pride', "I see you believe me to be a fool, have you perchance heard news about the Hummans as well or were your ears only attuned to the sound of coin?"</p>
 </div>
 
 
@@ -172,7 +172,7 @@ Zara stiffened. The other Stripe Paws behind her—old Torek, sharp-eyed Veena, 
 
 
 <div class="dialogue-block">
-<p class="speech-line">"the best of the humans here means...what Zara ? Tell me what do the humans do best ?"</p>
+<p class="speech-line">"the best of the Hummans here means...what Zara ? Tell me what do the Hummans do best ?"</p>
 </div>
 
 
@@ -190,7 +190,7 @@ Old Torek let out a long, slow breath. <span class="speech">"That's why you didn
 
 
 <div class="dialogue-block">
-<p class="speech-line">"yes and no, sit because this is the first and last time I will explain myself and I will only do so because I regard you as brothers, the humans will send their best here, that means their capital Verdantis will have their second best, for a while their trade will dwindle but also, they will betray us it's in their nature, and tell me, who is better suited to .... Enforce the covenant within our families?"</p>
+<p class="speech-line">"yes and no, sit because this is the first and last time I will explain myself and I will only do so because I regard you as brothers, the Hummans will send their best here, that means their capital Verdantis will have their second best, for a while their trade will dwindle but also, they will betray us it's in their nature, and tell me, who is better suited to .... Enforce the covenant within our families?"</p>
 </div>
 
 
@@ -204,7 +204,7 @@ Zara leaned forward, her striped mane catching the lamplight. <span class="speec
 
 
 <div class="dialogue-block">
-<p class="speech-line">"the stripe paws will become what they were meant to be, the overlords of the trade, the Pyrinae will be extremely busy rehabilitating their cities, a veto and waiver together means they have surplus of money, tell me Zara when one needs mercenaries who do they go to ?"</p>
+<p class="speech-line">"the Stripe Paws will become what they were meant to be, the overlords of the trade, the Pyrinae will be extremely busy rehabilitating their cities, a veto and waiver together means they have surplus of money, tell me Zara when one needs mercenaries who do they go to ?"</p>
 </div>
 
 
@@ -316,40 +316,8 @@ Zara's smile faltered, then steadied. The other elders—Torek, Veena, Mako—ex
 
 
 <div class="dialogue-block">
-Old Torek rose slowly, his weathered paw pressing against the small of his back where the decades of caravan travel had left their mark. <span class="speech">"I have served four kings,"</span> he said quietly. <span class="speech">"Your father. His father before him. Uthgard VII, who was stern but fair. And now you. I have never seen a king negotiate as you negotiated today. Not because you were the strongest, though you are. Not because you were the wisest, though you are learning. But because you understood that the Wengari are not one family. We are five. And a king who rules only one family rules a fraction of his people."</span> He bowed his head, his old eyes glistening. <span class="speech">"The Stripe Paws will follow you, Ajani Brightmane. Not because we must. Because you have earned it."</span>
-</div>
-
-
-The elders filed out of the chamber, their voices low, their minds already racing with preparations for the tournament to come. And Ajani, alone at last, let the exhaustion wash over him like the desert night. The white Styx still circled far to the north. The Blight still stirred beneath the earth. The road still waited. But tonight—for this brief, quiet moment between the weight of the day and the weight of tomorrow—the king allowed himself to close his eyes.
-
-The negotiations were complete. The pact was renewed. The road was coming. And somewhere in the darkness, a mirage was still walking toward them, singing a song that no one recognized. But that was a problem for the morning. Tonight, there was only sleep.
-
-
-<div class="dialogue-block">
 Old Torek rose slowly, his weathered paw pressing against the small of his back where the decades of caravan travel had left their mark. <span class="speech">"I served your father,"</span> he said quietly. <span class="speech">"And his father before him—Uthgard VIII, who was stern but fair. My own father served the king before that. He told me stories. The Stripe Paws remember, even when the records crumble. Four generations of my family have watched the Bright Paw dynasty. And now I watch you."</span> He bowed his head, his old eyes glistening. <span class="speech">"The Stripe Paws will follow you, Ajani Brightmane. Not because we must. Because you have earned it."</span>
 </div>
-
-
-**The Fire Feet — Lore Confirmed**
-
-
-- **Physical Description:** 3-meter-long black lizards with distinctive red feet, giving them their name. Endemic to the Steadfast Desert.
-
-- **Attunement:** Steadfast-attuned, with a unique homeostatic aura adaptation—they maintain a constant internal temperature regardless of environment. This makes them ideal desert mounts, capable of enduring the freezing nights and scorching days without strain.
-
-- **Lifespan:** 30–35 years, placing them in the medium range for domesticated animals.
-
-- **Temperament:** Quick and intelligent. Herbivorous, with a particular fondness for the grasses of the Rune-Belt—a taste that naturally draws them toward the caravan routes.
-
-- **Weakness:** Deadly afraid of fire. The Styx hunt them like everything else in the desert, and their fear of flame is deep and instinctual.
-
-- **Domestication:** The Stripe Paws have bred them since the Third Tyrant's era. Over three thousand years of symbiotic evolution, distinct breeds have emerged for speed, load-bearing, and combat. A Stripe Paw caravan is composed entirely of fire feet—no wheels, no wagons, only these great lizards carrying the trade goods of the Wengari across the continent.
-
-- **Bond:** The relationship is a true symbiosis, not ownership. The fire feet gain protection, food, and purpose; the Stripe Paws gain mobility, speed, and the ability to traverse terrain no other race can easily cross (steep mountains, deep rivers, the shifting sands of the deep desert). Wealthy Stripe Paw families typically keep up to five, and the bond between a Stripe Paw and their fire feet is deeply personal—a partnership forged over years of shared travel.
-
-
-The Stripe Paw elders, having just learned that Ajani traveled with their caravans for three years during his wandering, are now trying to determine *which* caravan he traveled with. Their goal is to offer him a fire feet as a coronation gift—but to do so, they need to know his preferences. Which breed? What temperament? Did he bond with any particular animal during his journey? The scene would unfold as a quiet, almost domestic moment after the formal negotiations, with the elders piecing together clues from Ajani's past.
-
 
 
 The chamber had emptied. The Stripe Paw elders had risen, their maps and notes gathered, their anger cooled into something warmer—respect, perhaps, or the first tentative roots of loyalty. But Zara lingered near the door, her massive frame silhouetted against the torchlight of the corridor beyond. Old Torek stood beside her, his weathered paw stroking his chin. Veena had paused mid-step, her sharp eyes flicking between her chief and the young king.
@@ -739,7 +707,7 @@ The young maid stepped back, brush still in hand, her golden eyes bright. <span 
 
 
 <div class="dialogue-block">
-'bow...what did father always said , <span class="speech">"never cross a maid or you'll wake in rags"</span> ' - <span class="speech">"THANK YOU , THANK YOU ALL, I MUST BE QUICK!"</span>
+'bow...what did father always say , <span class="speech">"never cross a maid or you'll wake in rags"</span> ' - <span class="speech">"THANK YOU , THANK YOU ALL, I MUST BE QUICK!"</span>
 </div>
 
 
@@ -793,7 +761,7 @@ Ajani climbed the dais, his breath still short from the run, his mane barely tam
 
 
 <div class="dialogue-block">
-<p class="speech-line">'ok, breathe and ...', "BROTHERS!! FRIEND'S!! WELCOME, SURELY YOU ALL KNOW OF THE GREAT PROJECT, THE GLORIOUS ROAD TO UNITE THE WORLD, HOWEVER A KING CANT BE IN TWO PLACES AT ONCE, OUR PEOPLE NEED A REGENT, SOMEONE STRONG, SOMEONE LOYAL, SOMEONE WHO CAN BE WHAT THE WENGARI NEED, AND TELL ME BROTHERS WHAT DO WENGARI VALUE ABOVE ALL ELSE ?!"</p>
+<p class="speech-line">'ok, breathe and ...', "BROTHERS!! FRIENDS!! WELCOME, SURELY YOU ALL KNOW OF THE GREAT PROJECT, THE GLORIOUS ROAD TO UNITE THE WORLD, HOWEVER A KING CAN'T BE IN TWO PLACES AT ONCE, OUR PEOPLE NEED A REGENT, SOMEONE STRONG, SOMEONE LOYAL, SOMEONE WHO CAN BE WHAT THE WENGARI NEED, AND TELL ME BROTHERS WHAT DO WENGARI VALUE ABOVE ALL ELSE ?!"</p>
 </div>
 
 
@@ -878,32 +846,6 @@ She stared at the young king, her golden eyes searching his face for some sign t
 
 
 The green fire flickered along Ajani's claws. His smile was wide, and bright, and utterly terrifying. The white Styx circled far above, patient as the stars. The tournament would begin in one hour. And the crown of the Wengari was now the greatest prize in the world.
-
-
-The Bright Paw elders did not wait for the chaos to subside. They descended on the throne in a wave of golden manes and bristling fur, their ceremonial robes swirling, their voices overlapping in a cacophony of outrage and terror. The High Priest Solen led them, his ancient frame trembling not with age but with fury.
-
-
-<div class="dialogue-block">
-<span class="speech">"Have you lost your mind?!"</span> The words burst from the old priest's throat before he had even finished bowing. <span class="speech">"You put the crown on the line! The crown of the Wengari! In a tournament you announced this morning! After you invited every race on Ethra to compete! What if a Humman wins? What if a Veylar wins? What if—"</span> He could not finish. The horror was too vast.
-</div>
-
-
-<div class="dialogue-block">
-Another elder, a stern Bright Paw named Vasha who had served as Uthgard IX's chief advisor, stepped forward. <span class="speech">"The Lightbringer's crown. Your father's crown. The symbol of three thousand years of Bright Paw rule. You just—"</span> She clenched her claws. <span class="speech">"You just offered it as a prize. To anyone. Without consulting us. Without warning. Without—"</span>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">"Without even eating breakfast," <span class="speech-attr">muttered a younger elder from the back, and was immediately silenced by a glare from Solen.</span></p>
-</div>
-
-
-<div class="dialogue-block">
-The High Priest turned back to Ajani, his golden eyes blazing. <span class="speech">"Explain yourself, King Ajani. Explain to us why the crown of the Wengari is now the prize in a tournament you announced on a whim."</span> He drew a ragged breath. <span class="speech">"We are your elders. We are your priests. We are the keepers of the Lightbringer's legacy. And we deserve an answer."</span>
-</div>
-
-
-The other Bright Paws fell silent, their golden eyes fixed on their young king. Somewhere in the arena behind them, the other families were already choosing their champions. Somewhere in the colonnades, the delegations were deliberating. The hour was counting down. And Ajani sat on his father's throne, the white cloak around his shoulders, the green fire still flickering faintly along his claws, waiting to speak.
 
 
 **The Hour Before the Tournament**
@@ -1053,13 +995,13 @@ The Threx messenger floated on its back in the shaded pool, its multifaceted eye
 The Quick could not send a champion. It was small, and young, and far from home. But it could send a thought, through the mycelial network, to L'vat in the distant marsh. And it did.
 
 
-*The king has put his crown on the line. The tournament begins in an hour. The Wengari are choosing their champions. The other races are choosing theirs. What should I do?*
+'The king has put his crown on the line. The tournament begins in an hour. The Wengari are choosing their champions. The other races are choosing theirs. What should I do?'
 
 
 The response came not in words but in a feeling—a pulse of warmth, a flicker of something that might have been pride, or might have been worry, or might have been both. L'vat was watching. L'vat was waiting. And L'vat, the old root who had trained a White Dawn for a year, was not surprised at all.
 
 
-*The Bright Paw Elders (Closing Scene)*
+**The Bright Paw Elders**
 
 
 The Bright Paw elders did not wait. They descended on the throne in a wave of golden manes and bristling fur. The High Priest Solen led them, his ancient frame trembling with fury.
@@ -1074,6 +1016,10 @@ The Bright Paw elders did not wait. They descended on the throne in a wave of go
 Vasha, the stern advisor who had served Uthgard IX, stepped forward. <span class="speech">"The Lightbringer's crown. Your father's crown. The symbol of three thousand years of Bright Paw rule. You just—"</span> She clenched her claws. <span class="speech">"You just offered it as a prize. To anyone. Without consulting us."</span>
 </div>
 
+<div class="dialogue-block">
+<p class="speech-line">"Without even eating breakfast," <span class="speech-attr">muttered a younger elder from the back, and was immediately silenced by a glare from Solen.</span></p>
+</div>
+
 
 <div class="dialogue-block">
 <p class="speech-line">Solen drew a ragged breath. "Explain yourself, King Ajani. We are your elders. We are your priests. We deserve an answer."</p>
@@ -1084,7 +1030,7 @@ And Ajani, seated on his father's throne, the white cloak around his shoulders, 
 
 
 <div class="dialogue-block">
-<p class="speech-line">"tell me solen, who rules the wenfari ?" <span class="speech-attr">, 'warm, unflinching, unforgiving '</span></p>
+<p class="speech-line">"tell me Solen, who rules the Wengari ?" <span class="speech-attr">, 'warm, unflinching, unforgiving '</span></p>
 </div>
 
 
@@ -1206,7 +1152,7 @@ The arena beyond the throne was silent. The gathered families, who had been watc
 And the Veylar Shell-Singer, seated alone in the eastern colonnade, opened both luminous eyes and smiled. The White Dawn had reminded his own blood who ruled the desert. The tournament would begin in minutes. And every Wengari in that arena now understood, with absolute certainty, that their king was not merely strong. He was the sun. Warm. Unflinching. Unforgiving.
 
 
-'fhe sun is up in the sky, it's time ' -"BROTHERS STEMMED GUESTS, PLEASE PRESENT YOUR CHAMPIONS!!!"
+'the sun is up in the sky, it's time ' -"BROTHERS ESTEEMED GUESTS, PLEASE PRESENT YOUR CHAMPIONS!!!"
 
 
 The arena fell silent. The noon sun of the Steadfast blazed overhead, casting sharp shadows across the sand, and every eye—Wengari, Pyrinae, Humman, Veylar, Threx—turned toward the central arena floor.
@@ -1256,7 +1202,7 @@ The Quick, floating in its shaded pool, sent a pulse of green fire through the m
 
 
 <div class="dialogue-block">
-<p class="speech-line">"IT SEEMS NONE OF OUR GUESTS RISED TO THE CHALLENGE, LETS HONOR THEM, FOR THERE IS STRENGTH IN KNOWING WHEN TO FLEE AND WHEN TO FIGHT, LIKE THE RAZOR HARE KNOWS, THE STYX CAN NOT BE BESTED BUT BY ANOTHER STYX, LET'S ALL SHOW THEM THE RESPECT THEY DESERVE" <span class="speech-attr">- 'bow and scene...'</span></p>
+<p class="speech-line">"IT SEEMS NONE OF OUR GUESTS RISEN TO THE CHALLENGE, LET'S HONOR THEM, FOR THERE IS STRENGTH IN KNOWING WHEN TO FLEE AND WHEN TO FIGHT, LIKE THE RAZOR HARE KNOWS, THE STYX CAN NOT BE BESTED BUT BY ANOTHER STYX, LET'S ALL SHOW THEM THE RESPECT THEY DESERVE" <span class="speech-attr">- 'bow and scene...'</span></p>
 </div>
 
 
@@ -1312,7 +1258,7 @@ Nefere stood at the edge of the completed basin, her clouded eyes surveying the 
 
 
 <div class="dialogue-block">
-<p class="speech-line">'bow the head'- "ESPECTACULAR, THIS SKILL WILL BE INVALUABLE ON THE ROAD, THANK YOU FRIENDS, NOW FOR THE RULES, 1) NO MORTAL WOUNDS ITS A TOURNAMENT NOT AN ASSASSINATION, ALL TYPES OF WEAPONS AND POISONS ARE PERMITTED AS LONG AS THEY'RE NOT LETHAL IF ANYONE BREAKS THE RULE, THEIR ENTIRE FAMILY LINE WILL PAY, ANY OBJECTIONS?"</p>
+<p class="speech-line">'bow the head'- "SPECTACULAR, THIS SKILL WILL BE INVALUABLE ON THE ROAD, THANK YOU FRIENDS, NOW FOR THE RULES, 1) NO MORTAL WOUNDS IT'S A TOURNAMENT NOT AN ASSASSINATION, ALL TYPES OF WEAPONS AND POISONS ARE PERMITTED AS LONG AS THEY'RE NOT LETHAL IF ANYONE BREAKS THE RULE, THEIR ENTIRE FAMILY LINE WILL PAY, ANY OBJECTIONS?"</p>
 </div>
 
 
@@ -1396,7 +1342,7 @@ That was the way of the desert. That was the way of the Wengari.
 The Veylar Shell-Singer tilted her head, her iridescent skin flickering through a cascade of colors that no surface-dweller could interpret. She raised her Petal-Shell and made a single, quiet note—a note of acknowledgment, perhaps, or of sorrow. The Humman ambassador clutched her daughter's hand and prayed to a god she did not believe in.
 
 
-And the Quick, floating in its shaded pool, felt the pulse of green fire along its chitin and sent a silent message through the mycelial network: *The White Dawn does not ask for mercy. The White Dawn does not offer it. The tournament will be brutal. The tournament will be remembered.*
+And the Quick, floating in its shaded pool, felt the pulse of green fire along its chitin and sent a silent message through the mycelial network: 'The White Dawn does not ask for mercy. The White Dawn does not offer it. The tournament will be brutal. The tournament will be remembered.'
 
 
 The twelve champions stood at the edge of the basin, their claws gleaming, their auras flickering, their eyes fixed on the king who had given them these rules and this arena and this moment. They were ready. The tournament was about to begin.
@@ -1476,9 +1422,7 @@ In the Pyrinae section, Nefere leaned forward, her clouded eyes fixed on the bas
 </div>
 
 
-The Veylar Shell-Singer had risen from her seat. Her Petal-Shell pulsed with a steady, rhythmic light, and her luminous eyes were fixed on the basin with an intensity that no surface-dweller could interpret. The Humman ambassador had her arm around her daughter, both of them pale and silent. And the Quick, floating in its shaded pool, sent a single, urgent pulse through the mycelial network: *The White Dawn has changed the rules.
-
-The tournament will be a battle. The desert will drink deep today.*
+The Veylar Shell-Singer had risen from her seat. Her Petal-Shell pulsed with a steady, rhythmic light, and her luminous eyes were fixed on the basin with an intensity that no surface-dweller could interpret. The Humman ambassador had her arm around her daughter, both of them pale and silent. And the Quick, floating in its shaded pool, sent a single, urgent pulse through the mycelial network: 'The White Dawn has changed the rules. The tournament will be a battle. The desert will drink deep today.'
 
 
 A servant stepped onto the sand, carrying a single incense stick—thick as a Wengari's thumb, dark with age and fragrant with desert herbs. He placed it in a bronze holder at the edge of the basin and lit it. The first curl of smoke rose into the noon air, pale and steady.
@@ -1504,7 +1448,7 @@ Hakar, the old watchman who had volunteered to arbit for the Bright Paws, stood 
 The incense sticks continued to burn. The Stripe Paws held the center. The Shadow Paws waited in the shadows. The Motted Paws sat in their strange, silent vigil. And the king watched, and waited, and said nothing at all.
 
 
-*Let's begin!*
+'Let's begin!'
 
 Ajani's eyes tracked the fallen Bright Paws as they were carried from the basin. Three champions of his own blood, eliminated in less than a quarter of an incense stick. The ceremonial training, the ancient forms, the proud lineage of the Lightbringer—all of it had crumbled before the raw, practical violence of the Stripe Paws. He had expected them to fall. He had not expected them to fall so quickly.
 
@@ -1528,87 +1472,9 @@ Ajani's claws continued their slow, steady rhythm against the armrest. The green
 Glory was the currency of the desert. And no champion would leave this basin without claiming their share.
 
 
-*'half of it down, no one is engaging, it should end soon... They will want glory for their name'*
+'half of it down, no one is engaging, it should end soon... They will want glory for their name'
 
 The basin erupted.
-
-
-Rask led the charge, her massive frame barreling toward the Motted Paws with the full force of a caravan at full gallop. Tor and Varn flanked her, their formation tightening, their auras blazing. The Stripe Paws had grown tired of waiting. The Motted Paws rose to meet them—Sylva unfolding from her seated position with the fluid grace of water, her silver aura flaring along her claws like moonlight on a blade.
-
-
-But it was the Shadow Paws who struck first.
-
-
-Thane and his assassins materialized from the shadows at the exact moment the Stripe Paws committed to their charge. They had waited, patient as death, for the precise instant when Rask's attention was fixed on the Motted Paws. Now they fell upon the Stripe Paws from behind, their lacquered claws gleaming with the paralytic poisons that were the hallmark of their order.
-
-
-Tor went down first. Thane's strike was surgical—a single blow to the back of the knee that severed the tendon and sent the lean warrior crashing to the sand. He did not cry out. Shadow Paw poison was already numbing the wound, spreading through his veins like ice. He would live. He would not fight again today. Varn turned to face the assassins, his young eyes blazing with fury, but the second Shadow Paw was already upon him—a female named Sera, her dark pelt blending with the shadows, her claws finding the gap in his guard with terrifying precision.
-
-He parried once, twice, then crumpled, her poison doing its silent work.
-
-
-Rask was alone.
-
-
-The massive Stripe Paw turned to face her attackers—Thane and Sera closing from the shadows, the Motted Paws still waiting in the center, her two companions down and helpless on the sand. Her aura blazed bright gold around her clenched fists. She did not run. She did not forfeit. She set her feet, bared her fangs, and prepared to face them all.
-
-
-But the Motted Paws did not attack. Sylva raised one silver-furred hand, and her companions stepped back. The Motted Paws had watched the Stripe Paws dismantle the Bright Paws. They had watched the Shadow Paws dismantle the Stripe Paws. They had not moved from their silent vigil. Now, with the incense burning toward its final quarter, they simply waited. The message was clear: the Motted Paws would not fight a wounded opponent.
-
-They would not take advantage of the chaos. They would face whoever remained when the smoke cleared, and they would do so on equal terms. Rask stared at Sylva for a long, breathless moment. Then she inclined her head—a warrior's acknowledgment, given and received—and turned to face the assassins. The fight was not over. But the Stripe Paws were now one against three, and the Shadow Paws had not yet begun to bleed.
-
-
-
-*'it begins '*
-
-The Shadow Paws were fighting like assassins. Not like warriors seeking glory, not like champions courting the crowd's adoration, but like killers who understood that victory was measured not in cheers but in bodies left standing. Two champions down. Not a single wound among them. The green fire along Ajani's claws dimmed, then steadied. His tapping had stopped.
-
-
-The Shadow Paws had always been his family's shame. The legacy of the First Tyrant clung to them like a scar that refused to heal. But Kareth had knelt before him in the inner chamber, and Thane was now dismantling the tournament with the cold, patient precision that Ajani himself had learned from L'vat. The thought that had flickered unbidden earlier returned, stronger now, harder to dismiss.
-
-
-They would make good regents. They understood patience. They understood strategy. They understood that power was not about glory, but about surviving when everyone else had fallen. And they had the ruthlessness necessary to rule in his absence.
-
-
-Rask stood alone in the center of the basin. Her aura blazed gold around her clenched fists, but she was outnumbered three to one, and the assassins had not yet begun to bleed. Thane and Sera circled her like wolves around a wounded bison, their lacquered claws gleaming with fresh poison. The third Shadow Paw—a silent male named Vex—had taken position behind her, cutting off any retreat.
-
-
-<div class="dialogue-block">
-<span class="speech">"Yield,"</span> Thane said quietly. <span class="speech">"You are the last of your family standing. There is no dishonor."</span>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Rask bared her fangs. "The Stripe Paws do not yield."</p>
-</div>
-
-
-She charged. Thane met her head-on, his claws flashing, and the basin erupted into its final, desperate combat. Rask was magnificent—her aura blazing, her strikes powerful enough to crack stone, her roar echoing through the silent arena. But the assassins were too fast, too precise, too coordinated. Sera struck from the left, Vex from the right, and Thane met her charge with a parry that sent her skidding backward across the sand.
-
-She fought for another minute. Perhaps two. Then Thane's claws found her shoulder, and his poison did its silent work, and the last of the Stripe Paws crumpled to the sand. The Shadow Paws stood victorious.
-
-
-But the Motted Paws were still waiting. Sylva had not moved from her position at the center of the basin. Her two companions flanked her, their claws still sheathed, their silver auras flickering faintly in the noon light. The incense stick had burned down to its final ember. The first phase of the tournament was almost over. And the Motted Paws had not yet lifted a claw.
-
-
-Thane turned to face them. His dark pelt was streaked with sand, his lacquered claws still dripping with poison. Behind him, Sera and Vex spread out, their formation loose but ready. The Shadow Paws had dismantled the Bright Paws and the Stripe Paws with surgical precision. Now only the Motted Paws remained, and no one—not the crowd, not the arbiters, not the king himself—knew what they would do.
-
-
-<div class="dialogue-block">
-Sylva rose to her feet. Her silver aura flickered along her claws, pale and cold as moonlight. She looked at Thane, and Thane looked at her, and for a long, breathless moment, the two champions simply regarded each other across the bloodied sand. Then Sylva spoke, her voice soft as wind through desert grass. <span class="speech">"The incense is almost gone. We have not fought. We have not bled. We have waited, as the Motted Paws have always waited, for the right moment. This is not the right moment."</span> She turned to her companions. <span class="speech">"We forfeit."</span>
-</div>
-
-
-The crowd erupted. Not in anger—in shock. The Motted Paws were surrendering without a fight. They were conceding the phase to the Shadow Paws without a single drop of blood spilled. It was not cowardice. It was something stranger. Something older. Something that no one in the arena fully understood.
-
-
-But Sylva was already walking toward the basin's edge, her silver aura still flickering faintly along her claws. The last ember of the incense stick crumbled into ash, and the first phase of the tournament was over. The Shadow Paws had won. And the Motted Paws, silent and silver and strange, had chosen not to fight. The arena was still. The king was still. And the green fire flickered gently along his claws, waiting for what came next.
-
-
-*'yes they would make good regents, two for two and they're unscathed '*
-
-
-*The basin erupted.*
 
 
 Rask led the charge, her massive frame barreling toward the Motted Paws with the full force of a caravan at full gallop. Tor and Varn flanked her, their formation tightening, their auras blazing gold. The Stripe Paws had grown tired of waiting. Glory was the currency of the desert, and they would claim their share.
@@ -1653,71 +1519,7 @@ The basin fell silent.
 
 Two champions remained standing: Sylva of the Motted Paws, her silver aura flickering faintly, her claws stained with Vex's blood. And Sera of the Shadow Paws, her face a ruin, her dark pelt matted with her own gore, her one good eye blazing with defiance.
 
-
-The incense stick crumbled into ash. The first phase was over.
-
-
-The Motted Paws had drawn first blood. The Shadow Paws had lost two of three. The Stripe Paws had fallen, but they had taken their pound of flesh. And the Bright Paws, eliminated in the opening moments, sat in humiliated silence as their champions were carried from the basin—alive, but broken.
-
-
-Six champions would advance. Two Shadow Paws. Two Motted Paws. Two Stripe Paws. The Bright Paws were gone. And the king sat on his throne, the green fire flickering along his claws, his face unreadable as the desert sky.
-
-
-The basin fell silent. The incense stick crumbled into ash.
-
-
-Two champions remained standing at the end of the first phase: Sylva of the Motted Paws, her silver aura flickering faintly, her claws stained with Vex's blood. And Sera of the Shadow Paws, her face a ruin, her dark pelt matted with her own gore, her one good eye blazing with defiance.
-
-
-The fallen lay scattered across the bloodied sand. Tor and Varn of the Stripe Paws, paralyzed by Shadow Paw poison, their chests still rising and falling. Vex of the Shadow Paws, crumpled where Sylva's silver claws had found his ribs. And at the center of the basin, two titans lay where they had fallen together: Rask of the Stripe Paws, the largest warrior in the tournament, her great body still and silent.
-
-And Thane of the Shadow Paws, the assassin who had led his family's charge, unconscious against the stone wall where Rask's final blow had thrown him.
-
-
-The other Motted Paws—Sylva's two companions—had sheathed their claws. They had not struck a single blow. They had simply maintained their silent vigil throughout the chaos, guarding their champion's flanks, waiting for a moment that never came. They were uninjured. They were standing. And by the rules of the tournament, they would advance alongside their champion.
-
-
-The Bright Paws had been eliminated in the opening moments. Their three champions were already being tended by Pyrinae healers in the shaded colonnade—alive, but broken.
-
-
-The Stripe Paws had lost two to the Shadow Paws, and their champion Rask had fallen taking Thane with her. Only Tor and Varn remained, and they could not stand. They would not advance.
-
-
-The Shadow Paws had lost Vex to the Motted Paws and Thane to Rask. Only Sera remained standing, her face a bleeding ruin, her body trembling with exhaustion. She would advance. She had earned it.
-
-
-The Motted Paws had lost no one. Sylva had drawn first blood, and her two companions had not been touched. All three would advance.
-
-
-Four champions stood at the end of the first phase: Sylva and her two silent companions of the Motted Paws, and Sera of the Shadow Paws, alone. The Stripe Paws and Bright Paws were eliminated.
-
-
-The arena was still. The arbiters stood at the basin's edge, their faces grim. The delegations watched in silence. And the king sat on his throne, the green fire flickering gently along his claws, his eyes fixed on the silver-furred champion who had waited for the perfect moment and then struck without hesitation.
-
-
-The Motted Paws had been silent for five thousand years. They were silent no longer.
-
-
-The incense stick crumbled into ash. The first phase was over.
-
-
-The fallen lay scattered across the bloodied sand, but only the Bright Paws had been eliminated. Their three champions—Solen and his two companions—were already being tended by Pyrinae healers in the shaded colonnade. They were alive, but broken. The ceremonial training of the royal court had not prepared them for the brutal, practical violence of the other families. They had fought bravely. Bravery was not enough.
-
-
-The Shadow Paws had lost Vex to Sylva's silver claws, but Thane and Sera remained standing—Thane wounded, his shoulder bleeding where Tor had raked him; Sera's face a bleeding ruin, but her one good eye still blazing with defiance. Two Shadow Paws would advance.
-
-
-The Stripe Paws had lost no one, but they had paid for their survival in exhaustion and injury. Rask had fallen taking Thane with her, but she had risen again, shaking off the last of the poison with sheer brute force. Tor and Varn stood beside her, their legs still trembling from the paralytic toxins, but standing. Three Stripe Paws would advance.
-
-
-The Motted Paws had lost no one. Sylva's silver claws were stained with Vex's blood, and her two companions had not been touched. All three would advance.
-
-
-Eight champions remained. The Bright Paws were gone—eliminated in the opening moments, their humiliation complete. The Stripe Paws had proven their strength. The Shadow Paws had proven their cunning. The Motted Paws had proven that silence was not weakness, but patience.
-
-
-And the king sat on his throne, the green fire flickering gently along his claws, his eyes moving across the eight champions who would fight again. The tournament was just beginning. The Bright Paws were gone. And the desert would remember.
-
+'yes they would make good regents, two for two and they're unscathed'
 
 The incense stick crumbled into ash. The first phase was over.
 
@@ -1907,7 +1709,7 @@ And the king looked down at his champions—the best the Wengari had to offer—
 
 
 <div class="dialogue-block">
-<p class="speech-line">"TO MAKE IT FAIR, WE WILL DECIDE PAIRINGS BASED ON AURA, IN THE DESERT THE STYX IS THE OVERLORD, NOTHING CAN BEAT THE DEATH FROM ABOVE, BUT IN THE BELT... ITS THE TIDE WOLVES THAT RULE, WE THE WENGARI LIVE NOT ONLY ON THE DESER BUT IN THE RUNE BELT AS WELL, ILL DEMONSTRATE, FRIENDS PYRANEI, MAY I BORROW ONE OF YOUR STYX STAFFS? THE ONE WITH THE LARGEST AND OLDEST STYX FEATHERS"</p>
+<p class="speech-line">"TO MAKE IT FAIR, WE WILL DECIDE PAIRINGS BASED ON AURA, IN THE DESERT THE STYX IS THE OVERLORD, NOTHING CAN BEAT THE DEATH FROM ABOVE, BUT IN THE BELT... ITS THE TIDE WOLVES THAT RULE, WE THE WENGARI LIVE NOT ONLY ON THE DESERT BUT IN THE RUNE BELT AS WELL, I'LL DEMONSTRATE, FRIENDS PYRINAE, MAY I BORROW ONE OF YOUR STYX STAFFS? THE ONE WITH THE LARGEST AND OLDEST STYX FEATHERS"</p>
 </div>
 
 
@@ -1940,9 +1742,6 @@ Ajani descended from the throne. He walked across the blood-spattered sand, his 
 <div class="dialogue-block">
 <p class="speech-line">He drove the base of the staff into the sand. The ancient feathers shimmered, their iridescent glow intensifying until the entire arena was bathed in a soft, silver light. "Let the second phase begin."</p>
 </div>
-
-
-Let's follow the arena as the Styx feathers measure the champions. The Pyrinae will handle the ceremony—neutral, precise, and practiced in the handling of aura-sensitive materials. The six champions will be paired by what the ancient feathers reveal, and the crowd will see who matches whom.
 
 
 The Pyrinae moved with the quiet efficiency of a people who had spent three thousand years handling the most volatile substances in the desert. Nefere directed two Vein-Dwellers to the base of the staff, their rune-glass instruments humming as they calibrated the ancient feathers. Mira, the Sun-Walker envoy, stood beside the staff with a parchment and a stylus, ready to record the pairings.
@@ -2271,27 +2070,7 @@ The king was about to arbit the finals. And the desert would witness.
 
 
 <div class="dialogue-block">
-<p class="speech-line">'oh goody... war mounts!!!, i havent seen one since i was a child, look at them!!, would anyone care if i touched one?!,.. wait, regal!, dont look too much, regal!' - "AHEM... WE WILL START WHEN THE INCENSE BURNS.... NOW!"</p>
-</div>
-
-
-The incense flared to life, and the arena held its breath. Ajani stood at the edge of the newly constructed fence, his white cloak already dusty from the walk across the sand, his golden mane catching the afternoon sun. The three war-mounts snorted and stamped in their harnesses, their black scales gleaming, their red feet leaving faint scorch marks on the stone. They were magnificent. They were terrifying.
-
-And the king was staring at them with the barely restrained excitement of a cub seeing his first Styx.
-
-
-He reached out, hesitated, then placed one claw gently on the nearest fire foot's flank. The great beast rumbled—a low, throaty sound that might have been acknowledgment or warning—and did not pull away. Ajani's ears pricked forward. His tail gave a single, involuntary twitch of delight. Then he remembered where he was, and who was watching, and he straightened his white cloak and cleared his throat with as much regal authority as he could muster.
-
-
-The champions mounted. Thane swung onto the first fire foot with the fluid grace of an assassin who had been trained in every form of combat. His injured shoulder protested, but his dark eyes were steady. He had won his duel against Sera with the Eight Points. He would win this phase with whatever tools the arena provided. Rask climbed onto the second war-mount, her massive frame settling into the saddle with the ease of a Stripe Paw who had been riding fire feet since she was old enough to walk.
-
-Her golden aura still flickered with exhaustion, but her grin was wide and fierce. She had lost to Torin in the second phase, but she had survived. And in the final phase, survival was its own victory. Sylva mounted the third fire foot last. The Motted Paw champion moved with the same silent, fluid grace she had shown in every phase of the tournament. Her silver aura flickered faintly, and her ancient eyes took in the fence, the champions, the king standing in the dust below them.
-
-She inclined her elegant head toward Ajani—not a bow, but an acknowledgment. The king had come to stand among his warriors. The Motted Paw would honor that.
-
-
-<div class="dialogue-block">
-<p class="speech-line">Ajani raised one paw, the green fire flaring along his claws, and the crowd fell silent. "The rules are these: no mortal wounds—this is a tournament, not a funeral. The fight ends when one champion is thrown from their mount or yields. The last rider in the saddle advances to face me at twilight. The incense burns. The desert watches. Begin!" He dropped his paw, and the arena erupted.</p>
+<p class="speech-line">'oh goody... war mounts!!!, I haven't seen one since I was a child, look at them!!, would anyone care if I touched one?!,.. wait, regal!, don't look too much, regal!' - "AHEM... WE WILL START WHEN THE INCENSE BURNS.... NOW!"</p>
 </div>
 
 
@@ -2437,7 +2216,7 @@ The elders had noticed. And the gifts that would follow this tournament would be
 
 
 <div class="dialogue-block">
-<p class="speech-line">'styx in heaven i blew it!!... I behaved no better than a cub, but they were so good!!, i should make this a yearly, thing, definetly.. a yearly thing, now grab her paw, and rise' - "WENGARI I GIVE YOU YOUR REGENT, SYLVA OF THE MOTTED PAWS!!! ROAR FOR YOUR CHAMPION!!!"</p>
+<p class="speech-line">'Styx in heaven I blew it!!... I behaved no better than a cub, but they were so good!!, I should make this a yearly, thing, definitely.. a yearly thing, now grab her paw, and rise' - "WENGARI I GIVE YOU YOUR REGENT, SYLVA OF THE MOTTED PAWS!!! ROAR FOR YOUR CHAMPION!!!"</p>
 </div>
 
 
@@ -2447,9 +2226,6 @@ Ajani grabbed Sylva's paw and raised it high above her head, the silver-furred M
 <div class="dialogue-block">
 Sylva inclined her head toward the king, her soft voice barely audible beneath the din. <span class="speech">"You did not behave as a king. You behaved as a Wengari. There is a difference."</span> She withdrew her paw with the same quiet grace she had shown in every phase of the tournament. <span class="speech">"The Motted Paws have waited a long time for a king who remembered that difference."</span>
 </div>
-
-
-Zara watched the exchange from the fence rail, her golden eyes still bright with the revelation she had witnessed. The king was a fan of the fire feet. The king had shouted himself hoarse for mounted combat. The pale fire foot, Ember—the one Korr had been keeping since the king's wandering years—would be the perfect gift. Not tribute. Not politics. A gift from one rider to another.
 
 
 Kareth leaned on his obsidian staff, his scarred face unreadable. The Shadow Paws had witnessed the king's unguarded passion for combat. An exhibition of the Eight Points—a private demonstration of the art's most secret techniques—would honor that passion. And it would remind the White Dawn that the Shadow Paws, too, had gifts to give.
@@ -2497,7 +2273,7 @@ It was not merely an arena. It was a stage—a monument that could be seen from 
 
 
 <div class="dialogue-block">
-<p class="speech-line">"THEN I SHALL IS IT DONE, AFTER THE DUEL ENDS, I SHALL MEET WITH THE ELDERS, AND THE PYRANEI, THIS TOURNAMENT SHALL BE SPONSORED BY THE CROWN!!" <span class="speech-attr">- 'or so they will believe, ill gauge their eyes out... i can already see the royal coffers filling with coin'</span></p>
+<p class="speech-line">"THEN, WHEN IT IS DONE, AFTER THE DUEL ENDS, I SHALL MEET WITH THE ELDERS, AND THE PYRINAE, THIS TOURNAMENT SHALL BE SPONSORED BY THE CROWN!!" <span class="speech-attr">- 'or so they will believe, I'll gouge their eyes out... I can already see the royal coffers filling with coin'</span></p>
 </div>
 
 
@@ -2567,59 +2343,6 @@ And the question on every tongue, in every council chamber, in every crowd of co
 The final duel was coming. And the White Dawn would face his regent in the arena that the Pyrinae had raised from the earth, while the desert watched, and the world held its breath.
 
 
-**Logic**
-
-
-The internal consistency of the tournament holds. The Bright Paws' elimination in the first quarter of the first incense stick is not merely humiliation. It is the logical consequence of their ceremonial training meeting real combat. They were trained in forms, not in the brutal, practical violence of the other families. They fell. That is not cruelty. That is cause and effect.
-
-
-The aura-pairing mechanism in Phase Two is clever and grounded in the world's magic system. Styx feathers as aura conduits were established long before the tournament. The Pyrinae's rune-glass technology was established long before the tournament. Having the two intersect here—the oldest Styx feathers in the Pyrinae's keeping, used to measure the essence of Wengari champions—is not a deus ex machina. It is the payoff of seeds planted earlier.
-
-The imprecision of the measurement, the fact that champions can suppress their aura to manipulate their bracket, is not a flaw. It is the test. A regent must know how to hide strength.
-
-
-The individual duels serve distinct narrative functions. Rask versus Torin is the classic mismatch: overwhelming power against patient redirection, with power losing because it made a single mistake. Thane versus Sera is the mirror match within the same style, master against student, and it ends with Thane's victory but Sera's acknowledgment that she is ready to surpass him. Sylva versus Elyra is the philosophical duel within Flowing Water, tradition against innovation, and it ends with the elder teaching the younger that speed and strength are not the art.
-
-Each duel advances character. Each duel reveals something about the family it represents.
-
-
-The mounted phase tests a different set of skills. A regent must command not merely personal combat but rapport with the animals that are the backbone of Wengari trade, and the capacity to rally a crowd. Sylva's victory here is earned. She has been patient for the entire tournament. She has waited, and watched, and struck at the perfect moment. That is Flowing Water. That is the Motted Paw way.
-
-
-This duel will be the tournament's defining memory, and it will establish Ajani not as an untouchable god but as a mortal who is still growing into his power. That is the right choice. The White Dawn should not be invincible. He should be formidable, and fallible, and learning. Sylva will test him. He will pass the test. And the desert will witness.
-
-
-Ajani has been relying on borrowed authority. His father's lessons, his position, his raw power as a White Dawn have carried him through the Tree's chamber and the council and the delegations. The tournament has revealed his love for combat, but it has not yet revealed his limits. Sylva will reveal them.
-
-
-The no-win trap is the psychological engine of the duel. Ajani cannot lose because the crown is at stake, cannot compel surrender because Sylva is his new regent and must command the respect of the families, cannot take the duel lightly because Sylva is a master of Flowing Water who has proven herself in every phase of the tournament. These constraints will tighten around him as the fight progresses.
-
-The masters in the audience—Zara, Kareth, Thane, even old Hakar—will see the pressure manifest in his technique. He will overcommit. He will leave openings. He will be impatient where Sylva is patient. That impatience is not a flaw in his martial skill. It is the mark of a young warrior who has not yet learned that power alone is not enough.
-
-
-The ji reveal is the fulcrum. When Ajani conjures the halberd, he is abandoning the careful restraint of the Four Pillars and reaching for something he has not yet mastered. The weapon's instability—the dents in the arena walls, the aura depletion, the visible strain—will tell the masters everything they need to know. The White Dawn is a prodigy, but a prodigy who has not yet been tempered. The green blade, channeling the Kyre Tree's cold fire, is a declaration of his potential.
-
-The uncontrolled power is a declaration of his youth.
-
-
-The feint is the resolution. Ajani will win not through the ji's overwhelming force but through the strategic deception of the Four Pillars. He will bait Sylva into the opening she has been waiting for, then switch weapons mid-motion and counter. The masters will see the feint for what it is: a lesson learned from Flowing Water itself, applied against the master who taught it. Sylva will acknowledge the victory with the respect due to a king who is still learning.
-
-And the families will see a young, formidable ruler who needs guidance, who can be shaped, who is not yet a Tyrant. Every family will offer advisors. Every family will want a hand on the tiller. Not to oppose Ajani, but to mold him. To earn his trust and his ear. The White Dawn is not a figurehead to be controlled. He is a force to be cultivated, and the family that cultivates him will shape the future of the Wengari.
-
-
-The green fire is not a gift from the Tree. It is not a mark of the pact. It is Ajani. Aura is the manifestation of the inner force of a being—its essence, its nature, its soul made visible. The Shadow Paws' dark aura reflects their lineage of stealth, patience, and the long shadow of the First Tyrant's shame. The Stripe Paws' orange-gold aura mirrors their fiery, explosive combat style and their identity as the sun-scorched caravan masters of the open desert.
-
-
-The green fire is not a gift from the Tree. It is not a mark of the pact. It is Ajani. Aura is the manifestation of the inner force of a being—its essence, its nature, its soul made visible. The Shadow Paws' dark aura reflects their lineage of stealth, patience, and the long shadow of the First Tyrant's shame. The Stripe Paws' orange-gold aura mirrors their fiery, explosive combat style and their identity as the sun-scorched caravan masters of the open desert.
-
-The Motted Paws' silver aura is the moonlight on still water—patient, adaptable, reflective. Each family's aura is a declaration of who they are.
-
-
-Ajani's green tint, then, is a declaration of who *he* is. Not merely a Bright Paw king, not merely a White Dawn, but a Wengari who spent a formative year training under L'vat in the marshes. The Mycelial Deep is not a distant, indifferent predator like the Kyre Tree. It is a parent. The Threx are its children. The Laments are its avatars. And L'vat, the old root who taught a wandering Bright Paw how to listen to the network, left an imprint on Ajani's very essence.
-
-The green fire is the mark of that year. It is the Deep's influence, woven into Ajani's aura as surely as the Stripe Paws' caravan routes are woven into their golden light.
-
-
 The third strike was the kill shot—a horizontal sweep aimed at her ribs, the blow that should have ended the duel before it began. Sylva did not redirect this one. She caught it. Her silver claws closed around the green blade, and for a single, breathless heartbeat, the two warriors stood frozen in the center of the platform—the young king's saber locked in the old champion's grip, green fire and silver light warring in the space between them.
 
 
@@ -2634,7 +2357,7 @@ Then, slowly, a grin spread across his face. The saber was not enough. Time to t
 
 
 <div class="dialogue-block">
-<p class="speech-line">*OH, ok, she has claws... spear then' - "You're stronger than I expected, like a good regent should be, lets have the sun shine brighter then!" - 'Styx style, first form aim for her shoulder, when she deflects point to the plexus, dead in two moves*</p>
+<p class="speech-line">'OH, ok, she has claws... spear then' - "You're stronger than I expected, like a good regent should be, let's have the sun shine brighter then!" - 'Styx style, first form aim for her shoulder, when she deflects point to the plexus, dead in two moves'</p>
 </div>
 
 
@@ -2663,7 +2386,7 @@ The spear had failed. She had caught both. In her bare claws. And told him to tr
 
 
 <div class="dialogue-block">
-<p class="speech-line">*What on....ok... calm, breathe, shes unarmed, sword then, lets see her try to catch a dual blade'- "You're good, but im better!" - 'Five forms, fourth form, aim for the wrist, twist to the lung, if she catches or deflects curve to the neck, keep it tight, dont allow her openings, this is getting though, my fur is starting to bristle*</p>
+<p class="speech-line">'What on....ok... calm, breathe, she's unarmed, sword then, let's see her try to catch a dual blades'- "You're good, but I'm better!" - 'Five forms, fourth form, aim for the wrist, twist to the lung, if she catches or deflects curve to the neck, keep it tight, don't allow her openings, this is getting though, my fur is starting to bristle'</p>
 </div>
 
 
@@ -2692,7 +2415,7 @@ He was going to have to try something he had never tried before. Something his f
 
 
 <div class="dialogue-block">
-<p class="speech-line">*This is getting annoying!!!, why cant i reach her?!, im faster than her, im sure i am, im stronger than her, how is she still catching me?!' - "Perhaps there is some true to your words, but im still better!!" - 'Faint, open with the sword, change to the staff mid strike, she wont be able to evade with minimal movement, arch the shoulder so you can carry the momentum and angle the hand for support, one good strike all i need is one good strike*</p>
+<p class="speech-line">'This is getting annoying!!!, why can't I reach her?!, I'm faster than her, I'm sure I am, I'm stronger than her, how is she still catching me?!' - "Perhaps there is some true to your words, but I'm still better!!" - 'Feint, open with the sword, change to the staff mid strike, she won't be able to evade with minimal movement, arch the shoulder so you can carry the momentum and angle the hand for support, one good strike all I need is one good strike'</p>
 </div>
 
 
@@ -2718,7 +2441,7 @@ He was going to have to admit that he was not better than her. And then he was g
 
 
 <div class="dialogue-block">
-<p class="speech-line">*OK THIS ENDS NOW, SHE NEEDS TO GO DOWN, NOW' - "oh... you're going down now, youre good, i admit it, you might even be better than me, but i am still the heir of the light, WITNESS MY MIGHT!!" - 'this will take a toll, but she needs to go down, i cant loose the crown!!! i havent even made the road yet!!, ill be the laughing stock of the families for millenia, the only king who lost in duel!!*</p>
+<p class="speech-line">'OK THIS ENDS NOW, SHE NEEDS TO GO DOWN, NOW' - "oh... you're going down now, you're good, I admit it, you might even be better than me, but I am still the heir of the Light, WITNESS MY MIGHT!!" - 'this will take a toll, but she needs to go down, I can't lose the crown!!! I haven't even made the road yet!!, I'll be the laughing stock of the families for millennia, the only king who lost in duel!!'</p>
 </div>
 
 
@@ -2767,9 +2490,6 @@ The ji dissolved. In the same fluid motion, the saber blazed back to life—not 
 Sylva looked down at the saber against her wrist. Then she looked up at the young king, whose chest was heaving, whose golden mane was plastered to his skull with sweat, whose green fire had dimmed to a faint, flickering glow. And she smiled—a small, private expression, meant only for him.
 
 
-<div class="dialogue-block">
-<span class="speech">"The feint,"</span> she said quietly, her soft voice carrying across the silent platform. <span class="speech">"You learned something after all."</span> She withdrew her claw and stepped back. <span class="speech">"I yield. The crown is yours. The regency is mine. And the desert has witnessed."</span>
-</div>
 
 
 The ji guttered and died in Ajani's exhausted paws, its emerald blade flickering out like a candle in a sandstorm. His chest heaved. His golden mane was plastered to his skull with sweat. The green fire along his claws had dimmed to a faint, sputtering glow, and every muscle in his body screamed with the effort of the duel. He had thrown everything at Sylva—the saber, the spear, the sword, the staff, the ji—and none of it had worked.
@@ -2839,7 +2559,7 @@ She raised one silver-furred paw, and her aura flared—not the gentle, patient 
 
 
 <div class="dialogue-block">
-<p class="speech-line">*what?' - "I DECLINE, BASED ON THE FACT THAT I WAS ALREADY PLANNING TO LEAVE A COUNCIL I EVEN SAID AFTER THIS I WOULD MEET ALL ELDERS TO PLAN FOR THE YEARLY TOURNAMENT, WHAT IS THAT IF NOT A COUNCIL RIGHT BROTHERS?, ASK SOMETHING ELSE"- 'Infurating woman, not only does she try to beat me in the fight now also at statecraft...*</p>
+<p class="speech-line">'what?' - "I DECLINE, BASED ON THE FACT THAT I WAS ALREADY PLANNING TO LEAVE A COUNCIL I EVEN SAID AFTER THIS I WOULD MEET ALL ELDERS TO PLAN FOR THE YEARLY TOURNAMENT, WHAT IS THAT IF NOT A COUNCIL RIGHT BROTHERS?, ASK SOMETHING ELSE"- 'Infuriating woman, not only does she try to beat me in the fight now also at statecraft...'</p>
 </div>
 
 
@@ -2857,7 +2577,7 @@ Sylva's silver eyes held his for a long, quiet moment. The crowd was silent, wai
 
 
 <div class="dialogue-block">
-<p class="speech-line">'im this close to skewering her..' , "OF COURSE, IN FACT, I SHALL MAKE THIS A ROYAL PROCLAMATION, ANY FAMILY IS INVITED TO OPEN SCHOOLS FOR THEIR ART IN THE CAPITAL, HOWEVER I WARN YOU ALL, THE CAPITAL IS LIKE THE SUN UNFORGIVING, ONLY THE STRONGEST WILL BE ABLE TO LIVE HERE, LET ALONE TRAIN IN THE SCHOOLS, AND OF COURSE, EACH MASTER WILL DECIDE WHO THEY TEACH, WHAT DO YOU SAY BROTHERS?!"</p>
+<p class="speech-line">'I'm this close to skewering her..' , "OF COURSE, IN FACT, I SHALL MAKE THIS A ROYAL PROCLAMATION, ANY FAMILY IS INVITED TO OPEN SCHOOLS FOR THEIR ART IN THE CAPITAL, HOWEVER I WARN YOU ALL, THE CAPITAL IS LIKE THE SUN UNFORGIVING, ONLY THE STRONGEST WILL BE ABLE TO LIVE HERE, LET ALONE TRAIN IN THE SCHOOLS, AND OF COURSE, EACH MASTER WILL DECIDE WHO THEY TEACH, WHAT DO YOU SAY BROTHERS?!"</p>
 </div>
 
 

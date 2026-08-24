@@ -1,19 +1,5 @@
 ## Chapter 4: The Tyrant Cycle
 
-And the king sat on his father's throne, the green fire flickering gently along his claws, his eyes fixed on the broken warriors of his own blood. The apology hung in the air—not an excuse, not a justification, but an acknowledgment. The Bright Paws had shamed themselves. The king had seen it. The desert had witnessed it. And now the desert would see what the White Dawn did to those who failed him.
-
-
-<div class="dialogue-block">
-<p class="speech-line">"WHO TRAINED THIS CHAMPIONS ? STEP FORWARD!"</p>
-</div>
-
-
-The Bright Paw section stirred like a wounded beast. The elders who had confronted Ajani that morning—Solen the High Priest, Vasha the stern advisor, the young priest who had railed against the king the night before—sat frozen in their seats. But the question was not directed at them. It was directed at the trainers. The warriors who had shaped the Bright Paw champions. The masters of the ceremonial forms.
-
-
-Three figures rose from the lower tiers of the Bright Paw section. They were old, their golden manes streaked with grey, their bodies still bearing the scars of battles fought decades ago. They had been champions once, in tournaments long past, when the Bright Paws still produced warriors worthy of the name. Now they were trainers, passing on the forms they had learned to a new generation that had never been tested in real combat.
-
-
 <div class="dialogue-block">
 The eldest of them, a grizzled veteran named Voren, stepped forward and bowed low before the throne. His voice was steady, but his paws trembled. <span class="speech">"I trained them, my king. I taught them the old forms. The ceremonial combat of the royal court. They were the best of their generation. They—"</span> He faltered. <span class="speech">"They were not ready for this."</span>
 </div>
@@ -148,7 +134,7 @@ And the king looked down at his champions—the best the Wengari had to offer—
 
 
 <div class="dialogue-block">
-<p class="speech-line">"TO MAKE IT FAIR, WE WILL DECIDE PAIRINGS BASED ON AURA, IN THE DESERT THE STYX IS THE OVERLORD, NOTHING CAN BEAT THE DEATH FROM ABOVE, BUT IN THE BELT... ITS THE TIDE WOLVES THAT RULE, WE THE WENGARI LIVE NOT ONLY ON THE DESER BUT IN THE RUNE BELT AS WELL, ILL DEMONSTRATE, FRIENDS PYRANEI, MAY I BORROW ONE OF YOUR STYX STAFFS? THE ONE WITH THE LARGEST AND OLDEST STYX FEATHERS"</p>
+<p class="speech-line">"TO MAKE IT FAIR, WE WILL DECIDE PAIRINGS BASED ON AURA, IN THE DESERT THE STYX IS THE OVERLORD, NOTHING CAN BEAT THE DEATH FROM ABOVE, BUT IN THE BELT... ITS THE TIDE WOLVES THAT RULE, WE THE WENGARI LIVE NOT ONLY ON THE DESERT BUT IN THE RUNE BELT AS WELL, I'LL DEMONSTRATE, FRIENDS PYRINAE, MAY I BORROW ONE OF YOUR STYX STAFFS? THE ONE WITH THE LARGEST AND OLDEST STYX FEATHERS"</p>
 </div>
 
 
@@ -181,9 +167,6 @@ Ajani descended from the throne. He walked across the blood-spattered sand, his 
 <div class="dialogue-block">
 <p class="speech-line">He drove the base of the staff into the sand. The ancient feathers shimmered, their iridescent glow intensifying until the entire arena was bathed in a soft, silver light. "Let the second phase begin."</p>
 </div>
-
-
-Let's follow the arena as the Styx feathers measure the champions. The Pyrinae will handle the ceremony—neutral, precise, and practiced in the handling of aura-sensitive materials. The six champions will be paired by what the ancient feathers reveal, and the crowd will see who matches whom.
 
 
 The Pyrinae moved with the quiet efficiency of a people who had spent three thousand years handling the most volatile substances in the desert. Nefere directed two Vein-Dwellers to the base of the staff, their rune-glass instruments humming as they calibrated the ancient feathers. Mira, the Sun-Walker envoy, stood beside the staff with a parchment and a stylus, ready to record the pairings.
@@ -512,27 +495,7 @@ The king was about to arbit the finals. And the desert would witness.
 
 
 <div class="dialogue-block">
-<p class="speech-line">'oh goody... war mounts!!!, i havent seen one since i was a child, look at them!!, would anyone care if i touched one?!,.. wait, regal!, dont look too much, regal!' - "AHEM... WE WILL START WHEN THE INCENSE BURNS.... NOW!"</p>
-</div>
-
-
-The incense flared to life, and the arena held its breath. Ajani stood at the edge of the newly constructed fence, his white cloak already dusty from the walk across the sand, his golden mane catching the afternoon sun. The three war-mounts snorted and stamped in their harnesses, their black scales gleaming, their red feet leaving faint scorch marks on the stone. They were magnificent. They were terrifying.
-
-And the king was staring at them with the barely restrained excitement of a cub seeing his first Styx.
-
-
-He reached out, hesitated, then placed one claw gently on the nearest fire foot's flank. The great beast rumbled—a low, throaty sound that might have been acknowledgment or warning—and did not pull away. Ajani's ears pricked forward. His tail gave a single, involuntary twitch of delight. Then he remembered where he was, and who was watching, and he straightened his white cloak and cleared his throat with as much regal authority as he could muster.
-
-
-The champions mounted. Thane swung onto the first fire foot with the fluid grace of an assassin who had been trained in every form of combat. His injured shoulder protested, but his dark eyes were steady. He had won his duel against Sera with the Eight Points. He would win this phase with whatever tools the arena provided. Rask climbed onto the second war-mount, her massive frame settling into the saddle with the ease of a Stripe Paw who had been riding fire feet since she was old enough to walk.
-
-Her golden aura still flickered with exhaustion, but her grin was wide and fierce. She had lost to Torin in the second phase, but she had survived. And in the final phase, survival was its own victory. Sylva mounted the third fire foot last. The Motted Paw champion moved with the same silent, fluid grace she had shown in every phase of the tournament. Her silver aura flickered faintly, and her ancient eyes took in the fence, the champions, the king standing in the dust below them.
-
-She inclined her elegant head toward Ajani—not a bow, but an acknowledgment. The king had come to stand among his warriors. The Motted Paw would honor that.
-
-
-<div class="dialogue-block">
-<p class="speech-line">Ajani raised one paw, the green fire flaring along his claws, and the crowd fell silent. "The rules are these: no mortal wounds—this is a tournament, not a funeral. The fight ends when one champion is thrown from their mount or yields. The last rider in the saddle advances to face me at twilight. The incense burns. The desert watches. Begin!" He dropped his paw, and the arena erupted.</p>
+<p class="speech-line">'oh goody... war mounts!!!, I haven't seen one since I was a child, look at them!!, would anyone care if I touched one?!,.. wait, regal!, don't look too much, regal!' - "AHEM... WE WILL START WHEN THE INCENSE BURNS.... NOW!"</p>
 </div>
 
 
@@ -596,16 +559,3 @@ Zara, standing at the opposite fence rail, exchanged a glance with Kareth. The S
 
 
 He was gesturing now, his claws tracing tactical diagrams in the air. The green fire flickered along his knuckles, forgotten. The white cloak trailed in the dust. The king of the Wengari, the White Dawn, the heir of the Lightbringer, was calling out combat analysis like a caravan master at a way-station brawl, and every Wengari in the arena was watching him with expressions ranging from bewilderment to barely suppressed laughter.
-
-He noticed none of it. The fire feet thundered past again, and Ajani Brightmane, first of his name, son of Uthgard IX, keeper of the pact, leaned over the fence rail and shouted with the pure, unguarded joy of someone who had forgotten he was supposed to be regal.
-
-
-<div class="dialogue-block">
-<p class="speech-line">"YES! That's it, Torin! Cut him off! Now Sylva comes from the blind side—she's been waiting the whole match for this opening, she's been patient for five thousand years and she's not going to waste it now—GO! GO! GO!"</p>
-</div>
-
-
-The final pass was a blur of black scales and silver light. Sylva and Torin moved in perfect synchronization—two practitioners of Flowing Water riding as if they shared a single mind. Their fire feet wheeled and pivoted, herding Thane's mount toward the corner of the enclosure, cutting off every escape. The Shadow Paw champion fought with the cold precision of the Eight Points, his injured shoulder screaming, his dark eyes calculating. He knew what they were doing. He could not stop it.
-
-
-Ajani's claws were gripping the fence rail so hard the stone creaked. His tail lashed back and forth behind him, a rhythm of pure, undisguised excitement. His muscles twitched—his shoulders leaning left as Sylva leaned left, his hips shifting right as Torin cut right. He was not merely watching the fight. He was riding it. Every fiber of his body wanted to be in that enclosure, on a war-mount, claws extended, green fire blazing.

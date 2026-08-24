@@ -11,24 +11,18 @@ chapter-arc3-02.md
 ==============================================================================
 chapter-arc3-03.md
   DQ: balanced across whole file
-  SQ-ODD(1) L68: The Humman delegation, after a frantic, whispered conference, sent forth a single champion—a Stripe Paw mercenary hired at great expense, her striped 
-  SQ-ODD(1) L132: It started with a low hum—a vibration that rose from the Vein-Dwellers' staffs and spread through the stone of the arena floor. The sand rippled. The 
-  SQ-ODD(1) L257: A long, uncomfortable silence stretched across the arena. The Stripe Paws shifted in their seats. The Shadow Paws watched with unreadable expressions.
-  AST-ODD L310 (state now OPEN): The Veylar Shell-Singer had risen from her seat. Her Petal-Shell pulsed with a steady, rhythmic light, and her luminous eyes were fixed on the basin w
-  AST-OPEN-ACROSS-BLANK: opened L310 still open at blank L311
-  AST-ODD L312 (state now closed): The tournament will be a battle. The desert will drink deep today.*
+  SQ-ODD(1) L128: The Humman delegation, after a frantic, whispered conference, sent forth a single champion—a Stripe Paw mercenary hired at great expense, her striped 
+  SQ-ODD(1) L192: It started with a low hum—a vibration that rose from the Vein-Dwellers' staffs and spread through the stone of the arena floor. The sand rippled. The 
+  SQ-ODD(1) L317: A long, uncomfortable silence stretched across the arena. The Stripe Paws shifted in their seats. The Shadow Paws watched with unreadable expressions.
   AST: balanced across whole file
 ==============================================================================
 chapter-arc3-04.md
   DQ: balanced across whole file
-  SQ-ODD(1) L456: The beams slid into place between them, locked by sorcery, smoothed by centuries of craftsmanship. The structure rose in silence, broken only by the s
+  SQ-ODD(1) L439: The beams slid into place between them, locked by sorcery, smoothed by centuries of craftsmanship. The structure rose in silence, broken only by the s
   AST: balanced across whole file
 ==============================================================================
 chapter-arc3-05.md
   DQ: balanced across whole file
-  SQ-ODD(1) L18: Her golden eyes narrowed, then softened. She had seen many things in her decades as Stripe Paw chief. She had never seen a Bright Paw king lean over a
-  SQ-ODD(1) L203: The internal consistency of the tournament holds. The Bright Paws' elimination in the first quarter of the first incense stick is not merely humiliati
-  SQ-ODD(1) L245: The Motted Paws' silver aura is the moonlight on still water—patient, adaptable, reflective. Each family's aura is a declaration of who they are.
-  SQ-ODD(1) L250: The green fire is the mark of that year. It is the Deep's influence, woven into Ajani's aura as surely as the Stripe Paws' caravan routes are woven in
-  SQ-ODD(1) L355: The ji blazed to life in Ajani's paws—a weapon none of the gathered Wengari had ever seen. Its shaft was long, nearly the height of the king himself, 
+  SQ-ODD(1) L32: Her golden eyes narrowed, then softened. She had seen many things in her decades as Stripe Paw chief. She had never seen a Bright Paw king lean over a
+  SQ-ODD(1) L313: The ji blazed to life in Ajani's paws—a weapon none of the gathered Wengari had ever seen. Its shaft was long, nearly the height of the king himself, 
   AST: balanced across whole file

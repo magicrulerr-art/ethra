@@ -1,5 +1,19 @@
 ## Chapter 5: The Hour Before
 
+He noticed none of it. The fire feet thundered past again, and Ajani Brightmane, first of his name, son of Uthgard IX, keeper of the pact, leaned over the fence rail and shouted with the pure, unguarded joy of someone who had forgotten he was supposed to be regal.
+
+
+<div class="dialogue-block">
+<p class="speech-line">"YES! That's it, Torin! Cut him off! Now Sylva comes from the blind side—she's been waiting the whole match for this opening, she's been patient for five thousand years and she's not going to waste it now—GO! GO! GO!"</p>
+</div>
+
+
+The final pass was a blur of black scales and silver light. Sylva and Torin moved in perfect synchronization—two practitioners of Flowing Water riding as if they shared a single mind. Their fire feet wheeled and pivoted, herding Thane's mount toward the corner of the enclosure, cutting off every escape. The Shadow Paw champion fought with the cold precision of the Eight Points, his injured shoulder screaming, his dark eyes calculating. He knew what they were doing. He could not stop it.
+
+
+Ajani's claws were gripping the fence rail so hard the stone creaked. His tail lashed back and forth behind him, a rhythm of pure, undisguised excitement. His muscles twitched—his shoulders leaning left as Sylva leaned left, his hips shifting right as Torin cut right. He was not merely watching the fight. He was riding it. Every fiber of his body wanted to be in that enclosure, on a war-mount, claws extended, green fire blazing.
+
+
 <div class="dialogue-block">
 <p class="speech-line">Torin's fire foot shouldered Thane's mount, and the Shadow Paw's injured arm buckled. He tried to compensate with his knees, tried to redirect with the reins, but Sylva was already there—her silver claws extended, not to strike, but to guide. She caught Thane's reins and pulled his mount to a halt. Her soft voice carried across the enclosure. "Yield. You have fought well. There is no dishonor."</p>
 </div>
@@ -67,7 +81,7 @@ The elders had noticed. And the gifts that would follow this tournament would be
 
 
 <div class="dialogue-block">
-<p class="speech-line">'styx in heaven i blew it!!... I behaved no better than a cub, but they were so good!!, i should make this a yearly, thing, definetly.. a yearly thing, now grab her paw, and rise' - "WENGARI I GIVE YOU YOUR REGENT, SYLVA OF THE MOTTED PAWS!!! ROAR FOR YOUR CHAMPION!!!"</p>
+<p class="speech-line">'Styx in heaven I blew it!!... I behaved no better than a cub, but they were so good!!, I should make this a yearly, thing, definitely.. a yearly thing, now grab her paw, and rise' - "WENGARI I GIVE YOU YOUR REGENT, SYLVA OF THE MOTTED PAWS!!! ROAR FOR YOUR CHAMPION!!!"</p>
 </div>
 
 
@@ -77,9 +91,6 @@ Ajani grabbed Sylva's paw and raised it high above her head, the silver-furred M
 <div class="dialogue-block">
 Sylva inclined her head toward the king, her soft voice barely audible beneath the din. <span class="speech">"You did not behave as a king. You behaved as a Wengari. There is a difference."</span> She withdrew her paw with the same quiet grace she had shown in every phase of the tournament. <span class="speech">"The Motted Paws have waited a long time for a king who remembered that difference."</span>
 </div>
-
-
-Zara watched the exchange from the fence rail, her golden eyes still bright with the revelation she had witnessed. The king was a fan of the fire feet. The king had shouted himself hoarse for mounted combat. The pale fire foot, Ember—the one Korr had been keeping since the king's wandering years—would be the perfect gift. Not tribute. Not politics. A gift from one rider to another.
 
 
 Kareth leaned on his obsidian staff, his scarred face unreadable. The Shadow Paws had witnessed the king's unguarded passion for combat. An exhibition of the Eight Points—a private demonstration of the art's most secret techniques—would honor that passion. And it would remind the White Dawn that the Shadow Paws, too, had gifts to give.
@@ -127,7 +138,7 @@ It was not merely an arena. It was a stage—a monument that could be seen from 
 
 
 <div class="dialogue-block">
-<p class="speech-line">"THEN I SHALL IS IT DONE, AFTER THE DUEL ENDS, I SHALL MEET WITH THE ELDERS, AND THE PYRANEI, THIS TOURNAMENT SHALL BE SPONSORED BY THE CROWN!!" <span class="speech-attr">- 'or so they will believe, ill gauge their eyes out... i can already see the royal coffers filling with coin'</span></p>
+<p class="speech-line">"THEN, WHEN IT IS DONE, AFTER THE DUEL ENDS, I SHALL MEET WITH THE ELDERS, AND THE PYRINAE, THIS TOURNAMENT SHALL BE SPONSORED BY THE CROWN!!" <span class="speech-attr">- 'or so they will believe, I'll gouge their eyes out... I can already see the royal coffers filling with coin'</span></p>
 </div>
 
 
@@ -197,59 +208,6 @@ And the question on every tongue, in every council chamber, in every crowd of co
 The final duel was coming. And the White Dawn would face his regent in the arena that the Pyrinae had raised from the earth, while the desert watched, and the world held its breath.
 
 
-**Logic**
-
-
-The internal consistency of the tournament holds. The Bright Paws' elimination in the first quarter of the first incense stick is not merely humiliation. It is the logical consequence of their ceremonial training meeting real combat. They were trained in forms, not in the brutal, practical violence of the other families. They fell. That is not cruelty. That is cause and effect.
-
-
-The aura-pairing mechanism in Phase Two is clever and grounded in the world's magic system. Styx feathers as aura conduits were established long before the tournament. The Pyrinae's rune-glass technology was established long before the tournament. Having the two intersect here—the oldest Styx feathers in the Pyrinae's keeping, used to measure the essence of Wengari champions—is not a deus ex machina. It is the payoff of seeds planted earlier.
-
-The imprecision of the measurement, the fact that champions can suppress their aura to manipulate their bracket, is not a flaw. It is the test. A regent must know how to hide strength.
-
-
-The individual duels serve distinct narrative functions. Rask versus Torin is the classic mismatch: overwhelming power against patient redirection, with power losing because it made a single mistake. Thane versus Sera is the mirror match within the same style, master against student, and it ends with Thane's victory but Sera's acknowledgment that she is ready to surpass him. Sylva versus Elyra is the philosophical duel within Flowing Water, tradition against innovation, and it ends with the elder teaching the younger that speed and strength are not the art.
-
-Each duel advances character. Each duel reveals something about the family it represents.
-
-
-The mounted phase tests a different set of skills. A regent must command not merely personal combat but rapport with the animals that are the backbone of Wengari trade, and the capacity to rally a crowd. Sylva's victory here is earned. She has been patient for the entire tournament. She has waited, and watched, and struck at the perfect moment. That is Flowing Water. That is the Motted Paw way.
-
-
-This duel will be the tournament's defining memory, and it will establish Ajani not as an untouchable god but as a mortal who is still growing into his power. That is the right choice. The White Dawn should not be invincible. He should be formidable, and fallible, and learning. Sylva will test him. He will pass the test. And the desert will witness.
-
-
-Ajani has been relying on borrowed authority. His father's lessons, his position, his raw power as a White Dawn have carried him through the Tree's chamber and the council and the delegations. The tournament has revealed his love for combat, but it has not yet revealed his limits. Sylva will reveal them.
-
-
-The no-win trap is the psychological engine of the duel. Ajani cannot lose because the crown is at stake, cannot compel surrender because Sylva is his new regent and must command the respect of the families, cannot take the duel lightly because Sylva is a master of Flowing Water who has proven herself in every phase of the tournament. These constraints will tighten around him as the fight progresses.
-
-The masters in the audience—Zara, Kareth, Thane, even old Hakar—will see the pressure manifest in his technique. He will overcommit. He will leave openings. He will be impatient where Sylva is patient. That impatience is not a flaw in his martial skill. It is the mark of a young warrior who has not yet learned that power alone is not enough.
-
-
-The ji reveal is the fulcrum. When Ajani conjures the halberd, he is abandoning the careful restraint of the Four Pillars and reaching for something he has not yet mastered. The weapon's instability—the dents in the arena walls, the aura depletion, the visible strain—will tell the masters everything they need to know. The White Dawn is a prodigy, but a prodigy who has not yet been tempered. The green blade, channeling the Kyre Tree's cold fire, is a declaration of his potential.
-
-The uncontrolled power is a declaration of his youth.
-
-
-The feint is the resolution. Ajani will win not through the ji's overwhelming force but through the strategic deception of the Four Pillars. He will bait Sylva into the opening she has been waiting for, then switch weapons mid-motion and counter. The masters will see the feint for what it is: a lesson learned from Flowing Water itself, applied against the master who taught it. Sylva will acknowledge the victory with the respect due to a king who is still learning.
-
-And the families will see a young, formidable ruler who needs guidance, who can be shaped, who is not yet a Tyrant. Every family will offer advisors. Every family will want a hand on the tiller. Not to oppose Ajani, but to mold him. To earn his trust and his ear. The White Dawn is not a figurehead to be controlled. He is a force to be cultivated, and the family that cultivates him will shape the future of the Wengari.
-
-
-The green fire is not a gift from the Tree. It is not a mark of the pact. It is Ajani. Aura is the manifestation of the inner force of a being—its essence, its nature, its soul made visible. The Shadow Paws' dark aura reflects their lineage of stealth, patience, and the long shadow of the First Tyrant's shame. The Stripe Paws' orange-gold aura mirrors their fiery, explosive combat style and their identity as the sun-scorched caravan masters of the open desert.
-
-
-The green fire is not a gift from the Tree. It is not a mark of the pact. It is Ajani. Aura is the manifestation of the inner force of a being—its essence, its nature, its soul made visible. The Shadow Paws' dark aura reflects their lineage of stealth, patience, and the long shadow of the First Tyrant's shame. The Stripe Paws' orange-gold aura mirrors their fiery, explosive combat style and their identity as the sun-scorched caravan masters of the open desert.
-
-The Motted Paws' silver aura is the moonlight on still water—patient, adaptable, reflective. Each family's aura is a declaration of who they are.
-
-
-Ajani's green tint, then, is a declaration of who *he* is. Not merely a Bright Paw king, not merely a White Dawn, but a Wengari who spent a formative year training under L'vat in the marshes. The Mycelial Deep is not a distant, indifferent predator like the Kyre Tree. It is a parent. The Threx are its children. The Laments are its avatars. And L'vat, the old root who taught a wandering Bright Paw how to listen to the network, left an imprint on Ajani's very essence.
-
-The green fire is the mark of that year. It is the Deep's influence, woven into Ajani's aura as surely as the Stripe Paws' caravan routes are woven into their golden light.
-
-
 The third strike was the kill shot—a horizontal sweep aimed at her ribs, the blow that should have ended the duel before it began. Sylva did not redirect this one. She caught it. Her silver claws closed around the green blade, and for a single, breathless heartbeat, the two warriors stood frozen in the center of the platform—the young king's saber locked in the old champion's grip, green fire and silver light warring in the space between them.
 
 
@@ -264,7 +222,7 @@ Then, slowly, a grin spread across his face. The saber was not enough. Time to t
 
 
 <div class="dialogue-block">
-<p class="speech-line">*OH, ok, she has claws... spear then' - "You're stronger than I expected, like a good regent should be, lets have the sun shine brighter then!" - 'Styx style, first form aim for her shoulder, when she deflects point to the plexus, dead in two moves*</p>
+<p class="speech-line">'OH, ok, she has claws... spear then' - "You're stronger than I expected, like a good regent should be, let's have the sun shine brighter then!" - 'Styx style, first form aim for her shoulder, when she deflects point to the plexus, dead in two moves'</p>
 </div>
 
 
@@ -293,7 +251,7 @@ The spear had failed. She had caught both. In her bare claws. And told him to tr
 
 
 <div class="dialogue-block">
-<p class="speech-line">*What on....ok... calm, breathe, shes unarmed, sword then, lets see her try to catch a dual blade'- "You're good, but im better!" - 'Five forms, fourth form, aim for the wrist, twist to the lung, if she catches or deflects curve to the neck, keep it tight, dont allow her openings, this is getting though, my fur is starting to bristle*</p>
+<p class="speech-line">'What on....ok... calm, breathe, she's unarmed, sword then, let's see her try to catch a dual blades'- "You're good, but I'm better!" - 'Five forms, fourth form, aim for the wrist, twist to the lung, if she catches or deflects curve to the neck, keep it tight, don't allow her openings, this is getting though, my fur is starting to bristle'</p>
 </div>
 
 
@@ -322,7 +280,7 @@ He was going to have to try something he had never tried before. Something his f
 
 
 <div class="dialogue-block">
-<p class="speech-line">*This is getting annoying!!!, why cant i reach her?!, im faster than her, im sure i am, im stronger than her, how is she still catching me?!' - "Perhaps there is some true to your words, but im still better!!" - 'Faint, open with the sword, change to the staff mid strike, she wont be able to evade with minimal movement, arch the shoulder so you can carry the momentum and angle the hand for support, one good strike all i need is one good strike*</p>
+<p class="speech-line">'This is getting annoying!!!, why can't I reach her?!, I'm faster than her, I'm sure I am, I'm stronger than her, how is she still catching me?!' - "Perhaps there is some true to your words, but I'm still better!!" - 'Feint, open with the sword, change to the staff mid strike, she won't be able to evade with minimal movement, arch the shoulder so you can carry the momentum and angle the hand for support, one good strike all I need is one good strike'</p>
 </div>
 
 
@@ -348,7 +306,7 @@ He was going to have to admit that he was not better than her. And then he was g
 
 
 <div class="dialogue-block">
-<p class="speech-line">*OK THIS ENDS NOW, SHE NEEDS TO GO DOWN, NOW' - "oh... you're going down now, youre good, i admit it, you might even be better than me, but i am still the heir of the light, WITNESS MY MIGHT!!" - 'this will take a toll, but she needs to go down, i cant loose the crown!!! i havent even made the road yet!!, ill be the laughing stock of the families for millenia, the only king who lost in duel!!*</p>
+<p class="speech-line">'OK THIS ENDS NOW, SHE NEEDS TO GO DOWN, NOW' - "oh... you're going down now, you're good, I admit it, you might even be better than me, but I am still the heir of the Light, WITNESS MY MIGHT!!" - 'this will take a toll, but she needs to go down, I can't lose the crown!!! I haven't even made the road yet!!, I'll be the laughing stock of the families for millennia, the only king who lost in duel!!'</p>
 </div>
 
 
@@ -397,9 +355,6 @@ The ji dissolved. In the same fluid motion, the saber blazed back to life—not 
 Sylva looked down at the saber against her wrist. Then she looked up at the young king, whose chest was heaving, whose golden mane was plastered to his skull with sweat, whose green fire had dimmed to a faint, flickering glow. And she smiled—a small, private expression, meant only for him.
 
 
-<div class="dialogue-block">
-<span class="speech">"The feint,"</span> she said quietly, her soft voice carrying across the silent platform. <span class="speech">"You learned something after all."</span> She withdrew her claw and stepped back. <span class="speech">"I yield. The crown is yours. The regency is mine. And the desert has witnessed."</span>
-</div>
 
 
 The ji guttered and died in Ajani's exhausted paws, its emerald blade flickering out like a candle in a sandstorm. His chest heaved. His golden mane was plastered to his skull with sweat. The green fire along his claws had dimmed to a faint, sputtering glow, and every muscle in his body screamed with the effort of the duel. He had thrown everything at Sylva—the saber, the spear, the sword, the staff, the ji—and none of it had worked.
@@ -469,7 +424,7 @@ She raised one silver-furred paw, and her aura flared—not the gentle, patient 
 
 
 <div class="dialogue-block">
-<p class="speech-line">*what?' - "I DECLINE, BASED ON THE FACT THAT I WAS ALREADY PLANNING TO LEAVE A COUNCIL I EVEN SAID AFTER THIS I WOULD MEET ALL ELDERS TO PLAN FOR THE YEARLY TOURNAMENT, WHAT IS THAT IF NOT A COUNCIL RIGHT BROTHERS?, ASK SOMETHING ELSE"- 'Infurating woman, not only does she try to beat me in the fight now also at statecraft...*</p>
+<p class="speech-line">'what?' - "I DECLINE, BASED ON THE FACT THAT I WAS ALREADY PLANNING TO LEAVE A COUNCIL I EVEN SAID AFTER THIS I WOULD MEET ALL ELDERS TO PLAN FOR THE YEARLY TOURNAMENT, WHAT IS THAT IF NOT A COUNCIL RIGHT BROTHERS?, ASK SOMETHING ELSE"- 'Infuriating woman, not only does she try to beat me in the fight now also at statecraft...'</p>
 </div>
 
 
@@ -487,7 +442,7 @@ Sylva's silver eyes held his for a long, quiet moment. The crowd was silent, wai
 
 
 <div class="dialogue-block">
-<p class="speech-line">'im this close to skewering her..' , "OF COURSE, IN FACT, I SHALL MAKE THIS A ROYAL PROCLAMATION, ANY FAMILY IS INVITED TO OPEN SCHOOLS FOR THEIR ART IN THE CAPITAL, HOWEVER I WARN YOU ALL, THE CAPITAL IS LIKE THE SUN UNFORGIVING, ONLY THE STRONGEST WILL BE ABLE TO LIVE HERE, LET ALONE TRAIN IN THE SCHOOLS, AND OF COURSE, EACH MASTER WILL DECIDE WHO THEY TEACH, WHAT DO YOU SAY BROTHERS?!"</p>
+<p class="speech-line">'I'm this close to skewering her..' , "OF COURSE, IN FACT, I SHALL MAKE THIS A ROYAL PROCLAMATION, ANY FAMILY IS INVITED TO OPEN SCHOOLS FOR THEIR ART IN THE CAPITAL, HOWEVER I WARN YOU ALL, THE CAPITAL IS LIKE THE SUN UNFORGIVING, ONLY THE STRONGEST WILL BE ABLE TO LIVE HERE, LET ALONE TRAIN IN THE SCHOOLS, AND OF COURSE, EACH MASTER WILL DECIDE WHO THEY TEACH, WHAT DO YOU SAY BROTHERS?!"</p>
 </div>
 
 

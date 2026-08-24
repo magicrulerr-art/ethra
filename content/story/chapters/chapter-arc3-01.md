@@ -42,7 +42,7 @@ Seris raised her eyes. Her face was pale, her jaw set, but her voice did not tre
 
 
 <div class="dialogue-block">
-<p class="speech-line">"wonderful!, welcome to the wengari brothers! As a gesture of good will you have one month to move your best to our capital, our friends the Pyrinae will help you get settled in!!"</p>
+<p class="speech-line">"wonderful!, welcome to the Wengari brothers! As a gesture of good will you have one month to move your best to our capital, our friends the Pyrinae will help you get settled in!!"</p>
 </div>
 
 
@@ -75,7 +75,7 @@ Somewhere in the capital, the Stripe Paw merchants were already counting their l
 
 
 <div class="dialogue-block">
-<p class="speech-line">"t'vat call for the elder council of the striped paws, now please "</p>
+<p class="speech-line">"T'vat call for the elder council of the Stripe Paws, now please "</p>
 </div>
 
 
@@ -113,7 +113,7 @@ The Stripe Paw elders filed out of the Hall of the Caravan Masters and into the 
 
 
 <div class="dialogue-block">
-<p class="speech-line">'therye here, good...why do they seem mad?' - "Brothers!, please come in we have much to discuss!"</p>
+<p class="speech-line">'they're here, good...why do they seem mad?' - "Brothers!, please come in we have much to discuss!"</p>
 </div>
 
 
@@ -137,7 +137,7 @@ Zara did not sit. She did not return the greeting. She walked into the center of
 
 
 <div class="dialogue-block">
-<p class="speech-line">'oh .. so it's that ', "I see, tell me Zara, who rules the wengari?"</p>
+<p class="speech-line">'oh .. so it's that ', "I see, tell me Zara, who rules the Wengari?"</p>
 </div>
 
 
@@ -155,7 +155,7 @@ The old caravan master, Torek, stepped forward and placed a weathered paw on Zar
 
 
 <div class="dialogue-block">
-<p class="speech-line">'so it's pride', "I see you believe me to be a fool, have you perchance heard news about the hummans as well or were your ears only attuned to the sound of coin?"</p>
+<p class="speech-line">'so it's pride', "I see you believe me to be a fool, have you perchance heard news about the Hummans as well or were your ears only attuned to the sound of coin?"</p>
 </div>
 
 
@@ -173,7 +173,7 @@ Zara stiffened. The other Stripe Paws behind her—old Torek, sharp-eyed Veena, 
 
 
 <div class="dialogue-block">
-<p class="speech-line">"the best of the humans here means...what Zara ? Tell me what do the humans do best ?"</p>
+<p class="speech-line">"the best of the Hummans here means...what Zara ? Tell me what do the Hummans do best ?"</p>
 </div>
 
 
@@ -191,7 +191,7 @@ Old Torek let out a long, slow breath. <span class="speech">"That's why you didn
 
 
 <div class="dialogue-block">
-<p class="speech-line">"yes and no, sit because this is the first and last time I will explain myself and I will only do so because I regard you as brothers, the humans will send their best here, that means their capital Verdantis will have their second best, for a while their trade will dwindle but also, they will betray us it's in their nature, and tell me, who is better suited to .... Enforce the covenant within our families?"</p>
+<p class="speech-line">"yes and no, sit because this is the first and last time I will explain myself and I will only do so because I regard you as brothers, the Hummans will send their best here, that means their capital Verdantis will have their second best, for a while their trade will dwindle but also, they will betray us it's in their nature, and tell me, who is better suited to .... Enforce the covenant within our families?"</p>
 </div>
 
 
@@ -205,7 +205,7 @@ Zara leaned forward, her striped mane catching the lamplight. <span class="speec
 
 
 <div class="dialogue-block">
-<p class="speech-line">"the stripe paws will become what they were meant to be, the overlords of the trade, the Pyrinae will be extremely busy rehabilitating their cities, a veto and waiver together means they have surplus of money, tell me Zara when one needs mercenaries who do they go to ?"</p>
+<p class="speech-line">"the Stripe Paws will become what they were meant to be, the overlords of the trade, the Pyrinae will be extremely busy rehabilitating their cities, a veto and waiver together means they have surplus of money, tell me Zara when one needs mercenaries who do they go to ?"</p>
 </div>
 
 
@@ -317,40 +317,8 @@ Zara's smile faltered, then steadied. The other elders—Torek, Veena, Mako—ex
 
 
 <div class="dialogue-block">
-Old Torek rose slowly, his weathered paw pressing against the small of his back where the decades of caravan travel had left their mark. <span class="speech">"I have served four kings,"</span> he said quietly. <span class="speech">"Your father. His father before him. Uthgard VII, who was stern but fair. And now you. I have never seen a king negotiate as you negotiated today. Not because you were the strongest, though you are. Not because you were the wisest, though you are learning. But because you understood that the Wengari are not one family. We are five. And a king who rules only one family rules a fraction of his people."</span> He bowed his head, his old eyes glistening. <span class="speech">"The Stripe Paws will follow you, Ajani Brightmane. Not because we must. Because you have earned it."</span>
-</div>
-
-
-The elders filed out of the chamber, their voices low, their minds already racing with preparations for the tournament to come. And Ajani, alone at last, let the exhaustion wash over him like the desert night. The white Styx still circled far to the north. The Blight still stirred beneath the earth. The road still waited. But tonight—for this brief, quiet moment between the weight of the day and the weight of tomorrow—the king allowed himself to close his eyes.
-
-The negotiations were complete. The pact was renewed. The road was coming. And somewhere in the darkness, a mirage was still walking toward them, singing a song that no one recognized. But that was a problem for the morning. Tonight, there was only sleep.
-
-
-<div class="dialogue-block">
 Old Torek rose slowly, his weathered paw pressing against the small of his back where the decades of caravan travel had left their mark. <span class="speech">"I served your father,"</span> he said quietly. <span class="speech">"And his father before him—Uthgard VIII, who was stern but fair. My own father served the king before that. He told me stories. The Stripe Paws remember, even when the records crumble. Four generations of my family have watched the Bright Paw dynasty. And now I watch you."</span> He bowed his head, his old eyes glistening. <span class="speech">"The Stripe Paws will follow you, Ajani Brightmane. Not because we must. Because you have earned it."</span>
 </div>
-
-
-**The Fire Feet — Lore Confirmed**
-
-
-- **Physical Description:** 3-meter-long black lizards with distinctive red feet, giving them their name. Endemic to the Steadfast Desert.
-
-- **Attunement:** Steadfast-attuned, with a unique homeostatic aura adaptation—they maintain a constant internal temperature regardless of environment. This makes them ideal desert mounts, capable of enduring the freezing nights and scorching days without strain.
-
-- **Lifespan:** 30–35 years, placing them in the medium range for domesticated animals.
-
-- **Temperament:** Quick and intelligent. Herbivorous, with a particular fondness for the grasses of the Rune-Belt—a taste that naturally draws them toward the caravan routes.
-
-- **Weakness:** Deadly afraid of fire. The Styx hunt them like everything else in the desert, and their fear of flame is deep and instinctual.
-
-- **Domestication:** The Stripe Paws have bred them since the Third Tyrant's era. Over three thousand years of symbiotic evolution, distinct breeds have emerged for speed, load-bearing, and combat. A Stripe Paw caravan is composed entirely of fire feet—no wheels, no wagons, only these great lizards carrying the trade goods of the Wengari across the continent.
-
-- **Bond:** The relationship is a true symbiosis, not ownership. The fire feet gain protection, food, and purpose; the Stripe Paws gain mobility, speed, and the ability to traverse terrain no other race can easily cross (steep mountains, deep rivers, the shifting sands of the deep desert). Wealthy Stripe Paw families typically keep up to five, and the bond between a Stripe Paw and their fire feet is deeply personal—a partnership forged over years of shared travel.
-
-
-The Stripe Paw elders, having just learned that Ajani traveled with their caravans for three years during his wandering, are now trying to determine *which* caravan he traveled with. Their goal is to offer him a fire feet as a coronation gift—but to do so, they need to know his preferences. Which breed? What temperament? Did he bond with any particular animal during his journey? The scene would unfold as a quiet, almost domestic moment after the formal negotiations, with the elders piecing together clues from Ajani's past.
-
 
 
 The chamber had emptied. The Stripe Paw elders had risen, their maps and notes gathered, their anger cooled into something warmer—respect, perhaps, or the first tentative roots of loyalty. But Zara lingered near the door, her massive frame silhouetted against the torchlight of the corridor beyond. Old Torek stood beside her, his weathered paw stroking his chin. Veena had paused mid-step, her sharp eyes flicking between her chief and the young king.
@@ -496,29 +464,3 @@ The Stripe Paw caravan grounds stretched along the northern edge of the capital,
 She stopped beside a corral where a pale fire foot lay curled in the sand, its flanks rising and falling with the slow rhythm of sleep. It was one of Korr's breed—the white-striped line that had been thought lost when the Ghost Wind vanished. But Korr had not vanished. Korr had returned, six months ago, with half his caravan intact and a dozen of the pale fire feet still in his train. He had never explained where he had been for three years.
 
 He had simply resumed his routes, quieter than before, his eyes holding something distant and unreadable.
-
-
-Zara had not thought to ask him about the king. Now she wondered.
-
-
-<div class="dialogue-block">
-<p class="speech-line">"Couldn't sleep either?"</p>
-</div>
-
-
-The voice came from behind her. Korr himself stepped out of the shadows, a tall Stripe Paw with a scarred muzzle and the calm, deliberate movements of a man who had spent decades on the road. His pale fire foot stirred at his approach, recognizing his scent, then settled back into sleep.
-
-
-<div class="dialogue-block">
-<span class="speech">"I've been thinking,"</span> Korr said, <span class="speech">"about the king's wandering years. He said he traveled with our caravans for three years. He said he trained under something called L'vat in the marshes. But he didn't say which caravan. And I've been trying to remember if I ever carried a young Bright Paw with a golden mane and a quiet manner, who asked questions about the ocean and the deep places."</span> He paused, his scarred face unreadable. <span class="speech">"I think I did. Four years ago. He was thin. Hungry. He didn't tell me his name. He just asked if he could ride with us for a while. I said yes. I always say yes to strays."</span>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Zara turned to face him fully. "You carried the king. For three years. And you never told anyone."</p>
-</div>
-
-
-<div class="dialogue-block">
-<span class="speech">"I didn't know he was the king. He was just a kid with a golden mane and sad eyes. He worked hard. He never complained. He asked a lot of questions about the fire feet—how we breed them, how we train them, what they eat, what they fear. He was gentle with them. They liked him. The pale ones especially."</span> Korr reached down and scratched the sleeping fire foot behind its ear. <span class="speech">"He rode this one, actually. Her name is Ember. She was just a yearling then. She's missed him, I think. She's been restless since the coronation."</span>
-</div>

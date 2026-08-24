@@ -1,5 +1,31 @@
 ## Chapter 2: First Blood
 
+Zara had not thought to ask him about the king. Now she wondered.
+
+
+<div class="dialogue-block">
+<p class="speech-line">"Couldn't sleep either?"</p>
+</div>
+
+
+The voice came from behind her. Korr himself stepped out of the shadows, a tall Stripe Paw with a scarred muzzle and the calm, deliberate movements of a man who had spent decades on the road. His pale fire foot stirred at his approach, recognizing his scent, then settled back into sleep.
+
+
+<div class="dialogue-block">
+<span class="speech">"I've been thinking,"</span> Korr said, <span class="speech">"about the king's wandering years. He said he traveled with our caravans for three years. He said he trained under something called L'vat in the marshes. But he didn't say which caravan. And I've been trying to remember if I ever carried a young Bright Paw with a golden mane and a quiet manner, who asked questions about the ocean and the deep places."</span> He paused, his scarred face unreadable. <span class="speech">"I think I did. Four years ago. He was thin. Hungry. He didn't tell me his name. He just asked if he could ride with us for a while. I said yes. I always say yes to strays."</span>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Zara turned to face him fully. "You carried the king. For three years. And you never told anyone."</p>
+</div>
+
+
+<div class="dialogue-block">
+<span class="speech">"I didn't know he was the king. He was just a kid with a golden mane and sad eyes. He worked hard. He never complained. He asked a lot of questions about the fire feet—how we breed them, how we train them, what they eat, what they fear. He was gentle with them. They liked him. The pale ones especially."</span> Korr reached down and scratched the sleeping fire foot behind its ear. <span class="speech">"He rode this one, actually. Her name is Ember. She was just a yearling then. She's missed him, I think. She's been restless since the coronation."</span>
+</div>
+
+
 <div class="dialogue-block">
 <p class="speech-line">Zara stared at him. "You have the king's favorite mount. The fire foot he rode for three years. And you didn't think to mention this?"</p>
 </div>
@@ -216,7 +242,7 @@ The young maid stepped back, brush still in hand, her golden eyes bright. <span 
 
 
 <div class="dialogue-block">
-'bow...what did father always said , <span class="speech">"never cross a maid or you'll wake in rags"</span> ' - <span class="speech">"THANK YOU , THANK YOU ALL, I MUST BE QUICK!"</span>
+'bow...what did father always say , <span class="speech">"never cross a maid or you'll wake in rags"</span> ' - <span class="speech">"THANK YOU , THANK YOU ALL, I MUST BE QUICK!"</span>
 </div>
 
 
@@ -270,7 +296,7 @@ Ajani climbed the dais, his breath still short from the run, his mane barely tam
 
 
 <div class="dialogue-block">
-<p class="speech-line">'ok, breathe and ...', "BROTHERS!! FRIEND'S!! WELCOME, SURELY YOU ALL KNOW OF THE GREAT PROJECT, THE GLORIOUS ROAD TO UNITE THE WORLD, HOWEVER A KING CANT BE IN TWO PLACES AT ONCE, OUR PEOPLE NEED A REGENT, SOMEONE STRONG, SOMEONE LOYAL, SOMEONE WHO CAN BE WHAT THE WENGARI NEED, AND TELL ME BROTHERS WHAT DO WENGARI VALUE ABOVE ALL ELSE ?!"</p>
+<p class="speech-line">'ok, breathe and ...', "BROTHERS!! FRIENDS!! WELCOME, SURELY YOU ALL KNOW OF THE GREAT PROJECT, THE GLORIOUS ROAD TO UNITE THE WORLD, HOWEVER A KING CAN'T BE IN TWO PLACES AT ONCE, OUR PEOPLE NEED A REGENT, SOMEONE STRONG, SOMEONE LOYAL, SOMEONE WHO CAN BE WHAT THE WENGARI NEED, AND TELL ME BROTHERS WHAT DO WENGARI VALUE ABOVE ALL ELSE ?!"</p>
 </div>
 
 
@@ -355,32 +381,6 @@ She stared at the young king, her golden eyes searching his face for some sign t
 
 
 The green fire flickered along Ajani's claws. His smile was wide, and bright, and utterly terrifying. The white Styx circled far above, patient as the stars. The tournament would begin in one hour. And the crown of the Wengari was now the greatest prize in the world.
-
-
-The Bright Paw elders did not wait for the chaos to subside. They descended on the throne in a wave of golden manes and bristling fur, their ceremonial robes swirling, their voices overlapping in a cacophony of outrage and terror. The High Priest Solen led them, his ancient frame trembling not with age but with fury.
-
-
-<div class="dialogue-block">
-<span class="speech">"Have you lost your mind?!"</span> The words burst from the old priest's throat before he had even finished bowing. <span class="speech">"You put the crown on the line! The crown of the Wengari! In a tournament you announced this morning! After you invited every race on Ethra to compete! What if a Humman wins? What if a Veylar wins? What if—"</span> He could not finish. The horror was too vast.
-</div>
-
-
-<div class="dialogue-block">
-Another elder, a stern Bright Paw named Vasha who had served as Uthgard IX's chief advisor, stepped forward. <span class="speech">"The Lightbringer's crown. Your father's crown. The symbol of three thousand years of Bright Paw rule. You just—"</span> She clenched her claws. <span class="speech">"You just offered it as a prize. To anyone. Without consulting us. Without warning. Without—"</span>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">"Without even eating breakfast," <span class="speech-attr">muttered a younger elder from the back, and was immediately silenced by a glare from Solen.</span></p>
-</div>
-
-
-<div class="dialogue-block">
-The High Priest turned back to Ajani, his golden eyes blazing. <span class="speech">"Explain yourself, King Ajani. Explain to us why the crown of the Wengari is now the prize in a tournament you announced on a whim."</span> He drew a ragged breath. <span class="speech">"We are your elders. We are your priests. We are the keepers of the Lightbringer's legacy. And we deserve an answer."</span>
-</div>
-
-
-The other Bright Paws fell silent, their golden eyes fixed on their young king. Somewhere in the arena behind them, the other families were already choosing their champions. Somewhere in the colonnades, the delegations were deliberating. The hour was counting down. And Ajani sat on his father's throne, the white cloak around his shoulders, the green fire still flickering faintly along his claws, waiting to speak.
 
 
 **The Hour Before the Tournament**
@@ -530,13 +530,13 @@ The Threx messenger floated on its back in the shaded pool, its multifaceted eye
 The Quick could not send a champion. It was small, and young, and far from home. But it could send a thought, through the mycelial network, to L'vat in the distant marsh. And it did.
 
 
-*The king has put his crown on the line. The tournament begins in an hour. The Wengari are choosing their champions. The other races are choosing theirs. What should I do?*
+'The king has put his crown on the line. The tournament begins in an hour. The Wengari are choosing their champions. The other races are choosing theirs. What should I do?'
 
 
 The response came not in words but in a feeling—a pulse of warmth, a flicker of something that might have been pride, or might have been worry, or might have been both. L'vat was watching. L'vat was waiting. And L'vat, the old root who had trained a White Dawn for a year, was not surprised at all.
 
 
-*The Bright Paw Elders (Closing Scene)*
+**The Bright Paw Elders**
 
 
 The Bright Paw elders did not wait. They descended on the throne in a wave of golden manes and bristling fur. The High Priest Solen led them, his ancient frame trembling with fury.
@@ -551,6 +551,10 @@ The Bright Paw elders did not wait. They descended on the throne in a wave of go
 Vasha, the stern advisor who had served Uthgard IX, stepped forward. <span class="speech">"The Lightbringer's crown. Your father's crown. The symbol of three thousand years of Bright Paw rule. You just—"</span> She clenched her claws. <span class="speech">"You just offered it as a prize. To anyone. Without consulting us."</span>
 </div>
 
+<div class="dialogue-block">
+<p class="speech-line">"Without even eating breakfast," <span class="speech-attr">muttered a younger elder from the back, and was immediately silenced by a glare from Solen.</span></p>
+</div>
+
 
 <div class="dialogue-block">
 <p class="speech-line">Solen drew a ragged breath. "Explain yourself, King Ajani. We are your elders. We are your priests. We deserve an answer."</p>
@@ -561,7 +565,7 @@ And Ajani, seated on his father's throne, the white cloak around his shoulders, 
 
 
 <div class="dialogue-block">
-<p class="speech-line">"tell me solen, who rules the wenfari ?" <span class="speech-attr">, 'warm, unflinching, unforgiving '</span></p>
+<p class="speech-line">"tell me Solen, who rules the Wengari ?" <span class="speech-attr">, 'warm, unflinching, unforgiving '</span></p>
 </div>
 
 
@@ -583,64 +587,4 @@ He rose from the throne, his white cloak swirling around him, and stepped down f
 
 <div class="dialogue-block">
 <span class="speech">"You are afraid,"</span> Ajani said. It was not an accusation. It was an observation. <span class="speech">"You are afraid that a Humman will win. Or a Veylar. Or a Shadow Paw. You are afraid that the crown will pass from the Bright Paws, and that three thousand years of our family's rule will end in a single afternoon. But you are also afraid of something else. You are afraid that no one will win. That no one will dare to challenge me. That the other races will look at the Wengari—at me—and decide that the crown is not worth the risk of facing the White Dawn in single combat."</span>
-</div>
-
-
-He let the silence stretch. Solen's mouth opened, then closed. The other Bright Paw elders stood frozen behind him, their golden manes limp, their claws retracted.
-
-
-<div class="dialogue-block">
-<span class="speech">"You have spent the night whispering about cities given away and vassals made friends,"</span> Ajani continued. <span class="speech">"You have questioned my judgment. You have doubted my wisdom. But you have not once—not once—doubted my strength. And now, when I offer to prove that strength before every race on Ethra, you are terrified. Not because I might lose. Because I might win. Because when I win, no one will ever question the Bright Paws again."</span>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">He reached out and placed a single claw gently against Solen's chest, over the old priest's heart. "The sun does not ask permission to shine. The Styx does not negotiate with its prey. And the White Dawn does not explain himself to his priests. The tournament begins in less than an hour. Choose your champions. Or do not. But do not stand before me and tell me what I cannot do with my own crown."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">He withdrew his claw and stepped back. The green fire dimmed along his claws, but did not go out. "You are my elders. You are my priests. You are the keepers of the Lightbringer's legacy. And I am your king. Remember that."</p>
-</div>
-
-
-*Warm, unflinching, unforgiving.* His father's words echoed in his mind as he turned away from the stunned elders and walked toward the arena's edge. The hour was almost up. The tournament was about to begin. And the crown of the Wengari was waiting.
-
-
-Solen's mouth snapped shut. The other Bright Paw elders, who had been nodding and murmuring their agreement moments before, went very still. The High Priest's golden eyes, clouded with age and fury only a heartbeat ago, now flickered with something else entirely—uncertainty, perhaps, or the first stirrings of shame.
-
-
-<div class="dialogue-block">
-<span class="speech">"I—"</span> Solen's voice faltered. He was not accustomed to faltering. He had served three generations of Bright Paw kings. He had advised Uthgard IX through wars and famines and the slow withering of the pact. He had never been made to feel like a fool by a king young enough to be his great-great-grandson. <span class="speech">"My king, I did not mean to imply—"</span>
-</div>
-
-
-<div class="dialogue-block">
-<span class="speech">"You did imply."</span> Ajani's voice was still quiet, still controlled, but there was something beneath it now—something that had not been there a moment before. Not anger. Something more dangerous than anger. Hurt. <span class="speech">"You implied that a White Dawn—your king, your blood, the heir of the Lightbringer—could be defeated by whoever crawls out of the arena. You implied that the crown you claim to revere is so fragile that a single bout of combat could tear it from my claws. You implied that three thousand years of Bright Paw rule rests on a throne so precarious that a tournament could shatter it."</span> He stepped closer to the old priest, his green-flecked eyes boring into Solen's. <span class="speech">"Tell me, elder. Do you truly believe I could lose?"</span>
-</div>
-
-
-The silence stretched. The other Bright Paws looked at Solen. Solen looked at the king. And the old priest, who had served three generations of Bright Paw kings and had never once been made to feel small, lowered his head.
-
-
-<div class="dialogue-block">
-<span class="speech">"No, my king."</span> His voice was barely a whisper. <span class="speech">"I do not believe you could lose."</span>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">"Then what are you afraid of?"</p>
-</div>
-
-
-<div class="dialogue-block">
-Solen raised his head, and his ancient eyes glistened with something that might have been tears or might have been revelation. <span class="speech">"I am afraid—"</span> He paused, swallowed. <span class="speech">"I am afraid because you are right. No one can beat you. And that means the tournament is not a risk. It is a demonstration. A reminder. A warning. You are showing the world—and us—that the Wengari are not strong because of our cities, or our trade, or our pact. We are strong because of you. You are the crown. And I—"</span> He bowed his head again, lower this time. <span class="speech">"I forgot that. Forgive me, my king."</span>
-</div>
-
-
-The other Bright Paw elders bowed their heads as well. Vasha, the stern advisor, closed her eyes and placed a paw over her heart. The young priest who had railed against the king the night before stared at the floor, his golden mane limp, his ears flat with shame.
-
-
-<div class="dialogue-block">
-Ajani looked at them for a long moment. Then he reached out and placed a gentle claw under Solen's chin, lifting the old priest's head until their eyes met. <span class="speech">"There is nothing to forgive,"</span> he said quietly. <span class="speech">"You are afraid because you love our people. Because you love the legacy of the Lightbringer. Because you loved my father. I am not angry at your fear. I am angry that you did not trust me enough to tell me you were afraid."</span> He released Solen's chin and stepped back. <span class="speech">"The tournament begins in less than an hour. Choose your champions. And trust that your king knows what he is doing."</span>
 </div>
