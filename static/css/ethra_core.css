@@ -1827,7 +1827,6 @@ body.leaving{opacity:0;transition:opacity .3s ease}
   #site-nav { max-width: 94vw; flex-wrap: wrap; justify-content: center; bottom: 8px; padding: 4px 8px; }
   #site-nav a { font-size: 10px; letter-spacing: 1px; padding: 2px 4px; }
   .footer { font-size: 10px; letter-spacing: 1px; }
-}
 
 ::-webkit-scrollbar { width: 8px; }
 ::-webkit-scrollbar-track { background: var(--bg-abyss); }
