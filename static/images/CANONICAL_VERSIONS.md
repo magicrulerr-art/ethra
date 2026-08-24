@@ -93,7 +93,7 @@ Bestiary plan). Coordinate data lives at `static/data/map-coordinates.json`.
 | arc4-03 | The Pyrinae Accord | ✅ LOCKED v1 | `chapter-arc4-03.png` | — | 2026-06 |
 | arc4-04 | The Humman Delegation | 🟡 pending v3 (doctrine reforge of monkey-crowd v2; Ajani+T'van backs, white cloak, scroll, empty plaza; awaiting Ainz verdict; site serves v3) | `chapter-arc4-04-v3.png` | 6,724,675 | **2026-08-24** |
 | arc4-05 | The Gifts | 🟡 pending v9 (doctrine reforge of human-hands v8; rooftop sunset, lion + panther girl backs; awaiting Ainz verdict; site serves v9) | `chapter-arc4-05-v9.png` | 6,421,411 | **2026-08-24** |
-| arc4-06 | Aftermath | ✅ LOCKED v4 | `chapter-arc4-06-v4.png` | 6,342,558 | **2026-06-23** |
+| arc4-06 | Aftermath | 🟡 pending v5 (doctrine reforge of human-hands v4; solo water hole, green sphere over paw, grimoire at chest; awaiting Ainz verdict; site serves v5) | `chapter-arc4-06-v5.png` | 6,694,840 | **2026-08-24** |
 
 ## Arc 5 — The Great War
 
