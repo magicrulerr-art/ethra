@@ -58,7 +58,7 @@ Bestiary plan). Coordinate data lives at `static/data/map-coordinates.json`.
 |---------|-------|--------|--------------------|-------|--------|
 | arc1-01 | Through the Long Dry | 🟡 pre-Mare history | `chapter-arc1-01-v3.png` | — | pre-2026-06 |
 | arc1-02 | (TBD) | 🟡 pre-Mare history | `chapter-arc1-02-v3.png` | — | pre-2026-06 |
-| arc1-03 | (TBD) | 🟡 pre-Mare history | `chapter-arc1-03-v2.png` | — | pre-2026-06 |
+| arc1-03 | The Pact | 🟡 pending v4 (doctrine reforge of human-baby v2; v3 rejected at self-audit: quadruped Ajani; throne-chamber beat, backs/¾, one ¾ face; awaiting Ainz verdict; site serves v4) | `chapter-arc1-03-v4.png` | 7,251,939 | **2026-08-24** |
 | arc1-04 | (TBD) | 🟡 pre-Mare history | `chapter-arc1-04-v2.png` | — | pre-2026-06 |
 | arc1-05 | (TBD) | 🟡 pre-Mare history | `chapter-arc1-05.png` | — | pre-2026-06 |
 | arc1-06 | (TBD) | 🟡 pre-Mare history | `chapter-arc1-06-v2.png` | — | pre-2026-06 |
