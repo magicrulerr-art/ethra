@@ -106,7 +106,7 @@ Bestiary plan). Coordinate data lives at `static/data/map-coordinates.json`.
 | arc5-05 | The Second Shot | ✅ LOCKED v2 | `chapter-arc5-05-v2.png` | 1,702,387 | **2026-06-29** |
 | arc5-11 | The War Becomes Worse | 🟡 pending v102 (doctrine reforge of quadruped-tiger v101; backs/¾ + one bowed face + furred paws; awaiting Ainz verdict; site serves v102) | `chapter-arc5-11-v102.png` | 7,340,972 | **2026-08-24** |
 | arc5-19 | Ajani Throws The Spear | 🟡 pending v5 (doctrine reforge of kaiju v4 per queue green light; solo chant beat, golden wings, no creature; awaiting Ainz verdict; site serves v5) | `chapter-arc5-19-v5.png` | 6,354,572 | **2026-08-24** |
-| arc5-22 | The White Dawn Wakes | ✅ LOCKED v1 | `chapter-arc5-22-v1.png` | 1,930,774 | **2026-06-29** |
+| arc5-22 | The White Dawn Wakes | 🟡 pending v7 (doctrine reforge of sticker-scorpions v1; Kira + Pearl/Black Fire/Red Fire grounded on rampart; supersedes LOCKED v1 per queue green light; awaiting Ainz verdict; site serves v7) | `chapter-arc5-22-v7.png` | 6,448,227 | **2026-08-24** |
 
 ### Emblematic medallion slots (Arc 5 timeline UI)
 | Slot | Ch | Mirror | Canonical version |
