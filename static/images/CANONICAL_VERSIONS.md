@@ -121,7 +121,7 @@ Bestiary plan). Coordinate data lives at `static/data/map-coordinates.json`.
 
 | Chapter | Title | Status | Canonical filename | Bytes | Locked |
 |---------|-------|--------|--------------------|-------|--------|
-| arc6-01 | The Cost | 🟡 FORGED v1 (pending Ainz verdict) | `chapter-arc6-01-v1.png` | 4,081,214 | forged 2026-08-23 (sha 7D457C0E…; webp+jpg derivatives shipped; sidecar `chapter-arc6-01-v1-PROMPT-RECORD.md`) |
+| arc6-01 | The Cost | 🟡 FORGED v3 (pending Ainz verdict) | `chapter-arc6-01-v3.png` | 4,071,241 | v1 2026-08-23 (drift: kitten + human Yvaria); v2 2026-08-24 (drift: metal hospital bed + wall panel + nude sphynx Yvaria); v3 2026-08-24 self-audit CLEAN, shipped (sha BF54D61B…; sidecars v1–v3) |
 | arc6-02 | Rebuilding | ⏳ Not yet forged (brief anchored: throne, flaring diadem, Elyra below the dais) | — | — | — |
 | arc6-03 | The Vision | ⏳ Not yet forged (brief anchored: bronze doors closing behind Ajani + scorpions) | — | — | — |
 | arc6-04 | The Road Begins | ⏳ Not yet forged (brief anchored: Cefiro presents seal to Tsar Nikolai, Ice City; palette question open) | — | — | — |

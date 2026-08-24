@@ -28,6 +28,21 @@ Sepia parchment + pure black ink, Vagabond aesthetic.
 - Ember block: mount not featured in this scene
 - clothing-only regalia delta: character is armored; only nude-ban terms kept
 
+## Self-audit findings (view_image on the WebP derivative, 2026-08-24)
+- MATCHED: sepia parchment + black ink Vagabond style; Ajani feline king
+  on bed's edge, bowed head, golden mane, ornate armor, white feather
+  crown; arched window with shattered wall beyond; morning light shaft;
+  somber aftermath mood.
+- DRIFT 1: "two small curled sleeping creatures" collapsed to ONE
+  kitten. Canon: Black Fire + Red Fire, two small scorpions.
+- DRIFT 2: "silver-furred woman" rendered as a HUMAN woman with silver
+  hair. Canon: Yvaria, anthropomorphic silver-furred Wengari.
+- Drift terms fed to v2: positive species-explicit (two scorpions;
+  anthro feline woman with ears/tail/silver fur); negative adds
+  `kitten, cat cub, sleeping cat, domestic cat, human woman, human
+  face, human skin`.
+
 ## Audit contract
-- This record replaces view_image self-audit (broken 2026-06-23).
-- Ainz-sama audits ex post.
+- view_image self-audit restored 2026-08-24; audited the WebP derivative
+  (master PNG exceeds the 2 MB vision-transport limit).
+- Ainz-sama audits ex post and his verdict is final.
