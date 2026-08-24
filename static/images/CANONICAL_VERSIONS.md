@@ -71,7 +71,7 @@ Bestiary plan). Coordinate data lives at `static/data/map-coordinates.json`.
 | arc2-02 | (TBD) | 🟡 pre-Mare history | `chapter-arc2-02.png` | — | pre-2026-06 |
 | arc2-03 | (TBD) | 🟡 pre-Mare history | `chapter-arc2-03.png` | — | pre-2026-06 |
 | arc2-04 | The Tree's Judgment | 🟡 pending v6 (doctrine reforge of lizard-men v4; kneeling tiger woman + Seris from behind, Ajani sole frontal face; v5 rejected quadruped; awaiting Ainz verdict; site serves v6) | `chapter-arc2-04-v6.png` | 7,054,970 | **2026-08-24** |
-| arc2-05 | (TBD) | 🟡 pre-Mare history | `chapter-arc2-05-v5.png` | — | pre-2026-06 |
+| arc2-05 | The Hydromancer | 🟡 pending v6 (doctrine reforge of lizard-men v5; Pyrinae humanoid with amber filaments, green-fire spear at column; awaiting Ainz verdict; site serves v6) | `chapter-arc2-05-v6.png` | 6,975,311 | **2026-08-24** |
 | arc2-06 | (TBD) | 🟡 pre-Mare history | `chapter-arc2-06.png` | — | pre-2026-06 |
 
 ## Arc 3 — The Slow Burn
