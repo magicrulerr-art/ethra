@@ -528,12 +528,13 @@ body::before {
    the books themselves stay uniform leather + gold, per Ainz's ruling.
    I dawn-gold uncial · II council-green Cinzel · III arena-ember Almendra
    IV rune-glass teal Caudex · V war-crimson blackletter · VI road-frost stone */
-#arc-panel-1 { --arc-accent:#c9a059; --arc-bright:#f0d080; --arc-glow:rgba(201,160,89,0.55); --arc-line:rgba(201,160,89,0.35); --arc-head:'Uncial Antiqua', serif; }
-#arc-panel-2 { --arc-accent:#8ac88a; --arc-bright:#c0e8c0; --arc-glow:rgba(138,200,138,0.5); --arc-line:rgba(138,200,138,0.35); --arc-head:'Cinzel', serif; }
-#arc-panel-3 { --arc-accent:#cd7f4a; --arc-bright:#f0b888; --arc-glow:rgba(205,127,74,0.5); --arc-line:rgba(205,127,74,0.35); --arc-head:'Almendra', serif; }
-#arc-panel-4 { --arc-accent:#3aa6a6; --arc-bright:#8ad8d8; --arc-glow:rgba(58,166,166,0.5); --arc-line:rgba(58,166,166,0.35); --arc-head:'Caudex', serif; }
-#arc-panel-5 { --arc-accent:#c05050; --arc-bright:#f0a0a0; --arc-glow:rgba(192,80,80,0.55); --arc-line:rgba(192,80,80,0.35); --arc-head:'Grenze Gotisch', serif; }
-#arc-panel-6 { --arc-accent:#9db8cc; --arc-bright:#d0e4f0; --arc-glow:rgba(157,184,204,0.5); --arc-line:rgba(157,184,204,0.35); --arc-head:'Metamorphous', serif; }
+/* silk vars also live on the tabs so the fallen tome's ribbon wears them */
+.arc-tab[data-arc="1"], #arc-panel-1 { --arc-accent:#c9a059; --arc-bright:#f0d080; --arc-glow:rgba(201,160,89,0.55); --arc-line:rgba(201,160,89,0.35); --arc-silk-a:#4a3210; --arc-silk-b:#8a6a2a; --arc-silk-m:#a07828; --arc-head:'Uncial Antiqua', serif; }
+.arc-tab[data-arc="2"], #arc-panel-2 { --arc-accent:#8ac88a; --arc-bright:#c0e8c0; --arc-glow:rgba(138,200,138,0.5); --arc-line:rgba(138,200,138,0.35); --arc-silk-a:#14301c; --arc-silk-b:#2a5a3a; --arc-silk-m:#3a7a4a; --arc-head:'Cinzel', serif; }
+.arc-tab[data-arc="3"], #arc-panel-3 { --arc-accent:#cd7f4a; --arc-bright:#f0b888; --arc-glow:rgba(205,127,74,0.5); --arc-line:rgba(205,127,74,0.35); --arc-silk-a:#4a2008; --arc-silk-b:#7a3a1a; --arc-silk-m:#a05020; --arc-head:'Almendra', serif; }
+.arc-tab[data-arc="4"], #arc-panel-4 { --arc-accent:#3aa6a6; --arc-bright:#8ad8d8; --arc-glow:rgba(58,166,166,0.5); --arc-line:rgba(58,166,166,0.35); --arc-silk-a:#0a332e; --arc-silk-b:#1a5a52; --arc-silk-m:#2a7a72; --arc-head:'Caudex', serif; }
+.arc-tab[data-arc="5"], #arc-panel-5 { --arc-accent:#c05050; --arc-bright:#f0a0a0; --arc-glow:rgba(192,80,80,0.55); --arc-line:rgba(192,80,80,0.35); --arc-silk-a:#401010; --arc-silk-b:#7a1f1f; --arc-silk-m:#8a2a2a; --arc-head:'Grenze Gotisch', serif; }
+.arc-tab[data-arc="6"], #arc-panel-6 { --arc-accent:#9db8cc; --arc-bright:#d0e4f0; --arc-glow:rgba(157,184,204,0.5); --arc-line:rgba(157,184,204,0.35); --arc-silk-a:#1a2a3a; --arc-silk-b:#3a5a74; --arc-silk-m:#4a6a84; --arc-head:'Metamorphous', serif; }
 .spine-arc {
   writing-mode: horizontal-tb;
   font-size: 0.72rem;
@@ -655,7 +656,7 @@ body::before {
   top: 7px;
   width: 24px;
   height: 11px;
-  background: linear-gradient(180deg, #7a1f1f, #8a2a2a 45%, #5a1515);
+  background: linear-gradient(180deg, var(--arc-silk-b, #7a1f1f), var(--arc-silk-m, #8a2a2a) 45%, var(--arc-silk-a, #5a1515));
   clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%, 6px 50%);
   box-shadow: 1px 3px 5px rgba(0,0,0,0.55);
   z-index: 5;
@@ -1832,3 +1833,510 @@ body.leaving{opacity:0;transition:opacity .3s ease}
 ::-webkit-scrollbar-track { background: var(--bg-abyss); }
 ::-webkit-scrollbar-thumb { background: var(--border); border-radius: 4px; }
 ::-webkit-scrollbar-thumb:hover { background: var(--steadfast-dim); }
+
+/* ════════════
+
+/* ═══════════════════════════════════════════════════════════════════
+   CHAPTER EMBLEMS — one quiet image behind each chapter's heading,
+   drawn from its own scene, always in its arc's hue  (2026-08-24)
+   container ids follow server.py: arcN-chYY
+   ═══════════════════════════════════════════════════════════════════ */
+
+/* ─── Arc I · The White Dawn · gold ─── */
+
+/* 1 · dawn breaking over the desert */
+#arc1-ch01 h2 {
+  background:
+    radial-gradient(circle at 50% 100%, rgba(240,208,128,0.50) 0 30%, transparent 32%),
+    repeating-conic-gradient(from -90deg at 50% 100%, rgba(240,208,128,0.22) 0deg 5deg, transparent 5deg 15deg);
+  background-repeat: no-repeat;
+  background-size: 96px 48px, 170px 80px;
+  background-position: right 30px bottom 2px, right 0 bottom 0;
+}
+/* 2 · the Chamber of Reflection — nested rings */
+#arc1-ch02 h2 {
+  background: repeating-radial-gradient(circle at 50% 50%, rgba(201,160,89,0.30) 0 1.5px, transparent 1.5px 13px);
+  background-repeat: no-repeat;
+  background-size: 120px 90px;
+  background-position: right 18px center;
+}
+/* 3 · the Pact — two rings joined */
+#arc1-ch03 h2 {
+  background:
+    radial-gradient(circle at 50% 50%, transparent 0 56%, rgba(240,208,128,0.45) 58% 66%, transparent 68%),
+    radial-gradient(circle at 50% 50%, transparent 0 56%, rgba(201,160,89,0.45) 58% 66%, transparent 68%);
+  background-repeat: no-repeat;
+  background-size: 64px 64px, 64px 64px;
+  background-position: right 52px center, right 20px center;
+}
+/* 4 · the Styx — three white feathers falling */
+#arc1-ch04 h2 {
+  background:
+    linear-gradient(115deg, transparent 44%, rgba(240,240,235,0.40) 47% 52%, transparent 55%),
+    linear-gradient(115deg, transparent 44%, rgba(240,240,235,0.32) 47% 52%, transparent 55%),
+    linear-gradient(115deg, transparent 44%, rgba(240,240,235,0.24) 47% 52%, transparent 55%);
+  background-repeat: no-repeat;
+  background-size: 64px 48px, 64px 48px, 64px 48px;
+  background-position: right 64px center, right 40px center, right 16px center;
+}
+/* 5 · the Four Pillars of the kingdom */
+#arc1-ch05 h2 {
+  background:
+    linear-gradient(rgba(240,208,128,0.45), rgba(240,208,128,0.45)),
+    repeating-linear-gradient(90deg, rgba(201,160,89,0.42) 0 7px, transparent 7px 27px);
+  background-repeat: no-repeat;
+  background-size: 108px 3px, 108px 44px;
+  background-position: right 22px bottom 50px, right 22px bottom 4px;
+}
+/* 6 · the Passing — a light sinking below the horizon */
+#arc1-ch06 h2 {
+  background:
+    radial-gradient(circle at 50% 50%, rgba(240,208,128,0.36), transparent 68%),
+    linear-gradient(rgba(201,160,89,0.42), rgba(201,160,89,0.42));
+  background-repeat: no-repeat;
+  background-size: 72px 72px, 140px 2px;
+  background-position: right 40px top 0, right 12px bottom 8px;
+}
+
+/* ─── Arc II · The Confession · forest green ─── */
+
+/* 1 · the summons — a sealed letter */
+#arc2-ch01 h2 {
+  background:
+    radial-gradient(circle at 80% 76%, rgba(138,200,138,0.55) 0 14%, transparent 16%),
+    linear-gradient(rgba(138,200,138,0.18), rgba(138,200,138,0.18));
+  background-repeat: no-repeat;
+  background-size: 88px 56px, 88px 56px;
+  background-position: right 26px center, right 26px center;
+}
+/* 2 · the confession — a bowed arch and a single tear */
+#arc2-ch02 h2 {
+  background:
+    radial-gradient(circle at 50% 30%, rgba(138,200,138,0.50) 0 26%, transparent 30%),
+    radial-gradient(circle at 50% 0%, transparent 0 58%, rgba(138,200,138,0.38) 60% 66%, transparent 68%);
+  background-repeat: no-repeat;
+  background-size: 12px 16px, 96px 56px;
+  background-position: right 66px bottom 6px, right 24px center;
+}
+/* 3 · the Shadow Paw — a paw print in the dark */
+#arc2-ch03 h2 {
+  background:
+    radial-gradient(ellipse 42% 30% at 50% 68%, rgba(138,200,138,0.36) 0 96%, transparent),
+    radial-gradient(circle at 20% 26%, rgba(138,200,138,0.42) 0 12%, transparent 15%),
+    radial-gradient(circle at 50% 16%, rgba(138,200,138,0.42) 0 12%, transparent 15%),
+    radial-gradient(circle at 80% 26%, rgba(138,200,138,0.42) 0 12%, transparent 15%);
+  background-repeat: no-repeat;
+  background-size: 56px 44px, 56px 44px, 56px 44px, 56px 44px;
+  background-position: right 34px center, right 34px center, right 34px center, right 34px center;
+}
+/* 4 · the Tree's Judgment — trunk and canopy */
+#arc2-ch04 h2 {
+  background:
+    radial-gradient(circle at 50% 100%, rgba(138,200,138,0.34) 0 62%, transparent 66%),
+    linear-gradient(rgba(138,200,138,0.48), rgba(138,200,138,0.48));
+  background-repeat: no-repeat;
+  background-size: 96px 44px, 4px 40px;
+  background-position: right 18px bottom 34px, right 62px bottom 4px;
+}
+/* 5 · the Hydromancer — water ripples */
+#arc2-ch05 h2 {
+  background: repeating-radial-gradient(circle at 50% 50%, rgba(138,200,138,0.34) 0 1.5px, transparent 1.5px 14px);
+  background-repeat: no-repeat;
+  background-size: 120px 72px;
+  background-position: right 16px center;
+}
+/* 6 · foreign delegations — a row of pennants */
+#arc2-ch06 h2 {
+  background:
+    linear-gradient(120deg, rgba(138,200,138,0.36) 0 48%, transparent 50%),
+    linear-gradient(120deg, rgba(138,200,138,0.30) 0 48%, transparent 50%),
+    linear-gradient(120deg, rgba(138,200,138,0.24) 0 48%, transparent 50%),
+    linear-gradient(120deg, rgba(138,200,138,0.18) 0 48%, transparent 50%),
+    repeating-linear-gradient(90deg, rgba(138,200,138,0.42) 0 2px, transparent 2px 27px);
+  background-repeat: no-repeat;
+  background-size: 16px 12px, 16px 12px, 16px 12px, 16px 12px, 110px 44px;
+  background-position: right 20px top 8px, right 47px top 8px, right 74px top 8px, right 101px top 8px, right 18px bottom 6px;
+}
+
+/* ─── Arc III · First Blood · ember ─── */
+
+/* 1 · the arena ring */
+#arc3-ch01 h2 {
+  background: radial-gradient(ellipse 50% 50% at 50% 50%, transparent 0 60%, rgba(205,127,74,0.44) 62% 70%, transparent 72%);
+  background-repeat: no-repeat;
+  background-size: 132px 68px;
+  background-position: right 14px center;
+}
+/* 2 · first blood — a single drop */
+#arc3-ch02 h2 {
+  background:
+    radial-gradient(circle at 50% 34%, rgba(192,80,80,0.55) 0 30%, transparent 34%),
+    conic-gradient(from -35deg at 50% 0%, rgba(192,80,80,0.55) 0 70deg, transparent 70deg);
+  background-repeat: no-repeat;
+  background-size: 26px 34px, 26px 16px;
+  background-position: right 44px center, right 44px top 14px;
+}
+/* 3 · the Fire Feet — footfall flames */
+#arc3-ch03 h2 {
+  background:
+    radial-gradient(circle at 12% 72%, rgba(240,184,136,0.50) 0 9%, transparent 12%),
+    radial-gradient(circle at 38% 34%, rgba(205,127,74,0.50) 0 9%, transparent 12%),
+    radial-gradient(circle at 64% 72%, rgba(240,184,136,0.50) 0 9%, transparent 12%),
+    radial-gradient(circle at 90% 34%, rgba(205,127,74,0.50) 0 9%, transparent 12%);
+  background-repeat: no-repeat;
+  background-size: 120px 40px, 120px 40px, 120px 40px, 120px 40px;
+  background-position: right 16px center, right 16px center, right 16px center, right 16px center;
+}
+/* 4 · the Tyrant Cycle — the ring, cut by a blade */
+#arc3-ch04 h2 {
+  background:
+    linear-gradient(115deg, transparent 46%, rgba(240,184,136,0.50) 48% 52%, transparent 54%),
+    radial-gradient(circle at 50% 50%, transparent 0 56%, rgba(205,127,74,0.44) 58% 66%, transparent 68%);
+  background-repeat: no-repeat;
+  background-size: 90px 90px, 84px 84px;
+  background-position: right 22px center, right 26px center;
+}
+/* 5 · the hour before — an hourglass */
+#arc3-ch05 h2 {
+  background:
+    conic-gradient(from -35deg at 50% 100%, rgba(205,127,74,0.45) 0 70deg, transparent 70deg),
+    conic-gradient(from 145deg at 50% 0%, rgba(205,127,74,0.45) 0 70deg, transparent 70deg);
+  background-repeat: no-repeat;
+  background-size: 44px 26px, 44px 26px;
+  background-position: right 40px top 4px, right 40px bottom 4px;
+}
+
+/* ─── Arc IV · The Road · rune-glass teal ─── */
+
+/* 1 · bureaucracy — ledger lines and a column rule */
+#arc4-ch01 h2 {
+  background:
+    linear-gradient(90deg, rgba(138,216,216,0.40), rgba(138,216,216,0.40)),
+    repeating-linear-gradient(0deg, rgba(58,166,166,0.32) 0 1.5px, transparent 1.5px 12px);
+  background-repeat: no-repeat;
+  background-size: 1.5px 58px, 112px 58px;
+  background-position: right 64px center, right 20px center;
+}
+/* 2 · the caravans — a line of tents on the road */
+#arc4-ch02 h2 {
+  background:
+    linear-gradient(rgba(58,166,166,0.40), rgba(58,166,166,0.40)),
+    conic-gradient(from 148deg at 50% 0%, rgba(58,166,166,0.40) 0 64deg, transparent 64deg),
+    conic-gradient(from 148deg at 50% 0%, rgba(58,166,166,0.34) 0 64deg, transparent 64deg),
+    conic-gradient(from 148deg at 50% 0%, rgba(58,166,166,0.28) 0 64deg, transparent 64deg),
+    conic-gradient(from 148deg at 50% 0%, rgba(58,166,166,0.22) 0 64deg, transparent 64deg);
+  background-repeat: no-repeat;
+  background-size: 120px 1.5px, 26px 20px, 26px 20px, 26px 20px, 26px 20px;
+  background-position: right 14px bottom 6px, right 14px bottom 6px, right 44px bottom 6px, right 74px bottom 6px, right 104px bottom 6px;
+}
+/* 3 · the Pyrinae Accord — three shards of rune-glass */
+#arc4-ch03 h2 {
+  background:
+    linear-gradient(100deg, transparent 42%, rgba(138,216,216,0.36) 45% 52%, transparent 55%),
+    linear-gradient(80deg, transparent 42%, rgba(58,166,166,0.38) 45% 52%, transparent 55%),
+    linear-gradient(120deg, transparent 42%, rgba(138,216,216,0.28) 45% 52%, transparent 55%);
+  background-repeat: no-repeat;
+  background-size: 60px 56px, 60px 60px, 60px 48px;
+  background-position: right 60px center, right 36px center, right 14px center;
+}
+/* 4 · the Humman delegation — two standards facing one another */
+#arc4-ch04 h2 {
+  background:
+    linear-gradient(135deg, rgba(58,166,166,0.38) 0 50%, transparent 50%),
+    linear-gradient(45deg, transparent 50%, rgba(138,216,216,0.38) 50%),
+    linear-gradient(90deg, rgba(58,166,166,0.45) 0 2px, transparent 2px),
+    linear-gradient(270deg, rgba(58,166,166,0.45) 0 2px, transparent 2px);
+  background-repeat: no-repeat;
+  background-size: 20px 14px, 20px 14px, 2px 44px, 2px 44px;
+  background-position: right 50px top 10px, right 20px top 10px, right 70px center, right 18px center;
+}
+/* 5 · the gifts — a wrapped parcel with ribbon */
+#arc4-ch05 h2 {
+  background:
+    linear-gradient(90deg, transparent 46%, rgba(138,216,216,0.45) 46% 54%, transparent 54%),
+    linear-gradient(0deg, transparent 44%, rgba(138,216,216,0.45) 44% 56%, transparent 56%),
+    linear-gradient(rgba(58,166,166,0.20), rgba(58,166,166,0.20));
+  background-repeat: no-repeat;
+  background-size: 64px 48px, 64px 48px, 64px 48px;
+  background-position: right 30px center, right 30px center, right 30px center;
+}
+/* 6 · aftermath — dust settling */
+#arc4-ch06 h2 {
+  background:
+    radial-gradient(circle at 16% 30%, rgba(58,166,166,0.34) 0 7%, transparent 10%),
+    radial-gradient(circle at 44% 68%, rgba(58,166,166,0.26) 0 6%, transparent 9%),
+    radial-gradient(circle at 68% 24%, rgba(138,216,216,0.32) 0 5%, transparent 8%),
+    radial-gradient(circle at 90% 62%, rgba(58,166,166,0.24) 0 6%, transparent 9%);
+  background-repeat: no-repeat;
+  background-size: 110px 60px, 110px 60px, 110px 60px, 110px 60px;
+  background-position: right 18px center, right 18px center, right 18px center, right 18px center;
+}
+
+/* ─── Arc V · The Great War · war-crimson, hour by hour ─── */
+
+/* 1 · 05:25 — Vasha storms in; rain of war streaks */
+#arc5-ch01 h2 {
+  background: repeating-linear-gradient(115deg, rgba(192,80,80,0.36) 0 2px, transparent 2px 15px);
+  background-repeat: no-repeat;
+  background-size: 110px 60px;
+  background-position: right 18px center;
+}
+/* 2 · 06:55 — Sera holds the gate */
+#arc5-ch02 h2 {
+  background:
+    linear-gradient(rgba(240,160,160,0.42), rgba(240,160,160,0.42)),
+    linear-gradient(90deg, rgba(192,80,80,0.45) 0 3px, transparent 3px),
+    linear-gradient(270deg, rgba(192,80,80,0.45) 0 3px, transparent 3px);
+  background-repeat: no-repeat;
+  background-size: 60px 2px, 46px 46px, 46px 46px;
+  background-position: right 32px top 10px, right 55px center, right 32px center;
+}
+/* 3 · 06:25 — the war room still watches; commanders around the table */
+#arc5-ch03 h2 {
+  background:
+    radial-gradient(circle at 50% 50%, rgba(192,80,80,0.22) 0 46%, transparent 50%),
+    radial-gradient(circle at 50% 6%, rgba(240,160,160,0.48) 0 7%, transparent 10%),
+    radial-gradient(circle at 94% 50%, rgba(240,160,160,0.48) 0 7%, transparent 10%),
+    radial-gradient(circle at 50% 94%, rgba(240,160,160,0.48) 0 7%, transparent 10%),
+    radial-gradient(circle at 6% 50%, rgba(240,160,160,0.48) 0 7%, transparent 10%);
+  background-repeat: no-repeat;
+  background-size: 64px 64px, 64px 64px, 64px 64px, 64px 64px, 64px 64px;
+  background-position: right 36px center, right 36px center, right 36px center, right 36px center, right 36px center;
+}
+/* 4 · 07:55 — the dome shimmers */
+#arc5-ch04 h2 {
+  background: radial-gradient(circle at 50% 100%, transparent 0 56%, rgba(240,160,160,0.48) 58% 66%, transparent 68%);
+  background-repeat: no-repeat;
+  background-size: 120px 60px;
+  background-position: right 16px bottom 4px;
+}
+/* 5 · 08:15 — the second shot; two falling streaks */
+#arc5-ch05 h2 {
+  background:
+    linear-gradient(115deg, transparent 44%, rgba(240,160,160,0.52) 47% 51%, transparent 54%),
+    linear-gradient(115deg, transparent 44%, rgba(192,80,80,0.46) 47% 51%, transparent 54%);
+  background-repeat: no-repeat;
+  background-size: 90px 40px, 90px 40px;
+  background-position: right 40px top 6px, right 20px bottom 6px;
+}
+/* 6 · 08:20 — the light shield falls */
+#arc5-ch06 h2 {
+  background:
+    radial-gradient(circle at 50% 100%, transparent 0 56%, rgba(240,160,160,0.28) 58% 66%, transparent 68%),
+    radial-gradient(circle at 50% 100%, transparent 0 56%, rgba(240,160,160,0.50) 58% 66%, transparent 68%);
+  background-repeat: no-repeat;
+  background-size: 110px 54px, 110px 54px;
+  background-position: right 18px bottom 26px, right 18px bottom 2px;
+}
+/* 7 · 08:40 — the plague comes; drifting miasma */
+#arc5-ch07 h2 {
+  background:
+    radial-gradient(circle at 24% 40%, rgba(192,80,80,0.28), transparent 55%),
+    radial-gradient(circle at 58% 66%, rgba(192,80,80,0.24), transparent 55%),
+    radial-gradient(circle at 86% 34%, rgba(192,80,80,0.20), transparent 55%);
+  background-repeat: no-repeat;
+  background-size: 120px 64px, 120px 64px, 120px 64px;
+  background-position: right 16px center, right 16px center, right 16px center;
+}
+/* 8 · 08:45 — scorpions still marching */
+#arc5-ch08 h2 {
+  background:
+    radial-gradient(circle at 50% 50%, rgba(192,80,80,0.50) 0 26%, transparent 30%),
+    radial-gradient(circle at 50% 50%, rgba(192,80,80,0.44) 0 26%, transparent 30%),
+    radial-gradient(circle at 50% 50%, rgba(192,80,80,0.38) 0 26%, transparent 30%),
+    radial-gradient(circle at 50% 50%, rgba(192,80,80,0.32) 0 26%, transparent 30%),
+    radial-gradient(circle at 50% 50%, rgba(192,80,80,0.26) 0 26%, transparent 30%),
+    radial-gradient(circle at 50% 50%, rgba(192,80,80,0.20) 0 26%, transparent 30%);
+  background-repeat: no-repeat;
+  background-size: 20px 12px, 20px 12px, 20px 12px, 20px 12px, 20px 12px, 20px 12px;
+  background-position: right 16px center, right 38px center, right 60px center, right 82px center, right 104px center, right 126px center;
+}
+/* 9 · 09:00 — the truce lasts an hour; two lines meeting */
+#arc5-ch09 h2 {
+  background:
+    radial-gradient(circle at 50% 50%, rgba(240,160,160,0.55) 0 38%, transparent 44%),
+    linear-gradient(rgba(192,80,80,0.44), rgba(192,80,80,0.44)),
+    linear-gradient(rgba(192,80,80,0.44), rgba(192,80,80,0.44));
+  background-repeat: no-repeat;
+  background-size: 8px 8px, 56px 2px, 56px 2px;
+  background-position: right 72px center, right 82px center, right 14px center;
+}
+/* 10 · 09:30 — the wall breaks; masonry split by a dark crack */
+#arc5-ch10 h2 {
+  background:
+    linear-gradient(105deg, transparent 46%, rgba(10,22,40,0.95) 48% 54%, transparent 56%),
+    repeating-linear-gradient(90deg, rgba(192,80,80,0.28) 0 1.5px, transparent 1.5px 14px),
+    repeating-linear-gradient(0deg, rgba(192,80,80,0.28) 0 1.5px, transparent 1.5px 12px);
+  background-repeat: no-repeat;
+  background-size: 96px 52px, 96px 52px, 96px 52px;
+  background-position: right 20px center, right 20px center, right 20px center;
+}
+/* 11 · 09:45 — the war becomes worse; crossed blades */
+#arc5-ch11 h2 {
+  background:
+    linear-gradient(45deg, transparent 46%, rgba(240,160,160,0.48) 48% 52%, transparent 54%),
+    linear-gradient(135deg, transparent 46%, rgba(192,80,80,0.48) 48% 52%, transparent 54%);
+  background-repeat: no-repeat;
+  background-size: 74px 58px, 74px 58px;
+  background-position: right 28px center, right 28px center;
+}
+
+/* 12 · 10:35 — the wall blanketed */
+#arc5-ch12 h2 {
+  background:
+    radial-gradient(circle at 50% 50%, rgba(240,160,160,0.40) 0 30%, transparent 36%),
+    radial-gradient(circle at 50% 50%, rgba(240,160,160,0.34) 0 30%, transparent 36%),
+    radial-gradient(circle at 50% 50%, rgba(240,160,160,0.28) 0 30%, transparent 36%),
+    radial-gradient(circle at 50% 50%, rgba(240,160,160,0.22) 0 30%, transparent 36%),
+    radial-gradient(circle at 50% 50%, rgba(240,160,160,0.16) 0 30%, transparent 36%),
+    repeating-linear-gradient(90deg, rgba(192,80,80,0.28) 0 1.5px, transparent 1.5px 14px),
+    repeating-linear-gradient(0deg, rgba(192,80,80,0.28) 0 1.5px, transparent 1.5px 12px);
+  background-repeat: no-repeat;
+  background-size: 18px 10px, 18px 10px, 18px 10px, 18px 10px, 18px 10px, 96px 46px, 96px 46px;
+  background-position: right 20px top 4px, right 40px top 4px, right 60px top 4px, right 80px top 4px, right 100px top 4px, right 20px center, right 20px center;
+}
+/* 13 · 11:20 — the shadow figure drinks; a tall silhouette */
+#arc5-ch13 h2 {
+  background:
+    radial-gradient(circle at 50% 50%, rgba(6,10,18,0.95) 0 42%, transparent 48%),
+    linear-gradient(rgba(6,10,18,0.95), rgba(6,10,18,0.95));
+  background-repeat: no-repeat;
+  background-size: 14px 14px, 10px 48px;
+  background-position: right 43px top 2px, right 45px center;
+}
+/* 14 · 11:35 — the wall learns horror; masonry with jagged scars */
+#arc5-ch14 h2 {
+  background:
+    linear-gradient(125deg, transparent 46%, rgba(240,160,160,0.50) 48% 52%, transparent 54%),
+    linear-gradient(55deg, transparent 46%, rgba(240,160,160,0.50) 48% 52%, transparent 54%),
+    repeating-linear-gradient(90deg, rgba(192,80,80,0.28) 0 1.5px, transparent 1.5px 14px);
+  background-repeat: no-repeat;
+  background-size: 40px 40px, 40px 40px, 96px 52px;
+  background-position: right 66px center, right 30px center, right 20px center;
+}
+/* 15 · 11:40 — M'rak yells clear; shock-rings of sound */
+#arc5-ch15 h2 {
+  background: repeating-radial-gradient(circle at 0% 50%, rgba(240,160,160,0.38) 0 1.5px, transparent 1.5px 12px);
+  background-repeat: no-repeat;
+  background-size: 96px 60px;
+  background-position: right 20px center;
+}
+/* 16 · 11:50 — vows are absolved; two rings parted */
+#arc5-ch16 h2 {
+  background:
+    radial-gradient(circle at 50% 50%, transparent 0 54%, rgba(240,160,160,0.46) 56% 68%, transparent 70%),
+    radial-gradient(circle at 50% 50%, transparent 0 54%, rgba(192,80,80,0.46) 56% 68%, transparent 70%);
+  background-repeat: no-repeat;
+  background-size: 34px 34px, 34px 34px;
+  background-position: right 56px center, right 22px center;
+}
+/* 17 · 11:55 — the legend answers; a figure rising into rays */
+#arc5-ch17 h2 {
+  background:
+    repeating-conic-gradient(from -90deg at 50% 0%, rgba(240,160,160,0.40) 0 6deg, transparent 6deg 24deg),
+    linear-gradient(rgba(240,160,160,0.52), rgba(240,160,160,0.52));
+  background-repeat: no-repeat;
+  background-size: 70px 34px, 3px 40px;
+  background-position: right 12px top 2px, right 46px bottom 4px;
+}
+/* 18 · 11:59 — Nefere fires; streak and burst */
+#arc5-ch18 h2 {
+  background:
+    repeating-conic-gradient(from 0deg at 50% 50%, rgba(240,160,160,0.46) 0 6deg, transparent 6deg 30deg),
+    linear-gradient(115deg, transparent 46%, rgba(240,160,160,0.55) 48% 52%, transparent 54%);
+  background-repeat: no-repeat;
+  background-size: 44px 44px, 90px 36px;
+  background-position: right 18px center, right 34px center;
+}
+/* 19 · 12:02 — Ajani throws the spear */
+#arc5-ch19 h2 {
+  background:
+    conic-gradient(from 250deg at 100% 50%, rgba(240,160,160,0.60) 0 40deg, transparent 40deg),
+    linear-gradient(10deg, transparent 44%, rgba(240,160,160,0.60) 47% 53%, transparent 56%);
+  background-repeat: no-repeat;
+  background-size: 16px 16px, 150px 40px;
+  background-position: right 12px center, right 20px center;
+}
+/* 20 · 12:03 — Cefiro arrives; a light on the horizon */
+#arc5-ch20 h2 {
+  background:
+    repeating-linear-gradient(90deg, rgba(240,160,160,0.38) 0 8px, transparent 8px 16px),
+    radial-gradient(circle at 50% 50%, rgba(240,160,160,0.52) 0 40%, transparent 46%),
+    linear-gradient(rgba(192,80,80,0.46), rgba(192,80,80,0.46));
+  background-repeat: no-repeat;
+  background-size: 60px 3px, 30px 30px, 130px 2px;
+  background-position: right 16px top 10px, right 62px bottom 12px, right 12px bottom 10px;
+}
+/* 21 · 12:05 — the light cage fades; thinning bars */
+#arc5-ch21 h2 {
+  background:
+    repeating-linear-gradient(90deg, rgba(240,160,160,0.20) 0 1.5px, transparent 1.5px 12px),
+    repeating-linear-gradient(0deg, rgba(240,160,160,0.20) 0 1.5px, transparent 1.5px 12px);
+  background-repeat: no-repeat;
+  background-size: 90px 50px, 90px 50px;
+  background-position: right 20px center, right 20px center;
+}
+/* 22 · 12:06 — the White Dawn wakes; the burst of morning */
+#arc5-ch22 h2 {
+  background:
+    radial-gradient(circle at 50% 50%, rgba(240,208,128,0.50) 0 30%, transparent 34%),
+    repeating-conic-gradient(from -90deg at 50% 50%, rgba(240,160,160,0.34) 0 5deg, transparent 5deg 18deg);
+  background-repeat: no-repeat;
+  background-size: 44px 44px, 110px 60px;
+  background-position: right 44px center, right 12px center;
+}
+
+/* ─── Arc VI · The Long Winter · frost blue ─── */
+
+/* 1 · the Cost — ice structures: a ridge of crystal spires */
+#arc6-ch01 h2 {
+  background:
+    linear-gradient(rgba(234,244,251,0.35), rgba(234,244,251,0.35)),
+    conic-gradient(from 162deg at 50% 0%, rgba(234,244,251,0.32) 0 36deg, transparent 36deg),
+    conic-gradient(from 156deg at 50% 0%, rgba(157,184,204,0.42) 0 48deg, transparent 48deg),
+    conic-gradient(from 165deg at 50% 0%, rgba(234,244,251,0.26) 0 30deg, transparent 30deg);
+  background-repeat: no-repeat;
+  background-size: 96px 2px, 30px 52px, 40px 64px, 26px 40px;
+  background-position: right 12px bottom 2px, right 66px bottom 2px, right 34px bottom 2px, right 12px bottom 2px;
+}
+/* 2 · Rebuilding — scaffolding and one bright rising beam */
+#arc6-ch02 h2 {
+  background:
+    linear-gradient(rgba(234,244,251,0.50), rgba(234,244,251,0.50)),
+    repeating-linear-gradient(90deg, rgba(157,184,204,0.32) 0 1.5px, transparent 1.5px 16px),
+    repeating-linear-gradient(0deg, rgba(157,184,204,0.32) 0 1.5px, transparent 1.5px 14px);
+  background-repeat: no-repeat;
+  background-size: 4px 30px, 96px 52px, 96px 52px;
+  background-position: right 52px bottom 6px, right 20px center, right 20px center;
+}
+/* 3 · the Vision — rings around a watching eye, stars beyond */
+#arc6-ch03 h2 {
+  background:
+    radial-gradient(circle at 50% 50%, rgba(234,244,251,0.55) 0 30%, transparent 36%),
+    repeating-radial-gradient(circle at 50% 50%, rgba(157,184,204,0.34) 0 1.5px, transparent 1.5px 14px),
+    radial-gradient(circle at 20% 24%, rgba(234,244,251,0.50) 0 14%, transparent 18%),
+    radial-gradient(circle at 86% 70%, rgba(234,244,251,0.44) 0 12%, transparent 16%);
+  background-repeat: no-repeat;
+  background-size: 10px 10px, 100px 60px, 110px 64px, 110px 64px;
+  background-position: right 66px center, right 20px center, right 18px center, right 18px center;
+}
+/* 4 · the Road Begins — two ruts converging to the horizon, mile-stones */
+#arc6-ch04 h2 {
+  background:
+    repeating-linear-gradient(90deg, rgba(157,184,204,0.40) 0 2px, transparent 2px 22px),
+    linear-gradient(8deg, transparent 47%, rgba(234,244,251,0.40) 49% 52%, transparent 54%),
+    linear-gradient(-8deg, transparent 47%, rgba(234,244,251,0.40) 49% 52%, transparent 54%);
+  background-repeat: no-repeat;
+  background-size: 110px 6px, 120px 40px, 120px 40px;
+  background-position: right 14px bottom 8px, right 14px center, right 14px center;
+}
+/* 5 · Epilogue — twin suns above the last horizon */
+#arc6-ch05 h2 {
+  background:
+    radial-gradient(circle at 50% 50%, rgba(201,160,89,0.50) 0 40%, transparent 46%),
+    radial-gradient(circle at 50% 50%, rgba(139,42,42,0.60) 0 40%, transparent 46%),
+    linear-gradient(rgba(234,244,251,0.40), rgba(234,244,251,0.40));
+  background-repeat: no-repeat;
+  background-size: 26px 26px, 20px 20px, 110px 2px;
+  background-position: right 66px top 6px, right 34px top 10px, right 16px bottom 10px;
+}
