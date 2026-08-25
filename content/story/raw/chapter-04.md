@@ -109,7 +109,7 @@ The Bright Paw elders, still clustered near the front, exchanged glances. Solen 
 
 Ajani nodded slowly. "Then it's settled. The tournament is open to all races, but each race must enter as themselves. No mercenaries. No hired claws. No borrowed champions. Let the world see what the world can do. And let the Wengari show them why we are feared."
 
-"next as long as I Live, the regency and the crown are the prize, to any race" , 'i hear the screams cumming '
+"next as long as I Live, the regency and the crown are the prize, to any race" , 'i hear the screams coming '
 
 The Hall of the Sun erupted. Zara was on her feet again, her striped mane fully bristled, her claws extended, her voice a roar of pure mercantile outrage that echoed off the ancient stone. "The crown?! Every year?! To any race?! You cannot be serious! A Humman could win the crown! A Pyrinae could win the crown! A Veylar could sit on the throne of the Wengari and—"
 
