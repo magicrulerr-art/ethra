@@ -152,6 +152,7 @@ Promote a new version to canonical **only** when:
 | crimson-hawk-v1.png | v1 | [2026-08-22] | [sepia-ink bestiary plate matching razor-hare-v2/styx register] | crimson-hawk-v1.png | 1761572 | [53f44afb] | ✅ LOCKED v1 — approved by Aina 2026-08-22 | New Steadfast Desert entry: war-bird, feather-detonation volleys (arc5-01). |
 | killer-claw-v1.png | v1 | [2026-08-22] | [sepia-ink bestiary plate matching razor-hare-v2/styx register] | killer-claw-v1.png | 1625829 | [f54350e1] | ✅ LOCKED v1 — approved by Aina 2026-08-22 | New Steadfast Desert entry: suicide raptor rigged with rune-bomb (arc5-01). |
 | cargo-bird-v1.png | v1 | [2026-08-22] | [sepia-ink bestiary plate matching razor-hare-v2/styx register] | cargo-bird-v1.png | 1886649 | [b884211e] | ✅ LOCKED v1 — approved by Aina 2026-08-22 | New Rune Belt entry: green-plumed transport bird; gate scene with new Sultan (arc6-02). |
+| lament-v2.png | v2 | [2026-08-24] | [sepia-ink bestiary plate; fungal rework of lament.png per Ainz directive] | lament-v2.png | 1720909 | [3667ecc] | 🟡 pending — awaiting Ainz verdict (supersedes lament.png v1 horror-demon drift; rewired lament.md/threx.md/bestiary.md/map json; chithak map portrait bug fixed same commit) | Lament Threx species portrait: fungal entity — mushroom-cap cowl, shelf-fungi shoulders, mycelial robe, featureless mask + two glowing eyes, clawless. |
 
 
 ---
