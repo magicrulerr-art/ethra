@@ -281,3 +281,284 @@ The morning light crossed the floor and climbed the shelves, and still he search
 Outside the high windows, Styxian glittered in the heat, full of soldiers and scribes and cargo birds and the smell of cold tea, and somewhere in the palace the whole known world was arguing about the price of a war.
 
 In the library, Cefiro turned another page, and said nothing.
+
+**The Departures**
+
+Sultan Salahim rose.
+
+The room let him take his time about it, because everyone at the table understood what he was doing — a defeated king, leaving the room where he had just agreed to pay for everything, walking out on his own feet with his head up. He was very good at it.
+
+<div class="dialogue-block">
+<p class="speech-line">"Your Brightness," he said, inclining his head to Ajani. "I will return to Verdantis at once. A festival such as you describe does not assemble itself — if the Hummans are to give the world the greatest festival in five thousand years, then the preparations begin today."</p>
+</div>
+
+<div class="dialogue-block">
+<p class="speech-line">He turned to Seris. "I trust you can handle the rest of the negotiations."</p>
+</div>
+
+<div class="dialogue-block">
+<p class="speech-line">Seris lowered her head once, solemnly — the nod of a woman receiving not an instruction but a siege. "It will be done, Your Wealthiness."</p>
+</div>
+
+The Sultan departed, the last of his honor guard at his heels, and no one at the table watched the frozen glass of tea he left behind. No one needed to. It sat there on the sandstone between them like a small, polite monument.
+
+Seris and Maren rose together.
+
+<div class="dialogue-block">
+<p class="speech-line">"Your Brightness," Seris said. "We will take our leave."</p>
+</div>
+
+<div class="dialogue-block">
+<p class="speech-line">"Count it clause by clause," Maren added, to the ledger already in her paws — and the two of them gathered parchment and abacus and went for the doors.</p>
+</div>
+
+The doors of the war room opened.
+
+Outside the doors, there was a scuffle.
+
+Kira and Ivan had been listening — had been listening for hours, by the state of their fur — and the sudden opening of the great panels sent them both lunging sideways at once, a tangle of dark fur and white, trying to become architecture. They were not fast enough. They crashed, with the full momentum of a hurried scurry, directly into the broad chest of the Wengari coming the other way.
+
+Cefiro of the Ice City absorbed both of them without breaking stride, one great paw steadying Kira by the shoulder, the other catching Ivan mid-tumble. He looked down at the pair of them with the expression of one who had found exactly what he expected to find.
+
+<div class="dialogue-block">
+<p class="speech-line">"Ivan," he said, warmly. "If you wanted to peek, you should have chosen a more secluded location."</p>
+</div>
+
+And he ruffled his brother's head, thoroughly, with the easy affection of an older brother — much to Ivan's dismay, ears flattening, tail going rigid with indignation, and to Kira's delight.
+
+<div class="dialogue-block">
+<p class="speech-line">"I was not caught," Ivan said, with great wounded dignity. "I was listening. There is a difference."</p>
+</div>
+
+Kira gave him a long, mocking stare that said, very clearly, *ha!*
+
+Cefiro left them to it and entered the war room, passing in the doorway the last two figures leaving it — L'vat and Nefere, deep in talk.
+
+<div class="dialogue-block">
+<p class="speech-line">"Your Deep speaks to you," Nefere was saying. "Truly speaks — words, answers, intent."</p>
+</div>
+
+<div class="dialogue-block">
+<p class="speech-line">"The Deep has always spoken," said L'vat, soft as soil settling. "It is the Tree that keeps its counsel."</p>
+</div>
+
+<div class="dialogue-block">
+<p class="speech-line">"The Tree spoke once to the elders of the Wengari," Nefere said, "and it speaks now to the king alone. To the rest of us it gives only its movements — a pulse of light, a stirring of the roots. We Pyrinae have spent generations learning to read them."</p>
+</div>
+
+<div class="dialogue-block">
+<p class="speech-line">"Hm," said L'vat. "The Deep would call that speaking. It simply speaks more slowly."</p>
+</div>
+
+They passed out through the doors together, and the doors closed behind them.
+
+At the table, tails uncurled from around chair legs. Sylva's paws unfolded, and she leaned back with a slow exhale. Cefiro drew up a chair beside his father.
+
+Ajani looked at his uncle.
+
+<div class="dialogue-block">
+<p class="speech-line">"Uncle," he said, "I would hope you'll send a delegation for the festival. Some merchants, and perhaps some warriors? I plan to have a mini tournament to showcase our prowess — nothing as grand as the yearly one. This one will be mostly exhibition matches."</p>
+</div>
+
+Nikolai's ears perked at the word *tournament*, and a glint came into his pale blue eyes.
+
+<div class="dialogue-block">
+<p class="speech-line">"Of course, nephew," he said, with contained excitement.</p>
+</div>
+
+Around the table, everyone rolled their eyes.
+
+<div class="dialogue-block">
+<p class="speech-line">"Careful," Sylva murmured, dry as settled sand. "He will send his entire army and call it a delegation."</p>
+</div>
+
+<div class="dialogue-block">
+<p class="speech-line">"It would be a delegation," Nikolai said. "A large one."</p>
+</div>
+
+<div class="dialogue-block">
+<p class="speech-line">"Grand Vizier," Anastasia said then, in her voice soft and cold, like snow falling on still water. "Could you assign someone to us, so that we might tour the city? We have crossed a great deal of sand, and so far we have seen only walls and war rooms."</p>
+</div>
+
+Ajani opened his mouth — to offer himself. He got exactly one breath into the offer.
+
+<div class="dialogue-block">
+<p class="speech-line">"Perhaps," Nikolai and Anastasia said, in unison, "the king can show our kids the local customs."</p>
+</div>
+
+And practically — with a suggestion that was somehow both subtle and absolute — Vanya and Nadya were nudged toward the table's head. Toward him.
+
+<div class="dialogue-block">
+<p class="speech-line">Ajani blinked. "Of course. I'd be glad to show you the city — the markets, the wells, the arena. It's the least I can do for family."</p>
+</div>
+
+He said it warmly, and meant it, and completely missed what had just happened.
+
+Around him, no one missed it. Sylva's whiskers twitched, once. Cefiro examined his claws with sudden, fascinated attention. Vanya looked at the ceiling and found it interesting. Nadya's fierce composure had gone very still, the way a lake goes still before something breaks the surface. And Nikolai and Anastasia exchanged one glance that contained an entire negotiation, concluded.
+
+After a while, the war room emptied.
+
+The whole company went out through the doors old enough to remember the Third Tyrant, and the corridor took them the way corridors take families — all at once, and in several directions of conversation at the same time.
+
+<div class="dialogue-block">
+<p class="speech-line">"And the Fire Feet races," Ajani was saying to Cefiro, bright with the particular pride of a king showing off his city. "We should go see the Fire Feet races! You haven't seen the city until you have seen the Fire Feet races!!"</p>
+</div>
+
+<div class="dialogue-block">
+<p class="speech-line">"Yes," Vanya said, falling into step beside them with the easy authority of one who had already decided. "We want to see the city. All of it."</p>
+</div>
+
+<div class="dialogue-block">
+<p class="speech-line">"The markets," Nadya added, fierce at sixteen, as though the markets were an opponent. "And the races. And whatever is worth seeing."</p>
+</div>
+
+<div class="dialogue-block">
+<p class="speech-line">"It would be my honor," Ajani said, and meant it.</p>
+</div>
+
+A little behind them, Sylva and Anastasia walked together, and their voices carried the quiet, inexorable cadence of the world being arranged.
+
+<div class="dialogue-block">
+<p class="speech-line">"The delegation will want a quarter of its own," Sylva was saying. "Merchants first. They are the ones who will stay longest."</p>
+</div>
+
+<div class="dialogue-block">
+<p class="speech-line">"Warriors too," Anastasia said. "For the tournament. A king who hosts a tournament must be shown warriors worth the watching."</p>
+</div>
+
+<div class="dialogue-block">
+<p class="speech-line">"I will have Maren prepare the quarter."</p>
+</div>
+
+<div class="dialogue-block">
+<p class="speech-line">"And I will choose the warriors."</p>
+</div>
+
+At the corridor's end, by the tall windows, Ivan and Kira were still at it — still dueling, still properly, still with the last of their scuffle in their fur. Kira was winning. Kira was winning *again*. Ivan feinted, committed, and found she had been somewhere else entirely the whole time, and Pearl, perched on the sill, watched with the professional interest of an elder reviewing a student's form.
+
+Nikolai paused at the sight of them.
+
+The young Snow Paw prince, lunging. The dark-furred girl with the white scorpion, already gone, already elsewhere, already winning. The way they circled. The way neither of them so much as glanced at the door.
+
+The Tsar of the Snow Paws watched for a long moment. And then he smiled — the small, private, satisfied smile of a father who has been listening, all along, to wedding bells.
+
+<div class="dialogue-block">
+<p class="speech-line">"Then I have not seen the city," Cefiro said, to Ajani, to all of them, looking out toward Styxian glittering gold and red under the twin suns.</p>
+</div>
+
+And the whole company went down the corridor together, into the afternoon — while behind them, in the empty war room, the Sultan's frozen tea sat on the table, thawing very slowly, and holding its shape.
+
+
+**The Scuffle**
+
+The company found them beneath the tall windows, still at it.
+
+Kira had Ivan on the back foot — had had him on the back foot, Ajani gathered, for some time. The young Snow Paw feinted and circled and committed with everything he had, and the dark-furred girl flowed around him the way water flows around a stone, and Pearl watched from her windowsill with the calm of an official who had already marked the score.
+
+Then Kira sidestepped a lunge that had promised everything, tapped Ivan between the shoulders with one open paw as he went past, and the duel was over. Again.
+
+Ajani stopped walking.
+
+The king looked at his sister — standing over the youngest son of the Ice City like the winner of something — and something in him remembered, very suddenly, that he was a Bright Paw.
+
+He crossed the last of the distance in three strides, took Kira by the waist, and hoisted her up onto his shoulders in one great lift.
+
+<div class="dialogue-block">
+<p class="speech-line">"Yes!!!" he roared, to the corridor, to the tall windows, to the whole listening palace. "That's right!!! Show the Snow bastards the might of the Bright Paws!!!"</p>
+</div>
+
+Kira went up with the lift, stiffened at the height, and her ears flattened slowly against her skull.
+
+Being hoisted like a cub did not embarrass her. She had lost her family; these arms were the family she had found, and she would have sat in them in the middle of a war without a word of complaint.
+
+What embarrassed her was the looking. The whole corridor was looking, and the king had just announced to the tall windows and the whole listening palace exactly what everyone was looking at — that she had beaten Ivan. All morning. She had been careful about that, and quiet about it, the way she was careful and quiet about most things she wanted to keep. And now it belonged to every supper table between here and the merchants' quarter.
+
+Her eyes dropped to Ivan, ruffled and breathing hard in the middle of the corridor, and her ears flattened another degree.
+
+Ivan stood in the middle of the corridor, breathing hard, his fur ruffled in three directions and defeat sitting squarely on his shoulders.
+
+And then he looked up.
+
+All morning, Cefiro had treated Ivan like a cub — the head-ruffle, the fond, patient, too-familiar *don't worry* — and Ivan had endured it the way one endures weather.
+
+But now it was Kira's turn.
+
+She had flowed around every lunge Ivan could throw like water around a stone, and now she was caught, hoisted, held, perched on the king's shoulders like a kitten that had been claimed — and she could not escape it, and she was not going to try, and everyone in the corridor could see her ears were flat.
+
+Ivan was smug. Defeated, ruffled, and smug.
+
+And Ajani — who had never once beaten Cefiro in a duel — shot Cefiro a look of pure, borrowed triumph. *My sister*, said the look, *just beat your brother* — the only point he would ever score against the Ice City, and he meant to spend the whole afternoon spending it.
+
+On his shoulders, Kira caught the look. She understood it with the perfect clarity of someone who knew her brother entirely too well — exactly what she was, up here. The point he had never been able to score himself. She was the proxy.
+
+She folded her arms and endured the height, burning to the tips of her ears. And because it was Ajani holding her, she did not ask to be put down.
+
+Cefiro just smiled.
+
+It was the smile of a Wengari who had beaten a king daily for six months and had never once needed to mention it.
+
+<div class="dialogue-block">
+<p class="speech-line">"Don't worry, brother," he said, to Ivan. "I'll train you personally from now on. We won't rest until you beat our young cousin."</p>
+</div>
+
+Ivan's smile turned to a frown. He knew what his brother trained people personally. Everyone in the Ice City knew. There were stories.
+
+<div class="dialogue-block">
+<p class="speech-line">"Yes, son," Nikolai added, warmly. "We can't let our record be marred, can we, dear?"</p>
+</div>
+
+<div class="dialogue-block">
+<p class="speech-line">"That's right," Anastasia said sweetly — in the voice of a tsarina who was already, somewhere behind her soft and quiet eyes, planning wedding venues in the north. "Vanya and Nadya will also help, right, girls?"</p>
+</div>
+
+Nadya hoisted Ivan by his paws, lifting him bodily off the floor.
+
+<div class="dialogue-block">
+<p class="speech-line">"Of course, Mother," she said, all teeth. "We will conduct a very thorough training..."</p>
+</div>
+
+Ivan dangled. It occurred to him, slightly too late, that he had not actually agreed to any of this.
+
+Ajani and Kira flinched together — one flinch, two Bright Paws — feeling sorry for Ivan.
+
+It was at that moment that Blackie and Reddy made their entrance.
+
+They came around the corridor's bend from the direction ahead — unhurried, enormous, clicking — the black one leading with his white-lacquered pincers striking the stone like tools in a smithy, his red sister at his flank, her crimson aura bright with some excitement of her own. Servants flattened themselves against the walls with the practiced calm of people who had done it before, and the two great scorpions took the center of the corridor the way the river takes its bed.
+
+They went straight to the windowsill where Pearl kept her post, and the three of them fell into conference at once — a rapid, excited exchange of click and chitter and eloquent tail, antennae rising and falling, Pearl reporting everything that had happened out here, her brother and sister answering with news of their own. Whatever had been going on in the palace that afternoon, all three of them appeared to have opinions about it, and the opinions were urgent.
+
+Ajani, who understood his scorpions better than most of his generals, caught perhaps one word in three, and all of the excitement.
+
+Then Blackie turned to him and beckoned — one great claw waving, *come, come* — and set off back the way he had come, and looked around once to see whether the king of the Wengari was following. Reddy did the same. They did it with the absolute confidence of creatures who had never once been refused.
+
+Ajani set Kira down. She slid to the floor and smoothed her fur with the dignity of one whose ordeal was, at last, concluded.
+
+<div class="dialogue-block">
+<p class="speech-line">"What," Ajani said, to the backs of two scorpions who were not going to answer him.</p>
+</div>
+
+He acted thoroughly confused — ears swiveling, tail questioning — and then, because it was his scorpions and because no one in Styxian had ever learned to say no to them, he started to follow.
+
+And all of the Snow Paws did the same — Nikolai because he wished to see, Anastasia because she was not finished arranging her children's futures, Vanya because she had already decided, Nadya because she had set Ivan down and was not done with him, Cefiro because he was curious, and Ivan because everywhere else he could be was training. Sylva watched the procession form, judged that the kingdom would survive one afternoon without her, and fell in beside the grand company with the air of one attending an event she would describe dryly later.
+
+At the rear of the procession, where the afternoon light fell warmest, Kira drifted back until she was walking beside Ivan.
+
+Ivan was walking with the careful dignity of a youngling who has been promised thorough training.
+
+<div class="dialogue-block">
+<p class="speech-line">"Sorry!" Kira whispered.</p>
+</div>
+
+And she meant it. She had won, and she had never wanted him to be the one everyone saw losing — not him, who had tried so hard, and not in front of the whole corridor, and not announced to the tall windows by the king of the Wengari himself.
+
+Ivan looked at her. She was looking straight ahead, ears forward, as though she had said nothing at all — and something in Ivan's chest turned over, because she had apologized, because she had cared enough to apologize, because the girl who had beaten him all morning had glanced at him and said *sorry*.
+
+He straightened his spine. He smoothed his fur. He lifted his chin by one precise and careful degree.
+
+<div class="dialogue-block">
+<p class="speech-line">"Don't worry," he whispered back. "Next time I will beat you."</p>
+</div>
+
+And he walked a little taller for the rest of the way.
+
+And ahead of them all, unhurried, enormous, clicking, Blackie and Reddy led the whole procession toward something they had not yet told anyone about.
