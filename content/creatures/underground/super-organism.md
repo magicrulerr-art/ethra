@@ -18,7 +18,7 @@ Tyrant-class beings that the Chi'Thak avoid at all costs. Depicted in vivid glow
 
 ## Known Tyrants
 
-- The Fourth Tyrant (Crr'zzak) — "The Fear on Wings" — originally Chi'Thak himself, evolved through Flicker's influence
+- The Second Tyrant (Crr'zzak) — "The Fear on Wings" — originally Chi'Thak himself, evolved through Flicker's influence
 
 ## Chi'Thak Response
 

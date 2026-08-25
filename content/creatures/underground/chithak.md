@@ -29,6 +29,6 @@ They emerge only during **Convergences** (the Resonance), from underground burro
 
 Via **pheromones**. Hive mentality.
 
-## The Fourth Tyrant — Crr'zzak, "The Fear on Wings"
+## The Second Tyrant — Crr'zzak, "The Fear on Wings"
 
 He was taller and stronger than every other member of his race due to Flicker's influence. When he emerged, the blight came with him. He flew from end to end of the continent in weeks, devouring everything. Every current Chi'Thak owes its life to him.
