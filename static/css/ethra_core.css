@@ -1852,12 +1852,16 @@ body.leaving{opacity:0;transition:opacity .3s ease}
   background-size: 96px 48px, 170px 80px;
   background-position: right 30px bottom 2px, right 0 bottom 0;
 }
-/* 2 · the Chamber of Reflection — nested rings */
-#arc1-ch02 h2 {
-  background: repeating-radial-gradient(circle at 50% 50%, rgba(201,160,89,0.30) 0 1.5px, transparent 1.5px 13px);
-  background-repeat: no-repeat;
-  background-size: 120px 90px;
-  background-position: right 18px center;
+/* 2 · the Chamber of Reflection — retrofit fragment: the runed door and its
+   torch, lifted from the discarded v3 forge (upper scenery only, zero figure
+   drift). The chapter's identity lives in its heading. */
+#arc1-ch02 h2 { background: none; }
+#arc1-ch02 h2::before {
+  content: ''; position: absolute; right: -4px; top: -12px; bottom: -6px; width: 168px;
+  background: url('/static/images/title-arc1-02.webp') right center / cover no-repeat;
+  -webkit-mask-image: linear-gradient(to left, rgba(0,0,0,0.95), rgba(0,0,0,0.40) 60%, transparent 96%);
+          mask-image: linear-gradient(to left, rgba(0,0,0,0.95), rgba(0,0,0,0.40) 60%, transparent 96%);
+  opacity: 0.55; filter: brightness(1.25); pointer-events: none; border-radius: 4px;
 }
 /* 3 · the Pact — two rings joined */
 #arc1-ch03 h2 {
@@ -1959,12 +1963,19 @@ body.leaving{opacity:0;transition:opacity .3s ease}
 
 /* ─── Arc III · First Blood · ember ─── */
 
-/* 1 · the arena ring */
-#arc3-ch01 h2 {
-  background: radial-gradient(ellipse 50% 50% at 50% 50%, transparent 0 60%, rgba(205,127,74,0.44) 62% 70%, transparent 72%);
-  background-repeat: no-repeat;
-  background-size: 132px 68px;
-  background-position: right 14px center;
+/* 1 · the Arena — a pixel Ajani strides in and strikes the pillar.
+   Hand-authored 6-frame sprite (1.1 KB), pure-CSS steps() loop: zero
+   generation tokens, zero JS. Reduced-motion leaves a still vignette. */
+#arc3-ch01 h2 { background: none; }
+#arc3-ch01 h2::before {
+  content: ''; position: absolute; right: 12px; bottom: -2px; width: 120px; height: 48px;
+  background: url('/static/images/arena-sprite.png') 0 0 / 720px 48px no-repeat;
+  image-rendering: pixelated; pointer-events: none;
+  animation: arenaPunch 2.7s steps(6, end) infinite;
+}
+@keyframes arenaPunch {
+  from { background-position: 0 0; }
+  to   { background-position: -720px 0; }
 }
 /* 2 · first blood — a single drop */
 #arc3-ch02 h2 {
@@ -2049,15 +2060,16 @@ body.leaving{opacity:0;transition:opacity .3s ease}
   background-size: 20px 14px, 20px 14px, 2px 44px, 2px 44px;
   background-position: right 50px top 10px, right 20px top 10px, right 70px center, right 18px center;
 }
-/* 5 · the gifts — a wrapped parcel with ribbon */
-#arc4-ch05 h2 {
-  background:
-    linear-gradient(90deg, transparent 46%, rgba(138,216,216,0.45) 46% 54%, transparent 54%),
-    linear-gradient(0deg, transparent 44%, rgba(138,216,216,0.45) 44% 56%, transparent 56%),
-    linear-gradient(rgba(58,166,166,0.20), rgba(58,166,166,0.20));
-  background-repeat: no-repeat;
-  background-size: 64px 48px, 64px 48px, 64px 48px;
-  background-position: right 30px center, right 30px center, right 30px center;
+/* 5 · the Gifts — retrofit fragment: the king from behind, mane-feather and
+   open ledger, lifted from the discarded v8 tribute forge (crop excludes the
+   drifted tails and the bearer's hands). */
+#arc4-ch05 h2 { background: none; }
+#arc4-ch05 h2::before {
+  content: ''; position: absolute; right: -4px; top: -12px; bottom: -6px; width: 168px;
+  background: url('/static/images/title-arc4-05.webp') right center / cover no-repeat;
+  -webkit-mask-image: linear-gradient(to left, rgba(0,0,0,0.95), rgba(0,0,0,0.40) 60%, transparent 96%);
+          mask-image: linear-gradient(to left, rgba(0,0,0,0.95), rgba(0,0,0,0.40) 60%, transparent 96%);
+  opacity: 0.6; pointer-events: none; border-radius: 4px;
 }
 /* 6 · aftermath — dust settling */
 #arc4-ch06 h2 {

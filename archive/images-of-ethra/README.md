@@ -58,6 +58,18 @@ Format: `file — what it shows — why it was superseded — reuse value`.
 - `chapter-arc7-01-v8.png/.webp/.jpg` (+sidecar) — Cave scene that PASSED self-audit with the full company (7 named + Cefiro-extra, all feline, tiny back-view); shipped briefly, superseded by Ainz's landscape fallback (v10). **Reuse: best full-company cave render so far — first choice if a company cover is ever wanted again.**
 - `chapter-arc7-01-v9.png` — Cave scene with Ainz's height hierarchy (Nikolai very tall; Anastasia/Vanya/Nadya same; Cefiro/Ajani same; Kira/Ivan very small); 8 figures but one child rendered human (drift). Reuse: hierarchy layout study.
 
+## Retrofit reuse — title bands (2026-08-25)
+Ainz ruling: chapter headings must carry the chapter's identity; discarded
+forges may be retrofitted as subtle masked title-band fragments. First pilots:
+- `chapter-arc1-02-v3` → `static/images/title-arc1-02.webp` (crop 0.50,0.05–1.00,0.60:
+  runed door + torch, scenery only, zero figure drift).
+- `chapter-arc4-05-v8` → `static/images/title-arc4-05.webp` (crop 0.44,0.38–0.75,0.74:
+  mane-feather + open ledger; excludes drifted tails and bearer's hands).
+Retrofit doctrine: crop MUST exclude every flagged drift region; the fragment
+sits at ≤0.6 opacity behind the heading, masked to fade toward the text.
+Generator: `tools/title_assets.py` (also forges the hand-authored 1.1 KB
+`arena-sprite.png` pixel loop for arc3-ch01 — zero generation tokens).
+
 ## Counting-doctrine note (2026-08-25)
 qwen-image-2.0 cannot reliably render exactly N distinct silhouettes: across
 v5–v8 it produced 6, 6, 6 and 8 figures for a 7-figure brief, each time with a
