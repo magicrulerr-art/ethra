@@ -1,4 +1,4 @@
-# chapter-arc6-03 v1 — Prompt Record ("The Vision")
+# chapter-arc6-03 — Prompt Record ("The Vision") — v1 superseded, v2 current
 
 ## Source
 - Path: C:\Users\magic_new.BETOS-AIO.000\.qwenpaw\media\qwen_image\qwen_image_gen_0_1787619164902.png
@@ -44,3 +44,26 @@ communion. Scorpions are canonically absent from the chamber scene.
 - view_image self-audit restored 2026-08-24; audit the WebP derivative
   (master PNG exceeds the 2 MB vision-transport limit).
 - Ainz-sama audits ex post and his verdict is final.
+
+## v2 addendum (2026-08-24, after Ainz rejected v1)
+
+Ainz approved 02/04/05 (LOCKED) but asked of v1 "what is that one supposed
+to be depicting?" — the medium two-shot failed to convey the scene: blossom
+read as a hanging lamp, roots as wall lightning, L'vat as a beetle-monk; the
+sanctum vastness never entered the frame.
+
+- Source: C:\Users\magic_new.BETOS-AIO.000\.qwenpaw\media\qwen_image\qwen_image_gen_0_1787620867781.png
+- SHA-256: 80677412787ECB9CE7BCC1D1A637253657BDA64086AF93576FEBF89B9115EBAD
+- Bytes: 7,548,316 → canonical `chapter-arc6-03-v2.png` (+ webp/jpg derivs)
+
+v2 composition: EXTREME WIDE sanctum — colossal pale root-pillars coiling
+through gothic stone vaults, hatched golden glow; an enormous blossom wide
+as a plaza cupping the rippling amber pool, suspended in its web over a
+still amber lake; Ajani and L'vat SMALL at the lake's edge, both from
+behind, Ajani one paw raised. Doctrine lesson applied: this beat is a
+landscape, not a portrait.
+
+Self-audit (view_image on WebP): PASS — scale reads, blossom reads as sacred
+object, species correct, one tail, no frontal faces, no wings, house style
+held. Waived: faint cool aura on L'vat; gothic vaulting interpretive.
+Shipped 🟡 pending Ainz verdict. v1 retained on disk as history.
