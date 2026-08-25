@@ -47,8 +47,11 @@ Bestiary plan). Coordinate data lives at `static/data/map-coordinates.json`.
   - Otherwise `chapter-arc{X}-{YY}.png` (unversioned) is canonical.
 - A version is canonical **only** when the bytes on disk match the
   recorded size and Ainz-sama has approved it.
-- Previous versions (v1..v(N-1)) are **NOT deleted** — they form the
-  historical record and are referenced by mistake-cadence logs.
+- Superseded versions (v1..v(N-1)) are **deleted from disk** once the
+  successor passes self-audit and ships (Ainz bloat ruling, 2026-08-25).
+  The historical record lives in the `*-PROMPT-RECORD.md` sidecars and
+  this ledger; git history retains the bytes and is purged only on
+  Ainz's explicit order.
 
 ---
 
@@ -121,7 +124,7 @@ Bestiary plan). Coordinate data lives at `static/data/map-coordinates.json`.
 
 | Chapter | Title | Status | Canonical filename | Bytes | Locked |
 |---------|-------|--------|--------------------|-------|--------|
-| arc7-01 | The Birth of the Festival | 🟡 pending v3 (first forge of Arc 7; v1 drift: human hand + mannequin councilors + crimson orb; v2 drift: quadruped cats on table + king on table; v3 PASS self-audit — upright robed feline councilors, king on floor, furred clawed paw, twin suns standing; awaiting Ainz verdict) | `chapter-arc7-01-v3.png` | 6,436,928 | 2026-08-25 |
+| arc7-01 | The Birth of the Festival | 🟡 pending v4 (Ainz redirected cover from council scene to the CAVE scene: dark cavern, company in pure silhouette, colossal coiled snow wurm half-seen in pale blue-white glow; v1–v3 council-scene forges deleted from disk per Ainz bloat ruling 2026-08-25, record kept in sidecars; awaiting Ainz verdict) | `chapter-arc7-01-v4.png` | 6,439,686 | 2026-08-25 |
 
 ## Arc 6 — Aftermath & The Road
 
@@ -146,7 +149,8 @@ Arc 6 pre-forge scrub (2026-08-23, commit 0cd5006): umbrella `chapter-06.md` + s
 4. MEMORY.md "Arc ledger" block updated.
 5. (Optional) regenerate webp/jpg variants per universal checklist.
 6. (Optional) regenerate thumbnails per universal checklist.
-7. NEVER delete v1..v(N-1) PNGs.
+7. Delete superseded v1..v(N-1) PNGs/WebPs from disk (bloat ruling
+   2026-08-25); sidecars + this ledger are the historical record.
 ```
 
 ## Promotion trigger
