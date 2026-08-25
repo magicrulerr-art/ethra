@@ -251,7 +251,7 @@
       "name": "Threx",
       "x_pct": 64.6,
       "y_pct": 32.1,
-      "image_full": "/static/images/lament.png",
+      "image_full": "/static/images/lament-v2.png",
       "subtitle": "Mycelial beings, connected to the Deep"
     },
     {
@@ -261,7 +261,7 @@
       "name": "The Lament",
       "x_pct": 66.9,
       "y_pct": 39.7,
-      "image_full": "/static/images/lament.png"
+      "image_full": "/static/images/lament-v2.png"
     },
     {
       "kind": "creature",
@@ -385,7 +385,7 @@
       {
         "slug": "chithak",
         "name": "The Chi'Thak (Blight)",
-        "image_full": "/static/images/lament.png"
+        "image_full": "/static/images/chithak.png"
       },
       {
         "slug": "super-organism",

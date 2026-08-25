@@ -4,7 +4,7 @@ kind: race
 x_pct: 64.6
 y_pct: 32.1
 subtitle: Mycelial beings, connected to the Deep
-image_full: /static/images/lament.png
+image_full: /static/images/lament-v2.png
 ---
 # Threx
 
@@ -12,7 +12,7 @@ image_full: /static/images/lament.png
 **Biome:** Flickermarch  
 **Attunement:** Deep-attuned; mycelial communion beneath the fungal forest  
 
-<picture><img src="/static/images/lament.png" alt="The Lament, a Threx" class="creature-portrait" style="max-width:400px;float:right;margin:0 0 1em 1em;border:2px solid #333;"></picture>
+<picture><img src="/static/images/lament-v2.png" alt="The Lament, a Threx" class="creature-portrait" style="max-width:400px;float:right;margin:0 0 1em 1em;border:2px solid #333;"></picture>
 
 ## Physical Description
 

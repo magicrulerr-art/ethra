@@ -3,7 +3,7 @@ name: The Lament
 kind: creature
 x_pct: 66.9
 y_pct: 39.7
-image_full: /static/images/lament.png
+image_full: /static/images/lament-v2.png
 ---
 # Lament Threx
 
@@ -11,7 +11,7 @@ image_full: /static/images/lament.png
 **Biome:** Flickermarch  
 **Attunement:** Flicker-attuned
 
-<picture><source srcset="/static/images/lament.webp" type="image/webp" /><source srcset="/static/images/lament.jpg" type="image/jpeg" /><img src="/static/images/lament.png" alt="Lament Threx — avatar of the Mycelial Deep" class="creature-portrait" style="max-width:400px;float:right;margin:0 0 1em 1em;border:2px solid #333;"></picture>
+<picture><source srcset="/static/images/lament-v2.webp" type="image/webp" /><source srcset="/static/images/lament-v2.jpg" type="image/jpeg" /><img src="/static/images/lament-v2.png" alt="Lament Threx — avatar of the Mycelial Deep" class="creature-portrait" style="max-width:400px;float:right;margin:0 0 1em 1em;border:2px solid #333;"></picture>
 
 ## Physical Description
 
