@@ -1,4 +1,4 @@
-## Chapter 1: The Council of Coin
+## Chapter 1: The Birth of the Festival
 
 **Outside the Doors**
 
@@ -562,3 +562,110 @@ He straightened his spine. He smoothed his fur. He lifted his chin by one precis
 And he walked a little taller for the rest of the way.
 
 And ahead of them all, unhurried, enormous, clicking, Blackie and Reddy led the whole procession toward something they had not yet told anyone about.
+
+
+---
+
+**The Wurms' Rest**
+
+Blackie and Reddy were walking hurriedly now.
+
+All afternoon the two great scorpions had moved at the pace of creatures who believed the world would wait for them — but that pace had changed the moment they left the tall windows. They clicked through the corridors like messengers with urgent dispatches, pincers striking, tails high, and whatever they had come to fetch the king for, they were now in a considerable hurry to deliver it.
+
+The company followed them down.
+
+Down the broad processional stairs, down past the halls the servants used, down older stairs still, where the stone was worn smooth by generations of paws — down to where the palace stopped pretending to be a palace and became, the way old palaces do, a fortress. The dungeons of the palace had not held a prisoner in longer than any living Wengari could remember; the cells stood open and dusty and repurposed for storage. But it was still a dungeon, and the torches still guttered in the draught that came from somewhere deeper.
+
+The draught was cold. Not cool — cold, a dry, clean, northern cold that had no business existing beneath a desert city, and it grew colder the deeper they went, and the Snow Paws walked into it like tide coming home.
+
+Nadya had decided this walk was her opportunity.
+
+She cleared her throat, loudly, at Ajani's elbow. Ajani did not hear her. She summoned her jagged dagger and examined it with exaggerated, conspicuous menace. Ajani did not see her. She offered, at volume, to go ahead and scout whatever lay below — the fiercest warrior of her generation volunteering for scouting duty — and Ajani waved one paw absently without turning around, the way one waves at a fly, and Nadya sheathed her dagger with the dignity of one who would remember this.
+
+Because Ajani was talking with Nikolai, and Nikolai was talking with Ajani, and the two of them had been completely absorbed in it since the corridor.
+
+They were talking about the gate.
+
+The Tsar kept reliving it the way other Wengari relived victories — not with bitterness, but with appetite. The halberd coming down with the force of a collapsing glacier. The light spear materializing just in time to meet it. The shockwave of ice and light rolling across the silent gate while five thousand years of isolation watched. Nikolai described his own defeat the way a connoisseur describes a fine frostfire, and Ajani listened with both ears forward, and neither of them noticed anything else in the world.
+
+<div class="dialogue-block">
+<p class="speech-line">"Nephew," Nikolai said at last, heartily, in the voice of a father praising a son, "I never knew you made so much advance in these years. Maybe you can beat your cousin now... I'll put good coin on that. The way you trained the young princess shows growth."</p>
+</div>
+
+Ajani's ears went up like sunrise.
+
+<div class="dialogue-block">
+<p class="speech-line">"You really think so?!"</p>
+</div>
+
+He turned toward Cefiro. Cefiro just shook his head, smiling — slowly, with the certainty of a mountain — as if to say: *never going to happen*.
+
+Anastasia, meanwhile, had drawn Kira into conversation. The two of them walked together in the middle of the company — two and a half meters of lithe white fur, and the small dark girl with the white scorpion on her shoulder, who did not look the least bit daunted by the height beside her.
+
+<div class="dialogue-block">
+<p class="speech-line">"What do you think of our little Ivan?" Anastasia asked her. "He isn't Cefiro yet. No one is. He is the greatest warrior our lands have produced in over a century, but he'll get there, won't he, dear?"</p>
+</div>
+
+The sentence had started about Ivan, the way a river starts in the hills, and ended, the way all of Anastasia's rivers ended, at Cefiro.
+
+The groan went through the royal family like a cold wind. It was not a surprised groan. It was the groan of a family that had been here before — many, many times — and knew every step of the dance.
+
+<div class="dialogue-block">
+<p class="speech-line">"Yes, we know, Mother," Vanya said, her eyes closed. "No one beats your precious little cub. You've been training him since he was two."</p>
+</div>
+
+<div class="dialogue-block">
+<p class="speech-line">"And we know even Father hasn't beaten you," Nadya added — already, and knowingly, loading the next line of a conversation that had been had so many times it had worn its own groove into the family.</p>
+</div>
+
+<div class="dialogue-block">
+<p class="speech-line">"That is right, dear," Anastasia said sweetly, in the tone of a fact settled long ago and beyond appeal. "He hasn't."</p>
+</div>
+
+Ajani's ears swiveled toward Anastasia, and he looked at her for a moment with the open reassessment of a fighter who has just learned of an unclimbed mountain.
+
+Even Nikolai coughed — a small, careful cough, the cough of a Tsar who knew exactly where this conversation was safer steered.
+
+<div class="dialogue-block">
+<p class="speech-line">"Yes, of course," he said. "Who could beat our great Cefiro?"</p>
+</div>
+
+Cefiro, for his part, entirely missed the subtext, and the second-hand embarrassment of his entire family, and lifted his head a little — proud, and trying to be humble about it, and succeeding at neither.
+
+Kira considered the question with the seriousness it deserved.
+
+<div class="dialogue-block">
+<p class="speech-line">"I think the young prince's form is good," she said, in her characteristic style — which is to say, without a single grain of diplomacy. "But my brother and Lira are better."</p>
+</div>
+
+And above her head, a shadow bloomed.
+
+It peeled itself off the torchlit wall — a thread of darkness no thicker than a claw — climbed the air above her ears, and burst, silently, in miniature: a small firework of shadow, dark sparks falling upward, hanging a heartbeat, and going out.
+
+It was the sign. The sign that Lira and Vex were there, that they were always there, that they had been there the whole time and would be there long after the torches guttered out.
+
+Vanya's fingers closed around a blade that was not there yet. Nadya stepped half in front of Ajani. Ivan's paw went to a ceremonial dagger he was no longer carrying. Sylva's whiskers snapped rigid, and she decided, in that instant, that she would describe this evening very dryly to someone later. Even Pearl's antennae went up like two drawn swords.
+
+They had known. They had all known — that Lira and Vex walked with Kira was known to everyone in the company. But knowing is not sensing, and in that moment they had forgotten, because they were not what the four who did not react were.
+
+Ajani did not turn around — he had felt them since the stairs, the way one feels an old friend in a room, and he waved one paw absently behind him in greeting. Cefiro's smile widened — he had traveled with those shadows, and felt them as plainly as his own breath. And Nikolai and Anastasia simply walked on, because the two of them had been counting the shadows among the company's footfalls since the corridor.
+
+Apex warriors, all four. They had known the whole time.
+
+Anastasia smiled, lifted one paw, and produced snow fireworks of her own.
+
+They bloomed in the cold dungeon air without a sound — white and silver, frost-flowers opening and opening again, cold sparks drifting down and melting before they touched the stone. Shadow and snow, each family answering the other in its own tongue, while the children of both watched and said nothing at all.
+
+The cave mouth opened at the end of the deepest corridor — a rough arch of ancient stone, older than the palace above it. And the cold that came out of it was not the cold of a cellar. It was the cold of a home.
+
+Beyond the arch, in the dark, something vast was breathing — slow, tidal breaths — and with every breath came the faint sound of hundreds of legs shifting in their sleep, like ice settling on a frozen lake, and a pale blue-white glow that pulsed gently, gently, in time with the dreaming.
+
+Nikolai stopped at the threshold.
+
+The Tsar of the Snow Paws, who had carried five thousand years of isolation without bending, who had met a White Dawn at the gate with a halberd in his paws, cupped both great paws around his mouth and bellowed into the dark with all the tenderness of a father calling his children in from the snow.
+
+<div class="dialogue-block">
+<p class="speech-line">"MY BABIES!!!!"</p>
+</div>
+
+And somewhere deep in the cave, the breathing paused — and then, very large, and very excited, and very, very many, it began to move toward the sound of his voice.
