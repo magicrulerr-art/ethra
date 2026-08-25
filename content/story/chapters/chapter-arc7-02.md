@@ -75,3 +75,102 @@ The halberd lowered, inch by inch, and dissolved back into the frozen air.
 <div class="dialogue-block">
 <p class="speech-line">"Whitey…" Nikolai said, very quietly. "What have you done…"</p>
 </div>
+
+
+---
+
+**Thunder Wasps**
+
+Nikolai took one step toward the eggs.
+
+Whitey's chittering broke into a frenzy. She gathered the clutch tighter beneath her, forward segments curling around the pale golden shapes, her glow flaring — placing herself between the Tsar and the one thing she had left. Hundreds of legs scraped the stone. The sound she made was not a threat. It was a plea.
+
+<div class="dialogue-block">
+<p class="speech-line">"Is that normal?…" Ajani murmured, beside Cefiro.</p>
+</div>
+
+Cefiro did not answer.
+
+He walked past the king, past the stillness of the company, until he stood at his father's shoulder, and looked down at the clutch with the calm of a man reading figures in a ledger.
+
+<div class="dialogue-block">
+<p class="speech-line">"Just three eggs?" he said. "The clutches are usually dozens. And smaller. Is this your doing, Father?"</p>
+</div>
+
+<div class="dialogue-block">
+<p class="speech-line">"Of course not!!!" Nikolai's voice cracked like young ice. "Whitey is too young. And Snow and Ice were her clutch mates — she isn't supposed to be able to breed yet!!! And I brought them because they're the gentlest, I have no—"</p>
+</div>
+
+The movement stopped.
+
+Whitey's chittering cut off in the middle of a note. Her hundreds of legs went still. The pale blue-white glow gathered itself at her heart, pulsed once — and went out. She folded around the clutch she had fought for, and did not move again.
+
+Silence filled the cavern — the silence of a held breath, of a held world.
+
+Nikolai stood over her, beyond weeping now.
+
+<div class="dialogue-block">
+<p class="speech-line">"They were my babies…" he murmured. "I cared for them since they were eggs…"</p>
+</div>
+
+The rumble began.
+
+It came from below — from the deep of the cavern, where the stone gave way to sand — a rolling, grinding sound, the sound of the desert itself in motion. Every head in the company snapped toward it. Every paw went to steel or sorcery. Blackie and Reddy's antennae swept forward like two drawn swords.
+
+The sand wurm came out of the deep dark, and it was bigger than any snow wurm Nikolai had ever seen.
+
+Its chitin glowed with hues of gold and green — not the pale blue-white of the northern lines, but the colors of deep places, of things that have never seen either sun. Hundreds of legs carried it forward in slow waves, and it moved like something that had never once needed to hurry.
+
+No one moved. No one breathed.
+
+It approached Whitey carefully. Almost tenderly.
+
+And then it bent its great head over her — and bit her.
+
+Whitey stirred. With the last of her strength — a flicker of legs, a tremor through the chitin — she struggled.
+
+Nikolai's paw swept the air, and the halberd was in it, runic patterns blazing.
+
+<div class="dialogue-block">
+<p class="speech-line">"LEAVE HER!! LEAVE HER!! YOU BRUTE!!"</p>
+</div>
+
+The halberd came down with the force of a collapsing glacier — and bounced. Runes flared and skidded across the gold-green chitin as if the Tsar of the Snow Paws had struck a mountain.
+
+He summoned all his strength, and struck again.
+
+The wurm coiled — and swatted him aside as if he were a fly.
+
+Nikolai struck the stone and was on his feet in the same motion, halberd re-formed in his paw — and behind him, at the far shore of the cavern, something burst from Snow and Ice.
+
+Their chitin split — softly, almost gently — and out of them poured a white, viscous flood: dozens of larvae, writhing across the stone.
+
+Kira went rigid with fear. Every lesson Sera had ever drilled into her, every year of the streets, every scrap of courage she had earned — none of it moved. Her body had found something older than all of it, and it was screaming.
+
+Two shadows peeled away from the cavern wall.
+
+Vex and Lira materialized between the company and the larvae, blades already drawn — and the two assassins who guarded the White Dawn's sister were shouting.
+
+<div class="dialogue-block">
+<p class="speech-line">"GET BACK!!! THEY'RE THUNDER WASPS!!!"</p>
+</div>
+
+<div class="dialogue-block">
+<p class="speech-line">"What?!" Nikolai bellowed.</p>
+</div>
+
+<div class="dialogue-block">
+<p class="speech-line">"Parasitic flying monstrosities," Ajani said, very quietly. "They almost never surface outside the tide. The wurms must have woken a hive."</p>
+</div>
+
+Nikolai's paw came up and pointed at the gold-green vastness coiled over Whitey.
+
+<div class="dialogue-block">
+<p class="speech-line">"And that?!!!"</p>
+</div>
+
+Ajani shook his head.
+
+And then — faint at first, and then filling the dark the way water fills a bowl — came the sound of wings. Thousands of them.
+
+Approaching.

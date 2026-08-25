@@ -348,6 +348,8 @@ A massive Flicker-attuned arthropod used by the Snow Paws as their primary groun
 **Creatures:**
 - Chi'Thak themselves are the dominant species
 - Super-organisms (Tyrant-class beings) that the Chi'Thak avoid at all costs, depicted in glowing stone murals
+- Thunder wasps — Flicker-attuned parasitoid swarms of the deep desert hives. In the Steadfast cycle they are harmless — their sting cannot pierce the thick chitin of most desert dwellers; in the Flicker cycle their aura grants them speed and hardness. They breed by stinging great beasts, dozens of larvae to a corpse, and almost never surface outside the tide.
+- Sand wurms — legendary wurms of the deep desert, some twenty meters long, their gold-green chitin said to turn aside runed weapons. No one has seen one; their existence is only inferred by the corpses of lesser beasts left behind, and caves filled to the brim with bones and old husks.
 
 <picture><source srcset="/static/images/chithak.webp" type="image/webp" /><source srcset="/static/images/chithak.jpg" type="image/jpeg" /><img src="/static/images/chithak.png" alt="Chi'Thak Warrior" class="creature-portrait" style="max-width:350px;float:right;margin:0 0 1em 1em;border:2px solid #333;"></picture>
 <picture><source srcset="/static/images/super-organism.webp" type="image/webp" /><source srcset="/static/images/super-organism.jpg" type="image/jpeg" /><img src="/static/images/super-organism.png" alt="Underground Super-Organism" class="creature-portrait" style="max-width:350px;float:right;margin:0 0 1em 1em;border:2px solid #333;"></picture>
