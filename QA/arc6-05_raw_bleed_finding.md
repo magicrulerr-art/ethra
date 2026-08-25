@@ -1,6 +1,10 @@
 # FINDING — Arc VI Epilogue raw-direction bleed
 
-- **Status:** AWAITING VERDICT (Ainz-sama, 2026-08-25): excise now, or route to Demiurge's cleaning queue
+- **Status:** EXCISED (Ainz-sama's word: "excise it, then we continue", 2026-08-25)
+  Commit `f9953c3` pushed; backup `chapter-arc6-05.md.bak.sulheim_bleed` kept;
+  live server verified serving clean text (91,048 bytes, zero "sulheim" hits);
+  junction flow verified (Nikolai's shade plea → "Ajani looked from Nikolai's
+  defeated posture..." reads clean).
 - **File:** `content/story/chapters/chapter-arc6-05.md`
 - **Location:** lines 1103–1105 (one dialogue-block)
 - **Defect (verbatim):**
