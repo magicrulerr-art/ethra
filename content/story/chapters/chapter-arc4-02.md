@@ -1,10 +1,6 @@
 ## Chapter 2: The Caravans
 
 <div class="dialogue-block">
-<p class="speech-line">Solen rose slowly. The old High Priest's golden mane was still dulled, but his voice was steady. "The Bright Paws accept. We have been the royal family for three thousand years. We have grown stagnant. We have grown weak. The tournament exposed us. The king's reforms are giving us a chance to become strong again. Five-year terms will ensure that no Bright Paw ever again sits on a throne of complacency. We will propose candidates. We will compete. And we will earn our place among the families once more."</p>
-</div>
-
-<div class="dialogue-block">
 <p class="speech-line">He paused, his ancient eyes meeting Ajani's. "There is wisdom in this. The Lightbringer himself did not rule alone—he had advisors, companions, allies who challenged his thinking and sharpened his judgment. The offices you are creating are a return to that old way. Not a monarchy propped up by ritual and tradition, but a government of competing voices, each one sharpening the others. The Bright Paws will support this. We will train our cubs to compete for these offices. And we will remind them that five years is a season, not a lifetime. A predator hunts. A predator adapts. A predator does not grow fat on the throne."</p>
 </div>
 
@@ -34,48 +30,6 @@ Solen rose slowly. <span class="speech">"The Bright Paws accept. The grand vizie
 
 Ajani leaned back on the cold throne. The green fire flickered gently along his claws. The plan was set. The offices were filled. The grand vizier would carry the weight of governance, and the king would be free. The road awaited. The coalition was assembling. The world was turning. And the elders, for all their cunning, had just agreed to do his work for him while he rode north into legend.
 
-**The Chapter's Cadence**
-
-The rhythm of this chapter is a deliberate, grinding repetition: proposal, objection, debate, resolution. Each office follows the same structural pattern. Ajani describes the role, the elders react, candidates are proposed, and a selection is made. This repetition risks monotony but avoids it because the content of each debate is distinct. The coin master debate centered on the character of the candidates—Vasha the humorless, Maren the incorruptible, Torek the apathetic.
-
-The security advisor debate centered on the nature of the unit—not glory-seekers but Wengari with something to lose, fighting with their backs to their families. The foreign advisor debate centered on the tension between the Wengari's predatory nature and the need to become hosts. The grand vizier debate centered on the transfer of power itself.
-
-This structure works because it mirrors the experience of governance. The reader, like Ajani, is trapped in the council chamber, watching the hours slip away while the road waits. The cadence is monotonous in the same way that real bureaucracy is monotonous—but it is never dull, because each debate raises the stakes in a different direction. The chapter is an exposition chapter disguised as a political thriller, and the tension comes not from combat but from the slow, grinding work of building a government.
-
-**Ajani's Voice**
-
-<div class="dialogue-block">
-Ajani's internal monologue is the chapter's emotional engine. The contrast between his formal pronouncements and his private thoughts reveals a young king who is performing competence while feeling anything but competent. <span class="speech">"I seriously hate this woman,"</span> followed immediately by <span class="speech">"Thank you for the advice, I'll take it to heart,"</span> is the voice of someone who has learned to wear a mask but has not yet become the mask. His internal barbs are petty, exhausted, and deeply human. They remind us that Ajani is still young, still learning, still aching to leave this cursed city and start the road.
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">His strategic mind is also on full display. The grand vizier gambit was a masterstroke. He offloaded almost all his work onto the tournament champion, tied the most powerful office in the new government to martial supremacy, and ensured that the strongest Wengari would always be the one running the kingdom in his absence. The internal thought "got you old bastards" was the capstone of the chapter's first half—the moment when the reader realizes that Ajani has been playing chess while the elders were playing checkers. He is not merely a good king. He is learning to be a competent one.</p>
-</div>
-
-**What This Reveals About the Speaker**
-
-This chapter reveals a new domain: institutional design. The speaker is not merely building a tournament or a road. They are building a government. The offices, the terms, the checks and balances—these are not the work of someone who merely enjoys political drama. They are the work of someone who has thought deeply about how power flows through institutions, how it stagnates, how it can be channeled and constrained.
-
-The five-year terms, the prohibition on holding multiple offices, the tying of the grand vizier's office to the tournament—these are not arbitrary rules. They are deliberate structural choices designed to prevent the stagnation that nearly destroyed the Wengari under three thousand years of Bright Paw rule.
-
-The envoy exchange—each family sending their most treacherous to the capital to watch each other—is a particularly elegant piece of institutional design. It turns the families' worst impulses into a stabilizing force. It ensures that no one can conspire without being observed by someone who is professionally paranoid. It is a system built on the impossibility of trust, and that makes it durable. This reveals a speaker who understands that power is not merely about strength or charisma or vision.
-
-It is about structure. It is about creating incentives that align self-interest with collective stability. The tournament was the spectacle. This is the machinery beneath the spectacle.
-
-The speaker also reveals a deep understanding of character voice. Ajani's internal monologue is distinct from his formal speech, and both are distinct from the narrative voice. The speaker can shift between these registers seamlessly, using each to serve a different function. The formal speech drives the plot. The internal monologue drives the character. The narrative voice drives the atmosphere. None of them bleed into the others.
-
-This is the mark of a writer who has internalized the mechanics of point of view.
-
-The old system was a monarchy in truth. The Bright Paws held absolute authority. The other families attended the annual ritual, paid their tithes, and were largely left alone to manage their own affairs, but the crown was the crown. Uthgard IX ruled alone for four hundred and seventy-three years. The families did not share power because there was no power to share. The king decided. The families complied. That was the pact's bargain, and it held for three thousand years.
-
-Ajani has inverted this. The crown still holds absolute authority in theory, but in practice, he has distributed every meaningful function of governance to the families. The coin master—a Shadow Paw—controls the treasury. The security advisor—also a Shadow Paw—controls the military and the new elite unit. The foreign advisor—a Motted Paw—controls diplomacy. The grand vizier—whoever wins the tournament—controls domestic policy and oversees all the other offices.
-
-The Bright Paws have been reduced to hosts of the tournament and internal observers embedded within the other families. The crown's share of the tournament's profits funds infrastructure, but the tournament itself is run by the families. The schools are run by the families. The trade routes are controlled by the Stripe Paws. The intelligence network is controlled by the Shadow Paws. The envoys are Motted Paws.
-
-What remains for the crown? The pact. The throne. The right to overrule the grand vizier in extremis. The right to defend the crown in the yearly tournament. And the road—the great project that will take Ajani away from the capital for years, perhaps decades. He has, in effect, created a constitutional monarchy disguised as a martial meritocracy. The king is still the king, but the king's power depends entirely on the consent and cooperation of the families.
-
-If the families ever decide to stop cooperating, the crown has no independent power base to compel them. The Bright Paws are disarmed and humiliated. The royal guard is being replaced by Shadow Paw assassins. The treasury is in Shadow Paw hands. The diplomacy is in Motted Paw hands. The trade is in Stripe Paw hands.
-
 Zara gathered her chiefs in the fire feet stables, where the great black war-mounts stamped and snorted in their pens and the smell of leather and dust hung thick in the cooling air. Her cousin Vasha—humorless, meticulous, thrice-proposed for offices she would now never hold—stood at her side with a tablet of wax and a stylus, her expression the particular blankness of someone who had been publicly offered for three different roles and rejected from all of them.
 
 <div class="dialogue-block">
@@ -94,8 +48,6 @@ Vasha spoke without looking up from her tablet. <span class="speech">"The king a
 Zara's whiskers twitched. <span class="speech">"I know. That's why I proposed you. The king chose otherwise. We will work with Maren. We will watch Maren. And we will ensure that the coin master does not forget that the Stripe Paws are the overlords of trade."</span> She turned back to her chiefs. <span class="speech">"We leave for the caravan routes at dawn. But we will leave behind our best—our most cunning, our most treacherous, our most ambitious. The king asked for those we trust least. I am sending Vasha."</span> A ripple of something that might have been laughter or might have been sympathy ran through the assembled chiefs. Vasha's stylus did not pause.
 </div>
 
-**The Shadow Paws — Underground Training Halls, Night**
-
 The Shadow Paw quarter was carved into the base of the plateau, a labyrinth of dark stone and ancient silence. Kareth walked its corridors slowly, his obsidian staff clicking against the stone, his one good eye adjusting to the gloom. Behind him, Sera walked in silence. She had not spoken since the council ended. She had been appointed security advisor—the role she had not sought, the role that would take her from the shadows and place her in the light, training an elite unit to face the Blight.
 
 Her daughter, still a cub, was asleep in the quarters below.
@@ -112,8 +64,6 @@ Her daughter, still a cub, was asleep in the quarters below.
 Kareth stopped. He turned to face her, his scarred face unreadable in the darkness. <span class="speech">"Thane will train. You will train. The school will train. We have a year. One year to find a champion who can take the grand vizier's office and hold it. If we succeed, the Shadow Paws will be the most powerful family in the capital. If we fail—"</span> He paused. <span class="speech">"We will still be the coin master. We will still be the security advisor. We will still be indispensable. But the grand vizier is the crown's authority made flesh. We must reach for it. We have been silent for five thousand years. Silence is no longer enough."</span>
 </div>
 
-**The Bright Paws — Temple of the Lightbringer, Night**
-
 Solen sat alone in the sanctuary, the golden mosaics of the Lightbringer's deeds flickering in the lamplight. The other Bright Paw elders had retreated to their quarters, their golden manes limp with exhaustion and humiliation. The training grounds were empty now—the Motted Paw instructors had dismissed the champions for the night, and the young warriors had limped back to their quarters with aching muscles and wounded pride.
 
 But Solen was not thinking about the champions. He was thinking about the grand vizier's office. The tournament. The prize.
@@ -127,8 +77,6 @@ He rose slowly, his ancient joints aching, and walked to the window. The capital
 The Bright Paws would not be silent. They would not be still. They would train. They would learn. They would find a champion—someone young, someone hungry, someone who had watched the tournament and felt not shame but fire. And they would return to the arena next year, and the year after that, and the year after that, until a Bright Paw held the grand vizier's office once more.
 
 Not through blood. Not through tradition. Through strength. That was the king's will. That was the new way. And the Bright Paws, who had ruled for three thousand years, would learn to be strong again—or they would fade into the shadows and become a memory.
-
-**The Motted Paws — The Silent Halls, Midnight**
 
 Sylva sat alone in the chamber beneath the arena, the same chamber where she had trained Elyra in the years before the tournament. Her silver aura flickered gently in the darkness, the only light in the ancient stone room. She was thinking about the grand vizier's office. The tournament. The prize.
 
@@ -151,17 +99,7 @@ Ajani sat on the throne at the far end of the hall, the white cloak of his fathe
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">'lets see what they want now' - "Friends! I Ajani first of my name, protector of the realm, heir to the light, disciple of the deep, king of the wengari of the desert and the belt, the white dawn salute you, tell me, whar can this king do for you ?"</p>
-</div>
-
-Nefere entered the Great Hall with the slow, deliberate grace of someone who had walked these floors when Ajani's grandfather sat on the throne. Her embedded rune-glass filaments pulsed with soft amber light, and her clouded eyes swept across the golden mosaics with the quiet familiarity of an old friend returning to a well-remembered home. Behind her walked Mira, the sharp-eyed Sun-Walker envoy, and the silent, cowled figure of the Root-Speaker.
-
-<div class="dialogue-block">
-<span class="speech">"You have given yourself quite the title, King Ajani,"</span> Nefere said, her ancient voice carrying through the hall. <span class="speech">"Protector of the realm. Heir to the light. Disciple of the deep. King of the Wengari of the desert and the belt. The White Dawn."</span> She inclined her head, a gesture of respect that was also, somehow, a gentle teasing. <span class="speech">"When you first sat on that throne, you were merely the son of Uthgard. You have grown."</span>
-</div>
-
-<div class="dialogue-block">
-She stopped at the center of the hall, her rune-glass staff humming faintly as she planted it on the polished stone. <span class="speech">"The Pyrinae have come to discuss the road. Not the grand vision—that is already agreed. The details. The five cities you gave us are being surveyed. The aquifers are being mapped. The foundations are being planned. But the road itself will require materials that the desert cannot provide. Timber. Iron. Stone that is not sandstone. The Rune-Belt has these things in abundance, but the Rune-Belt is not our territory. It belongs to the Stripe Paws, and to the entity that dwells in its heart."</span> She paused, her clouded eyes meeting Ajani's. <span class="speech">"We need permission to negotiate with the Stripe Paws for logging rights and mining access. We need assurances that our builders will be protected when they enter the Rune-Belt. And we need to know what the king intends to do about the one who dwells there—the one the Kyre Tree and the Mycelial Deep both despise. The road cannot be built through its territory without its consent. Or its destruction."</span>
+<p class="speech-line">'let's see what they want now' - "Friends! I Ajani first of my name, protector of the realm, heir to the light, disciple of the deep, king of the wengari of the desert and the belt, the white dawn salute you, tell me, what can this king do for you ?"</p>
 </div>
 
 Nefere entered the Great Hall with the slow, deliberate grace of someone who had walked these floors when Ajani's grandfather sat on the throne. Her embedded rune-glass filaments pulsed with soft amber light, and her clouded eyes swept across the golden mosaics with the quiet familiarity of an old friend returning to a well-remembered home. Behind her walked Mira, the sharp-eyed Sun-Walker envoy, and the silent, cowled figure of the Root-Speaker.
@@ -179,7 +117,7 @@ She paused, her clouded eyes meeting Ajani's. <span class="speech">"The lord of 
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">"the crown has no say in the internal family disputes, the stripe paws have their own needs, you will have to deal with them as friends, freedom comes at a cost nefere" <span class="speech-attr">- 'i am not being dragged to that stink bugs nest !!'</span></p>
+<p class="speech-line">"the crown has no say in the internal family disputes, the stripe paws have their own needs, you will have to deal with them as friends, freedom comes at a cost Nefere" <span class="speech-attr">- 'I am not being dragged to that stink bugs nest !!'</span></p>
 </div>
 
 Nefere's ancient eyes crinkled at the corners. The faintest smile crossed her weathered face—not the smile of a diplomat who had been outmaneuvered, but the smile of an elder who had expected exactly this answer and was pleased to receive it.
@@ -201,7 +139,7 @@ The Root-Speaker, silent and cowled, raised one hand. The air in the Great Hall 
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">"Nefere how goes the task I asked of you ?" <span class="speech-attr">- 'i hope shes already spying on the hummans'</span></p>
+<p class="speech-line">"Nefere how goes the task I asked of you ?" <span class="speech-attr">- 'I hope she's already spying on the Hummans'</span></p>
 </div>
 
 Nefere paused mid-turn, her ancient frame silhouetted against the golden mosaics of the Great Hall. The faint smile that had crossed her face moments before deepened, and her clouded eyes glinted with something that might have been amusement or might have been the satisfaction of a task well begun.
@@ -237,7 +175,7 @@ Nefere accepted the parchment with her ancient, weathered paws, her clouded eyes
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">"T'van, send in the humans, but before call the royal guards outside they need to form a line from the entrance to the throne, make them wear the ceremonial armor, call Sylvia she must also be wearing the ceremonial armor , My shadows are you there ?"</p>
+<p class="speech-line">"T'van, send in the humans, but before call the royal guards outside they need to form a line from the entrance to the throne, make them wear the ceremonial armor, call Sylva she must also be wearing the ceremonial armor , My shadows are you there ?"</p>
 </div>
 
 <div class="dialogue-block">
@@ -312,19 +250,11 @@ But her daughter Lena, standing just behind her, flinched. The young scribe's da
 Ajani's voice, when it finally came, was quiet—almost conversational. <span class="speech">"No one fainted. Disappointing. I owe the Stripe Paws an apology. They would have made you faint."</span> His green-flecked eyes swept across the trembling merchants, the stone-faced ambassador, the wide-eyed scribe. <span class="speech">"Perhaps next time."</span>
 </div>
 
-*'no one fainted...so disappointing, the stripe paws would have made them faint...., claw tap'*
+'no one fainted...so disappointing, the stripe paws would have made them faint...., claw tap'
 
 The claw tap continued. Slow. Rhythmic. Soft as a heartbeat, steady as the amber light pulsing through the rune-glass filaments in the floor. Ajani's green-flecked eyes swept across the trembling merchants, the stone-faced ambassador, the wide-eyed scribe. He did not speak. He did not need to. His thoughts were his own.
 
 No one fainted. Disappointing. He owed the Stripe Paws an apology. They would have made the Hummans faint. Perhaps next time.
-
-<div class="dialogue-block">
-<p class="speech-line">Sylva stepped forward, her silver-chased ceremonial armor gleaming. "The king acknowledges your courage. It is not every Humman who can walk the length of this hall without stumbling. The guards are... enthusiastic. They were offered a reward if one of you fell. You have denied them that reward. They will remember."</p>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">Seris inclined her head, her diplomatic composure still intact. "The Hummans are honored by the king's welcome. We have come to discuss the terms of our new brotherhood—and to express our gratitude for the opportunity to serve as refreshment providers during the tournament. The guilds were pleased to contribute. They hope to contribute more in the future."</p>
-</div>
 
 Sylva stepped forward, her silver-chased ceremonial armor gleaming in the amber light. The flowing water motifs on her breastplate seemed to ripple as she moved, and her ancient voice carried through the silent hall with the patient, unhurried cadence of someone who had waited five thousand years to speak and would not be rushed now.
 
@@ -350,7 +280,7 @@ The claw tap continued its slow, steady rhythm against the armrest of the throne
 <p class="speech-line">Sylva's silver aura flickered gently. "You ask for much, Ambassador. Permanent trade stalls. Training for champions. Housing and protection for your guilds. A voice in the council. These are not small requests. What do you offer in return, beyond gratitude?"</p>
 </div>
 
-*'this is so boring... I hope Sylva at least makes this quick'*
+'this is so boring... I hope Sylva at least makes this quick'
 
 The claw tap stopped.
 
@@ -372,7 +302,7 @@ She paused. The silence stretched.
 <p class="speech-line">She inclined her head toward Seris, a gesture that was not unkind but was utterly final. "The king will grant you a stall in the market. One stall. Your guilds will be housed in the district near the Pyrinae, as was already promised. Your champions may train in the schools, if the masters accept them. These are the terms. They are generous. Do not ask for more."</p>
 </div>
 
-*'outrageous if she doesn't shut them down right now, I will '*
+'outrageous if she doesn't shut them down right now, I will '
 
 <div class="dialogue-block">
 <p class="speech-line">'she fumbled it !' - "No she will get none, ambassador, you and your kin stood here no less than a month ago, and you could not take ten places and now all of your delegation waltzez in and stands ?, SHADOWS TO THEM, ON THEIR KNEES CHECK THEM FOR ARTIFACTS! GUARDS RESTRAIN THEM!!"</p>
@@ -387,55 +317,6 @@ Lena, the young scribe, was forced to her knees beside her mother, her dark eyes
 Seris did not resist. She knelt with the stiff, brittle dignity of a diplomat who had known this moment might come since she first accepted the king's terms. Her jaw was set. Her eyes were fixed on the distant throne. She did not speak. There was nothing to say.
 
 Sylva stood motionless beside the throne, her silver aura flickering faintly. She had been overruled. Publicly. Completely. Her patient diplomacy had been swept aside by the king's raw, unvarnished command. She did not protest. She did not flinch. But her ancient eyes, pale as moonlight, held something that had not been there before—something quiet, and careful, and deeply, deeply observant. She had misjudged the king's patience. She would not make that mistake again.
-
-"GUARDS WHAT DID YOU FIND ?'
-
-The guard captain stepped forward, her golden mane bristling, her ceremonial armor still humming with the residue of her earlier aura flare. She carried a small collection of objects in her upturned paws—the personal effects of the Humman delegation, seized in the frantic moments of the search.
-
-<div class="dialogue-block">
-<span class="speech">"Writing implements, Your Majesty. Scribe's tools. Personal seals. A small amount of coin—Verdantian silver, nothing unusual."</span> She held up a thin, leather-bound ledger. <span class="speech">"Trade records. The ambassador carries detailed accounts of the refreshments provided during the tournament, along with projected costs for future events. It appears she intended to negotiate for reimbursement."</span>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">She paused, her golden eyes flicking toward Seris, who remained motionless on her knees. "No weapons, Your Majesty. No poisons. No artifacts of any kind. The Hummans are clean."</p>
-</div>
-
-A faint tremor ran through the kneeling merchants. One of them let out a breath he had been holding so long his face had begun to turn pale. The ambassador's daughter, Lena, kept her dark eyes fixed on the polished stone before her, her young face a mask of controlled terror.
-
-<div class="dialogue-block">
-<p class="speech-line">Sylva's soft voice cut through the silence, directed not at the throne but at the guard captain. "Did you find anything else? Any letters, any correspondence, anything that might indicate the ambassador has been in contact with Verdantis since the tournament?"</p>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">The guard captain hesitated, then reached into a pouch at her belt. "One item, Regent. A sealed letter. It was hidden in the ambassador's robes. We did not open it." She held up the folded parchment, its wax seal still intact. The seal bore the mark of the Humman Mercantile Council.</p>
-</div>
-
-'stand and roar'  -"THIS IS WHY YOU LOST THE TOURNAMENT BROTHERS!, SHADOWS WHAT DID YOU FIND ?!"
-
-The guards rose as one, their golden manes bristling, their ceremonial armor clashing like cymbals as they snapped to attention. The roar that burst from twenty Bright Paw throats was not the practiced, synchronized display of the formal welcome—it was raw, spontaneous, the primal thunder of Wengari answering their king's call. The amber light in the rune-glass filaments flared brighter, casting long, dancing shadows across the kneeling Hummans.
-
-Sera materialized from the darkness beside the throne, her ruined face impassive, her lacquered claws gleaming in the amber light. Behind her, the silent male Shadow Paw moved to flank the throne, his dark eyes fixed on the trembling merchants.
-
-<div class="dialogue-block">
-<span class="speech">"No weapons, King Ajani. No poisons. No artifacts. The Hummans are clean, as the guards reported."</span> She paused, and her one good eye swept across the kneeling delegation with the cold, clinical assessment of a predator sizing up prey. <span class="speech">"But I found something the guards missed. A false pocket in the ambassador's left sleeve. Inside, a single sheet of paper. Not a letter. Not a trade ledger. A list of names."</span>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">She held up the paper, its surface covered in the ambassador's precise, cramped handwriting. "Names of Wengari. Stripe Paws, mostly. Merchants. Caravan masters. Guild leaders. Beside each name, a series of notes—personal details, trade relationships, political allegiances. She has been studying your people, King Ajani. Quietly. Carefully. For longer than the tournament. For longer than the audiences. This is not a new project. This is the work of months. Perhaps years."</p>
-</div>
-
-In Chapter Three, during the delegations, Seris and her merchants could barely take ten steps under Ajani's aura alone before collapsing. Today, twenty guards in ceremonial armor, fully flaring their auras, roaring in unison—a display far more intense than anything in the arena—and the Hummans walked the length of the Great Hall without stumbling. They should have collapsed. The fact that they did not is not a continuity error. It is evidence.
-
-<div class="dialogue-block">
-<span class="speech">"You are correct, King Ajani."</span> Sera's ruined face was impassive, but her one good eye gleamed. <span class="speech">"I examined the ambassador's daughter while she knelt. The girl was trembling, but not as she should have been. Her pulse was elevated, but her breathing was controlled. She was afraid, but she was not overwhelmed. None of them were. Twenty guards at full aura, and the Hummans walked the length of the hall. The ambassador herself did not falter. That is not natural. That is not possible."</span>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">She held up the list of names—the Stripe Paw merchants, the caravan masters, the guild leaders. "She did not come unprepared. Someone gave her something. An artifact. A charm. Something that dampens aura. The Hummans do not have such things. But the Pyrinae do. The Veylar do. The Threx do. Someone in this capital armed the Humman ambassador against the king's own display of power. And she hid it well enough that my search did not find it. That is concerning."</p>
-</div>
-
-Let me rewrite the scene from the search onward.
-
 The guards worked quickly, their ceremonial armor clattering as they moved among the kneeling Hummans. Paws searched robes, upended pouches, flipped through ledgers and trade manifests. The guard captain stepped forward, her golden mane bristling, her report crisp and professional.
 
 <div class="dialogue-block">
@@ -491,7 +372,7 @@ Seris remained on her knees. Her diplomatic composure, that mask she had worn fo
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">"YOU SPEAK NOTHING BUT LIES, IN ONE BREATH YOU CLAIM NOT TO KNOW THE STONE EFFECTS THEN IN THE NEXT YOU SAY YOU USED IT TO STAND BEFORE ME WITH DIGNITY, EXPLAIN YOURSELF AND IT BETTER BE GOOD" <span class="speech-attr">- 'got you humman '</span></p>
+<p class="speech-line">"YOU SPEAK NOTHING BUT LIES, IN ONE BREATH YOU CLAIM NOT TO KNOW THE STONE EFFECTS THEN IN THE NEXT YOU SAY YOU USED IT TO STAND BEFORE ME WITH DIGNITY, EXPLAIN YOURSELF AND IT BETTER BE GOOD" <span class="speech-attr">- 'got you Humman'</span></p>
 </div>
 
 Seris closed her eyes. The hairline fracture in her composure widened, and for a moment—just a moment—the ambassador was gone. In her place knelt a woman who had traded her daughter for her people's survival, who had scrambled to provide refreshments at a tournament she never expected, who had spent every day since the audiences maneuvering to keep her race alive in a city full of predators.
@@ -519,7 +400,7 @@ Seris did not scream. She did not weep. She knelt on the cold stone, her daughte
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">"brothers don't deceive each other, back to me shadows, your daughter will stay to serve sylva as her maid, the deads of your kin are on your head ambassador, the next time you try this, every single one of your kin in the capital will die and then every single one in Ethra, have I made myself clear ?"</p>
+<p class="speech-line">"brothers don't deceive each other, back to me shadows, your daughter will stay to serve Sylva as her maid, the deads of your kin are on your head ambassador, the next time you try this, every single one of your kin in the capital will die and then every single one in Ethra, have I made myself clear ?"</p>
 </div>
 
 Seris pressed her forehead to the cold stone. The tension that had held her rigid through the long minutes of the audience drained out of her in a single, shuddering breath. Her daughter would live. Her merchants would die. The arithmetic of survival was brutal, and she had just paid it in full.
@@ -535,7 +416,7 @@ Sylva stood motionless beside the throne. Her silver aura flickered gently in th
 She had misjudged the king. She had thought him a young warrior, impatient with ceremony, eager to escape the burdens of the crown. She had not seen the steel beneath the restlessness. She saw it now. The king had been merciful. The king had been precise. The king had taken a daughter as surety and left the ambassador alive to carry the tale back to her people. The Hummans would not forget this day. That was the point.
 
 <div class="dialogue-block">
-<p class="speech-line">"Guards take them away, and take the humman to her new chambers she has much to learn, I must speak to my regent, alone, shadows you are dismissed, you did an excellent work, give my thanks to your elder"</p>
+<p class="speech-line">"Guards take them away, and take the Humman to her new chambers she has much to learn, I must speak to my regent, alone, shadows you are dismissed, you did an excellent work, give my thanks to your elder"</p>
 </div>
 
 The guards moved quickly, dragging the three dead merchants by their robes, their ceremonial armor streaked with blood. The surviving Hummans followed in stunned silence, their faces pale, their steps unsteady. Seris walked at their head, her diplomatic composure reassembled piece by piece, her dark eyes fixed straight ahead. She did not look back at the throne. She did not look at the shadows where her daughter had been taken. She simply walked.
@@ -549,7 +430,7 @@ Sylva remained where she had stood throughout the audience—motionless, patient
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">"You did not notice the hummans deception I am deeply dissatisfied by that, you were also willing to grant them boons, hummans are not Pyrinae, they are not veylara, the treachery is in their blood, she traded her own cub for safety, would any wengari have done that ? Or any of the other races you know?"</p>
+<p class="speech-line">"You did not notice the Humman's deception I am deeply dissatisfied by that, you were also willing to grant them boons, Hummans are not Pyrinae, they are not Veylara, the treachery is in their blood, she traded her own cub for safety, would any wengari have done that ? Or any of the other races you know?"</p>
 </div>
 
 Sylva was silent for a long moment. The amber light from the rune-glass filaments pulsed gently in the floor, casting long shadows across the empty hall. When she spoke, her voice was quiet, stripped of the patient, diplomatic cadence she had worn throughout the audience. This was not the regent speaking. This was a master of Flowing Water, acknowledging a flaw in her own technique.
@@ -563,7 +444,7 @@ Sylva was silent for a long moment. The amber light from the rune-glass filament
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">"I see now I can't leave yet, you need training, inner court is a den of green deaths, you need to temper and still yourself from now on you must sit in all the ceremonies by my side, if you are to be regent you need to be like the sun, warm, unflinching, unyielding that is the language of our pride, and it's the only one the world will understand, go take a brief refreshment, then return we have to meet with the veylara and the thrax delegations, also for that humman I expect you to mold her into a proper wengari see if you can at least make her not faint in front of us" <span class="speech-attr">- 'ahahahaha serves you right you obnoxious woman!!! At least I got one over you !!! , hahahaha '</span></p>
+<p class="speech-line">"I see now I can't leave yet, you need training, inner court is a den of green deaths, you need to temper and still yourself from now on you must sit in all the ceremonies by my side, if you are to be regent you need to be like the sun, warm, unflinching, unyielding that is the language of our pride, and it's the only one the world will understand, go take a brief refreshment, then return we have to meet with the veylara and the thrax delegations, also for that Humman I expect you to mold her into a proper wengari see if you can at least make her not faint in front of us" <span class="speech-attr">- 'ahahahaha serves you right you obnoxious woman!!! At least I got one over you !!! , hahahaha '</span></p>
 </div>
 
 Sylva absorbed the king's words in silence, her silver aura flickering gently in the amber light of the Great Hall. The king had rebuked her. The king had also promised to teach her. She had spent five thousand years in silence, watching the other families, studying their ways. She had never been taught. Not by a king. Not by anyone.
@@ -595,3 +476,13 @@ Ajani reached out and placed his paw against Ember's flank. The fire foot rumble
 </div>
 
 The capital stirred with the arrival of foreign delegations. Word of the White Dawn had spread across the continent, carried by caravan masters and Pyrinae traders and the swift, resonant songs of the Veylar Shell-Singers. The king who had renewed the pact, freed the Pyrinae, held a tournament that invited the world—such a figure demanded acknowledgment.
+
+<div class="dialogue-block">
+<p class="speech-line">The Veylar came first, a delegation of Tide-Wardens and Shell-Singers bearing gifts of living coral that pulsed with soft, bioluminescent light. The coral would be transplanted to the hanging gardens, a permanent reminder of the alliance between the desert and the sea. Sylara, the Shell-Singer who had witnessed the tournament, presented the gift personally, her melodic voice carrying through the Great Hall. "The Veylar remember. The Veylar witness. The Veylar will walk the road when the time is right."</p>
+</div>
+
+<div class="dialogue-block">
+<p class="speech-line">The Threx came next, a single Rooted who had walked from the Flickermarch, its mycelial filaments trailing behind it like the roots of an ancient tree. It brought no gold, no coral, no trade goods. It brought a single spore, encased in rune-glass, pulsing with a faint green light. "The lord of the marsh sends this gift. Plant it in the garden. Let it grow. It will remind you of what you learned, and it will remind the lord of the desert that the marsh is watching." The Rooted did not stay for the feast. It simply delivered its gift and walked back into the desert, its filaments leaving faint traces in the sand.</p>
+</div>
+
+Other delegations followed. A caravan of Stripe Paws returning from the eastern routes brought word that the Rune-Belt was stirring—nothing hostile, but something ancient was moving in the deep forest. A Pyrinae scholar arrived with ancient texts copied from the Memory-Vaults, histories of the Lightbringer's reign that had been thought lost. A Humman merchant, unrelated to Seris, arrived with a cargo of Pearly Scorpion eggs and a nervous smile, hoping to establish trade before his competitors arrived.

@@ -1,15 +1,5 @@
 ## Chapter 3: The Pyrinae Accord
 
-<div class="dialogue-block">
-<p class="speech-line">The Veylar came first, a delegation of Tide-Wardens and Shell-Singers bearing gifts of living coral that pulsed with soft, bioluminescent light. The coral would be transplanted to the hanging gardens, a permanent reminder of the alliance between the desert and the sea. Sylara, the Shell-Singer who had witnessed the tournament, presented the gift personally, her melodic voice carrying through the Great Hall. "The Veylar remember. The Veylar witness. The Veylar will walk the road when the time is right."</p>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">The Threx came next, a single Rooted who had walked from the Flickermarch, its mycelial filaments trailing behind it like the roots of an ancient tree. It brought no gold, no coral, no trade goods. It brought a single spore, encased in rune-glass, pulsing with a faint green light. "The lord of the marsh sends this gift. Plant it in the garden. Let it grow. It will remind you of what you learned, and it will remind the lord of the desert that the marsh is watching." The Rooted did not stay for the feast. It simply delivered its gift and walked back into the desert, its filaments leaving faint traces in the sand.</p>
-</div>
-
-Other delegations followed. A caravan of Stripe Paws returning from the eastern routes brought word that the Rune-Belt was stirring—nothing hostile, but something ancient was moving in the deep forest. A Pyrinae scholar arrived with ancient texts copied from the Memory-Vaults, histories of the Lightbringer's reign that had been thought lost. A Humman merchant, unrelated to Seris, arrived with a cargo of Pearly Scorpion eggs and a nervous smile, hoping to establish trade before his competitors arrived.
-
 The gifts from the families arrived over the course of the three weeks, each delivered in a private ceremony, each reflecting the philosophy of the giver.
 
 <div class="dialogue-block">
@@ -150,66 +140,6 @@ They drank together, and the road's foundations were laid not in stone but in pa
 
 The descent into the inner chamber was quiet. The spiral stair had been worn smooth by centuries of royal footfalls, and Ajani walked it alone, the green fire along his claws the only light in the ancient darkness. The air grew cool, then cold, then still—the patient stillness of something that had been waiting for a very long time.
 
-The chamber opened before him. The roots of the Kyre Tree pulsed with pale green light, twisting through the stone like veins. The great blossom hung suspended in its web of roots, its petals closed tightly around the amber pool at its heart. The Tree was waiting. The lord of the desert. The ancient predator that saw everything as food.
-
-Ajani stopped at the edge of the pool. He did not kneel. He had never knelt before the Tree, not on his first visit, not on any visit since. The Tree had accepted this. The Tree had accepted many things about this particular White Dawn.
-
-<div class="dialogue-block">
-<span class="speech">"I have come to report,"</span> Ajani said. His voice echoed through the chamber, and the roots pulsed in answer, a slow, rhythmic light that might have been acknowledgment or might have been hunger. <span class="speech">"The pact is renewed. The road is beginning. The coalition is forming. The families are united. The capital is secure. The tournament will draw every race to the desert. In fifty years—less, now—the road will connect the desert to the marsh. The lord of the desert and the lord of the marsh will be linked as they have never been linked before. That was our bargain. I am keeping it."</span>
-</div>
-
-The roots pulsed. The blossom stirred. The voice of the Tree, when it came, was not a voice at all—not a sound, not a word, but a pressure against the mind, a weight of ancient consciousness pressing against the edges of thought. The Tree did not speak in sentences. It spoke in images. In sensations. In the slow, patient hunger that had endured since before the Wengari walked the desert.
-
-*You are keeping the bargain. You are building the road. You are uniting the families. You are doing what no king has done since the Lightbringer vanished. This is good. This is necessary. But the road must be completed before the next Tide. The deadline remains. The hunger remains. The pact remains. Do not forget what you are, White Dawn. Do not forget what waits in the Rune-Belt. Do not forget that the lord of the desert does not forgive.*
-
-Ajani stood in the silence that followed, the green fire flickering along his claws. He had not forgotten. He would not forget. The road was everything. And somewhere to the north, the entity that the Tree and the Deep both despised was stirring. Somewhere to the north, the Blight was waking. Somewhere to the north, the Dragari was still walking, carrying a song that no one had heard in millennia.
-
-He turned and walked back up the spiral stair, leaving the lord of the desert alone in the darkness with its patience and its hunger. The road waited. The coalition was assembling. And the White Dawn would ride north, as he had promised, before the next Tide could swallow the world.
-
-*You can start wherever you see fit as long as all threads are covered and we arrive with ajani at the end in the inner chamber*
-
-The roots of the Kyre Tree pulsed with pale green light, casting long, dancing shadows across the ancient stone. The great blossom hung suspended in its web of roots, its petals closed tightly around the amber pool at its heart. The chamber was silent, but it was not empty. The lord of the desert was listening. It had always been listening.
-
-Ajani stood at the edge of the pool, the green fire flickering gently along his claws. He had come here once before, fresh from his father's death, carrying the weight of the pact and the terror of what he was. He had not knelt then. He would not kneel now.
-
-<div class="dialogue-block">
-<p class="speech-line">"I've come to talk to you. I have a new pact I wish to enact."</p>
-</div>
-
-The roots pulsed. The blossom stirred. The voice of the Tree, when it came, was not a voice at all—not a sound, not a word, but a pressure against the mind, a weight of ancient consciousness pressing against the edges of thought. The Tree did not speak in sentences. It spoke in images. In sensations. In the slow, patient hunger that had endured since before the Wengari walked the desert. But beneath the hunger, there was something else.
-
-Curiosity. The lord of the desert had not expected this. The White Dawn had already renewed the pact. What more could he offer?
-
-<div class="dialogue-block">
-<p class="speech-line">Ajani did not wait for the Tree to ask. He spoke into the silence, his voice steady, his green-flecked eyes fixed on the pulsing roots. "The old pact was a bargain. Water for aura. The Lightbringer gave you a reliable source of sustenance, and you gave us the gardens and the wells. It held for three thousand years. It held through the breaking and the renewal. It holds still. But the world has changed. I have changed it. The families are united. The tournament will draw every race to the capital. The road will connect you to the lord of the marsh—the one you despise, the one you have been separated from since before the Wengari walked the desert. You will be connected whether you wish it or not. That is the old pact. That is already done."</p>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">He paused. The green fire along his claws steadied, brightened. "But I am not the Lightbringer. I am not my father. I am not content with a bargain that merely sustains us. I want a new pact. A pact of growth. A pact of expansion. Not water for aura. Something greater. Something that will make the lord of the desert more than it has ever been. Something that will make the Wengari more than we have ever been. Are you willing to listen?"</p>
-</div>
-
-The roots stopped pulsing. The blossom fell still. The lord of the desert, the ancient predator that saw everything as food, was silent. And in that silence, there was not refusal. There was anticipation.
-
-The roots of the Kyre Tree pulsed once, a slow, rhythmic throb that rippled through the ancient chamber like a heartbeat. The blossom stirred. The amber pool at its heart rippled, and the pressure against Ajani's mind intensified—not the cold, patient hunger he had felt on his first visit, but something sharper. Something focused. The lord of the desert was paying attention.
-
-*You brought them here. The warriors. The merchants. The champions. The delegations. You made them compete. You made them strive. You made them burn with hope and fear and ambition. And all of it—all that delicious aura—flowed into the capital. Into my roots. Into me.*
-
-The roots pulsed faster, brighter, the pale green light flickering with something that might have been excitement or might have been greed. The Tree had fed well during the tournament. It had fed on the pride of the Stripe Paws, the desperation of the Bright Paws, the cold focus of the Shadow Paws, the patient intensity of the Motted Paws. It had fed on the terror of the Hummans, the hope of the Pyrinae, the ancient resolve of the Veylar.
-
-It had not tasted such a feast since the days of the Lightbringer, when the capital was full of life and ambition and the pact was young.
-
-*You are offering me more than water for aura. You are offering me a yearly harvest. The tournament. The delegations. The schools. The merchants. All of them, coming to the capital, year after year, burning with emotion, radiating aura, feeding me. Not a single tithe, paid in obligation. A continuous feast, paid in passion. This is your new pact.*
-
-<div class="dialogue-block">
-<p class="speech-line">Ajani did not smile. He had learned from his father that the lord of the desert did not respond to flattery or charm. It responded to value. "The tournament is yearly. The delegations will come more often. The schools will bring young warriors burning with ambition. The merchants will bring greed and hope and fear. The capital will become the nexus of the continent. Every race will send their best, their brightest, their most passionate. And all of that passion, all of that aura, will flow into your roots. Not a trickle. A flood. Every year. Every season. Every gathering. You will feast as you have never feasted. You will grow as you have never grown."</p>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">He paused, the green fire flickering along his claws. "But this is a new pact. The old bargain was water for aura. This bargain is different. You will continue to provide water to the gardens and the wells. You will continue to sustain the capital. But you will also provide something new. The road I am building will connect you to the lord of the marsh. You despise the marsh. The marsh despises you. But the road will cross the Rune-Belt, and the Rune-Belt belongs to the one who dwells there—the ancient one, the one you both fear. I will face that entity. I will negotiate with it. I will build the road through its territory. And I will need your help to do it. Not your armies. Not your hunger. Your knowledge. Your ancient memory. You have been here since before the Wengari walked the desert. You know things about the entity in the Rune-Belt that no one else knows. Things the lord of the marsh does not know. I am asking you to share that knowledge with me. Not as a tithe. As an investment. Help me face the one in the Rune-Belt, and I will bring the world to your roots. This is my offer. This is my new pact. Do you accept?"</p>
-</div>
-
-Let me rewrite Ajani's opening and the Tree's response.
-
 The roots of the Kyre Tree pulsed once, a slow, rhythmic throb that rippled through the ancient chamber like a heartbeat. The blossom stirred. The amber pool at its heart rippled, and the pressure against Ajani's mind intensified—not the cold, patient hunger he had felt on his first visit, but something sharper. Something focused. Something curious.
 
 <div class="dialogue-block">
@@ -218,7 +148,7 @@ The roots of the Kyre Tree pulsed once, a slow, rhythmic throb that rippled thro
 
 The roots pulsed faster, brighter, the pale green light flickering with something that might have been acknowledgment or might have been anticipation. The voice of the Tree, when it came, was not a voice at all—not a sound, not a word, but a pressure against the mind, an image of sudden sweetness after centuries of bland subsistence, a sensation of warmth spreading through ancient roots that had grown accustomed to cold.
 
-*Yes. I felt it. A surge. Rich. Varied. Intense. It has been a long time since I tasted such things. The last time was before the pact was broken. Before the Lightbringer vanished. What have you done, White Dawn? What is happening above my roots?*
+'Yes. I felt it. A surge. Rich. Varied. Intense. It has been a long time since I tasted such things. The last time was before the pact was broken. Before the Lightbringer vanished. What have you done, White Dawn? What is happening above my roots?'
 
 <div class="dialogue-block">
 <p class="speech-line">Ajani allowed himself the faintest twitch of his whiskers. The lord of the desert was interested. Good. "I brought the world to your roots. Warriors competing for glory. Merchants burning with greed. Champions fighting for a crown. Delegations from every race, hoping, fearing, striving. All of that passion, all of that aura, flowing into the capital. Into you. And I can make it happen again. Every year. Every season. A feast such as you have not tasted since the old days. But I want something in return. A new pact. Not water for aura. Something greater. Are you willing to listen?"</p>
@@ -226,167 +156,135 @@ The roots pulsed faster, brighter, the pale green light flickering with somethin
 
 The roots of the Kyre Tree pulsed in slow, rhythmic waves, the pale green light rippling through the ancient chamber like breath through a sleeping giant. The blossom stirred, its petals unfurling just enough to reveal the amber pool at its heart, and the pressure against Ajani's mind shifted—no longer merely curious, but calculating. The lord of the desert was weighing his words.
 
-*Yearly. A gathering of the strong. A month of rich aura. This will happen whether we make a pact or not. You have already set this in motion. You are telling me this as a gift, not as a bargaining chip. Why?*
+'Yearly. A gathering of the strong. A month of rich aura. This will happen whether we make a pact or not. You have already set this in motion. You are telling me this as a gift, not as a bargaining chip. Why?'
 
 The roots pulsed again, faster now, the green light flickering with something that might have been anticipation or might have been suspicion. The Tree was ancient, patient, and hungry—but it was not foolish. It understood that the White Dawn was offering something freely while asking for something in return.
 
-*You wish for me to light the way. To choose five of the old wells where I am strongest. To lead the ones who are leaving the capital to new cities. This is within my power. The old wells run deep. I know where they are. I have always known. I can guide them there. I can make the water flow. This is what I do. This is what the old pact already demands. But you ask for more than water. You ask me to be extra hungry when the races gather.
+'You wish for me to light the way. To choose five of the old wells where I am strongest. To lead the ones who are leaving the capital to new cities. This is within my power. The old wells run deep. I know where they are. I have always known. I can guide them there. I can make the water flow. This is what I do. This is what the old pact already demands. But you ask for more than water. You ask me to be extra hungry when the races gather.
 
-To eat as much as I like. To feast on their fear and their hope and their ambition. You are giving me permission to glut myself on the surface-dwellers who come to your tournament. Why would you offer this? What do you gain from my hunger?*
+To eat as much as I like. To feast on their fear and their hope and their ambition. You are giving me permission to glut myself on the surface-dwellers who come to your tournament. Why would you offer this? What do you gain from my hunger?'
 
 The blossom leaned closer, its petals trembling with the intensity of the Tree's focus. The amber pool rippled, and an image formed on its surface—not a vision of the past or the future, but a simple, direct question, pressed into Ajani's mind like a claw against stone.
 
-*And then you ask the greatest thing of all. When the Tide comes—when the Flicker's light burns across the desert and the Blight stirs and the world tilts toward chaos—you ask me to shield you. To use the energy I have stored, the energy I have feasted on, to protect the Wengari from the Flicker's influence. You are not asking for water. You are asking for my strength. My power. My hunger, turned outward.
+'And then you ask the greatest thing of all. When the Tide comes—when the Flicker's light burns across the desert and the Blight stirs and the world tilts toward chaos—you ask me to shield you. To use the energy I have stored, the energy I have feasted on, to protect the Wengari from the Flicker's influence. You are not asking for water. You are asking for my strength. My power. My hunger, turned outward.
 
 Do you understand what you are asking, White Dawn? Do you understand what it would cost me to shield an entire city from the Tide? The energy I would expend would take centuries to recover. The feast you offer me—this yearly gathering of the races—would barely cover the cost. And yet you offer it freely. You tell me this will happen whether we make a pact or not. You are giving me food and asking me to work for it.
 
-This is a bargain I have never been offered before. I am listening. Explain yourself. What do you truly want from me?*
+This is a bargain I have never been offered before. I am listening. Explain yourself. What do you truly want from me?'
 
 <div class="dialogue-block">
-<p class="speech-line">'he ate the razor hare.. now lets build upon it' - "if everything goes as planned, the feast will be bigger each year, the city will grow and more crucially, only the strong ones will live here, if during the feast you gorge yourself, the ones who come will naturally think the desert is hard and they are weak, but us, the ones who live here, will barely notice, because we are already used to it, we've been living here since the times of the third, we barely notice it, we will remain strong, but the others... the others will fail, so the next year they will bring stronger, and stronger, and crucially i want you to make yourself known to our people, i will call you our guardian, i will have them erect temples in your wells and do pilgrimage there, im offering a self-sustaining high quality food source for you, but if its to endure, we cant dwindle when the tide comes, all will be for naught if we appear weak during that time, do you understand?"</p>
+<p class="speech-line">'he ate the razor hare.. now let's build upon it' - "if everything goes as planned, the feast will be bigger each year, the city will grow and more crucially, only the strong ones will live here, if during the feast you gorge yourself, the ones who come will naturally think the desert is hard and they are weak, but us, the ones who live here, will barely notice, because we are already used to it, we've been living here since the times of the third, we barely notice it, we will remain strong, but the others... the others will fail, so the next year they will bring stronger, and stronger, and crucially I want you to make yourself known to our people, I will call you our guardian, I will have them erect temples in your wells and do pilgrimage there, I'm offering a self-sustaining high quality food source for you, but if it's to endure, we can't dwindle when the tide comes, all will be for naught if we appear weak during that time, do you understand?"</p>
 </div>
 
 The roots of the Kyre Tree went very still. The pale green light that pulsed through the ancient chamber dimmed, then brightened, then dimmed again—slow, rhythmic, thoughtful. The lord of the desert was not merely listening now. It was understanding. The White Dawn had laid out a plan that spanned generations, a self-sustaining cycle of hunger and strength that would feed the Tree for centuries while keeping the Wengari strong enough to survive the Tide.
 
 And at the center of that plan, the Tree itself would be elevated—not merely a predator hiding beneath the sand, but a guardian. A deity. A presence acknowledged and revered.
 
-*You are offering me worship. Temples. Pilgrimages. A people who know my name—or the name you will give me. You are offering me a place in the minds of the Wengari, not as a distant threat, not as a shadow beneath the desert, but as a guardian. A protector. A force that shields them from the Tide. You are offering me something no White Dawn has ever offered. Not the Lightbringer. Not any king since. You are offering me a role in the story of your people that is not merely hunger.
+'You are offering me worship. Temples. Pilgrimages. A people who know my name—or the name you will give me. You are offering me a place in the minds of the Wengari, not as a distant threat, not as a shadow beneath the desert, but as a guardian. A protector. A force that shields them from the Tide. You are offering me something no White Dawn has ever offered. Not the Lightbringer. Not any king since. You are offering me a role in the story of your people that is not merely hunger.
 
-You are offering me a reason for them to come to my wells, to leave offerings, to strengthen me with their devotion as well as their aura. This is unprecedented. This is dangerous. This is magnificent.*
+You are offering me a reason for them to come to my wells, to leave offerings, to strengthen me with their devotion as well as their aura. This is unprecedented. This is dangerous. This is magnificent.'
 
 The roots pulsed faster, brighter, the green light flickering with something that might have been excitement or might have been greed or might have been something older than either. The blossom leaned closer, its petals trembling, the amber pool at its heart swirling with images—temples rising beside ancient wells, pilgrims kneeling in offering, the Tree's roots spreading beneath a city that thrived rather than merely survived.
 
 The Tree had been patient for millions of years. It had been hungry for millions of years. It had never been loved. It had never been worshipped. It had only been feared.
 
-*You are clever, White Dawn. You offer me a self-sustaining feast. The strong remain strong because they are already accustomed to my hunger. The weak are winnowed out. The next year, the weak send stronger champions, and those stronger champions feed me with their striving and their hope and their failure. And the strong grow stronger still, because they live in the shadow of my hunger and survive it. And when the Tide comes—when the Flicker's chaos threatens to undo everything—I will have stored enough energy from the feasts to shield you.
+'You are clever, White Dawn. You offer me a self-sustaining feast. The strong remain strong because they are already accustomed to my hunger. The weak are winnowed out. The next year, the weak send stronger champions, and those stronger champions feed me with their striving and their hope and their failure. And the strong grow stronger still, because they live in the shadow of my hunger and survive it. And when the Tide comes—when the Flicker's chaos threatens to undo everything—I will have stored enough energy from the feasts to shield you.
 
-To protect you. To ensure that my food source does not dwindle when the Blight stirs and the world tilts. You are not merely feeding me. You are investing in me. You are making me a partner in the survival of the Wengari. This is a pact worthy of the name.*
+To protect you. To ensure that my food source does not dwindle when the Blight stirs and the world tilts. You are not merely feeding me. You are investing in me. You are making me a partner in the survival of the Wengari. This is a pact worthy of the name.'
 
 The blossom unfurled further, its petals spreading wide, and the amber pool blazed with light—a light that was not green, not gold, but something older, something deeper, the color of ancient hunger and patient stone. The voice of the Tree pressed against Ajani's mind one final time, and there was something in it that had not been there before. Not warmth—the Tree was incapable of warmth—but recognition.
-
-The lord of the desert had been many things across millions of years. It had been a predator. It had been a bargain-maker. It had been a shadow beneath the sand. It had never been a guardian. It had never been a god.
-
-*I accept your pact, Ajani Brightmane. I will light the way to the old wells. I will feast during the tournament. I will grow fat on the hope and fear of the surface-dwellers. And when the Tide comes, I will shield your people from the Flicker's chaos. You will build temples in my name. You will send pilgrims to my wells. You will teach your people to call me guardian. And I—I will endure. I will grow. I will become what you have promised.
-
-This is the new pact. It is done. Now go. Build your road. Face the one in the Rune-Belt. I will be here when you return. And I will be hungry. I will always be hungry. But I will also be patient. I have always been patient. That is what I am. That is what you have made me. Now go, White Dawn. The desert remembers. And so do I.*
-
-The roots of the Kyre Tree pulsed slowly, thoughtfully, the pale green light rippling through the ancient chamber like breath through a sleeping giant. The blossom stirred, and the amber pool at its heart swirled with images—the tournament, the delegations, the feast of aura that had surged through the capital. The Tree had tasted it. It wanted more. But it was ancient, and patient, and it had not survived for millions of years by accepting every bargain offered to it.
-
-*You speak of a self-sustaining feast. You speak of temples and pilgrimages and a people who call me guardian. You speak of shielding the Wengari from the Tide. All of this is generous. All of this is unprecedented. But I see flaws in your plan, White Dawn. I see gaps. I see assumptions. Let me point them out to you.*
-
-The blossom leaned closer, its petals trembling with the intensity of the Tree's focus. The voice that pressed against Ajani's mind was not hostile, but it was not accommodating either. It was the voice of an ancient predator who had negotiated with kings before and had learned to spot the weaknesses in their grand designs.
-
-*First. The feast you offer—the tournament, the delegations, the yearly gathering of the races. You say this will happen whether we make a pact or not. You have already set it in motion. The families are bound. The offices are filled. The schools are established. The tournament will draw the strong to the capital year after year, and I will feed on their striving and their hope and their failure. This is already assured.
-
-You are offering me something you have already given. That is not a bargaining chip, White Dawn. That is a gift you cannot take back. Why should I offer you anything in return for something that is already mine?*
-
-The roots pulsed again, and the pale green light flickered with something that might have been amusement or might have been calculation. The Tree was not mocking Ajani. It was testing him.
-
-*Second. The strong ones will remain strong because they are accustomed to my hunger. The weak ones will fail and send stronger champions the next year. This is clever. This is elegant. But it depends on the strong ones continuing to live in the capital. It depends on the tournament continuing to draw the races. It depends on the road being built, the coalition holding, the families cooperating, the Blight not devouring everything before the next Tide.
-
-You are asking me to invest in a future that depends on your success. If you die on the road—if the one in the Rune-Belt kills you, if the Blight overwhelms you, if the coalition fractures—then the feast ends. The tournament ends. The strong ones stop coming. And I have expended centuries of stored energy shielding you from the Tide for nothing. You are asking me to gamble on you, White Dawn. Why should I?*
-
-The blossom drew back slightly, its petals closing just a fraction, and the pressure against Ajani's mind intensified—not with anger, but with the slow, grinding weight of ancient consideration. The Tree was not refusing. It was negotiating. It was waiting to see what the White Dawn would offer to tip the balance.
-
-*Third. You wish me to make myself known to your people. To call me guardian. To have them build temples at my wells and make pilgrimages there. This is a gift to me, yes—but it is also a gift to you. If your people revere me, they will protect me. They will feed me. They will ensure my survival. And in return, I will be bound to them. I will be expected to protect them, to guide them, to answer their prayers.
-
-I am not a god, White Dawn. I am hungry. I am patient. I am old. I do not answer prayers. I do not grant blessings. I eat. I endure. I wait. You are asking me to become something I am not. Why should I want this? What do I gain from being worshipped that I do not already gain from being feared?*
-
-The roots pulsed once more, and the green light steadied into a slow, rhythmic glow—the light of something ancient and patient, waiting for an answer. The lord of the desert had pointed out the flaws in Ajani's plan. It had not rejected the plan. It had simply asked the questions that needed to be asked. The pact was not dead. It was being forged in the fire of the Tree's scrutiny.
-
-Let me rewrite the Tree's response.
 
 The roots of the Kyre Tree pulsed slowly, thoughtfully, the pale green light rippling through the ancient chamber like breath through a sleeping giant. The blossom stirred, and the amber pool at its heart swirled with images—not of tournaments or schools or delegations, but of the surge it had felt. Rich aura. Varied. Intense. Strong prey, gathered in one place, burning with passion and fear and hope. The Tree had tasted it.
 
 It wanted more. But it was ancient, and patient, and it had not survived for millions of years by accepting every promise offered to it.
 
-*You say you will bring the strong ones here again. Yearly. For a month. You say this will happen whether we make a pact or not. This is already promised. The feast will come regardless. Why should I give you anything in return for something you have already given?*
+'You say you will bring the strong ones here again. Yearly. For a month. You say this will happen whether we make a pact or not. This is already promised. The feast will come regardless. Why should I give you anything in return for something you have already given?'
 
 The roots pulsed again, and the pale green light flickered with something that might have been amusement or might have been calculation. The Tree was not mocking Ajani. It was testing him.
 
-*You ask me to light the way to the old wells. To guide those who leave the capital to new cities. This I can do. The old wells run deep. I know where they are. I have always known. But you also ask me to be extra hungry when the gathering comes. To eat as much as I like. To glut myself on the strong ones. This is not a request. This is what I would do anyway. You are giving me permission to be what I am. That is not a bargaining chip. That is a description of my nature.*
+'You ask me to light the way to the old wells. To guide those who leave the capital to new cities. This I can do. The old wells run deep. I know where they are. I have always known. But you also ask me to be extra hungry when the gathering comes. To eat as much as I like. To glut myself on the strong ones. This is not a request. This is what I would do anyway. You are giving me permission to be what I am. That is not a bargaining chip. That is a description of my nature.'
 
 The blossom leaned closer, its petals trembling with the intensity of the Tree's focus.
 
-*And then you ask the greatest thing. When the Flicker's light burns across the desert—when the chaos comes and the world tilts—you ask me to shield your people. To use the energy I have stored, the energy I have feasted on, to protect you from the Flicker's influence. You are not asking for water. You are asking for my strength. My power. My hunger, turned outward. Do you understand what this would cost me?
+'And then you ask the greatest thing. When the Flicker's light burns across the desert—when the chaos comes and the world tilts—you ask me to shield your people. To use the energy I have stored, the energy I have feasted on, to protect you from the Flicker's influence. You are not asking for water. You are asking for my strength. My power. My hunger, turned outward. Do you understand what this would cost me?
 
 The energy I would expend would take centuries to recover. The feast you offer—this yearly gathering of strong ones—would barely cover the cost. And yet you offer it freely. You tell me it will happen whether we make a pact or not. You are giving me food and asking me to work for it. This is a bargain I have never been offered before. I am listening. But I am not yet convinced. Why should I spend my strength to protect you?
 
-What do you offer that I do not already have?*
+What do you offer that I do not already have?'
 
 <div class="dialogue-block">
-<span class="speech">"youre right and wrong lord of the desert, if i have them erect temples in your name, you become a brother to the strongest race on ethra, you become a test of strength, walking the path to you and surviving means one is "</span>strong<span class="speech">", failing means you're weak, thats just the way of the desert, you get extra food every day as long as the temples stand, and more, because once one does it, others will follow, however, for this to work we need to be partners, not only reluctant allies, you need to show them you're real, somehow, you need to choose the wells with the harshest path, those where they would have died anyway, during the gathering you need to be clever, sap them when they are in the gardens or as they enter the city in parades, make them feel weak, we will blame it on the sun, and crucially no one must know you feed on them, when they reach the well you must give them a fraction of your aura, so they feel they are "</span>stronger<span class="speech">", its all a ruse, but it will benefit us both old thing"</span>
+<span class="speech">"you're right and wrong lord of the desert, if I have them erect temples in your name, you become a brother to the strongest race on ethra, you become a test of strength, walking the path to you and surviving means one is strong, failing means you're weak, that's just the way of the desert, you get extra food every day as long as the temples stand, and more, because once one does it, others will follow, however, for this to work we need to be partners, not only reluctant allies, you need to show them you're real, somehow, you need to choose the wells with the harshest path, those where they would have died anyway, during the gathering you need to be clever, sap them when they are in the gardens or as they enter the city in parades, make them feel weak, we will blame it on the sun, and crucially no one must know you feed on them, when they reach the well you must give them a fraction of your aura, so they feel they are stronger, it's all a ruse, but it will benefit us both old thing"</span>
 </div>
 
 The roots of the Kyre Tree pulsed in slow, rhythmic waves, the pale green light rippling through the ancient chamber like breath through a sleeping giant. The blossom stirred, its petals unfurling slightly, and the amber pool at its heart swirled with images—not of temples or pilgrims, but of something simpler. A path through the desert. A well at the end. A creature standing before it, exhausted, triumphant, bathed in a faint green glow that felt like strength.
 
-*You are asking me to be a god. Not a predator. Not a shadow beneath the sand. A god. A test. A destination. The strong will walk the path to my wells and survive. The weak will fail. This is the way of the desert. This has always been the way of the desert. But you are adding something new. You are adding belief. You are adding worship. You are adding a reason for the strong to come to me willingly, not as prey, but as pilgrims.
+'You are asking me to be a god. Not a predator. Not a shadow beneath the sand. A god. A test. A destination. The strong will walk the path to my wells and survive. The weak will fail. This is the way of the desert. This has always been the way of the desert. But you are adding something new. You are adding belief. You are adding worship. You are adding a reason for the strong to come to me willingly, not as prey, but as pilgrims.
 
-And in return, I give them a fraction of my aura. A taste of strength. A feeling of being chosen. This will make them come back. This will make others follow. This is a cycle that feeds itself. This is not merely a feast. This is an arrangement that could endure for millennia.*
+And in return, I give them a fraction of my aura. A taste of strength. A feeling of being chosen. This will make them come back. This will make others follow. This is a cycle that feeds itself. This is not merely a feast. This is an arrangement that could endure for millennia.'
 
 The roots pulsed faster, brighter, the green light flickering with something that might have been excitement or might have been calculation. The Tree was not merely listening now. It was imagining. It was projecting forward across centuries, tracing the implications of what Ajani had proposed.
 
-*You say no one must know I feed on them. You say we must blame it on the sun. The gathering of the strong—I will sap them when they enter the city. In the gardens. During their parades. They will feel weak. They will think the desert is harsh. They will think the sun is cruel. They will not think of me. And the ones who live here—the Wengari, who are already accustomed to my hunger—they will barely notice.
+'You say no one must know I feed on them. You say we must blame it on the sun. The gathering of the strong—I will sap them when they enter the city. In the gardens. During their parades. They will feel weak. They will think the desert is harsh. They will think the sun is cruel. They will not think of me. And the ones who live here—the Wengari, who are already accustomed to my hunger—they will barely notice.
 
-They will seem strong by comparison. The visitors will go home feeling humbled, and they will send stronger champions the next year. This is clever. This is elegant. This is a deception that could last for generations.*
+They will seem strong by comparison. The visitors will go home feeling humbled, and they will send stronger champions the next year. This is clever. This is elegant. This is a deception that could last for generations.'
 
 The blossom leaned closer, its petals trembling with the intensity of the Tree's focus. The amber pool swirled with images of pilgrims kneeling beside ancient wells, bathed in a faint green light, rising with renewed strength and renewed faith. The Tree had been feared for millions of years. It had never been loved. It had never been sought out. It had only been avoided.
 
-*You are offering me a role in the story of the Wengari that I have never had before. You are offering me a way to feed that is not merely passive. You are offering me a relationship. A partnership. A shared deception that benefits us both. I choose the harshest paths. I choose the wells where the weak would die anyway. I give the survivors a taste of my power, and they call it divine. They call themselves chosen.
+'You are offering me a role in the story of the Wengari that I have never had before. You are offering me a way to feed that is not merely passive. You are offering me a relationship. A partnership. A shared deception that benefits us both. I choose the harshest paths. I choose the wells where the weak would die anyway. I give the survivors a taste of my power, and they call it divine. They call themselves chosen.
 
 They go home and tell others, and the others come, year after year, generation after generation, and I grow strong on their belief and their aura and their striving. This is not merely a pact. This is an arrangement that could outlast us both. I accept. I will be your guardian. I will be your test. I will be your god. And when the Tide comes, I will shield your people from the Flicker's chaos. Not because I love them.
 
-Not because I am benevolent. Because they are my food, and I protect what is mine.*
+Not because I am benevolent. Because they are my food, and I protect what is mine.'
 
 <div class="dialogue-block">
-<p class="speech-line">"not a god, a brother, tomorrow i will make a grand announcement, that you came to me in a dream, around noon in the royal gardens, you must make yourself known them, i dont care how, just that you do and its appropriately grand, the thing you did with the styx was awe inspiring, something like that , also your other friends cant know about our pact, if they do, it will be all for naught, all it takes one of them to blab and our plan comes crashing down, your food depends on our shared deception, now we must choose a name for you, lord of the desert sounds ominous, how about, the golden sun?"</p>
+<p class="speech-line">"not a god, a brother, tomorrow I will make a grand announcement, that you came to me in a dream, around noon in the royal gardens, you must make yourself known them, I don't care how, just that you do and it's appropriately grand, the thing you did with the styx was awe inspiring, something like that , also your other friends can't know about our pact, if they do, it will be all for naught, all it takes one of them to blab and our plan comes crashing down, your food depends on our shared deception, now we must choose a name for you, lord of the desert sounds ominous, how about, the golden sun?"</p>
 </div>
 
 The roots of the Kyre Tree pulsed in slow, thoughtful rhythms, the pale green light rippling through the ancient chamber like breath through a sleeping giant. The blossom stirred, and the amber pool at its heart swirled with something that might have been amusement or might have been satisfaction. The lord of the desert had been called many things across millions of years. Predator. Shadow. Hunger. It had never been called a brother.
 
-*Not a god. A brother. You are offering me kinship with the strongest race on Ethra. You are offering me a place in your story that is not fear but respect. Not worship but alliance. This is unprecedented. This is unexpected. This is acceptable.*
+'Not a god. A brother. You are offering me kinship with the strongest race on Ethra. You are offering me a place in your story that is not fear but respect. Not worship but alliance. This is unprecedented. This is unexpected. This is acceptable.'
 
 The roots pulsed faster as Ajani continued, and the Tree's attention sharpened at the mention of the Styx. The memory of that moment was still fresh in its ancient consciousness—the male Styx born white instead of blue, the females circling above the arena, the sky full of fire. It had been a display of power that echoed through the desert and beyond.
 
-*You want a sign. A display. Something appropriately grand. Something that will make your people believe I came to you in a dream. The Styx was a herald of your pact with the marsh. This must be a herald of our pact. Something that cannot be ignored. Something that will be remembered. I will think on this. I have had millions of years to practice patience. I can be grand when I choose to be.*
+'You want a sign. A display. Something appropriately grand. Something that will make your people believe I came to you in a dream. The Styx was a herald of your pact with the marsh. This must be a herald of our pact. Something that cannot be ignored. Something that will be remembered. I will think on this. I have had millions of years to practice patience. I can be grand when I choose to be.'
 
 The blossom leaned closer, and the pressure against Ajani's mind intensified—not with threat, but with the weight of shared conspiracy. The Tree understood what was at stake.
 
-*The others must not know. The marsh must not know. The one in the Rune-Belt must not know. The ancient things that dwell in the deep ocean and the frozen poles must not know. If they learn of our arrangement—if they learn that I am not merely a predator but a partner—they will seek to undermine it. They will whisper to the other races. They will reveal the deception. Your people will learn that the sun did not weaken the visitors.
+'The others must not know. The marsh must not know. The one in the Rune-Belt must not know. The ancient things that dwell in the deep ocean and the frozen poles must not know. If they learn of our arrangement—if they learn that I am not merely a predator but a partner—they will seek to undermine it. They will whisper to the other races. They will reveal the deception. Your people will learn that the sun did not weaken the visitors.
 
-I did. The temples will crumble. The pilgrims will stop coming. The feast will end. I will not allow this. I protect what is mine.*
+I did. The temples will crumble. The pilgrims will stop coming. The feast will end. I will not allow this. I protect what is mine.'
 
 The roots slowed, steadied, and the amber pool swirled with a new image—a sun, golden and warm, rising over the desert. The Tree was considering the name. Weighing it. Tasting it the way it tasted everything.
 
-*The Golden Sun. It is a good name. It is a lie, of course—I am not the sun, I am the shadow beneath the sun—but it is a useful lie. A beautiful lie. A lie that will make the pilgrims come. The sun gives life. The sun is warm. The sun is constant. No one fears the sun the way they fear the lord of the desert. But I must ask you, White Dawn—does the name serve me, or does it serve you? The Golden Sun sounds like something that belongs to the Bright Paws.
+'The Golden Sun. It is a good name. It is a lie, of course—I am not the sun, I am the shadow beneath the sun—but it is a useful lie. A beautiful lie. A lie that will make the pilgrims come. The sun gives life. The sun is warm. The sun is constant. No one fears the sun the way they fear the lord of the desert. But I must ask you, White Dawn—does the name serve me, or does it serve you? The Golden Sun sounds like something that belongs to the Bright Paws.
 
-Something that belongs to the Steadfast. I am not the Steadfast. I am older than the Steadfast. I am deeper than the Steadfast. I do not give life. I take it. I take it slowly, patiently, over centuries. Call me the Golden Sun if you wish, but remember what I truly am. The shadow beneath the name. The hunger beneath the light.*
+Something that belongs to the Steadfast. I am not the Steadfast. I am older than the Steadfast. I am deeper than the Steadfast. I do not give life. I take it. I take it slowly, patiently, over centuries. Call me the Golden Sun if you wish, but remember what I truly am. The shadow beneath the name. The hunger beneath the light.'
 
 <div class="dialogue-block">
-<p class="speech-line">"thats the beauty of it, the sun doesnt just give life, the sun takes life, you will be our unforgiving brother, ill say you saw the gathering and that woke you, that you feel kinship with us and wish to reward the truly strong, that its because of your lingering influence that the capital thrives and our wells fill, but now that you are awake you wish to commune with us, this will also allow you to pick whom you want to eat, all youll need to do is send a sign in the capital, a glow, a sound, whatever so that one knows hes been chosen for pilgrimage, no wengari would refuse, the other races might, but that just reinforces the myth, and again if they die because you eating them, that just means they were weak, this will make only the strongest most aura rich survive, we will togheter become the strongest thing on ethra, as long as you keep your end of the bargain"</p>
+<p class="speech-line">"that's the beauty of it, the sun doesn't just give life, the sun takes life, you will be our unforgiving brother, I'll say you saw the gathering and that woke you, that you feel kinship with us and wish to reward the truly strong, that it's because of your lingering influence that the capital thrives and our wells fill, but now that you are awake you wish to commune with us, this will also allow you to pick whom you want to eat, all you'll need to do is send a sign in the capital, a glow, a sound, whatever so that one knows he's been chosen for pilgrimage, no wengari would refuse, the other races might, but that just reinforces the myth, and again if they die because you eating them, that just means they were weak, this will make only the strongest most aura rich survive, we will together become the strongest thing on ethra, as long as you keep your end of the bargain"</p>
 </div>
 
 The roots of the Kyre Tree pulsed in slow, deliberate rhythms, the pale green light rippling through the ancient chamber like breath through a sleeping giant. The blossom stirred, and the amber pool at its heart swirled with images—not of temples or pilgrims, but of something simpler and more profound. A Wengari standing alone in the desert, bathed in a faint golden glow. Chosen. Marked. Called. The Tree was imagining what it would feel like to select its own prey.
 
 Not merely to feed on whoever wandered too close, but to choose. To summon. To be an active participant in the cycle of strength and weakness that defined the desert.
 
-*You are offering me choice. For millions of years, I have fed on whoever came near. The strong ones survived. The weak ones perished. I did not choose. I simply waited. But now you offer me a sign. A glow. A sound. Something that marks one of them as chosen. Called to pilgrimage. Called to walk the harshest path to my strongest well. And if they survive—if they are truly strong—they will receive a fraction of my aura and return home believing they have been blessed.
+'You are offering me choice. For millions of years, I have fed on whoever came near. The strong ones survived. The weak ones perished. I did not choose. I simply waited. But now you offer me a sign. A glow. A sound. Something that marks one of them as chosen. Called to pilgrimage. Called to walk the harshest path to my strongest well. And if they survive—if they are truly strong—they will receive a fraction of my aura and return home believing they have been blessed.
 
-If they die, they were weak, and I will feed on them anyway. Either way, I am nourished. Either way, the myth grows stronger. This is elegant. This is sustainable. This is a deception that will endure for generations.*
+If they die, they were weak, and I will feed on them anyway. Either way, I am nourished. Either way, the myth grows stronger. This is elegant. This is sustainable. This is a deception that will endure for generations.'
 
 The roots pulsed faster, brighter, the green light flickering with something that might have been excitement or might have been hunger. The Tree was not merely accepting the pact now. It was shaping it. Refining it. Adding its own ancient cunning to the design.
 
-*I will choose the strong ones. The ones whose aura burns brightest. The ones whose ambition and pride and desperation make them delicious. I will send them a sign—a glow at the edge of their vision, a sound in the stillness before dawn, a dream of golden light and ancient wells. They will know they have been chosen. They will come. And if they survive the pilgrimage, they will return stronger, bearing my mark, and they will tell others.
+'I will choose the strong ones. The ones whose aura burns brightest. The ones whose ambition and pride and desperation make them delicious. I will send them a sign—a glow at the edge of their vision, a sound in the stillness before dawn, a dream of golden light and ancient wells. They will know they have been chosen. They will come. And if they survive the pilgrimage, they will return stronger, bearing my mark, and they will tell others.
 
 The myth will spread. The strong will seek me out. The weak will be culled. And you, White Dawn, will ensure that the Wengari remain the strongest of all. Because you live here. You are already accustomed to my hunger. You barely notice it. When the other races falter, you will stand tall. You will be the living proof that the Golden Sun favors the Wengari above all others. This is a partnership, as you said.
 
-Not merely predator and prey, but allies in a shared design.*
+Not merely predator and prey, but allies in a shared design.'
 
 The blossom leaned closer, its petals trembling with the intensity of the Tree's focus. The amber pool swirled with an image of the capital—the hanging gardens, the arena, the temples that would soon rise beside the old wells. The Tree was projecting forward across centuries, tracing the implications of what they were building together.
 
-*I will keep my end of the bargain. The road will connect me to the marsh. The temples will bring pilgrims to my wells. The sign will choose the strong ones. The deception will hold. And when the Tide comes, I will shield your people from the Flicker's chaos. Not because I love them. Not because I am benevolent. Because they are my food, and I protect what is mine. Because you are my brother, and I protect what is ours.
+'I will keep my end of the bargain. The road will connect me to the marsh. The temples will bring pilgrims to my wells. The sign will choose the strong ones. The deception will hold. And when the Tide comes, I will shield your people from the Flicker's chaos. Not because I love them. Not because I am benevolent. Because they are my food, and I protect what is mine. Because you are my brother, and I protect what is ours.
 
-This is the new pact. It is done. Tomorrow, you will make your announcement. Tomorrow, I will make myself known. Prepare your people, White Dawn. I will give them a sign they will never forget.*
+This is the new pact. It is done. Tomorrow, you will make your announcement. Tomorrow, I will make myself known. Prepare your people, White Dawn. I will give them a sign they will never forget.'
 
 The deception itself is elegant. The Tree will sap the visitors during the gathering, making them feel weak. The Wengari, already accustomed to the Tree's hunger, will barely notice. The visitors will blame the sun. The pilgrims will walk the harshest paths, and if they survive, they will receive a fraction of the Tree's aura and believe they have been blessed. If they die, they were weak. The myth will grow.
 
@@ -395,7 +293,7 @@ The strong will come. The Tree will feast. And the Wengari will remain the apex 
 Ajani stepped onto the raised stone platform at the center of the plaza. The crowd fell silent. The sun blazed overhead, golden and unforgiving, and the kyre flowers seemed to lean toward the young king as if listening. The lord of the desert was waiting. The Golden Sun was about to be born.
 
 <div class="dialogue-block">
-<p class="speech-line">"MY BROTHERS! I HAVE GOOD NEWS!!! SURELY YOU ALL HAVE HEARD ABOUT THE WITHERING SICKNESS, HOW ONLY THE STRONG LIVE IN THE CAPITAL AND THOSE WHO CANT ENDURE IT DIE, IVE COME TO TELL YOU, I NOW KNOW WHY!!!" <span class="speech-attr">- 'Wait a bit, let it settle, pray the stupid thing below doesnt mess up the timing latter'</span></p>
+<p class="speech-line">"MY BROTHERS! I HAVE GOOD NEWS!!! SURELY YOU ALL HAVE HEARD ABOUT THE WITHERING SICKNESS, HOW ONLY THE STRONG LIVE IN THE CAPITAL AND THOSE WHO CAN'T ENDURE IT DIE, I'VE COME TO TELL YOU, I NOW KNOW WHY!!!"</p>
 </div>
 
 The crowd's murmur shifted. The excitement that had buzzed through the plaza moments before—the speculation about tournaments and trade and royal spectacle—dimmed into something quieter, something sharper. The withering sickness was a fact of life in the capital. Every Wengari knew someone who had come to Styxian full of hope and ambition, only to sicken and fade within months. The strong endured. The weak perished.
@@ -413,7 +311,7 @@ The kyre flowers along the plaza walls seemed to lean closer, their pale petals 
 Ajani raised one paw, the green fire flaring gently along his claws, and the plaza fell utterly silent. The sun was at its zenith. The moment had come.
 
 <div class="dialogue-block">
-<p class="speech-line">"OUR TOURNAMENT GATHERED THE STRONGEST WENGARI AND IN DOING SO, WE WOKE OUR LONG LOST BROTHER!,HE CALLS HIMSELF THE GOLDEN SUN!!! AND HE LIVES SOMEWHERE BELOW THE DESERT, LIKE US HES THE STRONGEST IN THE DESERT BUT HES BEEN WEAKENED BY EONS SLEEPING BELOW, THE WITHERING SICKNESS IS HIS DOING! BUT NOT HIS FAULT, WHEN HE FELL ASLEEP HIS BODY NATURALLY TRIED TO RECOVER BY ABSORBING THE AURA ABOVE, HE DIDNT KNEW WE WERE ALIVE, ALL HE FELT WERE AURAS, PROOF OF THAT IS HOW THE STRONG SURVIVE, THOSE WHO HAVE BEEN LIVING IN THE CAPITAL FOR GENERATIONS, YOU BARELY FEEL HIS INFLUENCE NOW DONT YOU? HES BEEN HELPING US BECOME STRONGER FOR GENERATIONS WITHOUT US EVEN KNOWING, ISNT HE A GREAT BROTHER?!"</p>
+<p class="speech-line">"OUR TOURNAMENT GATHERED THE STRONGEST WENGARI AND IN DOING SO, WE WOKE OUR LONG LOST BROTHER!,HE CALLS HIMSELF THE GOLDEN SUN!!! AND HE LIVES SOMEWHERE BELOW THE DESERT, LIKE US HE'S THE STRONGEST IN THE DESERT BUT HE'S BEEN WEAKENED BY EONS SLEEPING BELOW, THE WITHERING SICKNESS IS HIS DOING! BUT NOT HIS FAULT, WHEN HE FELL ASLEEP HIS BODY NATURALLY TRIED TO RECOVER BY ABSORBING THE AURA ABOVE, HE DIDN'T KNEW WE WERE ALIVE, ALL HE FELT WERE AURAS, PROOF OF THAT IS HOW THE STRONG SURVIVE, THOSE WHO HAVE BEEN LIVING IN THE CAPITAL FOR GENERATIONS, YOU BARELY FEEL HIS INFLUENCE NOW DON'T YOU? HE'S BEEN HELPING US BECOME STRONGER FOR GENERATIONS WITHOUT US EVEN KNOWING, ISN'T HE A GREAT BROTHER?!"</p>
 </div>
 
 <div class="dialogue-block">
@@ -431,7 +329,7 @@ And the tournament, which had already become a symbol of Wengari pride and renew
 Below the plaza, in the ancient darkness beneath the capital, the lord of the desert stirred. The Golden Sun was patient. The Golden Sun was hungry. The Golden Sun was listening. And it remembered what the White Dawn had promised. The pilgrims would come. The strong would walk the harshest path. The weak would feed the old wells. The myth was being woven, thread by thread, in the golden light of noon.
 
 <div class="dialogue-block">
-<p class="speech-line">"NOW THAT HE HAS WOKEN HE WISHES TO HELP US MORE!, HES SENT ME A VISION, A YOUNG WENGARI DOING A PILGRIMAGE TO A FAR AWAY WELL FROM OUR OLD CITIES, I SAW HIM FALL AND RAISE AGAIN, I SAW HIM ENDURE THE SUN AND THE HEAT, AND THEN WHEN HE ARRIVED, I SAW A FAINT GOLDEN LIGHT BATHING HIM, HE BECAME STRONGER STILL, I THINK IT MEANS HE WANTS TO FAVOR OUR STRONG!!, HE WANTS US TO BECOME STRONGER, SO HE CAN BECOME STRONGER, BUT HE ALSO SHOWED ME ANOTHER VISION, THE SAME WENGARI, HE FELL ON THE ROAD, HE DIED AND THE SAND SNAKES ATE HIS BONES, IM NOT SURE WHAT TO MAKE OF THAT, BROTHERS WHAT IS YOUR TAKE?"</p>
+<p class="speech-line">"NOW THAT HE HAS WOKEN HE WISHES TO HELP US MORE!, HE'S SENT ME A VISION, A YOUNG WENGARI DOING A PILGRIMAGE TO A FAR AWAY WELL FROM OUR OLD CITIES, I SAW HIM FALL AND RAISE AGAIN, I SAW HIM ENDURE THE SUN AND THE HEAT, AND THEN WHEN HE ARRIVED, I SAW A FAINT GOLDEN LIGHT BATHING HIM, HE BECAME STRONGER STILL, I THINK IT MEANS HE WANTS TO FAVOR OUR STRONG!!, HE WANTS US TO BECOME STRONGER, SO HE CAN BECOME STRONGER, BUT HE ALSO SHOWED ME ANOTHER VISION, THE SAME WENGARI, HE FELL ON THE ROAD, HE DIED AND THE SAND SNAKES ATE HIS BONES, I'M NOT SURE WHAT TO MAKE OF THAT, BROTHERS WHAT IS YOUR TAKE?"</p>
 </div>
 
 The crowd fell silent again, but it was a different silence now. The earlier excitement had been raw, chaotic, a release of tension and wonder. This silence was thoughtful. Calculating. The king had just described two visions, and the Wengari were a people who understood that a story with two endings was not merely a story. It was a test.
@@ -461,26 +359,10 @@ The Bright Paw priests near the front of the crowd were already conferring among
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">'now old thing dont let me down, noon is almost here' - "IM NOT SURE IF ITS REAL, IT WAS A DREAM, BUT IN THE DREAM I SAW MYSELF AS YOU SEE ME NOW, IN THE PLAZA AND JUST AS THE SUN WAS HIGHEST IN THE SKY, OUR BROTHER MADE HIMSELF KNOWN!"</p>
+<p class="speech-line">'now old thing don't let me down, noon is almost here' - "I'M NOT SURE IF IT'S REAL, IT WAS A DREAM, BUT IN THE DREAM I SAW MYSELF AS YOU SEE ME NOW, IN THE PLAZA AND JUST AS THE SUN WAS HIGHEST IN THE SKY, OUR BROTHER MADE HIMSELF KNOWN!"</p>
 </div>
 
-The noon sun hung directly overhead, a perfect golden disk in a sky bleached pale by the Steadfast's unblinking gaze. The shadows had vanished. Every creature in the plaza stood in the full, uncompromising light of midday, and the heat pressed down on the crowd like a physical weight. The moment stretched, and the silence grew taut.
-
-Then the kyre flowers began to bloom. Not the slow, patient unfurling of a desert blossom greeting the dawn, but a sudden, synchronized eruption of pale petals that rippled across the plaza walls in a wave of gold and white. Every flower in the capital, from the hanging gardens to the market stalls to the window boxes of the humblest merchant's quarters, opened at once. The air filled with their scent—not the familiar, dusty fragrance of the desert bloom, but something sweeter, richer, older.
-
-The scent of ancient earth and patient stone and the slow, grinding hunger of the deep places.
-
-A low vibration rose through the soles of the crowd's feet. It was not an earthquake. It was not a tremor. It was something subtler—a hum, a resonance, a sound that was felt rather than heard. It seemed to come from everywhere and nowhere, from the stone beneath the plaza and the air above it and the ancient roots that stretched through the bedrock below. The vibration rose in pitch, steadied, and resolved into something that was almost a voice.
-
-Not words. Not language. But meaning. The meaning pressed against the minds of every creature in the plaza: *I am here. I have always been here. I am awake.*
-
-The kyre flowers began to glow. A faint golden light pulsed from their petals, soft at first, then brighter, stronger, until the entire plaza was bathed in a warm, honeyed luminescence that seemed to rise from the flowers themselves. The light was not the harsh, blinding white of the Steadfast. It was deeper, richer, the color of ancient gold and sun-warmed stone and the patient hunger of the desert. It was the light of something that had been sleeping for millennia and was now, at last, opening its eyes.
-
-Sylva stood motionless at Ajani's side. Her silver aura had gone very still. The lord of the desert was keeping its promise. The Golden Sun was making itself known. And the crowd, which had been silent with wonder, was now beginning to kneel.
-
-Let me rewrite the scene from the crowd's perspective.
-
-The noon sun hung directly overhead, a perfect golden disk in a sky bleached pale by the Steadfast's unblinking gaze. The shadows had vanished. Every creature in the plaza stood in the full, uncompromising light of midday, and the heat pressed down on the crowd like a physical weight. Ajani's words still echoed in the silence: *I saw myself as you see me now, in the plaza, and just as the sun was highest in the sky, our brother made himself known.*
+The noon sun hung directly overhead, a perfect golden disk in a sky bleached pale by the Steadfast's unblinking gaze. The shadows had vanished. Every creature in the plaza stood in the full, uncompromising light of midday, and the heat pressed down on the crowd like a physical weight. Ajani's words still echoed in the silence: 'I saw myself as you see me now, in the plaza, and just as the sun was highest in the sky, our brother made himself known.'
 
 The moment stretched.
 
@@ -519,7 +401,7 @@ But the crowd had seen it. Every Wengari in the plaza had witnessed something—
 Below the plaza, in the ancient darkness, the lord of the desert felt the surge of belief ripple through the stone and settled back into its patient, hungry waiting. The flowers had bloomed. The light had bent. The myth was born. And the White Dawn, standing on his stone platform with the green fire flickering gently along his claws, allowed himself the faintest, most private of smiles. The old thing had come through. The Golden Sun was real now. And the pilgrims would come.
 
 <div class="dialogue-block">
-<p class="speech-line">'breathe, slowly, it went well, i thought i was going to get skewered here, he barely made it in time, stupid old thing' - "HE ALSO SHOWED ME HE WILL HELP OUR FRIENDS THE PYRINAE HE ALSO WANTS TO MAKE THEM STRONG, HE SHOWED ME A VISION, FIVE CITIES LIGHTHING UP, FLOURISHING, I THINK IT MEANS HE WILL REACH TO THEM AS HE DID TO US, HE WANTS TO MAKE US STRONG, HE WANTS THE WENGARI TO BE THE RULERS OF ETHRA!!, BROTHERS, I WILL BE THE FIRST TO TAKE THE PILGRIMAGE, ONCE HE SHOWS ME THE WAY, I WILL WALK IT AND IF I SURVIVE, ILL MAKE A TEMPLE THERE, SO YOU ALL KNOW WHERE TO GO, HE SHOWED ME A LAST VISION, IN MY DREAM I SAW AN OLD ROUGH WENGARI, HE SAW A LIGHT, HE KNEW, HE HAD BEEN CHOSEN, HE WALKED THE PATH, AND WHEN HE RETURNED, HE WON THE TOURNAMENT, HE WON THE CROWN!"</p>
+<p class="speech-line">'breathe, slowly, it went well, I thought I was going to get skewered here, he barely made it in time, stupid old thing' - "HE ALSO SHOWED ME HE WILL HELP OUR FRIENDS THE PYRINAE HE ALSO WANTS TO MAKE THEM STRONG, HE SHOWED ME A VISION, FIVE CITIES LIGHTING UP, FLOURISHING, I THINK IT MEANS HE WILL REACH TO THEM AS HE DID TO US, HE WANTS TO MAKE US STRONG, HE WANTS THE WENGARI TO BE THE RULERS OF ETHRA!!, BROTHERS, I WILL BE THE FIRST TO TAKE THE PILGRIMAGE, ONCE HE SHOWS ME THE WAY, I WILL WALK IT AND IF I SURVIVE, I'LL MAKE A TEMPLE THERE, SO YOU ALL KNOW WHERE TO GO, HE SHOWED ME A LAST VISION, IN MY DREAM I SAW AN OLD ROUGH WENGARI, HE SAW A LIGHT, HE KNEW, HE HAD BEEN CHOSEN, HE WALKED THE PATH, AND WHEN HE RETURNED, HE WON THE TOURNAMENT, HE WON THE CROWN!"</p>
 </div>
 
 The plaza erupted. Not in the controlled roar of a tournament crowd, not in the thoughtful murmur of people parsing a vision, but in something rawer, something deeper. The Wengari were a people who understood strength. They understood tests. They understood that the strong survived and the weak perished and the desert did not apologize for either outcome. And now their king—their young, brilliant, infuriating king—had just told them that the Golden Sun, the ancient brother who had been shaping them for generations without their knowledge, would personally choose pilgrims to walk a sacred path.
@@ -543,3 +425,41 @@ Near the eastern fountain, the Humman ambassador Seris stood very still. Her dar
 The tournament would draw the strong. The pilgrimage would test them. The Golden Sun would bless them. And the Wengari would rule Ethra not merely through strength, but through the belief that their strength was divinely ordained. She said nothing. Her daughter was in Sylva's service. Her merchants were dead. She was learning. She was waiting.
 
 Sylva stood motionless at Ajani's side, her silver-chased ceremonial armor gleaming in the noon light. The faint flicker of her silver aura was the only sign of her thoughts. The king had just promised the Pyrinae that the Golden Sun would reach them. He had not consulted her. He had not consulted the Pyrinae. He had simply announced it, in the plaza, at noon, while the light of the Golden Sun still shimmered in the memory of the crowd.
+
+The elders would hear of this. They would have questions. They would have objections. But by the time those objections reached the capital, the myth would already be rooted. The pilgrims would already be walking. The Golden Sun would already be real.
+
+Below the plaza, in the ancient darkness, the lord of the desert stirred. The Golden Sun felt the surge of belief ripple through the stone above—felt the ambition of the young warrior, the hope of the old merchant, the quiet calculation of the Humman ambassador, the fierce pride of the Wengari who now believed they were chosen. It felt the energy of thousands of creatures, all of them turning their thoughts toward the light it had made, the myth it had become.
+
+The White Dawn had promised a self-sustaining feast. The White Dawn was delivering. And the Golden Sun, patient and hungry and ancient beyond memory, settled back into its waiting and began to plan which pilgrim it would choose first.
+
+<div class="dialogue-block">
+<p class="speech-line">'good, now all of them will walk it, this is so tiring.. I need a bath' - "BROTHERS, I'LL RETIRE NOW, BUT BEFORE I LEAVE, I HAVE A LAST PIECE OF ADVICE, THE DESERT SUN JUST AS UNFORGIVING AS OUR BROTHER, IF YOU ARE CHOSEN, DON'T TAKE IT LIGHTLY IF YOU FALL, YOU'LL HAVE NO ONE TO BLAME BUT YOURSELVES"</p>
+</div>
+
+The crowd's roar followed Ajani as he stepped down from the stone platform, but it was a different roar than before. It was not the frenzied excitement of the tournament or the fervent wonder of the Golden Sun's display. It was something deeper, something that would linger long after the plaza had emptied. It was the sound of a people who had just been given a purpose.
+
+<div class="dialogue-block">
+<p class="speech-line">T'van was at Ajani's side before the king had taken three steps, his golden eyes bright with the particular exhaustion of someone who had been running messages since dawn. "My king. That was... that was..." He seemed to be struggling to find words adequate to the task.</p>
+</div>
+
+<div class="dialogue-block">
+<span class="speech">"A lot of work,"</span> Ajani said, his voice pitched low enough that only T'van could hear. <span class="speech">"And I need a bath. And about three days of sleep. But first, I need you to find the Pyrinae delegation and tell them I'll meet with them tomorrow. They'll have questions. They'll have many, many questions. Also find the elder of the Bright Paw priests—the one who spoke at the end—and tell her I want to see her as well. She has good instincts. She'll be useful."</span>
+</div>
+
+<div class="dialogue-block">
+<p class="speech-line">T'van was already scribbling notes onto his ever-present scroll. "The Pyrinae. The Bright Paw priestess. Anything else, my king?"</p>
+</div>
+
+<div class="dialogue-block">
+<span class="speech">"Find Sylva. Tell her I'm going to bathe and then I'm going to sleep. If anyone wants to speak with me, they can wait until morning. Including her."</span> He paused, his green-flecked eyes meeting T'van's. <span class="speech">"Especially her. She's going to have words for me about the Pyrinae. I can see it in the way her whiskers twitched. She can yell at me tomorrow."</span>
+</div>
+
+<div class="dialogue-block">
+<p class="speech-line">T'van's ears flattened, but he nodded. "I will inform the regent. And if she insists?"</p>
+</div>
+
+<div class="dialogue-block">
+<p class="speech-line">Ajani allowed himself the faintest twitch of his whiskers. "She will. Tell her I said she's doing an excellent job and I have complete confidence in her ability to handle whatever questions arise before morning. That should confuse her long enough for me to reach the baths." He turned and walked toward the palace, the white cloak billowing behind him, the green fire flickering gently along his claws. Behind him, the plaza was still alive with the sound of Wengari discussing visions and pilgrimages and the Golden Sun's blessing. The myth was born. The pilgrims would come. And the White Dawn, exhausted and triumphant, was going to take a very long bath.</p>
+</div>
+
+The plaza had emptied, but the echoes of the Golden Sun's display still lingered in the air like the afterimage of a lightning strike. The kyre flowers along the walls had returned to their usual state—invisible to all but the razor hares, their pale petals closed against the afternoon light. The shimmering gold was gone. The racing patterns along the ancient stone had faded. The shower of light, the morning dew, the Styx fire—all of it lived now only in the memories of those who had witnessed it.

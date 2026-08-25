@@ -1,115 +1,5 @@
 ## Chapter 5: The Gifts
 
-<div class="dialogue-block">
-Ajani's whiskers twitched. <span class="speech">"That's probably true. But I'm your stupid king. And you're stuck with me."</span> He rose and picked up the practice saber. <span class="speech">"Now pick up your weapon. You still have the third form to master. And the fourth. And the fifth. And after that, I'm going to teach you the spear. And after that, the sword. And after that—"</span>
-</div>
-
-<div class="dialogue-block">
-<span class="speech">"I get it,"</span> Kira said, but she was almost smiling as she bent to retrieve the saber. <span class="speech">"You're very wise and I have a lot to learn and the desert is unforgiving. Can we just train now?"</span>
-</div>
-
-<div class="dialogue-block">
-Ajani's laughter echoed through the arena. <span class="speech">"You're learning. That's almost exactly what my father would have said."</span> He raised his saber. <span class="speech">"Again."</span>
-</div>
-
-Kira learned the palace's secret places from Ajani over the following weeks. The hidden passage behind the throne room that led to the old guard quarters. The rooftop garden where the kyre flowers bloomed year-round, even in the driest seasons. The kitchen's back entrance, where the cooks would slip them extra portions of dried fruit if they promised not to tell the steward. They played pranks on the maids—Ajani using a flicker of green fire to make the washbasin glow, Kira hiding in the linen closet and jumping out at precisely the right moment.
-
-The maids complained to Mira, and Mira complained to Sylva, and Sylva simply shook her head and said nothing. The king had been carrying the weight of the crown for months. If he needed to act like a cub for a few hours, the regent would not stop him.
-
-One evening, they sat on the rooftop garden as the Steadfast set over the desert, painting the sky in shades of amber and rose. Kira was quiet, her dark pelt blending with the shadows, her golden eyes reflecting the dying light.
-
-<div class="dialogue-block">
-<span class="speech">"L'vat used to make me sit like this,"</span> Ajani said. <span class="speech">"In the marshes. He never said anything. He just sat. For hours. I thought he was punishing me at first. Then I realized he was teaching me. Patience. Stillness. The art of being alone without being lonely."</span> He paused, the green fire flickering gently along his claws. <span class="speech">"You don't have to be alone anymore. But you should learn to be still. The world will try to rush you. Don't let it."</span>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">Kira leaned against his shoulder, her small frame barely reaching his chest. "Is that another one of your father's sayings?"</p>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">"No. That one is mine."</p>
-</div>
-
-The Humman ambassador had come to present a trade proposal. Seris stood in the center of the Great Hall, her diplomatic composure firmly in place, her voice steady as she outlined the terms of a new agreement for Scorpion-Mount exports. Ajani sat on the cold throne, the white cloak of his father draped across his shoulders, the green fire flaring along his claws. He was not the laughing brother who played pranks in the kitchen.
-
-He was not the patient teacher who corrected Kira's footwork in the arena. He was the White Dawn, the heir of the Lightbringer, the king who had humiliated the Hummans twice and would not hesitate to do so again.
-
-Kira stood in the shadows behind the throne, between Sera and Vex, as she had been instructed. She was to observe. She was to learn. She was to say nothing. But one of the Humman merchants—a young male with the sharp, nervous features of the Silk-Weaver guild—made the mistake of glancing at her and murmuring something to his companion. His voice was too low to carry to the throne, but Kira's ears were sharp, and she had spent three years on the streets learning to read lips and catch whispers.
-
-<div class="dialogue-block">
-<p class="speech-line">"Shadow Paw brat. The king's pet street rat. I heard she tried to steal his purse and he kept her like a stray."</p>
-</div>
-
-<div class="dialogue-block">
-Kira's ears flattened. Her claws extended before she could stop them. Sera's paw closed around her shoulder, gentle but immovable. <span class="speech">"Not here,"</span> the assassin murmured. <span class="speech">"Not now. The king will handle it."</span>
-</div>
-
-Ajani had heard. Of course he had heard. His senses were far sharper than any Humman's, and the green fire along his claws flared bright enough to cast dancing shadows across the golden mosaics. He did not rise from the throne. He did not raise his voice. He simply turned his green-flecked eyes toward the merchant who had spoken, and the temperature in the Great Hall dropped by several degrees.
-
-<div class="dialogue-block">
-<span class="speech">"Ambassador Seris,"</span> he said, his voice quiet and cold and utterly without mercy. <span class="speech">"One of your merchants has just insulted my sister. In my hall. Before my throne. I will give you one opportunity to address this before I address it myself. Choose your words carefully."</span>
-</div>
-
-*With that understanding let's continue the vignettes ajani met Kira one week after the golden Sun, you must now include vignettes of her , you have just made her the audience surrogate for the three months, we should see her in class with tutors, with sylva, morning training with ajani, moments with the shadows sera and the still unamed male(great opportunity to give him a name) in the streets escaping from the palace a fight with ajani telling him he should have just left her on the streets and him being stern and unflinching about it, ajani imparting wisdom from his father and l'vat, to her, showing her his favorite spots in the palace ajani should momentarily revert to a child with her, playing pranks to the maids, we should also see her witnessing ajani in his full royal and scary persona perhaps with the hummans or as someone makes a crude comment of her, agree with these beats ?*
-
-The Humman merchant's face went pale beneath its furless skin. His companion, the one to whom he had whispered the insult, had already stepped backward into the crowd of delegates, leaving him alone before the throne. The guards were on him before he could speak—two Bright Paw warriors in ceremonial armor, their golden manes bristling, their claws extended. They seized his arms and forced him to his knees on the polished stone.
-
-<div class="dialogue-block">
-<p class="speech-line">Seris stepped forward, her diplomatic composure cracking. "King Ajani, I apologize on behalf of my delegation. The merchant spoke out of turn. He will be disciplined. The Hummans meant no—"</p>
-</div>
-
-<div class="dialogue-block">
-<span class="speech">"Silence."</span> Ajani did not look at her. His green-flecked eyes were fixed on the kneeling merchant, and the green fire along his claws had steadied into a cold, brilliant blaze. <span class="speech">"I did not ask you, Ambassador. I asked him."</span> He rose from the throne and descended the dais, his white cloak billowing behind him, each step echoing through the silent hall. He stopped before the merchant and looked down at him, and the merchant—the young Silk-Weaver who had whispered a cruel joke to his companion, who had called the king's sister a street rat, who had forgotten, for a single fatal moment, where he was and who was listening—began to tremble.
-</div>
-
-<div class="dialogue-block">
-<span class="speech">"You said something about my sister. In my hall. Before my throne. You thought I would not hear. You thought she would not hear. You thought you were safe because you were standing among your fellow merchants and the ambassador was speaking and no one was paying attention to the shadows behind the dais."</span> Ajani's voice was quiet, almost conversational, and far more terrifying than any roar. <span class="speech">"Tell me what you said. Tell it to my face. Tell it so we all can hear."</span>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">'stand, choke, and whisper' - "I said tell it to my face humman"</p>
-</div>
-
-The merchant's mouth opened, but no sound came out. His throat worked convulsively, the way a prey animal's might when it realizes the predator's jaws are already closing. The guards held him steady, their claws digging into his arms, their golden manes bristling with the particular fury of warriors who had just heard their king's sister insulted by a furless foreigner.
-
-<div class="dialogue-block">
-<p class="speech-line">Ajani reached out and closed his paw around the merchant's throat. Not hard enough to crush—not yet—but enough to feel the rapid, terrified flutter of the Humman's pulse beneath his claws. He leaned close, his voice dropping to a whisper that only the merchant and the guards and the shadows behind the throne could hear. "I said tell it to my face. You had the courage to speak it in my hall. Now have the courage to repeat it to your king."</p>
-</div>
-
-The merchant's eyes rolled wildly toward Seris, but the ambassador stood frozen, her diplomatic mask shattered, her dark eyes wide with the knowledge that she could do nothing. This was not a negotiation. This was not a trade dispute. This was the White Dawn reminding the Hummans—reminding everyone—that the royal family was not to be touched. Not by whispers. Not by insults. Not by anything.
-
-<div class="dialogue-block">
-<span class="speech">"I—I said—"</span> The merchant's voice was a strangled rasp, forced out between the king's claws and the guards' unyielding grip. <span class="speech">"I said she was a Shadow Paw brat. A street rat. The king's pet. I didn't mean—I didn't know—she's your sister, I didn't know, please, I didn't—"</span>
-</div>
-
-<div class="dialogue-block">
-<span class="speech">"You didn't know."</span> Ajani's whisper was cold and soft and utterly without pity. <span class="speech">"You didn't know that the cub standing in my shadow, flanked by my personal guards, wearing the Brightmane name, was my sister. You didn't know that insulting her in my hall, before my throne, was the same as insulting me. You didn't know that the Hummans are here on my sufferance. That your ambassador knelt in the dust and offered her daughter for the privilege of your continued existence. You didn't know any of this. And yet you opened your mouth and spoke. That is the problem with the Hummans. You speak without knowing. You scheme without understanding. You whisper insults in the dark and think no one is listening."</span> He released the merchant's throat and stepped back, his green-flecked eyes sweeping across the silent delegation. <span class="speech">"But I am always listening. And my shadows are always watching. And my sister—"</span> He paused, his gaze flicking toward the darkness behind the throne, where Kira stood between Sera and Vex, her dark pelt blending with the shadows, her golden eyes wide. <span class="speech">"My sister is worth more than every Humman in this hall combined. Remember that."</span>
-</div>
-
-<div class="dialogue-block">
-He turned and walked back to the throne, his white cloak billowing behind him. <span class="speech">"The guards will escort this merchant to the eastern gate. He will leave the capital before sundown. If he ever returns, he will be killed on sight. The rest of the Humman delegation may remain, but they will remember what happens to those who insult the Brightmane name."</span> He settled onto the cold stone, the green fire still flaring along his claws. <span class="speech">"Ambassador Seris. You were presenting a trade proposal. Continue."</span>
-</div>
-
-The merchant's body hit the polished stone with a sound like a sack of grain falling from a wagon. His neck was broken. The green fire had not touched him—Ajani had not used his aura, had not summoned the saber or the spear—he had simply closed his paw and twisted, and the Humman's fragile vertebrae had snapped like dry twigs in the marsh. The body lay crumpled at the foot of the dais, and the Great Hall was silent.
-
-<div class="dialogue-block">
-Ajani looked down at the corpse, his expression unreadable. Then he raised his paw and flexed his claws once, as if testing their edge. <span class="speech">"So frail. The weakest trees in the marsh are harder than this."</span> He gestured to the guards. <span class="speech">"Throw the body to the Hummans. Let them carry their dead back to their quarter. Let them remember what happens when they forget where they are."</span>
-</div>
-
-The guards dragged the body across the polished stone, and the Humman delegation parted before it like water before a stone. Seris stood motionless, her dark eyes fixed on the corpse of her merchant, her diplomatic composure shattered beyond repair. Behind her, the other merchants trembled. One of them made a soft, keening sound that might have been a prayer or might have been a whimper. No one spoke. No one dared.
-
-<div class="dialogue-block">
-<p class="speech-line">"Kira. Come here."</p>
-</div>
-
-Kira stepped out of the shadows behind the throne, her dark pelt blending with the gloom, her golden eyes wide. She had seen death before—on the streets, in the market, in the rubble of the west wall where her parents had died. She had never seen death delivered so casually, so absolutely, by someone who was protecting her. She walked across the dais and stood at Ajani's side, and the king placed one paw gently on her shoulder.
-
-<div class="dialogue-block">
-<span class="speech">"I am Ajani, first of my name. Protector of the realm. Chosen of the Golden Sun. Brother of the Deep. Heir to the Black Fire and the Lightbringer. Friend of the Pyrinae. King of the Wengari."</span> His voice echoed through the silent hall, each title a stone dropped into still water. <span class="speech">"And this is Kira. My sister. By insulting her, you insult not only me, but the crown and every single Wengari who has ever knelt before this throne. Your fate now rests in my sister's paws."</span> He looked down at Kira, his green-flecked eyes softening just slightly. <span class="speech">"Little sister. These pests have offended you. They have offended me. They have offended the crown. Will you let them scurry back to their quarter with their dead, or will you demand more from them?"</span>
-</div>
-
-Kira looked at the trembling merchants, at the corpse being dragged toward the great bronze doors, at the ambassador whose diplomatic mask had been shattered beyond repair. She had been a street cub three months ago, starving and forgotten. Now a king was asking her to decide the fate of an entire delegation. She raised her chin, and her voice, when she spoke, was steady.
-
 The merchant's body hit the polished stone at Seris's feet with a sound like a sack of grain falling from a wagon. His neck was broken. The green fire had not touched him—Ajani had not used his aura, had not summoned the saber or the spear—he had simply closed his paw and twisted, and the Humman's fragile vertebrae had snapped like dry twigs in the marsh. The body lay crumpled before the ambassador, and Seris stared down at it, her diplomatic composure shattered beyond repair.
 
 <div class="dialogue-block">
@@ -158,7 +48,7 @@ She could feel the eyes of the Bright Paw guards and the Shadow Paw assassins an
 
 She thought about the streets. She thought about the hunger, the cold nights, the way the merchants had looked through her as if she were already dead. She thought about the west wall, about her father standing his post as the Wallbreaker came through the stone, about her mother's hands—armorsmith's hands, strong and calloused—pressing a crust of bread into her paws the morning of the breach. She thought about the three years after, the years of stealing and scrabbling and surviving, the years when no one had knelt before her because no one had even seen her.
 
-She thought about Ajani. About the morning in the market when he had caught her paw and looked at her not with pity but with recognition. About the blood oath in the courtyard, the green fire and the mingled blood and the name he had given her. About the training in the cold sand before dawn, the patient corrections, the laughter when she got it right. About the rooftop garden at sunset, the quiet words, the stillness. *You don't have to be alone anymore.*
+She thought about Ajani. About the morning in the market when he had caught her paw and looked at her not with pity but with recognition. About the blood oath in the courtyard, the green fire and the mingled blood and the name he had given her. About the training in the cold sand before dawn, the patient corrections, the laughter when she got it right. About the rooftop garden at sunset, the quiet words, the stillness. 'You don't have to be alone anymore.'
 
 She stepped forward. Her bare feet made no sound on the polished stone, but the Humman merchants flinched as if she had struck them. She stopped before Seris and looked down at the ambassador, and her voice, when she spoke, was clear and steady and carried through the silent hall like a blade being drawn.
 
@@ -255,7 +145,6 @@ Meanwhile, Vex slipped through the shadows of the Humman quarter and entered the
 <div class="dialogue-block">
 <p class="speech-line">Sera nodded slowly. "Then she may still be useful. Tell the king. Let him decide."</p>
 </div>
-
 
 Lena read the message in the dim light of the kitchen, her dark eyes moving across her mother's careful handwriting. A gift for the king. An egg that could not wait. A request for help. She folded the parchment and tucked it into her sleeve. She finished scrubbing the channels. She dried her hands. And then she went to find Sylva.
 
@@ -387,68 +276,6 @@ Ajani lay on his back on the largest rock, his golden mane spread around him, hi
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">Kira was quiet for a moment. Then she said, "They're coming."</p>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">Ajani did not open his eyes. "Who is coming?"</p>
-</div>
-
-<div class="dialogue-block">
-<span class="speech">"All of them. I can hear the fire feet. And the caravans. And—"</span> She tilted her head, her ears swiveling. <span class="speech">"Someone is running. Very fast. Like they're being chased."</span>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">Ajani sighed. "How many?"</p>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">"Lots. The Stripe Paws are in the lead. Vasha is with them. She looks angry. Well, she always looks angry. But she looks extra angry."</p>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">Ajani opened one eye. "How do you know what Vasha looks like?"</p>
-</div>
-
-<div class="dialogue-block">
-<span class="speech">"She tried to catch me once. When I was on the streets. She saw me stealing from a merchant and chased me for three blocks. She's very fast for someone who never smiles."</span> She paused. <span class="speech">"I got away."</span>
-</div>
-
-<div class="dialogue-block">
-<span class="speech">"Of course you did."</span> Ajani closed his eye again. <span class="speech">"Let them come. I am not moving. I am a rock. I am the warmest, most comfortable rock in the entire desert."</span>
-<p class="speech-line">Ajani opened his eyes and sat up slowly. He looked at Ember, at the ceremonial barding, at Korr standing beside the pale fire foot with his scarred face unreadable. Then he looked at Vasha. "You were delaying Seris's messages."</p>
-</div>
-
-<div class="dialogue-block">
-<span class="speech">"Of course. The Hummans could not be permitted to present a gift before the Wengari families. That would have been a grave insult. To you. To us. To every family who has not yet presented their offering."</span> She paused. <span class="speech">"The Bright Paws, I am told, forgot entirely. Solen is currently tearing through the temple reliquary in a panic."</span>
-</div>
-
-<div class="dialogue-block">
-Ajani stared at her for a long moment. Then he started to laugh. He laughed until his ribs ached, until the sound echoed off the rocks and carried across the desert. <span class="speech">"My own family forgot my coronation gift. Four months. I have been king for four months, and Solen forgot."</span> He wiped his eyes. <span class="speech">"Father would have been mortified. Mother would have laughed. I am doing both."</span>
-</div>
-
-<div class="dialogue-block">
-Zara stepped forward, her massive paw resting on Ember's flank. <span class="speech">"The Stripe Paws do not forget. This is Ember. She carried you through the marshes for a year. She has been waiting for you since you left. The barding is new—tooled leather inlaid with gold and amber, bearing the symbols of all four families. The fire foot carries the king. The king carries the Wengari."</span> She inclined her great head. <span class="speech">"This is our gift. Not as tribute. As family. Your mother was one of us. You are one of us. Ember is yours."</span>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">Ajani rose from the rock and walked toward the pale fire foot. He stopped before her and placed one paw against her flank. The fire foot rumbled, a low, throaty sound of recognition, and her scales shimmered with a faint, answering glow. The green fire along Ajani's claws steadied into a warm, gentle light. "I accept this gift. I accept it as family. Thank you, Zara. Thank you, Korr. Thank you, Vasha, for delaying the ambassador's messages and winning the race. You may now stop being angry about the three offices."</p>
-</div>
-
-<div class="dialogue-block">
-<div class="dialogue-block">
-<span class="speech">"This is perfect,"</span> he said. <span class="speech">"No elders. No ambassadors. No regent with a scroll of urgent matters. Just warm rocks and cool water and my best sister."</span>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">"I'm your only sister."</p>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">"You are my only sister and therefore by definition my best sister. Logic is important for a princess. Toren would be proud." <span class="speech-attr">He closed his eyes and let the sun soak into his fur.</span></p>
-</div>
-
-<div class="dialogue-block">
 Kira was quiet for a moment. Then she tilted her head, her ears swiveling. <span class="speech">"Someone's coming. I can hear fire feet. Lots of them. And—"</span> She paused, listening. <span class="speech">"One of them is running. Not with the others. Running toward us."</span>
 </div>
 
@@ -511,21 +338,6 @@ Before Ajani could respond, Kira tugged at his sleeve. <span class="speech">"Mor
 <div class="dialogue-block">
 <p class="speech-line">Ajani straightened, one paw still resting on Ember's flank. The green fire flickered along his claws. "The Shadow Paws have overplayed their hand. I can feel it. Sera and Vex are embarrassed. Kareth is not with them. This is going to be interesting."</p>
 </div>
-Kira has been carrying that bag for months. Ajani noticed it but never asked—he trusts her, and he understands that some things are private. The bag contains a belt she made herself, trying to be like her mother the armorsmith, sewing by night when she thought no one was watching. She did errands for everyone in the palace. She scrounged and saved. She bonded with Sera's daughter. And all of it was for a gift that Vex helped her design—a belt for the daggers the Shadow Paws were supposed to give Ajani.
-
-Vex told her about the daggers. Vex saw her working on the belt. Vex and Sera each pitched in a set of ceremonial war beads made of Tide Wolf claws, meant to complement the daggers and the belt as a complete set. The three of them—the cub, the scarred assassin, and the silent male—conspired together on a gift that would be personal and practical and beautiful.
-
-And then the elders changed the gift without telling them.
-
-Kira's outburst is not merely disappointment. It is betrayal. She trusted Vex. She worked for months. She made something with her own paws, trying to honor her mother's craft. And now the daggers are not coming. The belt is useless. The beads are useless. The elders have replaced her careful, loving work with a political maneuver she is too young to fully understand but old enough to feel as a wound.
-
-Vex's reaction will be the most telling moment of the scene. He does not speak often. He has been silent for most of his appearances. But Kira is crying, and she is crying because of something he told her, something he promised her, something he helped her build. He will look at Sera with barely contained fury. Sera will look at the elders with open questioning—her ruined face cannot hide her anger. And Lira, the would-be bride, will be standing in the middle of this wreckage, bowing gently, trying to display her charms, while Ajani does not even look at her.
-
-Ajani will be looking at Kira. Then at Vex. Then back at Kira. The political implications of the Shadow Paws offering a mate will not register yet. What will register is that his sister is crying, and his shadows are furious, and something has gone terribly wrong.
-
-The Stripe Paws grinning openly at the Shadow Paws' catastrophic failure is the perfect punctuation. Vasha, who never smiles, will allow herself the faintest expression of satisfaction. Zara will not bother to hide her amusement. The Stripe Paws have just given their gift perfectly, and now they get to watch their rivals implode.
-
-I have only one small note. The Tide Wolf claw beads are a beautiful detail, but we should make sure they are consistent with established lore. The Tide Wolves are apex predators of the Rune-Belt, and their claws would be rare and valuable. Sera and Vex having a set to give as a personal gift makes sense—they are assassins who have traveled widely. The beads glowing subtly in the night and exploding with a bang and flash when thrown as a last-ditch effort is a practical gift from two people whose entire lives are spent preparing for worst-case scenarios.
 The Shadow Paw contingent crested the ridge in perfect formation, their dark pelts blending with the late afternoon shadows, their lacquered claws gleaming. Kareth was not with them. The elder who had overruled him walked at the head of the column, his scarred face composed into an expression of serene confidence. Beside him walked Lira.
 
 She was beautiful. There was no denying it. Her dark pelt gleamed with the subtle iridescence of a raven's wing, and her ceremonial silks were woven with silver thread that caught the dying light. Her claws were lacquered in the traditional pattern of a Shadow Paw bride—not the solid black of an assassin, but the intricate, interlocking spirals that spoke of lineage and honor and the hope of new blood.
@@ -676,3 +488,69 @@ The spear split. One became two, then four, then five—five identical spears ar
 <div class="dialogue-block">
 <p class="speech-line">"I hoped you would. It is a weapon worthy of a White Dawn. And it is a reminder that the Pyrinae are with you. We have always been with you. We were only waiting for you to ask."</p>
 </div>
+
+<div class="dialogue-block">
+Elyra stepped forward, the grimoire cradled in her arms. <span class="speech">"The Motted Paws offer this. A grimoire of Flowing Water, bound in leather and enchanted with sorcery. If you write something in it, the book will translate, as long as it is a language the Motted Paws have encountered. If you draw something and describe it, the book will animate the drawing."</span> She opened the grimoire to a page where a small, silver figure moved through the forms of Flowing Water—slow, patient, inexorable. <span class="speech">"It already contains a compendium of our techniques. But it is also a blank book. It will become whatever you need it to become."</span>
+</div>
+
+<div class="dialogue-block">
+<p class="speech-line">Ajani took the grimoire and turned its pages. The animated figure flowed through the forms again, and he watched it for a long moment. Then he looked up. "Can it inscribe sorcery formulas? If I were to write a runic sequence, would the book hold it? Would it animate the effect?"</p>
+</div>
+
+<div class="dialogue-block">
+<p class="speech-line">Elyra's silver aura flickered. "Yes. The book will hold any sorcery inscribed in it. It will animate any sequence, as long as the sorcerer provides the energy. It is a grimoire in the truest sense—a living record of magic."</p>
+</div>
+
+<div class="dialogue-block">
+Ajani closed the book gently. <span class="speech">"This is the best gift I have received today."</span> He paused, looking at the grimoire with an expression that was difficult to read. <span class="speech">"The spear is magnificent. The fire foot is beloved. The daggers are precious. But this—this is knowledge. This is a weapon that grows sharper with use. Thank you, Elyra. Thank you, Sylva. The Motted Paws have given me something I did not know I needed."</span>
+</div>
+
+Nefere inclined her head, her clouded eyes unreadable. She was not offended—she had known Ajani long enough to understand that his mind worked in ways that favored the practical and the portable. But her gaze flickered to the grimoire, and then to Elyra, and something passed between them.
+
+Layla—the Humman ambassador's daughter, standing at the edge of the gathering in her simple scribe's robes—caught Nefere's eye. The old Hydromancer's expression was very still, but Layla had spent months in the capital learning to read the faces of Wengari. She saw the question in Nefere's eyes, the same question she was asking herself: Why did the king want to inscribe sorcery formulas in a book? What was he planning to do with a grimoire that could hold and animate any sequence he wrote?
+
+Ajani did not notice. He was still turning the pages of the grimoire, watching the silver figure flow through the forms of Flowing Water, his green-flecked eyes distant. The Stripe Paws had resumed their betting. The Shadow Paws were still standing in shamed silence. And the Humman ambassador, clutching a pulsing scorpion egg wrapped in silk, was making her way toward the water hole with the desperate, determined stride of a woman who had been humiliated three times and was about to try a fourth.
+
+The grimoire pulsed faintly in Ajani's paws, its leather cover warm from the afternoon sun. He turned another page, watching the silver figure flow through the forms of Flowing Water, and his mind was already racing ahead of the moment. A book that could hold sorcery formulas. A book that could animate any sequence. A book that could translate any language the Motted Paws had encountered.
+
+<div class="thought-block">
+'Perhaps it will work...'
+</div>
+
+He drew one of the rune-glass daggers from his belt—the one Kira had slotted into the right loop—and pressed the tip carefully against a blank page. The grimoire accepted the blade without resistance, the paper yielding like soft earth. He began to write. Air. Water. Speed. The runic formulas flowed from his claws in the precise, elegant script L'vat had drilled into him during those long months in the marshes.
+
+He arranged them in concentric circles, each ring feeding into the next, a self-contained sequence that should—if the book worked as Elyra claimed—produce a simple burst of accelerated mist. A child's trick. A test.
+
+He ripped the page from the grimoire.
+
+The runes began to glow. Pale green light traced the concentric circles, and the paper started to crumble from the edges inward, dissolving into fine, luminescent dust. Every Wengari at the water hole went silent. The Stripe Paws stopped exchanging coin. The Shadow Paws forgot their shame. Vasha's stylus paused mid-stroke. Zara's great paw froze halfway to her cup. Kira, still perched on Ember's back, leaned forward with her dark eyes wide.
+
+Nefere's clouded gaze sharpened. Elyra's silver aura flickered with something that might have been surprise or might have been satisfaction.
+
+The page dissolved entirely. In its place, a sphere of pale green light hovered in the air above Ajani's palm—a perfect, pulsing orb of concentrated water and wind, bound together by the runic sequence he had inscribed. He reached out to touch it. The sphere shot upward, a streak of green against the amber sky, and exploded above the water hole in a shower of warm, glowing mist. Droplets of light rained down over the gathered Wengari, over the fire feet, over the Stripe Paws and the Shadow Paws and the Motted Paws and the Pyrinae.
+
+For a single, breathless moment, the water hole was bathed in a soft, green-gold luminescence that smelled of marsh water and ancient roots and the patient, inexorable pulse of the Deep.
+
+<div class="dialogue-block">
+<p class="speech-line">Ajani stared at the empty space where the sphere had been. Then he looked down at the grimoire. Then he looked at Elyra. "Can it be made to grow new pages? If I use a page for sorcery, it's gone. But if the book could grow new pages—if it could replenish itself—then this is not merely a grimoire. This is a portable sorcery arsenal."</p>
+</div>
+
+<div class="dialogue-block">
+Elyra was silent for a long moment. Her silver aura flickered, and her melodic voice, when it came, was careful. <span class="speech">"The grimoire is bound to its owner. It is a living thing, in its fashion. But whether it can be made to grow new pages... that is not a question the Motted Paws have ever been asked. The grimoires we create are finite. Each page is a vessel for a single working. When the pages are gone, the book is complete, and its owner must begin again with a new volume."</span> She paused. <span class="speech">"You are asking if the vessel can be made to refill itself. That is... a significant request. We will need to study the question. It may not be possible. It may take years."</span>
+</div>
+
+<div class="dialogue-block">
+<p class="speech-line">Ajani nodded slowly. "Then study it. The road will take years. The coalition will take years. I am not asking for an answer today. I am asking for the question to be asked."</p>
+</div>
+
+<div class="dialogue-block">
+<p class="speech-line">Elyra inclined her elegant head. "The Motted Paws will ask it. We have been patient for five thousand years. We can be patient a little longer."</p>
+</div>
+
+<div class="dialogue-block">
+<p class="speech-line">Ajani closed the grimoire and held it against his chest. The green fire along his claws had steadied into a warm, steady glow. "This is still the best gift I have received today. The spear is magnificent. The fire foot is beloved. The daggers are precious. But this—this is a piece of the future."</p>
+</div>
+
+Every eye at the water hole was fixed on him. The Stripe Paws, who had just watched their king rip a page from a book and conjure a ball of light that exploded into green rain. The Shadow Paws, who had just watched the same king accept a grimoire with more enthusiasm than he had shown for their daggers or their would-be bride. The Motted Paws, who had known what the grimoire could do but had not known the king would test it so immediately, so publicly, so successfully.
+
+The Pyrinae, who had given him a spear that multiplied and were now watching him clutch a book like a cub with a new toy. The Humman ambassador, standing at the edge of the gathering with her pulsing scorpion egg wrapped in silk, her dark eyes wide with the dawning realization that her gift—objectively the most valuable—might be the one the king wanted least.

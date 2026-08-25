@@ -1,118 +1,10 @@
 ## Chapter 6: Aftermath
 
-<div class="dialogue-block">
-Elyra stepped forward, the grimoire cradled in her arms. <span class="speech">"The Motted Paws offer this. A grimoire of Flowing Water, bound in leather and enchanted with sorcery. If you write something in it, the book will translate, as long as it is a language the Motted Paws have encountered. If you draw something and describe it, the book will animate the drawing."</span> She opened the grimoire to a page where a small, silver figure moved through the forms of Flowing Water—slow, patient, inexorable. <span class="speech">"It already contains a compendium of our techniques. But it is also a blank book. It will become whatever you need it to become."</span>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">Ajani took the grimoire and turned its pages. The animated figure flowed through the forms again, and he watched it for a long moment. Then he looked up. "Can it inscribe sorcery formulas? If I were to write a runic sequence, would the book hold it? Would it animate the effect?"</p>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">Elyra's silver aura flickered. "Yes. The book will hold any sorcery inscribed in it. It will animate any sequence, as long as the sorcerer provides the energy. It is a grimoire in the truest sense—a living record of magic."</p>
-</div>
-
-<div class="dialogue-block">
-Ajani closed the book gently. <span class="speech">"This is the best gift I have received today."</span> He paused, looking at the grimoire with an expression that was difficult to read. <span class="speech">"The spear is magnificent. The fire foot is beloved. The daggers are precious. But this—this is knowledge. This is a weapon that grows sharper with use. Thank you, Elyra. Thank you, Sylva. The Motted Paws have given me something I did not know I needed."</span>
-</div>
-
-Nefere inclined her head, her clouded eyes unreadable. She was not offended—she had known Ajani long enough to understand that his mind worked in ways that favored the practical and the portable. But her gaze flickered to the grimoire, and then to Elyra, and something passed between them.
-
-Layla—the Humman ambassador's daughter, standing at the edge of the gathering in her simple scribe's robes—caught Nefere's eye. The old Hydromancer's expression was very still, but Layla had spent months in the capital learning to read the faces of Wengari. She saw the question in Nefere's eyes, the same question she was asking herself: Why did the king want to inscribe sorcery formulas in a book? What was he planning to do with a grimoire that could hold and animate any sequence he wrote?
-
-Ajani did not notice. He was still turning the pages of the grimoire, watching the silver figure flow through the forms of Flowing Water, his green-flecked eyes distant. The Stripe Paws had resumed their betting. The Shadow Paws were still standing in shamed silence. And the Humman ambassador, clutching a pulsing scorpion egg wrapped in silk, was making her way toward the water hole with the desperate, determined stride of a woman who had been humiliated three times and was about to try a fourth.
-
-The grimoire pulsed faintly in Ajani's paws, its leather cover warm from the afternoon sun. He turned another page, watching the silver figure flow through the forms of Flowing Water, and his mind was already racing ahead of the moment. A book that could hold sorcery formulas. A book that could animate any sequence. A book that could translate any language the Motted Paws had encountered.
-
-<div class="thought-block">
-*Perhaps it will work...*
-</div>
-
-He drew one of the rune-glass daggers from his belt—the one Kira had slotted into the right loop—and pressed the tip carefully against a blank page. The grimoire accepted the blade without resistance, the paper yielding like soft earth. He began to write. Air. Water. Speed. The runic formulas flowed from his claws in the precise, elegant script L'vat had drilled into him during those long months in the marshes.
-
-He arranged them in concentric circles, each ring feeding into the next, a self-contained sequence that should—if the book worked as Elyra claimed—produce a simple burst of accelerated mist. A child's trick. A test.
-
-He ripped the page from the grimoire.
-
-The runes began to glow. Pale green light traced the concentric circles, and the paper started to crumble from the edges inward, dissolving into fine, luminescent dust. Every Wengari at the water hole went silent. The Stripe Paws stopped exchanging coin. The Shadow Paws forgot their shame. Vasha's stylus paused mid-stroke. Zara's great paw froze halfway to her cup. Kira, still perched on Ember's back, leaned forward with her dark eyes wide.
-
-Nefere's clouded gaze sharpened. Elyra's silver aura flickered with something that might have been surprise or might have been satisfaction.
-
-The page dissolved entirely. In its place, a sphere of pale green light hovered in the air above Ajani's palm—a perfect, pulsing orb of concentrated water and wind, bound together by the runic sequence he had inscribed. He reached out to touch it. The sphere shot upward, a streak of green against the amber sky, and exploded above the water hole in a shower of warm, glowing mist. Droplets of light rained down over the gathered Wengari, over the fire feet, over the Stripe Paws and the Shadow Paws and the Motted Paws and the Pyrinae.
-
-For a single, breathless moment, the water hole was bathed in a soft, green-gold luminescence that smelled of marsh water and ancient roots and the patient, inexorable pulse of the Deep.
-
-<div class="dialogue-block">
-<p class="speech-line">Ajani stared at the empty space where the sphere had been. Then he looked down at the grimoire. Then he looked at Elyra. "Can it be made to grow new pages? If I use a page for sorcery, it's gone. But if the book could grow new pages—if it could replenish itself—then this is not merely a grimoire. This is a portable sorcery arsenal. This is a weapon that never runs dry."</p>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">Elyra inclined her elegant head. "The grimoire is bound to its owner. As you use it, it will grow. The more sorcery you inscribe, the more pages it will produce. It feeds on the magic you pour into it. It is a living thing, in its fashion. A Motted Paw thing. Patient. Adaptive. Enduring."</p>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">Ajani closed the grimoire and held it against his chest. The green fire along his claws had steadied into a warm, steady glow. "This is the best gift I have received today. I said it before. I will say it again. The spear is magnificent. The fire foot is beloved. The daggers are precious. But this—this is a piece of the future."</p>
-</div>
-
-Every eye at the water hole was fixed on him. The Stripe Paws, who had just watched their king rip a page from a book and conjure a ball of light that exploded into green rain. The Shadow Paws, who had just watched the same king accept a grimoire with more enthusiasm than he had shown for their daggers or their would-be bride. The Motted Paws, who had known what the grimoire could do but had not known the king would test it so immediately, so publicly, so successfully.
-
-The Pyrinae, who had given him a spear that multiplied and were now watching him clutch a book like a cub with a new toy. The Humman ambassador, standing at the edge of the gathering with her pulsing scorpion egg wrapped in silk, her dark eyes wide with the dawning realization that her gift—objectively the most valuable—might be the one the king wanted least.
-
-And one pair of eyes, unseen, watching from the shadows of the ridge above the water hole. Ancient eyes. Patient eyes. Eyes that had been walking for months across the desert, carrying a song no one had heard in millennia. The Dragari had arrived. And the Dragari was staring at the young king with an expression of pure, unguarded awe.
-
-The silence stretched. No one spoke. Everyone was demanding an explanation with their eyes. Ajani looked up from the grimoire, his green-flecked gaze sweeping across the gathered families, the silent delegations, the watching shadows. He knew what they wanted. He knew what they were asking. How had he done that? How had a Wengari king—a Bright Paw, a warrior, a saber-master—inscribed a sorcery formula that worked?
-
-Sorcery was the domain of the Pyrinae and the Veylar and the ancient powers. Sorcery was runes and study and decades of patient practice. Sorcery was not something a young king learned in a year in the marshes.
-
-But the green fire was still flickering along his claws. The grimoire was still warm against his chest. And the mist was still falling, soft and green and patient, over the water hole.
-
-The grimoire pulsed faintly in Ajani's paws, its leather cover warm from the afternoon sun. He turned another page, watching the silver figure flow through the forms of Flowing Water, and his mind was already racing ahead of the moment. A book that could hold sorcery formulas. A book that could animate any sequence. A book that could translate any language the Motted Paws had encountered.
-
-<div class="thought-block">
-*Perhaps it will work...*
-</div>
-
-He drew one of the rune-glass daggers from his belt—the one Kira had slotted into the right loop—and pressed the tip carefully against a blank page. The grimoire accepted the blade without resistance, the paper yielding like soft earth. He began to write. Air. Water. Speed. The runic formulas flowed from his claws in the precise, elegant script L'vat had drilled into him during those long months in the marshes.
-
-He arranged them in concentric circles, each ring feeding into the next, a self-contained sequence that should—if the book worked as Elyra claimed—produce a simple burst of accelerated mist. A child's trick. A test.
-
-He ripped the page from the grimoire.
-
-The runes began to glow. Pale green light traced the concentric circles, and the paper started to crumble from the edges inward, dissolving into fine, luminescent dust. Every Wengari at the water hole went silent. The Stripe Paws stopped exchanging coin. The Shadow Paws forgot their shame. Vasha's stylus paused mid-stroke. Zara's great paw froze halfway to her cup. Kira, still perched on Ember's back, leaned forward with her dark eyes wide.
-
-Nefere's clouded gaze sharpened. Elyra's silver aura flickered with something that might have been surprise or might have been satisfaction.
-
-The page dissolved entirely. In its place, a sphere of pale green light hovered in the air above Ajani's palm—a perfect, pulsing orb of concentrated water and wind, bound together by the runic sequence he had inscribed. He reached out to touch it. The sphere shot upward, a streak of green against the amber sky, and exploded above the water hole in a shower of warm, glowing mist. Droplets of light rained down over the gathered Wengari, over the fire feet, over the Stripe Paws and the Shadow Paws and the Motted Paws and the Pyrinae.
-
-For a single, breathless moment, the water hole was bathed in a soft, green-gold luminescence that smelled of marsh water and ancient roots and the patient, inexorable pulse of the Deep.
-
-<div class="dialogue-block">
-<p class="speech-line">Ajani stared at the empty space where the sphere had been. Then he looked down at the grimoire. Then he looked at Elyra. "Can it be made to grow new pages? If I use a page for sorcery, it's gone. But if the book could grow new pages—if it could replenish itself—then this is not merely a grimoire. This is a portable sorcery arsenal."</p>
-</div>
-
-<div class="dialogue-block">
-Elyra was silent for a long moment. Her silver aura flickered, and her melodic voice, when it came, was careful. <span class="speech">"The grimoire is bound to its owner. It is a living thing, in its fashion. But whether it can be made to grow new pages... that is not a question the Motted Paws have ever been asked. The grimoires we create are finite. Each page is a vessel for a single working. When the pages are gone, the book is complete, and its owner must begin again with a new volume."</span> She paused. <span class="speech">"You are asking if the vessel can be made to refill itself. That is... a significant request. We will need to study the question. It may not be possible. It may take years."</span>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">Ajani nodded slowly. "Then study it. The road will take years. The coalition will take years. I am not asking for an answer today. I am asking for the question to be asked."</p>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">Elyra inclined her elegant head. "The Motted Paws will ask it. We have been patient for five thousand years. We can be patient a little longer."</p>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">Ajani closed the grimoire and held it against his chest. The green fire along his claws had steadied into a warm, steady glow. "This is still the best gift I have received today. The spear is magnificent. The fire foot is beloved. The daggers are precious. But this—this is a piece of the future."</p>
-</div>
-
-Every eye at the water hole was fixed on him. The Stripe Paws, who had just watched their king rip a page from a book and conjure a ball of light that exploded into green rain. The Shadow Paws, who had just watched the same king accept a grimoire with more enthusiasm than he had shown for their daggers or their would-be bride. The Motted Paws, who had known what the grimoire could do but had not known the king would test it so immediately, so publicly, so successfully.
-
-The Pyrinae, who had given him a spear that multiplied and were now watching him clutch a book like a cub with a new toy. The Humman ambassador, standing at the edge of the gathering with her pulsing scorpion egg wrapped in silk, her dark eyes wide with the dawning realization that her gift—objectively the most valuable—might be the one the king wanted least.
-
 And one pair of eyes, unseen, watching from the shadows of the ridge above the water hole. Ancient eyes. Patient eyes. Eyes that had been walking for months across the desert, carrying a song no one had heard in millennia. The Dragari had arrived. And the Dragari was staring at the young king with an expression of pure, unguarded awe.
 
 The silence stretched. No one spoke. Everyone was demanding an explanation with their eyes. Ajani looked up from the grimoire, his green-flecked gaze sweeping across the gathered families, the silent delegations, the watching shadows. He knew what they wanted. He knew what they were asking. How had he done that? How had a Wengari king inscribed a sorcery formula that worked?
+
+Sorcery was the domain of the Pyrinae and the Veylar and the ancient powers. Sorcery was runes and study and decades of patient practice. Sorcery was not something a young king learned in a year in the marshes.
 
 He opened his mouth to answer. The mist was still falling, soft and green and patient, over the water hole.
 
@@ -181,8 +73,6 @@ Now one was pulsing in the Humman ambassador's arms, and the ambassador was look
 
 Kira slid off Ember's back and walked toward Seris. The Humman ambassador knelt in the damp sand, holding the egg out with trembling arms, and Kira reached out and placed her small dark paws on the iridescent shell. The pulsing light steadied, and the egg began to crack.
 
-*Very well are we ready to continue with the gift giving? We are only missing the humans and the explanation of what ajani tried to do with the grimoire*
-
 The words came out wrong. He could hear them as soon as he spoke—too fast, too halting, the voice of a king who was trying very hard not to sound like a cub who had just seen a ghost.
 
 <div class="dialogue-block">
@@ -194,7 +84,7 @@ The silence that followed was different from the silence that had greeted the Mo
 Kira, still standing beside the pulsing egg, looked from Ajani to Seris and back again.
 
 <div class="thought-block">
-*Please, please not one of those foul creatures please.*
+'Please, please not one of those foul creatures please.'
 </div>
 
 Seris did not know what to say. She had prepared for refusal. She had prepared for anger. She had not prepared for the White Dawn, the heir of the Lightbringer, the king who had humiliated her three times and killed her merchant without a second thought, to stand before her stammering like a cub caught stealing from the kitchens. The egg pulsed in her arms. The creature inside was stirring, its iridescent shell shimmering with the first faint light of awakening.
@@ -269,7 +159,7 @@ Ajani had faced the lord of the desert. He had faced the Styx. He had faced Sylv
 
 The black scorpion reached his shoulder and began investigating his mane with its antennae. The red scorpion settled into the crook of his elbow and curled its tail around his forearm like a bracelet. Ajani stood perfectly, absolutely still. The green fire along his claws had gone out entirely.
 
-Kira watched the white scorpion emerge from its egg fragment, shaking its head with an expression of profound irritation that was entirely too familiar. It looked at the black scorpion, already claiming Ajani's mane. It looked at the red scorpion, already wrapped around Ajani's arm. Then it looked at Kira, and its pale antennae lifted with an expression of regal, slightly offended dignity. It clicked its claws once, as if to say *finally*, and crawled into her waiting paws.
+Kira watched the white scorpion emerge from its egg fragment, shaking its head with an expression of profound irritation that was entirely too familiar. It looked at the black scorpion, already claiming Ajani's mane. It looked at the red scorpion, already wrapped around Ajani's arm. Then it looked at Kira, and its pale antennae lifted with an expression of regal, slightly offended dignity. It clicked its claws once, as if to say 'finally', and crawled into her waiting paws.
 
 <div class="dialogue-block">
 <span class="speech">"Hello,"</span> Kira whispered. <span class="speech">"You're small. You're the smallest one. But you're the prettiest. Don't tell the others I said that."</span>
@@ -286,7 +176,7 @@ The egg was whole in Ajani's paws. He could feel the creatures moving inside—t
 The egg cracked. Not a false alarm this time. A true, definitive crack that split the iridescent shell into three clean pieces, and Ajani found himself staring at three small, glistening shapes tumbling into his waiting paws. The black. The red. The white. They separated with the swift, deliberate purpose of creatures that had just been born and were now absolutely certain of their destinations. The black and the red crawled up his arms. The white tumbled toward Kira.
 
 <div class="thought-block">
-*Get them off!! Get them off!!*
+'Get them off!! Get them off!!'
 </div>
 
 Ajani stood frozen, the black scorpion investigating his mane with its antennae, the red scorpion wrapped around his forearm like a living bracelet. Every instinct screamed at him to run, to shake them off, to summon the green fire and incinerate them before they could sting him the way the scorpions in L'vat's pit had stung him a hundred times. But these were not the scorpions of the pit. These were hatchlings. Small. Curious. And they were vibrating.
@@ -294,7 +184,7 @@ Ajani stood frozen, the black scorpion investigating his mane with its antennae,
 It was not a threatening vibration. It was not the warning rattle of a scorpion preparing to strike. It was something softer, something almost musical—a low, rhythmic thrumming that resonated through his fur and into his bones. If scorpions could purr, they would purr like this.
 
 <div class="thought-block">
-*Oh. This isn't so bad. You're not like the large gross ones. You're actually... kind of cute.*
+'Oh. This isn't so bad. You're not like the large gross ones. You're actually... kind of cute.'
 </div>
 
 Slowly, very slowly, Ajani began to move. He raised one paw and brought it gently toward the black scorpion investigating his mane. The creature's antennae lifted, tracking the movement, and then it pressed its small, dark head against his fingers with the unmistakable demand of a creature that had imprinted on him and was now absolutely certain he was its mother.
@@ -433,7 +323,7 @@ She sent word to the Shadow Paws that the king's personal guard would be reinsta
 
 She could not enter the inner chamber to speak with the Tree. The lord of the desert would only open its doors to the king, and the king was unconscious. So Sylva sat in her chambers each night, her silver aura flickering gently, and she listened to the reports from the healers and the elders and the spies, and she waited.
 
-By the seventh day, nothing had changed. Ajani lay in his bed, his armor glowing faintly, his scorpions on his chest, his sister at his side. The white Styx still circled above the capital, patient as the stars. The Dragari's message still echoed in the silence: *the king has returned, the empty maw has woken.* And Sylva, the regent of the Wengari, stood at the window of her chambers and watched the sun set over the desert, and she did not know if the king would ever wake.
+By the seventh day, nothing had changed. Ajani lay in his bed, his armor glowing faintly, his scorpions on his chest, his sister at his side. The white Styx still circled above the capital, patient as the stars. The Dragari's message still echoed in the silence: 'the king has returned, the empty maw has woken.' And Sylva, the regent of the Wengari, stood at the window of her chambers and watched the sun set over the desert, and she did not know if the king would ever wake.
 
 The second week began with a scream.
 
@@ -667,7 +557,7 @@ He lowered the speaker. He did not wait for an answer. He simply turned his scor
 <p class="speech-line">Sera's ruined face was impassive. "The first rays will touch the sand in minutes. The regent must respond."</p>
 </div>
 
-Sylva stood at the edge of the gate, her silver-chased ceremonial armor gleaming in the growing light. She had heard the emissary. She had heard the title—*His Wealthiness*, as if wealth were a virtue, as if coin could substitute for strength. She had heard the offer of vassalage, the casual arrogance of a king who believed the Wengari would kneel because they were outnumbered. And she had heard the deadline. The first rays of the sun. Minutes. Perhaps less.
+Sylva stood at the edge of the gate, her silver-chased ceremonial armor gleaming in the growing light. She had heard the emissary. She had heard the title—'His Wealthiness', as if wealth were a virtue, as if coin could substitute for strength. She had heard the offer of vassalage, the casual arrogance of a king who believed the Wengari would kneel because they were outnumbered. And she had heard the deadline. The first rays of the sun. Minutes. Perhaps less.
 
 <div class="dialogue-block">
 She turned to the war council. <span class="speech">"The Humman King thinks we are already defeated. He thinks the king's illness has made us weak. He thinks numbers will break us."</span> Her silver aura flickered once, cold and steady. <span class="speech">"He is wrong. We will not kneel. We will not become vassals. We will hold the gate. And when the sun touches the sand, we will show him what the Wengari are."</span>

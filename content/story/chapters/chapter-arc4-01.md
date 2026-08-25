@@ -2,7 +2,7 @@
 
 
 <div class="dialogue-block">
-<p class="speech-line">*i seriously hare this woman' - "Thank you for the advice, I'll take it to hear" - 'lets see what they want *</p>
+<p class="speech-line">'I seriously hate this woman' - "Thank you for the advice, I'll take it to hear" - 'let's see what they want'</p>
 </div>
 
 The Hall of the Sun was already full when Ajani arrived. The elders of the five families sat in their concentric semicircles, their pelts a sea of gold and stripe and shadow and mottle, their voices a low, contentious rumble that echoed off the ancient stone. The Bright Paws, still humiliated from the tournament, clustered near the front with the defiant air of people who had been publicly shamed and were determined not to show it.
@@ -90,7 +90,7 @@ She raised one silver-furred paw, and her aura flared—not the gentle, patient 
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">"No, no family will operate with impunity that will bring us down, I am appointing that last task to the bright paws, each family will have a bright paw in their midst and I request for each other family to send envoys to the capital, choose the brightest most cunning most treacherous and deceitful of you, those who you wouldn't trust even with a morsel, so they keep each other in check, thoughts?"</p>
+<p class="speech-line">"No, no family will operate with impunity that will bring us down, I am appointing that last task to the Bright Paws, each family will have a bright paw in their midst and I request for each other family to send envoys to the capital, choose the brightest most cunning most treacherous and deceitful of you, those who you wouldn't trust even with a morsel, so they keep each other in check, thoughts?"</p>
 </div>
 
 The silence in the Hall of the Sun was absolute. It stretched, taut as a drawn bowstring, as the elders of every family absorbed what their king had just proposed. Not merely a division of duties. A web. A lattice of mutual suspicion, each family bound to the others by the very traits that made them dangerous. The Bright Paws, humiliated in the tournament and stripped of their training, were being given the most delicate task of all: to serve as the eyes within every other family.
@@ -140,7 +140,7 @@ The weaknesses are real and worth noting. This system depends on Ajani remaining
 The plan requires a competent regent to manage the capital in Ajani's absence, and Sylva is untested in that role. And the plan depends on the tournament becoming profitable, stable, and popular, which is not guaranteed.
 
 <div class="dialogue-block">
-<p class="speech-line">"now this is all well and good but we still lack a lot of stuff, first of all let's lock in the format, this year was a preview next year will be grand, the tournament will be open to every race that wishes to participate with one caveat they must enter as their own, that means no stripe paw mercenaries or of any other kind, objections so far ?"</p>
+<p class="speech-line">"now this is all well and good but we still lack a lot of stuff, first of all let's lock in the format, this year was a preview next year will be grand, the tournament will be open to every race that wishes to participate with one caveat they must enter as their own, that means no Stripe Paw mercenaries or of any other kind, objections so far ?"</p>
 </div>
 
 Zara's paw slammed against the stone armrest before anyone else could speak. The Stripe Paw chief was on her feet, her striped mane bristling, her golden eyes blazing with the particular fury of a merchant who had just watched a monopoly evaporate.
@@ -178,7 +178,7 @@ Zara's paw slammed against the stone armrest before anyone else could speak. The
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">"next as long as I Live, the regency and the crown are the prize, to any race" <span class="speech-attr">, 'i hear the screams cumming '</span></p>
+<p class="speech-line">"next as long as I live, the regency and the crown are the prize, to any race" <span class="speech-attr">, 'I hear the screams coming '</span></p>
 </div>
 
 <div class="dialogue-block">
@@ -217,9 +217,9 @@ Zara's ears pricked forward. The Stripe Paw chief had been ready to argue—she 
 <p class="speech-line">Kareth inclined his scarred head. "The Shadow Paws also accept. But I must ask—the fifteen percent for each family. That figure does not balance across five families, King Ajani. Thirty for the crown, fifteen each would total one hundred and five, and that is before the twenty-five for the participants. Will the families be expected to negotiate their shares among themselves, or will some receive more than others?"</p>
 </div>
 
-"thats because we call ourselves five families but we have been four for years, bright paws, shadow paws, motted paws, stripe paws, were actually just four...
-
-"
+<div class="dialogue-block">
+<p class="speech-line">"That's because we call ourselves five families but we have been four for years, Bright Paws, Shadow Paws, Motted Paws, Stripe Paws, were actually just four..."</p>
+</div>
 
 The silence that followed was not the silence of shock—the elders had absorbed too many revelations in too short a time for shock—but the silence of a long, unspoken truth finally given voice. The Bright Paws, the royal family, the bloodline of the Lightbringer, had been fading for generations. Their champions had been eliminated in the first quarter of the first incense stick. Their training had been stripped and handed to the Motted Paws.
 
@@ -274,7 +274,7 @@ Ajani settled back onto the cold stone of the throne. The green fire along his c
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">'goos they're nots just going along' - "The crown will use the entire 30% for infrastructure, we need better roads, better gardens, better lodging, the Crown will build market stalls, fire feet pens, along with providing a traning stipend for any masters that staff the schools, and the crown gratiously asks that each family uses 10% of their total share to fund their schools and secure the trade routes and roads to other cities the crown will build, as for what happens if another race wins, that is on you, I will defend the crown, sylva will defend the regency if a humman makes it to me, then you have all failed "</p>
+<p class="speech-line">'good they're not just going along' - "The crown will use the entire 30% for infrastructure, we need better roads, better gardens, better lodging, the Crown will build market stalls, fire feet pens, along with providing a training stipend for any masters that staff the schools, and the crown graciously asks that each family uses 10% of their total share to fund their schools and secure the trade routes and roads to other cities the crown will build, as for what happens if another race wins, that is on you, I will defend the crown, sylva will defend the regency if a humman makes it to me, then you have all failed "</p>
 </div>
 
 The elders absorbed the king's words in silence. Zara's golden eyes were already moving, calculating, her merchant's mind tracing the flow of coin from the tournament's profits to the infrastructure the crown would build—roads, gardens, lodging, market stalls, fire feet pens. Better roads meant faster caravans. Faster caravans meant more trade. More trade meant more wealth for the Stripe Paws. And the training stipend for the masters who staffed the schools—that was a direct subsidy to every family's martial tradition, paid for by the crown's share.
@@ -368,7 +368,7 @@ Zara's golden eyes narrowed with calculation, but it was a different kind of cal
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">"you have proposed vasha for three different roles , you must truly hate your cousin, I choose Maren, the coin master needs not only guile but also endurance, someone without ambition will break the first month, or succumb to apathy, I need someone who can stare down the toughest of the families and make them cough up the coin, Maren sounds like hell Fit right in, objections?"</p>
+<p class="speech-line">"you have proposed vasha for three different roles , you must truly hate your cousin, I choose Maren, the coin master needs not only guile but also endurance, someone without ambition will break the first month, or succumb to apathy, I need someone who can stare down the toughest of the families and make them cough up the coin, Maren sounds like he'll fit right in, objections?"</p>
 </div>
 
 <div class="dialogue-block">
@@ -391,7 +391,7 @@ Solen, the old High Priest, inclined his head slowly. <span class="speech">"The 
 <p class="speech-line">Ajani allowed the faintest twitch of his whiskers. "The coin master is not meant to be loved. She is meant to be effective. Maren of the Shadow Paws is appointed. Next office."</p>
 </div>
 
-"the security advisor will oversee internal and external security of the capital, mercenary contracts, road security, guard rotations on the wall, hunting expeditions on the desert, and crucially training of a new elite security unit for when the tide comes, I want this unit to be not good, they need To be perfect when the blight comes I want them to bet on who will take more heads and not cower, they will the capitals shield and spear and they need to do this before 20 years
+"the security advisor will oversee internal and external security of the capital, mercenary contracts, road security, guard rotations on the wall, hunting expeditions on the desert, and crucially training of a new elite security unit for when the tide comes, I want this unit to be not good, they need to be perfect when the blight comes I want them to bet on who will take more heads and not cower, they will be the capital's shield and spear and they need to do this within twenty years"
 
 The elders felt the shift in the air before they understood its source. The king had been methodical, almost playful in his descriptions of the coin master's office—a hated role, an unforgiving burden, a necessary evil. But as he spoke of the security advisor, his tone changed. The green fire along his claws steadied, brightened, cast long shadows across the ancient stone. This was not a bureaucratic office.
 
@@ -414,92 +414,6 @@ The hall was silent. The Styx were the overlords of the sky. Nothing in the dese
 <div class="dialogue-block">
 <p class="speech-line">Kareth inclined his scarred head. "Then the Shadow Paws will propose someone who has looked at the Styx and felt not fear, but competition. There are not many. There will be enough."</p>
 </div>
-
-Here is a comprehensive summary of Ethra and Ajani's tale, verified against everything we have built together.
-
-**The Cosmic Structure of Ethra**
-
-Ethra is a world dominated by a supercontinent, its climate and magic shaped by two suns: the Steadfast, a stable yellow star that provides order and constancy, and the Flicker, a red dwarf in a long, eccentric orbit. Every 217 years, the Flicker passes close to Ethra, filling the sky with baleful red light and disrupting the climate for a generation. This event is called the Crimson Tide. It is the central fact of history, religion, and survival on the surface.
-
-The world also has a single large moon that stabilizes its axial tilt but causes extreme, complex tides. Sentient life has existed for roughly twenty thousand years. The five Tyrants emerged on a cycle of approximately 1,092 years, each a Convergence-born being touched by both suns. Ajani Brightmane is the sixth White Dawn, born five hundred years after the Fifth Tyrant—far too early by the ancient cycle.
-
-**The Magic System**
-
-Aura is internal energy, finite and thermodynamically constrained. It is instinctual, tied to the Flicker, and present in all living things. Aura can enhance the body—hardening skin, increasing speed, sharpening claws—but it cannot exceed the body's natural limits. If the body dies, the Aura dies with it. Sorcery is external energy, drawn from the environment and shaped by runic syntax. It is tied to the Steadfast, disciplined and learned.
-
-Sorcery requires the right ambient conditions, the correct runes, and intense concentration. It cannot create energy from nothing. The two systems are inversions: Aura draws from within and is finite; Sorcery draws from without and is potentially limitless. The Wengari are Flicker-attuned by nature but have adapted to the Steadfast through generations of survival, giving them medium life spans and the ability to thrive in multiple biomes.
-
-**The Super-Organisms**
-
-Four ancient entities predate sentient life on Ethra. They are not gods, not sentient in any recognizable sense, but aware, patient, and utterly alien in their priorities. The Kyre Tree of the Steadfast Desert is a distributed floral predator that sees everything as food. It communicates through root-signals and selective flowering, and it made a pact with the Third Tyrant to reroute water to the Bright Paw capital in exchange for the ambient Aura of every living thing within its reach.
-
-The Mycelial Deep of the Flickermarch is a fungal network spanning the entire March, dreaming in slow geological time. It sees the Threx as its children and communicates through mycelial hum and Sporefall dreams. It accepted Ajani as a student through L'vat, its Lament avatar. The Sea Marsh of the Umbral Ring and Tidepools is the most ancient of the known super-organisms, bonded symbiotically with the Auruchs.
-
-It is patient, silent, and has never sought mediation. The Abyssal Heart dwells in the deepest ocean trenches, known only to the Veylar Deep-Watchers. It communicates through pressure and vibration. A fifth super-organism, the most ancient and terrible, dwells in the heart of the Rune-Belt. It was wounded by the Fifth Tyrant, Velarius Vane, and has been stirring ever since. The Kyre Tree and Mycelial Deep both despise it for reasons that predate sentient memory.
-
-**The Biomes**
-
-The Steadfast Desert is the heart of Wengari civilization, a harsh, sun-scorched expanse where only the strong survive. The capital of the Bright Paws is built around the hanging gardens sustained by the Kyre Tree's pact. The desert is home to the Styx, the fire feet, the razor hares, and the kyre flowers, which are all extensions of the Kyre Tree's distributed consciousness.
-
-The Flickermarch is a toxic, fungal wilderness where the soil itself is poison. It is dominated by the Mycelial Deep and inhabited by the Threx. The Iris Scale, a fifteen-meter iridescent serpent, is its apex predator. The Pearly Scorpions, which imprint on the first creature they see upon hatching, are the only reliable mounts for traversing the March, giving the Hummans their trade monopoly.
-
-The Rune-Belt is a fertile temperate corridor stretching across the supercontinent. It is the heartland of the Stripe Paws and the home of the Tide Wolves, great lupine predators whose fur provides camouflage. The Lotus Bloom is a rare flower that grants the Tide Wolves their optical diffraction abilities. The Rune-Belt is also the territory of the entity that dwells in its heart.
-
-The Umbral Ring is a frozen polar region lit only by the Flicker's distant glow and the moon's reflection. The Auruchs, vast whale-like creatures covered in the symbiotic Sea Marsh, are its apex. The Dragari, the oldest sentient race, live in communion with the Auruchs and the Sea Marsh.
-
-The Tidepools are the intertidal zones along the supercontinent's coastline, shaped by the moon's massive gravitational pull. The Lament, a vast mollusc that uses runic gravity manipulation to hunt, is its apex. The Petal-Shells are its symbiotes and lures. The Veylar, amphibious and patient, dwell here.
-
-The Underground is a global network of caves and deep places, inhabited by the Chi'Thak—the Blight. They are small insect-like beings with a colony structure and a cannibalistic life cycle. They emerge every Convergence to devour everything on the surface.
-
-**The Seven Sentient Races**
-
-The Wengari are anthropomorphic big cats, divided into four families modeled after the great cats of Earth. The Bright Paws are the royal family, lion-like, golden-maned, ruling from the desert capital. They carry the bloodline of the Lightbringer and the unique martial art of the Four Pillars. The Stripe Paws are tiger-like, the largest family, the caravan masters and mercenaries. Their style is the explosive, wide-arcing Fire Paws.
-
-The Shadow Paws are panther-like, assassins and spies who carry the shame of the First Tyrant. Their style is the precise, deadly Eight Points. The Motted Paws are jaguar-like, silent watchers who have kept their own counsel for five thousand years. Their style is the patient, redirecting Flowing Water.
-
-The Pyrinae are a reptilian-descended race of the Steadfast Desert, shorter than Wengari, with heat-sensing pits and skin ranging from ochre to copper. They are divided into three Paths: the Vein-Dwellers, master sorcerers who live in underground cities; the Sun-Walkers, nomadic traders; and the Root-Speakers, a small priesthood that communes with the Kyre Tree's dreams. They were vassals of the Bright Paws for three thousand years until Ajani freed them.
-
-They are masters of rune-glass technology.
-
-The Dragari are three-meter-tall, iridescent-scaled lizard-like beings of the Umbral Ring. They are Flicker-attuned but forced to adapt to Steadfast through symbiosis with the Sea Marsh. They are the oldest sentient race on Ethra, gentle, deeply spiritual, and nearly extinct. They live in communion with the Auruchs, offering fish and song in exchange for protection during the Tides. They are myths to the other races, unknown even to the Tree and the Deep because their biome does not interact with the land.
-
-The Threx are a fungal-insectoid race of the Flickermarch, children of the Mycelial Deep. They have three metamorphic stages: the Quick, young and impulsive; the Rooted, patient and wise; and the Lament, rare avatars of the Deep. They are connected through a global mycelial network that preserves their collective memory. They were scarred by the First Tyrant's Black Fire and deeply fear the Wengari, though Ajani has earned their trust.
-
-The Hummans are the youngest and weakest race, Flicker-attuned with negligible Aura. They are merchants and diplomats, controlling the Pearly Scorpion trade. They produced the Fifth Tyrant, Velarius Vane, whose 65-year Plague still scars the world. They are the most numerous race, with short gestation periods and low Aura requirements, allowing them to outbreed every other race. They are now subjugated by the Wengari, their best guilds relocated to the capital as honorary Wengari.
-
-The Veylar are amphibious beings of the Tidepools, patient and ancient. They are divided into three Callings: the Tide-Wardens, warriors and protectors; the Shell-Singers, historians and diplomats who use Petal-Shells as living instruments; and the Deep-Watchers, who venture into the abyssal trenches. They produced the Fourth Tyrant, Xal'thyra, who silenced the male Styx and projected the Great Stillness across the world. They measure time in tidal cycles and deliberate for centuries.
-
-The Chi'Thak, called the Blight by surface races, are small insect-like beings of the Underground. They are Steadfast-attuned but Flicker-capable, emerging during the Crimson Tide in devastating swarms. They are a colony species with a single long-lived queen. Their life cycle is cannibalistic: after each swarm, the survivors are consumed by the colony to sustain it until the next Tide. They produced the Second Tyrant, Crr'zzak the Fear-on-Wings, who is revered as a cultural hero by his own kind.
-
-**The Five Tyrants**
-
-The First Tyrant was a Wengari of the Shadow Paws, known as the Black Fire. He unified most of the families and was a good king for 150 years before the madness took him. His parasitic Aura flame consumed his victims and added their power to his own. He died when his body could no longer contain the energy, immolating his entire capital and leaving a scar on the Wengari psyche that persists five thousand years later. Every race on Ethra kills Wengari infants on sight because of him.
-
-The Second Tyrant was Crr'zzak, a Chi'Thak. He was taller and stronger than any of his kind, matured in days under the Flicker's influence. His pheromones organized the swarm into an unstoppable plague that devoured entire cities. In his dying moments, he returned to the colony and let himself be consumed, passing on his genetic legacy. Every current Chi'Thak owes their increased size and organization to him.
-
-The Third Tyrant was Uthgar Lightbringer, a Bright Paw. He was a builder and administrator who traveled widely in his youth. He made the original pact with the Kyre Tree and trained in the Four Pillars under the Mycelial Deep. He was a good king for over a century before vanishing into the Chamber of Reflection. His techniques were passed down through the royal bloodline, but the true nature of his pact was lost.
-
-The Fourth Tyrant was Xal'thyra, a Veylar Shell-Singer. She could resonate with other beings and hear their inner songs. The cacophony drove her mad. She silenced the male Styx of her generation, using his residual Aura to amplify her own, and projected the Great Stillness across the world. She was stopped by her own daughter's counter-harmony, which trapped her in a perpetual standing wave. The Dead Zone in the Tidepools is her tomb, a place where no Aura can manifest.
-
-The Fifth Tyrant was Velarius Vane, a Humman. He began as a healer, discovering that the Flickermarch's poisons could be used as medicine. Around his thirtieth year, something changed. He created the Plague, a 65-year Aura poison sustained by converting his entire capital into a living Sorcery array. Victims were kept alive to be harvested. The Plague killed approximately eight percent of Ethra's population.
-
-It was ended when a massive flock of Styx and Rune Wolves sacrificed themselves to destroy the array. The Scar, a fifteen-kilometer black patch, still pulses with light on certain nights.
-
-**Ajani's Tale**
-
-Ajani Brightmane is the sixth White Dawn, a Convergence-born Wengari touched by both suns. He did not know his nature until his return to the capital at age twenty-five after seven years of wandering. His father, Uthgard IX, revealed the truth in the Chamber of Reflection: Ajani was the heir of the Lightbringer, born to renew a pact that had been broken for three thousand years. His mother, Layla, was a Stripe Paw attendant who died giving him life, her frail body unable to endure the Kyre Tree's sapping influence in the capital.
-
-Uthgard IX, 473 years old, had survived two Tides and loved her deeply.
-
-Ajani descended into the inner chamber and faced the Kyre Tree. He did not kneel. He offered not his life but a partnership, a road, a corridor between the desert and the marshes. The Tree accepted, giving him a deadline of fifty years before the next Tide. When Ajani emerged, the male Styx was born—white instead of the traditional Maltese blue, born after the White Dawn instead of before, an unprecedented omen.
-
-The Styx acknowledged Ajani but did not bow. Ajani performed the Four Pillars ritual, igniting the spear, sword, saber, and staff with green fire—the mark of the Mycelial Deep, where he had trained for a year under L'vat, a Lament avatar.
-
-Uthgard IX passed the Lightbringer's fire to his son in an ancient ritual and faded into nothing. Ajani was crowned king. He then faced the Council of the Families, revealing the truth of the pact to the elders and forging a new covenant. He faced four delegations in a single day: the Threx Quick, to whom he showed kindness and shared his fire; the Pyrinae, whom he freed from vassalage and gave five cities; the Hummans, whom he subjugated and forced to relocate their best to the capital; and the Veylar Shell-Singer, with whom he negotiated a partnership of twenty craftsmen.
-
-He held a grand tournament to select a regent for the capital while he builds the road. The Bright Paws were eliminated in the first phase, humiliated. The Shadow Paws, Stripe Paws, and Motted Paws advanced through duels and mounted combat. Sylva of the Motted Paws won the tournament and became regent. In the twilight duel, Ajani nearly lost his crown to her—his incomplete training exposed, his hubris with the ji humbled—but his body reverted to the saber, the weapon he had drilled against the Iris Scales in the marshes, and he won by what appeared a masterstroke but was in truth blind instinct.
-
-Sylva interpreted it as a deliberate feint. Ajani let her.
 
 Kareth's one good eye held steady on the throne. The old general had seen too many young warriors die to be impressed by glory. He had watched cubs chase honor across the desert and return as corpses, their names already fading from memory. He knew what the king was asking. Not for heroes. For something harder.
 
@@ -548,7 +462,7 @@ Zara nodded. <span class="speech">"The Stripe Paws have no objection to Sylva. B
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">"I decline, the grand visir and regency are a yearly office the foreign advisor it's a five year office as all the others, one can't hold both simultaneously and no office is up for reelection, however I will allow the holder of the office to propose a candidate and he will be considered above others, this is to prevent us from again stagnating, we need fresh blood in those offices, five years is long enough to do a change and leave a legacy but short enough so it doesn't becomes the only thing a wengari needs, we are predators, we aren't made for offices , I am aware it goes against our nature that's why it's a short station, objections?"</p>
+<p class="speech-line">"I decline, the grand vizier and regency are a yearly office the foreign advisor it's a five year office as all the others, one can't hold both simultaneously and no office is up for reelection, however I will allow the holder of the office to propose a candidate and he will be considered above others, this is to prevent us from again stagnating, we need fresh blood in those offices, five years is long enough to do a change and leave a legacy but short enough so it doesn't becomes the only thing a wengari needs, we are predators, we aren't made for offices , I am aware it goes against our nature that's why it's a short station, objections?"</p>
 </div>
 
 <div class="dialogue-block">
@@ -561,4 +475,8 @@ Zara was the first to speak, and her voice carried the particular weight of a me
 
 <div class="dialogue-block">
 <p class="speech-line">Sylva's silver aura flickered gently. She had been declined—her offer to serve as foreign advisor while holding the regency was refused, and she had been told that no one could hold two offices at once. She did not seem troubled. "The Motted Paws accept. I will propose a candidate for foreign advisor. She is young—younger than I am, younger than most of the elders in this hall. Her name is Elyra. She fought in the tournament. She lost to me in the second phase, but she learned from the loss. She has spent the years since studying the languages of the other races, preparing for the day when the Motted Paws would be called to serve. That day has come. She will be ready."</p>
+</div>
+
+<div class="dialogue-block">
+<p class="speech-line">Solen rose slowly. The old High Priest's golden mane was still dulled, but his voice was steady. "The Bright Paws accept. We have been the royal family for three thousand years. We have grown stagnant. We have grown weak. The tournament exposed us. The king's reforms are giving us a chance to become strong again. Five-year terms will ensure that no Bright Paw ever again sits on a throne of complacency. We will propose candidates. We will compete. And we will earn our place among the families once more."</p>
 </div>
