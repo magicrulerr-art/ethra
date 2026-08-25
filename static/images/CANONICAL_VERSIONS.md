@@ -117,6 +117,12 @@ Bestiary plan). Coordinate data lives at `static/data/map-coordinates.json`.
 | 12:02 | arc5-ch19 | `arc5-med-arc5-ch19-v4.png` | v4 LOCKED |
 | 12:06 | arc5-ch22 | `arc5-med-arc5-ch22-v1.png` | v1 LOCKED |
 
+## Arc 7 — The Grand Festival
+
+| Chapter | Title | Status | Canonical filename | Bytes | Locked |
+|---------|-------|--------|--------------------|-------|--------|
+| arc7-01 | The Birth of the Festival | 🟡 pending v3 (first forge of Arc 7; v1 drift: human hand + mannequin councilors + crimson orb; v2 drift: quadruped cats on table + king on table; v3 PASS self-audit — upright robed feline councilors, king on floor, furred clawed paw, twin suns standing; awaiting Ainz verdict) | `chapter-arc7-01-v3.png` | 6,436,928 | 2026-08-25 |
+
 ## Arc 6 — Aftermath & The Road
 
 | Chapter | Title | Status | Canonical filename | Bytes | Locked |
