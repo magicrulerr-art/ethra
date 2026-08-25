@@ -1100,6 +1100,11 @@ Ajani watched the procession approach from the throne, the diadem's gem pulsing 
 </div>
 
 
+<div class="dialogue-block">
+<p class="speech-line">Ajani looks at Nikolai confused then to sulheim with a questioning look, sulheim says "I have utterly forgotten what happened, may I explain why I am here ? If it's not too much trouble I would also like to sit on the shade"</p>
+</div>
+
+
 Ajani looked from Nikolai's defeated posture to the Sultan's carefully composed face. The Humman king was weary—not merely from the desert journey, but from the ordeal of the past few minutes, from the war, from the weight of a crown he had not wanted and a throne he had inherited from a fool. The diadem's gem pulsed once, a slow, steady beat. Then the White Dawn did something that surprised everyone present.
 
 
