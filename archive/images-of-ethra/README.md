@@ -69,6 +69,7 @@ Retrofit doctrine: crop MUST exclude every flagged drift region; the fragment
 sits at ≤0.6 opacity behind the heading, masked to fade toward the text.
 Generator: `tools/title_assets.py` (also forges the hand-authored 1.1 KB
 `arena-sprite.png` pixel loop for arc3-ch01 — zero generation tokens).
+- `arena-sprite.png` — hand-authored 1.1 KB pixel Ajani loop for arc3-ch01; retired by Ainz ruling 2026-08-25 ("I love the retrofit I hate the pixel"); superseded by title-arc3-ch01.webp cover fragment.
 
 ## Counting-doctrine note (2026-08-25)
 qwen-image-2.0 cannot reliably render exactly N distinct silhouettes: across

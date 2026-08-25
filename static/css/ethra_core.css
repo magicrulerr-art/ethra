@@ -1852,17 +1852,8 @@ body.leaving{opacity:0;transition:opacity .3s ease}
   background-size: 96px 48px, 170px 80px;
   background-position: right 30px bottom 2px, right 0 bottom 0;
 }
-/* 2 · the Chamber of Reflection — retrofit fragment: the runed door and its
-   torch, lifted from the discarded v3 forge (upper scenery only, zero figure
-   drift). The chapter's identity lives in its heading. */
-#arc1-ch02 h2 { background: none; }
-#arc1-ch02 h2::before {
-  content: ''; position: absolute; right: -4px; top: -12px; bottom: -6px; width: 168px;
-  background: url('../images/title-arc1-02.webp') right center / cover no-repeat;
-  -webkit-mask-image: linear-gradient(to left, rgba(0,0,0,0.95), rgba(0,0,0,0.40) 60%, transparent 96%);
-          mask-image: linear-gradient(to left, rgba(0,0,0,0.95), rgba(0,0,0,0.40) 60%, transparent 96%);
-  opacity: 0.55; filter: brightness(1.25); pointer-events: none; border-radius: 4px;
-}
+/* 2 · the Chamber of Reflection — title band via shared rollout rule
+   (title-arc1-ch02.webp), 2026-08-25 */
 /* 3 · the Pact — two rings joined */
 #arc1-ch03 h2 {
   background:
@@ -1963,20 +1954,8 @@ body.leaving{opacity:0;transition:opacity .3s ease}
 
 /* ─── Arc III · First Blood · ember ─── */
 
-/* 1 · the Arena — a pixel Ajani strides in and strikes the pillar.
-   Hand-authored 6-frame sprite (1.1 KB), pure-CSS steps() loop: zero
-   generation tokens, zero JS. Reduced-motion leaves a still vignette. */
-#arc3-ch01 h2 { background: none; }
-#arc3-ch01 h2::before {
-  content: ''; position: absolute; right: 12px; bottom: -2px; width: 120px; height: 48px;
-  background: url('../images/arena-sprite.png') 0 0 / 720px 48px no-repeat;
-  image-rendering: pixelated; pointer-events: none;
-  animation: arenaPunch 2.7s steps(6, end) infinite;
-}
-@keyframes arenaPunch {
-  from { background-position: 0 0; }
-  to   { background-position: -720px 0; }
-}
+/* 1 · the Arena — title-arc3-ch01.webp cover fragment via shared rollout
+   rule; pixel sprite retired by Ainz ruling 2026-08-25 */
 /* 2 · first blood — a single drop */
 #arc3-ch02 h2 {
   background:
@@ -2060,17 +2039,8 @@ body.leaving{opacity:0;transition:opacity .3s ease}
   background-size: 20px 14px, 20px 14px, 2px 44px, 2px 44px;
   background-position: right 50px top 10px, right 20px top 10px, right 70px center, right 18px center;
 }
-/* 5 · the Gifts — retrofit fragment: the king from behind, mane-feather and
-   open ledger, lifted from the discarded v8 tribute forge (crop excludes the
-   drifted tails and the bearer's hands). */
-#arc4-ch05 h2 { background: none; }
-#arc4-ch05 h2::before {
-  content: ''; position: absolute; right: -4px; top: -12px; bottom: -6px; width: 168px;
-  background: url('../images/title-arc4-05.webp') right center / cover no-repeat;
-  -webkit-mask-image: linear-gradient(to left, rgba(0,0,0,0.95), rgba(0,0,0,0.40) 60%, transparent 96%);
-          mask-image: linear-gradient(to left, rgba(0,0,0,0.95), rgba(0,0,0,0.40) 60%, transparent 96%);
-  opacity: 0.6; pointer-events: none; border-radius: 4px;
-}
+/* 5 · the Gifts — title-arc4-ch05.webp cover fragment via shared rollout
+   rule, 2026-08-25 */
 /* 6 · aftermath — dust settling */
 #arc4-ch06 h2 {
   background:
@@ -2351,3 +2321,121 @@ body.leaving{opacity:0;transition:opacity .3s ease}
   background-size: 26px 26px, 20px 20px, 110px 2px;
   background-position: right 66px top 6px, right 34px top 10px, right 16px bottom 10px;
 }
+
+/* ═══ CHAPTER TITLE BANDS — retrofit identity (2026-08-25) ═══
+   Ainz ruling: retrofit fragments are the site-wide title
+   identity; pixel sprite retired. Each band is a masked
+   fragment of the chapter's own scene (discard where one
+   yields a drift-free fragment, else the canonical cover).
+   Relative url() ONLY — absolute /static/ 404s on Pages. */
+#arc1-ch02 h2,
+#arc4-ch05 h2,
+#arc1-ch01 h2,
+#arc1-ch03 h2,
+#arc1-ch04 h2,
+#arc1-ch05 h2,
+#arc1-ch06 h2,
+#arc2-ch01 h2,
+#arc2-ch02 h2,
+#arc2-ch03 h2,
+#arc2-ch04 h2,
+#arc2-ch05 h2,
+#arc2-ch06 h2,
+#arc3-ch01 h2,
+#arc3-ch02 h2,
+#arc3-ch03 h2,
+#arc3-ch04 h2,
+#arc3-ch05 h2,
+#arc4-ch01 h2,
+#arc4-ch02 h2,
+#arc4-ch03 h2,
+#arc4-ch04 h2,
+#arc4-ch06 h2,
+#arc5-ch01 h2,
+#arc5-ch05 h2,
+#arc5-ch11 h2,
+#arc5-ch19 h2,
+#arc5-ch22 h2,
+#arc6-ch01 h2,
+#arc6-ch02 h2,
+#arc6-ch03 h2,
+#arc6-ch04 h2,
+#arc6-ch05 h2,
+#arc7-ch01 h2 { background: none; }
+
+#arc1-ch02 h2::before,
+#arc4-ch05 h2::before,
+#arc1-ch01 h2::before,
+#arc1-ch03 h2::before,
+#arc1-ch04 h2::before,
+#arc1-ch05 h2::before,
+#arc1-ch06 h2::before,
+#arc2-ch01 h2::before,
+#arc2-ch02 h2::before,
+#arc2-ch03 h2::before,
+#arc2-ch04 h2::before,
+#arc2-ch05 h2::before,
+#arc2-ch06 h2::before,
+#arc3-ch01 h2::before,
+#arc3-ch02 h2::before,
+#arc3-ch03 h2::before,
+#arc3-ch04 h2::before,
+#arc3-ch05 h2::before,
+#arc4-ch01 h2::before,
+#arc4-ch02 h2::before,
+#arc4-ch03 h2::before,
+#arc4-ch04 h2::before,
+#arc4-ch06 h2::before,
+#arc5-ch01 h2::before,
+#arc5-ch05 h2::before,
+#arc5-ch11 h2::before,
+#arc5-ch19 h2::before,
+#arc5-ch22 h2::before,
+#arc6-ch01 h2::before,
+#arc6-ch02 h2::before,
+#arc6-ch03 h2::before,
+#arc6-ch04 h2::before,
+#arc6-ch05 h2::before,
+#arc7-ch01 h2::before {
+  content: ''; position: absolute; right: -4px; top: -12px; bottom: -6px; width: 168px;
+  background: right center / cover no-repeat;
+  -webkit-mask-image: linear-gradient(to left, rgba(0,0,0,0.95), rgba(0,0,0,0.40) 60%, transparent 96%);
+          mask-image: linear-gradient(to left, rgba(0,0,0,0.95), rgba(0,0,0,0.40) 60%, transparent 96%);
+  opacity: 0.55; pointer-events: none; border-radius: 4px;
+}
+
+#arc1-ch02 h2::before { background-image: url('../images/title-arc1-ch02.webp'); }
+#arc4-ch05 h2::before { background-image: url('../images/title-arc4-ch05.webp'); }
+#arc1-ch01 h2::before { background-image: url('../images/title-arc1-ch01.webp'); }
+#arc1-ch03 h2::before { background-image: url('../images/title-arc1-ch03.webp'); }
+#arc1-ch04 h2::before { background-image: url('../images/title-arc1-ch04.webp'); }
+#arc1-ch05 h2::before { background-image: url('../images/title-arc1-ch05.webp'); }
+#arc1-ch06 h2::before { background-image: url('../images/title-arc1-ch06.webp'); }
+#arc2-ch01 h2::before { background-image: url('../images/title-arc2-ch01.webp'); }
+#arc2-ch02 h2::before { background-image: url('../images/title-arc2-ch02.webp'); }
+#arc2-ch03 h2::before { background-image: url('../images/title-arc2-ch03.webp'); }
+#arc2-ch04 h2::before { background-image: url('../images/title-arc2-ch04.webp'); }
+#arc2-ch05 h2::before { background-image: url('../images/title-arc2-ch05.webp'); }
+#arc2-ch06 h2::before { background-image: url('../images/title-arc2-ch06.webp'); }
+#arc3-ch01 h2::before { background-image: url('../images/title-arc3-ch01.webp'); }
+#arc3-ch02 h2::before { background-image: url('../images/title-arc3-ch02.webp'); }
+#arc3-ch03 h2::before { background-image: url('../images/title-arc3-ch03.webp'); }
+#arc3-ch04 h2::before { background-image: url('../images/title-arc3-ch04.webp'); }
+#arc3-ch05 h2::before { background-image: url('../images/title-arc3-ch05.webp'); }
+#arc4-ch01 h2::before { background-image: url('../images/title-arc4-ch01.webp'); }
+#arc4-ch02 h2::before { background-image: url('../images/title-arc4-ch02.webp'); }
+#arc4-ch03 h2::before { background-image: url('../images/title-arc4-ch03.webp'); }
+#arc4-ch04 h2::before { background-image: url('../images/title-arc4-ch04.webp'); }
+#arc4-ch06 h2::before { background-image: url('../images/title-arc4-ch06.webp'); }
+#arc5-ch01 h2::before { background-image: url('../images/title-arc5-ch01.webp'); }
+#arc5-ch05 h2::before { background-image: url('../images/title-arc5-ch05.webp'); }
+#arc5-ch11 h2::before { background-image: url('../images/title-arc5-ch11.webp'); }
+#arc5-ch19 h2::before { background-image: url('../images/title-arc5-ch19.webp'); }
+#arc5-ch22 h2::before { background-image: url('../images/title-arc5-ch22.webp'); }
+#arc6-ch01 h2::before { background-image: url('../images/title-arc6-ch01.webp'); }
+#arc6-ch02 h2::before { background-image: url('../images/title-arc6-ch02.webp'); }
+#arc6-ch03 h2::before { background-image: url('../images/title-arc6-ch03.webp'); }
+#arc6-ch04 h2::before { background-image: url('../images/title-arc6-ch04.webp'); }
+#arc6-ch05 h2::before { background-image: url('../images/title-arc6-ch05.webp'); }
+#arc7-ch01 h2::before { background-image: url('../images/title-arc7-ch01.webp'); }
+#arc1-ch02 h2::before { filter: brightness(1.25); }  /* tuned on the live pilot */

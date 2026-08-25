@@ -1,0 +1,117 @@
+/* ═══ CHAPTER TITLE BANDS — retrofit identity (2026-08-25) ═══
+   Ainz ruling: retrofit fragments are the site-wide title
+   identity; pixel sprite retired. Each band is a masked
+   fragment of the chapter's own scene (discard where one
+   yields a drift-free fragment, else the canonical cover).
+   Relative url() ONLY — absolute /static/ 404s on Pages. */
+#arc1-ch02 h2,
+#arc4-ch05 h2,
+#arc1-ch01 h2,
+#arc1-ch03 h2,
+#arc1-ch04 h2,
+#arc1-ch05 h2,
+#arc1-ch06 h2,
+#arc2-ch01 h2,
+#arc2-ch02 h2,
+#arc2-ch03 h2,
+#arc2-ch04 h2,
+#arc2-ch05 h2,
+#arc2-ch06 h2,
+#arc3-ch01 h2,
+#arc3-ch02 h2,
+#arc3-ch03 h2,
+#arc3-ch04 h2,
+#arc3-ch05 h2,
+#arc4-ch01 h2,
+#arc4-ch02 h2,
+#arc4-ch03 h2,
+#arc4-ch04 h2,
+#arc4-ch06 h2,
+#arc5-ch01 h2,
+#arc5-ch05 h2,
+#arc5-ch11 h2,
+#arc5-ch19 h2,
+#arc5-ch22 h2,
+#arc6-ch01 h2,
+#arc6-ch02 h2,
+#arc6-ch03 h2,
+#arc6-ch04 h2,
+#arc6-ch05 h2,
+#arc7-ch01 h2 { background: none; }
+
+#arc1-ch02 h2::before,
+#arc4-ch05 h2::before,
+#arc1-ch01 h2::before,
+#arc1-ch03 h2::before,
+#arc1-ch04 h2::before,
+#arc1-ch05 h2::before,
+#arc1-ch06 h2::before,
+#arc2-ch01 h2::before,
+#arc2-ch02 h2::before,
+#arc2-ch03 h2::before,
+#arc2-ch04 h2::before,
+#arc2-ch05 h2::before,
+#arc2-ch06 h2::before,
+#arc3-ch01 h2::before,
+#arc3-ch02 h2::before,
+#arc3-ch03 h2::before,
+#arc3-ch04 h2::before,
+#arc3-ch05 h2::before,
+#arc4-ch01 h2::before,
+#arc4-ch02 h2::before,
+#arc4-ch03 h2::before,
+#arc4-ch04 h2::before,
+#arc4-ch06 h2::before,
+#arc5-ch01 h2::before,
+#arc5-ch05 h2::before,
+#arc5-ch11 h2::before,
+#arc5-ch19 h2::before,
+#arc5-ch22 h2::before,
+#arc6-ch01 h2::before,
+#arc6-ch02 h2::before,
+#arc6-ch03 h2::before,
+#arc6-ch04 h2::before,
+#arc6-ch05 h2::before,
+#arc7-ch01 h2::before {
+  content: ''; position: absolute; right: -4px; top: -12px; bottom: -6px; width: 168px;
+  background: right center / cover no-repeat;
+  -webkit-mask-image: linear-gradient(to left, rgba(0,0,0,0.95), rgba(0,0,0,0.40) 60%, transparent 96%);
+          mask-image: linear-gradient(to left, rgba(0,0,0,0.95), rgba(0,0,0,0.40) 60%, transparent 96%);
+  opacity: 0.55; pointer-events: none; border-radius: 4px;
+}
+
+#arc1-ch02 h2::before { background-image: url('../images/title-arc1-ch02.webp'); }
+#arc4-ch05 h2::before { background-image: url('../images/title-arc4-ch05.webp'); }
+#arc1-ch01 h2::before { background-image: url('../images/title-arc1-ch01.webp'); }
+#arc1-ch03 h2::before { background-image: url('../images/title-arc1-ch03.webp'); }
+#arc1-ch04 h2::before { background-image: url('../images/title-arc1-ch04.webp'); }
+#arc1-ch05 h2::before { background-image: url('../images/title-arc1-ch05.webp'); }
+#arc1-ch06 h2::before { background-image: url('../images/title-arc1-ch06.webp'); }
+#arc2-ch01 h2::before { background-image: url('../images/title-arc2-ch01.webp'); }
+#arc2-ch02 h2::before { background-image: url('../images/title-arc2-ch02.webp'); }
+#arc2-ch03 h2::before { background-image: url('../images/title-arc2-ch03.webp'); }
+#arc2-ch04 h2::before { background-image: url('../images/title-arc2-ch04.webp'); }
+#arc2-ch05 h2::before { background-image: url('../images/title-arc2-ch05.webp'); }
+#arc2-ch06 h2::before { background-image: url('../images/title-arc2-ch06.webp'); }
+#arc3-ch01 h2::before { background-image: url('../images/title-arc3-ch01.webp'); }
+#arc3-ch02 h2::before { background-image: url('../images/title-arc3-ch02.webp'); }
+#arc3-ch03 h2::before { background-image: url('../images/title-arc3-ch03.webp'); }
+#arc3-ch04 h2::before { background-image: url('../images/title-arc3-ch04.webp'); }
+#arc3-ch05 h2::before { background-image: url('../images/title-arc3-ch05.webp'); }
+#arc4-ch01 h2::before { background-image: url('../images/title-arc4-ch01.webp'); }
+#arc4-ch02 h2::before { background-image: url('../images/title-arc4-ch02.webp'); }
+#arc4-ch03 h2::before { background-image: url('../images/title-arc4-ch03.webp'); }
+#arc4-ch04 h2::before { background-image: url('../images/title-arc4-ch04.webp'); }
+#arc4-ch06 h2::before { background-image: url('../images/title-arc4-ch06.webp'); }
+#arc5-ch01 h2::before { background-image: url('../images/title-arc5-ch01.webp'); }
+#arc5-ch05 h2::before { background-image: url('../images/title-arc5-ch05.webp'); }
+#arc5-ch11 h2::before { background-image: url('../images/title-arc5-ch11.webp'); }
+#arc5-ch19 h2::before { background-image: url('../images/title-arc5-ch19.webp'); }
+#arc5-ch22 h2::before { background-image: url('../images/title-arc5-ch22.webp'); }
+#arc6-ch01 h2::before { background-image: url('../images/title-arc6-ch01.webp'); }
+#arc6-ch02 h2::before { background-image: url('../images/title-arc6-ch02.webp'); }
+#arc6-ch03 h2::before { background-image: url('../images/title-arc6-ch03.webp'); }
+#arc6-ch04 h2::before { background-image: url('../images/title-arc6-ch04.webp'); }
+#arc6-ch05 h2::before { background-image: url('../images/title-arc6-ch05.webp'); }
+#arc7-ch01 h2::before { background-image: url('../images/title-arc7-ch01.webp'); }
+#arc1-ch02 h2::before { filter: brightness(1.25); }  /* tuned on the live pilot */
