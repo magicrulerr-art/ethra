@@ -29,5 +29,10 @@ _pages/
 # Superseded art / legacy viewers — kept locally for history, never shipped
 _archive/
 
+# Derived SQLite index (regenerable via: python ethra_index.py build)
+ethra.db
+ethra.db-wal
+ethra.db-shm
+
 server_stdout.log
 tools/server.pid
