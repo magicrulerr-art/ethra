@@ -47,11 +47,14 @@ Bestiary plan). Coordinate data lives at `static/data/map-coordinates.json`.
   - Otherwise `chapter-arc{X}-{YY}.png` (unversioned) is canonical.
 - A version is canonical **only** when the bytes on disk match the
   recorded size and Ainz-sama has approved it.
-- Superseded versions (v1..v(N-1)) are **deleted from disk** once the
-  successor passes self-audit and ships (Ainz bloat ruling, 2026-08-25).
-  The historical record lives in the `*-PROMPT-RECORD.md` sidecars and
-  this ledger; git history retains the bytes and is purged only on
-  Ainz's explicit order.
+- Superseded versions (v1..v(N-1)) are **moved to the misc archive**
+  `archive/images-of-ethra/` once the successor passes self-audit and
+  ships (Ainz archive ruling, 2026-08-25, superseding the earlier
+  delete-on-successor bloat ruling of the same day). Each archived file
+  is annotated in `archive/images-of-ethra/README.md` for possible
+  re-use. The archive is never served and never baked into the Pages
+  mirror. Git history retains the bytes and is purged only on Ainz's
+  explicit order.
 
 ---
 
@@ -124,7 +127,7 @@ Bestiary plan). Coordinate data lives at `static/data/map-coordinates.json`.
 
 | Chapter | Title | Status | Canonical filename | Bytes | Locked |
 |---------|-------|--------|--------------------|-------|--------|
-| arc7-01 | The Birth of the Festival | 🟡 pending v4 (Ainz redirected cover from council scene to the CAVE scene: dark cavern, company in pure silhouette, colossal coiled snow wurm half-seen in pale blue-white glow; v1–v3 council-scene forges deleted from disk per Ainz bloat ruling 2026-08-25, record kept in sidecars; awaiting Ainz verdict) | `chapter-arc7-01-v4.png` | 6,439,686 | 2026-08-25 |
+| arc7-01 | The Birth of the Festival | 🟡 pending v8 (cave scene per Ainz direction: full company as tiny back-view feline silhouettes — roaring Nikolai, Anastasia, crowned Ajani, Vanya, dagger-Nadya, Ivan, Kira+Pearl, plus one extra silhouette read as canon-present Cefiro; Blackie+Reddy at the edges; colossal arch; several colossal coiled snow wurms in pale blue-white glow dwarfing all; v5 Ivan missing + human Kira, v6 Ajani+Vanya merged, v7 Vanya+Nadya merged — all archived; v1–v3 council forges restored from git to archive; awaiting Ainz verdict) | `chapter-arc7-01-v8.png` | 6,346,064 | 2026-08-25 |
 
 ## Arc 6 — Aftermath & The Road
 
@@ -149,8 +152,9 @@ Arc 6 pre-forge scrub (2026-08-23, commit 0cd5006): umbrella `chapter-06.md` + s
 4. MEMORY.md "Arc ledger" block updated.
 5. (Optional) regenerate webp/jpg variants per universal checklist.
 6. (Optional) regenerate thumbnails per universal checklist.
-7. Delete superseded v1..v(N-1) PNGs/WebPs from disk (bloat ruling
-   2026-08-25); sidecars + this ledger are the historical record.
+7. Move superseded v1..v(N-1) PNGs/WebPs/JPGs (+ their sidecars) to
+   `archive/images-of-ethra/` and annotate them in the archive README
+   (archive ruling 2026-08-25); this ledger + README are the record.
 ```
 
 ## Promotion trigger
