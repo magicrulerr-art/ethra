@@ -78,3 +78,18 @@ different merge/omission. For crowd scenes: keep figures tiny, anonymous and
 back-viewed; tolerate one EXTRA anonymous silhouette (canon-compatible, e.g.
 Cefiro/Sylva are present in most company scenes) rather than chasing exact
 counts; never tolerate a MISSING named figure or human drift.
+
+## Rollout complete (2026-08-25, commit eac886d, css v37)
+Ainz ruling applied site-wide: retrofit fragments are the title-band identity;
+the pixel sprite is retired (archived above). 34 chapters now carry masked
+band fragments (`static/images/title-arcN-chYY.webp`, 512px, q72): the two
+approved pilots plus 32 new cuts — discards where a drift-free fragment
+exists (arc1-03 throne beam, arc2-04 arena, arc2-05 spear, arc3-03 runed
+well, arc6-01 Yvaria study, arc6-03 sanctum, arc7-01 council arch…), else a
+fragment of the chapter's own canonical cover. Crops exclude every face and
+every flagged drift region (two-pass visual audit). The 13 Arc-5 chapters
+with no forged cover keep their gradient timestamp glyphs until covers
+exist. Generator + crop table + source map: tools/title_rollout.py and
+tools/title_rollout_sources.md. CSS: one shared masked-band rule + 34
+one-line image rules (tools/title_rollout_css_block.css), appended after the
+gradient emblems; relative url() only.
