@@ -34,5 +34,14 @@ ethra.db
 ethra.db-wal
 ethra.db-shm
 
+# Raw workshop files — directions and drafts never leave Nazarick
+raw/
+
+# QA/backup debris that must never be committed
+content/story/*.backup_*
+content/story/*.bak_*
+content/story/*.preview
+tmp_render.html
+
 server_stdout.log
 tools/server.pid
