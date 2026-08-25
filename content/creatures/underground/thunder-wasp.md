@@ -3,12 +3,15 @@ name: Thunder Wasp
 kind: creature
 x_pct: 84.5
 y_pct: 79
+image_full: /static/images/thunder-wasp-v1.png
 ---
 # Thunder Wasp
 
 **Classification:** Parasitoid Swarm Arthropod  
 **Biome:** Underground (hives in the deep desert; surfaces near the tide)  
 **Attunement:** Flicker-attuned
+
+<picture><source srcset="/static/images/thunder-wasp-v1.webp" type="image/webp" /><source srcset="/static/images/thunder-wasp-v1.jpg" type="image/jpeg" /><img src="/static/images/thunder-wasp-v1.png" alt="Thunder Wasp" class="creature-portrait" style="max-width:350px;float:right;margin:0 0 1em 1em;border:2px solid #333;"></picture>
 
 ## Description
 

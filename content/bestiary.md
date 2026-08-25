@@ -353,6 +353,8 @@ A massive Flicker-attuned arthropod used by the Snow Paws as their primary groun
 
 <picture><source srcset="/static/images/chithak.webp" type="image/webp" /><source srcset="/static/images/chithak.jpg" type="image/jpeg" /><img src="/static/images/chithak.png" alt="Chi'Thak Warrior" class="creature-portrait" style="max-width:350px;float:right;margin:0 0 1em 1em;border:2px solid #333;"></picture>
 <picture><source srcset="/static/images/super-organism.webp" type="image/webp" /><source srcset="/static/images/super-organism.jpg" type="image/jpeg" /><img src="/static/images/super-organism.png" alt="Underground Super-Organism" class="creature-portrait" style="max-width:350px;float:right;margin:0 0 1em 1em;border:2px solid #333;"></picture>
+<picture><source srcset="/static/images/thunder-wasp-v1.webp" type="image/webp" /><source srcset="/static/images/thunder-wasp-v1.jpg" type="image/jpeg" /><img src="/static/images/thunder-wasp-v1.png" alt="Thunder Wasp" class="creature-portrait" style="max-width:350px;float:right;margin:0 0 1em 1em;border:2px solid #333;"></picture>
+<picture><source srcset="/static/images/sand-wurm-v1.webp" type="image/webp" /><source srcset="/static/images/sand-wurm-v1.jpg" type="image/jpeg" /><img src="/static/images/sand-wurm-v1.png" alt="Sand Wurm" class="creature-portrait" style="max-width:350px;float:right;margin:0 0 1em 1em;border:2px solid #333;"></picture>
 
 ---
 

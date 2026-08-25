@@ -3,12 +3,15 @@ name: Sand Wurm
 kind: creature
 x_pct: 95
 y_pct: 93.5
+image_full: /static/images/sand-wurm-v1.png
 ---
 # Sand Wurm
 
 **Classification:** Legendary Deep Wurm (arthropod)  
 **Biome:** Underground (the deep desert, beneath even the oldest wurm-routes)  
 **Attunement:** Unknown
+
+<picture><source srcset="/static/images/sand-wurm-v1.webp" type="image/webp" /><source srcset="/static/images/sand-wurm-v1.jpg" type="image/jpeg" /><img src="/static/images/sand-wurm-v1.png" alt="Sand Wurm" class="creature-portrait" style="max-width:350px;float:right;margin:0 0 1em 1em;border:2px solid #333;"></picture>
 
 ## Description
 
