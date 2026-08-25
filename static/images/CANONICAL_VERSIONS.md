@@ -167,6 +167,8 @@ Promote a new version to canonical **only** when:
 | killer-claw-v1.png | v1 | [2026-08-22] | [sepia-ink bestiary plate matching razor-hare-v2/styx register] | killer-claw-v1.png | 1625829 | [f54350e1] | ✅ LOCKED v1 — approved by Aina 2026-08-22 | New Steadfast Desert entry: suicide raptor rigged with rune-bomb (arc5-01). |
 | cargo-bird-v1.png | v1 | [2026-08-22] | [sepia-ink bestiary plate matching razor-hare-v2/styx register] | cargo-bird-v1.png | 1886649 | [b884211e] | ✅ LOCKED v1 — approved by Aina 2026-08-22 | New Rune Belt entry: green-plumed transport bird; gate scene with new Sultan (arc6-02). |
 | lament-v2.png | v2 | [2026-08-24] | [sepia-ink bestiary plate; fungal rework of lament.png per Ainz directive] | lament-v2.png | 1720909 | [3667ecc] | 🟡 pending — awaiting Ainz verdict (supersedes lament.png v1 horror-demon drift; rewired lament.md/threx.md/bestiary.md/map json; chithak map portrait bug fixed same commit) | Lament Threx species portrait: fungal entity — mushroom-cap cowl, shelf-fungi shoulders, mycelial robe, featureless mask + two glowing eyes, clawless. |
+| thunder-wasp-v1.png | v1 | [2026-08-25] | [sepia-ink bestiary plate matching crimson-hawk-v1 register] | thunder-wasp-v1.png | 1616842 | [76d0686] | 🟡 pending — awaiting Ainz verdict | New Underground entry: Flicker-attuned parasitoid swarm wasp; single-specimen field sketch, barbed stinger, veined wings (arc7-02). |
+| sand-wurm-v1.png | v1 | [2026-08-25] | [sepia-ink bestiary plate matching crimson-hawk-v1 register] | sand-wurm-v1.png | 1887437 | [76d0686] | 🟡 pending — awaiting Ainz verdict | New Underground entry: legendary ~20 m deep-desert wurm, hundreds of legs, bone-strewn sand, deep-glow hatching (arc7-02). |
 
 
 ---
