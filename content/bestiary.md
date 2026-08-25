@@ -179,7 +179,7 @@ The **Bright Paw Royal Family** possesses a unique legacy: they can harness Sorc
 
 **Survival Cycle:** They cannot sustain their own race. On every Convergence, they must go out and feed. Scouts that return engorged are **consumed by the colony** to endure until the next cycle. No Chi'Thak ever survives two cycles — their drive is cannibalistic.
 
-**The Fourth Tyrant — Crr'zzak, "The Fear on Wings":** A Chi'Thak who lived for only one Convergence — by far the youngest of the tyrants ever to die. But that was enough. He was taller and stronger than every other member of his race due to Flicker's influence. He matured in a matter of days, just in time for the Convergence. When he emerged, the blight came with him. His pheromones were unusually potent — what was once a free-for-all became an organized, all-consuming plague. He flew from end to end of the continent in weeks, devouring everything, entire cities lost in seconds. When he reached the other end, he returned home and in his dying moments let himself be devoured by the colony along with all the nutrients and rich Aura he had amassed. Every current Chi'Thak owes its life to him, and he spurred an evolution in their species.
+**The Second Tyrant — Crr'zzak, "The Fear on Wings":** A Chi'Thak who lived for only one Convergence — by far the youngest of the tyrants ever to die. But that was enough. He was taller and stronger than every other member of his race due to Flicker's influence. He matured in a matter of days, just in time for the Convergence. When he emerged, the blight came with him. His pheromones were unusually potent — what was once a free-for-all became an organized, all-consuming plague. He flew from end to end of the continent in weeks, devouring everything, entire cities lost in seconds. When he reached the other end, he returned home and in his dying moments let himself be devoured by the colony along with all the nutrients and rich Aura he had amassed. Every current Chi'Thak owes its life to him, and he spurred an evolution in their species.
 
 **Cities:** Vivid glowing stone murals depicting each "super-organism" (Tyrant-class beings) slaughtering them by the millions. They stay clear of these super-organisms.
 
@@ -359,9 +359,9 @@ A massive Flicker-attuned arthropod used by the Snow Paws as their primary groun
 | # | Name | Race | Era | Legacy |
 |---|------|------|-----|--------|
 | 1 | Unnamed (Black Fire) | Wengari (Shadow Paw) | 300-year lifespan | Unified 20 families; descended into genocidal paranoia as second Tide approached; drove Snow Paws into exile |
-| 2 | Xal'thyra | Veylar | Pre-Lightbringer era | Silenced the male Styx and projected the Great Stillness across the world; the only Veylar to ever break the white flame to her will; only Tyrant to ride a Styx |
+| 2 | Crr'zzak "The Fear on Wings" | Chi'Thak | One Convergence | Organized the Chi'Thak blight, devoured continent-spanning territory in weeks, spurred species evolution |
 | 3 | Uthgar Lightbringer | Wengari (Bright Paw) | Beginning of a Tide cycle | Great administrator, built desert cities, advanced Sorcery, created Bright Paw royal legacy, vanished into the Chamber of Reflection |
-| 4 | Crr'zzak "The Fear on Wings" | Chi'Thak | One Convergence | Organized the Chi'Thak blight, devoured continent-spanning territory in weeks, spurred species evolution |
+| 4 | Xal'thyra | Veylar | ~1,800 years ago | Silenced the male Styx and projected the Great Stillness across the world; the only Veylar to ever break the white flame to her will; only Tyrant to ride a Styx |
 | 5 | Velarius Vane | Humman | ~1,000 years ago | 65-year plague, slow-spreading poison that mutated and killed everything, impossible immunity |
 
 ---
