@@ -55,6 +55,8 @@ Format: `file — what it shows — why it was superseded — reuse value`.
 - `chapter-arc7-01-v5.png` — Cave scene; Ivan missing, Kira rendered human child. Reuse: cave composition study.
 - `chapter-arc7-01-v6.png` — Cave scene; Ajani+Vanya merged into one silhouette; frontal roaring face. Reuse: cave composition study.
 - `chapter-arc7-01-v7.png` — Cave scene; Vanya+Nadya merged (6 of 7 figures). Reuse: cave composition study.
+- `chapter-arc7-01-v8.png/.webp/.jpg` (+sidecar) — Cave scene that PASSED self-audit with the full company (7 named + Cefiro-extra, all feline, tiny back-view); shipped briefly, superseded by Ainz's landscape fallback (v10). **Reuse: best full-company cave render so far — first choice if a company cover is ever wanted again.**
+- `chapter-arc7-01-v9.png` — Cave scene with Ainz's height hierarchy (Nikolai very tall; Anastasia/Vanya/Nadya same; Cefiro/Ajani same; Kira/Ivan very small); 8 figures but one child rendered human (drift). Reuse: hierarchy layout study.
 
 ## Counting-doctrine note (2026-08-25)
 qwen-image-2.0 cannot reliably render exactly N distinct silhouettes: across

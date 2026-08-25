@@ -127,7 +127,7 @@ Bestiary plan). Coordinate data lives at `static/data/map-coordinates.json`.
 
 | Chapter | Title | Status | Canonical filename | Bytes | Locked |
 |---------|-------|--------|--------------------|-------|--------|
-| arc7-01 | The Birth of the Festival | 🟡 pending v8 (cave scene per Ainz direction: full company as tiny back-view feline silhouettes — roaring Nikolai, Anastasia, crowned Ajani, Vanya, dagger-Nadya, Ivan, Kira+Pearl, plus one extra silhouette read as canon-present Cefiro; Blackie+Reddy at the edges; colossal arch; several colossal coiled snow wurms in pale blue-white glow dwarfing all; v5 Ivan missing + human Kira, v6 Ajani+Vanya merged, v7 Vanya+Nadya merged — all archived; v1–v3 council forges restored from git to archive; awaiting Ainz verdict) | `chapter-arc7-01-v8.png` | 6,346,064 | 2026-08-25 |
+| arc7-01 | The Birth of the Festival | 🟡 pending v10 (Ainz fallback ruling after v5–v9 kept struggling with the company: landscape-only Wurms' Rest — colossal ancient arch + several colossal coiled snow wurms in pale blue-white glow, breath-mist, no figures; v8 full-company PASS and v9 hierarchy attempt archived; Ainz height hierarchy for any future re-forge recorded in v10 sidecar; awaiting Ainz verdict) | `chapter-arc7-01-v10.png` | 6,511,367 | 2026-08-25 |
 
 ## Arc 6 — Aftermath & The Road
 
