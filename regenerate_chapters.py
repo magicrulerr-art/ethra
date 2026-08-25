@@ -238,6 +238,10 @@ for arc_str in sorted(ARCS, key=int):
     arc_num = int(arc_str)
     arc_data = ARCS[arc_str]
     print(f"Arc {arc_num}: {arc_data['title']}")
+    if 'source' not in arc_data or not arc_data.get('sub_titles'):
+        print(f"  (placeholder arc — no source/sub_titles, skipping)")
+        print()
+        continue
     chapters = generate_sub_chapters(arc_num, arc_data, CH_NEW)
     generate_arc_summary(arc_num, arc_data, chapters, CH_NEW, AR_NEW)
     all_chapters.extend(chapters)
