@@ -1,7 +1,0 @@
-chapter-arc4-01.md: em_total=91 quote_adjacent=12 odd_lines=43 odd_non_speech=34
-chapter-arc4-02.md: em_total=110 quote_adjacent=9 odd_lines=64 odd_non_speech=57
-chapter-arc4-03.md: em_total=96 quote_adjacent=2 odd_lines=52 odd_non_speech=51
-chapter-arc4-04.md: em_total=94 quote_adjacent=5 odd_lines=42 odd_non_speech=38
-chapter-arc4-05.md: em_total=93 quote_adjacent=12 odd_lines=39 odd_non_speech=29
-chapter-arc4-06.md: em_total=75 quote_adjacent=5 odd_lines=39 odd_non_speech=34
-TOTAL: em=559 quote_adjacent=45 odd_lines=279 odd_non_speech=243

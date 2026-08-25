@@ -40,7 +40,7 @@
 2. The Kira pickpocket scene exists in **three** takes (arc4-04 L316–363 / L366–418 / L422–470) wrapped around author prompts and a marker ("Here's how that could play out.").
 3. arc4-03's Kyre Tree communion contains three opening takes plus an internal rewrite, and arc4-03's crowd scene, arc4-02's search scene and Nefere entrance, arc4-05's kill scene and water hole, and arc4-06's grimoire demonstration each exist in two published takes.
 4. arc4-01 L394: a long Ajani speech is missing its closing quote (file total 277 double quotes = odd; DQ walker unbalanced to EOF).
-5. Arc I–II typo battery found **zero** hits in Arc IV; the new typos found (whar, hare, cumming, Sylvia, togheter, traning stipen…) are all in lowercase dialogue lines.
+5. Arc I–II typo battery found **zero** hits in Arc IV; the new typos found (whar, hare, coming, Sylvia, togheter, traning stipen…) are all in lowercase dialogue lines.
 6. Canon compliance is otherwise solid: king/King fully compliant (41/41), em-dash usage consistent (559 em, 0 en, splits ≡ umbrella), Humman deviations confined to 9 narrative tokens + 3 tokens inside meta lines slated for deletion.
 
 **Editorial-history note:** the `.stripped_meta` / `.stripped_passes` / `.repass3` / `.alpha_excise` artifacts show a cleanup pipeline ran pre-publication; it demonstrably did not cover author-voice planning prose, asterisk self-prompts, or duplicated takes. The remediation pass designed from this report should be added to that pipeline's marker set.
@@ -56,7 +56,7 @@ Tags: **[M]** mechanical (scriptable), **[E]** editorial (judgment deletion/rewo
 | Line | Defect | Class |
 |---|---|---|
 | L5 | Crossed delimiters: `*i seriously hare this woman' … 'lets see what they want *` — thought opened `*`, closed `'`, then `'…` closed `*`. Also `hare`→hate, `lets`→let's, lowercase *i*. | M |
-| L181 | Thought line: `'next as long as i Live, … 'i hear the screams cumming '` — lowercase *i*; `cumming`→coming; `Live` miscapitalized; `" ,` space-before-comma. | M |
+| L181 | Thought line: `'next as long as i Live, … 'i hear the screams coming '` — lowercase *i*; `coming`→coming; `Live` miscapitalized; `" ,` space-before-comma. | M |
 | L220–222 | Ajani speech **outside dialogue markup**, opening `"` never closed on the line; closing quote sits alone on L222 (`"`), two blank lines apart. Line contains `thats`, `were`→we're and five lowercase family names (bright paws, shadow paws, motted paws, stripe paws). | E (restructure into dialogue-block) + M |
 | L277 | Thought `'goos they're nots just going along'` (`goos`→good, `nots`→not); `humman` lowercase; `traning stipen`→training stipend (line tail: "providing a traning stipen[d]"). | M |
 | L371 | `"…Maren sounds like hell Fit right in, objections?"` — `hell Fit` is either "she'll fit" (corruption) or legit "hell" + fragment; ambiguous. Also `roles ,` spacing. | J (J7) + M |
@@ -250,7 +250,7 @@ Nine complexes. Canon direction determined by (a) author markers, (b) revision f
 | Lowercase *i* | arc4-01 L5, L181; arc4-02 L182, L204; arc4-03 L246, L318, L342, L522; arc4-04 L10 | Capitalize standalone I |
 | Race name | arc4-01 L277; arc4-02 L204, L240, L494, L538, L552×2, L566; arc4-05 L70 | humman(s)→Humman(s), humans→Hummans |
 | Proper nouns | arc4-01 L93, L143, L220; arc4-02 L154, L182, L315, L494–L566 (wengari, white dawn, stripe paws, family names); arc4-03 L342 (styx), L366 | Capitalize |
-| Typos | arc4-01 L5 hare→hate, L181 cumming→coming + Live→live, L277 goos→good/nots→not/traning stipen→training stipend; arc4-02 L154 whar→what, L240 Sylvia→Sylva; arc4-03 L366 togheter→together; arc4-02 L182 stink bugs nest→stink bugs' nest; arc4-01 L394 capitals shield→capital's shield, 20 years→twenty years; arc4-04 L507 palace me→palace, meh (low confidence) | Word map |
+| Typos | arc4-01 L5 hare→hate, L181 coming→coming + Live→live, L277 goos→good/nots→not/traning stipen→training stipend; arc4-02 L154 whar→what, L240 Sylvia→Sylva; arc4-03 L366 togheter→together; arc4-02 L182 stink bugs nest→stink bugs' nest; arc4-01 L394 capitals shield→capital's shield, 20 years→twenty years; arc4-04 L507 palace me→palace, meh (low confidence) | Word map |
 | Punctuation spacing/stacking | arc4-01 L181/L371 `" ,` `roles ,`; arc4-02 L391 `?'`; ALL-CAPS `?!,` `!!` (arc4-02 L413/L478/L494; arc4-03 L398–434) | Normalize |
 | Nested div | arc4-05 L438–439 | Remove duplicate `<div class="dialogue-block">` |
 
