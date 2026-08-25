@@ -2,8 +2,8 @@
 
 ## Source
 - Path: C:\Users\magic_new.BETOS-AIO.000\.qwenpaw\media\qwen_image\qwen_image_gen_0_1787675611450.png
-- SHA-256: 8ACFB6FA (prefix)
-- Bytes: 6,333,528
+- SHA-256: E87539AC (prefix)
+- Bytes: 6,346,064
 - Forged: 2026-08-25, qwen-image-2.0, 2048*2048
 
 ## Intended composition (canon anchor: chapter-arc7-01.md Scene 4 close,

@@ -51,6 +51,7 @@ Format: `file — what it shows — why it was superseded — reuse value`.
 - `chapter-arc7-01-v1.png/.webp` — Council scene; human hand + mannequin councilors + crimson orb. Reuse: negative reference.
 - `chapter-arc7-01-v2.png/.webp` — Council scene; quadruped cats on table. Reuse: negative reference.
 - `chapter-arc7-01-v3.png/.webp` (+sidecar) — Council scene that PASSED self-audit (upright robed feline councilors, king on floor, twin suns); superseded only because Ainz redirected the cover to the cave scene. **Reuse: highest-value item here — a ready council-scene cover if one is ever wanted for another slot.**
+- `chapter-arc7-01-v4.png/.webp` (+sidecar) — First cave-scene forge (5 silhouettes + one oversized; PASSED audit and shipped, then Ainz ordered the full company). Superseded by v8. Reuse: cave composition study; fallback if v8 is ever rejected.
 - `chapter-arc7-01-v5.png` — Cave scene; Ivan missing, Kira rendered human child. Reuse: cave composition study.
 - `chapter-arc7-01-v6.png` — Cave scene; Ajani+Vanya merged into one silhouette; frontal roaring face. Reuse: cave composition study.
 - `chapter-arc7-01-v7.png` — Cave scene; Vanya+Nadya merged (6 of 7 figures). Reuse: cave composition study.
