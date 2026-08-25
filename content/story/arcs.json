@@ -4,22 +4,56 @@
     "1": {
       "source": "chapter-01.md",
       "title": "Arc I: The White Dawn",
-      "sub_titles": ["The Return", "The Chamber", "The Pact", "The Styx", "The Four Pillars", "The Passing"]
+      "sub_titles": [
+        "The Return",
+        "The Chamber",
+        "The Pact",
+        "The Styx",
+        "The Four Pillars",
+        "The Passing"
+      ],
+      "split_anchors": [
+        159,
+        308,
+        444,
+        566,
+        667
+      ]
     },
     "2": {
       "source": "chapter-02.md",
       "title": "Arc II: The Council",
-      "sub_titles": ["The Summons", "The Confession", "The Shadow Paw", "The Tree's Judgment", "The Hydromancer", "Foreign Delegations"]
+      "sub_titles": [
+        "The Summons",
+        "The Confession",
+        "The Shadow Paw",
+        "The Tree's Judgment",
+        "The Hydromancer",
+        "Foreign Delegations"
+      ]
     },
     "3": {
       "source": "chapter-03.md",
       "title": "Arc III: The Tournament",
-      "sub_titles": ["The Arena", "First Blood", "The Fire Feet", "The Tyrant Cycle", "The Hour Before"]
+      "sub_titles": [
+        "The Arena",
+        "First Blood",
+        "The Fire Feet",
+        "The Tyrant Cycle",
+        "The Hour Before"
+      ]
     },
     "4": {
       "source": "chapter-04.md",
       "title": "Arc IV: The Consolidation",
-      "sub_titles": ["Bureaucracy", "The Caravans", "The Pyrinae Accord", "The Humman Delegation", "The Gifts", "Aftermath"]
+      "sub_titles": [
+        "Bureaucracy",
+        "The Caravans",
+        "The Pyrinae Accord",
+        "The Humman Delegation",
+        "The Gifts",
+        "Aftermath"
+      ]
     },
     "5": {
       "source": "chapter-05.md",
@@ -48,12 +82,40 @@
         "12:05 — The Light Cage Fades",
         "12:06 — The White Dawn Wakes"
       ],
-      "split_anchors": [410, 550, 728, 772, 792, 998, 1090, 1111, 1146, 1278, 1592, 1636, 1668, 1703, 1762, 1872, 1909, 2023, 2132, 2156, 2193]
+      "split_anchors": [
+        285,
+        425,
+        567,
+        611,
+        631,
+        811,
+        887,
+        908,
+        943,
+        1075,
+        1363,
+        1407,
+        1435,
+        1469,
+        1497,
+        1561,
+        1597,
+        1703,
+        1773,
+        1797,
+        1833
+      ]
     },
     "6": {
       "source": "chapter-06.md",
       "title": "Arc VI: Aftermath & The Road",
-      "sub_titles": ["The Cost", "Rebuilding", "The Vision", "The Road Begins", "Epilogue"]
+      "sub_titles": [
+        "The Cost",
+        "Rebuilding",
+        "The Vision",
+        "The Road Begins",
+        "Epilogue"
+      ]
     }
   }
 }

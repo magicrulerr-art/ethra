@@ -69,78 +69,6 @@ Irek felt the silence like a physical weight. The sun was higher now, climbing t
 
 The war drums resumed. The third wave began to move—four hundred scorpion riders, their iridescent shells a sea of shifting colours in the climbing sun. The Amuks were still advancing, the Tide Wolf cavalry circling wide. On the wall, Irek tightened his grip on his spear and watched the tide roll toward the gate. The elite unit below stood silent, bloodied but unbowed, their dark eyes fixed on the approaching storm.
 
-It was the seventh day of the Month of Storms, in the first year of the reign of Ajani Brightmane, first of his name. The White Dawn lay unconscious in his chambers, the golden armour still pulsing faintly over his chest. And the great war had only just begun.
-
-The war room was chaos. Sylva stood at the head of the granite table, her silver-chased ceremonial armor still gleaming from the dawn light that streamed through the high windows, but everything else about her was fraying. Her ancient eyes were hollow from three weeks without proper sleep. Her silver aura flickered erratically, no longer the calm, patient pulse of Flowing Water but something jagged, something struggling to maintain its rhythm.
-
-She had not eaten since the previous evening. She had not rested since the water hole. And the battle was only twenty-five minutes old.
-
-<div class="dialogue-block">
-<span class="speech">"Status on the north gate!"</span> she barked, her melodic voice stripped of its usual patience. <span class="speech">"Report!"</span>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">A young Motted Paw scout burst through the door, his silver fur matted with sweat. "The first vanguard is destroyed, Regent. Three rune cannon strikes. Two hundred scorpion riders eliminated. The second vanguard is advancing—two hundred and fifty riders, with Amuk support in the rear. The killer claws are being deployed now. The crimson hawks have already loosed four volleys. Thirty-two hawks have returned. Eight are lost."</p>
-</div>
-
-<div class="dialogue-block">
-<span class="speech">"Eight,"</span> Sylva repeated. The number hung in the air. <span class="speech">"And the elite unit?"</span>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">"They stand at the gate. They have not engaged yet. The second vanguard is still out of reach."</p>
-</div>
-
-Sylva turned to the map, her claws tracing the northern approach. The rune cannons had bought them time. The crimson hawks had bought them more. The killer claws would buy them perhaps a few minutes more. But the third wave was already massing on the horizon—four hundred riders, the full weight of the Humman army—and the Amuks were still coming, their great tusked forms swaying with each ponderous step.
-
-<div class="dialogue-block">
-<span class="speech">"Nefere,"</span> Sylva said. <span class="speech">"Your mirror array. How long until the sun is high enough?"</span>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">The ancient Hydromancer stood at the far end of the table, her clouded eyes fixed on the window where the sun was climbing steadily toward mid-morning. "The array requires the sun to be at a specific angle. Not before the tenth hour. Perhaps later. The prototype is untested. I cannot promise it will work. I can only promise that we will try."</p>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">Sylva nodded. It was not reassurance. It was acknowledgment. "Zara. The reinforcements. How long?"</p>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">Zara's great frame was rigid with tension. "The Stripe Paws are coming. The Shadow Paws are coming. The Motted Paws are coming. The Bright Paw loyalists are coming. But they are scattered, and the Humman army is here. Our fastest riders say one hour. Perhaps less. Perhaps more. They will arrive when they arrive."</p>
-</div>
-
-<div class="dialogue-block">
-<span class="speech">"One hour,"</span> Sylva said. <span class="speech">"We must hold for one hour."</span>
-</div>
-
-The rune cannons fired again. The sound was deafening, a thunderous roar that shook the stone walls of the war room and rattled the maps on the table. Sylva felt the vibration in her chest, in her bones, in the ancient roots of the palace that had stood for three thousand years. She closed her eyes and listened to the silence that followed—the brief, terrible silence that meant the cannons had struck, that somewhere below the wall, scorpion riders were dying.
-
-A cheer went up from the courtyard. The second vanguard was falling. The killer claws had done their work, their subsonic charges carrying them into the heart of the Humman formation, their rune bombs detonating in cones of white-hot fire. The crimson hawks were wheeling back toward the capital, their feathers spent. The elite unit was roaring. The gate was holding.
-
-But the third wave was already moving. Four hundred scorpion riders, their iridescent shells a sea of shifting colors in the climbing sun. The Amuks were still advancing. The Tide Wolf cavalry was still circling. And the war drums were still pounding, low and patient and utterly without fear.
-
-The door to the war room slammed open. Vasha stood in the doorway, her humorless face even more humorless than usual, her striped mane bristling with the particular fury of someone who had been running through the palace corridors for the past ten minutes. She was not supposed to be here. She was supposed to be in the council chamber, managing the Untrustworthy, keeping the machinery of governance turning while the battle raged.
-
-But Vasha had never been good at staying where she was supposed to be.
-
-<div class="dialogue-block">
-<span class="speech">"The reinforcements are coming,"</span> she said, her voice flat and cold. <span class="speech">"But they are not coming from the elders. The elders are still debating. The reinforcements are coming because the intelligence networks intercepted the Humman messages and sent word directly to the border garrisons. The Woh riders are coming. The desert variation. The Bright Paw contingent from the eastern border. They will arrive within the hour."</span>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">Sylva stared at her. "The Woh riders."</p>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">"Yes. The Woh riders. And they do not know that the other families are sending their own forces. No one knows. Everyone thinks they are the only ones coming. If we survive this, we will have to explain to the elders why their own warriors mobilized without their orders."</p>
-</div>
-
-<div class="dialogue-block">
-<span class="speech">"If we survive this,"</span> Sylva said quietly, <span class="speech">"the elders will have a great deal to explain to us."</span>
-</div>
-
-The rune cannons fired again. The war drums pounded on. And the third wave began its advance.
-
 It was the seventh day of the Month of Storms, in the first year of the reign of Ajani Brightmane, first of his name. The White Dawn lay unconscious in his chambers, the golden armor still pulsing faintly over his chest, Black Fire and Red Fire curled protectively on either side. The regent stood in the war room, her silver aura flickering like a guttering candle. And the great war had only just begun.
 
 At 5:25 in the morning, Vasha stormed into the war room unannounced.
@@ -233,65 +161,12 @@ Sylva stared at her. The war drums pounded on, low and patient and utterly witho
 
 It was 5:25 in the morning, the seventh day of the Month of Storms, in the first year of the reign of Ajani Brightmane, first of his name. The White Dawn lay unconscious in his chambers, the golden armor still pulsing faintly over his chest. The regent stood in the war room, her silver aura flickering like a guttering candle. And the battle was not yet over.
 
-The Hall of the Untrustworthy was a small, windowless chamber beneath the Great Hall, its walls lined with rune-glass filaments that pulsed with soft amber light. The table at its center was round—a deliberate choice, a statement that no one here outranked anyone else, that this council existed outside the traditional hierarchies of the Wengari families. The five members sat in their accustomed places, their faces lit from below by the amber glow, their shadows stretching long and distorted across the stone walls.
-
-Vasha of the Stripe Paws sat at the head of the table—not because she had been appointed, but because she had arrived first on the very first day and claimed the seat with the cold confidence of someone who had once audited her own cousin's caravan ledgers over a discrepancy of three copper coins. Maren of the Shadow Paws, the coin master, sat across from her, her lacquered claws tapping a slow, steady rhythm against the stone.
-
-Elyra's apprentice—a young Motted Paw named Sylen, still learning the art of silent observation—sat at the far end of the table, his silver aura flickering faintly. Toren, the old Bright Paw scribe who had been volunteered for this council because no one else wanted the position, sat hunched over a scroll, his golden mane faded to white. And the Humman representative—the nervous Silk-Weaver who had drawn the short straw among the surviving merchants—sat as far from Vasha as the table allowed.
-
-The war drums had not yet begun. The first rays of dawn had not yet touched the sand. But the council had known for three weeks that the Humman army was coming, and they had not been idle.
-
-<div class="dialogue-block">
-Vasha spoke first. Her voice was flat, uninflected, the voice of a woman who had been keeping secrets for so long that revelation felt like a release. <span class="speech">"I know you knew this was coming. I hope you made preparations."</span> She paused, her cold eyes sweeping across the table. <span class="speech">"I sent word to the western border. The Stripe Paw garrison there. I asked for twenty-five Woh riders. They will arrive within the hour."</span>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">Toren looked up from his scroll. The old Bright Paw scribe had been underestimated his entire life—by his family, by his peers, by the council that had assigned him here as a punishment. He was tired of being underestimated. "I sent word to the eastern garrison. Thirty Woh riders. They will arrive at the same time."</p>
-</div>
-
-<div class="dialogue-block">
-A brief, charged silence. Then Sylen, the young Motted Paw, leaned forward. His voice was soft, melodic, the voice of someone who had been trained to observe rather than speak, but who had decided that today was a day for speaking. <span class="speech">"The Woh. You speak of them as if they were merely cavalry. You speak of them as if they were beasts of burden."</span> He shook his head slowly. <span class="speech">"The Woh are theropods, five meters tall at the shoulder, with natural plate armor that turns aside scorpion stings and Amuk tusks alike. They are carnivorous. They are ancient. The Stripe Paws have been raising them for thousands of years, since the time of the First Tyrant, when the border wars against the Fire Beetles first began. The desert variation—the ones the Bright Paws keep at the eastern garrison—have evolved a different aura adaptation. They project an AOE field, a shimmering barrier of kinetic force that they use to defend the border against the beetles. The belt variation—the Stripe Paw Woh—use gravity manipulation. They hunt by pinning their prey to the ground and then eating them alive. Do you understand what you have summoned? Twenty-five gravity-manipulating theropods from the west. Thirty AOE-field theropods from the east. Fifty-five Woh riders in total. If they arrive at the same time, they will break the Humman army. They will also break the gate, if they are not careful. They will certainly break the elders, who did not authorize any of this."</span>
-</div>
-
-Toren stared at him. Vasha's expression did not change. Maren's lacquered claws stopped tapping.
-
-<div class="dialogue-block">
-Sylen continued, his voice still soft, still patient, still utterly relentless. <span class="speech">"I sent word to the Rune-Belt. To the Motted Paw city of RiverSong, in the heart of the basin. I asked for a hundred ghosts."</span> He paused, letting the word settle. <span class="speech">"The ghosts are bats. Flicker-attuned, five-meter wingspan, named for their ability to manipulate light and achieve optical camouflage, much like the Tide Wolves. They are silent. They are fast. And the Motted Paws have learned their language. They communicate through bone vibration—a resonant frequency that travels through the hollow chambers of their bodies—and we speak to them through drums. We have reared them for millennia. We use them to hunt in the basin, to defend our cities atop the jade trees, to watch the shadows where the light of the Steadfast cannot reach."</span>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">He looked at Toren, then at Vasha, then at Maren. "RiverSong is built atop the jade trees—fifteen-meter refulgent hardwoods whose aura adaptation makes them hard as rock and shining, a defense against the optic camouflage of the belt's predators. The Motted Paws have lived there since before the pact. We have kept the old ways. We have kept the old alliances. And we have sent a hundred ghosts to the capital, because the capital is where the king lies, and the king is the White Dawn, and the White Dawn must be protected."</p>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">Another silence. Then Maren spoke. Her voice was quiet, almost gentle, the voice of a Shadow Paw who had killed many times and taken no pleasure in any of it. "I sent word to Xhilva. The Shadow Paw city. It is located in the deep south of the Rune-Belt, where the canopy is dense and the light of the Steadfast barely reaches the floor. It is built into a cave—the only cave of its kind in the entire belt—and its location is a secret. Revealing it is punished by death. I am not revealing it now. I am only telling you that I sent word there, and that Xhilva answered."</p>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">She paused. "I asked for a hundred shadow riders. They ride a variant of the Tide Wolves that lives only in the deep south. The wolves are larger than their belt cousins. Stronger. Their fur is dense and black, and they have no optical camouflage. Instead, they carry the shadow flare—a remnant of what the Black Fire did to the southern belt, five thousand years ago. The First Tyrant's parasitic fire marked those wolves forever. They can engulf themselves in it at will. The Shadow Paws train from cubhood to withstand the fire without dying. It is a mirror of what the lord of the desert does to the Bright Paws in the capital—the same slow burn, the same relentless pressure, the same forging of weakness into strength."</p>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">She raised her lacquered claws and set them gently on the table. "A hundred shadow riders. A hundred ghosts. Fifty-five Woh riders. The elders did not authorize any of this. The generals did not plan for any of this. And the Humman army does not know it is coming. The Humman army thinks it is marching on a capital defended by five hundred exhausted warriors and twelve ornamental cannons. The Humman army is wrong."</p>
-</div>
-
-The war drums began to pound outside. The first rays of sunlight touched the sand before the northern gate. And the Council of the Untrustworthy sat in their windowless chamber, their faces lit from below by the amber glow of the rune-glass filaments, and they did not smile. They had done what they were designed to do. They had acted when the elders could not. They had saved the capital—or they had doomed it. They would find out which before the sun reached its zenith.
-
-<div class="dialogue-block">
-<p class="speech-line">Vasha rose from her chair. "The battle is starting. We should go to the war room. The regent will want to know what is coming."</p>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">"The regent will want to know why we did not tell her sooner," <span class="speech-attr">Toren said.</span></p>
-</div>
-
-<div class="dialogue-block">
-<span class="speech">"The regent will understand,"</span> Vasha replied. <span class="speech">"The regent understands many things. That is why she is the regent."</span> She walked toward the door, and the others followed, and the Council of the Untrustworthy went to war.
-</div>
-
 The Hall of the Untrustworthy was a small, windowless chamber beneath the Great Hall, its walls lined with rune-glass filaments that pulsed with soft amber light. The table at its center was round. The five members sat in their accustomed places, their faces lit from below by the amber glow, their shadows stretching long and distorted across the stone walls.
 
 The war drums had not yet begun. The first rays of dawn had not yet touched the sand. But the council had known for three weeks that the Humman army was coming, and they had not been idle.
+Vasha of the Stripe Paws sat at the head of the table—not because she had been appointed, but because she had arrived first on the very first day and claimed the seat with the cold confidence of someone who had once audited her own cousin's caravan ledgers over a discrepancy of three copper coins. Maren of the Shadow Paws, the coin master, sat across from her, her lacquered claws tapping a slow, steady rhythm against the stone.
+
+Elyra's apprentice—a young Motted Paw named Sylen, still learning the art of silent observation—sat at the far end of the table, his silver aura flickering faintly. Toren, the old Bright Paw scribe who had been volunteered for this council because no one else wanted the position, sat hunched over a scroll, his golden mane faded to white.
 
 The Silk-Weaver—his name was Kellan, though no one ever used it—sat as far from Vasha as the table allowed. His hands were trembling. He had been trembling since the Humman army was sighted, since he realized that his own people were marching on the capital, that he was trapped in a room with four Wengari who had every reason to kill him. He was not a spy. He was not a diplomat. He was a merchant who had drawn the short straw.
 
@@ -356,7 +231,7 @@ Kellan was silent for a long moment. His hands had stopped trembling. His face w
 </div>
 
 <div class="dialogue-block">
-<span class="speech">"I am telling you,"</span> Vasha said, <span class="speech">"that the Humman King thinks he is attacking a wounded city with no reinforcements. He is wrong. The elders did not authorize any of this. The generals did not plan for any of this. The regent does not know about any of this. But the intelligence networks worked exactly as the king designed them to work. And your people are about to learn what the Wengari truly are."</span>
+<span class="speech">"I am telling you,"</span> Vasha said, <span class="speech">"that the Humman king thinks he is attacking a wounded city with no reinforcements. He is wrong. The elders did not authorize any of this. The generals did not plan for any of this. The regent does not know about any of this. But the intelligence networks worked exactly as the king designed them to work. And your people are about to learn what the Wengari truly are."</span>
 </div>
 
 The war drums began to pound outside. The first rays of sunlight touched the sand before the northern gate. And the Council of the Untrustworthy sat in their windowless chamber, their faces lit from below by the amber glow of the rune-glass filaments.

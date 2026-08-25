@@ -8,7 +8,7 @@ And then she saw the third wave.
 
 Four hundred scorpion riders. The entire remaining vanguard of the Humman army, stretching across the horizon in a sea of iridescent shells and gleaming claws. Behind them, the Amuks were forming a line, their great tusked forms swaying in unison, their eight-legged strides eating up the distance between the desert and the gate. The Tide Wolf cavalry was circling to the east, fifty massive wolves with riders in striped armor, waiting for the moment when the gate would fall and the slaughter would begin.
 
-*We can't win against four hundred. We barely survived fifty.*
+'We can't win against four hundred. We barely survived fifty.'
 
 The thought was cold and clear and utterly without panic. Sera had been an assassin for decades. She had learned to count enemies before she learned to read. She knew when a battle was winnable and when it was not. This battle was not winnable. Not with twenty warriors. Not with the cannons still recharging. Not with the hawks and the killer claws already spent.
 
@@ -26,7 +26,7 @@ The scorpions were climbing now, their great claws finding purchase in the ancie
 
 But the cannons were not reloaded. The Pyrinae sorcerers were still chanting, their rune-glass staves humming with stored energy, but the runic sequences took time—twenty minutes between shots, if the wind was favorable, if the sorcerers were skilled. Only two cannons fired. One missed entirely, its white-hot blast carving a useless furrow in the empty sand. The other struck the flank of the third wave, vaporizing fifty riders in a cone of light. Fifty gone. Three hundred and fifty remained.
 
-The scorpions reached the wall. They began to climb, their claws punching through the ancient stone, their riders clinging to their backs. The Bright Paw guards on the parapets fell back, their spears useless against the armored carapaces. Irek was among them—the young Bright Mane soldier who had watched the first wave die with hope in his heart was now watching the third wave crest the wall, and his spear was shaking in his hands.
+The scorpions reached the wall. They began to climb, their claws punching through the ancient stone, their riders clinging to their backs. The Bright Paw guards on the parapets fell back, their spears useless against the armored carapaces. Irek was among them—the young Brightmane soldier who had watched the first wave die with hope in his heart was now watching the third wave crest the wall, and his spear was shaking in his hands.
 
 Then the Pyrinae sorcerers began to chant. A different chant this time—not the deep, resonant hum of the rune cannons, but something older, something colder. The rune-glass staves along the wall began to glow with a pale blue light, and a sheet of ice spread across the ancient stone. It was not natural ice. It was sorcery—water pulled from the desert air, flash-frozen by runic sequences that the Pyrinae had perfected over three thousand years of serving the Wengari.
 
@@ -46,7 +46,7 @@ The second volley struck the Pyrinae sorcerers. Nefere's chanters had been maint
 
 Sera stood at the gate, her lacquered claws still dripping, her ruined face lit by the glow of the burning wall. The third wave was three hundred and fifty strong. The Amuks were reloading. The Tide Wolves were circling. The cannons were silent. The hawks were spent. The killer claws were dead.
 
-*We cannot hold.*
+'We cannot hold.'
 
 <div class="dialogue-block">
 <p class="speech-line">But she was a Shadow Paw. She had been trained to hold impossible positions. She raised her claws and shouted, her voice carrying across the chaos, "ELITE UNIT! TO THE BREACH! WE HOLD THE GATE OR WE DIE AT THE GATE! THERE IS NO RETREAT!"</p>

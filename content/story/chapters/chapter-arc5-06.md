@@ -134,32 +134,6 @@ The war room was silent. The pillars of fire were still burning in the distance,
 
 On the northern wall, M'rak stood amid the aftermath of the fire pillars and tried to breathe. Five Wohs remained healthy. Five. Out of twenty. The others were dead—consumed by the columns of flame that had erupted from the sand, their natural plate armor no defense against whatever sorcery the Hummans had unleashed. The Wengari riders who had been caught in the blasts were dead alongside them. The sand where the pillars had risen was still smoking, still glowing faintly with the residual heat, patches of it fused into rough, blackened glass.
 
-M'rak stared at those patches, and something stirred in the back of his mind.
-
-The knot in his stomach tightened. He had seen something like this before. Not the weapon itself—the weapon was new, or old, or both. But the aftermath. The glass. The way the sand had melted and fused. The way the fire had consumed the Wohs' plate armor as if it were paper. He had heard a story. An old story, from the border wars, from the veterans who had fought in the last great campaign before the pact was renewed.
-
-A story about the Fifth Tyrant. A story about Velarius Vane. But the memory would not surface. It hovered at the edge of his thoughts, familiar and terrible and just out of reach.
-
-<div class="dialogue-block">
-In the Humman command tent, Mekhmed was smiling. It was not a pleasant smile. <span class="speech">"Serves them right. Stupid brutes. Did you see the way they just stood there? They thought they had won. They thought we were finished."</span> He shook his head slowly, his jeweled fingers tapping against the campaign table. <span class="speech">"They don't know what we have. They don't know what we've been keeping."</span>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">The generals stood in their loose semicircle, their faces pale. Tamsin was gone—relieved of command, escorted from the tent by guards who had looked at the floor rather than meet her eyes. The remaining generals were younger, less experienced, more afraid of their king than they were of the enemy. One of them—a nervous man with a scar across his cheek—spoke up. "Your Wealthiness... what was that? We were not briefed on any weapon of that magnitude. The scorpions were rigged with—"</p>
-</div>
-
-<div class="dialogue-block">
-<span class="speech">"Something Velarius left for a time like this."</span> Mekhmed's smile widened. <span class="speech">"The Fifth Tyrant was a monster, but he was our monster. And he left us many things. Some of them are still useful."</span>
-</div>
-
-The generals stared at him. The scarred man opened his mouth, then closed it. No one spoke. The war drums pounded on outside, low and patient, but the tent was very still. Velarius Vane had been dead for five hundred years. His Plague had lasted sixty-five. The Scar still pulsed with light on certain nights. And his king was smiling about it.
-
-A rider on a Tide Wolf was approaching the city at full gallop. The wolf was a massive beast, its dark fur matted with sweat, its great legs eating up the distance between the desert and the gate. The rider on its back was a Stripe Paw—a young female, her striped mane streaming behind her, her golden eyes fixed on the burning wall. She had ridden ahead of the second wave. She had been sent to deliver a message.
-
-The Woh riders had arrived. The ghosts were coming. The shadow riders were coming. The western garrison and the eastern garrison and the southern forces were converging on the capital. The message was: hold. Hold a little longer. The dawn was coming, and the Wengari were not yet finished.
-
-On the northern wall, M'rak stood amid the aftermath of the fire pillars and tried to breathe. Five Wohs remained healthy. Five. Out of twenty. The others were dead—consumed by the columns of flame that had erupted from the sand, their natural plate armor no defense against whatever sorcery the Hummans had unleashed. The Wengari riders who had been caught in the blasts were dead alongside them. The sand where the pillars had risen was still smoking, still glowing faintly with the residual heat, patches of it fused into rough, blackened glass.
-
 M'rak stared at those patches, and something stirred in the back of his mind. A memory. A story. Something about the Fifth Tyrant. Something about Velarius Vane. But the thought would not surface. It hovered at the edge of his consciousness, familiar and terrible and just out of reach.
 
 <div class="dialogue-block">
@@ -187,7 +161,7 @@ As the rider drew closer, the defenders could make out more details. The rider w
 Tamsin stumbled from the saddle of the Tide Wolf, her scarred hands raised high above her head, her dark eyes wild with desperation. She had ridden through the Humman lines, past the remnants of the scorpion vanguard, past the shattered Amuks, past the still-smoking craters where the suicide scorpions had detonated. No one had tried to stop her. Perhaps they had not recognized her. Perhaps they had recognized her and let her go.
 
 <div class="dialogue-block">
-<p class="speech-line">"SOMEONE IN COMMAND! SOMEONE IN COMMAND! I'M TAMSIN, GENERAL OF THE HUMANS! PLEASE, YOU MUST SAVE US! HE HAS—HE HAS VELARIUS MADNESS!"</p>
+<p class="speech-line">"SOMEONE IN COMMAND! SOMEONE IN COMMAND! I'M TAMSIN, GENERAL OF THE HUMMANS! PLEASE, YOU MUST SAVE US! HE HAS—HE HAS VELARIUS MADNESS!"</p>
 </div>
 
 M'rak's face lost its color. The memory that had been stirring at the edge of his thoughts since the fire pillars erupted snapped into place with terrible clarity. The glassed sand. The ten-meter columns of flame. The way the Wohs' plate armor had melted like wax. He had heard the old veterans describe it. He had seen the illustrations in the border garrison's archives. Plague weapons. The Fifth Tyrant's arsenal.

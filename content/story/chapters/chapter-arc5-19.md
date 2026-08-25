@@ -1,45 +1,5 @@
 ## Chapter 19: 12:02 — Ajani Throws The Spear
 
-<div class="dialogue-block">
-Ajani says <span class="speech">"crap"</span> and flies up in the sky the white spear in his hand then he throws it with all his might the spear divides and surrounds the creature it stops looking at ajani it spouts it's acid barbs , but the ghosts intercept them five die and Yvaria yells <span class="speech">"PROTECT HIS HIGHNESS"</span> ajani begins scribbling on the grimoire and shouts <span class="speech">"I NEED FIVE MINUTES BUY ME FIVE MINUTES!!!"</span>  on the ground zephyr says <span class="speech">"you heard him, charge!!!"</span> The tide wolves wreathe themselves in fire and charge at the creature the golden cloaks fly and surround it erecting their golden wall ajani finishes one page he tears it, it floats with a red light he begins chanting <span class="speech">"Spirit of fire from the east, giver of life and taker of life, this humble sorcerer beseeschs you take from me and answer my plea, be made manifest and answer my plea, I call to thee IFRIT!"</span> as soon as he finishes chanting a fire serpent appears in his arm constricting him, and the fire copy of the spear burst into flames they take the form of a fire wengari and begin attacking the creature it's now 12:02
-</div>
-
-Ajani didn't wait for an answer. He launched himself into the sky, the golden wings snapping open from his back, the white spear of the Pyrinae already materializing in his grip. The creature was a league away—close enough that he could see the purple orbs pulsing where its eyes should have been, close enough that he could smell the charnel reek of its body, close enough that the green acid barbs it had fired at the Wohs could reach him in seconds.
-
-He threw the spear with everything he had. It split in midair—one became two, two became four, four became five—the five spears of the Pyrinae gift, each one blazing with a different elemental fury. Fire, water, light, darkness, earth. They surrounded the creature in a perfect pentagon, their points aimed inward, their shafts humming with contained power. The creature stopped. Its massive head swiveled, tracking the spears, and its purple eyes flickered with something that might have been recognition.
-
-Then it opened its maw and fired.
-
-<div class="dialogue-block">
-<p class="speech-line">The acid barbs shot upward in a volley of green death—the same barbs that had dissolved the Wohs, the same poison that had melted Wengari flesh from bone. Ajani was still aloft, still scribbling in the grimoire with one paw while the other maintained the spears. He could not dodge. The ghosts were already moving. Yvaria's drums beat a frantic, desperate rhythm, and the remaining ghosts dove—not to attack the creature, not to harry its flanks, but to put their bodies between the barbs and their king. The barbs struck them in midair. Five ghosts died instantly, their five-meter wingspans dissolving into green mist, their riders falling. Yvaria's voice cracked with fury and grief as she screamed into the communication shell. "PROTECT HIS HIGHNESS! THE GHOSTS ARE HIS SHIELD! PROTECT HIM!"</p>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">Ajani did not look up from the grimoire. His claws were moving faster than they had ever moved, tracing runic circles and elemental sigils with the precision L'vat had beaten into him in the marshes. "I NEED FIVE MINUTES! BUY ME FIVE MINUTES!"</p>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">On the ground, Zephyr heard him. The young Shadow Paw commander raised his lacquered claws and shouted to his riders. "YOU HEARD HIM! CHARGE! THE WHITE DAWN NEEDS FIVE MINUTES! WE GIVE HIM FIVE MINUTES!" The black Tide Wolves wreathed themselves in shadow fire and surged toward the creature, their riders crouched low, their claws gleaming. They had already charged once and been driven back. They knew the creature's wounds would heal. They charged anyway.</p>
-</div>
-
-Solen raised his spiked mace, and the twenty Golden Cloaks rose with him. Their light pillars blazed with the last reserves of their ancient power—the final stand they had been saving for the evacuation. They flew in a tight formation, surrounding the creature, and the golden wall erupted from their bodies. It was not the dome that had enclosed the city. It was a cage—a cylinder of golden light that trapped the creature within its circumference, pressing inward, restricting its movement.
-
-The creature screamed and hammered against the barrier. The light wall cracked. The Golden Cloaks held.
-
-Ajani finished the first page. He tore it from the grimoire, and the paper floated before him, its runes blazing with red light. He began to chant. The words were old—older than the Wengari, older than the pact, older perhaps than the lord of the desert itself. L'vat had taught him this. The green deaths of the marsh had been his classroom, but the old root had also given him books, ancient texts salvaged from the ruins of civilizations that had fallen before the Tyrants walked.
-
-<div class="dialogue-block">
-<p class="speech-line">"Spirit of fire from the east, giver of life and taker of life, this humble sorcerer beseeches you—take from me and answer my plea. Be made manifest and answer my plea. I call to thee—IFRIT!"</p>
-</div>
-
-A serpent of fire coiled into existence around his right arm. It was not a Wengari. It was not a creature of flesh and blood. It was fire given form and will—a spirit of the old world, summoned from whatever realm the ancient sorcerers had bound it to. It tightened around Ajani's arm, and he felt his aura draining into it, felt the creature feeding on his strength. The five spears still surrounding the black creature burst into flame.
-
-The fire spread along their shafts, consuming the other elements, and the spears themselves began to twist and reshape. They merged. They grew. And from the heart of the fire, a form emerged—a Wengari made of living flame, towering nearly as tall as the creature itself. The Ifrit had taken a shape it understood. A warrior. A king. A weapon.
-
-It hurled itself at the black creature, and the two titans collided. The Golden Cloaks' barrier shattered. The shadow riders pulled back, their wolves panting, their riders staring. The ghosts hovered in the sky, their drums silent. And Ajani, still aloft on his golden wings, his aura draining into the Ifrit, his grimoire still open in his paw, watched the fire spirit and the black creature tear into each other above the shattered wall.
-
-It was 12:02 in the morning—noon, the seventh day of the Month of Storms, in the first year of the reign of Ajani Brightmane. The White Dawn had bought five minutes. The battle for the capital was not yet over.
-
 Ajani didn't wait for an answer. He launched himself into the sky, the golden wings snapping open from his back, the white spear of the Pyrinae already materializing in his grip. The creature was a league away—close enough that he could see the purple orbs pulsing where its eyes should have been, close enough that he could smell the charnel reek of its body, close enough that the green acid barbs it had fired at the Wohs could reach him in seconds.
 
 He threw the spear with everything he had. It split in midair—one became two, two became four, four became five—the five spears of the Pyrinae gift, each one blazing with a different elemental fury. Fire, water, light, darkness, earth. They surrounded the creature in a perfect pentagon, their points aimed inward, their shafts humming with contained power. The creature stopped. Its massive head swiveled, tracking the spears, and its purple eyes flickered with something that might have been recognition.

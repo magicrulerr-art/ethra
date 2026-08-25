@@ -1,6 +1,6 @@
 # Chapter 5: The Great War
 
-*47,706 words across 22 chapters*
+*39,674 words across 22 chapters*
 
 ### 05:25 — Vasha Storms In
 
@@ -60,7 +60,7 @@ It was 11:35 in the morning, and the wall was about to learn what horror meant. 
 
 ### 11:40 — M'rak Yells Clear
 
-The black thing approaches slowly as if it couldn't quite control it's body, M'rak yells "ALL CANNONS FIRE!!!! FIRE THE RAY!!!! NOW!!! " all the rune cannons the 16 of they fire with such a big target...
+The black thing approached slowly, its eight legs dragging through the sand as if it could not quite control its own limbs. Each step was ponderous and uneven, the creature's massive body swaying from...
 
 ### 11:50 — Vows Are Absolved
 
@@ -72,11 +72,11 @@ It was 11:55 in the morning, and the legend had answered....
 
 ### 11:59 — Nefere Fires
 
-The light walk begins to crack, then it breaks Nefere yells "FIRE" an impossibly hot beam of light cleaves trough the sand it hits the creature dead center, it screams and sizzles the beam seems to be...
+The light wall cracked. A fissure ran across its golden surface like lightning across glass, and the creature on the other side screamed in triumph. Its chitinous claws hammered against the barrier, e...
 
 ### 12:02 — Ajani Throws The Spear
 
-Ajani says "crap" and flies up in the sky the white spear in his hand then he throws it with all his might the spear divides and surrounds the creature it stops looking at ajani it spouts it's acid ba...
+Ajani didn't wait for an answer. He launched himself into the sky, the golden wings snapping open from his back, the white spear of the Pyrinae already materializing in his grip. The creature was a le...
 
 ### 12:03 — Cefiro Arrives
 
@@ -88,5 +88,5 @@ It was 12:04 in the afternoon. The elemental avatars were giants. The city was c
 
 ### 12:06 — The White Dawn Wakes
 
-Ajani tores a fifth page, deep gold runes adorn it and he chants visibily strained "Golden Spirit from the deep, the one who guards the gate, keeper of riches untold, this humble sorcerer beseeschs yo...
+Ajani reached for the fifth page. His left arm was still coiled by the fire serpent, his neck still ringed in ice, his left leg still swirling with tiny white stars, his right shoulder still pierced b...
 

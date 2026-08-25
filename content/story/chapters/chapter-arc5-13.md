@@ -27,7 +27,3 @@ The wolves dissolved, absorbed, and the black mass pulsed with new strength. It 
 The remaining Plague orbs—the two that were still intact, still hovering above the battlefield—began to move. They were drawn toward the black mass, pulled by some invisible force, their violet light flickering and dying as they approached. They merged with the mass, and the mass grew larger, darker, more terrible. The black flame that the shadow riders had carried through the net flickered in response, as if recognizing something ancient and hostile.
 
 It was 11:20 in the morning. The shadow riders were at the gate. The wall was broken. The king was still unconscious. And something that had been waiting for this moment since the First Tyrant fell was rising from the ashes of the Humman camp.
-
-<div class="dialogue-block">
-<p class="speech-line">At the wall, the black thing took shape before them: a giant eight-legged creature with purple orbs in the place where its eyes would be. M'rak asked everyone present, "Any idea what that is?"—his voice trembling, betraying his calm demeanor. Yvaria said, "I don't care what it is, we kill it." Zephyr said, "Open the gates for the humans, don't give it more food"—but no one got to finish the speech. The black thing rose, sixteen meters high, looked at the wall, screamed, and shot green barbs from its mouth. They hit the Woh who fell to the ground writhing, dissolving into green goo pools.</p>
-</div>

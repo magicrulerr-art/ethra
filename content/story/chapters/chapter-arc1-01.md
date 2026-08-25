@@ -1,7 +1,7 @@
 ## Chapter 1: The White Dawn
 
 <div class="dialogue-block">
-<p class="speech-line">'seven years, has it been that long?, I remember it like it was yesterday, I wonder how is father doing, I heard last year wasnt a good year, I wanted to see the ocean... perhaps ill be able to after I speak with father L'vat is here, as promised, i wonder why does he want me to perform the ritual today? I must make haste to father, ah there are the guards', "Hail the lightbringer, Hail the light that shines upon us all"</p>
+<p class="speech-line">'seven years, has it been that long?, I remember it like it was yesterday, I wonder how is father doing, I heard last year wasn't a good year, I wanted to see the ocean... perhaps I'll be able to after I speak with father L'vat is here, as promised, I wonder why does he want me to perform the ritual today? I must make haste to father, ah there are the guards', "Hail the Lightbringer, Hail the light that shines upon us all"</p>
 </div>
 
 
@@ -13,7 +13,7 @@ The guards—two Bright Paw veterans in ceremonial armor—snap to attention at 
 </div>
 
 
-The arena stirs again. The Shadow Paws in the northern tiers murmur to one another. The Stripe Paws thump their tails against the stone in a slow, rhythmic beat—an ancient gesture of respect for a returning warrior. The Pyrinae Hydromancers incline their heads, their rune-glass staves pulsing with a faint, curious light as Ajani passes. The humman merchants scribble furiously.
+The arena stirs again. The Shadow Paws in the northern tiers murmur to one another. The Stripe Paws thump their tails against the stone in a slow, rhythmic beat—an ancient gesture of respect for a returning warrior. The Pyrinae Hydromancers incline their heads, their rune-glass staves pulsing with a faint, curious light as Ajani passes. The Humman merchants scribble furiously.
 
 
 The Lament does not move. Its multifaceted eyes track Ajani across the sand, but it offers no gesture, no hum, no sign of acknowledgment. Its silence is absolute.
@@ -34,7 +34,7 @@ Your move, Ajani.
 
 
 <div class="dialogue-block">
-<p class="speech-line">'The sun rises and the shadows grow long.... thats why l'vat wanted me here, could he not have said just that? ive lived with them for a year and he still cant speak plainly..., father is wanning, he cant maintain the ritual any longer....I must become Uthgard' - "Take me to him, at once!"</p>
+<p class="speech-line">'The sun rises and the shadows grow long.... that's why l'vat wanted me here, could he not have said just that? I've lived with them for a year and he still can't speak plainly..., father is waning, he can't maintain the ritual any longer....I must become Uthgard' - "Take me to him, at once!"</p>
 </div>
 
 
@@ -71,7 +71,7 @@ The door waited, its runes dark. Beyond it, somewhere in the silence, a king was
 
 
 <div class="dialogue-block">
-<p class="speech-line">*Ive never been here, but somehow i know what to do', "The Spear is the king... the sword is the gentle man... the saber is the tiger...the staff is the grandfather", 'Ah theyre opening*</p>
+<p class="speech-line">'I've never been here, but somehow I know what to do', "The Spear is the king... the sword is the gentle man... the saber is the tiger...the staff is the grandfather", 'Ah they're opening'</p>
 </div>
 
 
@@ -111,7 +111,7 @@ Outside, in the arena, the Lament turned its head toward the palace. Its multifa
 
 
 <div class="dialogue-block">
-<p class="speech-line">'the doors just closed behind me... spooky, i should kneel, seems appropiate', "Father, Keeper of the light, Warrior amongst Warrior, the one who gives up his name to serve the wengari, this humble son has returned, tell me, how can the son serve the wengari?"</p>
+<p class="speech-line">'the doors just closed behind me... spooky, I should kneel, seems appropriate', "Father, Keeper of the light, Warrior amongst Warriors, the one who gives up his name to serve the Wengari, this humble son has returned, tell me, how can the son serve the Wengari?"</p>
 </div>
 
 

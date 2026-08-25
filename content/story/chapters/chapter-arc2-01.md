@@ -3,7 +3,7 @@
 
 
 <div class="dialogue-block">
-<p class="speech-line">'what day is it?, whos he?... a the priest!, t'van', "Raise your head T'van, Ajani please, when you say my king i look behind my back for my father, Ill answer what I can and what i know, announce me please, then go to sleep, that is an order"</p>
+<p class="speech-line">'what day is it?, who's he?... a the priest!, T'van', "Raise your head T'van, Ajani please, when you say my king I look behind my back for my father, I'll answer what I can and what I know, announce me please, then go to sleep, that is an order"</p>
 </div>
 
 
@@ -51,7 +51,7 @@ The chamber erupted. The Shadow Paws growled. The Stripe Paws thumped their tail
 
 
 <div class="dialogue-block">
-<p class="speech-line">'ok... i see everyone is here.. lets get this done so i can sleep too, i should sit on the throne, that seems appropriate, father always said if they see your fur bristle you're as good as dead', "Brothers, Esteemed elders, you have summoned me, The king, tell me in which way can i serve the wengari?"</p>
+<p class="speech-line">'ok... I see everyone is here.. let's get this done so I can sleep too, I should sit on the throne, that seems appropriate, father always said if they see your fur bristle you're as good as dead', "Brothers, Esteemed elders, you have summoned me, the king, tell me in which way can I serve the Wengari?"</p>
 </div>
 
 
@@ -93,8 +93,8 @@ The chamber fell utterly silent. The Stripe Paws stopped thumping their tails. T
 </div>
 
 
-<div class="dialogue-block">
-<p class="speech-line">'kareth, an old general i believe... the shadow paws blunt as always, at least he is to the point', "Brother, I must be honest until a week ago I wasnt sure myself of what I was, you know ive been absent for the last years, I travelled, and found myself on the marshes, In there I found a dying lament, he was burning up with aura and i saved him, He allowed me to talk with a someone, or perhaps, something is the right word, Brother, what im about tell you, can not leave this room, so please have every non wengari leave, and only the elders, the chiefs and their heir remains, ill wait"</p>
+<div class="dialogue-block>
+<p class="speech-line">'kareth, an old general I believe... the Shadow Paws blunt as always, at least he is to the point', "Brother, I must be honest until a week ago I wasn't sure myself of what I was, you know I've been absent for the last years, I travelled, and found myself on the marshes, In there I found a dying lament, he was burning up with aura and I saved him, He allowed me to talk with a someone, or perhaps, something is the right word, Brother, what I'm about to tell you, cannot leave this room, so please have every non-Wengari leave, and only the elders, the chiefs and their heir remains, I'll wait"</p>
 </div>
 
 
@@ -117,7 +117,7 @@ He tapped his obsidian staff once against the floor, and the other elders murmur
 
 
 <div class="dialogue-block">
-<p class="speech-line">'ok here it goes...", "Brothers , my father's last works spoken to me were that I was indeed the white dawn...he confirmed to me himself I am...the heir of the first not only in name but spirit"</p>
+<p class="speech-line">'ok here it goes...', "Brothers, my father's last words spoken to me were that I was indeed the White Dawn...he confirmed to me himself I am...the heir of the First not only in name but spirit"</p>
 </div>
 
 
@@ -149,7 +149,7 @@ Kareth stiffened. The Stripe Paws exchanged glances. The Bright Paws leaned forw
 
 
 <div class="dialogue-block">
-<p class="speech-line">"I would be a fool not to be elder Nyasha, but what I have to say to you, please I beseech you, do not judge our forefathers too harsh and follow me into the inner chamber ....where the third vanished , you must know what it means to be a bright paw, and what the third did, and what we must do now...."</p>
+<p class="speech-line">"I would be a fool not to be Elder Nyasha, but what I have to say to you, please I beseech you, do not judge our forefathers too harsh and follow me into the inner chamber... where the Third vanished, you must know what it means to be a Bright Paw, and what the Third did, and what we must do now..."</p>
 </div>
 
 
@@ -189,7 +189,7 @@ One by one, the other chiefs and heirs rose. The Shadow Paws, wary but unwilling
 </div>
 
 
-'i hope the tree doesn't kill anyone' -"careful elders, the steps are steep the air gets thin, if anyone doesn't feel strong to go on, grab my hand"-'just a bit of aura should do' -"Once we are in the inner most chamber please do not touch anything no matter what you see or hear"
+'I hope the tree doesn't kill anyone' — 'careful elders, the steps are steep, the air gets thin, if anyone doesn't feel strong to go on, grab my hand' — 'just a bit of aura should do' — 'once we are in the innermost chamber, please do not touch anything no matter what you see or hear'
 
 
 The descent was slow. The spiral stair had been carved by the Lightbringer's own sorcery three thousand years ago, and the steps were worn smooth by centuries of royal footfalls—but only ever one set at a time. No king had brought an entourage into the inner chamber. No king had dared.
@@ -218,7 +218,7 @@ The amber pool rippled. The blossom stirred. The Tree was listening.
 
 
 <div class="dialogue-block">
-<p class="speech-line">'ok...please don't kill anyone', "this is the crime of the lightbringer, this is the truth, what you see here is the lord of the desert, we all live and die under his shadow the true king, with whom Uther brokered piece....with whom every king has payed in blood for our glory, have you ever wondered why only the strongest among us can live in the capital ?"</p>
+<p class="speech-line">'ok...please don't kill anyone', "this is the crime of the Lightbringer, this is the truth, what you see here is the lord of the desert, we all live and die under his shadow the true king, with whom Uther brokered peace....with whom every king has paid in blood for our glory, have you ever wondered why only the strongest among us can live in the Capital?"</p>
 </div>
 
 
@@ -250,21 +250,6 @@ She turned to Ajani. <span class="speech">"You said you were the heir of the Fir
 </div>
 
 
-<div class="dialogue-block">
-<p class="speech-line">'well it's not as bad as I thought, no one is dead yet' , "you misunderstand something my brothers, first of all the lord of desert does not take our weak, they die by their own hand, it is known only the strong survive here , it's even coded into our lives, however cruel the lord of the desert has made us the strongest race on Ethra, who can best a wengari in single combat ?, what race hasn't felt our claws and fangs ?, what race doesn't kill our cubs on sight out of fear ?"</p>
-</div>
-
-
-<div class="dialogue-block">
-Kareth, the old general, the scarred Shadow Paw who had served three kings and buried two of them, let out a sound that might have been a laugh or might have been a snarl. It echoed through the chamber, strange and sharp in the green-lit darkness. <span class="speech">"The boy king speaks truth,"</span> he said, turning to the other elders. <span class="speech">"What race can best a Wengari in single combat? None. What race hasn't felt our claws? None. We are feared. We are respected. We are the strongest."</span> He tapped his obsidian staff against the stone. <span class="speech">"And now we know why. The lord of the desert has been sharpening us. For three thousand years, it has been sharpening us. Killing the weak. Forging the strong. Turning us into weapons."</span>
-</div>
-
-
-<div class="dialogue-block">
-Zara, the Stripe Paw chief, was not so easily placated. <span class="speech">"You say the Tree does not kill the weak. You say they die by their own hand. But the Tree creates the conditions that kill them. The air. The water. The very soil. It does not wield the blade, but it sharpens the blade that falls."</span> Her claws were still extended, her massive frame still trembling. <span class="speech">"My mother did not choose to die, Ajani. She chose to come here, to trade, to negotiate, to serve her people. And this place—"</span> She gestured at the roots, the blossom, the amber pool. <span class="speech">"This place killed her. Call it what you will. The crime remains."</span>
-</div>
-
-
-<div class="dialogue-block">
-Nyasha, who had been silent since her last words, spoke again. <span class="speech">"The crime remains,"</span> she agreed. <span class="speech">"But the young king is right about one thing. We are the strongest. We have survived where others would have perished. The Tree has been our crucible."</span> She turned her ancient eyes toward Ajani. <span class="speech">"The question is not whether we are strong. The question is whether we will continue to be strong under the same terms. You said you offered the Tree something new. A road. A partnership. The Deep. What did the Tree say in return? What did it demand? And what did you give it, Ajani Brightmane, that your father could not?"</span>
+<div class="dialogue-block>
+<p class="speech-line">'well it's not as bad as I thought, no one is dead yet', "you misunderstand something my brothers, first of all the lord of the desert does not take our weak, they die by their own hand, it is known only the strong survive here, it's even coded into our lives, however cruel the lord of the desert has made us the strongest race on Ethra, who can best a Wengari in single combat?, what race hasn't felt our claws and fangs?, what race doesn't kill our cubs on sight out of fear?"</p>
 </div>

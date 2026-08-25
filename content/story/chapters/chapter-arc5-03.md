@@ -53,43 +53,7 @@ Nefere stood on the eastern post of the northern wall, her ancient frame silhoue
 The third wave was about to crash against the gate.
 
 <div class="dialogue-block">
-<p class="speech-line">She raised her rune-glass mirror. It was a small thing, no larger than her palm, its surface shimmering with a pale, silver light. She had carried it with her since the capital was founded, since the Pyrinae first pledged their service to the Bright Paws three thousand years ago. She had never used it. She had hoped she would never need to use it. She spoke into the mirror, her ancient voice calm and steady despite the chaos around her. "Is everyone in position?"</p>
-</div>
-
-<div class="dialogue-block">
-A crackle of static. Then a voice—a young Pyrinae sorcerer, her words clipped and urgent. <span class="speech">"South front in position."</span> Another voice, older, rougher. <span class="speech">"North front in position."</span> A third, barely more than a whisper. <span class="speech">"West front in position."</span>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">Nefere closed her eyes. The four cardinal points of the capital, each anchored by a Pyrinae sorcerer with a mirror like hers, each one waiting for the signal that would either save the city or doom it. She planted her rune-glass staff on the stone and spoke a single word. "Begin chanting."</p>
-</div>
-
-The rune formation began to appear over the city. It started as a faint shimmer in the air above the palace, a ring of pale golden light that pulsed once, twice, and then steadied into a slow, rotating circle. A second ring appeared below it, smaller, spinning in the opposite direction. Then a third. Then a fourth. The rings began to rotate faster, their light intensifying, and the Wengari below—the soldiers on the walls, the wounded in the courtyards, the terrified civilians huddled in the Bright Paw temple—stared up at the sky with expressions of wonder and dread.
-
-Solen recognized it. The old High Priest had been kneeling in the temple sanctuary, his golden mane still dusty from the frantic ride back from the water hole, his ancient heart still heavy with the guilt of the armor. He had looked up when the first ring appeared, and he had known immediately what it was. The light shield. He had seen it on the temple walls, carved into the ancient reliefs that depicted the Lightbringer's greatest works—the forging of the pact, the building of the hanging gardens, the raising of the capital from the desert stone.
-
-It was ancient sorcery, older than the Pyrinae, older than the Wengari, a gift from the lord of the desert in the days when the pact was new and the Golden Sun still walked among them. He whispered the name under his breath, and the Wengari around him took up the whisper, and the whisper became a murmur that spread through the temple like ripples in still water.
-
-The golden dome bathed the city. It descended from the rotating rings like a curtain of light, a hemisphere of hard, shimmering gold that enclosed the capital from the northern gate to the southern wall, from the eastern barracks to the western gardens. The scorpions on the wall screeched and fell back, their claws smoking where the light touched them. The Amuk artillery fired again, and the fireballs crashed against the dome and scattered into nothing.
-
-The Wengari inside the city cheered—a ragged, desperate roar of relief that echoed through the streets and courtyards and up to the burning walls.
-
-<div class="dialogue-block">
-<p class="speech-line">Nefere did not cheer. She stood on the eastern post, her rune-glass mirror still pressed to her ear, her clouded eyes fixed on the rotating rings above her. The light shield was beautiful. It was also fragile. It was also temporary. She raised the mirror again. "How long?"</p>
-</div>
-
-<div class="dialogue-block">
-A crackle of static. Then the voice of the southern sorcerer, quieter now, almost apologetic. <span class="speech">"One hour. Perhaps an hour and a half, if the wind holds and the sun stays high. And then—"</span> A pause. <span class="speech">"And then never. The mirrors will burn out. The sequence cannot be repeated. We have one hour, Regent. One hour to hold the city. After that, the light shield will fall, and it will never rise again."</span>
-</div>
-
-Nefere lowered the mirror. The golden dome shimmered above her, beautiful and doomed, and the scorpions were still massing at the gate. One hour. Perhaps an hour and a half. The reinforcements were coming, but they were still out in the desert, still riding, still flying, still surging toward the capital with all the speed they could muster. One hour. She had to hold for one hour. She planted her staff on the stone and began to chant.
-
-Nefere stood on the eastern post of the northern wall, her ancient frame silhouetted against the burning sky. The fireballs from the Amuk artillery had stopped falling—the Hummans were repositioning, preparing for the final assault that would breach the gate—but the wall was still smoking, and the bodies of the fallen still lay where they had been struck. Below her, the scorpions were massing again. Three hundred and fifty of them, their iridescent shells catching the climbing sun, their claws clicking against the stone in a restless, hungry rhythm.
-
-The third wave was about to crash against the gate.
-
-<div class="dialogue-block">
-<p class="speech-line">She raised her rune-glass mirror. It was a small thing, no larger than her palm, its surface shimmering with a pale, silver light. It had been passed from High Speaker to High Speaker since the time of the Third Tyrant, entrusted to each new bearer with the same words: *You will never use this unless the capital itself is in danger. If that day comes, you will know what to do.* Nefere had carried it for forty years, since the day her predecessor pressed it into her young paws and told her to keep it close. She had never used it. She had hoped she would never need to use it. She spoke into the mirror, her ancient voice calm and steady despite the chaos around her. "Is everyone in position?"</p>
+<p class="speech-line">She raised her rune-glass mirror. It was a small thing, no larger than her palm, its surface shimmering with a pale, silver light. It had been passed from High Speaker to High Speaker since the time of the Third Tyrant, entrusted to each new bearer with the same words: "You will never use this unless the capital itself is in danger. If that day comes, you will know what to do." Nefere had carried it for forty years, since the day her predecessor pressed it into her young paws and told her to keep it close. She had never used it. She had hoped she would never need to use it. She spoke into the mirror, her ancient voice calm and steady despite the chaos around her. "Is everyone in position?"</p>
 </div>
 
 <div class="dialogue-block">
@@ -168,7 +132,7 @@ They did not understand what was wrong. They only knew that their imprinted mast
 
 The dome boomed. Kira flinched.
 
-She was six years old again. She was standing in the rubble of the west wall, her dark fur caked with dust, her small paws bleeding from the broken stone. The Wallbreaker beetle was roaring somewhere in the distance, and her mother's hands—her mother's strong, calloused armorsmith's hands—were pressing a crust of bread into her paws. *Stay here. Stay hidden. Don't make a sound. I'll be back. I'll be back.*
+She was six years old again. She was standing in the rubble of the west wall, her dark fur caked with dust, her small paws bleeding from the broken stone. The Wallbreaker beetle was roaring somewhere in the distance, and her mother's hands—her mother's strong, calloused armorsmith's hands—were pressing a crust of bread into her paws. "Stay here. Stay hidden. Don't make a sound. I'll be back. I'll be back."
 
 Her mother had not come back. Her father had not come back. The wall had collapsed, and the beetles had come through, and she had hidden in the rubble for two days before anyone found her. She had been six years old. She had been alone.
 

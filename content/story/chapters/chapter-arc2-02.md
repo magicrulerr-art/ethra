@@ -1,12 +1,27 @@
 ## Chapter 2: The Confession
 
 <div class="dialogue-block">
-Nyasha, who had been silent since her last words, spoke again. <span class="speech">"The crime remains,"</span> she agreed. <span class="speech">"But the young king is right about one thing. We are the strongest. We have survived where others would have perished. The Tree has been our crucible."</span> She turned her ancient eyes toward Ajani. <span class="speech">"But you did not bring us here merely to confess the Lightbringer's sin. You could have told us the truth in the council chamber, and we would have believed you—or not—and the world would have continued as it always has. Instead, you brought us to the heart of the crime itself. To the lord of the desert. To the true king."</span> She gestured at the pulsing roots, the silent blossom, the amber pool. <span class="speech">"Why? What is it you want from us, Ajani Brightmane? Not as subjects. Not as elders. As Wengari. What do you want?"</span>
+Kareth, the old general, the scarred Shadow Paw who had served three kings and buried two of them, let out a sound that might have been a laugh or might have been a snarl. It echoed through the chamber, strange and sharp in the green-lit darkness. <span class="speech">"The boy king speaks truth,"</span> he said, turning to the other elders. <span class="speech">"What race can best a Wengari in single combat? None. What race hasn't felt our claws? None. We are feared. We are respected. We are the strongest."</span> He tapped his obsidian staff against the stone. <span class="speech">"And now we know why. The lord of the desert has been sharpening us. For three thousand years, it has been sharpening us. Killing the weak. Forging the strong. Turning us into weapons."</span>
 </div>
 
 
 <div class="dialogue-block">
-<p class="speech-line">'ok... So good, so far' , "I brought you here because the lord of the desert isn't the only one, while I was in the marsh I met the lord of the marsh, I trained under him, and he showed me exactly what the pact was, our weak did not start dying until the pact was broken , before the desert was a veritable oasis wasn't it ? There are tales of our cities all over the desert, of stripes paw caravans that extended as far as the eye could see and of shadow paw assasins that shaped the world, of the motted paw shamans who could Commune with the Styx, the reason all that is gone is because we failed to upkeep the pact that the lightbringer made with the lord of the desert... This flower here, it's how the Lord speaks, and it is also the reason why kings of the past have failed, I've brought you here so you can see for yourselves and if you so desire, speak against the pact or forge one of your own, my pact with the lord is my own, and it won't be a wengari pact unless you all are part of it, elders and heirs"</p>
+Zara, the Stripe Paw chief, was not so easily placated. <span class="speech">"You say the Tree does not kill the weak. You say they die by their own hand. But the Tree creates the conditions that kill them. The air. The water. The very soil. It does not wield the blade, but it sharpens the blade that falls."</span> Her claws were still extended, her massive frame still trembling. <span class="speech">"My mother did not choose to die, Ajani. She chose to come here, to trade, to negotiate, to serve her people. And this place—"</span> She gestured at the roots, the blossom, the amber pool. <span class="speech">"This place killed her. Call it what you will. The crime remains."</span>
+</div>
+
+
+<div class="dialogue-block">
+Nyasha, who had been silent since her last words, spoke again. <span class="speech">"The crime remains,"</span> she agreed. <span class="speech">"But the young king is right about one thing. We are the strongest. We have survived where others would have perished. The Tree has been our crucible."</span> She turned her ancient eyes toward Ajani. <span class="speech">"The question is not whether we are strong. The question is whether we will continue to be strong under the same terms. You said you offered the Tree something new. A road. A partnership. The Deep. What did the Tree say in return? What did it demand? And what did you give it, Ajani Brightmane, that your father could not?"</span>
+</div>
+
+
+<div class="dialogue-block">
+Nyasha, who had been silent since her last words, spoke again. <span class="speech">"The crime remains,"</span> she agreed. <span class="speech">"But the young king is right about one thing. We are the strongest. We have survived where others would have perished. The Tree has been our crucible."</span> She turned her ancient eyes toward Ajani. <span class="speech">"But you did not bring us here merely to confess the Lightbringer's sin. You could have told us the truth in the council chamber, and we would have believed you—or not—and the world would have continued as it always has. Instead, you brought us to the heart of the crime itself. To the lord of the desert. To the true king."</span> She gestured at the pulsing roots, the silent blossom, the amber pool. <span class="speech">"Why? What is it you want from us, Ajani Brightmane? Not as subjects. Not as elders. As Wengari. What do you want?"</span>
+</div>
+
+
+<div class="dialogue-block>
+<p class="speech-line">'ok... So good, so far', "I brought you here because the lord of the desert isn't the only one, while I was in the marsh I met the lord of the marsh, I trained under him, and he showed me exactly what the pact was, our weak did not start dying until the pact was broken, before the desert was a veritable oasis wasn't it? There are tales of our cities all over the desert, of Stripe Paw caravans that extended as far as the eye could see and of Shadow Paw assassins that shaped the world, of the Motted Paw shamans who could Commune with the Styx, the reason all that is gone is because we failed to upkeep the pact that the Lightbringer made with the lord of the desert... This flower here, it's how the Lord speaks, and it is also the reason why kings of the past have failed, I've brought you here so you can see for yourselves and if you so desire, speak against the pact or forge one of your own, my pact with the lord is my own, and it won't be a Wengari pact unless you all are part of it, elders and heirs"</p>
 </div>
 
 
@@ -46,8 +61,8 @@ One by one, the other chiefs and heirs bent their heads. Zara, the Stripe Paw, h
 The amber pool rippled. The blossom stirred. The Tree was listening. And for the first time since the Lightbringer vanished, the Wengari were united—not under a Tyrant, not under a lie, but under a king who had given them the truth and asked them to choose.
 
 
-<div class="dialogue-block">
-<p class="speech-line">*now....for the real test', "the pact isn't with me, it's with the lord of the desert, and he must choose you and accept your offer, what you say it's between you and the lord, however I warn you, If your heart isn't steeled and your aura isn't strong you will perish, and each wengari here must do so, both the elders and the heirs, for we will not break faith again", 'please, please, dont kill any of the old fools...*</p>
+<div class="dialogue-block>
+<p class="speech-line">'now....for the real test', "the pact isn't with me, it's with the lord of the desert, and he must choose you and accept your offer, what you say it's between you and the lord, however I warn you, if your heart isn't steeled and your aura isn't strong you will perish, and each Wengari here must do so, both the elders and the heirs, for we will not break faith again", 'please, please, don't kill any of the old fools...'</p>
 </div>
 
 
@@ -70,14 +85,6 @@ Nyasha, who had already spoken more in this chamber than she had in three decade
 
 
 She stepped toward the blossom, and the other elders parted before her like water before a stone. The amber pool rippled. The roots pulsed. The Tree was waiting.
-
-
-Yes. Kareth should go first.
-
-
-It also fits the Wengari ethos. The Shadow Paws are the family of the Black Fire. They are proud, fierce, and deeply aware of their own history. Kareth would not let an elder face the unknown alone. And if that elder is Nyasha—respected, ancient, a living repository of Wengari history—then Kareth's decision to step forward is not merely pride. It is an act of protection. A declaration that the Shadow Paws will not let others bear the risk first.
-
-A step toward reclaiming the honor his family lost five thousand years ago.
 
 
 Nyasha had taken only two steps toward the blossom when Kareth's voice cut through the chamber like a blade.
@@ -118,47 +125,6 @@ The amber pool swirled. The roots pulsed. And then, slowly, a single petal unfur
 
 
 Kareth picked up the petal with trembling claws and stepped back. The Shadow Paw elders let out a breath they had been holding for five thousand years.
-
-
-**The Montage**
-
-
-One by one, the elders and heirs of the Wengari stepped forward.
-
-
-<div class="dialogue-block">
-Zara, the Stripe Paw chief, did not speak of trade or caravans. She spoke of her mother, who had died in the capital, drained by the Tree's hunger. She spoke of the cubs who would never know their grandmother. And she offered the Tree something it had never been offered before: forgiveness. <span class="speech">"I do not know if you understand the word,"</span> she said, her voice cracking. <span class="speech">"But I will not carry this anger anymore. Take it. Feed on it. Let it be the first tithe of a new pact."</span> The blossom released a second petal—darker than the first, edged with silver—and Zara caught it with a paw that did not tremble.
-</div>
-
-
-The Bright Paw heir, a young golden-maned warrior named Solen who had been Ajani's childhood rival, stepped forward with the arrogance of youth and the terror of inadequacy. He spoke of his fear—that he would never be as strong as his father, that the Bright Paws had grown soft under the Tree's protection, that the green fire Ajani wielded was something he could never hope to match. And the Tree, ancient and patient, accepted his fear as an offering. A third petal fell, pale gold.
-
-
-The Motted Paw representatives came as a pair—two elders so alike they might have been twins, their spotted coats blending into the shadows. They spoke together, their voices weaving a harmony that had not been heard since the old days, when the Motted Paws were the shamans who communed with the Styx. They offered the Tree their silence—the centuries of watching, of waiting, of keeping the old knowledge alive while the other families forgot.
-
-And the Tree, which had been silent for three thousand years, accepted their silence as a gift. Two petals fell, pale silver, twinned.
-
-
-<div class="dialogue-block">
-A Shadow Paw cub—no more than ten years old, the youngest heir present—stepped forward when no one expected her to. She was small for her age, her dark fur still soft with youth, her eyes wide with terror. But she stood before the blossom and spoke in a voice that barely rose above a whisper. <span class="speech">"I don't know what to offer,"</span> she said. <span class="speech">"I'm just a cub. I haven't done anything yet. But I can learn. I can grow. I can be whatever the Wengari need me to be."</span> And the Tree, ancient and patient and hungry, accepted the offering of a child who had not yet been shaped by the world. A fifth petal fell, smaller than the others, but bright as a promise.
-</div>
-
-
-When it was done, twelve Wengari had stood before the Tree. Twelve petals had fallen. No one had died. No one had been rejected. The amber pool was still, the blossom was silent, and the elders and heirs of the five families stood in a loose semicircle around the heart of the Kyre Tree, their paws full of petals, their hearts full of something they had not felt in three thousand years.
-
-
-Hope.
-
-
-<div class="dialogue-block">
-Kareth, still holding his petal, turned to Ajani. <span class="speech">"It is done,"</span> he said, his voice hoarse with exhaustion and emotion. <span class="speech">"The Wengari have made their pacts. What happens now?"</span>
-</div>
-
-
-And the Tree, silent for so long, spoke—not in words, but in a pulse of green light that filled the chamber and resonated in the bones of every Wengari present. A single thought, clear as a bell: *Now you keep them.*
-
-
-**The Montage, Corrected**
 
 
 Zara, the Stripe Paw chief, stepped forward first after Kareth. Her massive frame blocked the blossom's light, casting a long shadow across the amber pool. She did not speak of trade or caravans. She spoke of her mother, who had died in the capital, drained by the Tree's hunger. She spoke of the cubs who would never know their grandmother. And she offered the Tree something it had never been offered before: forgiveness.
@@ -211,10 +177,15 @@ And the Tree, silent for so long, spoke—not in words, but in a pulse of green 
 
 
 <div class="dialogue-block">
-<p class="speech-line">"I will not ask, what your pacts were, those are for your own families, but I will reveal my own, I promised to build a great corridor from the marshes to the desert, all before the next tide, in 50 years, this is a task I can't accomplish alone, it is a task we wengari can't complete on our own, and yet will do so, and may the light help whoever stands in our way, this is the way of the strong, this the burden of the bright paw, THIS IS THE WENGARI WAY, MY BROTHERS WHO ARE WE?!"</p>
+<p class="speech-line">"I will not ask, what your pacts were, those are for your own families, but I will reveal my own, I promised to build a great corridor from the marshes to the desert, all before the next tide, in 50 years, this is a task I can't accomplish alone, it is a task we Wengari can't complete on our own, and yet will do so, and may the light help whoever stands in our way, this is the way of the strong, this the burden of the Bright Paw, THIS IS THE WENGARI WAY, MY BROTHERS WHO ARE WE?!"</p>
 </div>
 
 
 <div class="dialogue-block">
 <p class="speech-line">The chant began with Kareth. The old general, his scarred face lit by the green glow of the Kyre Tree, raised his obsidian staff and slammed it against the stone. "THE WENGARI!" he roared, his rough voice echoing through the chamber like a battle cry.</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Zara took up the call. Her massive frame seemed to swell, her striped mane bristling, her claws extended toward the unseen ceiling. "THE WENGARI!"</p>
 </div>

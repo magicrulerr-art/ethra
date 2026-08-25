@@ -1,11 +1,5 @@
 ## Chapter 4: The Tree's Judgment
 
-It was cold. Not the cold of desert night, but the cold of deep water, of ancient roots, of something that had learned patience in a place where the sun never reached. A tendril of green fire coiled around her left paw—so faint, so subtle, that even she barely felt it until it pulled.
-
-
-Not hard. Not violently. Just a precise, inexorable pressure on the tendons, on the joint, on the precise point where biomechanics dictated that her leg must bend. She did not choose to kneel. She did not decide to kneel. Her body simply obeyed, as if the laws of physics had been rewritten for this single moment, and the only permitted motion was descent.
-
-
 Her right knee hit the sand. Then her left. She stared at the ground, her striped mane hanging limp, her claws still retracted, her breath coming in short, sharp gasps. She did not know what had happened. She had felt something—a cold thread wrapping around her paw, a whisper of green fire that smelled of marsh water and old stone—but it was gone before she could name it. To everyone else in the arena, she had knelt.
 
 The defiant mercenary, the Stripe Paw who sold her claws to the highest bidder, had bowed before the White Dawn.
@@ -23,7 +17,7 @@ And the king, still seated on his throne, his claws resting on the cold stone, m
 
 
 <div class="dialogue-block">
-<p class="speech-line">*good' - "Guards, please remove our sister, shes feeling I'll, as for the human, the ambassador can stay, the others do so at their own peril", 'and just a little touch of eye flare, father always said that gave the hummans the creeps*</p>
+<p class="speech-line">'good' — "Guards, please remove our sister, she's feeling ill, as for the Humman, the ambassador can stay, the others do so at their own peril" — 'and just a little touch of eye flare, father always said that gave the Hummans the creeps'</p>
 </div>
 
 
@@ -83,7 +77,7 @@ The claw tap stopped.
 
 
 <div class="dialogue-block">
-<p class="speech-line">"how laughable, does the sun stop in the sky for the flowers humman ?, does the Styx stop hunting because the razor hares find it inconvenient?, since when do the prey feel confident enough to ask the predator for assurances ?!" <span class="speech-attr">- 'this is hard, I want to laugh, how did father did this for so many years ?'</span></p>
+<p class="speech-line">"how laughable, does the sun stop in the sky for the flowers, Humman? Does the Styx stop hunting because the razor hares find it inconvenient? Since when do the prey feel confident enough to ask the predator for assurances?!" <span class="speech-attr">— 'this is hard, I want to laugh, how did father do this for so many years?'</span></p>
 </div>
 
 
@@ -109,7 +103,7 @@ She spread her empty hands. <span class="speech">"That is my offer. That is my c
 
 
 <div class="dialogue-block">
-<p class="speech-line">*laugh now, booming', "Hahaha, what makes you believe the wengari even need you hummans ?, how many loads can you carry ? , how many days can you endure, you couldn't even take ten steps, but I do concede you have your uses, so here is my proposal, take your most trusted aides,your best guilds, swear allegiance to us, become honorary wengari, and you can share our wealth I'll even let you deal with your race on our behalf, but your guilds and aides stay here in our capital, it's that or we simply erase you from the map, so, ambassador?" - 'and now, smile with all the teeth*</p>
+<p class="speech-line">'laugh now, booming' — "Hahaha, what makes you believe the Wengari even need you Hummans? How many loads can you carry? How many days can you endure? You couldn't even take ten steps. But I do concede you have your uses, so here is my proposal: take your most trusted aides, your best guilds, swear allegiance to us, become honorary Wengari, and you can share our wealth. I'll even let you deal with your race on our behalf, but your guilds and aides stay here in our capital. It's that or we simply erase you from the map. So, ambassador?" — 'and now, smile with all the teeth'</p>
 </div>
 
 
@@ -141,7 +135,7 @@ She was silent for a long moment. The desert wind stirred the sand at her knees.
 
 
 <div class="dialogue-block">
-<p class="speech-line">"Hahahaha, fight ?, even our weakest cub can beat the best humman, but no, my terms I clear I said your best, you have until sundown, now leave"</p>
+<p class="speech-line">"Hahahaha, fight? Even our weakest cub can beat the best Humman. But no, my terms are clear. I said your best. You have until sundown. Now leave"</p>
 </div>
 
 
@@ -185,7 +179,7 @@ The Hydromancer stopped at the center of the sand, exactly where the Humman amba
 
 
 <div class="dialogue-block">
-<p class="speech-line">*Raise and eyebrow, father say they are like children, they aren't malicious just....naive', "esteemed friends, I salute you, the Pyrinae and the wengari have been friends since the times of the third, and I appreciate you like our cubs appreciate water on the heavy days, speak to me without flattery, for are we not friends ?" - 'now walk to them and extend a hand, whoever grips, make sure he kneels*</p>
+<p class="speech-line">'Raise an eyebrow, father says they are like children, they aren't malicious just...naive' — "esteemed friends, I salute you, the Pyrinae and the Wengari have been friends since the times of the Third, and I appreciate you like our cubs appreciate water on the heavy days, speak to me without flattery, for are we not friends?" — 'now walk to them and extend a hand, whoever grips, make sure he kneels'</p>
 </div>
 
 
@@ -211,7 +205,7 @@ The Root-Speaker, still cowled and silent, raised one hand. The air in the arena
 
 
 <div class="dialogue-block">
-<p class="speech-line">*oh, this is new, I can use this, smile' , "let's drop the act, I could kill every single one of you right now and walk out of here like nothing happened, yet... That wouldn't help me or you, the old one can stay, the rest of your, scram" , 'now back to the throne*</p>
+<p class="speech-line">'oh, this is new, I can use this, smile' — "let's drop the act, I could kill every single one of you right now and walk out of here like nothing happened, yet... That wouldn't help me or you, the old one can stay, the rest of you, scram" — 'now back to the throne'</p>
 </div>
 
 
@@ -228,14 +222,4 @@ The Hydromancer remained where she stood, her embedded rune-glass pulsing with s
 
 <div class="dialogue-block">
 <p class="speech-line">She stepped closer to the throne, her bare feet silent on the warm stone. "You asked us to speak without flattery. I will honor that request. The Pyrinae have been patient for three thousand years, but patience is not passivity. We have been watching you since the moment you returned from the marshes. We saw you enter the Tree's chamber. We felt the pact renew. We heard the Styx cry and the Lament sing and the chant of your people echoing through the roots of the ancient one. We know what you are, Ajani Brightmane. We have always known. We have been waiting for you since the Lightbringer vanished."</p>
-</div>
-
-
-<div class="dialogue-block">
-She stopped at the foot of the throne's dais, her clouded eyes level with his. <span class="speech">"The question is not whether we will follow you. The question is whether you will let us follow you as we are, or whether you will demand that we become something else. The Hummans are bargaining for their survival. The Veylar are watching for signs of tyranny. The Threx are loyal because L'vat told them to be. But the Pyrinae—"</span> She placed her hand over her heart, the rune-glass filaments in her flesh pulsing with amber light. <span class="speech">"The Pyrinae are your memory. We know what the Lightbringer intended. We know what the pact was meant to be. We know that the road you have promised is not merely a corridor for the Tree's roots, but a bridge between the ancient ones, a restoration of something that was broken before the Wengari ever walked this desert."</span> She extended her hand, palm up, toward the throne. <span class="speech">"Tell us what you need, White Dawn. Not as a king to his subjects. Not as a predator to his prey. As a friend to the memory that has waited three thousand years to serve."</span>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">"do you think me a fool?, three thousands years waiting to serve? Did father ever fall for such lofty words?, I might be a young king, but I am king, you either treat me with respect or your race dies Tonight, don't make me repeat myself"</p>
 </div>

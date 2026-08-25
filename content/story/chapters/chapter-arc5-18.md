@@ -1,9 +1,5 @@
 ## Chapter 18: 11:59 — Nefere Fires
 
-<div class="dialogue-block">
-The light walk begins to crack, then it breaks Nefere yells <span class="speech">"FIRE"</span> an impossibly hot beam of light cleaves trough the sand it hits the creature dead center, it screams and sizzles the beam seems to be working the creature stops the beam carves it through the middle it's seems it's about to cleave it in half but then the tower explodes the beam dies , the creature postrated on the ground begins to regenerate, the golden cloaks fall back to M'rak, solen says <span class="speech">"we can only erect the wall one more time, well give you time to evacuate the city"</span> it's 11:59
-</div>
-
 The light wall cracked. A fissure ran across its golden surface like lightning across glass, and the creature on the other side screamed in triumph. Its chitinous claws hammered against the barrier, each blow sending fresh fractures spider-webbing through the ancient radiance. The Golden Cloaks braced themselves, their light pillars flickering, their golden armor blazing with the last reserves of their power.
 
 But the creature had been pounding against the wall for four minutes, and the wall was breaking. With a sound like the shattering of a world, the light wall fell. The golden radiance dissolved into a shower of dying sparks, and the creature stepped through, its purple eyes blazing, its eight legs churning the sand.
@@ -84,10 +80,6 @@ Ajani did not speak. He reached into the air and the grimoire was there—the Mo
 
 <div class="dialogue-block">
 <p class="speech-line">He turned to Kira. "Do you want to follow?" Kira nodded so fast her dark mane bounced. Cefiro reached into the white fur of his chest and produced a scroll, old and yellowed, its edges singed. He read from it—a short phrase in the old tongue, the one the Snow Paws had preserved in ice—and bubbles began to form in the air around them. They enveloped Kira and the scorpions, Cefiro and the unconscious forms of Vex and Lira, lifting them gently from the stone floor. The bubbles rose and drifted toward the balcony, and then they were outside, following the golden trail of Ajani's wings toward the shattered wall. It was noon. The White Dawn was awake. And the creature was still coming.</p>
-</div>
-
-<div class="dialogue-block">
-Ajani lands on the wall shouting <span class="speech">"STATUS STATUS, SOMEONE TELL ME WHAT ON EARTH IS THAT"</span> we hear awed whispers <span class="speech">"his highness"</span> Al around solen turns to ajani and quickly kneels when the others seem to follow ajani roars <span class="speech">"LESS KNEELING AND MORE TALKING!!!"</span>
 </div>
 
 The golden wings folded and vanished as Ajani's boots hit the shattered stone of the rampart. The white Styx crown was still on his head, its flames burning steady and bright. The pearly breastplate still molded to his chest. The fire beetle bracers still clasped his forearms. He looked like something out of the old tales—the Lightbringer reborn, the White Dawn returned—and for a moment, every Wengari on the wall simply stared at him.

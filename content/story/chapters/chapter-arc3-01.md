@@ -75,7 +75,7 @@ Somewhere in the capital, the Stripe Paw merchants were already counting their l
 
 
 <div class="dialogue-block">
-<p class="speech-line">"T'vat call for the elder council of the Stripe Paws, now please "</p>
+<p class="speech-line">"T'van call for the elder council of the Stripe Paws, now please "</p>
 </div>
 
 

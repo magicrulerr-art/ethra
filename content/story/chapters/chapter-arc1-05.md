@@ -1,27 +1,9 @@
 ## Chapter 5: The Four Pillars
 
-The voice grew quieter, almost contemplative.
-
-
-*"I do not desire worship. I am not a god. I am old. I am patient. I am hungry. And I am lonely."*
-
-
-The word hung in the air, strange and unexpected. Lonely. The Kyre Tree, the ancient horror of the desert, the hunger beneath the sand—lonely.
-
-
-*"The Deep speaks to its children. The Sea Marsh sings to the Auruchs. The Abyssal Heart dreams with the Veylar. But I... I have only the Wengari. And the Wengari do not speak to me. They fear me. They feed me. They use my gifts and call it their glory. The Lightbringer was the last to speak to me as you are speaking now. The last to look upon me and see not a god or a monster, but a being. A partner."*
-
-
-The roots trembled. The amber pool shimmered.
-
-
-*"You offer me a corridor. A road through the Rune-Belt. A way to extend my roots beyond this desert, to taste new soil, to feel the sun on leaves that grow in another land. You offer me... expansion. Growth. Change. These are things I have not known since the Lightbringer vanished."*
-
-
 The blossom drew back, and the voice hardened—not with anger, but with the slow, grinding weight of a decision being made.
 
 
-*"But the Rune-Belt is not yours to give. The Rune-Belt belongs to the wolves and the lotus, to the hummans and the Stripe Paws, to the Pyrinae and the Threx. A road of my roots would disrupt that land. It would feed on its energy. It would change the balance of power among the races in ways even I cannot foresee. The Deep desires this corridor. But does the Rune-Belt desire it? Do the races who dwell there desire it?"*
+*"But the Rune-Belt is not yours to give. The Rune-Belt belongs to the wolves and the lotus, to the Hummans and the Stripe Paws, to the Pyrinae and the Threx. A road of my roots would disrupt that land. It would feed on its energy. It would change the balance of power among the races in ways even I cannot foresee. The Deep desires this corridor. But does the Rune-Belt desire it? Do the races who dwell there desire it?"*
 
 
 The pool rippled, and the image shifted again—this time showing the Rune-Belt, its forests and grasslands, its Tide Wolves and Lotus Blooms, its Wengari nomads and Humman caravans. And then, slowly, roots began to creep into the image. Green shoots pushing through the soil. The landscape transforming.
@@ -66,7 +48,7 @@ The root withdrew. The spear's green light faded, leaving only the soft amber gl
 The passage behind Ajani began to glow with a warm, golden light—the light of the Bright Paw legacy, guiding him back to the surface. The Tree's blossom slowly closed, its work complete. And somewhere far above, in the arena of the sun, the Lament began to hum a song that had not been heard since the Lightbringer vanished: a song of beginnings, of hope, of the road that would soon stretch from the desert to the sea.
 
 
-The kyrie tree gave the equivalent of a long held breath, a release of tension that had been coiling for three thousand years.
+The Kyre Tree gave the equivalent of a long held breath, a release of tension that had been coiling for three thousand years.
 
 
 *"Before you go... there is something you must see. I told you I despise the one who dwells in the Rune-Belt. I told you he is ancient. I did not tell you why."*
@@ -89,28 +71,33 @@ The image faded, and the Tree's voice dropped to a whisper.
 
 The passage glowed brighter. The roots withdrew. And the Tree fell silent, its ancient consciousness retreating into the depths of the desert, leaving the young king alone with his thoughts and the long climb back to the light.
 
+The rumble began deep beneath the chamber, a seismic groan that vibrated through the roots and the stone and the very air. Dust sifted from the ceiling. The amber pool rippled, then stilled. The blossom closed completely, its petals folding inward like a fist releasing its grip on the world.
 
-The Tree is not a mentor. It is not a friend. It is not even an ally in any conventional sense. It is ancient, patient, hungry, and utterly indifferent to Ajani's hopes, his people's survival, or the fate of the Bright Paw legacy. It accepted the Lightbringer's pact because it was advantageous. It will accept Ajani's offer because it sees profit in a road. But it does not care if Ajani succeeds or fails—only that the terms are met. And if they are not, the consequences will be absolute.
+And then, from above, came the sounds.
 
+A roar—not of any beast Ajani had ever heard, but something deeper, older, more resonant. It was answered by another, and another, until the air itself seemed to shake with the chorus. Beneath the roars, a higher sound: the panicked shouts of Wengari, the clatter of rune-glass staves as the Pyrinae scrambled, the distant thunder of Stripe Paw tails beating against stone in alarm or awe. And beneath even that, a single, sustained note—the Lament's hum, no longer soft and patient, but triumphant, ecstatic, a song of recognition.
 
-Let me rewrite the Tree's final exchange with Ajani.
+The passage before Ajani blazed with golden light, and he climbed. The stairs seemed shorter now, the air warmer, the weight of the Tree's presence receding with every step. When he emerged into the Chamber of Reflection, his father was waiting. Uthgard IX stood—stood, despite the centuries and the withered hand and the dying light within him—with his eyes fixed on the passage and his good hand pressed against his heart.
 
-
-*The green spear blazed, and the roots recoiled. Then, slowly, they leaned in once more. The amber pool rippled—not with wonder, not with hope, but with calculation. The Tree had not survived for millions of years by hoping. It had survived by taking.*
-
-
-*"You speak for the Deep. You carry its mark. You offer a road—a corridor through the Rune-Belt, where my roots have never been permitted to grow. You offer expansion. Growth. New soil. New prey. These are things I desire. These are things I will accept."*
-
-
-*The pool grew still.*
+<div class="dialogue-block">
+<span class="speech">"Ajani."</span> His voice was hoarse, barely a whisper. <span class="speech">"What did you do?"</span>
+</div>
 
 
-*"But the Rune-Belt is not yours to give. It belongs to another. One who dwells in its heart. One who has been there since before your kind learned to speak. You know of him. You know the Deep and I despise him, though you do not know why. You wish to broker a pact with him, as you broker a pact with me now. This is... ambitious. The Lightbringer attempted this. He failed. Velarius woke him. And now he stirs."*
+But before Ajani could answer, the sound came again—that roar, closer now, shaking the very walls of the palace. Uthgard's eyes widened. He knew that sound. He had heard it only once before, centuries ago, when he was young and the world was still full of mysteries.
 
 
-*A single root extended from the blossom—thin, dark, thorned. It touched the tip of Ajani's green spear, and the chamber grew cold.*
+<div class="dialogue-block">
+<span class="speech">"The Styx,"</span> he breathed. <span class="speech">"The Styx are here."</span>
+</div>
 
 
-*"I accept your offer, Ajani Brightmane. The pact is renewed. But it is not renewed as it was. The tithe is ended. The rituals are ended. You will build the road. You will give me access to the Rune-Belt. You will do this before the next Crimson Tide. And if you fail—if the road is not built, if the one in the forest refuses your pact, if your White Dawn fire gutters and dies before the work is done—then the old pact ends.
+He looked at his son—not as a king regarding his heir, but as a father seeing something impossible.
 
-The gardens wither. The wells run dry. The Bright Paws perish. I do not say this as a threat. I say this as a fact. I am old. I am patient. I am hungry. And I will not wait another three thousand years for a partner who cannot deliver."*
+
+<div class="dialogue-block">
+<p class="speech-line">"They have not come to the capital since the Lightbringer vanished. Ajani... what did the Tree give you?"</p>
+</div>
+
+
+And then the doors of the palace above burst open, and a Wengari herald—a young Bright Paw with a voice cracking with terror and wonder—shouted into the depths:

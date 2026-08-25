@@ -1,5 +1,15 @@
 ## Chapter 6: Foreign Delegations
 
+<div class="dialogue-block">
+She stopped at the foot of the throne's dais and raised her eyes to the king. <span class="speech">"I am old, Ajani Brightmane. I have perhaps three years left, perhaps five. I will spend them doing what I have always done: watching, listening, remembering. But I will do it for you now. Not for the Bright Paws. Not for the pact. For you."</span> She inclined her head—a slow, deliberate gesture that was almost a bow, but not quite. Almost a promise, but not quite. Something in between. <span class="speech">"When the Hummans make their first move against you, I will know. When their guilds begin to scheme, I will know. When their ambassador writes letters to Verdantis that she does not wish you to see, I will know. And I will tell you. This is my aid. Humble, as you say. But it is what I can offer."</span>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">She straightened, and the faintest smile crossed her weathered face. "I will warn you, though. You have given me cities. You have given me trade. You have given me the first real hope the Pyrinae have had in three thousand years. If you die on this road before I do, I will be very annoyed. Do not die on this road." She turned and walked toward the eastern gate, her rune-glass filaments dimming as she passed into the shadows of the colonnade, leaving the king alone with the setting sun and the spear still quivering in the stone.</p>
+</div>
+
+
 T'van appeared at the arena's edge, his breath short, his shaved mane slick with sweat. He had been running since dawn—carrying messages, summoning delegations, managing the chaos of a capital that had suddenly become the center of the world. His voice, when he found it, was hoarse but steady.
 
 
@@ -13,7 +23,7 @@ T'van appeared at the arena's edge, his breath short, his shaved mane slick with
 </div>
 
 
-'a veylar, I've never seen one' -"Please send her in t'vat"
+'a Veylar, I've never seen one' — "Please send her in, T'van"
 
 
 T'van bowed and vanished into the shadows of the eastern gate, his hurried footsteps echoing through the empty arena. For a long moment, there was only silence and the distant cry of the white Styx circling far above.
@@ -37,7 +47,7 @@ She stopped at the center of the arena, exactly where the other delegations had 
 
 
 <div class="dialogue-block">
-<p class="speech-line">"Sylara of the veylar, warden of the tides, this humble king salutes the only race who hasn't been bested by the glory of the wengari, please speak, how can this king help the veylar?" <span class="speech-attr">-'she does smell like salt.. humid,  nothing like us'</span></p>
+<p class="speech-line">"Sylara of the Veylar, Warden of the Tides, this humble king salutes the only race who hasn't been bested by the glory of the Wengari. Please speak, how can this king help the Veylar?" <span class="speech-attr">— 'she does smell like salt... humid, nothing like us'</span></p>
 </div>
 
 
@@ -55,7 +65,7 @@ Sylara inclined her head. Her fin-ridges rippled faintly, tasting the air, readi
 
 
 <div class="dialogue-block">
-<p class="speech-line">"I know about the thing that dwells within the belt, but I do not know how to face him yet, what I do know, with certainty is that if we build the road before the next tide, we will weather the blight, imagine a corridor that spans the continent...perhaps are the veylar interested in extending the road to their shores?"</p>
+<p class="speech-line">"I know about the thing that dwells within the Belt, but I do not know how to face him yet. What I do know, with certainty, is that if we build the road before the next Tide, we will weather the Blight. Imagine a corridor that spans the continent... perhaps the Veylar are interested in extending the road to their shores?"</p>
 </div>
 
 
@@ -86,7 +96,7 @@ She raised the Petal-Shell, and its light brightened until it cast shimmering re
 
 
 <div class="dialogue-block">
-<p class="speech-line">"well I am afraid to learn that you would need to stay, and even if your offer is gratious, we don't need help either I am offering a hand in friendship, and you have just quite literally spat on it, the blight will come for us all, they grew larger since the fourth tyrant, and they have never skipped a tide... I know you know if we don't unite, we will dwindle"</p>
+<p class="speech-line">'well, I am afraid to learn that you would need to stay, and even if your offer is gracious, we don't need help either. I am offering a hand in friendship, and you have just quite literally spat on it. The Blight will come for us all. They grew larger since the Fourth Tyrant, and they have never skipped a Tide... I know you know, if we don't unite, we will dwindle'</p>
 </div>
 
 
@@ -99,7 +109,7 @@ Sylara's fin-ridges went very still. The iridescent shimmer of her skin, which h
 
 
 <div class="dialogue-block">
-She stepped closer to the throne, her webbed feet leaving delicate impressions in the sand, and the Petal-Shell in her hands pulsed brighter. <span class="speech">"But you are right about one thing. The Blight will come. They have grown larger since the Fourth Tyrant. They have never skipped a Tide. And if the surface races do not unite—if the Wengari and the Pyrinae and the Hummans and the Veylar and the Threx and every other thinking being on Ethra do not stand together—the Chi'Thak will devour us all."</span> She paused, her luminous eyes searching Ajani's face. <span class="speech">"You believe the road is the first step toward that unity. You believe that connecting the desert to the marsh, and the marsh to the sea, will bind us together in a way that words and treaties cannot. I do not disagree. But you must understand: the Veylar have been patient for millions of years. We do not rush. We do not leap. We consider. We deliberate. We wait for the moon's counsel. And then, when we act, we act with the full weight of our patience behind us."</span>
+She stepped closer to the throne, her webbed feet leaving delicate impressions in the sand, and the Petal-Shell in her hands pulsed brighter. <span class="speech">"But you are right about one thing. The Blight will come. They have grown larger since the Fourth Tyrant. They have never skipped a Tide. And if the surface races do not unite—if the Wengari and the Pyrinae and the Hummans and the Veylar and the Threx and every other thinking being on Ethra do not stand together—the Chi'Thak will devour us all."</span> She paused, her luminous eyes searching Ajani's face. <span class="speech">"You believe the road is the first step toward that unity. You believe that connecting the desert to the marsh, and the marsh to the sea, will bind us together in a way that words and treaties cannot. I do not disagree. But you must understand: the Veylar have been patient for twenty thousand years. We do not rush. We do not leap. We consider. We deliberate. We wait for the moon's counsel. And then, when we act, we act with the full weight of our patience behind us."</span>
 </div>
 
 
@@ -108,26 +118,8 @@ She raised the Petal-Shell, and the sphere of water still hovering before the th
 </div>
 
 
-Here is the corrected exchange:
-
-
 <div class="dialogue-block">
-<p class="speech-line">Sylara's fin-ridges rippled, and her iridescent skin dimmed to a deep, contemplative blue. "The Veylar do not spit on friendship. We do not reject your hand. But we are a patient people, King Ajani. We deliberate. We sing the songs of the deep places and wait for the moon's counsel. This is who we are. It has been our way since the first Shell-Singer sang the Tidepools into being, thousands of years before the Wengari walked the desert. It is not a refusal. It is not a dismissal. It is our nature—the nature that has allowed us to endure while younger races rose and fell."</p>
-</div>
-
-
-<div class="dialogue-block">
-She stepped closer, and the Petal-Shell in her hands pulsed brighter. <span class="speech">"You are right about the Blight. They will come. They have grown larger since the Fourth Tyrant. They have never skipped a Tide. And if the surface races do not unite, the Chi'Thak will devour us all."</span> She paused, her luminous eyes meeting Ajani's. <span class="speech">"The road you propose is the first step toward that unity. I do not disagree. But you must understand: the Veylar have been patient for twenty thousand years. We do not rush. We do not leap. We consider. We deliberate. We wait for the moon's counsel. And then, when we act, we act with the full weight of our patience behind us."</span>
-</div>
-
-
-<div class="dialogue-block">
-She raised the Petal-Shell, and the sphere of water hovering before the throne pulsed in time with its light. <span class="speech">"This token is not a refusal. It is a promise. When your road reaches the edge of the Tidepools, send it back to us. The Veylar will be ready. Not because we were rushed. Not because we were shamed. Because we chose to be. That is how friendship is built among my people. Not with haste. With deliberation. With commitment. With the full weight of the deep water behind it."</span> She bowed her head, her fin-ridges settling into a posture of respect. <span class="speech">"Build your road, King Ajani. The Veylar will walk it when the time is right."</span>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">'stubborn little...', "Perhaps I am not making myself clear, that is my error, let me be blunt, by the time the road reaches your shores, your help won't be needed a friend doesn't offer help when it suits them he does it when it's needed, you wish to be friend with the wengari? Then do so like the wengari do, with the full might behind them otherwise retreat to your shores, the road will never reach them and if it does it will be your doom"</p>
+<p class="speech-line">'stubborn little...' — "Perhaps I am not making myself clear. That is my error. Let me be blunt: by the time the road reaches your shores, your help won't be needed. A friend doesn't offer help when it suits them; he does it when it's needed. You wish to be friend with the Wengari? Then do so like the Wengari do, with the full might behind them. Otherwise retreat to your shores. The road will never reach them, and if it does, it will be your doom"</p>
 </div>
 
 
@@ -158,7 +150,7 @@ She lowered the shell, and its light dimmed. <span class="speech">"I cannot give
 
 
 <div class="dialogue-block">
-<p class="speech-line">'at last !', "While your offer is, I admit monumental by your standards what can a single veylara do ? You are not predators, you can't help us on land, I offer terms, I wish for a contingent of your twenty best craftsmen, to help the road, twenty is not such a large number I believe, but we are not builders, we are warriors, we can carry the load but we need someone to shape it, is this acceptable for the veylara? Mind you I do not ask for free labour, they will be payed in full in whatever their currency is"</p>
+<p class="speech-line">'at last!' — "While your offer is, I admit, monumental by your standards... what can a single Veylar do? You are not predators, you can't help us on land. I offer terms: I wish for a contingent of your twenty best craftsmen to help the road. Twenty is not such a large number, I believe. But we are not builders, we are warriors. We can carry the load, but we need someone to shape it. Is this acceptable for the Veylar? Mind you, I do not ask for free labour. They will be paid in full in whatever their currency is"</p>
 </div>
 
 
@@ -181,18 +173,10 @@ She extended her webbed hand once more, and the sphere of water that had hovered
 
 
 <div class="dialogue-block">
-<p class="speech-line">"no, I will send human envoys guarded by my people to shore, so we can cut the time in half, no objections to that , correct ?"</p>
+<p class="speech-line">"no, I will send Humman envoys guarded by my people to shore, so we can cut the time in half. No objections to that, correct?"</p>
 </div>
 
 
 <div class="dialogue-block">
 Sylara's fin-ridges flared, then settled, then flared again in a rapid sequence that might have been the Veylar equivalent of a startled laugh. <span class="speech">"You want to send Humman envoys,"</span> she said slowly, as if making sure she had heard correctly. <span class="speech">"Guarded by Wengari warriors. To the Tidepools. To negotiate with the Harmonic Council in person, rather than waiting for me to carry your terms across the ocean and back."</span> She was silent for a long moment, her iridescent skin cycling through a cascade of colors—silver, deep blue, a flicker of gold that might have been admiration, or might have been alarm. <span class="speech">"King Ajani, the Veylar have not received surface-dwellers on our shores in four thousand years. The last was the Lightbringer. He came alone, himself. He came wandering out of the desert, lost and seeking songs, in the years before he built his pact. He did not ride a Styx—that was Xal'thyra, our shame and our silence, the only Tyrant who ever broke the white flame to her will. The Lightbringer came on foot, with sand still in his mane and the wide eyes of a pilgrim. We gave him our songs. He used them to hold the world together for three thousand years."</span> She raised her eyes to the throne. <span class="speech">"You are not the Lightbringer. You are something new. And you are asking us to open our most sacred places to Hummans—to the race that produced the Plague—guarded by Wengari, the race that produced the Black Fire. All to save time."</span> She paused, and the gold flickered again across her skin. <span class="speech">"The Harmonic Council will debate this for a decade. They will sing the old songs and consult the moon and argue precedent until the Tidepools themselves grow tired of listening. And then—"</span> She inclined her head, a gesture that was almost, but not quite, a bow. <span class="speech">"Then they will accept. Because you are right. The Blight will not wait for deliberation. The road cannot wait for patience. And the Veylar, who have been patient for twenty thousand years, must learn to be swift."</span> She extended her webbed hand once more, and the sphere of water pulsed in time with the Petal-Shell's light. <span class="speech">"Send your envoys. Send your guards. The Tidepools will receive them. I will precede them across the ocean and prepare the Council for what is coming. And when your Hummans arrive on our shores, they will be the first of their kind to see the Coral Citadel since the world was young."</span> She met his eyes, and her melodic voice carried a note that might have been excitement, or might have been terror, or might have been both. <span class="speech">"I have no objections, King Ajani. Only a great deal of fear. And a great deal of hope."</span>
-</div>
-
-
-
-
-
-<div class="dialogue-block">
-She raised the Petal-Shell, and its light pulsed once, twice, then steadied. <span class="speech">"Send your envoys. Send your guards. The Tidepools will receive them. I will precede them across the ocean and prepare the Council for what is coming. And when your Hummans arrive on our shores, they will be the first of their kind to walk the Coral Citadel since the Lightbringer himself came wandering out of the desert, lost and seeking songs, in the years before he built his pact. He did not ride a Styx—that was Xal'thyra, our shame and our silence, the only Tyrant who ever broke the white flame to her will. The Lightbringer came on foot, with sand still in his mane and the wide eyes of a pilgrim. We gave him our songs. He used them to hold the world together for three thousand years."</span> She met Ajani's eyes. <span class="speech">"I have no objections, King Ajani. Only a great deal of fear. And a great deal of hope."</span>
 </div>

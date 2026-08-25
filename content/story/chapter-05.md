@@ -68,78 +68,6 @@ Irek felt the silence like a physical weight. The sun was higher now, climbing t
 
 The war drums resumed. The third wave began to move—four hundred scorpion riders, their iridescent shells a sea of shifting colours in the climbing sun. The Amuks were still advancing, the Tide Wolf cavalry circling wide. On the wall, Irek tightened his grip on his spear and watched the tide roll toward the gate. The elite unit below stood silent, bloodied but unbowed, their dark eyes fixed on the approaching storm.
 
-It was the seventh day of the Month of Storms, in the first year of the reign of Ajani Brightmane, first of his name. The White Dawn lay unconscious in his chambers, the golden armour still pulsing faintly over his chest. And the great war had only just begun.
-
-The war room was chaos. Sylva stood at the head of the granite table, her silver-chased ceremonial armor still gleaming from the dawn light that streamed through the high windows, but everything else about her was fraying. Her ancient eyes were hollow from three weeks without proper sleep. Her silver aura flickered erratically, no longer the calm, patient pulse of Flowing Water but something jagged, something struggling to maintain its rhythm.
-
-She had not eaten since the previous evening. She had not rested since the water hole. And the battle was only twenty-five minutes old.
-
-<div class="dialogue-block">
-<span class="speech">"Status on the north gate!"</span> she barked, her melodic voice stripped of its usual patience. <span class="speech">"Report!"</span>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">A young Motted Paw scout burst through the door, his silver fur matted with sweat. "The first vanguard is destroyed, Regent. Three rune cannon strikes. Two hundred scorpion riders eliminated. The second vanguard is advancing—two hundred and fifty riders, with Amuk support in the rear. The killer claws are being deployed now. The crimson hawks have already loosed four volleys. Thirty-two hawks have returned. Eight are lost."</p>
-</div>
-
-<div class="dialogue-block">
-<span class="speech">"Eight,"</span> Sylva repeated. The number hung in the air. <span class="speech">"And the elite unit?"</span>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">"They stand at the gate. They have not engaged yet. The second vanguard is still out of reach."</p>
-</div>
-
-Sylva turned to the map, her claws tracing the northern approach. The rune cannons had bought them time. The crimson hawks had bought them more. The killer claws would buy them perhaps a few minutes more. But the third wave was already massing on the horizon—four hundred riders, the full weight of the Humman army—and the Amuks were still coming, their great tusked forms swaying with each ponderous step.
-
-<div class="dialogue-block">
-<span class="speech">"Nefere,"</span> Sylva said. <span class="speech">"Your mirror array. How long until the sun is high enough?"</span>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">The ancient Hydromancer stood at the far end of the table, her clouded eyes fixed on the window where the sun was climbing steadily toward mid-morning. "The array requires the sun to be at a specific angle. Not before the tenth hour. Perhaps later. The prototype is untested. I cannot promise it will work. I can only promise that we will try."</p>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">Sylva nodded. It was not reassurance. It was acknowledgment. "Zara. The reinforcements. How long?"</p>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">Zara's great frame was rigid with tension. "The Stripe Paws are coming. The Shadow Paws are coming. The Motted Paws are coming. The Bright Paw loyalists are coming. But they are scattered, and the Humman army is here. Our fastest riders say one hour. Perhaps less. Perhaps more. They will arrive when they arrive."</p>
-</div>
-
-<div class="dialogue-block">
-<span class="speech">"One hour,"</span> Sylva said. <span class="speech">"We must hold for one hour."</span>
-</div>
-
-The rune cannons fired again. The sound was deafening, a thunderous roar that shook the stone walls of the war room and rattled the maps on the table. Sylva felt the vibration in her chest, in her bones, in the ancient roots of the palace that had stood for three thousand years. She closed her eyes and listened to the silence that followed—the brief, terrible silence that meant the cannons had struck, that somewhere below the wall, scorpion riders were dying.
-
-A cheer went up from the courtyard. The second vanguard was falling. The killer claws had done their work, their subsonic charges carrying them into the heart of the Humman formation, their rune bombs detonating in cones of white-hot fire. The crimson hawks were wheeling back toward the capital, their feathers spent. The elite unit was roaring. The gate was holding.
-
-But the third wave was already moving. Four hundred scorpion riders, their iridescent shells a sea of shifting colors in the climbing sun. The Amuks were still advancing. The Tide Wolf cavalry was still circling. And the war drums were still pounding, low and patient and utterly without fear.
-
-The door to the war room slammed open. Vasha stood in the doorway, her humorless face even more humorless than usual, her striped mane bristling with the particular fury of someone who had been running through the palace corridors for the past ten minutes. She was not supposed to be here. She was supposed to be in the council chamber, managing the Untrustworthy, keeping the machinery of governance turning while the battle raged.
-
-But Vasha had never been good at staying where she was supposed to be.
-
-<div class="dialogue-block">
-<span class="speech">"The reinforcements are coming,"</span> she said, her voice flat and cold. <span class="speech">"But they are not coming from the elders. The elders are still debating. The reinforcements are coming because the intelligence networks intercepted the Humman messages and sent word directly to the border garrisons. The Woh riders are coming. The desert variation. The Bright Paw contingent from the eastern border. They will arrive within the hour."</span>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">Sylva stared at her. "The Woh riders."</p>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">"Yes. The Woh riders. And they do not know that the other families are sending their own forces. No one knows. Everyone thinks they are the only ones coming. If we survive this, we will have to explain to the elders why their own warriors mobilized without their orders."</p>
-</div>
-
-<div class="dialogue-block">
-<span class="speech">"If we survive this,"</span> Sylva said quietly, <span class="speech">"the elders will have a great deal to explain to us."</span>
-</div>
-
-The rune cannons fired again. The war drums pounded on. And the third wave began its advance.
-
 It was the seventh day of the Month of Storms, in the first year of the reign of Ajani Brightmane, first of his name. The White Dawn lay unconscious in his chambers, the golden armor still pulsing faintly over his chest, Black Fire and Red Fire curled protectively on either side. The regent stood in the war room, her silver aura flickering like a guttering candle. And the great war had only just begun.
 
 At 5:25 in the morning, Vasha stormed into the war room unannounced.
@@ -232,65 +160,12 @@ Sylva stared at her. The war drums pounded on, low and patient and utterly witho
 
 It was 5:25 in the morning, the seventh day of the Month of Storms, in the first year of the reign of Ajani Brightmane, first of his name. The White Dawn lay unconscious in his chambers, the golden armor still pulsing faintly over his chest. The regent stood in the war room, her silver aura flickering like a guttering candle. And the battle was not yet over.
 
-The Hall of the Untrustworthy was a small, windowless chamber beneath the Great Hall, its walls lined with rune-glass filaments that pulsed with soft amber light. The table at its center was round—a deliberate choice, a statement that no one here outranked anyone else, that this council existed outside the traditional hierarchies of the Wengari families. The five members sat in their accustomed places, their faces lit from below by the amber glow, their shadows stretching long and distorted across the stone walls.
-
-Vasha of the Stripe Paws sat at the head of the table—not because she had been appointed, but because she had arrived first on the very first day and claimed the seat with the cold confidence of someone who had once audited her own cousin's caravan ledgers over a discrepancy of three copper coins. Maren of the Shadow Paws, the coin master, sat across from her, her lacquered claws tapping a slow, steady rhythm against the stone.
-
-Elyra's apprentice—a young Motted Paw named Sylen, still learning the art of silent observation—sat at the far end of the table, his silver aura flickering faintly. Toren, the old Bright Paw scribe who had been volunteered for this council because no one else wanted the position, sat hunched over a scroll, his golden mane faded to white. And the Humman representative—the nervous Silk-Weaver who had drawn the short straw among the surviving merchants—sat as far from Vasha as the table allowed.
-
-The war drums had not yet begun. The first rays of dawn had not yet touched the sand. But the council had known for three weeks that the Humman army was coming, and they had not been idle.
-
-<div class="dialogue-block">
-Vasha spoke first. Her voice was flat, uninflected, the voice of a woman who had been keeping secrets for so long that revelation felt like a release. <span class="speech">"I know you knew this was coming. I hope you made preparations."</span> She paused, her cold eyes sweeping across the table. <span class="speech">"I sent word to the western border. The Stripe Paw garrison there. I asked for twenty-five Woh riders. They will arrive within the hour."</span>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">Toren looked up from his scroll. The old Bright Paw scribe had been underestimated his entire life—by his family, by his peers, by the council that had assigned him here as a punishment. He was tired of being underestimated. "I sent word to the eastern garrison. Thirty Woh riders. They will arrive at the same time."</p>
-</div>
-
-<div class="dialogue-block">
-A brief, charged silence. Then Sylen, the young Motted Paw, leaned forward. His voice was soft, melodic, the voice of someone who had been trained to observe rather than speak, but who had decided that today was a day for speaking. <span class="speech">"The Woh. You speak of them as if they were merely cavalry. You speak of them as if they were beasts of burden."</span> He shook his head slowly. <span class="speech">"The Woh are theropods, five meters tall at the shoulder, with natural plate armor that turns aside scorpion stings and Amuk tusks alike. They are carnivorous. They are ancient. The Stripe Paws have been raising them for thousands of years, since the time of the First Tyrant, when the border wars against the Fire Beetles first began. The desert variation—the ones the Bright Paws keep at the eastern garrison—have evolved a different aura adaptation. They project an AOE field, a shimmering barrier of kinetic force that they use to defend the border against the beetles. The belt variation—the Stripe Paw Woh—use gravity manipulation. They hunt by pinning their prey to the ground and then eating them alive. Do you understand what you have summoned? Twenty-five gravity-manipulating theropods from the west. Thirty AOE-field theropods from the east. Fifty-five Woh riders in total. If they arrive at the same time, they will break the Humman army. They will also break the gate, if they are not careful. They will certainly break the elders, who did not authorize any of this."</span>
-</div>
-
-Toren stared at him. Vasha's expression did not change. Maren's lacquered claws stopped tapping.
-
-<div class="dialogue-block">
-Sylen continued, his voice still soft, still patient, still utterly relentless. <span class="speech">"I sent word to the Rune-Belt. To the Motted Paw city of RiverSong, in the heart of the basin. I asked for a hundred ghosts."</span> He paused, letting the word settle. <span class="speech">"The ghosts are bats. Flicker-attuned, five-meter wingspan, named for their ability to manipulate light and achieve optical camouflage, much like the Tide Wolves. They are silent. They are fast. And the Motted Paws have learned their language. They communicate through bone vibration—a resonant frequency that travels through the hollow chambers of their bodies—and we speak to them through drums. We have reared them for millennia. We use them to hunt in the basin, to defend our cities atop the jade trees, to watch the shadows where the light of the Steadfast cannot reach."</span>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">He looked at Toren, then at Vasha, then at Maren. "RiverSong is built atop the jade trees—fifteen-meter refulgent hardwoods whose aura adaptation makes them hard as rock and shining, a defense against the optic camouflage of the belt's predators. The Motted Paws have lived there since before the pact. We have kept the old ways. We have kept the old alliances. And we have sent a hundred ghosts to the capital, because the capital is where the king lies, and the king is the White Dawn, and the White Dawn must be protected."</p>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">Another silence. Then Maren spoke. Her voice was quiet, almost gentle, the voice of a Shadow Paw who had killed many times and taken no pleasure in any of it. "I sent word to Xhilva. The Shadow Paw city. It is located in the deep south of the Rune-Belt, where the canopy is dense and the light of the Steadfast barely reaches the floor. It is built into a cave—the only cave of its kind in the entire belt—and its location is a secret. Revealing it is punished by death. I am not revealing it now. I am only telling you that I sent word there, and that Xhilva answered."</p>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">She paused. "I asked for a hundred shadow riders. They ride a variant of the Tide Wolves that lives only in the deep south. The wolves are larger than their belt cousins. Stronger. Their fur is dense and black, and they have no optical camouflage. Instead, they carry the shadow flare—a remnant of what the Black Fire did to the southern belt, five thousand years ago. The First Tyrant's parasitic fire marked those wolves forever. They can engulf themselves in it at will. The Shadow Paws train from cubhood to withstand the fire without dying. It is a mirror of what the lord of the desert does to the Bright Paws in the capital—the same slow burn, the same relentless pressure, the same forging of weakness into strength."</p>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">She raised her lacquered claws and set them gently on the table. "A hundred shadow riders. A hundred ghosts. Fifty-five Woh riders. The elders did not authorize any of this. The generals did not plan for any of this. And the Humman army does not know it is coming. The Humman army thinks it is marching on a capital defended by five hundred exhausted warriors and twelve ornamental cannons. The Humman army is wrong."</p>
-</div>
-
-The war drums began to pound outside. The first rays of sunlight touched the sand before the northern gate. And the Council of the Untrustworthy sat in their windowless chamber, their faces lit from below by the amber glow of the rune-glass filaments, and they did not smile. They had done what they were designed to do. They had acted when the elders could not. They had saved the capital—or they had doomed it. They would find out which before the sun reached its zenith.
-
-<div class="dialogue-block">
-<p class="speech-line">Vasha rose from her chair. "The battle is starting. We should go to the war room. The regent will want to know what is coming."</p>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">"The regent will want to know why we did not tell her sooner," <span class="speech-attr">Toren said.</span></p>
-</div>
-
-<div class="dialogue-block">
-<span class="speech">"The regent will understand,"</span> Vasha replied. <span class="speech">"The regent understands many things. That is why she is the regent."</span> She walked toward the door, and the others followed, and the Council of the Untrustworthy went to war.
-</div>
-
 The Hall of the Untrustworthy was a small, windowless chamber beneath the Great Hall, its walls lined with rune-glass filaments that pulsed with soft amber light. The table at its center was round. The five members sat in their accustomed places, their faces lit from below by the amber glow, their shadows stretching long and distorted across the stone walls.
 
 The war drums had not yet begun. The first rays of dawn had not yet touched the sand. But the council had known for three weeks that the Humman army was coming, and they had not been idle.
+Vasha of the Stripe Paws sat at the head of the table—not because she had been appointed, but because she had arrived first on the very first day and claimed the seat with the cold confidence of someone who had once audited her own cousin's caravan ledgers over a discrepancy of three copper coins. Maren of the Shadow Paws, the coin master, sat across from her, her lacquered claws tapping a slow, steady rhythm against the stone.
+
+Elyra's apprentice—a young Motted Paw named Sylen, still learning the art of silent observation—sat at the far end of the table, his silver aura flickering faintly. Toren, the old Bright Paw scribe who had been volunteered for this council because no one else wanted the position, sat hunched over a scroll, his golden mane faded to white.
 
 The Silk-Weaver—his name was Kellan, though no one ever used it—sat as far from Vasha as the table allowed. His hands were trembling. He had been trembling since the Humman army was sighted, since he realized that his own people were marching on the capital, that he was trapped in a room with four Wengari who had every reason to kill him. He was not a spy. He was not a diplomat. He was a merchant who had drawn the short straw.
 
@@ -355,7 +230,7 @@ Kellan was silent for a long moment. His hands had stopped trembling. His face w
 </div>
 
 <div class="dialogue-block">
-<span class="speech">"I am telling you,"</span> Vasha said, <span class="speech">"that the Humman King thinks he is attacking a wounded city with no reinforcements. He is wrong. The elders did not authorize any of this. The generals did not plan for any of this. The regent does not know about any of this. But the intelligence networks worked exactly as the king designed them to work. And your people are about to learn what the Wengari truly are."</span>
+<span class="speech">"I am telling you,"</span> Vasha said, <span class="speech">"that the Humman king thinks he is attacking a wounded city with no reinforcements. He is wrong. The elders did not authorize any of this. The generals did not plan for any of this. The regent does not know about any of this. But the intelligence networks worked exactly as the king designed them to work. And your people are about to learn what the Wengari truly are."</span>
 </div>
 
 The war drums began to pound outside. The first rays of sunlight touched the sand before the northern gate. And the Council of the Untrustworthy sat in their windowless chamber, their faces lit from below by the amber glow of the rune-glass filaments.
@@ -416,7 +291,7 @@ And then she saw the third wave.
 
 Four hundred scorpion riders. The entire remaining vanguard of the Humman army, stretching across the horizon in a sea of iridescent shells and gleaming claws. Behind them, the Amuks were forming a line, their great tusked forms swaying in unison, their eight-legged strides eating up the distance between the desert and the gate. The Tide Wolf cavalry was circling to the east, fifty massive wolves with riders in striped armor, waiting for the moment when the gate would fall and the slaughter would begin.
 
-*We can't win against four hundred. We barely survived fifty.*
+'We can't win against four hundred. We barely survived fifty.'
 
 The thought was cold and clear and utterly without panic. Sera had been an assassin for decades. She had learned to count enemies before she learned to read. She knew when a battle was winnable and when it was not. This battle was not winnable. Not with twenty warriors. Not with the cannons still recharging. Not with the hawks and the killer claws already spent.
 
@@ -434,7 +309,7 @@ The scorpions were climbing now, their great claws finding purchase in the ancie
 
 But the cannons were not reloaded. The Pyrinae sorcerers were still chanting, their rune-glass staves humming with stored energy, but the runic sequences took time—twenty minutes between shots, if the wind was favorable, if the sorcerers were skilled. Only two cannons fired. One missed entirely, its white-hot blast carving a useless furrow in the empty sand. The other struck the flank of the third wave, vaporizing fifty riders in a cone of light. Fifty gone. Three hundred and fifty remained.
 
-The scorpions reached the wall. They began to climb, their claws punching through the ancient stone, their riders clinging to their backs. The Bright Paw guards on the parapets fell back, their spears useless against the armored carapaces. Irek was among them—the young Bright Mane soldier who had watched the first wave die with hope in his heart was now watching the third wave crest the wall, and his spear was shaking in his hands.
+The scorpions reached the wall. They began to climb, their claws punching through the ancient stone, their riders clinging to their backs. The Bright Paw guards on the parapets fell back, their spears useless against the armored carapaces. Irek was among them—the young Brightmane soldier who had watched the first wave die with hope in his heart was now watching the third wave crest the wall, and his spear was shaking in his hands.
 
 Then the Pyrinae sorcerers began to chant. A different chant this time—not the deep, resonant hum of the rune cannons, but something older, something colder. The rune-glass staves along the wall began to glow with a pale blue light, and a sheet of ice spread across the ancient stone. It was not natural ice. It was sorcery—water pulled from the desert air, flash-frozen by runic sequences that the Pyrinae had perfected over three thousand years of serving the Wengari.
 
@@ -454,7 +329,7 @@ The second volley struck the Pyrinae sorcerers. Nefere's chanters had been maint
 
 Sera stood at the gate, her lacquered claws still dripping, her ruined face lit by the glow of the burning wall. The third wave was three hundred and fifty strong. The Amuks were reloading. The Tide Wolves were circling. The cannons were silent. The hawks were spent. The killer claws were dead.
 
-*We cannot hold.*
+'We cannot hold.'
 
 <div class="dialogue-block">
 <p class="speech-line">But she was a Shadow Paw. She had been trained to hold impossible positions. She raised her claws and shouted, her voice carrying across the chaos, "ELITE UNIT! TO THE BREACH! WE HOLD THE GATE OR WE DIE AT THE GATE! THERE IS NO RETREAT!"</p>
@@ -601,43 +476,7 @@ Nefere stood on the eastern post of the northern wall, her ancient frame silhoue
 The third wave was about to crash against the gate.
 
 <div class="dialogue-block">
-<p class="speech-line">She raised her rune-glass mirror. It was a small thing, no larger than her palm, its surface shimmering with a pale, silver light. She had carried it with her since the capital was founded, since the Pyrinae first pledged their service to the Bright Paws three thousand years ago. She had never used it. She had hoped she would never need to use it. She spoke into the mirror, her ancient voice calm and steady despite the chaos around her. "Is everyone in position?"</p>
-</div>
-
-<div class="dialogue-block">
-A crackle of static. Then a voice—a young Pyrinae sorcerer, her words clipped and urgent. <span class="speech">"South front in position."</span> Another voice, older, rougher. <span class="speech">"North front in position."</span> A third, barely more than a whisper. <span class="speech">"West front in position."</span>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">Nefere closed her eyes. The four cardinal points of the capital, each anchored by a Pyrinae sorcerer with a mirror like hers, each one waiting for the signal that would either save the city or doom it. She planted her rune-glass staff on the stone and spoke a single word. "Begin chanting."</p>
-</div>
-
-The rune formation began to appear over the city. It started as a faint shimmer in the air above the palace, a ring of pale golden light that pulsed once, twice, and then steadied into a slow, rotating circle. A second ring appeared below it, smaller, spinning in the opposite direction. Then a third. Then a fourth. The rings began to rotate faster, their light intensifying, and the Wengari below—the soldiers on the walls, the wounded in the courtyards, the terrified civilians huddled in the Bright Paw temple—stared up at the sky with expressions of wonder and dread.
-
-Solen recognized it. The old High Priest had been kneeling in the temple sanctuary, his golden mane still dusty from the frantic ride back from the water hole, his ancient heart still heavy with the guilt of the armor. He had looked up when the first ring appeared, and he had known immediately what it was. The light shield. He had seen it on the temple walls, carved into the ancient reliefs that depicted the Lightbringer's greatest works—the forging of the pact, the building of the hanging gardens, the raising of the capital from the desert stone.
-
-It was ancient sorcery, older than the Pyrinae, older than the Wengari, a gift from the lord of the desert in the days when the pact was new and the Golden Sun still walked among them. He whispered the name under his breath, and the Wengari around him took up the whisper, and the whisper became a murmur that spread through the temple like ripples in still water.
-
-The golden dome bathed the city. It descended from the rotating rings like a curtain of light, a hemisphere of hard, shimmering gold that enclosed the capital from the northern gate to the southern wall, from the eastern barracks to the western gardens. The scorpions on the wall screeched and fell back, their claws smoking where the light touched them. The Amuk artillery fired again, and the fireballs crashed against the dome and scattered into nothing.
-
-The Wengari inside the city cheered—a ragged, desperate roar of relief that echoed through the streets and courtyards and up to the burning walls.
-
-<div class="dialogue-block">
-<p class="speech-line">Nefere did not cheer. She stood on the eastern post, her rune-glass mirror still pressed to her ear, her clouded eyes fixed on the rotating rings above her. The light shield was beautiful. It was also fragile. It was also temporary. She raised the mirror again. "How long?"</p>
-</div>
-
-<div class="dialogue-block">
-A crackle of static. Then the voice of the southern sorcerer, quieter now, almost apologetic. <span class="speech">"One hour. Perhaps an hour and a half, if the wind holds and the sun stays high. And then—"</span> A pause. <span class="speech">"And then never. The mirrors will burn out. The sequence cannot be repeated. We have one hour, Regent. One hour to hold the city. After that, the light shield will fall, and it will never rise again."</span>
-</div>
-
-Nefere lowered the mirror. The golden dome shimmered above her, beautiful and doomed, and the scorpions were still massing at the gate. One hour. Perhaps an hour and a half. The reinforcements were coming, but they were still out in the desert, still riding, still flying, still surging toward the capital with all the speed they could muster. One hour. She had to hold for one hour. She planted her staff on the stone and began to chant.
-
-Nefere stood on the eastern post of the northern wall, her ancient frame silhouetted against the burning sky. The fireballs from the Amuk artillery had stopped falling—the Hummans were repositioning, preparing for the final assault that would breach the gate—but the wall was still smoking, and the bodies of the fallen still lay where they had been struck. Below her, the scorpions were massing again. Three hundred and fifty of them, their iridescent shells catching the climbing sun, their claws clicking against the stone in a restless, hungry rhythm.
-
-The third wave was about to crash against the gate.
-
-<div class="dialogue-block">
-<p class="speech-line">She raised her rune-glass mirror. It was a small thing, no larger than her palm, its surface shimmering with a pale, silver light. It had been passed from High Speaker to High Speaker since the time of the Third Tyrant, entrusted to each new bearer with the same words: *You will never use this unless the capital itself is in danger. If that day comes, you will know what to do.* Nefere had carried it for forty years, since the day her predecessor pressed it into her young paws and told her to keep it close. She had never used it. She had hoped she would never need to use it. She spoke into the mirror, her ancient voice calm and steady despite the chaos around her. "Is everyone in position?"</p>
+<p class="speech-line">She raised her rune-glass mirror. It was a small thing, no larger than her palm, its surface shimmering with a pale, silver light. It had been passed from High Speaker to High Speaker since the time of the Third Tyrant, entrusted to each new bearer with the same words: "You will never use this unless the capital itself is in danger. If that day comes, you will know what to do." Nefere had carried it for forty years, since the day her predecessor pressed it into her young paws and told her to keep it close. She had never used it. She had hoped she would never need to use it. She spoke into the mirror, her ancient voice calm and steady despite the chaos around her. "Is everyone in position?"</p>
 </div>
 
 <div class="dialogue-block">
@@ -716,7 +555,7 @@ They did not understand what was wrong. They only knew that their imprinted mast
 
 The dome boomed. Kira flinched.
 
-She was six years old again. She was standing in the rubble of the west wall, her dark fur caked with dust, her small paws bleeding from the broken stone. The Wallbreaker beetle was roaring somewhere in the distance, and her mother's hands—her mother's strong, calloused armorsmith's hands—were pressing a crust of bread into her paws. *Stay here. Stay hidden. Don't make a sound. I'll be back. I'll be back.*
+She was six years old again. She was standing in the rubble of the west wall, her dark fur caked with dust, her small paws bleeding from the broken stone. The Wallbreaker beetle was roaring somewhere in the distance, and her mother's hands—her mother's strong, calloused armorsmith's hands—were pressing a crust of bread into her paws. "Stay here. Stay hidden. Don't make a sound. I'll be back. I'll be back."
 
 Her mother had not come back. Her father had not come back. The wall had collapsed, and the beetles had come through, and she had hidden in the rubble for two days before anyone found her. She had been six years old. She had been alone.
 
@@ -786,7 +625,7 @@ But the Amuks were still firing. The volleys crashed against the wall—fireball
 
 The remaining warriors fought on, their dark pelts matted with blood and sand, their Eight Points training turning each engagement into a brief, brutal exchange.
 
-Irek was still on the wall. The young Bright Mane soldier who had watched the first wave die with hope in his heart was bleeding from a gash across his shoulder, his spear long since lost, fighting with a broken scorpion claw he had wrenched from a dead rider. He swung it wildly, desperately, and the claw caught a Humman soldier across the chest and threw him from the wall. Irek did not stop to watch him fall. He was already turning to face the next climber.
+Irek was still on the wall. The young Brightmane soldier who had watched the first wave die with hope in his heart was bleeding from a gash across his shoulder, his spear long since lost, fighting with a broken scorpion claw he had wrenched from a dead rider. He swung it wildly, desperately, and the claw caught a Humman soldier across the chest and threw him from the wall. Irek did not stop to watch him fall. He was already turning to face the next climber.
 
 But the wall was breaking. The Amuk fireballs had torn too many holes in the defenses. The Pyrinae sorcerers were exhausted, their rune-glass staves flickering, their chants faltering. The Bright Paw archers were running out of arrows. The scorpions were cresting the wall in a dozen places, their riders dismounting, their claws finding Wengari flesh and tearing. Sera's elite unit was being pushed back. Step by step. Body by body. The gate, which had held for over three hours, was about to fall.
 
@@ -924,32 +763,6 @@ The war room was silent. The pillars of fire were still burning in the distance,
 
 On the northern wall, M'rak stood amid the aftermath of the fire pillars and tried to breathe. Five Wohs remained healthy. Five. Out of twenty. The others were dead—consumed by the columns of flame that had erupted from the sand, their natural plate armor no defense against whatever sorcery the Hummans had unleashed. The Wengari riders who had been caught in the blasts were dead alongside them. The sand where the pillars had risen was still smoking, still glowing faintly with the residual heat, patches of it fused into rough, blackened glass.
 
-M'rak stared at those patches, and something stirred in the back of his mind.
-
-The knot in his stomach tightened. He had seen something like this before. Not the weapon itself—the weapon was new, or old, or both. But the aftermath. The glass. The way the sand had melted and fused. The way the fire had consumed the Wohs' plate armor as if it were paper. He had heard a story. An old story, from the border wars, from the veterans who had fought in the last great campaign before the pact was renewed.
-
-A story about the Fifth Tyrant. A story about Velarius Vane. But the memory would not surface. It hovered at the edge of his thoughts, familiar and terrible and just out of reach.
-
-<div class="dialogue-block">
-In the Humman command tent, Mekhmed was smiling. It was not a pleasant smile. <span class="speech">"Serves them right. Stupid brutes. Did you see the way they just stood there? They thought they had won. They thought we were finished."</span> He shook his head slowly, his jeweled fingers tapping against the campaign table. <span class="speech">"They don't know what we have. They don't know what we've been keeping."</span>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">The generals stood in their loose semicircle, their faces pale. Tamsin was gone—relieved of command, escorted from the tent by guards who had looked at the floor rather than meet her eyes. The remaining generals were younger, less experienced, more afraid of their king than they were of the enemy. One of them—a nervous man with a scar across his cheek—spoke up. "Your Wealthiness... what was that? We were not briefed on any weapon of that magnitude. The scorpions were rigged with—"</p>
-</div>
-
-<div class="dialogue-block">
-<span class="speech">"Something Velarius left for a time like this."</span> Mekhmed's smile widened. <span class="speech">"The Fifth Tyrant was a monster, but he was our monster. And he left us many things. Some of them are still useful."</span>
-</div>
-
-The generals stared at him. The scarred man opened his mouth, then closed it. No one spoke. The war drums pounded on outside, low and patient, but the tent was very still. Velarius Vane had been dead for five hundred years. His Plague had lasted sixty-five. The Scar still pulsed with light on certain nights. And his king was smiling about it.
-
-A rider on a Tide Wolf was approaching the city at full gallop. The wolf was a massive beast, its dark fur matted with sweat, its great legs eating up the distance between the desert and the gate. The rider on its back was a Stripe Paw—a young female, her striped mane streaming behind her, her golden eyes fixed on the burning wall. She had ridden ahead of the second wave. She had been sent to deliver a message.
-
-The Woh riders had arrived. The ghosts were coming. The shadow riders were coming. The western garrison and the eastern garrison and the southern forces were converging on the capital. The message was: hold. Hold a little longer. The dawn was coming, and the Wengari were not yet finished.
-
-On the northern wall, M'rak stood amid the aftermath of the fire pillars and tried to breathe. Five Wohs remained healthy. Five. Out of twenty. The others were dead—consumed by the columns of flame that had erupted from the sand, their natural plate armor no defense against whatever sorcery the Hummans had unleashed. The Wengari riders who had been caught in the blasts were dead alongside them. The sand where the pillars had risen was still smoking, still glowing faintly with the residual heat, patches of it fused into rough, blackened glass.
-
 M'rak stared at those patches, and something stirred in the back of his mind. A memory. A story. Something about the Fifth Tyrant. Something about Velarius Vane. But the thought would not surface. It hovered at the edge of his consciousness, familiar and terrible and just out of reach.
 
 <div class="dialogue-block">
@@ -977,7 +790,7 @@ As the rider drew closer, the defenders could make out more details. The rider w
 Tamsin stumbled from the saddle of the Tide Wolf, her scarred hands raised high above her head, her dark eyes wild with desperation. She had ridden through the Humman lines, past the remnants of the scorpion vanguard, past the shattered Amuks, past the still-smoking craters where the suicide scorpions had detonated. No one had tried to stop her. Perhaps they had not recognized her. Perhaps they had recognized her and let her go.
 
 <div class="dialogue-block">
-<p class="speech-line">"SOMEONE IN COMMAND! SOMEONE IN COMMAND! I'M TAMSIN, GENERAL OF THE HUMANS! PLEASE, YOU MUST SAVE US! HE HAS—HE HAS VELARIUS MADNESS!"</p>
+<p class="speech-line">"SOMEONE IN COMMAND! SOMEONE IN COMMAND! I'M TAMSIN, GENERAL OF THE HUMMANS! PLEASE, YOU MUST SAVE US! HE HAS—HE HAS VELARIUS MADNESS!"</p>
 </div>
 
 M'rak's face lost its color. The memory that had been stirring at the edge of his thoughts since the fire pillars erupted snapped into place with terrible clarity. The glassed sand. The ten-meter columns of flame. The way the Wohs' plate armor had melted like wax. He had heard the old veterans describe it. He had seen the illustrations in the border garrison's archives. Plague weapons. The Fifth Tyrant's arsenal.
@@ -1051,22 +864,6 @@ The roots thrashed against the stone walls of the chamber, their pale green ligh
 In the war room, Sylva felt it and doubled over. In the temple, Solen felt it and clutched his chest. In the royal chamber, Black Fire and Red Fire felt it and pressed themselves closer to Ajani's unconscious form, their small bodies vibrating with a distress they could not name.
 
 The lord of the desert was screaming. And the great war was not yet over.
-
-<div class="dialogue-block">
-<p class="speech-line">Velarius Vane has been seeded since the earliest chapters of the Ethra exercise. He is the Fifth Tyrant, the Humman who began as a healer and became a monster. His Plague lasted sixty-five years. It killed eight percent of Ethra's population. It was ended only by a massive sacrifice of Styx and Rune Wolves. The Scar, a fifteen-kilometer black patch, still pulses with light on certain nights. This is not a weapon that was invented for this battle. This is a weapon that has been part of the world's history since we designed the Tyrants. When Mekhmed says, "Something Velarius left for a time like this," the reader should feel a cold shock of recognition. This is payoff for a setup that was planted long ago.</p>
-</div>
-
-The suicide scorpions are also consistent with the Humman character we have established. The Hummans are not warriors. They are survivors. They have been adapting for five hundred years. They have been trading and scheming and finding leverage wherever they can. Of course they preserved something from the Fifth Tyrant's arsenal. Of course they kept it hidden, waiting for a moment when it would be useful.
-
-And of course Mekhmed would use it without fully understanding what he was unleashing. The old general's line about all the races hunting them down is exactly right. This is a war crime in the context of Ethra. Mekhmed has crossed a line that cannot be uncrossed.
-
-The Tree's reaction is the connective tissue that binds this battle to the larger cosmic stakes. The lord of the desert has been wounded by the Plague before. It felt the First Tyrant's fire. It felt the Fifth Tyrant's Plague. It knows this poison. Its silent scream is not merely a reaction to pain; it is a reminder that the Plague is not just a Humman weapon. It is an existential threat to the ancient powers themselves.
-
-This scene also serves a structural purpose. Ajani is unconscious, but the Tree is connected to him through the pact. The Tree's scream may be the thing that finally wakes him.
-
-The deaths of the Wengari feel weighty because we have spent time with them. M'rak is not a faceless general; we saw his confidence on the approach, his command to ride faster, his smile, his words about the king. Watching him lose fifteen Wohs and then try to kill Tamsin with his bare hands is the culmination of that character work. Yvaria is not a faceless general; we saw her wild laughter, her declaration that she would be the king's bride, her insistence on riding through the night so the Motted Paws would not be outshone.
-
-Watching her ghosts fall around her is devastating because we know who she is. The deaths are not statistics. They are characters we have met.
 
 The war room was thick with the smell of old stone and older fear. The maps on the granite table were still scattered from the earlier councils, marked with the positions of forces that had already been decimated. The golden light of the destroyed dome had faded, and the morning sun streamed through the high windows, indifferent to the chaos below. M'rak stood at the head of the table. His golden armor was scorched and dented, his burn-scarred arms still trembling with the aftershock of the fire pillars.
 
@@ -1298,7 +1095,7 @@ A severed Woh leg, still encased in its natural plate armor, lay near the gate, 
 
 She had seen death before. She had never seen anything like this.
 
-_This is hell. I've stepped into hell._
+'This is hell. I've stepped into hell.'
 
 The war room had become a tomb. The maps on the granite table were scattered and torn, stained with sweat and dust and the faint, lingering residue of the rune-glass filaments that had flickered out when the light shield fell. The elders had retreated to their quarters or the temple or the wall. Only a few remained—Sylva, still seated at the edge of the table, her silver aura guttering like a dying candle; Vasha, standing over her with her humorless face twisted into something that was not quite rage and not quite desperation; a handful of messengers and aides, frozen in the corners of the room, unsure whether to speak or flee.
 
@@ -1430,8 +1227,6 @@ Cefiro stepped back. He lowered his paw, and the scorpions drifted gently to the
 <span class="speech">"Now it's all up to him, cousin."</span> Cefiro settled onto the stone floor, crossing his long white legs beneath him, his pale blue eyes watching the cocoon with an expression that was not quite patient and not quite hopeful. <span class="speech">"He walked into our city three years ago and told us we were still Wengari. He invited us to come home. I am here to see if he meant it."</span>
 </div>
 
-*Then you should write the scene please (the Cefiro scene )*
-
 M'rak stood at the edge of the shattered rampart and took stock of what remained. The morning sun was climbing toward its zenith, indifferent to the carnage below, and the purple orb was still growing above the battlefield, its violet light casting long, sickly shadows across the blackened sand. The Humman army had not moved in twenty minutes. The war drums had fallen silent. The Amuk artillery had ceased firing.
 
 The suicide scorpions had retreated to the perimeter. It was a truce, or something like one, and M'rak did not trust it.
@@ -1444,35 +1239,11 @@ M'rak winced. He had arrived with thirty Wohs and a heart full of hope. He had l
 
 And the third orb was still out there somewhere, waiting. Mekhmed had used two. He had three left.
 
-_Can we win with that?_
+'Can we win with that?'
 
 The thought was cold and unwelcome. He pushed it aside. He did not have the luxury of doubt. He was the commander now—the regent had given him the authority, and the regent was in the temple, and the king was unconscious, and the wall was broken, and someone had to make the decisions.
 
 A sound drew his attention. From the streets below the wall, a column of figures was approaching. They were not soldiers. They carried scythes and table legs and clubs—the improvised weapons of people who had never expected to fight. Some were Wengari. Some were Humman. They walked together, their faces pale, their eyes hollow, their makeshift weapons clutched in trembling hands. There were perhaps a hundred of them.
-
-<div class="dialogue-block">
-The one who spoke was a Humman. He was young, his dark hair cropped short, his merchant's robes torn and dusty. He looked up at M'rak with eyes that were terrified but steady. <span class="speech">"General M'rak. I'm Thane. I'm a merchant. I sell silk in the eastern market. I'm not a soldier."</span> He paused, and his voice cracked, but he did not look away. <span class="speech">"But my daughter is in the temple. My wife is in the temple. My son's friend—"</span> He glanced at a young Stripe Paw cub standing beside him, the same cub who had stopped his father from killing a Humman merchant in the temple. <span class="speech">"My son's friend is Wengari. And his father is on the wall. We came because we want to fight. Please. Let us defend our families."</span>
-</div>
-
-M'rak looked at them. A hundred civilians with table legs and scythes, standing in the shadow of the broken gate, asking to fight. They would die. He knew they would die. But they were asking anyway.
-
-He turned to Tamsin. The Humman general stood at the edge of the rampart, her scarred face unreadable, her dark eyes still hollow from watching her king execute one of her own colleagues. She had defected. She had ridden through the Humman lines with her hands raised. She had told them about the Plague weapons. She had nearly been killed for it. And now she was standing on the Wengari wall, watching a mixed column of Wengari and Humman civilians ask to fight for a city that was not theirs.
-
-<div class="dialogue-block">
-<span class="speech">"You there."</span> M'rak pointed at her. <span class="speech">"You said you were a general. You commanded soldiers. You know how to lead."</span>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">Tamsin met his eyes. "I was a general. I commanded the eastern border garrison for twelve years. I fought in three campaigns against the Fire Beetles. I know how to hold a wall."</p>
-</div>
-
-<div class="dialogue-block">
-M'rak nodded. He gestured toward the column of civilians. <span class="speech">"Here is your army. Man the wall. Defend it with your lives. You answer to me. You answer to her. You fight for your families. You fight for your city. You fight for your king."</span> He raised his voice, and it carried across the shattered rampart like a war horn. <span class="speech">"And if any of you still think Humman and Wengari are enemies, look around you. The enemy is out there. The enemy is the one who brought the Plague to our desert. The enemy is the one who burned our ghosts and our Wohs. The enemy is not standing beside you. The enemy is across the sand. Now get to your posts. Hold the wall. Hold the gate. Hold the city."</span>
-</div>
-
-The civilians raised their scythes and their table legs and their clubs, and they shouted—a ragged, desperate roar that echoed across the broken stone. Tamsin stepped forward and began to organize them, her voice calm and steady, the voice of a general who had trained soldiers for twelve years and would not let them die without a fight. And M'rak turned back to the purple orb, which was still growing, still pulsing, still waiting.
-
-The third orb was still out there. The shadow riders were still out in the desert. And the great war was not yet over.
 
 <div class="dialogue-block">
 <p class="speech-line">"If the wall falls we all fall, go!"</p>
@@ -1662,10 +1433,6 @@ The remaining Plague orbs—the two that were still intact, still hovering above
 
 It was 11:20 in the morning. The shadow riders were at the gate. The wall was broken. The king was still unconscious. And something that had been waiting for this moment since the First Tyrant fell was rising from the ashes of the Humman camp.
 
-<div class="dialogue-block">
-<p class="speech-line">At the wall, the black thing took shape before them: a giant eight-legged creature with purple orbs in the place where its eyes would be. M'rak asked everyone present, "Any idea what that is?"—his voice trembling, betraying his calm demeanor. Yvaria said, "I don't care what it is, we kill it." Zephyr said, "Open the gates for the humans, don't give it more food"—but no one got to finish the speech. The black thing rose, sixteen meters high, looked at the wall, screamed, and shot green barbs from its mouth. They hit the Woh who fell to the ground writhing, dissolving into green goo pools.</p>
-</div>
-
 It was 11:35 in the morning, and the wall was about to learn what horror meant. The green barbs came first.
 
 The creature rose from the blackened sand like a nightmare given form. It was enormous—sixteen meters from its base to the crown of its misshapen head—and its body was a mass of chitinous black flesh that seemed to absorb the morning light rather than reflect it. It had eight legs, each one thick as a Woh's torso, each one ending in a claw that gouged deep furrows in the sand. Its body was segmented, like a beetle's, but the segments were wrong—too many, too irregular, as if the thing had grown by absorbing whatever was around it and had not bothered to organize the results.
@@ -1699,38 +1466,6 @@ The great bronze doors began to swing open. The Humman refugees surged through, 
 But the black thing was still out there. It was still growing. And the green barbs were still firing.
 
 It was 11:35 in the morning, the seventh day of the Month of Storms, in the first year of the reign of Ajani Brightmane. The wall was broken. The Wohs were dead. The creature that had been the shadowy figure was rising above the battlefield like a god of annihilation. And the defenders of the capital had no weapons left that could hurt it.
-
-<div class="dialogue-block">
-<p class="speech-line">The black thing approaches slowly as if it couldn't quite control it's body, M'rak yells "ALL CANNONS FIRE!!!! FIRE THE RAY!!!! NOW!!! " all the rune cannons the 16 of they fire with such a big target they all hit, some break a leg some hit the body the creature falls strepitously then to the horror of everyone present it reforms and begins it's slow approach again it's 11:40</p>
-</div>
-
-The black thing approached slowly, its eight legs dragging through the sand as if it could not quite control its own limbs. Each step was ponderous and uneven, the creature's massive body swaying from side to side. It was learning to move, adapting to its new form, and the defenders on the wall watched it come with the frozen horror of people who had run out of options.
-
-M'rak saw the moment. The creature was close now—close enough that the rune cannons could not miss. Close enough that the mirror array, still standing in the eastern courtyard with its ancient crystals cracked and straining, could fire its last shot. He raised his voice above the chaos, above the screams of the dissolving Wohs, above the pounding of his own heart.
-
-<div class="dialogue-block">
-<p class="speech-line">"ALL CANNONS FIRE! FIRE THE RAY! NOW!"</p>
-</div>
-
-The rune cannons roared. All sixteen of them, their sorcerers chanting in unison, their barrels aimed at the massive, swaying target. The volley struck the creature full in the body—some shots tearing through its chitinous legs, some punching craters in its segmented torso. A leg buckled. Another leg snapped entirely, black ichor spraying across the sand. The creature let out a sound that was not a scream but a deep, resonant bellow of pain and fury, and then it fell.
-
-It crashed into the desert floor with the force of a collapsing mountain, its eight legs splayed, its purple eyes flickering, its body twitching and spasming in the sand.
-
-For a single, breathless moment, the wall was silent. Reva lowered her claws. Yvaria's ghosts hovered in the sky, their drums still. The Humman refugees in the courtyard stared at the fallen creature with expressions of stunned, disbelieving hope.
-
-Then the creature began to reform.
-
-The ichor that had spilled from its wounds began to flow backward, drawn by some invisible force. The shattered chitin knit itself together. The severed leg crawled across the sand like a living thing and reattached itself to the body with a wet, sucking sound. The craters punched by the cannon fire filled with fresh black flesh, pulsing and bubbling as it sealed. The creature rose again, its eight legs steady beneath it now, its movements smoother, more controlled.
-
-It had learned. It had adapted. It tilted its massive head toward the wall, and the purple orbs where its eyes should have been blazed with renewed intensity.
-
-<div class="dialogue-block">
-<p class="speech-line">M'rak stared. His voice was barely a whisper. "It reformed. We hit it with everything we had, and it reformed."</p>
-</div>
-
-On the wall, no one answered him. The rune cannons were still recharging. The mirror array had fired its last shot and was dark. The Wohs were dead. The ghosts were spent. The elite unit was exhausted. The civilians with their table legs and scythes stood frozen, their makeshift weapons limp in their hands. The black thing took another step toward the wall. Then another. It was still learning to move, still slow, but it was coming, and there was nothing left to stop it.
-
-It was 11:40 in the morning, the seventh day of the Month of Storms, in the first year of the reign of Ajani Brightmane. The wall was broken. The defenders were spent. And the creature that had been born from the Plague and the shadow and the endless darkness in the belt was coming to devour them all.
 
 The black thing approached slowly, its eight legs dragging through the sand as if it could not quite control its own limbs. Each step was ponderous and uneven, the creature's massive body swaying from side to side. It was learning to move, adapting to its new form, and the defenders on the wall watched it come with the frozen horror of people who had run out of options.
 
@@ -1824,52 +1559,6 @@ The Bright Paw priests raised their ceremonial spears and their broken claws and
 
 It was 11:50 in the morning, the seventh day of the Month of Storms, in the first year of the reign of Ajani Brightmane. The wall was broken. The defenders were spent. The black thing was almost at the gate. And the priests of the Bright Paws were walking out to meet it.
 
-The black thing approached slowly, its eight legs dragging through the sand as if it could not quite control its own limbs. Each step was ponderous and uneven, the creature's massive body swaying from side to side. It was learning to move, adapting to its new form, and the defenders on the wall watched it come with the frozen horror of people who had run out of options.
-
-<div class="dialogue-block">
-<p class="speech-line">M'rak saw the moment. The creature was close now—close enough that the rune cannons could not miss. He raised his voice above the chaos, above the screams of the dissolving Wohs, above the pounding of his own heart. "ALL CANNONS FIRE! NOW!"</p>
-</div>
-
-The rune cannons roared. All sixteen of them, their sorcerers chanting in unison, their barrels aimed at the massive, swaying target. The volley struck the creature full in the body—some shots tearing through its chitinous legs, some punching craters in its segmented torso. A leg buckled. Another leg snapped entirely, black ichor spraying across the sand. The creature let out a sound that was not a scream but a deep, resonant bellow of pain and fury, and then it fell.
-
-It crashed into the desert floor with the force of a collapsing mountain, its eight legs splayed, its purple eyes flickering, its body twitching and spasming in the sand.
-
-For a single, breathless moment, the wall was silent. Reva lowered her claws. Yvaria's ghosts hovered in the sky, their drums still. The Humman refugees in the courtyard stared at the fallen creature with expressions of stunned, disbelieving hope.
-
-Then the creature began to reform. The ichor that had spilled from its wounds flowed backward, drawn by some invisible force. The shattered chitin knit itself together. The severed leg crawled across the sand like a living thing and reattached itself to the body with a wet, sucking sound. The craters punched by the cannon fire filled with fresh black flesh, pulsing and bubbling as it sealed. The creature rose again, its eight legs steady beneath it now, its movements smoother, more controlled.
-
-It had learned. It had adapted. It tilted its massive head toward the wall, and the purple orbs where its eyes should have been blazed with renewed intensity.
-
-<div class="dialogue-block">
-<p class="speech-line">M'rak stared. His voice was barely a whisper. "It reformed. We hit it with everything we had, and it reformed."</p>
-</div>
-
-<div class="dialogue-block">
-On the wall, no one answered him. The rune cannons were still recharging. He turned to the Hydromancer at the mirror array controls. <span class="speech">"How long for the ray?!"</span> The Hydromancer, her copper skin slick with sweat, her rune-glass staff trembling in her hands, answered without looking up. <span class="speech">"Three minutes! The crystals are nearly spent!"</span>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">M'rak thought, *We don't have three minutes.* He turned to Yvaria, who was still aloft on her ghost. "Pelt it with arrows! Slow it down! Anything!"</p>
-</div>
-
-Both Zephyr and Yvaria nodded. The black Tide Wolves surged forward, their riders crouched low on their backs, their shadow flares igniting in sheets of dark flame. They hit the creature like a wave of fire, their wolves biting and tearing at its legs, their riders slashing at its segmented body. The shadow flare burned through the creature's chitin, and for a brief, desperate moment, the creature seemed to stagger.
-
-But every wound healed within seconds. The chitin knit itself together as fast as the wolves could tear it. The shadow fire guttered and died against the creature's flesh, and the wolves were forced back, their jaws bloody, their riders exhausted.
-
-The ghosts loosed their arrows. Yvaria's drummers beat out a frantic rhythm, and the remaining ghosts fired volley after volley into the creature's eyes, its mouth, its joints. The arrows struck true, but they did nothing. The creature did not slow. It did not pause. It simply kept walking, its eight legs churning the sand, its purple eyes fixed on the gate.
-
-<div class="dialogue-block">
-<p class="speech-line">Zephyr pulled his wolves back, his scarred face twisted with frustration. "Nothing! The wounds don't stay! It's not even slowing!"</p>
-</div>
-
-The black thing took another step toward the wall. Then another. It was still learning to move, still slow, but it was coming, and it was barely two leagues away now. The green barbs had stopped firing, but the creature did not need them. It would reach the gate and tear it apart with its claws, and there was nothing left to throw at it.
-
-It was 11:50 in the morning, the seventh day of the Month of Storms, in the first year of the reign of Ajani Brightmane. The wall was broken. The defenders were spent. And the creature was almost at the gate.
-
-<div class="dialogue-block">
-<p class="speech-line">At the wall, the creature kept advancing. Suddenly twenty light meteors fell in front of it, and then light pillars shot up to the sky. A twenty-first light pillar landed on the wall. M'rak looked awed and hopeful, and so did every Wengari who could see the pillars. From the light, Solen emerged wreathed in golden armor, carrying a spiked mace and a golden cloak. He knelt before M'rak. Tamsin asked, "Who is he?" Sera answered with tears in her eyes: "They are the Golden Cloaks. They're real!" Tamsin looked confused. "Golden what?" Another Wengari replied, "They were at the War of 3400!" And another: "And the border skirmishes of 3600!" Yet another: "And the Great Battle Invasion of the 4500 tide!" Tamsin looked at Sera, and she said, "They're a legend—warriors wreathed in gold, who come in the last hour to protect the Wengari. I always thought they were a myth..." Back to M'rak. He said, "The bulwark who guard the Wengari, the spear that cleaves through the darkness, the light that shines upon us—we pray, save us!" Solen looked up and shot toward the sky, taking his position. A light wall, not unlike the dome, erected itself at the league mark. The creature began pounding on it.</p>
-</div>
-
 It was 11:55 in the morning, and the legend had answered.
 
 The creature kept advancing. Each step was steadier now, its eight legs moving in a terrible, synchronized rhythm. The purple orbs where its eyes should have been were fixed on the gate, and the green barbs had stopped firing—not because the creature had exhausted them, but because it no longer needed them. It would reach the wall and tear it apart with its claws, and there was nothing left to throw at it.
@@ -1905,10 +1594,6 @@ Solen raised his head. His golden eyes met M'rak's, and he nodded once. Then he 
 The creature reached the light wall and stopped. It raised one massive, chitinous leg and struck the barrier with all its force. The wall held. The creature struck again. The wall held. It pounded against the golden light with its claws and its legs and its green barbs, and the wall held, and the creature screamed—a sound of frustration and fury that echoed across the desert.
 
 It was 11:55 in the morning, the seventh day of the Month of Storms, in the first year of the reign of Ajani Brightmane. The Golden Cloaks had returned. The light wall stood between the creature and the gate. And the defenders on the shattered rampart watched with hope they had thought was lost.
-
-<div class="dialogue-block">
-The light walk begins to crack, then it breaks Nefere yells <span class="speech">"FIRE"</span> an impossibly hot beam of light cleaves trough the sand it hits the creature dead center, it screams and sizzles the beam seems to be working the creature stops the beam carves it through the middle it's seems it's about to cleave it in half but then the tower explodes the beam dies , the creature postrated on the ground begins to regenerate, the golden cloaks fall back to M'rak, solen says <span class="speech">"we can only erect the wall one more time, well give you time to evacuate the city"</span> it's 11:59
-</div>
 
 The light wall cracked. A fissure ran across its golden surface like lightning across glass, and the creature on the other side screamed in triumph. Its chitinous claws hammered against the barrier, each blow sending fresh fractures spider-webbing through the ancient radiance. The Golden Cloaks braced themselves, their light pillars flickering, their golden armor blazing with the last reserves of their power.
 
@@ -1992,10 +1677,6 @@ Ajani did not speak. He reached into the air and the grimoire was there—the Mo
 <p class="speech-line">He turned to Kira. "Do you want to follow?" Kira nodded so fast her dark mane bounced. Cefiro reached into the white fur of his chest and produced a scroll, old and yellowed, its edges singed. He read from it—a short phrase in the old tongue, the one the Snow Paws had preserved in ice—and bubbles began to form in the air around them. They enveloped Kira and the scorpions, Cefiro and the unconscious forms of Vex and Lira, lifting them gently from the stone floor. The bubbles rose and drifted toward the balcony, and then they were outside, following the golden trail of Ajani's wings toward the shattered wall. It was noon. The White Dawn was awake. And the creature was still coming.</p>
 </div>
 
-<div class="dialogue-block">
-Ajani lands on the wall shouting <span class="speech">"STATUS STATUS, SOMEONE TELL ME WHAT ON EARTH IS THAT"</span> we hear awed whispers <span class="speech">"his highness"</span> Al around solen turns to ajani and quickly kneels when the others seem to follow ajani roars <span class="speech">"LESS KNEELING AND MORE TALKING!!!"</span>
-</div>
-
 The golden wings folded and vanished as Ajani's boots hit the shattered stone of the rampart. The white Styx crown was still on his head, its flames burning steady and bright. The pearly breastplate still molded to his chest. The fire beetle bracers still clasped his forearms. He looked like something out of the old tales—the Lightbringer reborn, the White Dawn returned—and for a moment, every Wengari on the wall simply stared at him.
 
 <div class="dialogue-block">
@@ -2019,46 +1700,6 @@ Ajani stared at him. Then he looked at the creature, which was still advancing, 
 He looked at Yvaria, still aloft on her ghost, her drums still strapped to her chest.
 
 Then he looked back at the creature. It was noon. He had been unconscious for three weeks. The city was in ruins. And the endless darkness that dwelled in the belt was at his gate.
-
-<div class="dialogue-block">
-Ajani says <span class="speech">"crap"</span> and flies up in the sky the white spear in his hand then he throws it with all his might the spear divides and surrounds the creature it stops looking at ajani it spouts it's acid barbs , but the ghosts intercept them five die and Yvaria yells <span class="speech">"PROTECT HIS HIGHNESS"</span> ajani begins scribbling on the grimoire and shouts <span class="speech">"I NEED FIVE MINUTES BUY ME FIVE MINUTES!!!"</span>  on the ground zephyr says <span class="speech">"you heard him, charge!!!"</span> The tide wolves wreathe themselves in fire and charge at the creature the golden cloaks fly and surround it erecting their golden wall ajani finishes one page he tears it, it floats with a red light he begins chanting <span class="speech">"Spirit of fire from the east, giver of life and taker of life, this humble sorcerer beseeschs you take from me and answer my plea, be made manifest and answer my plea, I call to thee IFRIT!"</span> as soon as he finishes chanting a fire serpent appears in his arm constricting him, and the fire copy of the spear burst into flames they take the form of a fire wengari and begin attacking the creature it's now 12:02
-</div>
-
-Ajani didn't wait for an answer. He launched himself into the sky, the golden wings snapping open from his back, the white spear of the Pyrinae already materializing in his grip. The creature was a league away—close enough that he could see the purple orbs pulsing where its eyes should have been, close enough that he could smell the charnel reek of its body, close enough that the green acid barbs it had fired at the Wohs could reach him in seconds.
-
-He threw the spear with everything he had. It split in midair—one became two, two became four, four became five—the five spears of the Pyrinae gift, each one blazing with a different elemental fury. Fire, water, light, darkness, earth. They surrounded the creature in a perfect pentagon, their points aimed inward, their shafts humming with contained power. The creature stopped. Its massive head swiveled, tracking the spears, and its purple eyes flickered with something that might have been recognition.
-
-Then it opened its maw and fired.
-
-<div class="dialogue-block">
-<p class="speech-line">The acid barbs shot upward in a volley of green death—the same barbs that had dissolved the Wohs, the same poison that had melted Wengari flesh from bone. Ajani was still aloft, still scribbling in the grimoire with one paw while the other maintained the spears. He could not dodge. The ghosts were already moving. Yvaria's drums beat a frantic, desperate rhythm, and the remaining ghosts dove—not to attack the creature, not to harry its flanks, but to put their bodies between the barbs and their king. The barbs struck them in midair. Five ghosts died instantly, their five-meter wingspans dissolving into green mist, their riders falling. Yvaria's voice cracked with fury and grief as she screamed into the communication shell. "PROTECT HIS HIGHNESS! THE GHOSTS ARE HIS SHIELD! PROTECT HIM!"</p>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">Ajani did not look up from the grimoire. His claws were moving faster than they had ever moved, tracing runic circles and elemental sigils with the precision L'vat had beaten into him in the marshes. "I NEED FIVE MINUTES! BUY ME FIVE MINUTES!"</p>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">On the ground, Zephyr heard him. The young Shadow Paw commander raised his lacquered claws and shouted to his riders. "YOU HEARD HIM! CHARGE! THE WHITE DAWN NEEDS FIVE MINUTES! WE GIVE HIM FIVE MINUTES!" The black Tide Wolves wreathed themselves in shadow fire and surged toward the creature, their riders crouched low, their claws gleaming. They had already charged once and been driven back. They knew the creature's wounds would heal. They charged anyway.</p>
-</div>
-
-Solen raised his spiked mace, and the twenty Golden Cloaks rose with him. Their light pillars blazed with the last reserves of their ancient power—the final stand they had been saving for the evacuation. They flew in a tight formation, surrounding the creature, and the golden wall erupted from their bodies. It was not the dome that had enclosed the city. It was a cage—a cylinder of golden light that trapped the creature within its circumference, pressing inward, restricting its movement.
-
-The creature screamed and hammered against the barrier. The light wall cracked. The Golden Cloaks held.
-
-Ajani finished the first page. He tore it from the grimoire, and the paper floated before him, its runes blazing with red light. He began to chant. The words were old—older than the Wengari, older than the pact, older perhaps than the lord of the desert itself. L'vat had taught him this. The green deaths of the marsh had been his classroom, but the old root had also given him books, ancient texts salvaged from the ruins of civilizations that had fallen before the Tyrants walked.
-
-<div class="dialogue-block">
-<p class="speech-line">"Spirit of fire from the east, giver of life and taker of life, this humble sorcerer beseeches you—take from me and answer my plea. Be made manifest and answer my plea. I call to thee—IFRIT!"</p>
-</div>
-
-A serpent of fire coiled into existence around his right arm. It was not a Wengari. It was not a creature of flesh and blood. It was fire given form and will—a spirit of the old world, summoned from whatever realm the ancient sorcerers had bound it to. It tightened around Ajani's arm, and he felt his aura draining into it, felt the creature feeding on his strength. The five spears still surrounding the black creature burst into flame.
-
-The fire spread along their shafts, consuming the other elements, and the spears themselves began to twist and reshape. They merged. They grew. And from the heart of the fire, a form emerged—a Wengari made of living flame, towering nearly as tall as the creature itself. The Ifrit had taken a shape it understood. A warrior. A king. A weapon.
-
-It hurled itself at the black creature, and the two titans collided. The Golden Cloaks' barrier shattered. The shadow riders pulled back, their wolves panting, their riders staring. The ghosts hovered in the sky, their drums silent. And Ajani, still aloft on his golden wings, his aura draining into the Ifrit, his grimoire still open in his paw, watched the fire spirit and the black creature tear into each other above the shattered wall.
-
-It was 12:02 in the morning—noon, the seventh day of the Month of Storms, in the first year of the reign of Ajani Brightmane. The White Dawn had bought five minutes. The battle for the capital was not yet over.
 
 Ajani didn't wait for an answer. He launched himself into the sky, the golden wings snapping open from his back, the white spear of the Pyrinae already materializing in his grip. The creature was a league away—close enough that he could see the purple orbs pulsing where its eyes should have been, close enough that he could smell the charnel reek of its body, close enough that the green acid barbs it had fired at the Wohs could reach him in seconds.
 
@@ -2161,7 +1802,7 @@ It was 12:05. The light cage faded. The creature advanced, diminished but not de
 Ajani hung in the sky, the golden Styx still perched on his right shoulder with its talons buried deep, the fire serpent coiled around his right arm, the ice ring still tight around his neck. His fur was frozen across his shoulders and burned along his forearm and bleeding from his nose, and his left leg had turned black. Tiny white stars swirled in the darkness of his leg, pinpricks of light in a void of flesh. He reached for the fourth page.
 
 <div class="thought-block">
-*Just two more. And then... well, let's hope I can still speak.*
+'Just two more. And then... well, let's hope I can still speak.'
 </div>
 
 He tore the page from the grimoire. This one was black, its surface drinking the noon light rather than reflecting it. He began to chant. His voice was hoarser now, the ice ring making every word an effort, but the words came steady and clear.
@@ -2189,10 +1830,6 @@ Nefere stood beside him, leaning on her cracked staff, her ancient face grim. <s
 The light cage that Solen and the Golden Cloaks had erected flickered and faded. The twenty golden warriors had given everything they had left. Their light pillars guttered and died, and they fell back toward the wall, their golden armor dim, their spiked maces dark. The creature, diminished but unbroken, advanced. The elemental avatars hacked at it—fire sabers and ice scepter and light sword and dark spear—and the creature screamed and bled and kept coming.
 
 And Ajani, still aloft on his golden wings, still bleeding from his nose and his shoulder and his frozen and burned and blackened flesh, reached for the fifth page. His hand was steady. It was 12:05 in the afternoon.
-
-<div class="dialogue-block">
-Ajani tores a fifth page, deep gold runes adorn it and he chants visibily strained <span class="speech">"Golden Spirit from the deep, the one who guards the gate, keeper of riches untold, this humble sorcerer beseeschs you, take from me and answer my plea, be made manifest and answer my plea - Aurum!"</span> He finishes the chant and his right leg is wreathed in a golden gooey substance, changing form and density with each second the earth spear dissolves into a golden powder that floats then reforms above the avatars in the form of a halo a set of Three pairs of golden wings appear on their backs and the black armor shines with golden motifs each depicting a wengari battle, the avatars arrange each one at a cardinal point and stake their weapons on the ground around the creature a new wall of light is erected the creature screeches and hits the wall cracks form but are soon repaired everyone who's been chanting is feeling the drain , the ghosts land, the people at the temple begin to faint soldiers at the wall fall to their knees, Cefiro looks at all in awe and confusion Kira clutches pearl tightly then ajani tores a sixth page Cefiro turns to nefere almost whispering <span class="speech">"there are no more spears...."</span> She turns <span class="speech">"I know"</span> the creature looses it's form and a black pillar roses from it the ground trembles and fractures black circles start forming in the sky it's now 12:06
-</div>
 
 Ajani reached for the fifth page. His left arm was still coiled by the fire serpent, his neck still ringed in ice, his left leg still swirling with tiny white stars, his right shoulder still pierced by the golden Styx's talons. Blood ran from his nose and dripped onto the breastplate of the Lightbringer's armor. His voice, when he began to chant, was strained and hoarse, each word an effort dragged from a body that was running out of time.
 
@@ -2234,7 +1871,7 @@ Ajani stared at the sixth page. The runes were already forming—golden, green, 
 
 The Styx talons still buried in his shoulder. Blood dripped from his nose and now from his mouth as well, a thin trickle of red that splashed against the breastplate.
 
-*This is it. I barely have ten seconds, I think. I hope it's enough.*
+'This is it. I barely have ten seconds, I think. I hope it's enough.'
 
 He began to write. The grimoire's pages had never resisted him before, but this one seemed to push back, as if the words he was inscribing were too large for the paper to contain. The runes spiraled faster. He coughed blood onto the page, and the blood sizzled and burned with golden light.
 

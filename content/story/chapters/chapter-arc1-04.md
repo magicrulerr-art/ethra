@@ -1,31 +1,6 @@
 ## Chapter 4: The Styx
 
-<div class="dialogue-block">
-<p class="speech-line">"You have your mother's heart, Ajani. She would have been proud of you. I am proud of you."</p>
-</div>
-
-
-He released his son's shoulder and rose slowly from the stone throne, his movements heavy with the weight of centuries. His dead left hand hung at his side, the blackened claws clicking faintly against the stone. With his right, he gestured toward the far wall of the chamber.
-
-
-<div class="dialogue-block">
-<p class="speech-line">"The inner chamber lies beyond. It is not a place I can enter with you. Each king must face the Tree alone. But I will wait here. I will wait as long as it takes."</p>
-</div>
-
-
-He pressed his right palm against the ancient stone, and a seam of amber light traced itself along the wall—a door that had not opened in a thousand years, since the last king before Uthgard IX had knelt before the Tree. The runes flared, then faded, and the stone slid silently aside.
-
-
-Beyond the threshold, a narrow passage descended into the bedrock. The air that rose from it was cool and dry, carrying a faint scent of old earth and something older still—the patient, waiting hunger of the Kyre Tree. A soft, pulsing light emanated from somewhere below, not the golden glow of Bright Paw sorcery, but a pale, greenish luminescence, like moonlight filtered through leaves that had never seen the sun.
-
-
-<div class="dialogue-block">
-<span class="speech">"Ajani."</span> Uthgard's voice stopped him at the threshold. <span class="speech">"Whatever the Tree asks of you—whatever it demands—remember that you are not merely the heir to the Lightbringer. You are the son of Layla. You are the White Dawn. And whatever bargain you strike, strike it not as a servant, but as an equal. That is what the Lightbringer understood. That is what I could never do. That is what you must do now. Go. The Tree is waiting. And I will be here when you return."</span>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">*its just as l'vat described, the spiral stair, the faint lights... the air gets thinner... if i handt lived with them for a year I think i would have fainted by now, here is the message, just where said it would be', "To my heir, if you are reading this, then you know, our blood is cursed, everyone who came before you and surely everyone who will come after has succumbed to the curse, there is only one way out, in", 'For the whiskers of uthgard!! did the first need to be so cryptic as well???!!!!, theres something... some noise... a voice?*</p>
+<p class="speech-line">'It's just as L'vat described, the spiral stair, the faint lights... the air gets thinner... if I hadn't lived with them for a year I think I would have fainted by now, here is the message, just where said it would be. "To my heir, if you are reading this, then you know, our blood is cursed, everyone who came before you and surely everyone who will come after has succumbed to the curse, there is only one way out, in." For the whiskers of Uthgard!! Did the first need to be so cryptic as well???!!!!, there's something... some noise... a voice?'</p>
 </div>
 
 
@@ -48,7 +23,7 @@ The blossom at the chamber's center began to open.
 
 
 <div class="dialogue-block">
-<p class="speech-line">'ok... here it goes, press the palm to the flower and speak, just like in the marshes' - "I am Ajani Brightmane first of my name, Heir to the light that burns the shadow, Son of Layla, bearer of the pact... Chosen by the deep"</p>
+<p class="speech-line">'ok... here it goes, press the palm to the flower and speak, just like in the marshes' - "I am Ajani Brightmane first of my name, Heir to the light that burns the shadow, Son of Layla, bearer of the pact... Chosen by the Deep"</p>
 </div>
 
 
@@ -98,7 +73,7 @@ The blossom drew back slightly, and the voice grew softer, almost gentle.
 
 
 <div class="dialogue-block">
-<p class="speech-line">"I am not uthgard, I am Ajani, and I know what you are and what you are not, as much as I know what I am and what I am not, I will not make the mistakes uthgard made, i do not offer my life, i offer prosperity, the deep wishes for a corridor spanning from the marshes to the desert a stable highway for his lament to pass and thrive, We the wengari, the heirs of two whitedawns are the only ones strong enough to accomplish this, I offer you the chance to live beyond the desert, to see new things, to taste new things, you have felt it, the deep dwells within me, He wishes to speak"</p>
+<p class="speech-line">"I am not Uthgard, I am Ajani, and I know what you are and what you are not, as much as I know what I am and what I am not, I will not make the mistakes Uthgard made, I do not offer my life, I offer prosperity, the Deep wishes for a corridor spanning from the marshes to the desert a stable highway for his Lament to pass and thrive. We the Wengari, the heirs of two White Dawns are the only ones strong enough to accomplish this, I offer you the chance to live beyond the desert, to see new things, to taste new things, you have felt it, the Deep dwells within me, He wishes to speak"</p>
 </div>
 
 
@@ -127,3 +102,21 @@ The blossom leaned closer. The amber pool reflected Ajani's face, his golden man
 
 
 *"The Lightbringer came to me as a partner. He offered me his life, and I took it—not as a tithe, not as a meal, but as a bond. For three thousand years, that bond held. His descendants paid the tithe. They kept the rituals. But they did not partner with me. They did not speak to me as equals. They spoke to me as supplicants, as servants, as priests before an altar. And I..."*
+
+
+The voice grew quieter, almost contemplative.
+
+
+*"I do not desire worship. I am not a god. I am old. I am patient. I am hungry. And I am lonely."*
+
+
+The word hung in the air, strange and unexpected. Lonely. The Kyre Tree, the ancient horror of the desert, the hunger beneath the sand—lonely.
+
+
+*"The Deep speaks to its children. The Sea Marsh sings to the Auruchs. The Abyssal Heart dreams with the Veylar. But I... I have only the Wengari. And the Wengari do not speak to me. They fear me. They feed me. They use my gifts and call it their glory. The Lightbringer was the last to speak to me as you are speaking now. The last to look upon me and see not a god or a monster, but a being. A partner."*
+
+
+The roots trembled. The amber pool shimmered.
+
+
+*"You offer me a corridor. A road through the Rune-Belt. A way to extend my roots beyond this desert, to taste new soil, to feel the sun on leaves that grow in another land. You offer me... expansion. Growth. Change. These are things I have not known since the Lightbringer vanished."*

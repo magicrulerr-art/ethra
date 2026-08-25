@@ -1,9 +1,5 @@
 ## Chapter 22: 12:06 — The White Dawn Wakes
 
-<div class="dialogue-block">
-Ajani tores a fifth page, deep gold runes adorn it and he chants visibily strained <span class="speech">"Golden Spirit from the deep, the one who guards the gate, keeper of riches untold, this humble sorcerer beseeschs you, take from me and answer my plea, be made manifest and answer my plea - Aurum!"</span> He finishes the chant and his right leg is wreathed in a golden gooey substance, changing form and density with each second the earth spear dissolves into a golden powder that floats then reforms above the avatars in the form of a halo a set of Three pairs of golden wings appear on their backs and the black armor shines with golden motifs each depicting a wengari battle, the avatars arrange each one at a cardinal point and stake their weapons on the ground around the creature a new wall of light is erected the creature screeches and hits the wall cracks form but are soon repaired everyone who's been chanting is feeling the drain , the ghosts land, the people at the temple begin to faint soldiers at the wall fall to their knees, Cefiro looks at all in awe and confusion Kira clutches pearl tightly then ajani tores a sixth page Cefiro turns to nefere almost whispering <span class="speech">"there are no more spears...."</span> She turns <span class="speech">"I know"</span> the creature looses it's form and a black pillar roses from it the ground trembles and fractures black circles start forming in the sky it's now 12:06
-</div>
-
 Ajani reached for the fifth page. His left arm was still coiled by the fire serpent, his neck still ringed in ice, his left leg still swirling with tiny white stars, his right shoulder still pierced by the golden Styx's talons. Blood ran from his nose and dripped onto the breastplate of the Lightbringer's armor. His voice, when he began to chant, was strained and hoarse, each word an effort dragged from a body that was running out of time.
 
 <div class="dialogue-block">
@@ -44,7 +40,7 @@ Ajani stared at the sixth page. The runes were already forming—golden, green, 
 
 The Styx talons still buried in his shoulder. Blood dripped from his nose and now from his mouth as well, a thin trickle of red that splashed against the breastplate.
 
-*This is it. I barely have ten seconds, I think. I hope it's enough.*
+'This is it. I barely have ten seconds, I think. I hope it's enough.'
 
 He began to write. The grimoire's pages had never resisted him before, but this one seemed to push back, as if the words he was inscribing were too large for the paper to contain. The runes spiraled faster. He coughed blood onto the page, and the blood sizzled and burned with golden light.
 

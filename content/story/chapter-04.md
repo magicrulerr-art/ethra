@@ -799,7 +799,7 @@ Nefere accepted the parchment with her ancient, weathered paws, her clouded eyes
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">"T'vat, send in the humans, but before call the royal guards outside they need to form a line from the entrance to the throne, make them wear the ceremonial armor, call Sylvia she must also be wearing the ceremonial armor , My shadows are you there ?"</p>
+<p class="speech-line">"T'van, send in the humans, but before call the royal guards outside they need to form a line from the entrance to the throne, make them wear the ceremonial armor, call Sylvia she must also be wearing the ceremonial armor , My shadows are you there ?"</p>
 </div>
 
 <div class="dialogue-block">
@@ -847,7 +847,7 @@ She adjusted her silver-chased pauldrons, the flowing water motifs catching the 
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">'I hate her so, so much' - "T'vat, send them in"</p>
+<p class="speech-line">'I hate her so, so much' - "T'van, send them in"</p>
 </div>
 
 The great bronze doors swung open with a sound like the grinding of ancient bones, and the Humman delegation entered the Great Hall of the Sun. Ambassador Seris led them, her dark eyes forward, her shoulders squared, her diplomatic composure a mask that had held for thirty years and would not crack now, no matter what waited at the end of the amber-lit aisle.

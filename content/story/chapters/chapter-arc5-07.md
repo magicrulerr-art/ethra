@@ -56,22 +56,6 @@ In the war room, Sylva felt it and doubled over. In the temple, Solen felt it an
 
 The lord of the desert was screaming. And the great war was not yet over.
 
-<div class="dialogue-block">
-<p class="speech-line">Velarius Vane has been seeded since the earliest chapters of the Ethra exercise. He is the Fifth Tyrant, the Humman who began as a healer and became a monster. His Plague lasted sixty-five years. It killed eight percent of Ethra's population. It was ended only by a massive sacrifice of Styx and Rune Wolves. The Scar, a fifteen-kilometer black patch, still pulses with light on certain nights. This is not a weapon that was invented for this battle. This is a weapon that has been part of the world's history since we designed the Tyrants. When Mekhmed says, "Something Velarius left for a time like this," the reader should feel a cold shock of recognition. This is payoff for a setup that was planted long ago.</p>
-</div>
-
-The suicide scorpions are also consistent with the Humman character we have established. The Hummans are not warriors. They are survivors. They have been adapting for five hundred years. They have been trading and scheming and finding leverage wherever they can. Of course they preserved something from the Fifth Tyrant's arsenal. Of course they kept it hidden, waiting for a moment when it would be useful.
-
-And of course Mekhmed would use it without fully understanding what he was unleashing. The old general's line about all the races hunting them down is exactly right. This is a war crime in the context of Ethra. Mekhmed has crossed a line that cannot be uncrossed.
-
-The Tree's reaction is the connective tissue that binds this battle to the larger cosmic stakes. The lord of the desert has been wounded by the Plague before. It felt the First Tyrant's fire. It felt the Fifth Tyrant's Plague. It knows this poison. Its silent scream is not merely a reaction to pain; it is a reminder that the Plague is not just a Humman weapon. It is an existential threat to the ancient powers themselves.
-
-This scene also serves a structural purpose. Ajani is unconscious, but the Tree is connected to him through the pact. The Tree's scream may be the thing that finally wakes him.
-
-The deaths of the Wengari feel weighty because we have spent time with them. M'rak is not a faceless general; we saw his confidence on the approach, his command to ride faster, his smile, his words about the king. Watching him lose fifteen Wohs and then try to kill Tamsin with his bare hands is the culmination of that character work. Yvaria is not a faceless general; we saw her wild laughter, her declaration that she would be the king's bride, her insistence on riding through the night so the Motted Paws would not be outshone.
-
-Watching her ghosts fall around her is devastating because we know who she is. The deaths are not statistics. They are characters we have met.
-
 The war room was thick with the smell of old stone and older fear. The maps on the granite table were still scattered from the earlier councils, marked with the positions of forces that had already been decimated. The golden light of the destroyed dome had faded, and the morning sun streamed through the high windows, indifferent to the chaos below. M'rak stood at the head of the table. His golden armor was scorched and dented, his burn-scarred arms still trembling with the aftershock of the fire pillars.
 
 He had lost fifteen Wohs in the span of minutes. He had watched his soldiers consumed by a weapon he had only ever heard about in old stories, a weapon that should not exist, a weapon that had been buried with the Fifth Tyrant five hundred years ago. He was not in a mood to be diplomatic.

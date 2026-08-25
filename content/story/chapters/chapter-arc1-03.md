@@ -1,39 +1,5 @@
 ## Chapter 3: The Pact
 
-<div class="dialogue-block">
-<p class="speech-line">"You are not a fraud. You are not a pet. You are the heir to a bargain that has kept our people alive for three thousand years. And now, you must decide. Will you go to the Tree? Will you face what the Lightbringer faced? Or will you let the gardens die, and the Bright Paw legacy crumble into the sand?"</p>
-</div>
-
-
-The lamps flickered. The Lament hummed. And the king waited for his son's answer.
-
-
-The Wengari are not a long-lived race by nature. Even with their Steadfast adaptation and Aura mastery, a lifespan of 50-70 years is typical. The Pyrinae, with their patient, energy-efficient sorcery, might reach 100-120. The Dragari, with their forced Steadfast adaptation via the Sea Marsh, reach similar spans. Only the truly ancient—the Auruchs, the super-organisms, perhaps some Deep-Watchers—measure their lives in millennia.
-
-
-Uthgard IX, at 473 years old, is an anomaly. He has survived two full Crimson Tides—a feat almost unheard of for a Wengari. His longevity is not natural; it is a side effect of the Lightbringer's bloodline, the residual Convergence energy that lingers in the royal family. The same gift that allows the king to conjure the Four Pillars also stretches his lifespan far beyond his kin. But it is not immortality. It is a slow, drawn-out fading, and Uthgard is at the end of it.
-
-
-The Third Tide of his lifetime is approaching, and he knows he will not survive it.
-
-
-<div class="dialogue-block">
-<p class="speech-line">"There is one more thing you must know, Ajani. About your mother. About why you have no brothers or sisters to share this burden."</p>
-</div>
-
-
-His voice, already a dry whisper, grew softer still.
-
-
-<div class="dialogue-block">
-<p class="speech-line">"The Lightbringer's gift—the White Dawn blood that runs in our veins—is not a gentle inheritance. It lengthens life, yes. I have walked this world for four hundred and seventy-three years. I have seen two Crimson Tides and buried every Wengari I ever loved except you. But the gift does not merely stretch a life. It concentrates it. The same fire that sustains the Four Pillars, that lets me speak to the Tree, that kept the gardens blooming for three millennia… it is a fire that does not easily share its vessel."</p>
-</div>
-
-
-He looked down at his ruined left hand.
-
-
-<div class="dialogue-block">
 <p class="speech-line">"Your mother, Layla, was the fifth woman I loved. The first four… their bodies could not bear the weight of what I am. Each child was lost before it could take its first breath. And each time, a piece of me went with them. I thought I would never have an heir. I thought the Bright Paw line would end with me, and the pact would break, and the Tree would claim its due. And then Layla came. And she was strong. Stronger than any of them. She carried you to term. She gave you to the world. And then she died, as the others died, because the White Dawn does not share its fire without cost."</p>
 </div>
 
@@ -138,8 +104,35 @@ He reached out with his right hand and grasped Ajani's shoulder, his claws press
 
 
 <div class="dialogue-block">
-'Mother....' -<span class="speech">"The son acknowledges, his mother sacrifice..."</span>, 'look at him, so frail, even the king pays its tithe to the tree, hes carried this with him for years, it ate him up as much as the tree did, just like l'vat said, how does he know so much about us?', <span class="speech">"Please take me to the inner chamber, Father"</span>
+'Mother....' -<span class="speech">"The son acknowledges, his mother sacrifice..."</span>, 'look at him, so frail, even the king pays its tithe to the tree, he's carried this with him for years, it ate him up as much as the tree did, just like l'vat said, how does he know so much about us?', <span class="speech">"Please take me to the inner chamber, Father"</span>
 </div>
 
 
 Uthgard IX looked at his son for a long, silent moment. The weariness that had clung to him like a shroud seemed, for just an instant, to lift. In its place was something rarely seen on the face of a Bright Paw king: hope.
+
+
+<div class="dialogue-block">
+<p class="speech-line">"You have your mother's heart, Ajani. She would have been proud of you. I am proud of you."</p>
+</div>
+
+
+He released his son's shoulder and rose slowly from the stone throne, his movements heavy with the weight of centuries. His dead left hand hung at his side, the blackened claws clicking faintly against the stone. With his right, he gestured toward the far wall of the chamber.
+
+
+<div class="dialogue-block">
+<p class="speech-line">"The inner chamber lies beyond. It is not a place I can enter with you. Each king must face the Tree alone. But I will wait here. I will wait as long as it takes."</p>
+</div>
+
+
+He pressed his right palm against the ancient stone, and a seam of amber light traced itself along the wall—a door that had not opened in a thousand years, since the last king before Uthgard IX had knelt before the Tree. The runes flared, then faded, and the stone slid silently aside.
+
+
+Beyond the threshold, a narrow passage descended into the bedrock. The air that rose from it was cool and dry, carrying a faint scent of old earth and something older still—the patient, waiting hunger of the Kyre Tree. A soft, pulsing light emanated from somewhere below, not the golden glow of Bright Paw sorcery, but a pale, greenish luminescence, like moonlight filtered through leaves that had never seen the sun.
+
+
+<div class="dialogue-block">
+<span class="speech">"Ajani."</span> Uthgard's voice stopped him at the threshold. <span class="speech">"Whatever the Tree asks of you—whatever it demands—remember that you are not merely the heir to the Lightbringer. You are the son of Layla. You are the White Dawn. And whatever bargain you strike, strike it not as a servant, but as an equal. That is what the Lightbringer understood. That is what I could never do. That is what you must do now. Go. The Tree is waiting. And I will be here when you return."</span>
+</div>
+
+
+<div class="dialogue-block">

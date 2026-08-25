@@ -22,7 +22,7 @@ A severed Woh leg, still encased in its natural plate armor, lay near the gate, 
 
 She had seen death before. She had never seen anything like this.
 
-_This is hell. I've stepped into hell._
+'This is hell. I've stepped into hell.'
 
 The war room had become a tomb. The maps on the granite table were scattered and torn, stained with sweat and dust and the faint, lingering residue of the rune-glass filaments that had flickered out when the light shield fell. The elders had retreated to their quarters or the temple or the wall. Only a few remained—Sylva, still seated at the edge of the table, her silver aura guttering like a dying candle; Vasha, standing over her with her humorless face twisted into something that was not quite rage and not quite desperation; a handful of messengers and aides, frozen in the corners of the room, unsure whether to speak or flee.
 
@@ -154,8 +154,6 @@ Cefiro stepped back. He lowered his paw, and the scorpions drifted gently to the
 <span class="speech">"Now it's all up to him, cousin."</span> Cefiro settled onto the stone floor, crossing his long white legs beneath him, his pale blue eyes watching the cocoon with an expression that was not quite patient and not quite hopeful. <span class="speech">"He walked into our city three years ago and told us we were still Wengari. He invited us to come home. I am here to see if he meant it."</span>
 </div>
 
-*Then you should write the scene please (the Cefiro scene )*
-
 M'rak stood at the edge of the shattered rampart and took stock of what remained. The morning sun was climbing toward its zenith, indifferent to the carnage below, and the purple orb was still growing above the battlefield, its violet light casting long, sickly shadows across the blackened sand. The Humman army had not moved in twenty minutes. The war drums had fallen silent. The Amuk artillery had ceased firing.
 
 The suicide scorpions had retreated to the perimeter. It was a truce, or something like one, and M'rak did not trust it.
@@ -168,35 +166,11 @@ M'rak winced. He had arrived with thirty Wohs and a heart full of hope. He had l
 
 And the third orb was still out there somewhere, waiting. Mekhmed had used two. He had three left.
 
-_Can we win with that?_
+'Can we win with that?'
 
 The thought was cold and unwelcome. He pushed it aside. He did not have the luxury of doubt. He was the commander now—the regent had given him the authority, and the regent was in the temple, and the king was unconscious, and the wall was broken, and someone had to make the decisions.
 
 A sound drew his attention. From the streets below the wall, a column of figures was approaching. They were not soldiers. They carried scythes and table legs and clubs—the improvised weapons of people who had never expected to fight. Some were Wengari. Some were Humman. They walked together, their faces pale, their eyes hollow, their makeshift weapons clutched in trembling hands. There were perhaps a hundred of them.
-
-<div class="dialogue-block">
-The one who spoke was a Humman. He was young, his dark hair cropped short, his merchant's robes torn and dusty. He looked up at M'rak with eyes that were terrified but steady. <span class="speech">"General M'rak. I'm Thane. I'm a merchant. I sell silk in the eastern market. I'm not a soldier."</span> He paused, and his voice cracked, but he did not look away. <span class="speech">"But my daughter is in the temple. My wife is in the temple. My son's friend—"</span> He glanced at a young Stripe Paw cub standing beside him, the same cub who had stopped his father from killing a Humman merchant in the temple. <span class="speech">"My son's friend is Wengari. And his father is on the wall. We came because we want to fight. Please. Let us defend our families."</span>
-</div>
-
-M'rak looked at them. A hundred civilians with table legs and scythes, standing in the shadow of the broken gate, asking to fight. They would die. He knew they would die. But they were asking anyway.
-
-He turned to Tamsin. The Humman general stood at the edge of the rampart, her scarred face unreadable, her dark eyes still hollow from watching her king execute one of her own colleagues. She had defected. She had ridden through the Humman lines with her hands raised. She had told them about the Plague weapons. She had nearly been killed for it. And now she was standing on the Wengari wall, watching a mixed column of Wengari and Humman civilians ask to fight for a city that was not theirs.
-
-<div class="dialogue-block">
-<span class="speech">"You there."</span> M'rak pointed at her. <span class="speech">"You said you were a general. You commanded soldiers. You know how to lead."</span>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">Tamsin met his eyes. "I was a general. I commanded the eastern border garrison for twelve years. I fought in three campaigns against the Fire Beetles. I know how to hold a wall."</p>
-</div>
-
-<div class="dialogue-block">
-M'rak nodded. He gestured toward the column of civilians. <span class="speech">"Here is your army. Man the wall. Defend it with your lives. You answer to me. You answer to her. You fight for your families. You fight for your city. You fight for your king."</span> He raised his voice, and it carried across the shattered rampart like a war horn. <span class="speech">"And if any of you still think Humman and Wengari are enemies, look around you. The enemy is out there. The enemy is the one who brought the Plague to our desert. The enemy is the one who burned our ghosts and our Wohs. The enemy is not standing beside you. The enemy is across the sand. Now get to your posts. Hold the wall. Hold the gate. Hold the city."</span>
-</div>
-
-The civilians raised their scythes and their table legs and their clubs, and they shouted—a ragged, desperate roar that echoed across the broken stone. Tamsin stepped forward and began to organize them, her voice calm and steady, the voice of a general who had trained soldiers for twelve years and would not let them die without a fight. And M'rak turned back to the purple orb, which was still growing, still pulsing, still waiting.
-
-The third orb was still out there. The shadow riders were still out in the desert. And the great war was not yet over.
 
 <div class="dialogue-block">
 <p class="speech-line">"If the wall falls we all fall, go!"</p>

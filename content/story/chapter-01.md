@@ -2,7 +2,7 @@
 
 
 <div class="dialogue-block">
-<p class="speech-line">'seven years, has it been that long?, I remember it like it was yesterday, I wonder how is father doing, I heard last year wasnt a good year, I wanted to see the ocean... perhaps ill be able to after I speak with father L'vat is here, as promised, i wonder why does he want me to perform the ritual today? I must make haste to father, ah there are the guards', "Hail the lightbringer, Hail the light that shines upon us all"</p>
+<p class="speech-line">'seven years, has it been that long?, I remember it like it was yesterday, I wonder how is father doing, I heard last year wasn't a good year, I wanted to see the ocean... perhaps I'll be able to after I speak with father L'vat is here, as promised, I wonder why does he want me to perform the ritual today? I must make haste to father, ah there are the guards', "Hail the Lightbringer, Hail the light that shines upon us all"</p>
 </div>
 
 
@@ -14,7 +14,7 @@ The guards—two Bright Paw veterans in ceremonial armor—snap to attention at 
 </div>
 
 
-The arena stirs again. The Shadow Paws in the northern tiers murmur to one another. The Stripe Paws thump their tails against the stone in a slow, rhythmic beat—an ancient gesture of respect for a returning warrior. The Pyrinae Hydromancers incline their heads, their rune-glass staves pulsing with a faint, curious light as Ajani passes. The humman merchants scribble furiously.
+The arena stirs again. The Shadow Paws in the northern tiers murmur to one another. The Stripe Paws thump their tails against the stone in a slow, rhythmic beat—an ancient gesture of respect for a returning warrior. The Pyrinae Hydromancers incline their heads, their rune-glass staves pulsing with a faint, curious light as Ajani passes. The Humman merchants scribble furiously.
 
 
 The Lament does not move. Its multifaceted eyes track Ajani across the sand, but it offers no gesture, no hum, no sign of acknowledgment. Its silence is absolute.
@@ -35,7 +35,7 @@ Your move, Ajani.
 
 
 <div class="dialogue-block">
-<p class="speech-line">'The sun rises and the shadows grow long.... thats why l'vat wanted me here, could he not have said just that? ive lived with them for a year and he still cant speak plainly..., father is wanning, he cant maintain the ritual any longer....I must become Uthgard' - "Take me to him, at once!"</p>
+<p class="speech-line">'The sun rises and the shadows grow long.... that's why l'vat wanted me here, could he not have said just that? I've lived with them for a year and he still can't speak plainly..., father is waning, he can't maintain the ritual any longer....I must become Uthgard' - "Take me to him, at once!"</p>
 </div>
 
 
@@ -72,7 +72,7 @@ The door waited, its runes dark. Beyond it, somewhere in the silence, a king was
 
 
 <div class="dialogue-block">
-<p class="speech-line">*Ive never been here, but somehow i know what to do', "The Spear is the king... the sword is the gentle man... the saber is the tiger...the staff is the grandfather", 'Ah theyre opening*</p>
+<p class="speech-line">'I've never been here, but somehow I know what to do', "The Spear is the king... the sword is the gentle man... the saber is the tiger...the staff is the grandfather", 'Ah they're opening'</p>
 </div>
 
 
@@ -112,7 +112,7 @@ Outside, in the arena, the Lament turned its head toward the palace. Its multifa
 
 
 <div class="dialogue-block">
-<p class="speech-line">'the doors just closed behind me... spooky, i should kneel, seems appropiate', "Father, Keeper of the light, Warrior amongst Warrior, the one who gives up his name to serve the wengari, this humble son has returned, tell me, how can the son serve the wengari?"</p>
+<p class="speech-line">'the doors just closed behind me... spooky, I should kneel, seems appropriate', "Father, Keeper of the light, Warrior amongst Warriors, the one who gives up his name to serve the Wengari, this humble son has returned, tell me, how can the son serve the Wengari?"</p>
 </div>
 
 
@@ -153,41 +153,6 @@ The light in his hand died. The chamber fell into deeper shadow.
 
 <div class="dialogue-block">
 <p class="speech-line">"The pact was written in the soul of the Convergence. It was a promise made by Uthgar Lightbringer, the Third Tyrant, to the super-organisms of this world. And only a Convergence-touched can renew it."</p>
-</div>
-
-
-He let the silence stretch, watching his son's face.
-
-
-<div class="dialogue-block">
-<p class="speech-line">"Ajani. You are Convergence-touched. You were born under the Crimson Tide, on a night when both suns hung in the sky. Your mother—Layla—died bringing you into this world. I have known what you are since the moment you drew your first breath. And I have spent every day since then praying that I was wrong."</p>
-</div>
-
-
-His voice cracked, just slightly, on the last word.
-
-
-<div class="dialogue-block">
-<span class="speech">"The Styx have not heralded you. The Chi'Thak have not stirred. But the Lament has walked out of the Flickermarch for the first time in three hundred years. It stands in our arena, and it is waiting for you. The super-organisms know what you are. The Tree knows what you are. And I..."</span> He closed his eyes. <span class="speech">"I am dying, Ajani. The spear last year took more than my hand. It took the last of what the Lightbringer gave me. If you do not take up the pact, if you do not become what you were born to be, then the Bright Paw line ends with me. And the Tree will claim what it is owed."</span>
-</div>
-
-
-He opened his eyes again, and in them was not the weariness of a dying king, but the fierce, desperate love of a father who had spent twenty-five years trying to protect his son from a destiny he could not outrun.
-
-
-<div class="dialogue-block">
-<p class="speech-line">"That is how the son serves the Wengari. Not with a spear. Not with a sword. With a choice. Will you take the pact, Ajani? Will you go to the Tree and face what the Lightbringer faced? Or will you walk away—and let the gardens die, and the city fall, and the Bright Paw legacy crumble into the sand?"</p>
-</div>
-
-
-The lamps flickered. Somewhere far above, in the arena, the Lament's hum deepened, vibrating through the stone like the first tremor of an earthquake.
-
-
-2. **"The shameful secret of our glory."** This is perfect. It captures the duality of the Bright Paw legacy: their prosperity is real, but its foundation is a pact they do not understand and cannot keep. Uthgard would frame it as a burden passed down through the bloodline, a truth hidden from even the other Wengari families.
-
-
-<div class="dialogue-block">
-3. **<span class="speech">"The white dawn"</span> instead of <span class="speech">"convergence-touched."</span>** Each race has its own term for those born under both suns. For the Wengari, who are openly White Dawnists, a Convergence-born is not a <span class="speech">"tyrant"</span> in waiting—they are a potential savior, the fulfillment of their deepest religious hope. Uthgard would use the term <span class="speech">"White Dawn"</span> to name what Ajani is, and it would carry both reverence and dread.
 </div>
 
 
@@ -258,7 +223,9 @@ He closed his eyes.
 The chamber fell silent. The lamps held their breath. And far above, the Lament hummed on.
 
 
-'L'vat was right!!!, we are a fraud!, all my life I have believed our city was a marvel yet is nothing but a well kept cage!!!' -"Father... is this true?, are we nothing more than kept pets to a... thing that dwells below?"
+'L'vat was right!!! We are a fraud! All my life I have believed our city was a marvel yet is nothing but a well-kept cage!!!'
+
+"Father... is this true? Are we nothing more than kept pets to a... thing that dwells below?"
 
 
 Uthgard IX did not flinch at his son's outburst. He had expected it—dreaded it, rehearsed it in a thousand sleepless nights. But hearing the pain in Ajani's voice, seeing the betrayal in his eyes, was a wound no amount of preparation could blunt.
@@ -442,7 +409,7 @@ He reached out with his right hand and grasped Ajani's shoulder, his claws press
 
 
 <div class="dialogue-block">
-'Mother....' -<span class="speech">"The son acknowledges, his mother sacrifice..."</span>, 'look at him, so frail, even the king pays its tithe to the tree, hes carried this with him for years, it ate him up as much as the tree did, just like l'vat said, how does he know so much about us?', <span class="speech">"Please take me to the inner chamber, Father"</span>
+'Mother....' -<span class="speech">"The son acknowledges, his mother sacrifice..."</span>, 'look at him, so frail, even the king pays its tithe to the tree, he's carried this with him for years, it ate him up as much as the tree did, just like l'vat said, how does he know so much about us?', <span class="speech">"Please take me to the inner chamber, Father"</span>
 </div>
 
 
@@ -474,7 +441,7 @@ Beyond the threshold, a narrow passage descended into the bedrock. The air that 
 
 
 <div class="dialogue-block">
-<p class="speech-line">*its just as l'vat described, the spiral stair, the faint lights... the air gets thinner... if i handt lived with them for a year I think i would have fainted by now, here is the message, just where said it would be', "To my heir, if you are reading this, then you know, our blood is cursed, everyone who came before you and surely everyone who will come after has succumbed to the curse, there is only one way out, in", 'For the whiskers of uthgard!! did the first need to be so cryptic as well???!!!!, theres something... some noise... a voice?*</p>
+<p class="speech-line">'It's just as L'vat described, the spiral stair, the faint lights... the air gets thinner... if I hadn't lived with them for a year I think I would have fainted by now, here is the message, just where said it would be. "To my heir, if you are reading this, then you know, our blood is cursed, everyone who came before you and surely everyone who will come after has succumbed to the curse, there is only one way out, in." For the whiskers of Uthgard!! Did the first need to be so cryptic as well???!!!!, there's something... some noise... a voice?'</p>
 </div>
 
 
@@ -497,7 +464,7 @@ The blossom at the chamber's center began to open.
 
 
 <div class="dialogue-block">
-<p class="speech-line">'ok... here it goes, press the palm to the flower and speak, just like in the marshes' - "I am Ajani Brightmane first of my name, Heir to the light that burns the shadow, Son of Layla, bearer of the pact... Chosen by the deep"</p>
+<p class="speech-line">'ok... here it goes, press the palm to the flower and speak, just like in the marshes' - "I am Ajani Brightmane first of my name, Heir to the light that burns the shadow, Son of Layla, bearer of the pact... Chosen by the Deep"</p>
 </div>
 
 
@@ -547,7 +514,7 @@ The blossom drew back slightly, and the voice grew softer, almost gentle.
 
 
 <div class="dialogue-block">
-<p class="speech-line">"I am not uthgard, I am Ajani, and I know what you are and what you are not, as much as I know what I am and what I am not, I will not make the mistakes uthgard made, i do not offer my life, i offer prosperity, the deep wishes for a corridor spanning from the marshes to the desert a stable highway for his lament to pass and thrive, We the wengari, the heirs of two whitedawns are the only ones strong enough to accomplish this, I offer you the chance to live beyond the desert, to see new things, to taste new things, you have felt it, the deep dwells within me, He wishes to speak"</p>
+<p class="speech-line">"I am not Uthgard, I am Ajani, and I know what you are and what you are not, as much as I know what I am and what I am not, I will not make the mistakes Uthgard made, I do not offer my life, I offer prosperity, the Deep wishes for a corridor spanning from the marshes to the desert a stable highway for his Lament to pass and thrive. We the Wengari, the heirs of two White Dawns are the only ones strong enough to accomplish this, I offer you the chance to live beyond the desert, to see new things, to taste new things, you have felt it, the Deep dwells within me, He wishes to speak"</p>
 </div>
 
 
@@ -599,7 +566,7 @@ The roots trembled. The amber pool shimmered.
 The blossom drew back, and the voice hardened—not with anger, but with the slow, grinding weight of a decision being made.
 
 
-*"But the Rune-Belt is not yours to give. The Rune-Belt belongs to the wolves and the lotus, to the hummans and the Stripe Paws, to the Pyrinae and the Threx. A road of my roots would disrupt that land. It would feed on its energy. It would change the balance of power among the races in ways even I cannot foresee. The Deep desires this corridor. But does the Rune-Belt desire it? Do the races who dwell there desire it?"*
+*"But the Rune-Belt is not yours to give. The Rune-Belt belongs to the wolves and the lotus, to the Hummans and the Stripe Paws, to the Pyrinae and the Threx. A road of my roots would disrupt that land. It would feed on its energy. It would change the balance of power among the races in ways even I cannot foresee. The Deep desires this corridor. But does the Rune-Belt desire it? Do the races who dwell there desire it?"*
 
 
 The pool rippled, and the image shifted again—this time showing the Rune-Belt, its forests and grasslands, its Tide Wolves and Lotus Blooms, its Wengari nomads and Humman caravans. And then, slowly, roots began to creep into the image. Green shoots pushing through the soil. The landscape transforming.
@@ -644,7 +611,7 @@ The root withdrew. The spear's green light faded, leaving only the soft amber gl
 The passage behind Ajani began to glow with a warm, golden light—the light of the Bright Paw legacy, guiding him back to the surface. The Tree's blossom slowly closed, its work complete. And somewhere far above, in the arena of the sun, the Lament began to hum a song that had not been heard since the Lightbringer vanished: a song of beginnings, of hope, of the road that would soon stretch from the desert to the sea.
 
 
-The kyrie tree gave the equivalent of a long held breath, a release of tension that had been coiling for three thousand years.
+The Kyre Tree gave the equivalent of a long held breath, a release of tension that had been coiling for three thousand years.
 
 
 *"Before you go... there is something you must see. I told you I despise the one who dwells in the Rune-Belt. I told you he is ancient. I did not tell you why."*
@@ -667,68 +634,13 @@ The image faded, and the Tree's voice dropped to a whisper.
 
 The passage glowed brighter. The roots withdrew. And the Tree fell silent, its ancient consciousness retreating into the depths of the desert, leaving the young king alone with his thoughts and the long climb back to the light.
 
-
-The Tree is not a mentor. It is not a friend. It is not even an ally in any conventional sense. It is ancient, patient, hungry, and utterly indifferent to Ajani's hopes, his people's survival, or the fate of the Bright Paw legacy. It accepted the Lightbringer's pact because it was advantageous. It will accept Ajani's offer because it sees profit in a road. But it does not care if Ajani succeeds or fails—only that the terms are met. And if they are not, the consequences will be absolute.
-
-
-Let me rewrite the Tree's final exchange with Ajani.
-
-
-*The green spear blazed, and the roots recoiled. Then, slowly, they leaned in once more. The amber pool rippled—not with wonder, not with hope, but with calculation. The Tree had not survived for millions of years by hoping. It had survived by taking.*
-
-
-*"You speak for the Deep. You carry its mark. You offer a road—a corridor through the Rune-Belt, where my roots have never been permitted to grow. You offer expansion. Growth. New soil. New prey. These are things I desire. These are things I will accept."*
-
-
-*The pool grew still.*
-
-
-*"But the Rune-Belt is not yours to give. It belongs to another. One who dwells in its heart. One who has been there since before your kind learned to speak. You know of him. You know the Deep and I despise him, though you do not know why. You wish to broker a pact with him, as you broker a pact with me now. This is... ambitious. The Lightbringer attempted this. He failed. Velarius woke him. And now he stirs."*
-
-
-*A single root extended from the blossom—thin, dark, thorned. It touched the tip of Ajani's green spear, and the chamber grew cold.*
-
-
-*"I accept your offer, Ajani Brightmane. The pact is renewed. But it is not renewed as it was. The tithe is ended. The rituals are ended. You will build the road. You will give me access to the Rune-Belt. You will do this before the next Crimson Tide. And if you fail—if the road is not built, if the one in the forest refuses your pact, if your White Dawn fire gutters and dies before the work is done—then the old pact ends.
-
-The gardens wither. The wells run dry. The Bright Paws perish. I do not say this as a threat. I say this as a fact. I am old. I am patient. I am hungry. And I will not wait another three thousand years for a partner who cannot deliver."*
-
-
-*The thorned root withdrew, leaving a single drop of amber sap on the tip of the green spear—a mark, a binding, a deadline.*
-
-
-*"Go now. Your father is dying. Your people are waiting. The Lament will carry word of what has happened here to every corner of Ethra. And the one in the Rune-Belt—the one Velarius woke—he will hear of it too. He will know that a White Dawn has risen. He will know that the pact has been renewed. And he will come for you, as he came for the Lightbringer, as he came for all the others. Do not let him find you unprepared."*
-
-
-*The blossom began to close, its petals folding inward like a fist. The green luminescence faded. The roots withdrew into the rock. And the Tree's voice echoed one last time through the chamber—cold, ancient, utterly without mercy.*
-
-
-*"You are a king, Ajani Brightmane. Kings do not bow. But kings also do not fail. Not twice. Not when the price is everything."*
-
-
-<div class="dialogue-block">
-<p class="speech-line">"You may go now, Ajani the first king of the wengari, a pact is brokered a pact is kept, the first did not speak of me, i wonder, will you do so?, i look forward to what the latest white dawn can do, a gift before you part" <span class="speech-attr">- a rumble and sounds of fear and awe are heard from the outside enough to be heard deep within the chamber</span></p>
-</div>
-
-
-I'll take the seed and run with it. The Tree's final words are perfectly calibrated—ancient, patient, and utterly without sentiment. No hope offered. No encouragement given. Just a pact brokered, a question posed, and a gift bestowed.
-
-
-Let me narrate what happens next.
-
-
 The rumble began deep beneath the chamber, a seismic groan that vibrated through the roots and the stone and the very air. Dust sifted from the ceiling. The amber pool rippled, then stilled. The blossom closed completely, its petals folding inward like a fist releasing its grip on the world.
-
 
 And then, from above, came the sounds.
 
-
 A roar—not of any beast Ajani had ever heard, but something deeper, older, more resonant. It was answered by another, and another, until the air itself seemed to shake with the chorus. Beneath the roars, a higher sound: the panicked shouts of Wengari, the clatter of rune-glass staves as the Pyrinae scrambled, the distant thunder of Stripe Paw tails beating against stone in alarm or awe. And beneath even that, a single, sustained note—the Lament's hum, no longer soft and patient, but triumphant, ecstatic, a song of recognition.
 
-
-
 The passage before Ajani blazed with golden light, and he climbed. The stairs seemed shorter now, the air warmer, the weight of the Tree's presence receding with every step. When he emerged into the Chamber of Reflection, his father was waiting. Uthgard IX stood—stood, despite the centuries and the withered hand and the dying light within him—with his eyes fixed on the passage and his good hand pressed against his heart.
-
 
 <div class="dialogue-block">
 <span class="speech">"Ajani."</span> His voice was hoarse, barely a whisper. <span class="speech">"What did you do?"</span>

@@ -1,40 +1,5 @@
 ## Chapter 2: The Chamber
 
-He let the silence stretch, watching his son's face.
-
-
-<div class="dialogue-block">
-<p class="speech-line">"Ajani. You are Convergence-touched. You were born under the Crimson Tide, on a night when both suns hung in the sky. Your mother—Layla—died bringing you into this world. I have known what you are since the moment you drew your first breath. And I have spent every day since then praying that I was wrong."</p>
-</div>
-
-
-His voice cracked, just slightly, on the last word.
-
-
-<div class="dialogue-block">
-<span class="speech">"The Styx have not heralded you. The Chi'Thak have not stirred. But the Lament has walked out of the Flickermarch for the first time in three hundred years. It stands in our arena, and it is waiting for you. The super-organisms know what you are. The Tree knows what you are. And I..."</span> He closed his eyes. <span class="speech">"I am dying, Ajani. The spear last year took more than my hand. It took the last of what the Lightbringer gave me. If you do not take up the pact, if you do not become what you were born to be, then the Bright Paw line ends with me. And the Tree will claim what it is owed."</span>
-</div>
-
-
-He opened his eyes again, and in them was not the weariness of a dying king, but the fierce, desperate love of a father who had spent twenty-five years trying to protect his son from a destiny he could not outrun.
-
-
-<div class="dialogue-block">
-<p class="speech-line">"That is how the son serves the Wengari. Not with a spear. Not with a sword. With a choice. Will you take the pact, Ajani? Will you go to the Tree and face what the Lightbringer faced? Or will you walk away—and let the gardens die, and the city fall, and the Bright Paw legacy crumble into the sand?"</p>
-</div>
-
-
-The lamps flickered. Somewhere far above, in the arena, the Lament's hum deepened, vibrating through the stone like the first tremor of an earthquake.
-
-
-2. **"The shameful secret of our glory."** This is perfect. It captures the duality of the Bright Paw legacy: their prosperity is real, but its foundation is a pact they do not understand and cannot keep. Uthgard would frame it as a burden passed down through the bloodline, a truth hidden from even the other Wengari families.
-
-
-<div class="dialogue-block">
-3. **<span class="speech">"The white dawn"</span> instead of <span class="speech">"convergence-touched."</span>** Each race has its own term for those born under both suns. For the Wengari, who are openly White Dawnists, a Convergence-born is not a <span class="speech">"tyrant"</span> in waiting—they are a potential savior, the fulfillment of their deepest religious hope. Uthgard would use the term <span class="speech">"White Dawn"</span> to name what Ajani is, and it would carry both reverence and dread.
-</div>
-
-
 Uthgard IX looked upon his son. The faint smile that had touched his weary face at Ajani's careful kneeling faded, replaced by something heavier: the weight of a secret held for three thousand years.
 
 
@@ -102,7 +67,9 @@ He closed his eyes.
 The chamber fell silent. The lamps held their breath. And far above, the Lament hummed on.
 
 
-'L'vat was right!!!, we are a fraud!, all my life I have believed our city was a marvel yet is nothing but a well kept cage!!!' -"Father... is this true?, are we nothing more than kept pets to a... thing that dwells below?"
+'L'vat was right!!! We are a fraud! All my life I have believed our city was a marvel yet is nothing but a well-kept cage!!!'
+
+"Father... is this true? Are we nothing more than kept pets to a... thing that dwells below?"
 
 
 Uthgard IX did not flinch at his son's outburst. He had expected it—dreaded it, rehearsed it in a thousand sleepless nights. But hearing the pain in Ajani's voice, seeing the betrayal in his eyes, was a wound no amount of preparation could blunt.
@@ -146,3 +113,39 @@ He looked down at his dead left hand.
 
 
 He reached out with his right hand—the one that still worked—and placed it gently on Ajani's shoulder.
+
+
+<div class="dialogue-block">
+<p class="speech-line">"You are not a fraud. You are not a pet. You are the heir to a bargain that has kept our people alive for three thousand years. And now, you must decide. Will you go to the Tree? Will you face what the Lightbringer faced? Or will you let the gardens die, and the Bright Paw legacy crumble into the sand?"</p>
+</div>
+
+
+The lamps flickered. The Lament hummed. And the king waited for his son's answer.
+
+
+The Wengari are not a long-lived race by nature. Even with their Steadfast adaptation and Aura mastery, a lifespan of 50-70 years is typical. The Pyrinae, with their patient, energy-efficient sorcery, might reach 100-120. The Dragari, with their forced Steadfast adaptation via the Sea Marsh, reach similar spans. Only the truly ancient—the Auruchs, the super-organisms, perhaps some Deep-Watchers—measure their lives in millennia.
+
+
+Uthgard IX, at 473 years old, is an anomaly. He has survived two full Crimson Tides—a feat almost unheard of for a Wengari. His longevity is not natural; it is a side effect of the Lightbringer's bloodline, the residual Convergence energy that lingers in the royal family. The same gift that allows the king to conjure the Four Pillars also stretches his lifespan far beyond his kin. But it is not immortality. It is a slow, drawn-out fading, and Uthgard is at the end of it.
+
+
+The Third Tide of his lifetime is approaching, and he knows he will not survive it.
+
+
+<div class="dialogue-block">
+<p class="speech-line">"There is one more thing you must know, Ajani. About your mother. About why you have no brothers or sisters to share this burden."</p>
+</div>
+
+
+His voice, already a dry whisper, grew softer still.
+
+
+<div class="dialogue-block">
+<p class="speech-line">"The Lightbringer's gift—the White Dawn blood that runs in our veins—is not a gentle inheritance. It lengthens life, yes. I have walked this world for four hundred and seventy-three years. I have seen two Crimson Tides and buried every Wengari I ever loved except you. But the gift does not merely stretch a life. It concentrates it. The same fire that sustains the Four Pillars, that lets me speak to the Tree, that kept the gardens blooming for three millennia… it is a fire that does not easily share its vessel."</p>
+</div>
+
+
+He looked down at his ruined left hand.
+
+
+<div class="dialogue-block">

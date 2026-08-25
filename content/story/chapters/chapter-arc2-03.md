@@ -1,10 +1,5 @@
 ## Chapter 3: The Shadow Paw
 
-<div class="dialogue-block">
-<p class="speech-line">Zara took up the call. Her massive frame seemed to swell, her striped mane bristling, her claws extended toward the unseen ceiling. "THE WENGARI!"</p>
-</div>
-
-
 The Motted Paw twins raised their twinned petals and added their voices, a harmony that had not been heard in three thousand years. The Shadow Paw cub, still clutching her single bright petal, shouted with a voice far larger than her small frame should have allowed. The Bright Paw priests, their golden manes gleaming in the green light, forgot their grief for the broken Solen and the consumed Joren and joined the chorus.
 
 
@@ -150,53 +145,6 @@ Ajani exhaled slowly. The road would have to wait. The world had come to the des
 </div>
 
 
-**One Month After the Council**
-
-**The Bright Paw Capital**
-
-
-The month had been a blur of preparation. The chosen representatives of the five families had been drilling daily, training for the expedition into the Rune-Belt. Kareth had thrown himself into the work with a fervor that bordered on obsession. Zara had organized the supply caravans, her Stripe Paw efficiency turning chaos into order. Nyasha had spent most of the month in the inner chamber, communing with the Tree in silence.
-
-The Shadow Paw cub was now training with the elders. Solen, the broken Bright Paw heir, had been sent to the Pyrinae healers; they reported that his body would recover, but his Aura was gone.
-
-
-And through it all, the white male Styx circled the northern horizon.
-
-
-The morning of their planned departure, T'van burst into Ajani's chambers without knocking. His shaved mane was damp with sweat, his golden eyes wide.
-
-
-<div class="dialogue-block">
-<p class="speech-line">"Ajani—my king—they're here. Delegations. The Pyrinae have requested a formal audience—not as vassals, they said, but as an independent race. The Hummans have sent a full mercantile council. There's a Shell-Singer from the Tidepools walking through the eastern gate as we speak. And something—a Threx, but not like the Lament. Small. Young. Frightened. It won't speak to anyone except you."</p>
-</div>
-
-
-He paused, gulping air.
-
-
-<div class="dialogue-block">
-<p class="speech-line">"And the Blight. The watchmen on the northern ridge say the ground is stirring. No swarm yet, but the old scouts say it feels wrong. Too early. Too organized."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Ajani set down the pack he had been filling with supplies. "Anything else?"</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">T'van hesitated. "The watchmen on the northern road. They saw something. Walking down from the coast. Alone. Singing. They thought it was a mirage—a trick of the heat. But it kept coming. Tall. Scaled. Shining like water in the sun. They've never seen anything like it. They don't know what it is."</p>
-</div>
-
-
-The king looked out the window, toward the northern horizon where the Styx circled and the road was meant to begin and something unknown was walking toward them with a song on the wind. He exhaled slowly.
-
-
-<div class="dialogue-block">
-<p class="speech-line">"Summon the elders. Assemble the delegations in the Hall of the Sun."</p>
-</div>
-
-
 <div class="dialogue-block">
 T'van's ears pricked forward, his exhaustion momentarily forgotten. <span class="speech">"One by one. In the arena. Only their absolute best."</span> He repeated the words as if memorizing a sacred text. <span class="speech">"And our brother the Threx first."</span>
 </div>
@@ -216,7 +164,7 @@ And then he was gone, his hurried footsteps echoing down the corridor as he carr
 
 
 <div class="dialogue-block">
-<p class="speech-line">'a Quick not l'vat, the travel must have taken a toll on him, let's not make him wait', "Brother,  this Ajani, friend of the marsh, disciple of l'vat salutes you "</p>
+<p class="speech-line">'a Quick, not L'vat. The travel must have taken a toll on him. Let's not make him wait' — "Brother, this Ajani, friend of the marsh, disciple of L'vat, salutes you"</p>
 </div>
 
 
@@ -233,7 +181,7 @@ At Ajani's approach, the Quick's head snapped up. Its eyes caught the green fire
 </div>
 
 
-*of course hell collect...the old bastard' -"brother, please rest I'll have a pool drawn for you , thank you for coming in such haste, let me share some of my energy with you"-'just a flicker, focus on the connection, don't overwhelm him*
+'of course he'll collect...the old bastard' — "brother, please rest, I'll have a pool drawn for you, thank you for coming in such haste, let me share some of my energy with you" — 'just a flicker, focus on the connection, don't overwhelm him'
 
 
 The Quick flinched as Ajani reached out—an instinctive recoil, the reflex of a creature that had spent twenty-eight days alone in a world that would happily kill it. But when the king's paw touched its chitin, gentle as falling leaves, the Threx stilled.
@@ -258,7 +206,7 @@ It swayed again, but this time it was not exhaustion. It was something closer to
 
 
 <div class="dialogue-block">
-<span class="speech">"and brother, tell l'vat, I'm coming for the thing below the belt...., t'vat !!!!, call the humans,  remember, I will only receive their best!"</span> , 'ok, summon the spear sit on the throne, and appear regal, just as father when dealing with the crowds, it's all appearance,  I remember what he always said after <span class="speech">"Ajani, A king must be like the dessert sun, warm, unflinching, unforgiving"</span>, I miss him so much ...'
+<span class="speech">"and brother, tell L'vat, I'm coming for the thing below the belt... T'van!!!! Call the Hummans. Remember, I will only receive their best!"</span> — 'ok, summon the spear, sit on the throne, and appear regal, just as father when dealing with the crowds. It's all appearance. I remember what he always said after: <span class="speech">"Ajani, a king must be like the desert sun, warm, unflinching, unforgiving"</span>. I miss him so much...'
 </div>
 
 
@@ -279,7 +227,7 @@ Ajani settled onto the throne. The cold stone was familiar now—it had been a m
 
 
 <div class="dialogue-block">
-<p class="speech-line">*well, let's see how they face a king, let them kneel', "Is it not customary to kneel before your king brother ?", 'flare the aura, let them feel the heat of the desert sun, until they kneel!*</p>
+<p class="speech-line">'well, let's see how they face a king, let them kneel' — "Is it not customary to kneel before your king, brother?" — 'flare the aura, let them feel the heat of the desert sun, until they kneel'</p>
 </div>
 
 
@@ -305,7 +253,7 @@ The merchant who had fallen first let out a strangled whimper. Seris, still on h
 
 
 <div class="dialogue-block">
-<p class="speech-line">*the absolute insolence!', "I AM AJANI, KEEPER OF THE LIGHT, HEIR TO THE FIRST AND THE THIRD, I AM THE DESERT SUN AND YOU WILL KNEEL TO YOUR KING!!!!!", 'now, what did father always did? Ah yes the spear vault, that's too showy, let's go with l'vats way...careful ...careful and pull!*</p>
+<p class="speech-line">'the absolute insolence!' — "I AM AJANI, KEEPER OF THE LIGHT, HEIR TO THE FIRST AND THE THIRD, I AM THE DESERT SUN AND YOU WILL KNEEL TO YOUR KING!!!!!" — 'now, what did father always do? Ah yes the spear vault, that's too showy, let's go with L'vat's way...careful...careful and pull!'</p>
 </div>
 
 
@@ -332,3 +280,9 @@ The Stripe Paw mercenary braced for fire. She had seen the coronation. Everyone 
 
 
 She did not expect the touch.
+
+
+It was cold. Not the cold of desert night, but the cold of deep water, of ancient roots, of something that had learned patience in a place where the sun never reached. A tendril of green fire coiled around her left paw—so faint, so subtle, that even she barely felt it until it pulled.
+
+
+Not hard. Not violently. Just a precise, inexorable pressure on the tendons, on the joint, on the precise point where biomechanics dictated that her leg must bend. She did not choose to kneel. She did not decide to kneel. Her body simply obeyed, as if the laws of physics had been rewritten for this single moment, and the only permitted motion was descent.

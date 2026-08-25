@@ -1,5 +1,15 @@
 ## Chapter 5: The Hydromancer
 
+<div class="dialogue-block">
+She stopped at the foot of the throne's dais, her clouded eyes level with his. <span class="speech">"The question is not whether we will follow you. The question is whether you will let us follow you as we are, or whether you will demand that we become something else. The Hummans are bargaining for their survival. The Veylar are watching for signs of tyranny. The Threx are loyal because L'vat told them to be. But the Pyrinae—"</span> She placed her hand over her heart, the rune-glass filaments in her flesh pulsing with amber light. <span class="speech">"The Pyrinae are your memory. We know what the Lightbringer intended. We know what the pact was meant to be. We know that the road you have promised is not merely a corridor for the Tree's roots, but a bridge between the ancient ones, a restoration of something that was broken before the Wengari ever walked this desert."</span> She extended her hand, palm up, toward the throne. <span class="speech">"Tell us what you need, White Dawn. Not as a king to his subjects. Not as a predator to his prey. As a friend to the memory that has waited three thousand years to serve."</span>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">"do you think me a fool? Three thousand years waiting to serve? Did father ever fall for such lofty words? I might be a young king, but I am king. You either treat me with respect or your race dies tonight. Don't make me repeat myself"</p>
+</div>
+
+
 The Hydromancer's ancient composure did not crack. But something shifted in her clouded eyes—a flicker of recognition, perhaps even of approval. She had watched three Wengari kings hold court. She had seen Uthgard IX charm his enemies and disarm his friends with a single well-placed word. She had seen his father, Uthgard VIII, rule with a sternness that bordered on cruelty. She had seen the Bright Paw dynasty at its zenith and its nadir.
 
 
@@ -15,7 +25,7 @@ The green fire flickered along the king's claws. Somewhere in the shadows of the
 
 
 <div class="dialogue-block">
-<p class="speech-line">'twirl the spear, then throw it at her face, grace her lightly...there' - "I am my father son, but I am not my father, I won't miss the next time, the truth, now"</p>
+<p class="speech-line">'twirl the spear, then throw it at her face, grace her lightly...there' — "I am my father's son, but I am not my father, I won't miss the next time, the truth, now"</p>
 </div>
 
 
@@ -37,22 +47,6 @@ But something shifted in her expression. The ancient composure, the patient dipl
 <div class="dialogue-block">
 She stepped closer, her bare feet silent on the warm stone, and her voice dropped to a whisper. <span class="speech">"You changed everything. The pact is renewed. The Tree is awake. The Deep walks the surface. The Styx have heralded you. The Laments have acknowledged you. You have done in one month what we believed would take another thousand years—if it happened at all. We are not here to offer loyalty. Loyalty is cheap. We are here to offer truth. All of it. Whatever you wish to know. The old pact, the new one, the Lightbringer's secrets, the Tree's hunger, the Deep's designs, the Blight's stirring, the one in the Rune-Belt—ask. We are your memory, whether you want us or not. We will not kneel. We will not flatter. But we will answer."</span> She spread her empty hands. <span class="speech">"What would you know, White Dawn?"</span>
 </div>
-
-
-Here is the correction.
-
-
-<div class="dialogue-block">
-<p class="speech-line">The Hydromancer saw the flicker of skepticism in Ajani's eyes and inclined her head. "You wonder how I could have spoken with the Lightbringer. I did not. My predecessor did. And her predecessor before her. The Root-Speakers keep the old knowledge alive through the spores and the deep dreams. I carry the memories of every Hydromancer who came before me—not as my own, but as a living library, passed down through the mycelial touch at the moment of succession. I have seen the Lightbringer's face. I have heard his voice. I have felt his hand on my shoulder—though it was not my shoulder he touched, and I was not yet born. This is the gift of the Deep. This is the burden of the Root-Speakers. We remember what the world forgets."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">She touched the severed lock of hair at her shoulder. "I am one hundred and seventeen years old. I will not live to see another decade. But my successor will carry this moment into the next century, and the century after that. The Pyrinae do not live forever, King Ajani. We simply... do not forget."</p>
-</div>
-
-
-The Hydromancer's testimony should be grounded in that: a dream she witnessed, a moment of clarity in the Tree's ancient, dreaming mind. Not a conversation with the Lightbringer. A glimpse of his intentions, filtered through the Tree's memory.
 
 
 <div class="dialogue-block">
@@ -92,7 +86,7 @@ She let the silence stretch. <span class="speech">"I am not here to speak of the
 
 
 <div class="dialogue-block">
-<p class="speech-line">'I...what ?' - "You knew my mother ?.... May I know your name, please ?"</p>
+<p class="speech-line">'I...what?' — "You knew my mother? May I know your name, please?"</p>
 </div>
 
 
@@ -105,12 +99,7 @@ The ancient Hydromancer closed her eyes. For a long moment, she did not speak. W
 
 
 <div class="dialogue-block">
-<p class="speech-line">The old Hydromancer raised her hand, palm open. The rune-glass filaments embedded in her flesh pulsed with a slow, amber light. "I promised your father I would watch over you. I promised him I would see what you became. I am fulfilling that promise now. Whatever you wish to know, ask. I will answer. Not as a diplomat. Not as a Hydromancer. As a friend of your parents. As someone who remembers."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">'Mother wanted me to see the ocean....', "This is a gift I can never repay, ask me for anything, and if it is within my power I'll make it so, if its not I'll find someone who will"</p>
+<p class="speech-line">'Mother wanted me to see the ocean...' — "This is a gift I can never repay. Ask me for anything, and if it is within my power I'll make it so. If it's not, I'll find someone who will"</p>
 </div>
 
 
@@ -133,7 +122,7 @@ She inclined her head—not the formal bow of a diplomat, but the simple, tired 
 
 
 <div class="dialogue-block">
-<p class="speech-line">'mother...' - "Very well, now let's return to the act, call the rest of your delegation please , before Ajani I am king... And just like the water is life in the desert , so must I be the life of our people, negotiations must resume"</p>
+<p class="speech-line">'mother...' — "Very well, now let's return to the act. Call the rest of your delegation, please. Before Ajani, I am king... And just like the water is life in the desert, so must I be the life of our people. Negotiations must resume"</p>
 </div>
 
 
@@ -151,7 +140,7 @@ Nefere resumed her formal posture, her voice returning to the measured cadence o
 
 
 <div class="dialogue-block">
-<p class="speech-line">"The human delegation came before you, as you know they are weak and traitorous, I have dealt with them as one deals with pests, your talent for trade is not unknown to me, and you have been vassals for too long, here is my proposal, you know of the lord of the desert and the ancient abandoned cities of the wengari as a acknowledgement for three thousand years of friendship, I give you five cities of your choosing to do with them as you will, if you wish to participate in the road project, you will do so as friends, with first veto on the goods that will enter your markets, reduced producy tax for the first 25 years and a waiver of the road fee for the first century, this is my will"</p>
+<p class="speech-line">"The Humman delegation came before you. As you know, they are weak and traitorous. I have dealt with them as one deals with pests. Your talent for trade is not unknown to me, and you have been vassals for too long. Here is my proposal: you know of the Lord of the Desert and the ancient abandoned cities of the Wengari. As an acknowledgment for three thousand years of friendship, I give you five cities of your choosing to do with them as you will. If you wish to participate in the road project, you will do so as friends, with first veto on the goods that will enter your markets, reduced product tax for the first 25 years, and a waiver of the road fee for the first century. This is my will"</p>
 </div>
 
 
@@ -182,7 +171,7 @@ She lowered her head. Not the formal bow of a diplomat. Not the reluctant conces
 
 
 <div class="dialogue-block">
-<p class="speech-line">"Before you leave, I do have one small request, you live with us, I need you to monitor the hummans, I will be gone for the road project I need someone who knows us and them, someone who's lived with us so they can warn us when they try to outplay us, because they will, could you grant me this, humble aid ?"</p>
+<p class="speech-line">"Before you leave, I do have one small request, you live with us, I need you to monitor the Hummans, I will be gone for the road project I need someone who knows us and them, someone who's lived with us so they can warn us when they try to outplay us, because they will, could you grant me this, humble aid ?"</p>
 </div>
 
 
@@ -196,14 +185,4 @@ Nefere paused at the edge of the arena, her ancient frame silhouetted against th
 
 <div class="dialogue-block">
 <p class="speech-line">She walked back across the sand, her bare feet leaving faint impressions that the wind would erase within the hour. "I have lived among the Wengari for sixty years. I have negotiated with Humman merchants for longer than most of their council has been alive. I know their tells—the way they blink when they are lying, the way they pause when they are about to break a promise. I know their trade routes, their guild politics, their desperate hunger for respect from races that will never grant it. You are right. They will try to outplay you. They cannot help themselves. It is what they are."</p>
-</div>
-
-
-<div class="dialogue-block">
-She stopped at the foot of the throne's dais and raised her eyes to the king. <span class="speech">"I am old, Ajani Brightmane. I have perhaps three years left, perhaps five. I will spend them doing what I have always done: watching, listening, remembering. But I will do it for you now. Not for the Bright Paws. Not for the pact. For you."</span> She inclined her head—a slow, deliberate gesture that was almost a bow, but not quite. Almost a promise, but not quite. Something in between. <span class="speech">"When the Hummans make their first move against you, I will know. When their guilds begin to scheme, I will know. When their ambassador writes letters to Verdantis that she does not wish you to see, I will know. And I will tell you. This is my aid. Humble, as you say. But it is what I can offer."</span>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">She straightened, and the faintest smile crossed her weathered face. "I will warn you, though. You have given me cities. You have given me trade. You have given me the first real hope the Pyrinae have had in three thousand years. If you die on this road before I do, I will be very annoyed. Do not die on this road." She turned and walked toward the eastern gate, her rune-glass filaments dimming as she passed into the shadows of the colonnade, leaving the king alone with the setting sun and the spear still quivering in the stone.</p>
 </div>

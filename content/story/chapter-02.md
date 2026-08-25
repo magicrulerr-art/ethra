@@ -2,7 +2,7 @@
 
 
 <div class="dialogue-block">
-<p class="speech-line">'what day is it?, whos he?... a the priest!, t'van', "Raise your head T'van, Ajani please, when you say my king i look behind my back for my father, Ill answer what I can and what i know, announce me please, then go to sleep, that is an order"</p>
+<p class="speech-line">'what day is it?, who's he?... a the priest!, T'van', "Raise your head T'van, Ajani please, when you say my king I look behind my back for my father, I'll answer what I can and what I know, announce me please, then go to sleep, that is an order"</p>
 </div>
 
 
@@ -50,7 +50,7 @@ The chamber erupted. The Shadow Paws growled. The Stripe Paws thumped their tail
 
 
 <div class="dialogue-block">
-<p class="speech-line">'ok... i see everyone is here.. lets get this done so i can sleep too, i should sit on the throne, that seems appropriate, father always said if they see your fur bristle you're as good as dead', "Brothers, Esteemed elders, you have summoned me, The king, tell me in which way can i serve the wengari?"</p>
+<p class="speech-line">'ok... I see everyone is here.. let's get this done so I can sleep too, I should sit on the throne, that seems appropriate, father always said if they see your fur bristle you're as good as dead', "Brothers, Esteemed elders, you have summoned me, the king, tell me in which way can I serve the Wengari?"</p>
 </div>
 
 
@@ -92,8 +92,8 @@ The chamber fell utterly silent. The Stripe Paws stopped thumping their tails. T
 </div>
 
 
-<div class="dialogue-block">
-<p class="speech-line">'kareth, an old general i believe... the shadow paws blunt as always, at least he is to the point', "Brother, I must be honest until a week ago I wasnt sure myself of what I was, you know ive been absent for the last years, I travelled, and found myself on the marshes, In there I found a dying lament, he was burning up with aura and i saved him, He allowed me to talk with a someone, or perhaps, something is the right word, Brother, what im about tell you, can not leave this room, so please have every non wengari leave, and only the elders, the chiefs and their heir remains, ill wait"</p>
+<div class="dialogue-block>
+<p class="speech-line">'kareth, an old general I believe... the Shadow Paws blunt as always, at least he is to the point', "Brother, I must be honest until a week ago I wasn't sure myself of what I was, you know I've been absent for the last years, I travelled, and found myself on the marshes, In there I found a dying lament, he was burning up with aura and I saved him, He allowed me to talk with a someone, or perhaps, something is the right word, Brother, what I'm about to tell you, cannot leave this room, so please have every non-Wengari leave, and only the elders, the chiefs and their heir remains, I'll wait"</p>
 </div>
 
 
@@ -116,7 +116,7 @@ He tapped his obsidian staff once against the floor, and the other elders murmur
 
 
 <div class="dialogue-block">
-<p class="speech-line">'ok here it goes...", "Brothers , my father's last works spoken to me were that I was indeed the white dawn...he confirmed to me himself I am...the heir of the first not only in name but spirit"</p>
+<p class="speech-line">'ok here it goes...', "Brothers, my father's last words spoken to me were that I was indeed the White Dawn...he confirmed to me himself I am...the heir of the First not only in name but spirit"</p>
 </div>
 
 
@@ -148,7 +148,7 @@ Kareth stiffened. The Stripe Paws exchanged glances. The Bright Paws leaned forw
 
 
 <div class="dialogue-block">
-<p class="speech-line">"I would be a fool not to be elder Nyasha, but what I have to say to you, please I beseech you, do not judge our forefathers too harsh and follow me into the inner chamber ....where the third vanished , you must know what it means to be a bright paw, and what the third did, and what we must do now...."</p>
+<p class="speech-line">"I would be a fool not to be Elder Nyasha, but what I have to say to you, please I beseech you, do not judge our forefathers too harsh and follow me into the inner chamber... where the Third vanished, you must know what it means to be a Bright Paw, and what the Third did, and what we must do now..."</p>
 </div>
 
 
@@ -188,7 +188,7 @@ One by one, the other chiefs and heirs rose. The Shadow Paws, wary but unwilling
 </div>
 
 
-'i hope the tree doesn't kill anyone' -"careful elders, the steps are steep the air gets thin, if anyone doesn't feel strong to go on, grab my hand"-'just a bit of aura should do' -"Once we are in the inner most chamber please do not touch anything no matter what you see or hear"
+'I hope the tree doesn't kill anyone' — 'careful elders, the steps are steep, the air gets thin, if anyone doesn't feel strong to go on, grab my hand' — 'just a bit of aura should do' — 'once we are in the innermost chamber, please do not touch anything no matter what you see or hear'
 
 
 The descent was slow. The spiral stair had been carved by the Lightbringer's own sorcery three thousand years ago, and the steps were worn smooth by centuries of royal footfalls—but only ever one set at a time. No king had brought an entourage into the inner chamber. No king had dared.
@@ -217,7 +217,7 @@ The amber pool rippled. The blossom stirred. The Tree was listening.
 
 
 <div class="dialogue-block">
-<p class="speech-line">'ok...please don't kill anyone', "this is the crime of the lightbringer, this is the truth, what you see here is the lord of the desert, we all live and die under his shadow the true king, with whom Uther brokered piece....with whom every king has payed in blood for our glory, have you ever wondered why only the strongest among us can live in the capital ?"</p>
+<p class="speech-line">'ok...please don't kill anyone', "this is the crime of the Lightbringer, this is the truth, what you see here is the lord of the desert, we all live and die under his shadow the true king, with whom Uther brokered peace....with whom every king has paid in blood for our glory, have you ever wondered why only the strongest among us can live in the Capital?"</p>
 </div>
 
 
@@ -249,8 +249,8 @@ She turned to Ajani. <span class="speech">"You said you were the heir of the Fir
 </div>
 
 
-<div class="dialogue-block">
-<p class="speech-line">'well it's not as bad as I thought, no one is dead yet' , "you misunderstand something my brothers, first of all the lord of desert does not take our weak, they die by their own hand, it is known only the strong survive here , it's even coded into our lives, however cruel the lord of the desert has made us the strongest race on Ethra, who can best a wengari in single combat ?, what race hasn't felt our claws and fangs ?, what race doesn't kill our cubs on sight out of fear ?"</p>
+<div class="dialogue-block>
+<p class="speech-line">'well it's not as bad as I thought, no one is dead yet', "you misunderstand something my brothers, first of all the lord of the desert does not take our weak, they die by their own hand, it is known only the strong survive here, it's even coded into our lives, however cruel the lord of the desert has made us the strongest race on Ethra, who can best a Wengari in single combat?, what race hasn't felt our claws and fangs?, what race doesn't kill our cubs on sight out of fear?"</p>
 </div>
 
 
@@ -274,8 +274,8 @@ Nyasha, who had been silent since her last words, spoke again. <span class="spee
 </div>
 
 
-<div class="dialogue-block">
-<p class="speech-line">'ok... So good, so far' , "I brought you here because the lord of the desert isn't the only one, while I was in the marsh I met the lord of the marsh, I trained under him, and he showed me exactly what the pact was, our weak did not start dying until the pact was broken , before the desert was a veritable oasis wasn't it ? There are tales of our cities all over the desert, of stripes paw caravans that extended as far as the eye could see and of shadow paw assasins that shaped the world, of the motted paw shamans who could Commune with the Styx, the reason all that is gone is because we failed to upkeep the pact that the lightbringer made with the lord of the desert... This flower here, it's how the Lord speaks, and it is also the reason why kings of the past have failed, I've brought you here so you can see for yourselves and if you so desire, speak against the pact or forge one of your own, my pact with the lord is my own, and it won't be a wengari pact unless you all are part of it, elders and heirs"</p>
+<div class="dialogue-block>
+<p class="speech-line">'ok... So good, so far', "I brought you here because the lord of the desert isn't the only one, while I was in the marsh I met the lord of the marsh, I trained under him, and he showed me exactly what the pact was, our weak did not start dying until the pact was broken, before the desert was a veritable oasis wasn't it? There are tales of our cities all over the desert, of Stripe Paw caravans that extended as far as the eye could see and of Shadow Paw assassins that shaped the world, of the Motted Paw shamans who could Commune with the Styx, the reason all that is gone is because we failed to upkeep the pact that the Lightbringer made with the lord of the desert... This flower here, it's how the Lord speaks, and it is also the reason why kings of the past have failed, I've brought you here so you can see for yourselves and if you so desire, speak against the pact or forge one of your own, my pact with the lord is my own, and it won't be a Wengari pact unless you all are part of it, elders and heirs"</p>
 </div>
 
 
@@ -315,8 +315,8 @@ One by one, the other chiefs and heirs bent their heads. Zara, the Stripe Paw, h
 The amber pool rippled. The blossom stirred. The Tree was listening. And for the first time since the Lightbringer vanished, the Wengari were united—not under a Tyrant, not under a lie, but under a king who had given them the truth and asked them to choose.
 
 
-<div class="dialogue-block">
-<p class="speech-line">*now....for the real test', "the pact isn't with me, it's with the lord of the desert, and he must choose you and accept your offer, what you say it's between you and the lord, however I warn you, If your heart isn't steeled and your aura isn't strong you will perish, and each wengari here must do so, both the elders and the heirs, for we will not break faith again", 'please, please, dont kill any of the old fools...*</p>
+<div class="dialogue-block>
+<p class="speech-line">'now....for the real test', "the pact isn't with me, it's with the lord of the desert, and he must choose you and accept your offer, what you say it's between you and the lord, however I warn you, if your heart isn't steeled and your aura isn't strong you will perish, and each Wengari here must do so, both the elders and the heirs, for we will not break faith again", 'please, please, don't kill any of the old fools...'</p>
 </div>
 
 
@@ -339,14 +339,6 @@ Nyasha, who had already spoken more in this chamber than she had in three decade
 
 
 She stepped toward the blossom, and the other elders parted before her like water before a stone. The amber pool rippled. The roots pulsed. The Tree was waiting.
-
-
-Yes. Kareth should go first.
-
-
-It also fits the Wengari ethos. The Shadow Paws are the family of the Black Fire. They are proud, fierce, and deeply aware of their own history. Kareth would not let an elder face the unknown alone. And if that elder is Nyasha—respected, ancient, a living repository of Wengari history—then Kareth's decision to step forward is not merely pride. It is an act of protection. A declaration that the Shadow Paws will not let others bear the risk first.
-
-A step toward reclaiming the honor his family lost five thousand years ago.
 
 
 Nyasha had taken only two steps toward the blossom when Kareth's voice cut through the chamber like a blade.
@@ -387,47 +379,6 @@ The amber pool swirled. The roots pulsed. And then, slowly, a single petal unfur
 
 
 Kareth picked up the petal with trembling claws and stepped back. The Shadow Paw elders let out a breath they had been holding for five thousand years.
-
-
-**The Montage**
-
-
-One by one, the elders and heirs of the Wengari stepped forward.
-
-
-<div class="dialogue-block">
-Zara, the Stripe Paw chief, did not speak of trade or caravans. She spoke of her mother, who had died in the capital, drained by the Tree's hunger. She spoke of the cubs who would never know their grandmother. And she offered the Tree something it had never been offered before: forgiveness. <span class="speech">"I do not know if you understand the word,"</span> she said, her voice cracking. <span class="speech">"But I will not carry this anger anymore. Take it. Feed on it. Let it be the first tithe of a new pact."</span> The blossom released a second petal—darker than the first, edged with silver—and Zara caught it with a paw that did not tremble.
-</div>
-
-
-The Bright Paw heir, a young golden-maned warrior named Solen who had been Ajani's childhood rival, stepped forward with the arrogance of youth and the terror of inadequacy. He spoke of his fear—that he would never be as strong as his father, that the Bright Paws had grown soft under the Tree's protection, that the green fire Ajani wielded was something he could never hope to match. And the Tree, ancient and patient, accepted his fear as an offering. A third petal fell, pale gold.
-
-
-The Motted Paw representatives came as a pair—two elders so alike they might have been twins, their spotted coats blending into the shadows. They spoke together, their voices weaving a harmony that had not been heard since the old days, when the Motted Paws were the shamans who communed with the Styx. They offered the Tree their silence—the centuries of watching, of waiting, of keeping the old knowledge alive while the other families forgot.
-
-And the Tree, which had been silent for three thousand years, accepted their silence as a gift. Two petals fell, pale silver, twinned.
-
-
-<div class="dialogue-block">
-A Shadow Paw cub—no more than ten years old, the youngest heir present—stepped forward when no one expected her to. She was small for her age, her dark fur still soft with youth, her eyes wide with terror. But she stood before the blossom and spoke in a voice that barely rose above a whisper. <span class="speech">"I don't know what to offer,"</span> she said. <span class="speech">"I'm just a cub. I haven't done anything yet. But I can learn. I can grow. I can be whatever the Wengari need me to be."</span> And the Tree, ancient and patient and hungry, accepted the offering of a child who had not yet been shaped by the world. A fifth petal fell, smaller than the others, but bright as a promise.
-</div>
-
-
-When it was done, twelve Wengari had stood before the Tree. Twelve petals had fallen. No one had died. No one had been rejected. The amber pool was still, the blossom was silent, and the elders and heirs of the five families stood in a loose semicircle around the heart of the Kyre Tree, their paws full of petals, their hearts full of something they had not felt in three thousand years.
-
-
-Hope.
-
-
-<div class="dialogue-block">
-Kareth, still holding his petal, turned to Ajani. <span class="speech">"It is done,"</span> he said, his voice hoarse with exhaustion and emotion. <span class="speech">"The Wengari have made their pacts. What happens now?"</span>
-</div>
-
-
-And the Tree, silent for so long, spoke—not in words, but in a pulse of green light that filled the chamber and resonated in the bones of every Wengari present. A single thought, clear as a bell: *Now you keep them.*
-
-
-**The Montage, Corrected**
 
 
 Zara, the Stripe Paw chief, stepped forward first after Kareth. Her massive frame blocked the blossom's light, casting a long shadow across the amber pool. She did not speak of trade or caravans. She spoke of her mother, who had died in the capital, drained by the Tree's hunger. She spoke of the cubs who would never know their grandmother. And she offered the Tree something it had never been offered before: forgiveness.
@@ -480,7 +431,7 @@ And the Tree, silent for so long, spoke—not in words, but in a pulse of green 
 
 
 <div class="dialogue-block">
-<p class="speech-line">"I will not ask, what your pacts were, those are for your own families, but I will reveal my own, I promised to build a great corridor from the marshes to the desert, all before the next tide, in 50 years, this is a task I can't accomplish alone, it is a task we wengari can't complete on our own, and yet will do so, and may the light help whoever stands in our way, this is the way of the strong, this the burden of the bright paw, THIS IS THE WENGARI WAY, MY BROTHERS WHO ARE WE?!"</p>
+<p class="speech-line">"I will not ask, what your pacts were, those are for your own families, but I will reveal my own, I promised to build a great corridor from the marshes to the desert, all before the next tide, in 50 years, this is a task I can't accomplish alone, it is a task we Wengari can't complete on our own, and yet will do so, and may the light help whoever stands in our way, this is the way of the strong, this the burden of the Bright Paw, THIS IS THE WENGARI WAY, MY BROTHERS WHO ARE WE?!"</p>
 </div>
 
 
@@ -639,53 +590,6 @@ Ajani exhaled slowly. The road would have to wait. The world had come to the des
 </div>
 
 
-**One Month After the Council**
-
-**The Bright Paw Capital**
-
-
-The month had been a blur of preparation. The chosen representatives of the five families had been drilling daily, training for the expedition into the Rune-Belt. Kareth had thrown himself into the work with a fervor that bordered on obsession. Zara had organized the supply caravans, her Stripe Paw efficiency turning chaos into order. Nyasha had spent most of the month in the inner chamber, communing with the Tree in silence.
-
-The Shadow Paw cub was now training with the elders. Solen, the broken Bright Paw heir, had been sent to the Pyrinae healers; they reported that his body would recover, but his Aura was gone.
-
-
-And through it all, the white male Styx circled the northern horizon.
-
-
-The morning of their planned departure, T'van burst into Ajani's chambers without knocking. His shaved mane was damp with sweat, his golden eyes wide.
-
-
-<div class="dialogue-block">
-<p class="speech-line">"Ajani—my king—they're here. Delegations. The Pyrinae have requested a formal audience—not as vassals, they said, but as an independent race. The Hummans have sent a full mercantile council. There's a Shell-Singer from the Tidepools walking through the eastern gate as we speak. And something—a Threx, but not like the Lament. Small. Young. Frightened. It won't speak to anyone except you."</p>
-</div>
-
-
-He paused, gulping air.
-
-
-<div class="dialogue-block">
-<p class="speech-line">"And the Blight. The watchmen on the northern ridge say the ground is stirring. No swarm yet, but the old scouts say it feels wrong. Too early. Too organized."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Ajani set down the pack he had been filling with supplies. "Anything else?"</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">T'van hesitated. "The watchmen on the northern road. They saw something. Walking down from the coast. Alone. Singing. They thought it was a mirage—a trick of the heat. But it kept coming. Tall. Scaled. Shining like water in the sun. They've never seen anything like it. They don't know what it is."</p>
-</div>
-
-
-The king looked out the window, toward the northern horizon where the Styx circled and the road was meant to begin and something unknown was walking toward them with a song on the wind. He exhaled slowly.
-
-
-<div class="dialogue-block">
-<p class="speech-line">"Summon the elders. Assemble the delegations in the Hall of the Sun."</p>
-</div>
-
-
 <div class="dialogue-block">
 T'van's ears pricked forward, his exhaustion momentarily forgotten. <span class="speech">"One by one. In the arena. Only their absolute best."</span> He repeated the words as if memorizing a sacred text. <span class="speech">"And our brother the Threx first."</span>
 </div>
@@ -705,7 +609,7 @@ And then he was gone, his hurried footsteps echoing down the corridor as he carr
 
 
 <div class="dialogue-block">
-<p class="speech-line">'a Quick not l'vat, the travel must have taken a toll on him, let's not make him wait', "Brother,  this Ajani, friend of the marsh, disciple of l'vat salutes you "</p>
+<p class="speech-line">'a Quick, not L'vat. The travel must have taken a toll on him. Let's not make him wait' — "Brother, this Ajani, friend of the marsh, disciple of L'vat, salutes you"</p>
 </div>
 
 
@@ -722,7 +626,7 @@ At Ajani's approach, the Quick's head snapped up. Its eyes caught the green fire
 </div>
 
 
-*of course hell collect...the old bastard' -"brother, please rest I'll have a pool drawn for you , thank you for coming in such haste, let me share some of my energy with you"-'just a flicker, focus on the connection, don't overwhelm him*
+'of course he'll collect...the old bastard' — "brother, please rest, I'll have a pool drawn for you, thank you for coming in such haste, let me share some of my energy with you" — 'just a flicker, focus on the connection, don't overwhelm him'
 
 
 The Quick flinched as Ajani reached out—an instinctive recoil, the reflex of a creature that had spent twenty-eight days alone in a world that would happily kill it. But when the king's paw touched its chitin, gentle as falling leaves, the Threx stilled.
@@ -747,7 +651,7 @@ It swayed again, but this time it was not exhaustion. It was something closer to
 
 
 <div class="dialogue-block">
-<span class="speech">"and brother, tell l'vat, I'm coming for the thing below the belt...., t'vat !!!!, call the humans,  remember, I will only receive their best!"</span> , 'ok, summon the spear sit on the throne, and appear regal, just as father when dealing with the crowds, it's all appearance,  I remember what he always said after <span class="speech">"Ajani, A king must be like the dessert sun, warm, unflinching, unforgiving"</span>, I miss him so much ...'
+<span class="speech">"and brother, tell L'vat, I'm coming for the thing below the belt... T'van!!!! Call the Hummans. Remember, I will only receive their best!"</span> — 'ok, summon the spear, sit on the throne, and appear regal, just as father when dealing with the crowds. It's all appearance. I remember what he always said after: <span class="speech">"Ajani, a king must be like the desert sun, warm, unflinching, unforgiving"</span>. I miss him so much...'
 </div>
 
 
@@ -768,7 +672,7 @@ Ajani settled onto the throne. The cold stone was familiar now—it had been a m
 
 
 <div class="dialogue-block">
-<p class="speech-line">*well, let's see how they face a king, let them kneel', "Is it not customary to kneel before your king brother ?", 'flare the aura, let them feel the heat of the desert sun, until they kneel!*</p>
+<p class="speech-line">'well, let's see how they face a king, let them kneel' — "Is it not customary to kneel before your king, brother?" — 'flare the aura, let them feel the heat of the desert sun, until they kneel'</p>
 </div>
 
 
@@ -794,7 +698,7 @@ The merchant who had fallen first let out a strangled whimper. Seris, still on h
 
 
 <div class="dialogue-block">
-<p class="speech-line">*the absolute insolence!', "I AM AJANI, KEEPER OF THE LIGHT, HEIR TO THE FIRST AND THE THIRD, I AM THE DESERT SUN AND YOU WILL KNEEL TO YOUR KING!!!!!", 'now, what did father always did? Ah yes the spear vault, that's too showy, let's go with l'vats way...careful ...careful and pull!*</p>
+<p class="speech-line">'the absolute insolence!' — "I AM AJANI, KEEPER OF THE LIGHT, HEIR TO THE FIRST AND THE THIRD, I AM THE DESERT SUN AND YOU WILL KNEEL TO YOUR KING!!!!!" — 'now, what did father always do? Ah yes the spear vault, that's too showy, let's go with L'vat's way...careful...careful and pull!'</p>
 </div>
 
 
@@ -846,7 +750,7 @@ And the king, still seated on his throne, his claws resting on the cold stone, m
 
 
 <div class="dialogue-block">
-<p class="speech-line">*good' - "Guards, please remove our sister, shes feeling I'll, as for the human, the ambassador can stay, the others do so at their own peril", 'and just a little touch of eye flare, father always said that gave the hummans the creeps*</p>
+<p class="speech-line">'good' — "Guards, please remove our sister, she's feeling ill, as for the Humman, the ambassador can stay, the others do so at their own peril" — 'and just a little touch of eye flare, father always said that gave the Hummans the creeps'</p>
 </div>
 
 
@@ -906,7 +810,7 @@ The claw tap stopped.
 
 
 <div class="dialogue-block">
-<p class="speech-line">"how laughable, does the sun stop in the sky for the flowers humman ?, does the Styx stop hunting because the razor hares find it inconvenient?, since when do the prey feel confident enough to ask the predator for assurances ?!" <span class="speech-attr">- 'this is hard, I want to laugh, how did father did this for so many years ?'</span></p>
+<p class="speech-line">"how laughable, does the sun stop in the sky for the flowers, Humman? Does the Styx stop hunting because the razor hares find it inconvenient? Since when do the prey feel confident enough to ask the predator for assurances?!" <span class="speech-attr">— 'this is hard, I want to laugh, how did father do this for so many years?'</span></p>
 </div>
 
 
@@ -932,7 +836,7 @@ She spread her empty hands. <span class="speech">"That is my offer. That is my c
 
 
 <div class="dialogue-block">
-<p class="speech-line">*laugh now, booming', "Hahaha, what makes you believe the wengari even need you hummans ?, how many loads can you carry ? , how many days can you endure, you couldn't even take ten steps, but I do concede you have your uses, so here is my proposal, take your most trusted aides,your best guilds, swear allegiance to us, become honorary wengari, and you can share our wealth I'll even let you deal with your race on our behalf, but your guilds and aides stay here in our capital, it's that or we simply erase you from the map, so, ambassador?" - 'and now, smile with all the teeth*</p>
+<p class="speech-line">'laugh now, booming' — "Hahaha, what makes you believe the Wengari even need you Hummans? How many loads can you carry? How many days can you endure? You couldn't even take ten steps. But I do concede you have your uses, so here is my proposal: take your most trusted aides, your best guilds, swear allegiance to us, become honorary Wengari, and you can share our wealth. I'll even let you deal with your race on our behalf, but your guilds and aides stay here in our capital. It's that or we simply erase you from the map. So, ambassador?" — 'and now, smile with all the teeth'</p>
 </div>
 
 
@@ -964,7 +868,7 @@ She was silent for a long moment. The desert wind stirred the sand at her knees.
 
 
 <div class="dialogue-block">
-<p class="speech-line">"Hahahaha, fight ?, even our weakest cub can beat the best humman, but no, my terms I clear I said your best, you have until sundown, now leave"</p>
+<p class="speech-line">"Hahahaha, fight? Even our weakest cub can beat the best Humman. But no, my terms are clear. I said your best. You have until sundown. Now leave"</p>
 </div>
 
 
@@ -1008,7 +912,7 @@ The Hydromancer stopped at the center of the sand, exactly where the Humman amba
 
 
 <div class="dialogue-block">
-<p class="speech-line">*Raise and eyebrow, father say they are like children, they aren't malicious just....naive', "esteemed friends, I salute you, the Pyrinae and the wengari have been friends since the times of the third, and I appreciate you like our cubs appreciate water on the heavy days, speak to me without flattery, for are we not friends ?" - 'now walk to them and extend a hand, whoever grips, make sure he kneels*</p>
+<p class="speech-line">'Raise an eyebrow, father says they are like children, they aren't malicious just...naive' — "esteemed friends, I salute you, the Pyrinae and the Wengari have been friends since the times of the Third, and I appreciate you like our cubs appreciate water on the heavy days, speak to me without flattery, for are we not friends?" — 'now walk to them and extend a hand, whoever grips, make sure he kneels'</p>
 </div>
 
 
@@ -1034,7 +938,7 @@ The Root-Speaker, still cowled and silent, raised one hand. The air in the arena
 
 
 <div class="dialogue-block">
-<p class="speech-line">*oh, this is new, I can use this, smile' , "let's drop the act, I could kill every single one of you right now and walk out of here like nothing happened, yet... That wouldn't help me or you, the old one can stay, the rest of your, scram" , 'now back to the throne*</p>
+<p class="speech-line">'oh, this is new, I can use this, smile' — "let's drop the act, I could kill every single one of you right now and walk out of here like nothing happened, yet... That wouldn't help me or you, the old one can stay, the rest of you, scram" — 'now back to the throne'</p>
 </div>
 
 
@@ -1060,7 +964,7 @@ She stopped at the foot of the throne's dais, her clouded eyes level with his. <
 
 
 <div class="dialogue-block">
-<p class="speech-line">"do you think me a fool?, three thousands years waiting to serve? Did father ever fall for such lofty words?, I might be a young king, but I am king, you either treat me with respect or your race dies Tonight, don't make me repeat myself"</p>
+<p class="speech-line">"do you think me a fool? Three thousand years waiting to serve? Did father ever fall for such lofty words? I might be a young king, but I am king. You either treat me with respect or your race dies tonight. Don't make me repeat myself"</p>
 </div>
 
 
@@ -1079,7 +983,7 @@ The green fire flickered along the king's claws. Somewhere in the shadows of the
 
 
 <div class="dialogue-block">
-<p class="speech-line">'twirl the spear, then throw it at her face, grace her lightly...there' - "I am my father son, but I am not my father, I won't miss the next time, the truth, now"</p>
+<p class="speech-line">'twirl the spear, then throw it at her face, grace her lightly...there' — "I am my father's son, but I am not my father, I won't miss the next time, the truth, now"</p>
 </div>
 
 
@@ -1101,22 +1005,6 @@ But something shifted in her expression. The ancient composure, the patient dipl
 <div class="dialogue-block">
 She stepped closer, her bare feet silent on the warm stone, and her voice dropped to a whisper. <span class="speech">"You changed everything. The pact is renewed. The Tree is awake. The Deep walks the surface. The Styx have heralded you. The Laments have acknowledged you. You have done in one month what we believed would take another thousand years—if it happened at all. We are not here to offer loyalty. Loyalty is cheap. We are here to offer truth. All of it. Whatever you wish to know. The old pact, the new one, the Lightbringer's secrets, the Tree's hunger, the Deep's designs, the Blight's stirring, the one in the Rune-Belt—ask. We are your memory, whether you want us or not. We will not kneel. We will not flatter. But we will answer."</span> She spread her empty hands. <span class="speech">"What would you know, White Dawn?"</span>
 </div>
-
-
-Here is the correction.
-
-
-<div class="dialogue-block">
-<p class="speech-line">The Hydromancer saw the flicker of skepticism in Ajani's eyes and inclined her head. "You wonder how I could have spoken with the Lightbringer. I did not. My predecessor did. And her predecessor before her. The Root-Speakers keep the old knowledge alive through the spores and the deep dreams. I carry the memories of every Hydromancer who came before me—not as my own, but as a living library, passed down through the mycelial touch at the moment of succession. I have seen the Lightbringer's face. I have heard his voice. I have felt his hand on my shoulder—though it was not my shoulder he touched, and I was not yet born. This is the gift of the Deep. This is the burden of the Root-Speakers. We remember what the world forgets."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">She touched the severed lock of hair at her shoulder. "I am one hundred and seventeen years old. I will not live to see another decade. But my successor will carry this moment into the next century, and the century after that. The Pyrinae do not live forever, King Ajani. We simply... do not forget."</p>
-</div>
-
-
-The Hydromancer's testimony should be grounded in that: a dream she witnessed, a moment of clarity in the Tree's ancient, dreaming mind. Not a conversation with the Lightbringer. A glimpse of his intentions, filtered through the Tree's memory.
 
 
 <div class="dialogue-block">
@@ -1156,7 +1044,7 @@ She let the silence stretch. <span class="speech">"I am not here to speak of the
 
 
 <div class="dialogue-block">
-<p class="speech-line">'I...what ?' - "You knew my mother ?.... May I know your name, please ?"</p>
+<p class="speech-line">'I...what?' — "You knew my mother? May I know your name, please?"</p>
 </div>
 
 
@@ -1169,12 +1057,7 @@ The ancient Hydromancer closed her eyes. For a long moment, she did not speak. W
 
 
 <div class="dialogue-block">
-<p class="speech-line">The old Hydromancer raised her hand, palm open. The rune-glass filaments embedded in her flesh pulsed with a slow, amber light. "I promised your father I would watch over you. I promised him I would see what you became. I am fulfilling that promise now. Whatever you wish to know, ask. I will answer. Not as a diplomat. Not as a Hydromancer. As a friend of your parents. As someone who remembers."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">'Mother wanted me to see the ocean....', "This is a gift I can never repay, ask me for anything, and if it is within my power I'll make it so, if its not I'll find someone who will"</p>
+<p class="speech-line">'Mother wanted me to see the ocean...' — "This is a gift I can never repay. Ask me for anything, and if it is within my power I'll make it so. If it's not, I'll find someone who will"</p>
 </div>
 
 
@@ -1197,7 +1080,7 @@ She inclined her head—not the formal bow of a diplomat, but the simple, tired 
 
 
 <div class="dialogue-block">
-<p class="speech-line">'mother...' - "Very well, now let's return to the act, call the rest of your delegation please , before Ajani I am king... And just like the water is life in the desert , so must I be the life of our people, negotiations must resume"</p>
+<p class="speech-line">'mother...' — "Very well, now let's return to the act. Call the rest of your delegation, please. Before Ajani, I am king... And just like the water is life in the desert, so must I be the life of our people. Negotiations must resume"</p>
 </div>
 
 
@@ -1215,7 +1098,7 @@ Nefere resumed her formal posture, her voice returning to the measured cadence o
 
 
 <div class="dialogue-block">
-<p class="speech-line">"The human delegation came before you, as you know they are weak and traitorous, I have dealt with them as one deals with pests, your talent for trade is not unknown to me, and you have been vassals for too long, here is my proposal, you know of the lord of the desert and the ancient abandoned cities of the wengari as a acknowledgement for three thousand years of friendship, I give you five cities of your choosing to do with them as you will, if you wish to participate in the road project, you will do so as friends, with first veto on the goods that will enter your markets, reduced producy tax for the first 25 years and a waiver of the road fee for the first century, this is my will"</p>
+<p class="speech-line">"The Humman delegation came before you. As you know, they are weak and traitorous. I have dealt with them as one deals with pests. Your talent for trade is not unknown to me, and you have been vassals for too long. Here is my proposal: you know of the Lord of the Desert and the ancient abandoned cities of the Wengari. As an acknowledgment for three thousand years of friendship, I give you five cities of your choosing to do with them as you will. If you wish to participate in the road project, you will do so as friends, with first veto on the goods that will enter your markets, reduced product tax for the first 25 years, and a waiver of the road fee for the first century. This is my will"</p>
 </div>
 
 
@@ -1246,7 +1129,7 @@ She lowered her head. Not the formal bow of a diplomat. Not the reluctant conces
 
 
 <div class="dialogue-block">
-<p class="speech-line">"Before you leave, I do have one small request, you live with us, I need you to monitor the hummans, I will be gone for the road project I need someone who knows us and them, someone who's lived with us so they can warn us when they try to outplay us, because they will, could you grant me this, humble aid ?"</p>
+<p class="speech-line">"Before you leave, I do have one small request, you live with us, I need you to monitor the Hummans, I will be gone for the road project I need someone who knows us and them, someone who's lived with us so they can warn us when they try to outplay us, because they will, could you grant me this, humble aid ?"</p>
 </div>
 
 
@@ -1286,7 +1169,7 @@ T'van appeared at the arena's edge, his breath short, his shaved mane slick with
 </div>
 
 
-'a veylar, I've never seen one' -"Please send her in t'vat"
+'a Veylar, I've never seen one' — "Please send her in, T'van"
 
 
 T'van bowed and vanished into the shadows of the eastern gate, his hurried footsteps echoing through the empty arena. For a long moment, there was only silence and the distant cry of the white Styx circling far above.
@@ -1310,7 +1193,7 @@ She stopped at the center of the arena, exactly where the other delegations had 
 
 
 <div class="dialogue-block">
-<p class="speech-line">"Sylara of the veylar, warden of the tides, this humble king salutes the only race who hasn't been bested by the glory of the wengari, please speak, how can this king help the veylar?" <span class="speech-attr">-'she does smell like salt.. humid,  nothing like us'</span></p>
+<p class="speech-line">"Sylara of the Veylar, Warden of the Tides, this humble king salutes the only race who hasn't been bested by the glory of the Wengari. Please speak, how can this king help the Veylar?" <span class="speech-attr">— 'she does smell like salt... humid, nothing like us'</span></p>
 </div>
 
 
@@ -1328,7 +1211,7 @@ Sylara inclined her head. Her fin-ridges rippled faintly, tasting the air, readi
 
 
 <div class="dialogue-block">
-<p class="speech-line">"I know about the thing that dwells within the belt, but I do not know how to face him yet, what I do know, with certainty is that if we build the road before the next tide, we will weather the blight, imagine a corridor that spans the continent...perhaps are the veylar interested in extending the road to their shores?"</p>
+<p class="speech-line">"I know about the thing that dwells within the Belt, but I do not know how to face him yet. What I do know, with certainty, is that if we build the road before the next Tide, we will weather the Blight. Imagine a corridor that spans the continent... perhaps the Veylar are interested in extending the road to their shores?"</p>
 </div>
 
 
@@ -1359,7 +1242,7 @@ She raised the Petal-Shell, and its light brightened until it cast shimmering re
 
 
 <div class="dialogue-block">
-<p class="speech-line">"well I am afraid to learn that you would need to stay, and even if your offer is gratious, we don't need help either I am offering a hand in friendship, and you have just quite literally spat on it, the blight will come for us all, they grew larger since the fourth tyrant, and they have never skipped a tide... I know you know if we don't unite, we will dwindle"</p>
+<p class="speech-line">'well, I am afraid to learn that you would need to stay, and even if your offer is gracious, we don't need help either. I am offering a hand in friendship, and you have just quite literally spat on it. The Blight will come for us all. They grew larger since the Fourth Tyrant, and they have never skipped a Tide... I know you know, if we don't unite, we will dwindle'</p>
 </div>
 
 
@@ -1372,7 +1255,7 @@ Sylara's fin-ridges went very still. The iridescent shimmer of her skin, which h
 
 
 <div class="dialogue-block">
-She stepped closer to the throne, her webbed feet leaving delicate impressions in the sand, and the Petal-Shell in her hands pulsed brighter. <span class="speech">"But you are right about one thing. The Blight will come. They have grown larger since the Fourth Tyrant. They have never skipped a Tide. And if the surface races do not unite—if the Wengari and the Pyrinae and the Hummans and the Veylar and the Threx and every other thinking being on Ethra do not stand together—the Chi'Thak will devour us all."</span> She paused, her luminous eyes searching Ajani's face. <span class="speech">"You believe the road is the first step toward that unity. You believe that connecting the desert to the marsh, and the marsh to the sea, will bind us together in a way that words and treaties cannot. I do not disagree. But you must understand: the Veylar have been patient for millions of years. We do not rush. We do not leap. We consider. We deliberate. We wait for the moon's counsel. And then, when we act, we act with the full weight of our patience behind us."</span>
+She stepped closer to the throne, her webbed feet leaving delicate impressions in the sand, and the Petal-Shell in her hands pulsed brighter. <span class="speech">"But you are right about one thing. The Blight will come. They have grown larger since the Fourth Tyrant. They have never skipped a Tide. And if the surface races do not unite—if the Wengari and the Pyrinae and the Hummans and the Veylar and the Threx and every other thinking being on Ethra do not stand together—the Chi'Thak will devour us all."</span> She paused, her luminous eyes searching Ajani's face. <span class="speech">"You believe the road is the first step toward that unity. You believe that connecting the desert to the marsh, and the marsh to the sea, will bind us together in a way that words and treaties cannot. I do not disagree. But you must understand: the Veylar have been patient for twenty thousand years. We do not rush. We do not leap. We consider. We deliberate. We wait for the moon's counsel. And then, when we act, we act with the full weight of our patience behind us."</span>
 </div>
 
 
@@ -1381,26 +1264,8 @@ She raised the Petal-Shell, and the sphere of water still hovering before the th
 </div>
 
 
-Here is the corrected exchange:
-
-
 <div class="dialogue-block">
-<p class="speech-line">Sylara's fin-ridges rippled, and her iridescent skin dimmed to a deep, contemplative blue. "The Veylar do not spit on friendship. We do not reject your hand. But we are a patient people, King Ajani. We deliberate. We sing the songs of the deep places and wait for the moon's counsel. This is who we are. It has been our way since the first Shell-Singer sang the Tidepools into being, thousands of years before the Wengari walked the desert. It is not a refusal. It is not a dismissal. It is our nature—the nature that has allowed us to endure while younger races rose and fell."</p>
-</div>
-
-
-<div class="dialogue-block">
-She stepped closer, and the Petal-Shell in her hands pulsed brighter. <span class="speech">"You are right about the Blight. They will come. They have grown larger since the Fourth Tyrant. They have never skipped a Tide. And if the surface races do not unite, the Chi'Thak will devour us all."</span> She paused, her luminous eyes meeting Ajani's. <span class="speech">"The road you propose is the first step toward that unity. I do not disagree. But you must understand: the Veylar have been patient for twenty thousand years. We do not rush. We do not leap. We consider. We deliberate. We wait for the moon's counsel. And then, when we act, we act with the full weight of our patience behind us."</span>
-</div>
-
-
-<div class="dialogue-block">
-She raised the Petal-Shell, and the sphere of water hovering before the throne pulsed in time with its light. <span class="speech">"This token is not a refusal. It is a promise. When your road reaches the edge of the Tidepools, send it back to us. The Veylar will be ready. Not because we were rushed. Not because we were shamed. Because we chose to be. That is how friendship is built among my people. Not with haste. With deliberation. With commitment. With the full weight of the deep water behind it."</span> She bowed her head, her fin-ridges settling into a posture of respect. <span class="speech">"Build your road, King Ajani. The Veylar will walk it when the time is right."</span>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">'stubborn little...', "Perhaps I am not making myself clear, that is my error, let me be blunt, by the time the road reaches your shores, your help won't be needed a friend doesn't offer help when it suits them he does it when it's needed, you wish to be friend with the wengari? Then do so like the wengari do, with the full might behind them otherwise retreat to your shores, the road will never reach them and if it does it will be your doom"</p>
+<p class="speech-line">'stubborn little...' — "Perhaps I am not making myself clear. That is my error. Let me be blunt: by the time the road reaches your shores, your help won't be needed. A friend doesn't offer help when it suits them; he does it when it's needed. You wish to be friend with the Wengari? Then do so like the Wengari do, with the full might behind them. Otherwise retreat to your shores. The road will never reach them, and if it does, it will be your doom"</p>
 </div>
 
 
@@ -1431,7 +1296,7 @@ She lowered the shell, and its light dimmed. <span class="speech">"I cannot give
 
 
 <div class="dialogue-block">
-<p class="speech-line">'at last !', "While your offer is, I admit monumental by your standards what can a single veylara do ? You are not predators, you can't help us on land, I offer terms, I wish for a contingent of your twenty best craftsmen, to help the road, twenty is not such a large number I believe, but we are not builders, we are warriors, we can carry the load but we need someone to shape it, is this acceptable for the veylara? Mind you I do not ask for free labour, they will be payed in full in whatever their currency is"</p>
+<p class="speech-line">'at last!' — "While your offer is, I admit, monumental by your standards... what can a single Veylar do? You are not predators, you can't help us on land. I offer terms: I wish for a contingent of your twenty best craftsmen to help the road. Twenty is not such a large number, I believe. But we are not builders, we are warriors. We can carry the load, but we need someone to shape it. Is this acceptable for the Veylar? Mind you, I do not ask for free labour. They will be paid in full in whatever their currency is"</p>
 </div>
 
 
@@ -1454,19 +1319,11 @@ She extended her webbed hand once more, and the sphere of water that had hovered
 
 
 <div class="dialogue-block">
-<p class="speech-line">"no, I will send human envoys guarded by my people to shore, so we can cut the time in half, no objections to that , correct ?"</p>
+<p class="speech-line">"no, I will send Humman envoys guarded by my people to shore, so we can cut the time in half. No objections to that, correct?"</p>
 </div>
 
 
 <div class="dialogue-block">
 Sylara's fin-ridges flared, then settled, then flared again in a rapid sequence that might have been the Veylar equivalent of a startled laugh. <span class="speech">"You want to send Humman envoys,"</span> she said slowly, as if making sure she had heard correctly. <span class="speech">"Guarded by Wengari warriors. To the Tidepools. To negotiate with the Harmonic Council in person, rather than waiting for me to carry your terms across the ocean and back."</span> She was silent for a long moment, her iridescent skin cycling through a cascade of colors—silver, deep blue, a flicker of gold that might have been admiration, or might have been alarm. <span class="speech">"King Ajani, the Veylar have not received surface-dwellers on our shores in four thousand years. The last was the Lightbringer. He came alone, himself. He came wandering out of the desert, lost and seeking songs, in the years before he built his pact. He did not ride a Styx—that was Xal'thyra, our shame and our silence, the only Tyrant who ever broke the white flame to her will. The Lightbringer came on foot, with sand still in his mane and the wide eyes of a pilgrim. We gave him our songs. He used them to hold the world together for three thousand years."</span> She raised her eyes to the throne. <span class="speech">"You are not the Lightbringer. You are something new. And you are asking us to open our most sacred places to Hummans—to the race that produced the Plague—guarded by Wengari, the race that produced the Black Fire. All to save time."</span> She paused, and the gold flickered again across her skin. <span class="speech">"The Harmonic Council will debate this for a decade. They will sing the old songs and consult the moon and argue precedent until the Tidepools themselves grow tired of listening. And then—"</span> She inclined her head, a gesture that was almost, but not quite, a bow. <span class="speech">"Then they will accept. Because you are right. The Blight will not wait for deliberation. The road cannot wait for patience. And the Veylar, who have been patient for twenty thousand years, must learn to be swift."</span> She extended her webbed hand once more, and the sphere of water pulsed in time with the Petal-Shell's light. <span class="speech">"Send your envoys. Send your guards. The Tidepools will receive them. I will precede them across the ocean and prepare the Council for what is coming. And when your Hummans arrive on our shores, they will be the first of their kind to see the Coral Citadel since the world was young."</span> She met his eyes, and her melodic voice carried a note that might have been excitement, or might have been terror, or might have been both. <span class="speech">"I have no objections, King Ajani. Only a great deal of fear. And a great deal of hope."</span>
-</div>
-
-
-
-
-
-<div class="dialogue-block">
-She raised the Petal-Shell, and its light pulsed once, twice, then steadied. <span class="speech">"Send your envoys. Send your guards. The Tidepools will receive them. I will precede them across the ocean and prepare the Council for what is coming. And when your Hummans arrive on our shores, they will be the first of their kind to walk the Coral Citadel since the Lightbringer himself came wandering out of the desert, lost and seeking songs, in the years before he built his pact. He did not ride a Styx—that was Xal'thyra, our shame and our silence, the only Tyrant who ever broke the white flame to her will. The Lightbringer came on foot, with sand still in his mane and the wide eyes of a pilgrim. We gave him our songs. He used them to hold the world together for three thousand years."</span> She met Ajani's eyes. <span class="speech">"I have no objections, King Ajani. Only a great deal of fear. And a great deal of hope."</span>
 </div>
 
