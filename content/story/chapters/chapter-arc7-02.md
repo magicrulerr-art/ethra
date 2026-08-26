@@ -246,3 +246,53 @@ The group moved as one.
 When the dust settled, hundreds of corpses littered the ground. Everyone was exhausted — arms leaden, lungs burning, weapons lowered by inches. No one spoke.
 
 At the far edge of the carnage, three scorpions were cheerfully "talking" with the sand wurm — pincers clicking, antennae waving, the great gold- green head bent down to their level like an old friend at a fence. And behind them, tenderly, the sand wurm was tending to Whitey.
+
+---
+
+**The Question**
+
+The dust had settled, and what it settled on was silence.
+
+A wing still buzzed here and there among the corpses — one wing, detached, arguing with the stone — and then those went quiet too, and the cavern became the stillest place any of them had ever stood in.
+
+No one spoke.
+
+Ajani stood among the fallen with his spear lowered, and looked.
+
+It was an inquisitive look, and it moved from face to face, one by one, carrying a question he did not put into words.
+
+*'Do you know what that is?'*
+
+His gaze went to the sand wurm, and came back. The great gold-green shape had returned to Whitey's side and was tending her — tenderly, the way it did everything — and Ajani let the question stand in the middle of the cavern, for anyone who could answer it.
+
+Heads shook. One by one.
+
+Vex and Lira first — even the two shadows shook theirs, in perfect silent unison. Anastasia shook hers, slowly, still breathing hard. Vanya. Nadya. Cefiro gave the smallest shake of them all. And Nikolai looked long at the creature tending his Whitey, and shook his head like a man emptying his last coin purse.
+
+Ajani looked at the sand wurm.
+
+The great head bent down from Whitey's side — slowly — and shook.
+
+Not one of them knew.
+
+At the edge of the carnage, Vanya and Nadya had sunk to the ground, and they did not look like they meant to get up for anyone.
+
+The eldest sat with her back against the stone and her great axe across her knees, chest heaving, and the grin on her muzzle was not trying to hide itself. Beside her, Nadya panted with her daggers lowered, and the two sisters wore the exact same expression — the triumphant, exhausted look of those who had charged into the ocean and come out the other side.
+
+A little way off, Kira was trembling.
+
+She held onto Ivan for dear life — both arms around him, face pressed against his shoulder — and he held onto her just as hard, claws fisted in her fur, shaking just as much. The two of them kept each other upright in the middle of the quiet cavern.
+
+Neither of them was going to be the first to let go.
+
+Anastasia stood where she had stood through the worst of it, panting heavily, gathering her composure back around her the way a queen gathers a cloak. Her white fur was painted red by the fight, and she did not look at it.
+
+And there were the two on the ground who should have been the last to sit.
+
+Nikolai had lowered himself onto the stone — not kneeling now, just sitting, the great halberd gone from his paw and the frozen air quiet around it — panting, looking around: at the cavern, at the corpses, at his living children, at Whitey. Cefiro sat beside his father with his sabers sheathed, his composure finally spent, doing exactly the same thing. Looking.
+
+At the edge of it all, three scorpions chattered cheerfully among the corpses as if this had been an ordinary afternoon — and the sand wurm bent again over Whitey, and tended her, and the three eggs pulsed in their cradle, pale and gold and unhurried.
+
+The question Ajani had asked without words stayed where he had left it, in the middle of the cavern.
+
+There was not one soul in it who could answer.
