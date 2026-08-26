@@ -128,7 +128,7 @@ Bestiary plan). Coordinate data lives at `static/data/map-coordinates.json`.
 | Chapter | Title | Status | Canonical filename | Bytes | Locked |
 |---------|-------|--------|--------------------|-------|--------|
 | arc7-01 | The Birth of the Festival | ✅ LOCKED [2026-08-25] — Ainz verdict: "the V10 image was already approved" (landscape-only Wurms' Rest — colossal ancient arch + several colossal coiled snow wurms in pale blue-white glow, breath-mist, no figures; chosen via Ainz's pre-authorized fallback after v5–v9 kept struggling with the company; v8 full-company PASS and v9 hierarchy attempt archived; Ainz height hierarchy for any future re-forge recorded in v10 sidecar) | `chapter-arc7-01-v10.png` | 6,511,367 | 2026-08-25 |
-| arc7-02 | Whitey | 🟡 pending [2026-08-26] — v4 shipped for Ainz verdict (Whitey, white royal snow wurm with faint golden hue and dimming glow, curled around exactly three pale golden eggs; gold-green sand wurm tending her; natural ice cavern; sepia ink + palest cold tint; no figures. v1–v3 archived with drift notes: built dome / live insects / full blue wash / sparse legs / gothic arches / four eggs) | `chapter-arc7-02-v4.png` | 6,380,545 | — |
+| arc7-02 | Whitey | ✅ LOCKED v4 [2026-08-26] — Ainz verdict: "lock it" (Whitey, white royal snow wurm with faint golden hue and dimming glow, curled around exactly three pale golden eggs; gold-green sand wurm tending her; natural ice cavern; sepia ink + palest cold tint; no figures. v1–v3 self-audit drifts archived: built dome / live insects / full blue wash / sparse legs / gothic arches / four eggs) | `chapter-arc7-02-v4.png` | 6,380,545 | 2026-08-26 |
 
 ## Arc 6 — Aftermath & The Road
 
