@@ -1,11 +1,6 @@
 ## Chapter 6: Foreign Delegations
 
 <div class="dialogue-block">
-She stopped at the foot of the throne's dais and raised her eyes to the king. <span class="speech">"I am old, Ajani Brightmane. I have perhaps three years left, perhaps five. I will spend them doing what I have always done: watching, listening, remembering. But I will do it for you now. Not for the Bright Paws. Not for the pact. For you."</span> She inclined her head—a slow, deliberate gesture that was almost a bow, but not quite. Almost a promise, but not quite. Something in between. <span class="speech">"When the Hummans make their first move against you, I will know. When their guilds begin to scheme, I will know. When their ambassador writes letters to Verdantis that she does not wish you to see, I will know. And I will tell you. This is my aid. Humble, as you say. But it is what I can offer."</span>
-</div>
-
-
-<div class="dialogue-block">
 <p class="speech-line">She straightened, and the faintest smile crossed her weathered face. "I will warn you, though. You have given me cities. You have given me trade. You have given me the first real hope the Pyrinae have had in three thousand years. If you die on this road before I do, I will be very annoyed. Do not die on this road." She turned and walked toward the eastern gate, her rune-glass filaments dimming as she passed into the shadows of the colonnade, leaving the king alone with the setting sun and the spear still quivering in the stone.</p>
 </div>
 

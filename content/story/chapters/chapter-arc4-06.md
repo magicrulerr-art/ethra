@@ -1,5 +1,29 @@
 ## Chapter 6: Aftermath
 
+<div class="dialogue-block">
+<p class="speech-line">Ajani stared at the empty space where the sphere had been. Then he looked down at the grimoire. Then he looked at Elyra. "Can it be made to grow new pages? If I use a page for sorcery, it's gone. But if the book could grow new pages—if it could replenish itself—then this is not merely a grimoire. This is a portable sorcery arsenal."</p>
+</div>
+
+<div class="dialogue-block">
+Elyra was silent for a long moment. Her silver aura flickered, and her melodic voice, when it came, was careful. <span class="speech">"The grimoire is bound to its owner. It is a living thing, in its fashion. But whether it can be made to grow new pages... that is not a question the Motted Paws have ever been asked. The grimoires we create are finite. Each page is a vessel for a single working. When the pages are gone, the book is complete, and its owner must begin again with a new volume."</span> She paused. <span class="speech">"You are asking if the vessel can be made to refill itself. That is... a significant request. We will need to study the question. It may not be possible. It may take years."</span>
+</div>
+
+<div class="dialogue-block">
+<p class="speech-line">Ajani nodded slowly. "Then study it. The road will take years. The coalition will take years. I am not asking for an answer today. I am asking for the question to be asked."</p>
+</div>
+
+<div class="dialogue-block">
+<p class="speech-line">Elyra inclined her elegant head. "The Motted Paws will ask it. We have been patient for five thousand years. We can be patient a little longer."</p>
+</div>
+
+<div class="dialogue-block">
+<p class="speech-line">Ajani closed the grimoire and held it against his chest. The green fire along his claws had steadied into a warm, steady glow. "This is still the best gift I have received today. The spear is magnificent. The fire foot is beloved. The daggers are precious. But this—this is a piece of the future."</p>
+</div>
+
+Every eye at the water hole was fixed on him. The Stripe Paws, who had just watched their king rip a page from a book and conjure a ball of light that exploded into green rain. The Shadow Paws, who had just watched the same king accept a grimoire with more enthusiasm than he had shown for their daggers or their would-be bride. The Motted Paws, who had known what the grimoire could do but had not known the king would test it so immediately, so publicly, so successfully.
+
+The Pyrinae, who had given him a spear that multiplied and were now watching him clutch a book like a cub with a new toy. The Humman ambassador, standing at the edge of the gathering with her pulsing scorpion egg wrapped in silk, her dark eyes wide with the dawning realization that her gift—objectively the most valuable—might be the one the king wanted least.
+
 And one pair of eyes, unseen, watching from the shadows of the ridge above the water hole. Ancient eyes. Patient eyes. Eyes that had been walking for months across the desert, carrying a song no one had heard in millennia. The Dragari had arrived. And the Dragari was staring at the young king with an expression of pure, unguarded awe.
 
 The silence stretched. No one spoke. Everyone was demanding an explanation with their eyes. Ajani looked up from the grimoire, his green-flecked gaze sweeping across the gathered families, the silent delegations, the watching shadows. He knew what they wanted. He knew what they were asking. How had he done that? How had a Wengari king inscribed a sorcery formula that worked?
@@ -18,60 +42,8 @@ Ajani closed the grimoire and looked up. His green-flecked eyes swept across the
 Seris stepped forward. Her diplomatic composure was in place, but her dark eyes betrayed her. She had been humiliated three times. She had lost people. She had scrambled to reach the king through every channel she possessed, and now she was standing before him with the most valuable gift any Humman had ever offered, and she had no idea if he would accept it.
 
 <div class="dialogue-block">
-<span class="speech">"King Ajani."</span> She knelt in the damp sand, the scorpion egg cradled in her arms. The silk wrapping had fallen away, and the egg's iridescent shell caught the afternoon light in shades of pearl and amber. It was pulsing faintly, a slow, rhythmic throb that matched the heartbeat of the creature growing inside. <span class="speech">"The Hummans offer this Pearly Scorpion egg. It is the finest specimen I have ever acquired, harvested from the deep Flickermarch at great risk. It will hatch within hours. If you accept it, the scorpion will imprint on you. It will be yours. A mount worthy of the White Dawn."</span>
+<span class="speech">"King Ajani."</span> She knelt in the damp sand, the scorpion egg cradled in her arms. The silk wrapping had fallen away, and the iridescent shell pulsed with the light of the creature inside. <span class="speech">"The Hummans offer this Pearly Scorpion egg. It is the finest specimen I have ever acquired, harvested from the deep Flickermarch at great risk. It will hatch within hours. If you accept it, the scorpion will imprint on you. It will be yours. A mount worthy of the White Dawn."</span>
 </div>
-
-<div class="dialogue-block">
-<p class="speech-line">She paused. Her voice, when she continued, was very quiet. "I know we have not always been welcome. I know we have made mistakes. But this gift is given freely. No conditions. No expectations. Only the hope that the king will accept it."</p>
-</div>
-
-Ajani looked at the egg. The green fire along his claws flickered, and his expression shifted—not to anger, not to coldness, but to something else. Something that looked almost like discomfort.
-
-<div class="dialogue-block">
-<p class="speech-line">"I cannot accept this," <span class="speech-attr">he said.</span></p>
-</div>
-
-Seris's face went very still. The Stripe Paws stopped exchanging coin. The Shadow Paws, still standing in shamed silence, looked up. Even Kira leaned forward on Ember's back, her dark eyes wide.
-
-<div class="dialogue-block">
-<span class="speech">"The scorpion is the finest mount on Ethra,"</span> Seris said, her diplomatic composure cracking. <span class="speech">"It is faster than a fire foot over rough terrain. It is immune to the poison of the Flickermarch. It is the reason the Hummans have survived five hundred years of shame. I am offering you the most valuable thing my people possess. Why would you refuse it?"</span>
-</div>
-
-<div class="dialogue-block">
-Ajani was silent for a moment. Then he said, very quietly, <span class="speech">"I hate scorpions. I have hated them since I was in the marshes. L'vat used them in my training. He would drop me in a pit with them and tell me to survive. I have been stung more times than I can count. The venom does not kill me—I am the White Dawn, I am immune to most poisons—but it hurts. It hurts for days. I cannot look at a scorpion without remembering the pit. I cannot touch one without feeling the sting."</span> He looked at Seris, and his green-flecked eyes were not cold. They were tired. <span class="speech">"Your gift is magnificent. It is objectively the most valuable thing anyone has offered me today. And I cannot accept it. I am sorry."</span>
-</div>
-
-Seris stared at him. Her arms tightened around the pulsing egg, and something flickered in her dark eyes—not anger, not quite, but the slow, painful understanding of someone who had tried everything and failed for reasons she could never have predicted. The king did not hate the Hummans. The king was afraid of scorpions. The most powerful Wengari on Ethra, the White Dawn, the heir of the Lightbringer, was afraid of a creature the Hummans had been taming for centuries.
-
-<div class="dialogue-block">
-<span class="speech">"The egg will hatch within hours,"</span> she said quietly. <span class="speech">"If you do not accept it, I must find someone else. It will imprint on the first creature it sees. If that creature is me, it will be worthless. If that creature is a servant, it will be a pet. If that creature is—"</span> She stopped. Her dark eyes moved to Kira, still perched on Ember's back. <span class="speech">"If that creature is your sister, it will be a mount worthy of a Brightmane."</span>
-</div>
-
-Ajani followed her gaze. Kira was staring at the egg with an expression of pure, unguarded wonder. She had never seen a Pearly Scorpion egg before. She had only heard the stories—the great beasts of the Flickermarch, the mounts that could traverse the poison winds and the Iris Scales and the thousand other deaths that lurked in the March. She had dreamed of seeing one, when she was still on the streets, when she was still starving and forgotten.
-
-Now one was pulsing in the Humman ambassador's arms, and the ambassador was looking at her.
-
-<div class="dialogue-block">
-<span class="speech">"Kira,"</span> Ajani said. <span class="speech">"Do you want the scorpion?"</span>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">Kira tore her gaze from the egg and looked at her brother. "You hate them. You said you hate them."</p>
-</div>
-
-<div class="dialogue-block">
-<span class="speech">"I do. I will never ride one. But you are not me. You are not afraid of the pit. You are not afraid of the sting. You have never been dropped into the darkness and told to survive."</span> He paused. <span class="speech">"If you want the scorpion, it is yours. The Humman ambassador will give it to you instead of me. And I will never have to touch it."</span>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">Kira looked at the egg again. The pulsing light was growing stronger, the iridescent shell shimmering with the first stirrings of the creature inside. "Can I name it?"</p>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">"You can name it. You can train it. You can ride it through the Flickermarch while I follow on Ember and pretend I am not terrified. That is your right as my sister."</p>
-</div>
-
-Kira slid off Ember's back and walked toward Seris. The Humman ambassador knelt in the damp sand, holding the egg out with trembling arms, and Kira reached out and placed her small dark paws on the iridescent shell. The pulsing light steadied, and the egg began to crack.
 
 The words came out wrong. He could hear them as soon as he spoke—too fast, too halting, the voice of a king who was trying very hard not to sound like a cub who had just seen a ghost.
 
@@ -81,8 +53,6 @@ The words came out wrong. He could hear them as soon as he spoke—too fast, too
 
 The silence that followed was different from the silence that had greeted the Motted Paw grimoire or the Pyrinae spear. That silence had been wonder. This silence was confusion. The Stripe Paws, who had watched Ajani negotiate with the lord of the desert and face down a Motted Paw champion in single combat, exchanged glances. The Shadow Paws, who had guarded him for months and seen him kill a Humman with a flick of his wrist, stared at their king with open bewilderment.
 
-Kira, still standing beside the pulsing egg, looked from Ajani to Seris and back again.
-
 <div class="thought-block">
 'Please, please not one of those foul creatures please.'
 </div>
@@ -90,6 +60,26 @@ Kira, still standing beside the pulsing egg, looked from Ajani to Seris and back
 Seris did not know what to say. She had prepared for refusal. She had prepared for anger. She had not prepared for the White Dawn, the heir of the Lightbringer, the king who had humiliated her three times and killed her merchant without a second thought, to stand before her stammering like a cub caught stealing from the kitchens. The egg pulsed in her arms. The creature inside was stirring, its iridescent shell shimmering with the first faint light of awakening.
 
 In a few hours—perhaps less—it would hatch. And the king, who was supposed to be its master, was looking at it the way a razor hare looked at a Styx.
+
+<div class="dialogue-block">
+<span class="speech">"The scorpion is the finest mount on Ethra,"</span> Seris said. Her voice was diplomatic, but there was a note of genuine confusion beneath it. She had expected refusal, but she had not expected this. <span class="speech">"It is faster than a fire foot over rough terrain. It is immune to the poison of the Flickermarch. It is strong enough to carry an armored rider for days. Why would you refuse it?"</span>
+</div>
+
+<div class="dialogue-block">
+<span class="speech">"I hate scorpions,"</span> Ajani said. <span class="speech">"I have hated them since I was in the marshes. L'vat used them in my training. He would drop me into a pit with them and tell me to survive. I was stung so many times that I stopped counting after the first fifty. The venom burns. It burns for days. I hate them. I hate the way they move. I hate the way they wait. I hate that they do not make any sound."</span> He paused. <span class="speech">"Your gift is magnificent. It is objectively the most valuable thing anyone has offered me today. And I cannot accept it. I am sorry."</span>
+</div>
+
+Seris stared at him. In thirty years of diplomacy, she had been refused by kings, by merchants, by generals, by priests. She had never been refused by a king who looked as if he were about to be sick.
+
+The king did not hate the Hummans. The king was afraid of scorpions.
+
+<div class="dialogue-block">
+<span class="speech">"The egg will hatch within hours,"</span> she said quietly. <span class="speech">"If you do not accept it, I must find someone else. It will imprint on the first creature it sees. If that creature is me, it will be worthless. If that creature is a servant, it will be a pet. If that creature is—"</span> She stopped. Her dark eyes moved to Kira, still perched on Ember's back. <span class="speech">"If that creature is your sister, it will be a mount worthy of a Brightmane."</span>
+</div>
+
+Ajani followed her gaze. Kira was staring at the egg with an expression of pure, unguarded wonder. She had never seen a Pearly Scorpion egg before. She had only heard the stories—the great beasts of the Flickermarch, the mounts that could traverse the poison winds and the Iris Scales and the thousand other deaths that lurked in the March. She had dreamed of seeing one, when she was still on the streets, when she was still starving and forgotten.
+
+Now one was pulsing in the Humman ambassador's arms, and the ambassador was looking at her.
 
 <div class="dialogue-block">
 <span class="speech">"Ajani,"</span> Kira said, her voice very quiet. <span class="speech">"You're scared of it."</span>
@@ -112,19 +102,27 @@ Ajani closed his eyes. The green fire along his claws flickered. <span class="sp
 </div>
 
 <div class="dialogue-block">
-<span class="speech">"That does not make you less terrible."</span> He opened his eyes and looked at Seris. The Humman ambassador was staring at him with an expression he could not quite read—surprise, perhaps, or the first faint stirrings of something that might have been understanding. <span class="speech">"The egg is magnificent,"</span> he said. <span class="speech">"It is the finest gift anyone has offered me today. And I cannot touch it. I cannot look at it without feeling the sting. I cannot be its master. I am sorry. I am truly sorry."</span>
+<p class="speech-line">"That does not make you less terrible."</p>
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">Seris was silent for a long moment. Then she turned to Kira, who was still standing beside the pulsing egg, her small dark paws pressed against the iridescent shell. "Your brother cannot accept this gift. But he said it could be yours. Do you want it? Do you want the scorpion?"</p>
+<span class="speech">"Kira,"</span> Ajani said. <span class="speech">"Do you want the scorpion?"</span>
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">Kira looked at the egg. The pulsing light was growing stronger now, the shell beginning to crack in fine, hairline fractures. "Can I name it?"</p>
+<p class="speech-line">Kira tore her gaze from the egg and looked at her brother. "You hate them. You said you hate them."</p>
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">"You can name it. You can train it. You can ride it through the Flickermarch. That is your right as the king's sister."</p>
+<span class="speech">"I do. I will never ride one. But you are not me. You are not afraid of the pit. You are not afraid of the sting. You have never been dropped into the darkness and told to survive."</span> He paused. <span class="speech">"If you want the scorpion, it is yours. The Humman ambassador will give it to you instead of me. And I will never have to touch it."</span>
+</div>
+
+<div class="dialogue-block">
+<p class="speech-line">Kira looked at the egg again. The pulsing light was growing stronger, the iridescent shell shimmering with the first stirrings of the creature inside. "Can I name it?"</p>
+</div>
+
+<div class="dialogue-block">
+<p class="speech-line">"You can name it. You can train it. You can ride it through the Flickermarch while I follow on Ember and pretend I am not terrified. That is your right as my sister."</p>
 </div>
 
 <div class="dialogue-block">
@@ -135,21 +133,9 @@ Kira looked at Ajani. Her brother, who had killed a man for insulting her, who h
 <p class="speech-line">Ajani stared at her. Then he started to laugh—the same bright, surprised laugh that had echoed through the water hole when Ember ran circles around him. "I promise. I will not be scared of you when you are bigger than me and have a scorpion. I will be proud of you. I will be insufferably proud. I will tell everyone in the capital that my sister rides a Pearly Scorpion and I will not mention that I am terrified of it."</p>
 </div>
 
-<div class="dialogue-block">
-<p class="speech-line">"Good," <span class="speech-attr">Kira said. She turned back to the egg, and the shell cracked open, and a small, glistening shape tumbled into her waiting paws.</span></p>
-</div>
+Kira slid off Ember's back and walked toward Seris. The Humman ambassador knelt in the damp sand, holding the egg out with trembling arms, and Kira reached out and placed her small dark paws on the iridescent shell. The pulsing light steadied. The shell grew warmer, the pulses faster, the time before hatching shrinking with every heartbeat.
 
-The egg cracked open in Ajani's paws, and he made a sound that was not a scream only because he was the king and kings did not scream. It was a strangled, high-pitched noise that might have been a yelp if a yelp had been strangled at birth. The iridescent shell split into three clean pieces, and Ajani stared into the fragments with the expression of a Wengari who had faced the lord of the desert, the lord of the marsh, the Styx, and the entire assembled might of the Wengari families, and was now confronting the one thing in the world that truly terrified him.
-
-What emerged was not a single Pearly Scorpion.
-
-The first was black—lustrous, gleaming like polished obsidian, its chitin catching the afternoon light and throwing it back in sharp, angular reflections. It was the largest of the three, a full meter and a half from its questing antennae to the tip of its segmented tail. Its eyes were dark and intelligent, and it moved with the slow, deliberate confidence of a creature that had just been born and had already decided it was in charge.
-
-The second was red—a deep, burnished crimson that shimmered with a faint, pulsing aura. It was slightly smaller than the black, perhaps a meter and a third, and its movements were quicker, sharper, more alert. Its tail curled and uncurled with a soft, whispering sound, and its eyes gleamed with a restless, curious light.
-
-The third was white—iridescent, shimmering like moonlight on still water, the smallest of the three at just over a meter. It emerged last, and it emerged annoyed. Its egg fragment had been the smallest, and it had been forced to wait while its larger siblings claimed their places. It shook its head, its pale antennae waving indignantly, and its tiny claws clicked against the broken shell with a sound that was unmistakably petulant.
-
-The black scorpion looked at Ajani. The red scorpion looked at Ajani. Then they moved.
+The egg cracked. A true, definitive crack that split the iridescent shell into three clean pieces, and three small, glistening shapes tumbled out into the light. The black. The red. The white. They separated with the swift, deliberate purpose of creatures that had just been born and were now absolutely certain of their destinations. The black and the red crawled toward Ajani. The white tumbled toward Kira.
 
 Ajani had faced the lord of the desert. He had faced the Styx. He had faced Sylva of the Motted Paws in single combat with the crown on the line. None of those things had prepared him for the sensation of two scorpion hatchlings crawling up his arms with the swift, deliberate purpose of creatures that had just imprinted on him and were now absolutely certain that he was their mother.
 
@@ -159,27 +145,7 @@ Ajani had faced the lord of the desert. He had faced the Styx. He had faced Sylv
 
 The black scorpion reached his shoulder and began investigating his mane with its antennae. The red scorpion settled into the crook of his elbow and curled its tail around his forearm like a bracelet. Ajani stood perfectly, absolutely still. The green fire along his claws had gone out entirely.
 
-Kira watched the white scorpion emerge from its egg fragment, shaking its head with an expression of profound irritation that was entirely too familiar. It looked at the black scorpion, already claiming Ajani's mane. It looked at the red scorpion, already wrapped around Ajani's arm. Then it looked at Kira, and its pale antennae lifted with an expression of regal, slightly offended dignity. It clicked its claws once, as if to say 'finally', and crawled into her waiting paws.
-
-<div class="dialogue-block">
-<span class="speech">"Hello,"</span> Kira whispered. <span class="speech">"You're small. You're the smallest one. But you're the prettiest. Don't tell the others I said that."</span>
-</div>
-
-The white scorpion clicked its claws again and settled into her arms with the air of a creature that had been kept waiting far too long and was now prepared to be adored. Its iridescent shell shimmered in the afternoon light, pale and luminous, and Kira held it against her chest and looked up at her brother. Ajani was still standing frozen, a scorpion in his mane and a scorpion on his arm, his green-flecked eyes wide with the particular horror of someone who had been right about scorpions all along and had been ignored by the universe.
-
-The egg was whole in Ajani's paws. He could feel the creatures moving inside—three distinct shapes, three distinct pulses, three distinct lives pressing against the iridescent shell. The crack he had felt a moment ago had been a false alarm, a shifting of the creatures within rather than the true beginning of their emergence. But the shell was growing warmer, the pulses faster, the time before hatching shrinking with every heartbeat.
-
-<div class="dialogue-block">
-<span class="speech">"King Ajani."</span> Seris stepped forward, her diplomatic composure reassembling itself piece by piece. She had seen his fear. She had seen him stammer like a cub. But she was an ambassador of thirty years, and she knew how to turn a weakness into an opportunity. <span class="speech">"The Pearly Scorpion is the finest mount on Ethra. It is faster than a fire foot over rough terrain, immune to the poison of the Flickermarch—"</span>
-</div>
-
-The egg cracked. Not a false alarm this time. A true, definitive crack that split the iridescent shell into three clean pieces, and Ajani found himself staring at three small, glistening shapes tumbling into his waiting paws. The black. The red. The white. They separated with the swift, deliberate purpose of creatures that had just been born and were now absolutely certain of their destinations. The black and the red crawled up his arms. The white tumbled toward Kira.
-
-<div class="thought-block">
-'Get them off!! Get them off!!'
-</div>
-
-Ajani stood frozen, the black scorpion investigating his mane with its antennae, the red scorpion wrapped around his forearm like a living bracelet. Every instinct screamed at him to run, to shake them off, to summon the green fire and incinerate them before they could sting him the way the scorpions in L'vat's pit had stung him a hundred times. But these were not the scorpions of the pit. These were hatchlings. Small. Curious. And they were vibrating.
+Every instinct screamed at him to run, to shake them off, to summon the green fire and incinerate them before they could sting him the way the scorpions in L'vat's pit had stung him a hundred times. But these were not the scorpions of the pit. These were hatchlings. Small. Curious. And they were vibrating.
 
 It was not a threatening vibration. It was not the warning rattle of a scorpion preparing to strike. It was something softer, something almost musical—a low, rhythmic thrumming that resonated through his fur and into his bones. If scorpions could purr, they would purr like this.
 
@@ -194,6 +160,14 @@ Slowly, very slowly, Ajani began to move. He raised one paw and brought it gentl
 </div>
 
 The red scorpion clicked its claws once, as if acknowledging the compliment, and resumed its investigation of his wrist.
+
+Kira watched the white scorpion shake its head with an expression of profound irritation that was entirely too familiar. It looked at the black scorpion, already claiming Ajani's mane. It looked at the red scorpion, already wrapped around Ajani's arm. Then it looked at Kira, and its pale antennae lifted with an expression of regal, slightly offended dignity. It clicked its claws once, as if to say 'finally', and crawled into her waiting paws.
+
+<div class="dialogue-block">
+<span class="speech">"Hello,"</span> Kira whispered. <span class="speech">"You're small. You're the smallest one. But you're the prettiest. Don't tell the others I said that."</span>
+</div>
+
+The white scorpion clicked its claws again and settled into her arms with the air of a creature that had been kept waiting far too long and was now prepared to be adored. Its iridescent shell shimmered in the afternoon light, pale and luminous, and Kira held it against her chest and looked up at her brother. Ajani was still standing frozen, a scorpion in his mane and a scorpion on his arm, his green-flecked eyes wide with the particular horror of someone who had been right about scorpions all along and had been ignored by the universe.
 
 Seris stood at the edge of the gathering, her diplomatic composure flickering between horror and calculation. She had intended to present a mount—a single, magnificent Pearly Scorpion worthy of a king. She had been swindled. The egg she had purchased at such great cost had produced not one scorpion but three, and none of them were large enough to ride. She had never heard of an egg producing multiple hatchlings.
 

@@ -73,7 +73,6 @@ She stepped back, her silhouette framed against the last glow of the vanished su
 Somewhere in the capital, the Stripe Paw merchants were already counting their losses. Somewhere in the Bright Paw temples, traditionalists were muttering about cities given away and vassals made friends. Somewhere on the northern road, a mirage was walking toward them, singing a song no one recognized. And somewhere beneath the earth, the Blight was stirring. But for now, for this brief moment between sundown and moonrise, the king allowed himself to breathe.
 
 
-
 <div class="dialogue-block">
 <p class="speech-line">"T'van call for the elder council of the Stripe Paws, now please "</p>
 </div>
@@ -96,7 +95,6 @@ And tonight, its central chamber was filled with the largest gathering of Stripe
 
 
 They had not waited for T'van's summons. They were already here, already angry, already deep in heated debate when the young priest arrived with the king's command. The news of Ajani's audiences had spread through the city like wildfire—the Pyrinae given five cities, the Hummans made honorary Wengari, the Veylar offered a place on the road, the Threx embraced as brothers. And somewhere beneath all of it, the quiet, festering outrage that their new king had negotiated trade terms that directly undercut Stripe Paw interests without so much as consulting them.
-
 
 
 Zara, the chief who had knelt before the Tree and offered her forgiveness, stood at the center of the chamber. Her massive frame was taut with tension, her claws half-extended, her striped mane bristling. She had supported Ajani in the inner chamber. She had believed in the new pact. But the terms he had given the Pyrinae—first veto on goods, reduced taxes, a century of free passage on a road that would cut directly through Stripe Paw territory—had not been shared with her in advance.
@@ -196,7 +194,6 @@ Old Torek let out a long, slow breath. <span class="speech">"That's why you didn
 
 
 The Stripe Paws settled onto the cushions around the camp table, their anger cooling into something more measured. Zara sat directly across from Ajani, her massive frame folding onto a cushion that was far too small for her. Torek lowered himself with the slow care of age. Veena remained standing near the door, her sharp eyes never leaving the king's face. Mako, the youngest of them, took a position near the wall where he could watch everyone at once—a habit he had picked up on the caravan routes.
-
 
 
 <div class="dialogue-block">
@@ -451,16 +448,3 @@ Nefere accepted the toast, but her ancient eyes were distant. <span class="speec
 <div class="dialogue-block">
 <p class="speech-line">The garden fell quiet. The laughter faded. Mira lowered her cup. "You think he will become a Tyrant."</p>
 </div>
-
-
-<div class="dialogue-block">
-Nefere turned her clouded eyes toward the younger Pyrina. <span class="speech">"I think he is a White Dawn. I think every White Dawn in history began with benevolence. I think he is afraid of himself—and that fear is the best thing about him. But I also think his mother wanted him to see the ocean, and his father loved him enough to let him go, and he carries both of them in his heart. That is not nothing. That is a foundation. Whether it is enough—"</span> She shook her head. <span class="speech">"We will find out. We will all find out."</span>
-</div>
-
-
-The Stripe Paw caravan grounds stretched along the northern edge of the capital, a sprawling encampment of tents and corrals where the fire feet dozed in the cool night air. Zara walked among them, her massive frame weaving between the sleeping lizards, her striped mane silvered by the moonlight. She had dismissed the other elders to their rest, but she could not sleep. The king's words echoed in her mind. *The sun shines for all.* The tournament. The regency. The chance to rule in his absence.
-
-
-She stopped beside a corral where a pale fire foot lay curled in the sand, its flanks rising and falling with the slow rhythm of sleep. It was one of Korr's breed—the white-striped line that had been thought lost when the Ghost Wind vanished. But Korr had not vanished. Korr had returned, six months ago, with half his caravan intact and a dozen of the pale fire feet still in his train. He had never explained where he had been for three years.
-
-He had simply resumed his routes, quieter than before, his eyes holding something distant and unreadable.

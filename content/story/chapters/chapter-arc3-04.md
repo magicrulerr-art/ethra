@@ -1,29 +1,6 @@
 ## Chapter 4: The Tyrant Cycle
 
 <div class="dialogue-block">
-The eldest of them, a grizzled veteran named Voren, stepped forward and bowed low before the throne. His voice was steady, but his paws trembled. <span class="speech">"I trained them, my king. I taught them the old forms. The ceremonial combat of the royal court. They were the best of their generation. They—"</span> He faltered. <span class="speech">"They were not ready for this."</span>
-</div>
-
-
-The other two trainers bowed beside him, their golden manes brushing the sand. They did not speak. They did not defend themselves. They had watched their pupils fall in less than a quarter of an incense stick. There was no defense.
-
-
-The arena waited. The Stripe Paws, the Shadow Paws, the Motted Paws—all of them watched the king and the trainers and the broken champions kneeling before the throne. The delegations—Pyrinae, Humman, Veylar—observed with the careful stillness of outsiders who understood that this was a Wengari matter, and that Wengari matters were settled in blood.
-
-
-And the green fire flickered gently along Ajani's claws, casting dancing shadows across the ancient stone. The White Dawn had asked a question. Now he would judge the answer.
-
-
-<div class="dialogue-block">
-<p class="speech-line">"YOU HAVE SEEN THE BEST THE WENGARI HAVE TO OFFER, WOULD YOU CALL THE PERFORMANCE OF YOUR WARDS TODAY IN THIS ARENA, THE BEST OUR FAMILY HAS TO OFFER?"</p>
-</div>
-
-
-Voren's golden eyes lifted to meet his king's, and in them was something worse than fear. It was acceptance. He had served the Bright Paws for sixty years. He had trained champions who had won honor for their family in tournaments past. He had believed, truly believed, that the old forms were enough—that the ceremonial combat of the royal court was the pinnacle of Wengari martial tradition. Today, in front of every family and every delegation and every race gathered in this arena, he had learned that he was wrong.
-
-
-
-<div class="dialogue-block">
 <span class="speech">"No, my king."</span> His voice was hoarse, but it did not waver. <span class="speech">"The performance you witnessed today was not the best our family has to offer. It was the best I had to offer. And it was not enough."</span>
 </div>
 
@@ -53,7 +30,7 @@ Sera, her face still a bleeding ruin, nodded once in agreement. She did not spea
 
 
 <div class="dialogue-block">
-Rask stepped forward next. The massive Stripe Paw was still shaking off the last of the Shadow Paw poison, her great body trembling with exhaustion, but her voice was steady. <span class="speech">"The Stripe Paws do not claim our own blood as prizes. These are Wengari. They are Bright Paws, but they are Wengari. We fought them. We beat them. That is enough."</span> She looked at Solen, still kneeling before the throne, and something flickered in her golden eyes—not pity, not quite, but something close. <span class="speech">"They were not ready. They will be ready next time. Or they will fall again. That is the way of the desert."</span>
+Rask stepped forward next. The massive Stripe Paw was still shaking off the last of the Shadow Paw poison, her great body trembling with exhaustion, but her voice was steady. <span class="speech">"The Stripe Paws do not claim our own blood as prizes. These are Wengari. They are Bright Paws, but they are Wengari. We fought them. We beat them. That is enough."</span> She looked at Karn, still kneeling before the throne, and something flickered in her golden eyes—not pity, not quite, but something close. <span class="speech">"They were not ready. They will be ready next time. Or they will fall again. That is the way of the desert."</span>
 </div>
 
 
@@ -87,7 +64,6 @@ The Motted Paws had claimed their prize. The arena was still. The six champions 
 
 
 The delegations stirred. Nefere sat very still in the Pyrinae section, her ancient eyes fixed on Sylva's retreating form. Mira, beside her, was already jotting notes. In the Humman tier, Seris clutched her daughter's hand and wondered what kind of regent would emerge from a tournament where the victors claimed training rights instead of blood. The Veylar Shell-Singer closed her luminous eyes and let the Petal-Shell pulse once with a soft, golden light—acknowledgment, perhaps, of something she had not expected to witness.
-
 
 
 Ajani rose from his father's throne. The green fire along his claws dimmed to a faint, pulsing glow. He did not speak to the crowd. He did not acknowledge the delegations. He simply walked toward the shaded colonnade where the champions were resting, his white cloak swirling around him, his golden mane catching the noon sun. The tournament was not over. But the Bright Paws had been humbled, the Motted Paws had spoken, and the desert had witnessed all of it.
@@ -283,7 +259,7 @@ The Shadow Paws did not drink. Thane and Sera stood apart from the other champio
 The Motted Paws accepted the offerings with their characteristic silence. Sylva took a single dried fig, inspected it with her ancient silver eyes, and placed it in her mouth. She chewed slowly, thoughtfully, as if tasting something more than fruit. Elyra and Torin followed her lead, their movements synchronized, their silver auras flickering faintly as they ate.
 
 
-The crowd rumbled with approval. The common Wengari in the stone tiers reached for the baskets that the Humman servants carried among them, their earlier contempt for the weak race softened—just slightly—by the gift of food and wine. Even the Bright Paws, still humiliated from their elimination, accepted the offerings. Solen, the broken champion, took a pitcher of water and drank as if it were the first kindness he had received in a very long time.
+The crowd rumbled with approval. The common Wengari in the stone tiers reached for the baskets that the Humman servants carried among them, their earlier contempt for the weak race softened—just slightly—by the gift of food and wine. Even the Bright Paws, still humiliated from their elimination, accepted the offerings. Karn, the broken champion, took a pitcher of water and drank as if it were the first kindness he had received in a very long time.
 
 
 Ajani watched it all from his throne. The green fire along his claws dimmed to a faint, pulsing glow. The Humman gesture was exactly what he had intended—a reminder that the weak races now served the Wengari, and that the Wengari, in turn, were magnanimous in victory. He let his gaze sweep across the arena, the eye flare still flickering in his pupils, and then he settled back into his throne to wait for the second phase to begin.
@@ -559,3 +535,10 @@ Zara, standing at the opposite fence rail, exchanged a glance with Kareth. The S
 
 
 He was gesturing now, his claws tracing tactical diagrams in the air. The green fire flickered along his knuckles, forgotten. The white cloak trailed in the dust. The king of the Wengari, the White Dawn, the heir of the Lightbringer, was calling out combat analysis like a caravan master at a way-station brawl, and every Wengari in the arena was watching him with expressions ranging from bewilderment to barely suppressed laughter.
+
+He noticed none of it. The fire feet thundered past again, and Ajani Brightmane, first of his name, son of Uthgard IX, keeper of the pact, leaned over the fence rail and shouted with the pure, unguarded joy of someone who had forgotten he was supposed to be regal.
+
+
+<div class="dialogue-block">
+<p class="speech-line">"YES! That's it, Torin! Cut him off! Now Sylva comes from the blind side—she's been waiting the whole match for this opening, she's been patient for five thousand years and she's not going to waste it now—GO! GO! GO!"</p>
+</div>

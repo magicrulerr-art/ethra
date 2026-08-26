@@ -1,39 +1,5 @@
 ## Chapter 4: The Tree's Judgment
 
-Her right knee hit the sand. Then her left. She stared at the ground, her striped mane hanging limp, her claws still retracted, her breath coming in short, sharp gasps. She did not know what had happened. She had felt something—a cold thread wrapping around her paw, a whisper of green fire that smelled of marsh water and old stone—but it was gone before she could name it. To everyone else in the arena, she had knelt.
-
-The defiant mercenary, the Stripe Paw who sold her claws to the highest bidder, had bowed before the White Dawn.
-
-
-The Humman merchants, still on their knees, stared at their champion with dawning awe. Seris opened her eyes, saw the mercenary kneeling, and drew a slow, careful breath. The Stripe Paw's voice, when she finally found it, was a hoarse whisper.
-
-
-<div class="dialogue-block">
-<p class="speech-line">"What... what did you do to me?"</p>
-</div>
-
-
-And the king, still seated on his throne, his claws resting on the cold stone, met her eyes and did not answer.
-
-
-<div class="dialogue-block">
-<p class="speech-line">'good' — "Guards, please remove our sister, she's feeling ill, as for the Humman, the ambassador can stay, the others do so at their own peril" — 'and just a little touch of eye flare, father always said that gave the Hummans the creeps'</p>
-</div>
-
-
-The guards moved quickly. Two Bright Paws in ceremonial armor stepped forward and lifted the Stripe Paw mercenary by her arms, not ungently, as if handling a wounded comrade rather than a defiant challenger. She did not resist. Her legs still trembled, her eyes still wide with that uncomprehending shock.
-
-
-<div class="dialogue-block">
-<p class="speech-line">"What did you do?" <span class="speech-attr">she whispered again, but the guards were already guiding her toward the shade of the eastern colonnade, and no answer came.</span></p>
-</div>
-
-
-The Humman merchants exchanged terrified glances. The one who had fallen first—a portly man in Verdantian silks—scrambled backward on his hands and knees, his breath coming in short, panicked gasps. His colleague grabbed his arm and hissed something in the Humman trade-tongue, too fast for Wengari ears to catch. They had seen their champion kneel. They had seen the king's eyes flare—that brief, terrible flash of green fire, the predator's gaze that every Humman cub learned to fear in the old tales.
-
-The ambassador alone remained, her face pale but her jaw set.
-
-
 <div class="dialogue-block">
 <span class="speech">"Go,"</span> Seris said quietly to her council. <span class="speech">"I will speak for Verdantis. The rest of you—wait outside. If the king wished you dead, you would already be dead."</span> They fled. Not with dignity, not with the measured exit of diplomats, but with the stumbling haste of prey escaping a predator's den. Seris watched them go, then turned back to Ajani. She was afraid. Every line of her body spoke of fear. But she was also still kneeling, still meeting his eyes, still present.
 </div>
@@ -223,3 +189,16 @@ The Hydromancer remained where she stood, her embedded rune-glass pulsing with s
 <div class="dialogue-block">
 <p class="speech-line">She stepped closer to the throne, her bare feet silent on the warm stone. "You asked us to speak without flattery. I will honor that request. The Pyrinae have been patient for three thousand years, but patience is not passivity. We have been watching you since the moment you returned from the marshes. We saw you enter the Tree's chamber. We felt the pact renew. We heard the Styx cry and the Lament sing and the chant of your people echoing through the roots of the ancient one. We know what you are, Ajani Brightmane. We have always known. We have been waiting for you since the Lightbringer vanished."</p>
 </div>
+
+
+<div class="dialogue-block">
+She stopped at the foot of the throne's dais, her clouded eyes level with his. <span class="speech">"The question is not whether we will follow you. The question is whether you will let us follow you as we are, or whether you will demand that we become something else. The Hummans are bargaining for their survival. The Veylar are watching for signs of tyranny. The Threx are loyal because L'vat told them to be. But the Pyrinae—"</span> She placed her hand over her heart, the rune-glass filaments in her flesh pulsing with amber light. <span class="speech">"The Pyrinae are your memory. We know what the Lightbringer intended. We know what the pact was meant to be. We know that the road you have promised is not merely a corridor for the Tree's roots, but a bridge between the ancient ones, a restoration of something that was broken before the Wengari ever walked this desert."</span> She extended her hand, palm up, toward the throne. <span class="speech">"Tell us what you need, White Dawn. Not as a king to his subjects. Not as a predator to his prey. As a friend to the memory that has waited three thousand years to serve."</span>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">"do you think me a fool? Three thousand years waiting to serve? Did father ever fall for such lofty words? I might be a young king, but I am king. You either treat me with respect or your race dies tonight. Don't make me repeat myself"</p>
+</div>
+
+
+The Hydromancer's ancient composure did not crack. But something shifted in her clouded eyes—a flicker of recognition, perhaps even of approval. She had watched three Wengari kings hold court. She had seen Uthgard IX charm his enemies and disarm his friends with a single well-placed word. She had seen his father, Uthgard VIII, rule with a sternness that bordered on cruelty. She had seen the Bright Paw dynasty at its zenith and its nadir.

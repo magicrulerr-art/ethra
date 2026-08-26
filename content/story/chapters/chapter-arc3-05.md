@@ -1,13 +1,5 @@
 ## Chapter 5: The Hour Before
 
-He noticed none of it. The fire feet thundered past again, and Ajani Brightmane, first of his name, son of Uthgard IX, keeper of the pact, leaned over the fence rail and shouted with the pure, unguarded joy of someone who had forgotten he was supposed to be regal.
-
-
-<div class="dialogue-block">
-<p class="speech-line">"YES! That's it, Torin! Cut him off! Now Sylva comes from the blind side—she's been waiting the whole match for this opening, she's been patient for five thousand years and she's not going to waste it now—GO! GO! GO!"</p>
-</div>
-
-
 The final pass was a blur of black scales and silver light. Sylva and Torin moved in perfect synchronization—two practitioners of Flowing Water riding as if they shared a single mind. Their fire feet wheeled and pivoted, herding Thane's mount toward the corner of the enclosure, cutting off every escape. The Shadow Paw champion fought with the cold precision of the Eight Points, his injured shoulder screaming, his dark eyes calculating. He knew what they were doing. He could not stop it.
 
 
@@ -34,12 +26,7 @@ Her golden eyes narrowed, then softened. She had seen many things in her decades
 It would be a tribute to a shared love.
 
 
-Other elders noticed too. Kareth, leaning on his obsidian staff, filed the observation away for the Shadow Paw council. A king who loved spectacle could be honored with a demonstration of the Eight Points, a private exhibition of the art's most secret techniques. Hakar, the old watchman, thought of the northern wall and the weapons stored there. A king who craved combat might appreciate a blade forged in the old style.
-
-And Sylva, still mounted on her war-mount, silver aura flickering, looked down at the king who had shouted himself hoarse for her victory. The Motted Paws had been silent for five thousand years. They would not be silent when they chose the gift for the king who had finally heard them.
-
-
-The final pass was a blur of black scales and silver light. Thane was already out—his injured shoulder had betrayed him on the second turn, and Sylva had guided his mount to the rail with the same gentle inevitability she had shown in every phase. The Shadow Paw dismounted without protest, cradling his arm, and the crowd roared as the two Motted Paws wheeled to face each other.
+Across the enclosure, the two Motted Paws wheeled their fire feet to face each other. Sylva and Torin. Silver against silver.
 
 
 One champion would advance. One would fall. The rules were absolute.
@@ -108,7 +95,7 @@ And Sylva, the new regent, stood in the center of the enclosure with her silver 
 
 
 <div class="dialogue-block">
-<p class="speech-line">The arena's roar was all the answer Ajani needed, but the Wengari gave it anyway. "YEARLY! YEARLY! YEARLY!" The chant thundered through the stone tiers, punctuated by the rhythmic pounding of Stripe Paw tails against the stone and the sharp crack of Shadow Paw obsidian staves. The Bright Paws, still humiliated from their early elimination, found themselves swept up in the fervor despite themselves—even old Solen, his golden mane still dusty from his earlier prostration, was clapping his ancient paws together with something that might have been hope.</p>
+<p class="speech-line">The arena's roar was all the answer Ajani needed, but the Wengari gave it anyway. "YEARLY! YEARLY! YEARLY!" The chant thundered through the stone tiers, punctuated by the rhythmic pounding of Stripe Paw tails against the stone and the sharp crack of Shadow Paw obsidian staves. The Bright Paws, still humiliated from their early elimination, found themselves swept up in the fervor despite themselves—even old Solen, his golden mane still dusty from the morning, was clapping his ancient paws together with something that might have been hope.</p>
 </div>
 
 
@@ -178,7 +165,6 @@ The hours before twilight transformed the capital into something it had not been
 The Stripe Paw caravan grounds had become a carnival. The great fire feet, normally reserved for trade and war, were being led through the streets by their handlers, their black scales gleaming in the late afternoon sun. Children clambered onto the most docile of the beasts, their laughter echoing off the stone walls. Rask and Tor, still nursing their wounds from the tournament, sat at a makeshift table near the stables, signing mock weapons—wooden claws and blunted blades—for a line of cubs that stretched halfway across the grounds.
 
 
-
 <div class="dialogue-block">
 <span class="speech">"Sign it for my brother! He wants to be a champion someday!"</span> a young Stripe Paw cub demanded, shoving a wooden claw across the table. Rask laughed, her booming voice carrying across the grounds. <span class="speech">"Your brother? What about you? You're the one standing here."</span> She signed the claw with a flourish and handed it back. <span class="speech">"Train hard. The tournament will be waiting."</span>
 </div>
@@ -200,7 +186,6 @@ She had been humiliated in the morning. She had scrambled to fulfill the king's 
 
 
 The young Wengari, those who had not been chosen as champions, who had watched the tournament from the tiers with envy burning in their hearts, were already petitioning their elders. The Stripe Paws had a list of aspiring champions that stretched across three caravan ledgers. The Shadow Paws were holding auditions in the darkened training halls beneath the plateau. Even the Bright Paws, humiliated and stripped of their training autonomy, were quietly approaching their new Motted Paw overseers and asking when instruction would begin.
-
 
 
 And the question on every tongue, in every council chamber, in every crowd of common Wengari gathered around the rising arena: would the crown be a yearly stake? The king had put it on the line once. Would he do it again? The elders debated it. The merchants wagered on it. The champions dreamed of it. And the sun sank lower toward the horizon, painting the desert in shades of amber and rose. Twilight was coming.
@@ -292,7 +277,6 @@ But Ajani was not using it for defense. He was using it for deception. The sword
 Sylva flowed. Not backward, not sideways—down. Her body dropped beneath the staff's arc like water pouring over a fall, her silver aura flaring as she caught herself on one palm and swept her legs in a low, circular motion that was not an attack but a redirection. Her tail caught Ajani's ankle. His momentum, already committed to the staff strike, carried him forward. He stumbled. Caught himself. Spun to face her—but she was already standing, already calm, already watching him with those ancient silver eyes that had seen five thousand years of Wengari warriors and found them all wanting.
 
 
-
 <div class="dialogue-block">
 <span class="speech">"The staff is the grandfather,"</span> she said quietly, her soft voice carrying across the silent platform. <span class="speech">"It protects. It does not deceive. You used it as a weapon of ambush. That is not the art. That is cleverness. Cleverness is not wisdom."</span> She stepped back, her silver aura flickering gently. <span class="speech">"Try again."</span>
 </div>
@@ -311,7 +295,6 @@ He was going to have to admit that he was not better than her. And then he was g
 
 
 The ji blazed to life in Ajani's paws—a weapon none of the gathered Wengari had ever seen. Its shaft was long, nearly the height of the king himself, and it shimmered with an unstable, shifting light that cycled between the brilliant gold of the Steadfast and the pure white of the male Styx circling far above. But the blade was green. Not the warm gold of the Bright Paw legacy, not the cold silver of the Motted Paws' Flowing Water, but the deep, vibrant green of living things, of marsh water and ancient roots and the patient, inexorable pulse of the Mycelial Deep.
-
 
 
 The crowd gasped. The Pyrinae Hydromancers leaned forward, their rune-glass staves humming in sympathy with the raw power bleeding off the platform. Zara's great paws tightened on the fence rail. Kareth's one good eye widened. Even Sylva, calm and patient Sylva, tilted her head a fraction of an inch, her silver aura flickering with something that might have been surprise—or might have been anticipation.
@@ -353,8 +336,6 @@ The ji dissolved. In the same fluid motion, the saber blazed back to life—not 
 
 
 Sylva looked down at the saber against her wrist. Then she looked up at the young king, whose chest was heaving, whose golden mane was plastered to his skull with sweat, whose green fire had dimmed to a faint, flickering glow. And she smiled—a small, private expression, meant only for him.
-
-
 
 
 The ji guttered and died in Ajani's exhausted paws, its emerald blade flickering out like a candle in a sandstorm. His chest heaved. His golden mane was plastered to his skull with sweat. The green fire along his claws had dimmed to a faint, sputtering glow, and every muscle in his body screamed with the effort of the duel. He had thrown everything at Sylva—the saber, the spear, the sword, the staff, the ji—and none of it had worked.
@@ -469,7 +450,7 @@ And in doing so, they could shape the next generation of Wengari warriors in the
 The Bright Paws, still humiliated, still stripped of their training autonomy, saw a glimmer of hope. The Motted Paws would train them—but so could others. The Shadow Paws. The Stripe Paws. If the Bright Paws could not produce their own champions, they could at least learn from those who could. It was not redemption. It was a beginning.
 
 
-Hakar, the old watchman, thought of the northern wall and the young soldiers who would flock to the capital to study under the masters. The tournament had given them a dream. The schools would give them the means to achieve it. The Wengari, stagnant for three thousand years, were stirring. The king had done that. The tournament had done that. The road would do more.
+And Hakar, the old watchman, saw what it would mean: young soldiers flocking to the capital to study under the masters. The tournament had given them a dream. The schools would give them the means to achieve it. The Wengari, stagnant for three thousand years, were stirring. The king had done that. The tournament had done that. The road would do more.
 
 
 And the young king, exhausted and exhilarated, stood at the center of the platform with the green fire still flickering faintly along his claws and the roar of the crowd washing over him, and thought of the road ahead. The tournament was over. The regent was chosen. The schools would rise. The crown was safe. He had survived the closest duel of his life, had learned that instinct was sometimes worth more than technique, had discovered that the saber was his true weapon and that the ji was a form he might never master.

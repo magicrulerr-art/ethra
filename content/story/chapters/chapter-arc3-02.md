@@ -1,5 +1,18 @@
 ## Chapter 2: First Blood
 
+<div class="dialogue-block">
+Nefere turned her clouded eyes toward the younger Pyrina. <span class="speech">"I think he is a White Dawn. I think every White Dawn in history began with benevolence. I think he is afraid of himself—and that fear is the best thing about him. But I also think his mother wanted him to see the ocean, and his father loved him enough to let him go, and he carries both of them in his heart. That is not nothing. That is a foundation. Whether it is enough—"</span> She shook her head. <span class="speech">"We will find out. We will all find out."</span>
+</div>
+
+
+The Stripe Paw caravan grounds stretched along the northern edge of the capital, a sprawling encampment of tents and corrals where the fire feet dozed in the cool night air. Zara walked among them, her massive frame weaving between the sleeping lizards, her striped mane silvered by the moonlight. She had dismissed the other elders to their rest, but she could not sleep. The king's words echoed in her mind. *The sun shines for all.* The tournament. The regency. The chance to rule in his absence.
+
+
+She stopped beside a corral where a pale fire foot lay curled in the sand, its flanks rising and falling with the slow rhythm of sleep. It was one of Korr's breed—the white-striped line that had been thought lost when the Ghost Wind vanished. But Korr had not vanished. Korr had returned, six months ago, with half his caravan intact and a dozen of the pale fire feet still in his train. He had never explained where he had been for three years.
+
+He had simply resumed his routes, quieter than before, his eyes holding something distant and unreadable.
+
+
 Zara had not thought to ask him about the king. Now she wondered.
 
 
@@ -190,7 +203,6 @@ But he was also a young man who overslept and needed someone to tell him to brus
 Mira, who had served in the palace since Uthgard IX was young and had seen more than her share of royal panics, calmly reached for a polished silver mirror and held it before the king's face. The reflection that stared back was not the regal figure who had faced down four delegations the day before. The golden mane was flattened on one side, sticking up in wild tufts on the other, and there was a small piece of dried vegetation lodged behind one ear—a remnant, perhaps, of his journey through the hanging gardens weeks ago.
 
 
-
 <div class="dialogue-block">
 <span class="speech">"The families are already gathering, my king,"</span> Mira said, her voice steady despite the chaos. <span class="speech">"The criers announced the tournament at dawn. The arena is being prepared. The Pyrinae delegation has requested front seats. The Hummans have asked if they are permitted to attend. The Veylar Shell-Singer is already seated in the eastern colonnade—she arrived before sunrise, and no one has dared ask her to move. And—"</span> She paused, her ears flicking with something that might have been amusement. <span class="speech">"And the Stripe Paws have been practicing in the caravan grounds since first light. They seem... eager."</span>
 </div>
@@ -218,7 +230,6 @@ The maids erupted into motion. Mira snapped orders at the younger attendants, wh
 
 
 The young maid with the brush made a soft sound that might have been agreement. The fruit arrived—a bowl of sliced desert melon and dried figs, brought by a breathless kitchen attendant who nearly collided with the armory servant carrying the king's ceremonial armor. The armor was not the heavy battle-plate of a Wengari warrior, but the lighter, formal set worn for audiences and ceremonies—gold-inlaid pauldrons, a chestpiece etched with the four pillars, and a white cloak that had belonged to Uthgard IX.
-
 
 
 <div class="dialogue-block">
@@ -334,7 +345,6 @@ The Bright Paw traditionalists did not laugh. The High Priest Solen, seated amon
 
 
 In the Pyrinae section, Nefere leaned toward Mira and murmured something that made the younger Pyrina's eyes widen. In the Humman tier, Seris sat very still, her daughter's hand clutched tightly in her own. The Veylar Shell-Singer opened both luminous eyes, her fin-ridges flaring with something that might have been surprise or might have been admiration. And in the shadowed alcove where the Threx Quick rested beside its pool, a small, chittering sound emerged—the Threx equivalent of startled delight.
-
 
 
 <div class="dialogue-block">
@@ -544,47 +554,4 @@ The Bright Paw elders did not wait. They descended on the throne in a wave of go
 
 <div class="dialogue-block">
 <span class="speech">"Have you lost your mind?!"</span> The words burst from the old priest's throat before he had even finished bowing. <span class="speech">"You put the crown on the line! The crown of the Wengari! In a tournament you announced this morning! After you invited every race on Ethra to compete!"</span>
-</div>
-
-
-<div class="dialogue-block">
-Vasha, the stern advisor who had served Uthgard IX, stepped forward. <span class="speech">"The Lightbringer's crown. Your father's crown. The symbol of three thousand years of Bright Paw rule. You just—"</span> She clenched her claws. <span class="speech">"You just offered it as a prize. To anyone. Without consulting us."</span>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">"Without even eating breakfast," <span class="speech-attr">muttered a younger elder from the back, and was immediately silenced by a glare from Solen.</span></p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Solen drew a ragged breath. "Explain yourself, King Ajani. We are your elders. We are your priests. We deserve an answer."</p>
-</div>
-
-
-And Ajani, seated on his father's throne, the white cloak around his shoulders, the green fire flickering along his claws, waited for the silence to settle before he spoke.
-
-
-<div class="dialogue-block">
-<p class="speech-line">"tell me Solen, who rules the Wengari ?" <span class="speech-attr">, 'warm, unflinching, unforgiving '</span></p>
-</div>
-
-
-Solen's golden eyes, clouded with age and fury, met Ajani's green-flecked gaze. The question hung in the air between them—simple, direct, and utterly unanswerable in any way that did not affirm the young king's authority.
-
-
-<div class="dialogue-block">
-<span class="speech">"You rule the Wengari, King Ajani."</span> The old priest's voice was stiff, the words dragged from him against his will. <span class="speech">"The Bright Paws hold the throne. The pact binds us all. But the throne is not a toy to be gambled in a tournament! It is the legacy of the Lightbringer! It is your father's legacy! It is—"</span>
-</div>
-
-
-<div class="dialogue-block">
-<span class="speech">"It is mine."</span> Ajani's voice was quiet, but it cut through Solen's protest like a blade through silk. The green fire along his claws pulsed once, then steadied. <span class="speech">"It is my crown. My throne. My tournament. And I will wager what is mine as I see fit."</span>
-</div>
-
-
-He rose from the throne, his white cloak swirling around him, and stepped down from the dais until he stood face-to-face with the High Priest. Solen was old—ancient, even, by Wengari standards—and he had served three generations of Bright Paw kings. But he had never stood this close to the White Dawn before. He had never felt the heat of the green fire radiating from the young king's claws.
-
-
-<div class="dialogue-block">
-<span class="speech">"You are afraid,"</span> Ajani said. It was not an accusation. It was an observation. <span class="speech">"You are afraid that a Humman will win. Or a Veylar. Or a Shadow Paw. You are afraid that the crown will pass from the Bright Paws, and that three thousand years of our family's rule will end in a single afternoon. But you are also afraid of something else. You are afraid that no one will win. That no one will dare to challenge me. That the other races will look at the Wengari—at me—and decide that the crown is not worth the risk of facing the White Dawn in single combat."</span>
 </div>

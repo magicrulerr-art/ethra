@@ -1,5 +1,20 @@
 ## Chapter 3: The Shadow Paw
 
+<div class="dialogue-block">
+<p class="speech-line">"I will not ask, what your pacts were, those are for your own families, but I will reveal my own, I promised to build a great corridor from the marshes to the desert, all before the next tide, in 50 years, this is a task I can't accomplish alone, it is a task we Wengari can't complete on our own, and yet will do so, and may the light help whoever stands in our way, this is the way of the strong, this the burden of the Bright Paw, THIS IS THE WENGARI WAY, MY BROTHERS WHO ARE WE?!"</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">The chant began with Kareth. The old general, his scarred face lit by the green glow of the Kyre Tree, raised his obsidian staff and slammed it against the stone. "THE WENGARI!" he roared, his rough voice echoing through the chamber like a battle cry.</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Zara took up the call. Her massive frame seemed to swell, her striped mane bristling, her claws extended toward the unseen ceiling. "THE WENGARI!"</p>
+</div>
+
+
 The Motted Paw twins raised their twinned petals and added their voices, a harmony that had not been heard in three thousand years. The Shadow Paw cub, still clutching her single bright petal, shouted with a voice far larger than her small frame should have allowed. The Bright Paw priests, their golden manes gleaming in the green light, forgot their grief for the broken Solen and the consumed Joren and joined the chorus.
 
 
@@ -44,40 +59,6 @@ In the Humman encampment beyond the city walls, Ambassador Seris sat by a flicke
 Seris listened. The rumble grew louder. The fire flickered. And for the first time since she had arrived in this desert city, the Humman ambassador felt something other than fear. <span class="speech">"I don't know,"</span> she said. <span class="speech">"But I think we are about to find out."</span> And in the cold, distant sky above the desert, the white male Styx circled once, twice, and then turned north—toward the Rune-Belt, toward the road that was to come, toward the fate of Ethra.
 </div>
 
-And through it all, the white male Styx circled the northern horizon, a constant reminder of the promise Ajani had made. The road. The corridor. The pact. Fifty years. It seemed like an eternity. It felt like a heartbeat.
-
-
-The morning of their planned departure, T'van burst into Ajani's chambers without knocking. His shaved mane was damp with sweat, his golden eyes wide with something between excitement and terror.
-
-
-<div class="dialogue-block">
-<span class="speech">"Ajani—my king—they're here. All of them. The delegations. The Pyrinae have requested a formal audience—not as vassals, they said, but as an independent race. The Hummans have sent a full mercantile council, led by Ambassador Seris. There's a Shell-Singer from the Tidepools walking through the eastern gate as we speak, and something—something I don't understand—a Threx, but not like the Lament. Small. Young. It won't speak to anyone except you."</span> He paused, gulping air. <span class="speech">"And the Chi'Thak have sent nothing. The Blight is stirring, they say, but no one knows where."</span>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Ajani set down the pack he had been filling with dried meat and water flasks. "The Dragari?"</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">T'van shook his head. "No Dragari. But the northern watchmen say there's something walking down from the coast. Alone. Singing. They thought it was a mirage."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Ajani looked out the window, toward the northern horizon where the Styx circled and the road was meant to begin. "They're not going to let us leave, are they?"</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">T'van's ears flattened. "No, my king. I don't think they are."</p>
-</div>
-
-
-The king exhaled slowly. The road would have to wait. The world had come to the desert. And it wanted answers.
-
-
 **One Month After the Council**
 
 **The Bright Paw Capital**
@@ -95,7 +76,7 @@ The morning of their planned departure, T'van burst into Ajani's chambers withou
 
 
 <div class="dialogue-block">
-<p class="speech-line">"Ajani—my king—they're here. Delegations. The Pyrinae have requested a formal audience—not as vassals, they said, but as an independent race. The Hummans have sent a full mercantile council. There's a Shell-Singer from the Tidepools walking through the eastern gate as we speak. And something—something I don't understand—a Threx, but not like the Lament. Small. Young. Frightened. It won't speak to anyone except you."</p>
+<p class="speech-line">"Ajani—my king—they're here. Delegations. The Pyrinae have requested a formal audience—not as vassals, they said, but as an independent race. The Hummans have sent a full mercantile council, led by Ambassador Seris. There's a Shell-Singer from the Tidepools walking through the eastern gate as we speak. And something—something I don't understand—a Threx, but not like the Lament. Small. Young. Frightened. It won't speak to anyone except you."</p>
 </div>
 
 
@@ -103,7 +84,7 @@ He paused, gulping air.
 
 
 <div class="dialogue-block">
-<p class="speech-line">"And the Blight. The watchmen on the northern ridge say the ground is stirring. No swarm yet, but the old scouts say it feels wrong. Too early. Too organized."</p>
+<p class="speech-line">"And the Blight. The Chi'Thak have sent nothing. But the watchmen on the northern ridge say the ground is stirring. No swarm yet, but the old scouts say it feels wrong. Too early. Too organized."</p>
 </div>
 
 
@@ -260,25 +241,6 @@ The merchant who had fallen first let out a strangled whimper. Seris, still on h
 The Stripe Paw mercenary braced for fire. She had seen the coronation. Everyone had seen the coronation—the Four Pillars blazing green and gold, the Styx bowing, the Lament singing. She knew what the White Dawn could do. She expected the spear. She expected the flame. She expected to be overwhelmed, incinerated, reduced to ash and memory by a king who would not tolerate defiance.
 
 
-She did not expect the tap on her shoulder.
-
-
-It was light. Almost gentle. A single claw, extended, resting on the joint where her shoulder met her neck. And then the green fire flowed—not the blazing spear of the ritual, not the crushing heat of the desert sun, but something else. Something precise. Something surgical. The fire traced the lines of her Aura, the channels of energy that every Wengari learned to control from cubhood. It did not burn her.
-
-It stilled her. Every muscle in her body locked. Every breath froze in her chest. She was not in pain. She was not injured. She was simply... stopped. Held. Pinned in place by a force that had found the exact frequency of her own life-force and pressed it into perfect, paralyzed equilibrium.
-
-
-The green fire pulsed once. The mercenary's legs buckled. She knelt—not in submission, not in reverence, but in the simple, physical impossibility of doing anything else. Her claws retracted. Her mane flattened. She stared up at Ajani with an expression that was not anger, not fear, but pure, uncomprehending shock. She had trained for decades. She had fought Tide Wolves and Chi'Thak and Pyrinae assassins. She had never encountered anything like this.
-
-
-<div class="dialogue-block">
-<p class="speech-line">The Humman merchants, still on their knees, stared at their champion with dawning horror. Seris opened her eyes, saw the mercenary kneeling, and went very pale. The Stripe Paw's voice, when she finally found it, was a hoarse whisper. "What... what are you?" And the king, his claw still resting gently on her shoulder, met her eyes and smiled. Not a cruel smile. Not a triumphant smile. The smile of a student who had just remembered a lesson his teacher had taught him long ago.</p>
-</div>
-
-
-The Stripe Paw mercenary braced for fire. She had seen the coronation. Everyone had seen the coronation—the Four Pillars blazing green and gold, the Styx bowing, the Lament singing. She knew what the White Dawn could do. She expected the spear. She expected the flame. She expected to be overwhelmed, incinerated, reduced to ash and memory by a king who would not tolerate defiance.
-
-
 She did not expect the touch.
 
 
@@ -286,3 +248,37 @@ It was cold. Not the cold of desert night, but the cold of deep water, of ancien
 
 
 Not hard. Not violently. Just a precise, inexorable pressure on the tendons, on the joint, on the precise point where biomechanics dictated that her leg must bend. She did not choose to kneel. She did not decide to kneel. Her body simply obeyed, as if the laws of physics had been rewritten for this single moment, and the only permitted motion was descent.
+
+
+Her right knee hit the sand. Then her left. She stared at the ground, her striped mane hanging limp, her claws still retracted, her breath coming in short, sharp gasps. She did not know what had happened. She had felt something—a cold thread wrapping around her paw, a whisper of green fire that smelled of marsh water and old stone—but it was gone before she could name it. To everyone else in the arena, she had knelt.
+
+The defiant mercenary, the Stripe Paw who sold her claws to the highest bidder, had bowed before the White Dawn.
+
+
+The Humman merchants, still on their knees, stared at their champion with dawning awe. Seris opened her eyes, saw the mercenary kneeling, and drew a slow, careful breath. The Stripe Paw's voice, when she finally found it, was a hoarse whisper.
+
+
+<div class="dialogue-block">
+<p class="speech-line">"What... what did you do to me?"</p>
+</div>
+
+
+And the king, still seated on his throne, his claws resting on the cold stone, met her eyes and did not answer.
+
+
+<div class="dialogue-block">
+<p class="speech-line">'good' — "Guards, please remove our sister, she's feeling ill, as for the Humman, the ambassador can stay, the others do so at their own peril" — 'and just a little touch of eye flare, father always said that gave the Hummans the creeps'</p>
+</div>
+
+
+The guards moved quickly. Two Bright Paws in ceremonial armor stepped forward and lifted the Stripe Paw mercenary by her arms, not ungently, as if handling a wounded comrade rather than a defiant challenger. She did not resist. Her legs still trembled, her eyes still wide with that uncomprehending shock.
+
+
+<div class="dialogue-block">
+<p class="speech-line">"What did you do?" <span class="speech-attr">she whispered again, but the guards were already guiding her toward the shade of the eastern colonnade, and no answer came.</span></p>
+</div>
+
+
+The Humman merchants exchanged terrified glances. The one who had fallen first—a portly man in Verdantian silks—scrambled backward on his hands and knees, his breath coming in short, panicked gasps. His colleague grabbed his arm and hissed something in the Humman trade-tongue, too fast for Wengari ears to catch. They had seen their champion kneel. They had seen the king's eyes flare—that brief, terrible flash of green fire, the predator's gaze that every Humman cub learned to fear in the old tales.
+
+The ambassador alone remained, her face pale but her jaw set.

@@ -1,18 +1,5 @@
 ## Chapter 5: The Hydromancer
 
-<div class="dialogue-block">
-She stopped at the foot of the throne's dais, her clouded eyes level with his. <span class="speech">"The question is not whether we will follow you. The question is whether you will let us follow you as we are, or whether you will demand that we become something else. The Hummans are bargaining for their survival. The Veylar are watching for signs of tyranny. The Threx are loyal because L'vat told them to be. But the Pyrinae—"</span> She placed her hand over her heart, the rune-glass filaments in her flesh pulsing with amber light. <span class="speech">"The Pyrinae are your memory. We know what the Lightbringer intended. We know what the pact was meant to be. We know that the road you have promised is not merely a corridor for the Tree's roots, but a bridge between the ancient ones, a restoration of something that was broken before the Wengari ever walked this desert."</span> She extended her hand, palm up, toward the throne. <span class="speech">"Tell us what you need, White Dawn. Not as a king to his subjects. Not as a predator to his prey. As a friend to the memory that has waited three thousand years to serve."</span>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">"do you think me a fool? Three thousand years waiting to serve? Did father ever fall for such lofty words? I might be a young king, but I am king. You either treat me with respect or your race dies tonight. Don't make me repeat myself"</p>
-</div>
-
-
-The Hydromancer's ancient composure did not crack. But something shifted in her clouded eyes—a flicker of recognition, perhaps even of approval. She had watched three Wengari kings hold court. She had seen Uthgard IX charm his enemies and disarm his friends with a single well-placed word. She had seen his father, Uthgard VIII, rule with a sternness that bordered on cruelty. She had seen the Bright Paw dynasty at its zenith and its nadir.
-
-
 She had never seen a king drop the act so completely.
 
 
@@ -185,4 +172,9 @@ Nefere paused at the edge of the arena, her ancient frame silhouetted against th
 
 <div class="dialogue-block">
 <p class="speech-line">She walked back across the sand, her bare feet leaving faint impressions that the wind would erase within the hour. "I have lived among the Wengari for sixty years. I have negotiated with Humman merchants for longer than most of their council has been alive. I know their tells—the way they blink when they are lying, the way they pause when they are about to break a promise. I know their trade routes, their guild politics, their desperate hunger for respect from races that will never grant it. You are right. They will try to outplay you. They cannot help themselves. It is what they are."</p>
+</div>
+
+
+<div class="dialogue-block">
+She stopped at the foot of the throne's dais and raised her eyes to the king. <span class="speech">"I am old, Ajani Brightmane. I have perhaps three years left, perhaps five. I will spend them doing what I have always done: watching, listening, remembering. But I will do it for you now. Not for the Bright Paws. Not for the pact. For you."</span> She inclined her head—a slow, deliberate gesture that was almost a bow, but not quite. Almost a promise, but not quite. Something in between. <span class="speech">"When the Hummans make their first move against you, I will know. When their guilds begin to scheme, I will know. When their ambassador writes letters to Verdantis that she does not wish you to see, I will know. And I will tell you. This is my aid. Humble, as you say. But it is what I can offer."</span>
 </div>

@@ -1,7 +1,5 @@
 ## Chapter 5: The Gifts
 
-The merchant's body hit the polished stone at Seris's feet with a sound like a sack of grain falling from a wagon. His neck was broken. The green fire had not touched him—Ajani had not used his aura, had not summoned the saber or the spear—he had simply closed his paw and twisted, and the Humman's fragile vertebrae had snapped like dry twigs in the marsh. The body lay crumpled before the ambassador, and Seris stared down at it, her diplomatic composure shattered beyond repair.
-
 <div class="dialogue-block">
 Ajani flexed his claws once, as if testing their edge. <span class="speech">"So frail. The weakest trees in the marsh are harder than this."</span> He gestured, and the guards stepped back, leaving the corpse where it lay. <span class="speech">"Your dead. Your insult. Your lesson. Remember it."</span>
 </div>
@@ -530,27 +528,3 @@ Nefere's clouded gaze sharpened. Elyra's silver aura flickered with something th
 The page dissolved entirely. In its place, a sphere of pale green light hovered in the air above Ajani's palm—a perfect, pulsing orb of concentrated water and wind, bound together by the runic sequence he had inscribed. He reached out to touch it. The sphere shot upward, a streak of green against the amber sky, and exploded above the water hole in a shower of warm, glowing mist. Droplets of light rained down over the gathered Wengari, over the fire feet, over the Stripe Paws and the Shadow Paws and the Motted Paws and the Pyrinae.
 
 For a single, breathless moment, the water hole was bathed in a soft, green-gold luminescence that smelled of marsh water and ancient roots and the patient, inexorable pulse of the Deep.
-
-<div class="dialogue-block">
-<p class="speech-line">Ajani stared at the empty space where the sphere had been. Then he looked down at the grimoire. Then he looked at Elyra. "Can it be made to grow new pages? If I use a page for sorcery, it's gone. But if the book could grow new pages—if it could replenish itself—then this is not merely a grimoire. This is a portable sorcery arsenal."</p>
-</div>
-
-<div class="dialogue-block">
-Elyra was silent for a long moment. Her silver aura flickered, and her melodic voice, when it came, was careful. <span class="speech">"The grimoire is bound to its owner. It is a living thing, in its fashion. But whether it can be made to grow new pages... that is not a question the Motted Paws have ever been asked. The grimoires we create are finite. Each page is a vessel for a single working. When the pages are gone, the book is complete, and its owner must begin again with a new volume."</span> She paused. <span class="speech">"You are asking if the vessel can be made to refill itself. That is... a significant request. We will need to study the question. It may not be possible. It may take years."</span>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">Ajani nodded slowly. "Then study it. The road will take years. The coalition will take years. I am not asking for an answer today. I am asking for the question to be asked."</p>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">Elyra inclined her elegant head. "The Motted Paws will ask it. We have been patient for five thousand years. We can be patient a little longer."</p>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">Ajani closed the grimoire and held it against his chest. The green fire along his claws had steadied into a warm, steady glow. "This is still the best gift I have received today. The spear is magnificent. The fire foot is beloved. The daggers are precious. But this—this is a piece of the future."</p>
-</div>
-
-Every eye at the water hole was fixed on him. The Stripe Paws, who had just watched their king rip a page from a book and conjure a ball of light that exploded into green rain. The Shadow Paws, who had just watched the same king accept a grimoire with more enthusiasm than he had shown for their daggers or their would-be bride. The Motted Paws, who had known what the grimoire could do but had not known the king would test it so immediately, so publicly, so successfully.
-
-The Pyrinae, who had given him a spear that multiplied and were now watching him clutch a book like a cub with a new toy. The Humman ambassador, standing at the edge of the gathering with her pulsing scorpion egg wrapped in silk, her dark eyes wide with the dawning realization that her gift—objectively the most valuable—might be the one the king wanted least.

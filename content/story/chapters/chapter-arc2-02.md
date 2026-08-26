@@ -1,6 +1,11 @@
 ## Chapter 2: The Confession
 
 <div class="dialogue-block">
+<p class="speech-line">'well it's not as bad as I thought, no one is dead yet', "you misunderstand something my brothers, first of all the lord of the desert does not take our weak, they die by their own hand, it is known only the strong survive here, it's even coded into our lives, however cruel the lord of the desert has made us the strongest race on Ethra, who can best a Wengari in single combat?, what race hasn't felt our claws and fangs?, what race doesn't kill our cubs on sight out of fear?"</p>
+</div>
+
+
+<div class="dialogue-block">
 Kareth, the old general, the scarred Shadow Paw who had served three kings and buried two of them, let out a sound that might have been a laugh or might have been a snarl. It echoed through the chamber, strange and sharp in the green-lit darkness. <span class="speech">"The boy king speaks truth,"</span> he said, turning to the other elders. <span class="speech">"What race can best a Wengari in single combat? None. What race hasn't felt our claws? None. We are feared. We are respected. We are the strongest."</span> He tapped his obsidian staff against the stone. <span class="speech">"And now we know why. The lord of the desert has been sharpening us. For three thousand years, it has been sharpening us. Killing the weak. Forging the strong. Turning us into weapons."</span>
 </div>
 
@@ -11,16 +16,11 @@ Zara, the Stripe Paw chief, was not so easily placated. <span class="speech">"Yo
 
 
 <div class="dialogue-block">
-Nyasha, who had been silent since her last words, spoke again. <span class="speech">"The crime remains,"</span> she agreed. <span class="speech">"But the young king is right about one thing. We are the strongest. We have survived where others would have perished. The Tree has been our crucible."</span> She turned her ancient eyes toward Ajani. <span class="speech">"The question is not whether we are strong. The question is whether we will continue to be strong under the same terms. You said you offered the Tree something new. A road. A partnership. The Deep. What did the Tree say in return? What did it demand? And what did you give it, Ajani Brightmane, that your father could not?"</span>
-</div>
-
-
-<div class="dialogue-block">
 Nyasha, who had been silent since her last words, spoke again. <span class="speech">"The crime remains,"</span> she agreed. <span class="speech">"But the young king is right about one thing. We are the strongest. We have survived where others would have perished. The Tree has been our crucible."</span> She turned her ancient eyes toward Ajani. <span class="speech">"But you did not bring us here merely to confess the Lightbringer's sin. You could have told us the truth in the council chamber, and we would have believed you—or not—and the world would have continued as it always has. Instead, you brought us to the heart of the crime itself. To the lord of the desert. To the true king."</span> She gestured at the pulsing roots, the silent blossom, the amber pool. <span class="speech">"Why? What is it you want from us, Ajani Brightmane? Not as subjects. Not as elders. As Wengari. What do you want?"</span>
 </div>
 
 
-<div class="dialogue-block>
+<div class="dialogue-block">
 <p class="speech-line">'ok... So good, so far', "I brought you here because the lord of the desert isn't the only one, while I was in the marsh I met the lord of the marsh, I trained under him, and he showed me exactly what the pact was, our weak did not start dying until the pact was broken, before the desert was a veritable oasis wasn't it? There are tales of our cities all over the desert, of Stripe Paw caravans that extended as far as the eye could see and of Shadow Paw assassins that shaped the world, of the Motted Paw shamans who could Commune with the Styx, the reason all that is gone is because we failed to upkeep the pact that the Lightbringer made with the lord of the desert... This flower here, it's how the Lord speaks, and it is also the reason why kings of the past have failed, I've brought you here so you can see for yourselves and if you so desire, speak against the pact or forge one of your own, my pact with the lord is my own, and it won't be a Wengari pact unless you all are part of it, elders and heirs"</p>
 </div>
 
@@ -61,7 +61,7 @@ One by one, the other chiefs and heirs bent their heads. Zara, the Stripe Paw, h
 The amber pool rippled. The blossom stirred. The Tree was listening. And for the first time since the Lightbringer vanished, the Wengari were united—not under a Tyrant, not under a lie, but under a king who had given them the truth and asked them to choose.
 
 
-<div class="dialogue-block>
+<div class="dialogue-block">
 <p class="speech-line">'now....for the real test', "the pact isn't with me, it's with the lord of the desert, and he must choose you and accept your offer, what you say it's between you and the lord, however I warn you, if your heart isn't steeled and your aura isn't strong you will perish, and each Wengari here must do so, both the elders and the heirs, for we will not break faith again", 'please, please, don't kill any of the old fools...'</p>
 </div>
 
@@ -174,18 +174,3 @@ Kareth, still holding his petal, turned to Ajani. <span class="speech">"It is do
 
 
 And the Tree, silent for so long, spoke—not in words, but in a pulse of green light that filled the chamber and resonated in the bones of every Wengari present. A single thought, clear as a bell, utterly without sentiment: *Now you keep them.*
-
-
-<div class="dialogue-block">
-<p class="speech-line">"I will not ask, what your pacts were, those are for your own families, but I will reveal my own, I promised to build a great corridor from the marshes to the desert, all before the next tide, in 50 years, this is a task I can't accomplish alone, it is a task we Wengari can't complete on our own, and yet will do so, and may the light help whoever stands in our way, this is the way of the strong, this the burden of the Bright Paw, THIS IS THE WENGARI WAY, MY BROTHERS WHO ARE WE?!"</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">The chant began with Kareth. The old general, his scarred face lit by the green glow of the Kyre Tree, raised his obsidian staff and slammed it against the stone. "THE WENGARI!" he roared, his rough voice echoing through the chamber like a battle cry.</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Zara took up the call. Her massive frame seemed to swell, her striped mane bristling, her claws extended toward the unseen ceiling. "THE WENGARI!"</p>
-</div>

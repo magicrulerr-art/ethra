@@ -93,7 +93,7 @@ The chamber fell utterly silent. The Stripe Paws stopped thumping their tails. T
 </div>
 
 
-<div class="dialogue-block>
+<div class="dialogue-block">
 <p class="speech-line">'kareth, an old general I believe... the Shadow Paws blunt as always, at least he is to the point', "Brother, I must be honest until a week ago I wasn't sure myself of what I was, you know I've been absent for the last years, I travelled, and found myself on the marshes, In there I found a dying lament, he was burning up with aura and I saved him, He allowed me to talk with a someone, or perhaps, something is the right word, Brother, what I'm about to tell you, cannot leave this room, so please have every non-Wengari leave, and only the elders, the chiefs and their heir remains, I'll wait"</p>
 </div>
 
@@ -247,9 +247,4 @@ Before Ajani could answer, another voice spoke. It was Nyasha, the ancient Motte
 
 <div class="dialogue-block">
 She turned to Ajani. <span class="speech">"You said you were the heir of the First. But you are the heir of the Third as well. You carry his blood. You carry his pact. You carry his crime."</span> Her ancient eyes held no anger, only a terrible, patient sadness. <span class="speech">"What do you intend to do about it, young king? Will you continue the tithe? Will you feed the Tree as your father fed it, as every king before him has fed it? Or will you—"</span> She paused. <span class="speech">"You said you offered something new. A road. A partnership. The Deep. Tell us. Tell us everything. We have lived in the shadow of this lie for three thousand years. We deserve the truth. All of it."</span>
-</div>
-
-
-<div class="dialogue-block>
-<p class="speech-line">'well it's not as bad as I thought, no one is dead yet', "you misunderstand something my brothers, first of all the lord of the desert does not take our weak, they die by their own hand, it is known only the strong survive here, it's even coded into our lives, however cruel the lord of the desert has made us the strongest race on Ethra, who can best a Wengari in single combat?, what race hasn't felt our claws and fangs?, what race doesn't kill our cubs on sight out of fear?"</p>
 </div>

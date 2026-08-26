@@ -1,41 +1,5 @@
 ## Chapter 4: The Humman Delegation
 
-But the memories were enough. The Wengari were a people who understood that the desert remembered. And now the Golden Sun remembered too.
-
-Sylva walked the corridors of the palace alone, her silver-chased ceremonial armor catching the amber light of the rune-glass filaments. The faint flicker of her silver aura was the only outward sign of her thoughts, and those thoughts were not calm. The king had just announced that the Golden Sun would extend its blessing to the Pyrinae. He had not consulted her. He had not consulted the Pyrinae. He had simply declared it, in the plaza, at noon, while the light of the Golden Sun still shimmered in the memory of the crowd.
-
-The elders would hear of this. They would have questions. They would have objections. And she would be the one who had to answer them, because the king—her young, brilliant, infuriating king—had retired to take a bath.
-
-<div class="dialogue-block">
-T'van appeared at her elbow, his scroll still clutched in one paw. <span class="speech">"Regent. I relayed the king's message. He said—"</span> The young priest hesitated, his ears flattening. <span class="speech">"He said you are doing an excellent job and he has complete confidence in your ability to handle whatever questions arise before morning."</span>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">Sylva stopped walking. Her silver aura flickered once, sharply. "He said that. Exactly that."</p>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">"Word for word, Regent."</p>
-</div>
-
-<div class="dialogue-block">
-The faintest tremor passed through Sylva's whiskers—not quite a twitch, not quite a smile. <span class="speech">"He is deflecting. He knows I am going to be angry about the Pyrinae, and he is trying to confuse me with flattery."</span> She resumed walking, her pace unhurried, her voice calm. <span class="speech">"It is almost working. Tell me, T'van—what are the common Wengari saying? What did you hear as you passed through the plaza?"</span>
-</div>
-
-<div class="dialogue-block">
-T'van consulted his scroll, though he did not need to. His memory was excellent. <span class="speech">"They are saying many things, Regent. The cubs are already playing at being pilgrims, walking imaginary paths across the market square. The merchants are discussing which well might be the one the Golden Sun chooses. The warriors are debating whether the pilgrim who wins the tournament will be chosen before or after they walk the path. And the elders—the few who remain in the capital—are saying nothing. They are watching. They are waiting. They are—"</span> He hesitated. <span class="speech">"They are afraid, I think. Not of the Golden Sun. Of what this means for the old order. The Bright Paw priests have already begun rewriting the morning prayers."</span>
-</div>
-
-Sylva absorbed this in silence. The morning prayers had been recited in the same form for three thousand years, since the Lightbringer first taught the Wengari to honor the lord of the desert. The Golden Sun was not a new god. It was an old god given a new name, a new face, a new place in the story. And the priests, who understood better than anyone that the story was more important than the truth, were already adapting.
-
-<div class="dialogue-block">
-<span class="speech">"The Pyrinae,"</span> Sylva said quietly. <span class="speech">"The king promised them the Golden Sun's blessing without consulting them. I must speak with Nefere before word reaches her through rumor. Where is the Pyrinae delegation now?"</span>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">"In the eastern district, Regent. The Root-Speakers have gathered in their meditation chamber. They have been there since the announcement ended. No one has seen them emerge."</p>
-</div>
-
 Sylva nodded slowly. The Root-Speakers had been listening to the lord of the desert for three thousand years. They had never heard it speak. They had only felt its dreams—fragments, impulses, hunger. And now their king had announced that the Golden Sun had spoken to him, had shown him visions, had promised to extend its blessing to their people. The Root-Speakers would have questions. Sylva did not have answers. But she would have to find them.
 
 Seris stood alone near the eastern fountain, her dark eyes fixed on the stone platform where the king had stood. Her merchants had returned to their quarters. Her daughter was in Sylva's service, learning to scrub stone and carry water. The list of Wengari names—the careful record of every contact, every relationship, every potential ally—was still hidden in her chambers, untouched since the day the Shadow Paws had exposed it.
@@ -198,13 +162,13 @@ Sylva met with Ajani in the throne room at the end of each week, and their meeti
 Ajani was silent for a long moment. Then he nodded, a slow, deliberate inclination of his head. <span class="speech">"Not yet. But soon. The Golden Sun is awake. The pilgrims are waiting. The road is calling. And I am still here."</span> He rose from the throne and walked toward the window, where the last light of the Steadfast was fading over the hanging gardens. <span class="speech">"But not forever."</span>
 </div>
 
-The Bright Paw champion Solen—no relation to the broken heir who had been drained by the Tree—stood in the training grounds of the Motted Paw quarter, his golden mane slick with sweat, his muscles screaming. He had been training for three months under Sylva's masters, and he had learned that Flowing Water was not merely a martial art. It was a philosophy. It was patience. It was redirection. It was the quiet, inexorable power of water wearing down stone.
+The Bright Paw champion Karn—no relation to the broken heir who had been drained by the Tree—stood in the training grounds of the Motted Paw quarter, his golden mane slick with sweat, his muscles screaming. He had been training for three months under Sylva's masters, and he had learned that Flowing Water was not merely a martial art. It was a philosophy. It was patience. It was redirection. It was the quiet, inexorable power of water wearing down stone.
 
 <div class="dialogue-block">
-<span class="speech">"You are still too aggressive,"</span> his instructor said, a silver-furred Motted Paw whose name Solen had never learned. <span class="speech">"You fight like a Bright Paw. You want to overpower your opponent. You want to end the fight in three moves. That is why you lost the tournament. That is why you will lose again unless you learn. Flowing Water does not overpower. Flowing Water redirects. Flowing Water waits. Be water. Not fire."</span>
+<span class="speech">"You are still too aggressive,"</span> his instructor said, a silver-furred Motted Paw whose name Karn had never learned. <span class="speech">"You fight like a Bright Paw. You want to overpower your opponent. You want to end the fight in three moves. That is why you lost the tournament. That is why you will lose again unless you learn. Flowing Water does not overpower. Flowing Water redirects. Flowing Water waits. Be water. Not fire."</span>
 </div>
 
-Solen gritted his teeth and resumed his stance. He was a Bright Paw. He was the royal family. He had been humiliated in the tournament, stripped of his training, forced to learn from the very family that had defeated him. But he was also still standing. He was still training. He was still learning. And when the next tournament came, he would be ready.
+Karn gritted his teeth and resumed his stance. He was a Bright Paw. He was the royal family. He had been humiliated in the tournament, stripped of his training, forced to learn from the very family that had defeated him. But he was also still standing. He was still training. He was still learning. And when the next tournament came, he would be ready.
 
 Seris met with her daughter in the gardens behind the Motted Paw quarter, under the watchful eyes of the Shadow Paw guards who always hovered at the edges of such meetings. Lena had changed in three months. Her scribe's hands were still quick and nervous, but there was a stillness in her now that had not been there before—a patience, a quiet, a way of moving that reminded Seris of Sylva.
 
@@ -513,3 +477,5 @@ The merchant's eyes rolled wildly toward Seris, but the ambassador stood frozen,
 <div class="dialogue-block">
 He turned and walked back to the throne, his white cloak billowing behind him. <span class="speech">"The guards will escort this merchant to the eastern gate. He will leave the capital before sundown. If he ever returns, he will be killed on sight. The rest of the Humman delegation may remain, but they will remember what happens to those who insult the Brightmane name."</span> He settled onto the cold stone, the green fire still flaring along his claws. <span class="speech">"Ambassador Seris. You were presenting a trade proposal. Continue."</span>
 </div>
+
+The merchant's body hit the polished stone at Seris's feet with a sound like a sack of grain falling from a wagon. His neck was broken. The green fire had not touched him—Ajani had not used his aura, had not summoned the saber or the spear—he had simply closed his paw and twisted, and the Humman's fragile vertebrae had snapped like dry twigs in the marsh. The body lay crumpled before the ambassador, and Seris stared down at it, her diplomatic composure shattered beyond repair.

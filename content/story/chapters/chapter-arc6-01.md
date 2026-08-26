@@ -508,6 +508,11 @@ She paused. <span class="speech">"My mother used to tell me stories about the Pl
 </div>
 
 
+<div class="dialogue-block">
+<p class="speech-line">We switch to the night at the throne room ajani is taking a bath the bracers have become simple wrist wards barely a claw long, Cefiro is next to him clearly enjoying the warm water, ajani asks "Tell me cousin how did you manage to get to the city?"</p>
+</div>
+
+
 The bathhouse beneath the palace was a relic of the old world—a deep, steaming pool of water fed by the same aquifers that sustained the hanging gardens. The walls were lined with rune-glass filaments that pulsed with a soft amber light, and the air was thick with the scent of mineral salts and the faint, lingering sweetness of the kyre flowers. Ajani had been soaking for nearly an hour. The heat was the only thing that seemed to reach the ache in his bones.
 
 

@@ -1,22 +1,6 @@
 ## Chapter 2: The Caravans
 
 <div class="dialogue-block">
-<p class="speech-line">He paused, his ancient eyes meeting Ajani's. "There is wisdom in this. The Lightbringer himself did not rule alone—he had advisors, companions, allies who challenged his thinking and sharpened his judgment. The offices you are creating are a return to that old way. Not a monarchy propped up by ritual and tradition, but a government of competing voices, each one sharpening the others. The Bright Paws will support this. We will train our cubs to compete for these offices. And we will remind them that five years is a season, not a lifetime. A predator hunts. A predator adapts. A predator does not grow fat on the throne."</p>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">"I accept, and now for the grand visir, he can stay in office as long as he keeps winning tournaments if he can hold it for life, he can, he will oversee the other offices and be advisor to the crown, he will enact the crowns policy and law, you should treat the office as the crown itself, which means I will be offloading almost all my work to them !!" <span class="speech-attr">- 'got you old bastards!!'</span></p>
-</div>
-
-The silence that followed was not the silence of shock—the elders had absorbed too many revelations in too short a time for shock—but the silence of predators reassessing the terrain. The king had just announced that the grand vizier, the most powerful office in the new government, would be tied to the tournament. Win the tournament, hold the office. Hold it for life, if you could keep winning. The crown's authority, the crown's policy, the crown's law—all of it offloaded onto the grand vizier's shoulders.
-
-And the king? The king would be free. Free to build the road. Free to travel. Free to fight. Free to leave the crushing weight of governance on someone else's back while he did what he had been aching to do since the moment he returned from the marshes.
-
-<div class="dialogue-block">
-Zara's laugh was sharp and delighted. <span class="speech">"You cunning little—"</span> She caught herself, her ears flattening briefly, but the grin did not leave her face. <span class="speech">"You just offloaded almost all your work onto the grand vizier. The coin master handles the money. The security advisor handles the soldiers. The foreign advisor handles the delegations. The grand vizier oversees them all. And you—"</span> She shook her great head, her striped mane rippling. <span class="speech">"You ride north and build your road while we run your kingdom for you. This is either the laziest kingship in Wengari history or the most brilliant. I cannot decide which."</span>
-</div>
-
-<div class="dialogue-block">
 Kareth's scarred face was unreadable, but his one good eye gleamed. <span class="speech">"The grand vizier tied to the tournament. Win the tournament, hold the office. Hold it for life if you can keep winning. That means the most powerful Wengari in the capital will always be the strongest. Not the richest. Not the most cunning. Not the most politically connected. The strongest. This is the old way, before the pact, before the cities. The king has reinvented it."</span> He inclined his head toward the throne. <span class="speech">"The Shadow Paws approve. We will train our champions to compete for this office. We will train them to win. And we will ensure that whoever holds the office is worthy of it."</span>
 </div>
 
@@ -484,5 +468,3 @@ The capital stirred with the arrival of foreign delegations. Word of the White D
 <div class="dialogue-block">
 <p class="speech-line">The Threx came next, a single Rooted who had walked from the Flickermarch, its mycelial filaments trailing behind it like the roots of an ancient tree. It brought no gold, no coral, no trade goods. It brought a single spore, encased in rune-glass, pulsing with a faint green light. "The lord of the marsh sends this gift. Plant it in the garden. Let it grow. It will remind you of what you learned, and it will remind the lord of the desert that the marsh is watching." The Rooted did not stay for the feast. It simply delivered its gift and walked back into the desert, its filaments leaving faint traces in the sand.</p>
 </div>
-
-Other delegations followed. A caravan of Stripe Paws returning from the eastern routes brought word that the Rune-Belt was stirring—nothing hostile, but something ancient was moving in the deep forest. A Pyrinae scholar arrived with ancient texts copied from the Memory-Vaults, histories of the Lightbringer's reign that had been thought lost. A Humman merchant, unrelated to Seris, arrived with a cargo of Pearly Scorpion eggs and a nervous smile, hoping to establish trade before his competitors arrived.

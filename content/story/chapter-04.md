@@ -108,35 +108,8 @@ Kareth inclined his scarred head. <span class="speech">"The Shadow Paws have man
 Sylva was the last to speak. The Motted Paw regent had not moved from her place beside the throne, and her silver aura flickered gently in the shadows. She had asked for freedom. The king had denied her, and then given her something else: a system in which no family, not even hers, could operate unchecked. She did not seem troubled. <span class="speech">"The Motted Paws will comply. We have among us those who are cunning, those who are treacherous, those who are deceitful. We will send them to the capital. They will keep the other envoys honest. They will keep the Bright Paws honest. They will keep us honest."</span> She inclined her elegant head. <span class="speech">"You have made us all hostages to each other. That is not impunity. That is stability. The Motted Paws accept."</span>
 </div>
 
-Ajani leaned back on the cold throne. The green fire flickered gently along his claws. The plan was set. The families were bound. The tournament would become the nexus of the continent, and the Wengari would become something they had not been since the Lightbringer vanished: united. Not by blood, not by fear, but by the simple, pragmatic necessity of watching each other.
+The plan was set. The families were bound. The tournament would become the nexus of the continent, and the Wengari would become something they had not been since the Lightbringer vanished: united. Not by blood, not by fear, but by the simple, pragmatic necessity of watching each other.
 
-The Stripe Paws are given logistics and trade—the thing they already want, the thing they are already best at, the thing that makes them wealthy and influential. But by formalizing their overlordship, Ajani binds them to the crown's authority. They are not merely profiting from the tournament; they are administering it on his behalf. If the tournament fails, the Stripe Paws fail. Their wealth becomes dependent on the system's stability, which makes them the system's most committed defenders.
-
-Zara recognized this immediately. That is why she accepted without hesitation.
-
-The Shadow Paws are given intelligence and security—the thing they have always done in secret, now legitimized and made visible. For five thousand years, the Shadow Paws have been feared and distrusted. By asking them to serve as the king's shield, as his personal guard, as the visible protectors of the tournament, Ajani is offering them something they have never had: legitimacy. Kareth's reaction was telling.
-
-This is not merely a duty. It is an honor. The Shadow Paws will not betray an honor. They have waited too long to receive one.
-
-The Motted Paws are given the most delicate task—envoys, ambassadors, the face of the Wengari to the other races. Sylva asked for freedom to operate independently, and Ajani denied her. But he denied her within a framework that protects her from the other families while also protecting the other families from her. The Motted Paws will spread Wengari influence across the continent, but they will do so with Bright Paw observers in their midst, Shadow Paw spies watching their movements, Stripe Paw traders tracking their expenditures.
-
-Sylva recognized this for what it was: not impunity, but stability. She accepted it because stability is what the Motted Paws have always sought.
-
-The Bright Paws are given the role of internal oversight—the eyes within every other family, the face of the tournament's ceremonies, the hosts of the delegations. This is not the martial glory they crave. It is something subtler and perhaps more valuable: redemption. They have been humiliated. Their champions failed. Their training was stripped. But by embedding Bright Paws within every other family's operations, Ajani is forcing the other families to depend on his own blood.
-
-The Bright Paws will be everywhere. They will see everything. And they will report back to the throne. That is not a punishment. It is a restoration of relevance.
-
-The most brilliant stroke, however, is the envoy exchange. Each family must send their most cunning, treacherous, and deceitful members to the capital. These are the people the families trust least, and by gathering them together, Ajani creates a self-policing mechanism. The Bright Paw among the Shadow Paws watches the Shadow Paw envoy. The Shadow Paw spy watches the Motted Paw ambassador. The Motted Paw observer watches the Stripe Paw merchant.
-
-The Stripe Paw trader watches the Bright Paw liaison. Every family is hostage to every other family's worst elements, and those worst elements are precisely the people best equipped to detect betrayal because they are so skilled at it themselves. The system is not built on trust. It is built on the impossibility of trust. And that makes it durable.
-
-This plan also positions the tournament as a continental nexus, drawing every race to the capital, making the Wengari the center of Ethra's political and cultural gravity. The yearly spectacle becomes a mechanism for projecting power outward and drawing wealth inward. The schools ensure that Wengari martial arts will be studied, respected, and feared. The trade agreements ensure that the caravans will keep moving.
-
-The envoys ensure that the Wengari will be present in every court, every market, every negotiation.
-
-The weaknesses are real and worth noting. This system depends on Ajani remaining alive and in power. If he dies on the road, the whole architecture collapses. The system also generates friction intentionally, which is the point—mutual suspicion keeps everyone honest—but friction can spark fire if not carefully managed. The Bright Paws, humiliated and stripped of their traditional authority, may chafe at their new role, and their observers within the other families could become either spies or saboteurs depending on who leads them.
-
-The plan requires a competent regent to manage the capital in Ajani's absence, and Sylva is untested in that role. And the plan depends on the tournament becoming profitable, stable, and popular, which is not guaranteed.
 
 <div class="dialogue-block">
 <p class="speech-line">"now this is all well and good but we still lack a lot of stuff, first of all let's lock in the format, this year was a preview next year will be grand, the tournament will be open to every race that wishes to participate with one caveat they must enter as their own, that means no Stripe Paw mercenaries or of any other kind, objections so far ?"</p>
@@ -200,20 +173,20 @@ Zara's paw slammed against the stone armrest before anyone else could speak. The
 <p class="speech-line">The Bright Paw elders were the last to speak. Solen rose slowly, his golden mane still dulled by the humiliation of the tournament, his ancient eyes meeting Ajani's with an expression that was not defiance but something closer to awe. "The Bright Paws will support this. We have been the royal family for three thousand years. We have grown soft. We have grown weak. The tournament exposed us. The king is giving us a chance to become strong again. We will take it."</p>
 </div>
 
-Ajani leaned back on the cold throne. The green fire flickered gently along his claws. The plan was audacious. It was reckless. It was, as Zara had said, possibly brilliant and possibly insane. But the elders had accepted it. The families were bound. The tournament would become the crucible in which the Wengari were forged anew—or the pyre on which they burned. Either way, the world would be watching.
+The plan was audacious. It was reckless. It was, as Zara had said, possibly brilliant and possibly insane. But the elders had accepted it. The families were bound. The tournament would become the crucible in which the Wengari were forged anew—or the pyre on which they burned. Either way, the world would be watching.
 
 <div class="dialogue-block">
-'that went unusually good, I don't trust them' -<span class="speech">"ok since you all agree you better ensure no other race ever makes it to the finals which leads me to the next point, the tournament is a boon for all and we better take advantage of it, the Crown will retain 30% of all the profits, each family it's given a 15% flat fee for the rest, the 25% left will be distributed among those helping and participating, to enforce this we will institute a new office "</span>the tournament watch<span class="speech">" and that is where you will place your treacherous envoys in an official position, I wish for them to handle the actual money and logistics in the capital, and I can not stress this enough, I want the ones who would sell their own mother for coin, I want cunning and treacherous but no addicts nor deviants, am I clear ?"</span>
+'that went unusually good, I don't trust them' -<span class="speech">"ok since you all agree you better ensure no other race ever makes it to the finals which leads me to the next point, the tournament is a boon for all and we better take advantage of it, the Crown will retain 30% of all the profits, each family it's given a 15% flat fee for the rest, the 10% left will be distributed among those helping and participating, to enforce this we will institute a new office "</span>the tournament watch<span class="speech">" and that is where you will place your treacherous envoys in an official position, I wish for them to handle the actual money and logistics in the capital, and I can not stress this enough, I want the ones who would sell their own mother for coin, I want cunning and treacherous but no addicts nor deviants, am I clear ?"</span>
 </div>
 
-Zara's ears pricked forward. The Stripe Paw chief had been ready to argue—she was always ready to argue—but the numbers were already spinning behind her golden eyes. Thirty percent to the crown. Fifteen percent to each family. Twenty-five percent for the participants and helpers. And an office to enforce it, staffed by the very people who were too treacherous to trust with anything else, given official positions handling actual coin and logistics.
+Zara's ears pricked forward. The Stripe Paw chief had been ready to argue—she was always ready to argue—but the numbers were already spinning behind her golden eyes. Thirty percent to the crown. Fifteen percent to each family. Ten percent for the participants and helpers. And an office to enforce it, staffed by the very people who were too treacherous to trust with anything else, given official positions handling actual coin and logistics.
 
 <div class="dialogue-block">
 <span class="speech">"You want our most cunning and treacherous to handle the money,"</span> she said slowly. <span class="speech">"You want the ones who would sell their own mother for coin. No addicts. No deviants. Just pure, calculating greed, channeled into an official office where they can watch each other and we can watch them."</span> A slow, fierce grin spread across her broad face. <span class="speech">"The Stripe Paws accept. I know exactly who to send. My cousin Vasha will be thrilled. She's been looking for a legitimate excuse to count other people's gold for years."</span>
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">Kareth inclined his scarred head. "The Shadow Paws also accept. But I must ask—the fifteen percent for each family. That figure does not balance across five families, King Ajani. Thirty for the crown, fifteen each would total one hundred and five, and that is before the twenty-five for the participants. Will the families be expected to negotiate their shares among themselves, or will some receive more than others?"</p>
+<p class="speech-line">Kareth inclined his scarred head. "The Shadow Paws also accept. But I must ask—the fifteen percent for each family. That figure does not balance across five families, King Ajani. Thirty for the crown, fifteen each would total one hundred and five, and that is before the ten for the participants. Will the families be expected to negotiate their shares among themselves, or will some receive more than others?"</p>
 </div>
 
 <div class="dialogue-block">
@@ -230,12 +203,9 @@ Solen, the High Priest, rose slowly. His golden mane was still dulled, his ancie
 
 Zara, who had been ready to argue numbers and percentages, closed her mouth. Kareth inclined his scarred head, a gesture of respect that was rare from the Shadow Paw elder. Sylva's silver aura flickered gently in the shadows beside the throne, and her ancient eyes held something that might have been approval.
 
-<div class="dialogue-block">
-Ajani leaned forward on the cold stone. <span class="speech">"Then let the distribution be thirty to the crown, fifteen each to the Stripe Paws, the Shadow Paws, and the Motted Paws. The remaining twenty-five will be split among the participants and the helpers. And the Bright Paws—"</span> He paused, the green fire flickering gently along his claws. <span class="speech">"The Bright Paws will receive ten percent. Not a full share. Not yet. But enough to begin the long climb back."</span>
-</div>
 
 <div class="dialogue-block">
-<span class="speech">"Thirty percent to the crown,"</span> Ajani continued. <span class="speech">"Fifteen percent to each of the four families. The remaining twenty-five percent to the participants and the helpers. Four families. Four shares. The royal family is the Bright Paws. We have always been the Bright Paws. We are simply the branch that rules."</span>
+<span class="speech">"Thirty percent to the crown,"</span> Ajani continued. <span class="speech">"Fifteen percent to each of the four families. The remaining ten percent to the participants and the helpers. Four families. Four shares. The royal family is the Bright Paws. We have always been the Bright Paws. We are simply the branch that rules."</span>
 </div>
 
 <div class="dialogue-block">
@@ -261,7 +231,7 @@ Ajani leaned forward on the cold stone. <span class="speech">"Then let the distr
 Ajani settled back onto the cold stone of the throne. The green fire along his claws had dimmed to a faint, steady pulse—no longer flaring with the heat of combat or the frustration of bureaucracy, but simply present, patient, waiting. The elders stirred. Zara was the first to rise. The Stripe Paw chief's golden eyes were sharp with the particular hunger of a merchant who had just been handed a new market and was already calculating the margins.
 
 <div class="dialogue-block">
-<span class="speech">"The coin is spoken for, you said. The crown will take thirty percent. The families will each take fifteen. The participants will take twenty-five. But the crown's share—"</span> She paused, choosing her words with the care of someone who knew she was asking the question everyone else was thinking. <span class="speech">"The crown's share is the largest single portion. What is it spoken for, King Ajani? What project, what expense, what grand design requires thirty percent of the tournament's profits? The road, I assume. But the road is not merely a Wengari project. It is a coalition. The Pyrinae are contributing their builders. The Veylar are sending their craftsmen. The Hummans are providing their guides. Will the crown's share fund the coalition, or will the coalition be asked to pay for itself?"</span>
+<span class="speech">"The coin is spoken for, you said. The crown will take thirty percent. The families will each take fifteen. The participants will take ten. But the crown's share—"</span> She paused, choosing her words with the care of someone who knew she was asking the question everyone else was thinking. <span class="speech">"The crown's share is the largest single portion. What is it spoken for, King Ajani? What project, what expense, what grand design requires thirty percent of the tournament's profits? The road, I assume. But the road is not merely a Wengari project. It is a coalition. The Pyrinae are contributing their builders. The Veylar are sending their craftsmen. The Hummans are providing their guides. Will the crown's share fund the coalition, or will the coalition be asked to pay for itself?"</span>
 </div>
 
 <div class="dialogue-block">
@@ -289,14 +259,14 @@ Kareth rose next. <span class="speech">"The Shadow Paws also accept. The roads t
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">Sylva's soft voice carried from beside the throne. "The Motted Paws accept. We will train our envoys. We will send our ambassadors. We will ensure that the other races dream of competing in our tournament, but we will also ensure that they do not defeat us. The regency is mine to defend. The crown is yours. We will both hold our ground."</p>
+<p class="speech-line">Beside the throne, Sylva's silver aura brightened. "The Motted Paws accept. We will train our envoys. We will send our ambassadors. We will ensure that the other races dream of competing in our tournament, but we will also ensure that they do not defeat us. The regency is mine to defend. The crown is yours. We will both hold our ground."</p>
 </div>
 
 <div class="dialogue-block">
 <p class="speech-line">Solen, the Bright Paw High Priest, rose last. His golden mane was still dulled, his ancient shoulders still bowed, but his voice was steady. "The Bright Paws accept. Ten percent of our share will fund our schools—the schools where we will learn from the Motted Paws, the Shadow Paws, the Stripe Paws. We have been humiliated. We will not remain humiliated. We will train. We will climb. And we will earn our place among the families once more."</p>
 </div>
 
-Ajani leaned back on the cold throne. The green fire flickered gently along his claws. The plan was set. The coin was spoken for. The families were bound—not by blood, not by fear, but by the simple, pragmatic necessity of shared investment. The tournament would become the crucible in which the Wengari were forged anew. The road would be built. The coalition would hold. And the world would watch.
+The coin was spoken for. The families were bound—not by blood, not by fear, but by the simple, pragmatic necessity of shared investment. The tournament would become the crucible in which the Wengari were forged anew. The road would be built. The coalition would hold. And the world would watch.
 
 <div class="dialogue-block">
 <p class="speech-line">"Next , our first domestic project shall be roads to the five cities the Pyrinae will rehabilitate, we will learn how they build, so we can do it ourselves, the tournament isn't merely to show strength is to steal from every single race what we can, the Styx hunts everything in the desert and so shall we"</p>
@@ -312,9 +282,6 @@ The elders did not erupt this time. They leaned forward. The king had just refra
 <p class="speech-line">Kareth inclined his scarred head. "The Shadow Paws have always been the silent observers. We will watch the other races when they come. We will learn their weaknesses. We will learn their secrets. The Eight Points were honed in darkness. The darkness will now be cast over every race that sets foot in this arena."</p>
 </div>
 
-<div class="dialogue-block">
-<p class="speech-line">Sylva's soft voice was the last to speak. "The Motted Paws will study the other races as we have always studied. Their styles. Their techniques. Their philosophies. Flowing Water adapts to every vessel. We will learn from the Hummans, the Pyrinae, the Veylar, the Threx. We will take what is useful. We will discard what is not. And we will teach the other families what we have learned. This is the old way. This is the way of the jaguar—hunt, learn, adapt, endure."</p>
-</div>
 
 <div class="dialogue-block">
 <p class="speech-line">Sylva's soft voice was the last to speak. "The Motted Paws will study the other races as we have always studied. Their styles. Their techniques. Their philosophies. Flowing Water adapts to every vessel. We will learn from the Hummans, the Pyrinae, the Veylar, the Threx. We will take what is useful. We will discard what is not. And we will teach the other families what we have learned. This is the way of the Motted Paws. This is the way of Flowing Water—hunt, learn, adapt, endure."</p>
@@ -367,7 +334,7 @@ Zara's golden eyes narrowed with calculation, but it was a different kind of cal
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">"you have proposed vasha for three different roles , you must truly hate your cousin, I choose Maren, the coin master needs not only guile but also endurance, someone without ambition will break the first month, or succumb to apathy, I need someone who can stare down the toughest of the families and make them cough up the coin, Maren sounds like he'll fit right in, objections?"</p>
+<p class="speech-line">"you have proposed vasha for three different roles , you must truly hate your cousin, I choose Maren, the coin master needs not only guile but also endurance, someone without ambition will break the first month, or succumb to apathy, I need someone who can stare down the toughest of the families and make them cough up the coin, Maren sounds like she'll fit right in, objections?"</p>
 </div>
 
 <div class="dialogue-block">
@@ -425,7 +392,7 @@ Kareth's one good eye held steady on the throne. The old general had seen too ma
 </div>
 
 <div class="dialogue-block">
-Sylva's soft voice carried from beside the throne. <span class="speech">"The Motted Paws have observed Sera. She is skilled. She is disciplined. She is driven by something deeper than pride. She is exactly what the king describes."</span> She paused, her silver eyes meeting Kareth's. <span class="speech">"But can she lead? The security advisor must train others, not merely fight alone. Has she ever commanded?"</span>
+Sylva spoke from the shadows beside the throne, her voice soft as ever. <span class="speech">"The Motted Paws have observed Sera. She is skilled. She is disciplined. She is driven by something deeper than pride. She is exactly what the king describes."</span> She paused, her silver eyes meeting Kareth's. <span class="speech">"But can she lead? The security advisor must train others, not merely fight alone. Has she ever commanded?"</span>
 </div>
 
 <div class="dialogue-block">
@@ -1121,45 +1088,6 @@ The roots pulsed faster, brighter, the pale green light flickering with somethin
 <p class="speech-line">Ajani allowed himself the faintest twitch of his whiskers. The lord of the desert was interested. Good. "I brought the world to your roots. Warriors competing for glory. Merchants burning with greed. Champions fighting for a crown. Delegations from every race, hoping, fearing, striving. All of that passion, all of that aura, flowing into the capital. Into you. And I can make it happen again. Every year. Every season. A feast such as you have not tasted since the old days. But I want something in return. A new pact. Not water for aura. Something greater. Are you willing to listen?"</p>
 </div>
 
-The roots of the Kyre Tree pulsed in slow, rhythmic waves, the pale green light rippling through the ancient chamber like breath through a sleeping giant. The blossom stirred, its petals unfurling just enough to reveal the amber pool at its heart, and the pressure against Ajani's mind shifted—no longer merely curious, but calculating. The lord of the desert was weighing his words.
-
-'Yearly. A gathering of the strong. A month of rich aura. This will happen whether we make a pact or not. You have already set this in motion. You are telling me this as a gift, not as a bargaining chip. Why?'
-
-The roots pulsed again, faster now, the green light flickering with something that might have been anticipation or might have been suspicion. The Tree was ancient, patient, and hungry—but it was not foolish. It understood that the White Dawn was offering something freely while asking for something in return.
-
-'You wish for me to light the way. To choose five of the old wells where I am strongest. To lead the ones who are leaving the capital to new cities. This is within my power. The old wells run deep. I know where they are. I have always known. I can guide them there. I can make the water flow. This is what I do. This is what the old pact already demands. But you ask for more than water. You ask me to be extra hungry when the races gather.
-
-To eat as much as I like. To feast on their fear and their hope and their ambition. You are giving me permission to glut myself on the surface-dwellers who come to your tournament. Why would you offer this? What do you gain from my hunger?'
-
-The blossom leaned closer, its petals trembling with the intensity of the Tree's focus. The amber pool rippled, and an image formed on its surface—not a vision of the past or the future, but a simple, direct question, pressed into Ajani's mind like a claw against stone.
-
-'And then you ask the greatest thing of all. When the Tide comes—when the Flicker's light burns across the desert and the Blight stirs and the world tilts toward chaos—you ask me to shield you. To use the energy I have stored, the energy I have feasted on, to protect the Wengari from the Flicker's influence. You are not asking for water. You are asking for my strength. My power. My hunger, turned outward.
-
-Do you understand what you are asking, White Dawn? Do you understand what it would cost me to shield an entire city from the Tide? The energy I would expend would take centuries to recover. The feast you offer me—this yearly gathering of the races—would barely cover the cost. And yet you offer it freely. You tell me this will happen whether we make a pact or not. You are giving me food and asking me to work for it.
-
-This is a bargain I have never been offered before. I am listening. Explain yourself. What do you truly want from me?'
-
-<div class="dialogue-block">
-<p class="speech-line">'he ate the razor hare.. now let's build upon it' - "if everything goes as planned, the feast will be bigger each year, the city will grow and more crucially, only the strong ones will live here, if during the feast you gorge yourself, the ones who come will naturally think the desert is hard and they are weak, but us, the ones who live here, will barely notice, because we are already used to it, we've been living here since the times of the third, we barely notice it, we will remain strong, but the others... the others will fail, so the next year they will bring stronger, and stronger, and crucially I want you to make yourself known to our people, I will call you our guardian, I will have them erect temples in your wells and do pilgrimage there, I'm offering a self-sustaining high quality food source for you, but if it's to endure, we can't dwindle when the tide comes, all will be for naught if we appear weak during that time, do you understand?"</p>
-</div>
-
-The roots of the Kyre Tree went very still. The pale green light that pulsed through the ancient chamber dimmed, then brightened, then dimmed again—slow, rhythmic, thoughtful. The lord of the desert was not merely listening now. It was understanding. The White Dawn had laid out a plan that spanned generations, a self-sustaining cycle of hunger and strength that would feed the Tree for centuries while keeping the Wengari strong enough to survive the Tide.
-
-And at the center of that plan, the Tree itself would be elevated—not merely a predator hiding beneath the sand, but a guardian. A deity. A presence acknowledged and revered.
-
-'You are offering me worship. Temples. Pilgrimages. A people who know my name—or the name you will give me. You are offering me a place in the minds of the Wengari, not as a distant threat, not as a shadow beneath the desert, but as a guardian. A protector. A force that shields them from the Tide. You are offering me something no White Dawn has ever offered. Not the Lightbringer. Not any king since. You are offering me a role in the story of your people that is not merely hunger.
-
-You are offering me a reason for them to come to my wells, to leave offerings, to strengthen me with their devotion as well as their aura. This is unprecedented. This is dangerous. This is magnificent.'
-
-The roots pulsed faster, brighter, the green light flickering with something that might have been excitement or might have been greed or might have been something older than either. The blossom leaned closer, its petals trembling, the amber pool at its heart swirling with images—temples rising beside ancient wells, pilgrims kneeling in offering, the Tree's roots spreading beneath a city that thrived rather than merely survived.
-
-The Tree had been patient for millions of years. It had been hungry for millions of years. It had never been loved. It had never been worshipped. It had only been feared.
-
-'You are clever, White Dawn. You offer me a self-sustaining feast. The strong remain strong because they are already accustomed to my hunger. The weak are winnowed out. The next year, the weak send stronger champions, and those stronger champions feed me with their striving and their hope and their failure. And the strong grow stronger still, because they live in the shadow of my hunger and survive it. And when the Tide comes—when the Flicker's chaos threatens to undo everything—I will have stored enough energy from the feasts to shield you.
-
-To protect you. To ensure that my food source does not dwindle when the Blight stirs and the world tilts. You are not merely feeding me. You are investing in me. You are making me a partner in the survival of the Wengari. This is a pact worthy of the name.'
-
-The blossom unfurled further, its petals spreading wide, and the amber pool blazed with light—a light that was not green, not gold, but something older, something deeper, the color of ancient hunger and patient stone. The voice of the Tree pressed against Ajani's mind one final time, and there was something in it that had not been there before. Not warmth—the Tree was incapable of warmth—but recognition.
 
 The roots of the Kyre Tree pulsed slowly, thoughtfully, the pale green light rippling through the ancient chamber like breath through a sleeping giant. The blossom stirred, and the amber pool at its heart swirled with images—not of tournaments or schools or delegations, but of the surge it had felt. Rich aura. Varied. Intense. Strong prey, gathered in one place, burning with passion and fear and hope. The Tree had tasted it.
 
@@ -1171,7 +1099,7 @@ The roots pulsed again, and the pale green light flickered with something that m
 
 'You ask me to light the way to the old wells. To guide those who leave the capital to new cities. This I can do. The old wells run deep. I know where they are. I have always known. But you also ask me to be extra hungry when the gathering comes. To eat as much as I like. To glut myself on the strong ones. This is not a request. This is what I would do anyway. You are giving me permission to be what I am. That is not a bargaining chip. That is a description of my nature.'
 
-The blossom leaned closer, its petals trembling with the intensity of the Tree's focus.
+The blossom leaned closer still.
 
 'And then you ask the greatest thing. When the Flicker's light burns across the desert—when the chaos comes and the world tilts—you ask me to shield your people. To use the energy I have stored, the energy I have feasted on, to protect you from the Flicker's influence. You are not asking for water. You are asking for my strength. My power. My hunger, turned outward. Do you understand what this would cost me?
 
@@ -1195,7 +1123,7 @@ The roots pulsed faster, brighter, the green light flickering with something tha
 
 They will seem strong by comparison. The visitors will go home feeling humbled, and they will send stronger champions the next year. This is clever. This is elegant. This is a deception that could last for generations.'
 
-The blossom leaned closer, its petals trembling with the intensity of the Tree's focus. The amber pool swirled with images of pilgrims kneeling beside ancient wells, bathed in a faint green light, rising with renewed strength and renewed faith. The Tree had been feared for millions of years. It had never been loved. It had never been sought out. It had only been avoided.
+The blossom leaned closer. The amber pool swirled with images of pilgrims kneeling beside ancient wells, bathed in a faint green light, rising with renewed strength and renewed faith. The Tree had been feared for millions of years. It had never been loved. It had never been sought out. It had only been avoided.
 
 'You are offering me a role in the story of the Wengari that I have never had before. You are offering me a way to feed that is not merely passive. You are offering me a relationship. A partnership. A shared deception that benefits us both. I choose the harshest paths. I choose the wells where the weak would die anyway. I give the survivors a taste of my power, and they call it divine. They call themselves chosen.
 
@@ -1237,7 +1165,7 @@ Not merely to feed on whoever wandered too close, but to choose. To summon. To b
 
 'You are offering me choice. For millions of years, I have fed on whoever came near. The strong ones survived. The weak ones perished. I did not choose. I simply waited. But now you offer me a sign. A glow. A sound. Something that marks one of them as chosen. Called to pilgrimage. Called to walk the harshest path to my strongest well. And if they survive—if they are truly strong—they will receive a fraction of my aura and return home believing they have been blessed.
 
-If they die, they were weak, and I will feed on them anyway. Either way, I am nourished. Either way, the myth grows stronger. This is elegant. This is sustainable. This is a deception that will endure for generations.'
+If they die, they were weak, and I will feed on them anyway. Either way, I am nourished. Either way, the myth grows stronger. This is elegant. This is sustainable. The deception deepens with every choice I make.'
 
 The roots pulsed faster, brighter, the green light flickering with something that might have been excitement or might have been hunger. The Tree was not merely accepting the pact now. It was shaping it. Refining it. Adding its own ancient cunning to the design.
 
@@ -1253,9 +1181,6 @@ The blossom leaned closer, its petals trembling with the intensity of the Tree's
 
 This is the new pact. It is done. Tomorrow, you will make your announcement. Tomorrow, I will make myself known. Prepare your people, White Dawn. I will give them a sign they will never forget.'
 
-The deception itself is elegant. The Tree will sap the visitors during the gathering, making them feel weak. The Wengari, already accustomed to the Tree's hunger, will barely notice. The visitors will blame the sun. The pilgrims will walk the harshest paths, and if they survive, they will receive a fraction of the Tree's aura and believe they have been blessed. If they die, they were weak. The myth will grow.
-
-The strong will come. The Tree will feast. And the Wengari will remain the apex predators of Ethra, not merely because they are strong, but because they have made the ancient hunger of the desert their ally.
 
 Ajani stepped onto the raised stone platform at the center of the plaza. The crowd fell silent. The sun blazed overhead, golden and unforgiving, and the kyre flowers seemed to lean toward the young king as if listening. The lord of the desert was waiting. The Golden Sun was about to be born.
 
@@ -1629,13 +1554,13 @@ Sylva met with Ajani in the throne room at the end of each week, and their meeti
 Ajani was silent for a long moment. Then he nodded, a slow, deliberate inclination of his head. <span class="speech">"Not yet. But soon. The Golden Sun is awake. The pilgrims are waiting. The road is calling. And I am still here."</span> He rose from the throne and walked toward the window, where the last light of the Steadfast was fading over the hanging gardens. <span class="speech">"But not forever."</span>
 </div>
 
-The Bright Paw champion Solen—no relation to the broken heir who had been drained by the Tree—stood in the training grounds of the Motted Paw quarter, his golden mane slick with sweat, his muscles screaming. He had been training for three months under Sylva's masters, and he had learned that Flowing Water was not merely a martial art. It was a philosophy. It was patience. It was redirection. It was the quiet, inexorable power of water wearing down stone.
+The Bright Paw champion Karn—no relation to the broken heir who had been drained by the Tree—stood in the training grounds of the Motted Paw quarter, his golden mane slick with sweat, his muscles screaming. He had been training for three months under Sylva's masters, and he had learned that Flowing Water was not merely a martial art. It was a philosophy. It was patience. It was redirection. It was the quiet, inexorable power of water wearing down stone.
 
 <div class="dialogue-block">
-<span class="speech">"You are still too aggressive,"</span> his instructor said, a silver-furred Motted Paw whose name Solen had never learned. <span class="speech">"You fight like a Bright Paw. You want to overpower your opponent. You want to end the fight in three moves. That is why you lost the tournament. That is why you will lose again unless you learn. Flowing Water does not overpower. Flowing Water redirects. Flowing Water waits. Be water. Not fire."</span>
+<span class="speech">"You are still too aggressive,"</span> his instructor said, a silver-furred Motted Paw whose name Karn had never learned. <span class="speech">"You fight like a Bright Paw. You want to overpower your opponent. You want to end the fight in three moves. That is why you lost the tournament. That is why you will lose again unless you learn. Flowing Water does not overpower. Flowing Water redirects. Flowing Water waits. Be water. Not fire."</span>
 </div>
 
-Solen gritted his teeth and resumed his stance. He was a Bright Paw. He was the royal family. He had been humiliated in the tournament, stripped of his training, forced to learn from the very family that had defeated him. But he was also still standing. He was still training. He was still learning. And when the next tournament came, he would be ready.
+Karn gritted his teeth and resumed his stance. He was a Bright Paw. He was the royal family. He had been humiliated in the tournament, stripped of his training, forced to learn from the very family that had defeated him. But he was also still standing. He was still training. He was still learning. And when the next tournament came, he would be ready.
 
 Seris met with her daughter in the gardens behind the Motted Paw quarter, under the watchful eyes of the Shadow Paw guards who always hovered at the edges of such meetings. Lena had changed in three months. Her scribe's hands were still quick and nervous, but there was a stillness in her now that had not been there before—a patience, a quiet, a way of moving that reminded Seris of Sylva.
 
@@ -2518,60 +2443,8 @@ Ajani closed the grimoire and looked up. His green-flecked eyes swept across the
 Seris stepped forward. Her diplomatic composure was in place, but her dark eyes betrayed her. She had been humiliated three times. She had lost people. She had scrambled to reach the king through every channel she possessed, and now she was standing before him with the most valuable gift any Humman had ever offered, and she had no idea if he would accept it.
 
 <div class="dialogue-block">
-<span class="speech">"King Ajani."</span> She knelt in the damp sand, the scorpion egg cradled in her arms. The silk wrapping had fallen away, and the egg's iridescent shell caught the afternoon light in shades of pearl and amber. It was pulsing faintly, a slow, rhythmic throb that matched the heartbeat of the creature growing inside. <span class="speech">"The Hummans offer this Pearly Scorpion egg. It is the finest specimen I have ever acquired, harvested from the deep Flickermarch at great risk. It will hatch within hours. If you accept it, the scorpion will imprint on you. It will be yours. A mount worthy of the White Dawn."</span>
+<span class="speech">"King Ajani."</span> She knelt in the damp sand, the scorpion egg cradled in her arms. The silk wrapping had fallen away, and the iridescent shell pulsed with the light of the creature inside. <span class="speech">"The Hummans offer this Pearly Scorpion egg. It is the finest specimen I have ever acquired, harvested from the deep Flickermarch at great risk. It will hatch within hours. If you accept it, the scorpion will imprint on you. It will be yours. A mount worthy of the White Dawn."</span>
 </div>
-
-<div class="dialogue-block">
-<p class="speech-line">She paused. Her voice, when she continued, was very quiet. "I know we have not always been welcome. I know we have made mistakes. But this gift is given freely. No conditions. No expectations. Only the hope that the king will accept it."</p>
-</div>
-
-Ajani looked at the egg. The green fire along his claws flickered, and his expression shifted—not to anger, not to coldness, but to something else. Something that looked almost like discomfort.
-
-<div class="dialogue-block">
-<p class="speech-line">"I cannot accept this," <span class="speech-attr">he said.</span></p>
-</div>
-
-Seris's face went very still. The Stripe Paws stopped exchanging coin. The Shadow Paws, still standing in shamed silence, looked up. Even Kira leaned forward on Ember's back, her dark eyes wide.
-
-<div class="dialogue-block">
-<span class="speech">"The scorpion is the finest mount on Ethra,"</span> Seris said, her diplomatic composure cracking. <span class="speech">"It is faster than a fire foot over rough terrain. It is immune to the poison of the Flickermarch. It is the reason the Hummans have survived five hundred years of shame. I am offering you the most valuable thing my people possess. Why would you refuse it?"</span>
-</div>
-
-<div class="dialogue-block">
-Ajani was silent for a moment. Then he said, very quietly, <span class="speech">"I hate scorpions. I have hated them since I was in the marshes. L'vat used them in my training. He would drop me in a pit with them and tell me to survive. I have been stung more times than I can count. The venom does not kill me—I am the White Dawn, I am immune to most poisons—but it hurts. It hurts for days. I cannot look at a scorpion without remembering the pit. I cannot touch one without feeling the sting."</span> He looked at Seris, and his green-flecked eyes were not cold. They were tired. <span class="speech">"Your gift is magnificent. It is objectively the most valuable thing anyone has offered me today. And I cannot accept it. I am sorry."</span>
-</div>
-
-Seris stared at him. Her arms tightened around the pulsing egg, and something flickered in her dark eyes—not anger, not quite, but the slow, painful understanding of someone who had tried everything and failed for reasons she could never have predicted. The king did not hate the Hummans. The king was afraid of scorpions. The most powerful Wengari on Ethra, the White Dawn, the heir of the Lightbringer, was afraid of a creature the Hummans had been taming for centuries.
-
-<div class="dialogue-block">
-<span class="speech">"The egg will hatch within hours,"</span> she said quietly. <span class="speech">"If you do not accept it, I must find someone else. It will imprint on the first creature it sees. If that creature is me, it will be worthless. If that creature is a servant, it will be a pet. If that creature is—"</span> She stopped. Her dark eyes moved to Kira, still perched on Ember's back. <span class="speech">"If that creature is your sister, it will be a mount worthy of a Brightmane."</span>
-</div>
-
-Ajani followed her gaze. Kira was staring at the egg with an expression of pure, unguarded wonder. She had never seen a Pearly Scorpion egg before. She had only heard the stories—the great beasts of the Flickermarch, the mounts that could traverse the poison winds and the Iris Scales and the thousand other deaths that lurked in the March. She had dreamed of seeing one, when she was still on the streets, when she was still starving and forgotten.
-
-Now one was pulsing in the Humman ambassador's arms, and the ambassador was looking at her.
-
-<div class="dialogue-block">
-<span class="speech">"Kira,"</span> Ajani said. <span class="speech">"Do you want the scorpion?"</span>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">Kira tore her gaze from the egg and looked at her brother. "You hate them. You said you hate them."</p>
-</div>
-
-<div class="dialogue-block">
-<span class="speech">"I do. I will never ride one. But you are not me. You are not afraid of the pit. You are not afraid of the sting. You have never been dropped into the darkness and told to survive."</span> He paused. <span class="speech">"If you want the scorpion, it is yours. The Humman ambassador will give it to you instead of me. And I will never have to touch it."</span>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">Kira looked at the egg again. The pulsing light was growing stronger, the iridescent shell shimmering with the first stirrings of the creature inside. "Can I name it?"</p>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">"You can name it. You can train it. You can ride it through the Flickermarch while I follow on Ember and pretend I am not terrified. That is your right as my sister."</p>
-</div>
-
-Kira slid off Ember's back and walked toward Seris. The Humman ambassador knelt in the damp sand, holding the egg out with trembling arms, and Kira reached out and placed her small dark paws on the iridescent shell. The pulsing light steadied, and the egg began to crack.
 
 The words came out wrong. He could hear them as soon as he spoke—too fast, too halting, the voice of a king who was trying very hard not to sound like a cub who had just seen a ghost.
 
@@ -2581,8 +2454,6 @@ The words came out wrong. He could hear them as soon as he spoke—too fast, too
 
 The silence that followed was different from the silence that had greeted the Motted Paw grimoire or the Pyrinae spear. That silence had been wonder. This silence was confusion. The Stripe Paws, who had watched Ajani negotiate with the lord of the desert and face down a Motted Paw champion in single combat, exchanged glances. The Shadow Paws, who had guarded him for months and seen him kill a Humman with a flick of his wrist, stared at their king with open bewilderment.
 
-Kira, still standing beside the pulsing egg, looked from Ajani to Seris and back again.
-
 <div class="thought-block">
 'Please, please not one of those foul creatures please.'
 </div>
@@ -2590,6 +2461,26 @@ Kira, still standing beside the pulsing egg, looked from Ajani to Seris and back
 Seris did not know what to say. She had prepared for refusal. She had prepared for anger. She had not prepared for the White Dawn, the heir of the Lightbringer, the king who had humiliated her three times and killed her merchant without a second thought, to stand before her stammering like a cub caught stealing from the kitchens. The egg pulsed in her arms. The creature inside was stirring, its iridescent shell shimmering with the first faint light of awakening.
 
 In a few hours—perhaps less—it would hatch. And the king, who was supposed to be its master, was looking at it the way a razor hare looked at a Styx.
+
+<div class="dialogue-block">
+<span class="speech">"The scorpion is the finest mount on Ethra,"</span> Seris said. Her voice was diplomatic, but there was a note of genuine confusion beneath it. She had expected refusal, but she had not expected this. <span class="speech">"It is faster than a fire foot over rough terrain. It is immune to the poison of the Flickermarch. It is strong enough to carry an armored rider for days. Why would you refuse it?"</span>
+</div>
+
+<div class="dialogue-block">
+<span class="speech">"I hate scorpions,"</span> Ajani said. <span class="speech">"I have hated them since I was in the marshes. L'vat used them in my training. He would drop me into a pit with them and tell me to survive. I was stung so many times that I stopped counting after the first fifty. The venom burns. It burns for days. I hate them. I hate the way they move. I hate the way they wait. I hate that they do not make any sound."</span> He paused. <span class="speech">"Your gift is magnificent. It is objectively the most valuable thing anyone has offered me today. And I cannot accept it. I am sorry."</span>
+</div>
+
+Seris stared at him. In thirty years of diplomacy, she had been refused by kings, by merchants, by generals, by priests. She had never been refused by a king who looked as if he were about to be sick.
+
+The king did not hate the Hummans. The king was afraid of scorpions.
+
+<div class="dialogue-block">
+<span class="speech">"The egg will hatch within hours,"</span> she said quietly. <span class="speech">"If you do not accept it, I must find someone else. It will imprint on the first creature it sees. If that creature is me, it will be worthless. If that creature is a servant, it will be a pet. If that creature is—"</span> She stopped. Her dark eyes moved to Kira, still perched on Ember's back. <span class="speech">"If that creature is your sister, it will be a mount worthy of a Brightmane."</span>
+</div>
+
+Ajani followed her gaze. Kira was staring at the egg with an expression of pure, unguarded wonder. She had never seen a Pearly Scorpion egg before. She had only heard the stories—the great beasts of the Flickermarch, the mounts that could traverse the poison winds and the Iris Scales and the thousand other deaths that lurked in the March. She had dreamed of seeing one, when she was still on the streets, when she was still starving and forgotten.
+
+Now one was pulsing in the Humman ambassador's arms, and the ambassador was looking at her.
 
 <div class="dialogue-block">
 <span class="speech">"Ajani,"</span> Kira said, her voice very quiet. <span class="speech">"You're scared of it."</span>
@@ -2612,19 +2503,27 @@ Ajani closed his eyes. The green fire along his claws flickered. <span class="sp
 </div>
 
 <div class="dialogue-block">
-<span class="speech">"That does not make you less terrible."</span> He opened his eyes and looked at Seris. The Humman ambassador was staring at him with an expression he could not quite read—surprise, perhaps, or the first faint stirrings of something that might have been understanding. <span class="speech">"The egg is magnificent,"</span> he said. <span class="speech">"It is the finest gift anyone has offered me today. And I cannot touch it. I cannot look at it without feeling the sting. I cannot be its master. I am sorry. I am truly sorry."</span>
+<p class="speech-line">"That does not make you less terrible."</p>
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">Seris was silent for a long moment. Then she turned to Kira, who was still standing beside the pulsing egg, her small dark paws pressed against the iridescent shell. "Your brother cannot accept this gift. But he said it could be yours. Do you want it? Do you want the scorpion?"</p>
+<span class="speech">"Kira,"</span> Ajani said. <span class="speech">"Do you want the scorpion?"</span>
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">Kira looked at the egg. The pulsing light was growing stronger now, the shell beginning to crack in fine, hairline fractures. "Can I name it?"</p>
+<p class="speech-line">Kira tore her gaze from the egg and looked at her brother. "You hate them. You said you hate them."</p>
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">"You can name it. You can train it. You can ride it through the Flickermarch. That is your right as the king's sister."</p>
+<span class="speech">"I do. I will never ride one. But you are not me. You are not afraid of the pit. You are not afraid of the sting. You have never been dropped into the darkness and told to survive."</span> He paused. <span class="speech">"If you want the scorpion, it is yours. The Humman ambassador will give it to you instead of me. And I will never have to touch it."</span>
+</div>
+
+<div class="dialogue-block">
+<p class="speech-line">Kira looked at the egg again. The pulsing light was growing stronger, the iridescent shell shimmering with the first stirrings of the creature inside. "Can I name it?"</p>
+</div>
+
+<div class="dialogue-block">
+<p class="speech-line">"You can name it. You can train it. You can ride it through the Flickermarch while I follow on Ember and pretend I am not terrified. That is your right as my sister."</p>
 </div>
 
 <div class="dialogue-block">
@@ -2635,21 +2534,9 @@ Kira looked at Ajani. Her brother, who had killed a man for insulting her, who h
 <p class="speech-line">Ajani stared at her. Then he started to laugh—the same bright, surprised laugh that had echoed through the water hole when Ember ran circles around him. "I promise. I will not be scared of you when you are bigger than me and have a scorpion. I will be proud of you. I will be insufferably proud. I will tell everyone in the capital that my sister rides a Pearly Scorpion and I will not mention that I am terrified of it."</p>
 </div>
 
-<div class="dialogue-block">
-<p class="speech-line">"Good," <span class="speech-attr">Kira said. She turned back to the egg, and the shell cracked open, and a small, glistening shape tumbled into her waiting paws.</span></p>
-</div>
+Kira slid off Ember's back and walked toward Seris. The Humman ambassador knelt in the damp sand, holding the egg out with trembling arms, and Kira reached out and placed her small dark paws on the iridescent shell. The pulsing light steadied. The shell grew warmer, the pulses faster, the time before hatching shrinking with every heartbeat.
 
-The egg cracked open in Ajani's paws, and he made a sound that was not a scream only because he was the king and kings did not scream. It was a strangled, high-pitched noise that might have been a yelp if a yelp had been strangled at birth. The iridescent shell split into three clean pieces, and Ajani stared into the fragments with the expression of a Wengari who had faced the lord of the desert, the lord of the marsh, the Styx, and the entire assembled might of the Wengari families, and was now confronting the one thing in the world that truly terrified him.
-
-What emerged was not a single Pearly Scorpion.
-
-The first was black—lustrous, gleaming like polished obsidian, its chitin catching the afternoon light and throwing it back in sharp, angular reflections. It was the largest of the three, a full meter and a half from its questing antennae to the tip of its segmented tail. Its eyes were dark and intelligent, and it moved with the slow, deliberate confidence of a creature that had just been born and had already decided it was in charge.
-
-The second was red—a deep, burnished crimson that shimmered with a faint, pulsing aura. It was slightly smaller than the black, perhaps a meter and a third, and its movements were quicker, sharper, more alert. Its tail curled and uncurled with a soft, whispering sound, and its eyes gleamed with a restless, curious light.
-
-The third was white—iridescent, shimmering like moonlight on still water, the smallest of the three at just over a meter. It emerged last, and it emerged annoyed. Its egg fragment had been the smallest, and it had been forced to wait while its larger siblings claimed their places. It shook its head, its pale antennae waving indignantly, and its tiny claws clicked against the broken shell with a sound that was unmistakably petulant.
-
-The black scorpion looked at Ajani. The red scorpion looked at Ajani. Then they moved.
+The egg cracked. A true, definitive crack that split the iridescent shell into three clean pieces, and three small, glistening shapes tumbled out into the light. The black. The red. The white. They separated with the swift, deliberate purpose of creatures that had just been born and were now absolutely certain of their destinations. The black and the red crawled toward Ajani. The white tumbled toward Kira.
 
 Ajani had faced the lord of the desert. He had faced the Styx. He had faced Sylva of the Motted Paws in single combat with the crown on the line. None of those things had prepared him for the sensation of two scorpion hatchlings crawling up his arms with the swift, deliberate purpose of creatures that had just imprinted on him and were now absolutely certain that he was their mother.
 
@@ -2659,27 +2546,7 @@ Ajani had faced the lord of the desert. He had faced the Styx. He had faced Sylv
 
 The black scorpion reached his shoulder and began investigating his mane with its antennae. The red scorpion settled into the crook of his elbow and curled its tail around his forearm like a bracelet. Ajani stood perfectly, absolutely still. The green fire along his claws had gone out entirely.
 
-Kira watched the white scorpion emerge from its egg fragment, shaking its head with an expression of profound irritation that was entirely too familiar. It looked at the black scorpion, already claiming Ajani's mane. It looked at the red scorpion, already wrapped around Ajani's arm. Then it looked at Kira, and its pale antennae lifted with an expression of regal, slightly offended dignity. It clicked its claws once, as if to say 'finally', and crawled into her waiting paws.
-
-<div class="dialogue-block">
-<span class="speech">"Hello,"</span> Kira whispered. <span class="speech">"You're small. You're the smallest one. But you're the prettiest. Don't tell the others I said that."</span>
-</div>
-
-The white scorpion clicked its claws again and settled into her arms with the air of a creature that had been kept waiting far too long and was now prepared to be adored. Its iridescent shell shimmered in the afternoon light, pale and luminous, and Kira held it against her chest and looked up at her brother. Ajani was still standing frozen, a scorpion in his mane and a scorpion on his arm, his green-flecked eyes wide with the particular horror of someone who had been right about scorpions all along and had been ignored by the universe.
-
-The egg was whole in Ajani's paws. He could feel the creatures moving inside—three distinct shapes, three distinct pulses, three distinct lives pressing against the iridescent shell. The crack he had felt a moment ago had been a false alarm, a shifting of the creatures within rather than the true beginning of their emergence. But the shell was growing warmer, the pulses faster, the time before hatching shrinking with every heartbeat.
-
-<div class="dialogue-block">
-<span class="speech">"King Ajani."</span> Seris stepped forward, her diplomatic composure reassembling itself piece by piece. She had seen his fear. She had seen him stammer like a cub. But she was an ambassador of thirty years, and she knew how to turn a weakness into an opportunity. <span class="speech">"The Pearly Scorpion is the finest mount on Ethra. It is faster than a fire foot over rough terrain, immune to the poison of the Flickermarch—"</span>
-</div>
-
-The egg cracked. Not a false alarm this time. A true, definitive crack that split the iridescent shell into three clean pieces, and Ajani found himself staring at three small, glistening shapes tumbling into his waiting paws. The black. The red. The white. They separated with the swift, deliberate purpose of creatures that had just been born and were now absolutely certain of their destinations. The black and the red crawled up his arms. The white tumbled toward Kira.
-
-<div class="thought-block">
-'Get them off!! Get them off!!'
-</div>
-
-Ajani stood frozen, the black scorpion investigating his mane with its antennae, the red scorpion wrapped around his forearm like a living bracelet. Every instinct screamed at him to run, to shake them off, to summon the green fire and incinerate them before they could sting him the way the scorpions in L'vat's pit had stung him a hundred times. But these were not the scorpions of the pit. These were hatchlings. Small. Curious. And they were vibrating.
+Every instinct screamed at him to run, to shake them off, to summon the green fire and incinerate them before they could sting him the way the scorpions in L'vat's pit had stung him a hundred times. But these were not the scorpions of the pit. These were hatchlings. Small. Curious. And they were vibrating.
 
 It was not a threatening vibration. It was not the warning rattle of a scorpion preparing to strike. It was something softer, something almost musical—a low, rhythmic thrumming that resonated through his fur and into his bones. If scorpions could purr, they would purr like this.
 
@@ -2694,6 +2561,14 @@ Slowly, very slowly, Ajani began to move. He raised one paw and brought it gentl
 </div>
 
 The red scorpion clicked its claws once, as if acknowledging the compliment, and resumed its investigation of his wrist.
+
+Kira watched the white scorpion shake its head with an expression of profound irritation that was entirely too familiar. It looked at the black scorpion, already claiming Ajani's mane. It looked at the red scorpion, already wrapped around Ajani's arm. Then it looked at Kira, and its pale antennae lifted with an expression of regal, slightly offended dignity. It clicked its claws once, as if to say 'finally', and crawled into her waiting paws.
+
+<div class="dialogue-block">
+<span class="speech">"Hello,"</span> Kira whispered. <span class="speech">"You're small. You're the smallest one. But you're the prettiest. Don't tell the others I said that."</span>
+</div>
+
+The white scorpion clicked its claws again and settled into her arms with the air of a creature that had been kept waiting far too long and was now prepared to be adored. Its iridescent shell shimmered in the afternoon light, pale and luminous, and Kira held it against her chest and looked up at her brother. Ajani was still standing frozen, a scorpion in his mane and a scorpion on his arm, his green-flecked eyes wide with the particular horror of someone who had been right about scorpions all along and had been ignored by the universe.
 
 Seris stood at the edge of the gathering, her diplomatic composure flickering between horror and calculation. She had intended to present a mount—a single, magnificent Pearly Scorpion worthy of a king. She had been swindled. The egg she had purchased at such great cost had produced not one scorpion but three, and none of them were large enough to ride. She had never heard of an egg producing multiple hatchlings.
 

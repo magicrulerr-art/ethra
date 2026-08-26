@@ -109,35 +109,8 @@ Kareth inclined his scarred head. <span class="speech">"The Shadow Paws have man
 Sylva was the last to speak. The Motted Paw regent had not moved from her place beside the throne, and her silver aura flickered gently in the shadows. She had asked for freedom. The king had denied her, and then given her something else: a system in which no family, not even hers, could operate unchecked. She did not seem troubled. <span class="speech">"The Motted Paws will comply. We have among us those who are cunning, those who are treacherous, those who are deceitful. We will send them to the capital. They will keep the other envoys honest. They will keep the Bright Paws honest. They will keep us honest."</span> She inclined her elegant head. <span class="speech">"You have made us all hostages to each other. That is not impunity. That is stability. The Motted Paws accept."</span>
 </div>
 
-Ajani leaned back on the cold throne. The green fire flickered gently along his claws. The plan was set. The families were bound. The tournament would become the nexus of the continent, and the Wengari would become something they had not been since the Lightbringer vanished: united. Not by blood, not by fear, but by the simple, pragmatic necessity of watching each other.
+The plan was set. The families were bound. The tournament would become the nexus of the continent, and the Wengari would become something they had not been since the Lightbringer vanished: united. Not by blood, not by fear, but by the simple, pragmatic necessity of watching each other.
 
-The Stripe Paws are given logistics and trade—the thing they already want, the thing they are already best at, the thing that makes them wealthy and influential. But by formalizing their overlordship, Ajani binds them to the crown's authority. They are not merely profiting from the tournament; they are administering it on his behalf. If the tournament fails, the Stripe Paws fail. Their wealth becomes dependent on the system's stability, which makes them the system's most committed defenders.
-
-Zara recognized this immediately. That is why she accepted without hesitation.
-
-The Shadow Paws are given intelligence and security—the thing they have always done in secret, now legitimized and made visible. For five thousand years, the Shadow Paws have been feared and distrusted. By asking them to serve as the king's shield, as his personal guard, as the visible protectors of the tournament, Ajani is offering them something they have never had: legitimacy. Kareth's reaction was telling.
-
-This is not merely a duty. It is an honor. The Shadow Paws will not betray an honor. They have waited too long to receive one.
-
-The Motted Paws are given the most delicate task—envoys, ambassadors, the face of the Wengari to the other races. Sylva asked for freedom to operate independently, and Ajani denied her. But he denied her within a framework that protects her from the other families while also protecting the other families from her. The Motted Paws will spread Wengari influence across the continent, but they will do so with Bright Paw observers in their midst, Shadow Paw spies watching their movements, Stripe Paw traders tracking their expenditures.
-
-Sylva recognized this for what it was: not impunity, but stability. She accepted it because stability is what the Motted Paws have always sought.
-
-The Bright Paws are given the role of internal oversight—the eyes within every other family, the face of the tournament's ceremonies, the hosts of the delegations. This is not the martial glory they crave. It is something subtler and perhaps more valuable: redemption. They have been humiliated. Their champions failed. Their training was stripped. But by embedding Bright Paws within every other family's operations, Ajani is forcing the other families to depend on his own blood.
-
-The Bright Paws will be everywhere. They will see everything. And they will report back to the throne. That is not a punishment. It is a restoration of relevance.
-
-The most brilliant stroke, however, is the envoy exchange. Each family must send their most cunning, treacherous, and deceitful members to the capital. These are the people the families trust least, and by gathering them together, Ajani creates a self-policing mechanism. The Bright Paw among the Shadow Paws watches the Shadow Paw envoy. The Shadow Paw spy watches the Motted Paw ambassador. The Motted Paw observer watches the Stripe Paw merchant.
-
-The Stripe Paw trader watches the Bright Paw liaison. Every family is hostage to every other family's worst elements, and those worst elements are precisely the people best equipped to detect betrayal because they are so skilled at it themselves. The system is not built on trust. It is built on the impossibility of trust. And that makes it durable.
-
-This plan also positions the tournament as a continental nexus, drawing every race to the capital, making the Wengari the center of Ethra's political and cultural gravity. The yearly spectacle becomes a mechanism for projecting power outward and drawing wealth inward. The schools ensure that Wengari martial arts will be studied, respected, and feared. The trade agreements ensure that the caravans will keep moving.
-
-The envoys ensure that the Wengari will be present in every court, every market, every negotiation.
-
-The weaknesses are real and worth noting. This system depends on Ajani remaining alive and in power. If he dies on the road, the whole architecture collapses. The system also generates friction intentionally, which is the point—mutual suspicion keeps everyone honest—but friction can spark fire if not carefully managed. The Bright Paws, humiliated and stripped of their traditional authority, may chafe at their new role, and their observers within the other families could become either spies or saboteurs depending on who leads them.
-
-The plan requires a competent regent to manage the capital in Ajani's absence, and Sylva is untested in that role. And the plan depends on the tournament becoming profitable, stable, and popular, which is not guaranteed.
 
 <div class="dialogue-block">
 <p class="speech-line">"now this is all well and good but we still lack a lot of stuff, first of all let's lock in the format, this year was a preview next year will be grand, the tournament will be open to every race that wishes to participate with one caveat they must enter as their own, that means no Stripe Paw mercenaries or of any other kind, objections so far ?"</p>
@@ -201,20 +174,20 @@ Zara's paw slammed against the stone armrest before anyone else could speak. The
 <p class="speech-line">The Bright Paw elders were the last to speak. Solen rose slowly, his golden mane still dulled by the humiliation of the tournament, his ancient eyes meeting Ajani's with an expression that was not defiance but something closer to awe. "The Bright Paws will support this. We have been the royal family for three thousand years. We have grown soft. We have grown weak. The tournament exposed us. The king is giving us a chance to become strong again. We will take it."</p>
 </div>
 
-Ajani leaned back on the cold throne. The green fire flickered gently along his claws. The plan was audacious. It was reckless. It was, as Zara had said, possibly brilliant and possibly insane. But the elders had accepted it. The families were bound. The tournament would become the crucible in which the Wengari were forged anew—or the pyre on which they burned. Either way, the world would be watching.
+The plan was audacious. It was reckless. It was, as Zara had said, possibly brilliant and possibly insane. But the elders had accepted it. The families were bound. The tournament would become the crucible in which the Wengari were forged anew—or the pyre on which they burned. Either way, the world would be watching.
 
 <div class="dialogue-block">
-'that went unusually good, I don't trust them' -<span class="speech">"ok since you all agree you better ensure no other race ever makes it to the finals which leads me to the next point, the tournament is a boon for all and we better take advantage of it, the Crown will retain 30% of all the profits, each family it's given a 15% flat fee for the rest, the 25% left will be distributed among those helping and participating, to enforce this we will institute a new office "</span>the tournament watch<span class="speech">" and that is where you will place your treacherous envoys in an official position, I wish for them to handle the actual money and logistics in the capital, and I can not stress this enough, I want the ones who would sell their own mother for coin, I want cunning and treacherous but no addicts nor deviants, am I clear ?"</span>
+'that went unusually good, I don't trust them' -<span class="speech">"ok since you all agree you better ensure no other race ever makes it to the finals which leads me to the next point, the tournament is a boon for all and we better take advantage of it, the Crown will retain 30% of all the profits, each family it's given a 15% flat fee for the rest, the 10% left will be distributed among those helping and participating, to enforce this we will institute a new office "</span>the tournament watch<span class="speech">" and that is where you will place your treacherous envoys in an official position, I wish for them to handle the actual money and logistics in the capital, and I can not stress this enough, I want the ones who would sell their own mother for coin, I want cunning and treacherous but no addicts nor deviants, am I clear ?"</span>
 </div>
 
-Zara's ears pricked forward. The Stripe Paw chief had been ready to argue—she was always ready to argue—but the numbers were already spinning behind her golden eyes. Thirty percent to the crown. Fifteen percent to each family. Twenty-five percent for the participants and helpers. And an office to enforce it, staffed by the very people who were too treacherous to trust with anything else, given official positions handling actual coin and logistics.
+Zara's ears pricked forward. The Stripe Paw chief had been ready to argue—she was always ready to argue—but the numbers were already spinning behind her golden eyes. Thirty percent to the crown. Fifteen percent to each family. Ten percent for the participants and helpers. And an office to enforce it, staffed by the very people who were too treacherous to trust with anything else, given official positions handling actual coin and logistics.
 
 <div class="dialogue-block">
 <span class="speech">"You want our most cunning and treacherous to handle the money,"</span> she said slowly. <span class="speech">"You want the ones who would sell their own mother for coin. No addicts. No deviants. Just pure, calculating greed, channeled into an official office where they can watch each other and we can watch them."</span> A slow, fierce grin spread across her broad face. <span class="speech">"The Stripe Paws accept. I know exactly who to send. My cousin Vasha will be thrilled. She's been looking for a legitimate excuse to count other people's gold for years."</span>
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">Kareth inclined his scarred head. "The Shadow Paws also accept. But I must ask—the fifteen percent for each family. That figure does not balance across five families, King Ajani. Thirty for the crown, fifteen each would total one hundred and five, and that is before the twenty-five for the participants. Will the families be expected to negotiate their shares among themselves, or will some receive more than others?"</p>
+<p class="speech-line">Kareth inclined his scarred head. "The Shadow Paws also accept. But I must ask—the fifteen percent for each family. That figure does not balance across five families, King Ajani. Thirty for the crown, fifteen each would total one hundred and five, and that is before the ten for the participants. Will the families be expected to negotiate their shares among themselves, or will some receive more than others?"</p>
 </div>
 
 <div class="dialogue-block">
@@ -231,12 +204,9 @@ Solen, the High Priest, rose slowly. His golden mane was still dulled, his ancie
 
 Zara, who had been ready to argue numbers and percentages, closed her mouth. Kareth inclined his scarred head, a gesture of respect that was rare from the Shadow Paw elder. Sylva's silver aura flickered gently in the shadows beside the throne, and her ancient eyes held something that might have been approval.
 
-<div class="dialogue-block">
-Ajani leaned forward on the cold stone. <span class="speech">"Then let the distribution be thirty to the crown, fifteen each to the Stripe Paws, the Shadow Paws, and the Motted Paws. The remaining twenty-five will be split among the participants and the helpers. And the Bright Paws—"</span> He paused, the green fire flickering gently along his claws. <span class="speech">"The Bright Paws will receive ten percent. Not a full share. Not yet. But enough to begin the long climb back."</span>
-</div>
 
 <div class="dialogue-block">
-<span class="speech">"Thirty percent to the crown,"</span> Ajani continued. <span class="speech">"Fifteen percent to each of the four families. The remaining twenty-five percent to the participants and the helpers. Four families. Four shares. The royal family is the Bright Paws. We have always been the Bright Paws. We are simply the branch that rules."</span>
+<span class="speech">"Thirty percent to the crown,"</span> Ajani continued. <span class="speech">"Fifteen percent to each of the four families. The remaining ten percent to the participants and the helpers. Four families. Four shares. The royal family is the Bright Paws. We have always been the Bright Paws. We are simply the branch that rules."</span>
 </div>
 
 <div class="dialogue-block">
@@ -262,7 +232,7 @@ Ajani leaned forward on the cold stone. <span class="speech">"Then let the distr
 Ajani settled back onto the cold stone of the throne. The green fire along his claws had dimmed to a faint, steady pulse—no longer flaring with the heat of combat or the frustration of bureaucracy, but simply present, patient, waiting. The elders stirred. Zara was the first to rise. The Stripe Paw chief's golden eyes were sharp with the particular hunger of a merchant who had just been handed a new market and was already calculating the margins.
 
 <div class="dialogue-block">
-<span class="speech">"The coin is spoken for, you said. The crown will take thirty percent. The families will each take fifteen. The participants will take twenty-five. But the crown's share—"</span> She paused, choosing her words with the care of someone who knew she was asking the question everyone else was thinking. <span class="speech">"The crown's share is the largest single portion. What is it spoken for, King Ajani? What project, what expense, what grand design requires thirty percent of the tournament's profits? The road, I assume. But the road is not merely a Wengari project. It is a coalition. The Pyrinae are contributing their builders. The Veylar are sending their craftsmen. The Hummans are providing their guides. Will the crown's share fund the coalition, or will the coalition be asked to pay for itself?"</span>
+<span class="speech">"The coin is spoken for, you said. The crown will take thirty percent. The families will each take fifteen. The participants will take ten. But the crown's share—"</span> She paused, choosing her words with the care of someone who knew she was asking the question everyone else was thinking. <span class="speech">"The crown's share is the largest single portion. What is it spoken for, King Ajani? What project, what expense, what grand design requires thirty percent of the tournament's profits? The road, I assume. But the road is not merely a Wengari project. It is a coalition. The Pyrinae are contributing their builders. The Veylar are sending their craftsmen. The Hummans are providing their guides. Will the crown's share fund the coalition, or will the coalition be asked to pay for itself?"</span>
 </div>
 
 <div class="dialogue-block">
@@ -290,14 +260,14 @@ Kareth rose next. <span class="speech">"The Shadow Paws also accept. The roads t
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">Sylva's soft voice carried from beside the throne. "The Motted Paws accept. We will train our envoys. We will send our ambassadors. We will ensure that the other races dream of competing in our tournament, but we will also ensure that they do not defeat us. The regency is mine to defend. The crown is yours. We will both hold our ground."</p>
+<p class="speech-line">Beside the throne, Sylva's silver aura brightened. "The Motted Paws accept. We will train our envoys. We will send our ambassadors. We will ensure that the other races dream of competing in our tournament, but we will also ensure that they do not defeat us. The regency is mine to defend. The crown is yours. We will both hold our ground."</p>
 </div>
 
 <div class="dialogue-block">
 <p class="speech-line">Solen, the Bright Paw High Priest, rose last. His golden mane was still dulled, his ancient shoulders still bowed, but his voice was steady. "The Bright Paws accept. Ten percent of our share will fund our schools—the schools where we will learn from the Motted Paws, the Shadow Paws, the Stripe Paws. We have been humiliated. We will not remain humiliated. We will train. We will climb. And we will earn our place among the families once more."</p>
 </div>
 
-Ajani leaned back on the cold throne. The green fire flickered gently along his claws. The plan was set. The coin was spoken for. The families were bound—not by blood, not by fear, but by the simple, pragmatic necessity of shared investment. The tournament would become the crucible in which the Wengari were forged anew. The road would be built. The coalition would hold. And the world would watch.
+The coin was spoken for. The families were bound—not by blood, not by fear, but by the simple, pragmatic necessity of shared investment. The tournament would become the crucible in which the Wengari were forged anew. The road would be built. The coalition would hold. And the world would watch.
 
 <div class="dialogue-block">
 <p class="speech-line">"Next , our first domestic project shall be roads to the five cities the Pyrinae will rehabilitate, we will learn how they build, so we can do it ourselves, the tournament isn't merely to show strength is to steal from every single race what we can, the Styx hunts everything in the desert and so shall we"</p>
@@ -313,9 +283,6 @@ The elders did not erupt this time. They leaned forward. The king had just refra
 <p class="speech-line">Kareth inclined his scarred head. "The Shadow Paws have always been the silent observers. We will watch the other races when they come. We will learn their weaknesses. We will learn their secrets. The Eight Points were honed in darkness. The darkness will now be cast over every race that sets foot in this arena."</p>
 </div>
 
-<div class="dialogue-block">
-<p class="speech-line">Sylva's soft voice was the last to speak. "The Motted Paws will study the other races as we have always studied. Their styles. Their techniques. Their philosophies. Flowing Water adapts to every vessel. We will learn from the Hummans, the Pyrinae, the Veylar, the Threx. We will take what is useful. We will discard what is not. And we will teach the other families what we have learned. This is the old way. This is the way of the jaguar—hunt, learn, adapt, endure."</p>
-</div>
 
 <div class="dialogue-block">
 <p class="speech-line">Sylva's soft voice was the last to speak. "The Motted Paws will study the other races as we have always studied. Their styles. Their techniques. Their philosophies. Flowing Water adapts to every vessel. We will learn from the Hummans, the Pyrinae, the Veylar, the Threx. We will take what is useful. We will discard what is not. And we will teach the other families what we have learned. This is the way of the Motted Paws. This is the way of Flowing Water—hunt, learn, adapt, endure."</p>
@@ -368,7 +335,7 @@ Zara's golden eyes narrowed with calculation, but it was a different kind of cal
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">"you have proposed vasha for three different roles , you must truly hate your cousin, I choose Maren, the coin master needs not only guile but also endurance, someone without ambition will break the first month, or succumb to apathy, I need someone who can stare down the toughest of the families and make them cough up the coin, Maren sounds like he'll fit right in, objections?"</p>
+<p class="speech-line">"you have proposed vasha for three different roles , you must truly hate your cousin, I choose Maren, the coin master needs not only guile but also endurance, someone without ambition will break the first month, or succumb to apathy, I need someone who can stare down the toughest of the families and make them cough up the coin, Maren sounds like she'll fit right in, objections?"</p>
 </div>
 
 <div class="dialogue-block">
@@ -426,7 +393,7 @@ Kareth's one good eye held steady on the throne. The old general had seen too ma
 </div>
 
 <div class="dialogue-block">
-Sylva's soft voice carried from beside the throne. <span class="speech">"The Motted Paws have observed Sera. She is skilled. She is disciplined. She is driven by something deeper than pride. She is exactly what the king describes."</span> She paused, her silver eyes meeting Kareth's. <span class="speech">"But can she lead? The security advisor must train others, not merely fight alone. Has she ever commanded?"</span>
+Sylva spoke from the shadows beside the throne, her voice soft as ever. <span class="speech">"The Motted Paws have observed Sera. She is skilled. She is disciplined. She is driven by something deeper than pride. She is exactly what the king describes."</span> She paused, her silver eyes meeting Kareth's. <span class="speech">"But can she lead? The security advisor must train others, not merely fight alone. Has she ever commanded?"</span>
 </div>
 
 <div class="dialogue-block">
@@ -479,4 +446,20 @@ Zara was the first to speak, and her voice carried the particular weight of a me
 
 <div class="dialogue-block">
 <p class="speech-line">Solen rose slowly. The old High Priest's golden mane was still dulled, but his voice was steady. "The Bright Paws accept. We have been the royal family for three thousand years. We have grown stagnant. We have grown weak. The tournament exposed us. The king's reforms are giving us a chance to become strong again. Five-year terms will ensure that no Bright Paw ever again sits on a throne of complacency. We will propose candidates. We will compete. And we will earn our place among the families once more."</p>
+</div>
+
+<div class="dialogue-block">
+<p class="speech-line">He paused, his ancient eyes meeting Ajani's. "There is wisdom in this. The Lightbringer himself did not rule alone—he had advisors, companions, allies who challenged his thinking and sharpened his judgment. The offices you are creating are a return to that old way. Not a monarchy propped up by ritual and tradition, but a government of competing voices, each one sharpening the others. The Bright Paws will support this. We will train our cubs to compete for these offices. And we will remind them that five years is a season, not a lifetime. A predator hunts. A predator adapts. A predator does not grow fat on the throne."</p>
+</div>
+
+<div class="dialogue-block">
+<p class="speech-line">"I accept, and now for the grand visir, he can stay in office as long as he keeps winning tournaments if he can hold it for life, he can, he will oversee the other offices and be advisor to the crown, he will enact the crowns policy and law, you should treat the office as the crown itself, which means I will be offloading almost all my work to them !!" <span class="speech-attr">- 'got you old bastards!!'</span></p>
+</div>
+
+The silence that followed was not the silence of shock—the elders had absorbed too many revelations in too short a time for shock—but the silence of predators reassessing the terrain. The king had just announced that the grand vizier, the most powerful office in the new government, would be tied to the tournament. Win the tournament, hold the office. Hold it for life, if you could keep winning. The crown's authority, the crown's policy, the crown's law—all of it offloaded onto the grand vizier's shoulders.
+
+And the king? The king would be free. Free to build the road. Free to travel. Free to fight. Free to leave the crushing weight of governance on someone else's back while he did what he had been aching to do since the moment he returned from the marshes.
+
+<div class="dialogue-block">
+Zara's laugh was sharp and delighted. <span class="speech">"You cunning little—"</span> She caught herself, her ears flattening briefly, but the grin did not leave her face. <span class="speech">"You just offloaded almost all your work onto the grand vizier. The coin master handles the money. The security advisor handles the soldiers. The foreign advisor handles the delegations. The grand vizier oversees them all. And you—"</span> She shook her great head, her striped mane rippling. <span class="speech">"You ride north and build your road while we run your kingdom for you. This is either the laziest kingship in Wengari history or the most brilliant. I cannot decide which."</span>
 </div>

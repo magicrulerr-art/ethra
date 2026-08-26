@@ -92,7 +92,7 @@ The chamber fell utterly silent. The Stripe Paws stopped thumping their tails. T
 </div>
 
 
-<div class="dialogue-block>
+<div class="dialogue-block">
 <p class="speech-line">'kareth, an old general I believe... the Shadow Paws blunt as always, at least he is to the point', "Brother, I must be honest until a week ago I wasn't sure myself of what I was, you know I've been absent for the last years, I travelled, and found myself on the marshes, In there I found a dying lament, he was burning up with aura and I saved him, He allowed me to talk with a someone, or perhaps, something is the right word, Brother, what I'm about to tell you, cannot leave this room, so please have every non-Wengari leave, and only the elders, the chiefs and their heir remains, I'll wait"</p>
 </div>
 
@@ -249,7 +249,7 @@ She turned to Ajani. <span class="speech">"You said you were the heir of the Fir
 </div>
 
 
-<div class="dialogue-block>
+<div class="dialogue-block">
 <p class="speech-line">'well it's not as bad as I thought, no one is dead yet', "you misunderstand something my brothers, first of all the lord of the desert does not take our weak, they die by their own hand, it is known only the strong survive here, it's even coded into our lives, however cruel the lord of the desert has made us the strongest race on Ethra, who can best a Wengari in single combat?, what race hasn't felt our claws and fangs?, what race doesn't kill our cubs on sight out of fear?"</p>
 </div>
 
@@ -265,16 +265,11 @@ Zara, the Stripe Paw chief, was not so easily placated. <span class="speech">"Yo
 
 
 <div class="dialogue-block">
-Nyasha, who had been silent since her last words, spoke again. <span class="speech">"The crime remains,"</span> she agreed. <span class="speech">"But the young king is right about one thing. We are the strongest. We have survived where others would have perished. The Tree has been our crucible."</span> She turned her ancient eyes toward Ajani. <span class="speech">"The question is not whether we are strong. The question is whether we will continue to be strong under the same terms. You said you offered the Tree something new. A road. A partnership. The Deep. What did the Tree say in return? What did it demand? And what did you give it, Ajani Brightmane, that your father could not?"</span>
-</div>
-
-
-<div class="dialogue-block">
 Nyasha, who had been silent since her last words, spoke again. <span class="speech">"The crime remains,"</span> she agreed. <span class="speech">"But the young king is right about one thing. We are the strongest. We have survived where others would have perished. The Tree has been our crucible."</span> She turned her ancient eyes toward Ajani. <span class="speech">"But you did not bring us here merely to confess the Lightbringer's sin. You could have told us the truth in the council chamber, and we would have believed you—or not—and the world would have continued as it always has. Instead, you brought us to the heart of the crime itself. To the lord of the desert. To the true king."</span> She gestured at the pulsing roots, the silent blossom, the amber pool. <span class="speech">"Why? What is it you want from us, Ajani Brightmane? Not as subjects. Not as elders. As Wengari. What do you want?"</span>
 </div>
 
 
-<div class="dialogue-block>
+<div class="dialogue-block">
 <p class="speech-line">'ok... So good, so far', "I brought you here because the lord of the desert isn't the only one, while I was in the marsh I met the lord of the marsh, I trained under him, and he showed me exactly what the pact was, our weak did not start dying until the pact was broken, before the desert was a veritable oasis wasn't it? There are tales of our cities all over the desert, of Stripe Paw caravans that extended as far as the eye could see and of Shadow Paw assassins that shaped the world, of the Motted Paw shamans who could Commune with the Styx, the reason all that is gone is because we failed to upkeep the pact that the Lightbringer made with the lord of the desert... This flower here, it's how the Lord speaks, and it is also the reason why kings of the past have failed, I've brought you here so you can see for yourselves and if you so desire, speak against the pact or forge one of your own, my pact with the lord is my own, and it won't be a Wengari pact unless you all are part of it, elders and heirs"</p>
 </div>
 
@@ -315,7 +310,7 @@ One by one, the other chiefs and heirs bent their heads. Zara, the Stripe Paw, h
 The amber pool rippled. The blossom stirred. The Tree was listening. And for the first time since the Lightbringer vanished, the Wengari were united—not under a Tyrant, not under a lie, but under a king who had given them the truth and asked them to choose.
 
 
-<div class="dialogue-block>
+<div class="dialogue-block">
 <p class="speech-line">'now....for the real test', "the pact isn't with me, it's with the lord of the desert, and he must choose you and accept your offer, what you say it's between you and the lord, however I warn you, if your heart isn't steeled and your aura isn't strong you will perish, and each Wengari here must do so, both the elders and the heirs, for we will not break faith again", 'please, please, don't kill any of the old fools...'</p>
 </div>
 
@@ -489,40 +484,6 @@ In the Humman encampment beyond the city walls, Ambassador Seris sat by a flicke
 Seris listened. The rumble grew louder. The fire flickered. And for the first time since she had arrived in this desert city, the Humman ambassador felt something other than fear. <span class="speech">"I don't know,"</span> she said. <span class="speech">"But I think we are about to find out."</span> And in the cold, distant sky above the desert, the white male Styx circled once, twice, and then turned north—toward the Rune-Belt, toward the road that was to come, toward the fate of Ethra.
 </div>
 
-And through it all, the white male Styx circled the northern horizon, a constant reminder of the promise Ajani had made. The road. The corridor. The pact. Fifty years. It seemed like an eternity. It felt like a heartbeat.
-
-
-The morning of their planned departure, T'van burst into Ajani's chambers without knocking. His shaved mane was damp with sweat, his golden eyes wide with something between excitement and terror.
-
-
-<div class="dialogue-block">
-<span class="speech">"Ajani—my king—they're here. All of them. The delegations. The Pyrinae have requested a formal audience—not as vassals, they said, but as an independent race. The Hummans have sent a full mercantile council, led by Ambassador Seris. There's a Shell-Singer from the Tidepools walking through the eastern gate as we speak, and something—something I don't understand—a Threx, but not like the Lament. Small. Young. It won't speak to anyone except you."</span> He paused, gulping air. <span class="speech">"And the Chi'Thak have sent nothing. The Blight is stirring, they say, but no one knows where."</span>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Ajani set down the pack he had been filling with dried meat and water flasks. "The Dragari?"</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">T'van shook his head. "No Dragari. But the northern watchmen say there's something walking down from the coast. Alone. Singing. They thought it was a mirage."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Ajani looked out the window, toward the northern horizon where the Styx circled and the road was meant to begin. "They're not going to let us leave, are they?"</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">T'van's ears flattened. "No, my king. I don't think they are."</p>
-</div>
-
-
-The king exhaled slowly. The road would have to wait. The world had come to the desert. And it wanted answers.
-
-
 **One Month After the Council**
 
 **The Bright Paw Capital**
@@ -540,7 +501,7 @@ The morning of their planned departure, T'van burst into Ajani's chambers withou
 
 
 <div class="dialogue-block">
-<p class="speech-line">"Ajani—my king—they're here. Delegations. The Pyrinae have requested a formal audience—not as vassals, they said, but as an independent race. The Hummans have sent a full mercantile council. There's a Shell-Singer from the Tidepools walking through the eastern gate as we speak. And something—something I don't understand—a Threx, but not like the Lament. Small. Young. Frightened. It won't speak to anyone except you."</p>
+<p class="speech-line">"Ajani—my king—they're here. Delegations. The Pyrinae have requested a formal audience—not as vassals, they said, but as an independent race. The Hummans have sent a full mercantile council, led by Ambassador Seris. There's a Shell-Singer from the Tidepools walking through the eastern gate as we speak. And something—something I don't understand—a Threx, but not like the Lament. Small. Young. Frightened. It won't speak to anyone except you."</p>
 </div>
 
 
@@ -548,7 +509,7 @@ He paused, gulping air.
 
 
 <div class="dialogue-block">
-<p class="speech-line">"And the Blight. The watchmen on the northern ridge say the ground is stirring. No swarm yet, but the old scouts say it feels wrong. Too early. Too organized."</p>
+<p class="speech-line">"And the Blight. The Chi'Thak have sent nothing. But the watchmen on the northern ridge say the ground is stirring. No swarm yet, but the old scouts say it feels wrong. Too early. Too organized."</p>
 </div>
 
 
@@ -699,25 +660,6 @@ The merchant who had fallen first let out a strangled whimper. Seris, still on h
 
 <div class="dialogue-block">
 <p class="speech-line">'the absolute insolence!' — "I AM AJANI, KEEPER OF THE LIGHT, HEIR TO THE FIRST AND THE THIRD, I AM THE DESERT SUN AND YOU WILL KNEEL TO YOUR KING!!!!!" — 'now, what did father always do? Ah yes the spear vault, that's too showy, let's go with L'vat's way...careful...careful and pull!'</p>
-</div>
-
-
-The Stripe Paw mercenary braced for fire. She had seen the coronation. Everyone had seen the coronation—the Four Pillars blazing green and gold, the Styx bowing, the Lament singing. She knew what the White Dawn could do. She expected the spear. She expected the flame. She expected to be overwhelmed, incinerated, reduced to ash and memory by a king who would not tolerate defiance.
-
-
-She did not expect the tap on her shoulder.
-
-
-It was light. Almost gentle. A single claw, extended, resting on the joint where her shoulder met her neck. And then the green fire flowed—not the blazing spear of the ritual, not the crushing heat of the desert sun, but something else. Something precise. Something surgical. The fire traced the lines of her Aura, the channels of energy that every Wengari learned to control from cubhood. It did not burn her.
-
-It stilled her. Every muscle in her body locked. Every breath froze in her chest. She was not in pain. She was not injured. She was simply... stopped. Held. Pinned in place by a force that had found the exact frequency of her own life-force and pressed it into perfect, paralyzed equilibrium.
-
-
-The green fire pulsed once. The mercenary's legs buckled. She knelt—not in submission, not in reverence, but in the simple, physical impossibility of doing anything else. Her claws retracted. Her mane flattened. She stared up at Ajani with an expression that was not anger, not fear, but pure, uncomprehending shock. She had trained for decades. She had fought Tide Wolves and Chi'Thak and Pyrinae assassins. She had never encountered anything like this.
-
-
-<div class="dialogue-block">
-<p class="speech-line">The Humman merchants, still on their knees, stared at their champion with dawning horror. Seris opened her eyes, saw the mercenary kneeling, and went very pale. The Stripe Paw's voice, when she finally found it, was a hoarse whisper. "What... what are you?" And the king, his claw still resting gently on her shoulder, met her eyes and smiled. Not a cruel smile. Not a triumphant smile. The smile of a student who had just remembered a lesson his teacher had taught him long ago.</p>
 </div>
 
 
