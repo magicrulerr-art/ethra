@@ -93,3 +93,20 @@ exist. Generator + crop table + source map: tools/title_rollout.py and
 tools/title_rollout_sources.md. CSS: one shared masked-band rule + 34
 one-line image rules (tools/title_rollout_css_block.css), appended after the
 gradient emblems; relative url() only.
+
+
+## Arc VII ch02 "Whitey" — superseded forge iterations (2026-08-26)
+
+Archived on shipping v4 (self-audit PASS; Ainz verdict pending — if v4 is
+rejected, these are the starting points for v5):
+
+- `chapter-arc7-02-v1.*` — core composition PASS (3 eggs, both wurms, no
+  figures) but built dome+columns, three live dark insects, full cold-blue
+  wash, grub legs. Sidecar alongside records the full audit.
+- `chapter-arc7-02-v2.*` — cavern/insects/palette fixed; legs still sparse
+  caterpillar stubs, weak colossal scale. Best cavern phrasing (reused in v4).
+- `chapter-arc7-02-v3.*` — legs + scale fixed; gothic architecture regressed
+  and FOUR eggs. Best leg/scale phrasing (reused in v4).
+
+v4 = v2 cavern phrasing + v3 leg/scale phrasing, "cathedral" word removed,
+egg count explicit. Sidecar for v4 lives in static/images/.
