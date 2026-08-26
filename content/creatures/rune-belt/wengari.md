@@ -3,7 +3,7 @@ name: Wengari (Anchor Race)
 kind: race
 x_pct: 30.7
 y_pct: 35.9
-subtitle: Bright Paws / Shadow Paws / Mottled Paws / Stripe Paws / Snow Paws
+subtitle: Bright Paws / Shadow Paws / Motted Paws / Stripe Paws / Snow Paws
 image_full: /static/images/tide-wolf.png
 ---
 # Wengari
@@ -16,14 +16,14 @@ image_full: /static/images/tide-wolf.png
 
 ## Physical Description
 
-Feline humanoids — lithe, digitigrade, with coats as varied as the families that bear them: the sun-gold manes of the Bright Paws, the tiger-stripes of the Stripe Paws, the dusk-mottling of the Mottled Paws, the shadow-grey of the Shadow Paws, and the white fur of the Snow Paws. All share the same upright carriage, the same whiskered muzzles, the same eyes that catch the light of both suns.
+Feline humanoids — lithe, digitigrade, with coats as varied as the families that bear them: the sun-gold manes of the Bright Paws, the tiger-stripes of the Stripe Paws, the dusk-mottling of the Motted Paws, the shadow-grey of the Shadow Paws, and the white fur of the Snow Paws. All share the same upright carriage, the same whiskered muzzles, the same eyes that catch the light of both suns.
 
 ## The Five Families
 
 - **Bright Paws** — the royal family of the Steadfast Desert, seat at Styxian, keepers of the Pact and the hanging gardens of the Kyre Tree.
 - **Shadow Paws** — scarred elders and long-memory keepers; Kareth among them.
 - **Stripe Paws** — nomadic hunters of the Rune Belt's temperate forests, masters of Aura-hardened fur.
-- **Mottled Paws** — dappled-coat stalkers of the Rune Belt's border woods.
+- **Motted Paws** — dappled-coat stalkers of the Rune Belt's border woods.
 - **Snow Paws** — the far-north family of the Umbral Ring, keepers of the Ice City.
 
 ## Magical Properties

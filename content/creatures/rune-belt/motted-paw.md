@@ -1,17 +1,17 @@
 ---
-name: Mottled Paw
+name: Motted Paw
 kind: creature
 x_pct: 40.5
 y_pct: 57.5
-image_full: /static/images/mottled-paw.png
+image_full: /static/images/motted-paw.png
 ---
-# Mottled Paw Wengari
+# Motted Paw Wengari
 
 **Classification:** Sentient Race / Wengari Family  
 **Biome:** Rune Belt  
 **Attunement:** Steadfast-attuned with master Aura control  
 
-<picture><source srcset="/static/images/mottled-paw.webp" type="image/webp" /><source srcset="/static/images/mottled-paw.jpg" type="image/jpeg" /><img src="/static/images/mottled-paw.png" alt="Mottled Paw Warrior" class="creature-portrait" style="max-width:400px;float:right;margin:0 0 1em 1em;border:2px solid #333;"></picture>
+<picture><source srcset="/static/images/motted-paw.webp" type="image/webp" /><source srcset="/static/images/motted-paw.jpg" type="image/jpeg" /><img src="/static/images/motted-paw.png" alt="Motted Paw Warrior" class="creature-portrait" style="max-width:400px;float:right;margin:0 0 1em 1em;border:2px solid #333;"></picture>
 
 ## Physical Description
 

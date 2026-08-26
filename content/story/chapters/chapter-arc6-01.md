@@ -139,7 +139,7 @@ Every eye in the room turned from Cefiro to Ajani. The question hung in the air.
 
 
 <div class="dialogue-block">
-<p class="speech-line">"Well. That's understandable—he is odd. Right, then. Let me make the proper presentation." He drew himself up. "This is Ajani Brightmane, First of His Name, Defender of the Realm, Heir to the Black Fire and the Lightbringer, Brother of the Deep, Caller of Spirits, Holder of Luxor, King of the Wengari. He salutes Cefiro Silverpelt—Caller of Ice, Killer of the Bho, Heir of the Great Ice City in the North, Crown Prince of the Snow Paws, our long-lost cousins. The Crown welcomes you to Styxiancus."</p>
+<p class="speech-line">"Well. That's understandable—he is odd. Right, then. Let me make the proper presentation." He drew himself up. "This is Ajani Brightmane, First of His Name, Defender of the Realm, Heir to the Black Fire and the Lightbringer, Brother of the Deep, Caller of Spirits, Holder of Luxor, King of the Wengari. He salutes Cefiro Silverpelt—Caller of Ice, Killer of the Bho, Heir of the Great Ice City in the North, Crown Prince of the Snow Paws, our long-lost cousins. The Crown welcomes you to Styxian."</p>
 </div>
 
 
@@ -972,7 +972,7 @@ She paused again.
 
 
 <div class="dialogue-block">
-<p class="speech-line">"Generals it appears we will need to ask for reparations from the hummans...what is your recommendations for achieving so ?"</p>
+<p class="speech-line">"Generals it appears we will need to ask for reparations from the Hummans...what is your recommendations for achieving so ?"</p>
 </div>
 
 

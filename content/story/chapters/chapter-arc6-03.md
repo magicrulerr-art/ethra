@@ -73,7 +73,7 @@ Outside the great hall, the morning sun was climbing higher over the shattered c
 
 
 <div class="dialogue-block">
-<p class="speech-line">A few hours later ajani is helping everyone on the wall, taking his example several old and young generals are also helping an ambience of camaraderie is felt where the hummans were seen with disdain now it's almost gone they helping on the wall and the resistance they mounted on the war has gone a great way on smoothing things a very tenous peace has been forged through shared strife Ajani is offering to help a young humman lift a boulder when a sandstorm approaches and dissipates a lament and 20 quick threx are at the gates it's the most threx anyone has ever seen they look at the Hummans hiss and raise their limbs then ajani panicked stands between them shouting "THEY'RE FRIENDS THEYRE FRINDS!"</p>
+<p class="speech-line">A few hours later ajani is helping everyone on the wall, taking his example several old and young generals are also helping an ambience of camaraderie is felt where the Hummans were seen with disdain now it's almost gone they helping on the wall and the resistance they mounted on the war has gone a great way on smoothing things a very tenous peace has been forged through shared strife Ajani is offering to help a young Humman lift a boulder when a sandstorm approaches and dissipates a lament and 20 quick threx are at the gates it's the most threx anyone has ever seen they look at the Hummans hiss and raise their limbs then ajani panicked stands between them shouting "THEY'RE FRIENDS THEYRE FRINDS!"</p>
 </div>
 
 
@@ -232,7 +232,7 @@ The Quick hesitated. Their hissing faltered. They looked at L'vat, waiting. The 
 
 
 
-The humman woman was perhaps thirty, her dark hair pulled back in a simple cloth, her arms carrying a basket of dried fruits and flatbread. She had been bringing food to her husband every day since the wall repairs began, weaving through the scaffolding with the practiced ease of someone who had learned to navigate a city under siege. Her daughter trotted beside her, a small girl of perhaps four years, her dark curls bouncing with each step.
+The Humman woman was perhaps thirty, her dark hair pulled back in a simple cloth, her arms carrying a basket of dried fruits and flatbread. She had been bringing food to her husband every day since the wall repairs began, weaving through the scaffolding with the practiced ease of someone who had learned to navigate a city under siege. Her daughter trotted beside her, a small girl of perhaps four years, her dark curls bouncing with each step.
 
 The girl had been told to stay close. She had been told to hold her mother's hand. She had been told many things, and she had forgotten all of them the moment she saw the Quick.
 

@@ -23,7 +23,7 @@ Masters of Aura control, using it to harden their fur into living armor and enha
 
 ## Culture
 
-Nomadic hunters who favor the forested regions of the Rune Belt. One of the three remaining Rune Belt families alongside Shadow and Mottled Paws.
+Nomadic hunters who favor the forested regions of the Rune Belt. One of the three remaining Rune Belt families alongside Shadow and Motted Paws.
 
 ## Relationship to Rune Belt
 

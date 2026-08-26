@@ -139,7 +139,7 @@ Every eye in the room turned from Cefiro to Ajani. The question hung in the air.
 
 
 <div class="dialogue-block">
-<p class="speech-line">"Well. That's understandable—he is odd. Right, then. Let me make the proper presentation." He drew himself up. "This is Ajani Brightmane, First of His Name, Defender of the Realm, Heir to the Black Fire and the Lightbringer, Brother of the Deep, Caller of Spirits, Holder of Luxor, King of the Wengari. He salutes Cefiro Silverpelt—Caller of Ice, Killer of the Bho, Heir of the Great Ice City in the North, Crown Prince of the Snow Paws, our long-lost cousins. The Crown welcomes you to Styxiancus."</p>
+<p class="speech-line">"Well. That's understandable—he is odd. Right, then. Let me make the proper presentation." He drew himself up. "This is Ajani Brightmane, First of His Name, Defender of the Realm, Heir to the Black Fire and the Lightbringer, Brother of the Deep, Caller of Spirits, Holder of Luxor, King of the Wengari. He salutes Cefiro Silverpelt—Caller of Ice, Killer of the Bho, Heir of the Great Ice City in the North, Crown Prince of the Snow Paws, our long-lost cousins. The Crown welcomes you to Styxian."</p>
 </div>
 
 
@@ -972,7 +972,7 @@ She paused again.
 
 
 <div class="dialogue-block">
-<p class="speech-line">"Generals it appears we will need to ask for reparations from the hummans...what is your recommendations for achieving so ?"</p>
+<p class="speech-line">"Generals it appears we will need to ask for reparations from the Hummans...what is your recommendations for achieving so ?"</p>
 </div>
 
 
@@ -2171,7 +2171,7 @@ Outside the great hall, the morning sun was climbing higher over the shattered c
 
 
 <div class="dialogue-block">
-<p class="speech-line">A few hours later ajani is helping everyone on the wall, taking his example several old and young generals are also helping an ambience of camaraderie is felt where the hummans were seen with disdain now it's almost gone they helping on the wall and the resistance they mounted on the war has gone a great way on smoothing things a very tenous peace has been forged through shared strife Ajani is offering to help a young humman lift a boulder when a sandstorm approaches and dissipates a lament and 20 quick threx are at the gates it's the most threx anyone has ever seen they look at the Hummans hiss and raise their limbs then ajani panicked stands between them shouting "THEY'RE FRIENDS THEYRE FRINDS!"</p>
+<p class="speech-line">A few hours later ajani is helping everyone on the wall, taking his example several old and young generals are also helping an ambience of camaraderie is felt where the Hummans were seen with disdain now it's almost gone they helping on the wall and the resistance they mounted on the war has gone a great way on smoothing things a very tenous peace has been forged through shared strife Ajani is offering to help a young Humman lift a boulder when a sandstorm approaches and dissipates a lament and 20 quick threx are at the gates it's the most threx anyone has ever seen they look at the Hummans hiss and raise their limbs then ajani panicked stands between them shouting "THEY'RE FRIENDS THEYRE FRINDS!"</p>
 </div>
 
 
@@ -2331,7 +2331,7 @@ The Quick hesitated. Their hissing faltered. They looked at L'vat, waiting. The 
 
 
 
-The humman woman was perhaps thirty, her dark hair pulled back in a simple cloth, her arms carrying a basket of dried fruits and flatbread. She had been bringing food to her husband every day since the wall repairs began, weaving through the scaffolding with the practiced ease of someone who had learned to navigate a city under siege. Her daughter trotted beside her, a small girl of perhaps four years, her dark curls bouncing with each step.
+The Humman woman was perhaps thirty, her dark hair pulled back in a simple cloth, her arms carrying a basket of dried fruits and flatbread. She had been bringing food to her husband every day since the wall repairs began, weaving through the scaffolding with the practiced ease of someone who had learned to navigate a city under siege. Her daughter trotted beside her, a small girl of perhaps four years, her dark curls bouncing with each step.
 
 The girl had been told to stay close. She had been told to hold her mother's hand. She had been told many things, and she had forgotten all of them the moment she saw the Quick.
 
@@ -4644,7 +4644,7 @@ The court dispersed into the afternoon light, and the Great Celebration prepared
 
 
 <div class="dialogue-block">
-<p class="speech-line">Ok next one is a MASSIVE scene, we start from the palace it's early morning an hour before dawn ajani is wearing an uncharacteristic black robe and so is everyone else, 40 coffins are being loaded and carried by the bright paw guards, the Hummans are as well carrying their dead along with the Pyrinae the funeral procession walks through the city, in absolute Silence, wherever it passes wengari, humman and pyranei join, Nikolai is walking next to ajani on his right, on his left the veylar queen, when they reach the gate, the dead are placed in a line and ajani turns to the Crowd and speaks "Life in the desert is hard only those strong enough survive and the weak die, however those behind me despite being dead are the strongest of us all, there is no higher honor than dying to protect your cubs and mate,  there is no one strongest that the one who knows will face certain death and yet he embraces it with a smile on his face, no greater power than that of the one who overcomes it's fear and fights along those different than him self for a greater cause , the brothers and sisters behind spirits have returned to their ancestors it is time their bodies do so now, GHOSTS RELEASE YOUR ARROWS" as soon as he speaks the words dozens of lighted arrows pelt the bodies ajani doesn't turn, and the funeral pyre burns against the dawn</p>
+<p class="speech-line">Ok next one is a MASSIVE scene, we start from the palace it's early morning an hour before dawn ajani is wearing an uncharacteristic black robe and so is everyone else, 40 coffins are being loaded and carried by the bright paw guards, the Hummans are as well carrying their dead along with the Pyrinae the funeral procession walks through the city, in absolute Silence, wherever it passes wengari, Humman and pyranei join, Nikolai is walking next to ajani on his right, on his left the veylar queen, when they reach the gate, the dead are placed in a line and ajani turns to the Crowd and speaks "Life in the desert is hard only those strong enough survive and the weak die, however those behind me despite being dead are the strongest of us all, there is no higher honor than dying to protect your cubs and mate,  there is no one strongest that the one who knows will face certain death and yet he embraces it with a smile on his face, no greater power than that of the one who overcomes it's fear and fights along those different than him self for a greater cause , the brothers and sisters behind spirits have returned to their ancestors it is time their bodies do so now, GHOSTS RELEASE YOUR ARROWS" as soon as he speaks the words dozens of lighted arrows pelt the bodies ajani doesn't turn, and the funeral pyre burns against the dawn</p>
 </div>
 
 
@@ -4950,7 +4950,7 @@ Zephyr raised one lacquered claw. And the legion answered with a sound that was 
 
 
 <div class="dialogue-block">
-<p class="speech-line">Sylva hands another scroll to ajani he again unfolds if with a theatrical flair and says "Tamsin of the hummans present yourself to the crown!"</p>
+<p class="speech-line">Sylva hands another scroll to ajani he again unfolds if with a theatrical flair and says "Tamsin of the Hummans present yourself to the crown!"</p>
 </div>
 
 
@@ -5361,7 +5361,7 @@ At the gate, Nikolai lowered his halberd entirely. His fighting spirit was gone.
 
 
 <div class="dialogue-block">
-<p class="speech-line">Nikolai turns and says utterly defeated "Come humman, and perhaps next time bring better guards ?" As he slowly very slowly walks back to the capital cursing his luck</p>
+<p class="speech-line">Nikolai turns and says utterly defeated "Come Humman, and perhaps next time bring better guards ?" As he slowly very slowly walks back to the capital cursing his luck</p>
 </div>
 
 

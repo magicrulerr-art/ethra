@@ -33,7 +33,7 @@ The Snow Paws remain a distinct family among the Wengari, nursing ancient grudge
 
 ## Relationship with Other Races
 
-- **Other Wengari families:** Tense. Shadow Paws bear shame; Bright Paws are rivals; Mottled/Stripe Paws are distant.
+- **Other Wengari families:** Tense. Shadow Paws bear shame; Bright Paws are rivals; Motted/Stripe Paws are distant.
 - **Pyrinae:** No direct contact — too far north for desert trade.
 - **Dragari:** The Dragari are their neighbors in the southern Umbral Ring, but the Snow Paws rarely venture that far. They know of the gentle lizard-folk but have little interaction.
 - **Threx:** Mythical; the Flickermarch is legend to most Snow Paws.

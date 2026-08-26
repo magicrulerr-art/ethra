@@ -17,7 +17,7 @@ Ethra's single supercontinent stretches from the northern polar region to the so
 <picture><source srcset="/static/images/biome-rune-belt.webp" type="image/webp" /><source srcset="/static/images/biome-rune-belt.jpg" type="image/jpeg" /><img src="/static/images/biome-rune-belt.png" alt="The Rune Belt landscape" class="creature-portrait" style="max-width:100%;width:100%;height:auto;border-radius:12px;margin-bottom:20px;border:2px solid #333;box-shadow:0 4px 20px rgba(0,0,0,0.3);"></picture>
 
 - **Type:** Temperate, diverse ecosystems — the heartland
-- **Inhabitants:** Wengari (Shadow Paws, Mottled Paws, Stripe Paws), Hummans (capital: Verdantis)
+- **Inhabitants:** Wengari (Shadow Paws, Motted Paws, Stripe Paws), Hummans (capital: Verdantis)
 - **Apex Predator:** Tide Wolves
 - **Key Flora:** Lotus Blooms
 - **Features:** The most politically significant biome. Site of the Humman capital (Verdantis). Rich in history and conflict.

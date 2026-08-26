@@ -127,7 +127,7 @@ Bestiary plan). Coordinate data lives at `static/data/map-coordinates.json`.
 
 | Chapter | Title | Status | Canonical filename | Bytes | Locked |
 |---------|-------|--------|--------------------|-------|--------|
-| arc7-01 | The Birth of the Festival | 🟡 pending v10 (Ainz fallback ruling after v5–v9 kept struggling with the company: landscape-only Wurms' Rest — colossal ancient arch + several colossal coiled snow wurms in pale blue-white glow, breath-mist, no figures; v8 full-company PASS and v9 hierarchy attempt archived; Ainz height hierarchy for any future re-forge recorded in v10 sidecar; awaiting Ainz verdict) | `chapter-arc7-01-v10.png` | 6,511,367 | 2026-08-25 |
+| arc7-01 | The Birth of the Festival | ✅ LOCKED [2026-08-25] — Ainz verdict: "the V10 image was already approved" (landscape-only Wurms' Rest — colossal ancient arch + several colossal coiled snow wurms in pale blue-white glow, breath-mist, no figures; chosen via Ainz's pre-authorized fallback after v5–v9 kept struggling with the company; v8 full-company PASS and v9 hierarchy attempt archived; Ainz height hierarchy for any future re-forge recorded in v10 sidecar) | `chapter-arc7-01-v10.png` | 6,511,367 | 2026-08-25 |
 
 ## Arc 6 — Aftermath & The Road
 

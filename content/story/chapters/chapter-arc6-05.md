@@ -199,7 +199,7 @@ The court dispersed into the afternoon light, and the Great Celebration prepared
 
 
 <div class="dialogue-block">
-<p class="speech-line">Ok next one is a MASSIVE scene, we start from the palace it's early morning an hour before dawn ajani is wearing an uncharacteristic black robe and so is everyone else, 40 coffins are being loaded and carried by the bright paw guards, the Hummans are as well carrying their dead along with the Pyrinae the funeral procession walks through the city, in absolute Silence, wherever it passes wengari, humman and pyranei join, Nikolai is walking next to ajani on his right, on his left the veylar queen, when they reach the gate, the dead are placed in a line and ajani turns to the Crowd and speaks "Life in the desert is hard only those strong enough survive and the weak die, however those behind me despite being dead are the strongest of us all, there is no higher honor than dying to protect your cubs and mate,  there is no one strongest that the one who knows will face certain death and yet he embraces it with a smile on his face, no greater power than that of the one who overcomes it's fear and fights along those different than him self for a greater cause , the brothers and sisters behind spirits have returned to their ancestors it is time their bodies do so now, GHOSTS RELEASE YOUR ARROWS" as soon as he speaks the words dozens of lighted arrows pelt the bodies ajani doesn't turn, and the funeral pyre burns against the dawn</p>
+<p class="speech-line">Ok next one is a MASSIVE scene, we start from the palace it's early morning an hour before dawn ajani is wearing an uncharacteristic black robe and so is everyone else, 40 coffins are being loaded and carried by the bright paw guards, the Hummans are as well carrying their dead along with the Pyrinae the funeral procession walks through the city, in absolute Silence, wherever it passes wengari, Humman and pyranei join, Nikolai is walking next to ajani on his right, on his left the veylar queen, when they reach the gate, the dead are placed in a line and ajani turns to the Crowd and speaks "Life in the desert is hard only those strong enough survive and the weak die, however those behind me despite being dead are the strongest of us all, there is no higher honor than dying to protect your cubs and mate,  there is no one strongest that the one who knows will face certain death and yet he embraces it with a smile on his face, no greater power than that of the one who overcomes it's fear and fights along those different than him self for a greater cause , the brothers and sisters behind spirits have returned to their ancestors it is time their bodies do so now, GHOSTS RELEASE YOUR ARROWS" as soon as he speaks the words dozens of lighted arrows pelt the bodies ajani doesn't turn, and the funeral pyre burns against the dawn</p>
 </div>
 
 
@@ -505,7 +505,7 @@ Zephyr raised one lacquered claw. And the legion answered with a sound that was 
 
 
 <div class="dialogue-block">
-<p class="speech-line">Sylva hands another scroll to ajani he again unfolds if with a theatrical flair and says "Tamsin of the hummans present yourself to the crown!"</p>
+<p class="speech-line">Sylva hands another scroll to ajani he again unfolds if with a theatrical flair and says "Tamsin of the Hummans present yourself to the crown!"</p>
 </div>
 
 
@@ -916,7 +916,7 @@ At the gate, Nikolai lowered his halberd entirely. His fighting spirit was gone.
 
 
 <div class="dialogue-block">
-<p class="speech-line">Nikolai turns and says utterly defeated "Come humman, and perhaps next time bring better guards ?" As he slowly very slowly walks back to the capital cursing his luck</p>
+<p class="speech-line">Nikolai turns and says utterly defeated "Come Humman, and perhaps next time bring better guards ?" As he slowly very slowly walks back to the capital cursing his luck</p>
 </div>
 
 

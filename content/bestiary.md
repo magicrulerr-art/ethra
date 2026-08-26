@@ -21,7 +21,7 @@ Seven sentient races survive on Ethra, remnants of a once more diverse populatio
 | Family | Feline Type | Habitat |
 |--------|-------------|---------|
 | Shadow Paws | Panthers | Rune Belt |
-| Mottled Paws | Jaguars | Rune Belt |
+| Motted Paws | Jaguars | Rune Belt |
 | Bright Paws | Lions | Steadfast Desert |
 | Stripe Paws | Tigers | Rune Belt |
 | Snow Paws | Snow Leopards | Umbral Ring |
@@ -37,7 +37,7 @@ The **Bright Paw Royal Family** possesses a unique legacy: they can harness Sorc
 **Internal Politics:** The Bright Paws have been the ruling faction for over a thousand years and four Tide cycles due to their overwhelming might. No other family has been able to match them.
 
 <picture><source srcset="/static/images/shadow-paw-v2.webp" type="image/webp" /><source srcset="/static/images/shadow-paw-v2.jpg" type="image/jpeg" /><img src="/static/images/shadow-paw-v2.png" alt="Shadow Paw Warrior" class="creature-portrait" style="max-width:350px;float:right;margin:0 0 1em 1em;border:2px solid #333;"></picture>
-<picture><source srcset="/static/images/mottled-paw.webp" type="image/webp" /><source srcset="/static/images/mottled-paw.jpg" type="image/jpeg" /><img src="/static/images/mottled-paw.png" alt="Mottled Paw Warrior" class="creature-portrait" style="max-width:350px;float:right;margin:0 0 1em 1em;border:2px solid #333;"></picture>
+<picture><source srcset="/static/images/motted-paw.webp" type="image/webp" /><source srcset="/static/images/motted-paw.jpg" type="image/jpeg" /><img src="/static/images/motted-paw.png" alt="Motted Paw Warrior" class="creature-portrait" style="max-width:350px;float:right;margin:0 0 1em 1em;border:2px solid #333;"></picture>
 <picture><source srcset="/static/images/stripe-paw.webp" type="image/webp" /><source srcset="/static/images/stripe-paw.jpg" type="image/jpeg" /><img src="/static/images/stripe-paw.png" alt="Stripe Paw Warrior" class="creature-portrait" style="max-width:350px;float:right;margin:0 0 1em 1em;border:2px solid #333;"></picture>
 <picture><source srcset="/static/images/snow-paw-v3.webp" type="image/webp" /><source srcset="/static/images/snow-paw-v3.jpg" type="image/jpeg" /><img src="/static/images/snow-paw-v3.png" alt="Snow Paw Warrior" class="creature-portrait" style="max-width:350px;float:right;margin:0 0 1em 1em;border:2px solid #333;"></picture>
 

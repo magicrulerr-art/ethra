@@ -48,7 +48,7 @@
       "x_pct": 30.7,
       "y_pct": 35.9,
       "image_full": "/static/images/tide-wolf.png",
-      "subtitle": "Bright Paws / Shadow Paws / Mottled Paws / Stripe Paws / Snow Paws"
+      "subtitle": "Bright Paws / Shadow Paws / Motted Paws / Stripe Paws / Snow Paws"
     },
     {
       "kind": "creature",
@@ -163,11 +163,11 @@
     {
       "kind": "creature",
       "biome": "rune-belt",
-      "slug": "mottled-paw",
-      "name": "Mottled Paw",
+      "slug": "motted-paw",
+      "name": "Motted Paw",
       "x_pct": 40.5,
       "y_pct": 57.5,
-      "image_full": "/static/images/mottled-paw.png"
+      "image_full": "/static/images/motted-paw.png"
     },
     {
       "kind": "creature",

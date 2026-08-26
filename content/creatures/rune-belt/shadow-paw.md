@@ -27,4 +27,4 @@ Nomadic and deeply warlike. The Shadow Paws were unified by the First Tyrant, wh
 
 ## Relationship to Rune Belt
 
-Primary inhabitants alongside Mottled and Stripe paws. The Shadow Paws maintain traditional nomadic lifestyle, following the Tide Wolf migrations for hunting and ritual purposes.
+Primary inhabitants alongside Motted and Stripe paws. The Shadow Paws maintain traditional nomadic lifestyle, following the Tide Wolf migrations for hunting and ritual purposes.
