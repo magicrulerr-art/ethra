@@ -101,7 +101,7 @@ Zara spoke first. The Stripe Paw chief's golden eyes gleamed with something that
 </div>
 
 <div class="dialogue-block">
-Kareth inclined his scarred head. <span class="speech">"The Shadow Paws have many who fit this description. We will send the best of them. They will watch the other envoys. They will watch the Bright Paws. They will watch each other. And they will report to me, and I will report to the regent, and the regent will report to you."</span> He paused, his one good eye meeting Ajani's. <span class="speech">"This is the old way. Before the pact. Before the cities. The families kept each other honest through suspicion. You have reinvented it. The Shadow Paws approve."</span>
+Kareth dipped his scarred head. <span class="speech">"The Shadow Paws have many who fit this description. We will send the best of them. They will watch the other envoys. They will watch the Bright Paws. They will watch each other. And they will report to me, and I will report to the regent, and the regent will report to you."</span> He paused, his one good eye meeting Ajani's. <span class="speech">"This is the old way. Before the pact. Before the cities. The families kept each other honest through suspicion. You have reinvented it. The Shadow Paws approve."</span>
 </div>
 
 <div class="dialogue-block">
@@ -201,7 +201,7 @@ Their High Priest had been humbled before the throne. They were not a fifth fami
 Solen, the High Priest, rose slowly. His golden mane was still dulled, his ancient shoulders still bowed from the weight of the tournament's humiliation. But his voice, when he spoke, was steady. <span class="speech">"The Bright Paws have no objection. We have not earned a full share. We have not earned anything. We will take what the king gives us, and we will work to become worthy of more."</span> He paused, his golden eyes meeting Ajani's. <span class="speech">"But we are still the royal family. We are still the blood of the Lightbringer. We will train. We will learn. We will claw our way back from the shadows. And when we are strong again—when we have earned it—we will ask for our full share. Not before."</span>
 </div>
 
-Zara, who had been ready to argue numbers and percentages, closed her mouth. Kareth inclined his scarred head, a gesture of respect that was rare from the Shadow Paw elder. Sylva's silver aura flickered gently in the shadows beside the throne, and her ancient eyes held something that might have been approval.
+Zara, who had been ready to argue numbers and percentages, closed her mouth. Kareth inclined his scarred head, a gesture of respect that was rare from the Shadow Paw elder. Sylva's silver aura pulsed, soft and low, in the shadows beside the throne, and her ancient eyes held something that might have been approval.
 
 
 <div class="dialogue-block">
@@ -279,7 +279,7 @@ The elders did not erupt this time. They leaned forward. The king had just refra
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">Kareth inclined his scarred head. "The Shadow Paws have always been the silent observers. We will watch the other races when they come. We will learn their weaknesses. We will learn their secrets. The Eight Points were honed in darkness. The darkness will now be cast over every race that sets foot in this arena."</p>
+<p class="speech-line">Kareth gave a slow, measured nod. "The Shadow Paws have always been the silent observers. We will watch the other races when they come. We will learn their weaknesses. We will learn their secrets. The Eight Points were honed in darkness. The darkness will now be cast over every race that sets foot in this arena."</p>
 </div>
 
 
@@ -298,11 +298,11 @@ Zara spoke first, her rough voice uncharacteristically gentle. <span class="spee
 </div>
 
 <div class="dialogue-block">
-Kareth inclined his scarred head. <span class="speech">"The Shadow Paws will also propose candidates. The security advisor should be one of ours—we have been the shadows of the Wengari for five thousand years. But we will not demand it. We will earn it. And the grand vizier—"</span> He paused, his one good eye moving to Sylva. <span class="speech">"That office belongs to the regent. The Motted Paw has proven herself in the tournament and in this council. We have no objection."</span>
+The old Shadow Paw inclined his head. <span class="speech">"The Shadow Paws will also propose candidates. The security advisor should be one of ours—we have been the shadows of the Wengari for five thousand years. But we will not demand it. We will earn it. And the grand vizier—"</span> He paused, his one good eye moving to Sylva. <span class="speech">"That office belongs to the regent. The Motted Paw has proven herself in the tournament and in this council. We have no objection."</span>
 </div>
 
 <div class="dialogue-block">
-Sylva's silver aura flickered gently. <span class="speech">"The Motted Paws will serve where we are needed. The office of foreign advisor seems suited to our skills. We have been silent observers for five thousand years. We have learned the ways of the other races. We will advise the crown on all matters beyond our borders. And as grand vizier—"</span> She inclined her elegant head toward Ajani. <span class="speech">"I will serve. When the crown is in the capital, the regent will be the grand vizier. When the crown is abroad, the regent will rule. This is a clean division of power. The Motted Paws accept."</span>
+Sylva's silver aura shimmered faintly. <span class="speech">"The Motted Paws will serve where we are needed. The office of foreign advisor seems suited to our skills. We have been silent observers for five thousand years. We have learned the ways of the other races. We will advise the crown on all matters beyond our borders. And as grand vizier—"</span> She inclined her elegant head toward Ajani. <span class="speech">"I will serve. When the crown is in the capital, the regent will be the grand vizier. When the crown is abroad, the regent will rule. This is a clean division of power. The Motted Paws accept."</span>
 </div>
 
 <div class="dialogue-block">
@@ -322,7 +322,7 @@ Zara's golden eyes narrowed with calculation, but it was a different kind of cal
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">Kareth inclined his scarred head. "The Shadow Paws propose Maren. She is an assassin by training, but her true skill is observation. She watches. She remembers. She notices when numbers do not balance and when stories do not align. She has no interest in wealth—she lives like a shadow and requires nothing but her blades and her duty. She will be incorruptible. She will also be terrifying to those who attempt to deceive her. This combination seems suited to the role."</p>
+<p class="speech-line">Kareth's scarred head dipped. "The Shadow Paws propose Maren. She is an assassin by training, but her true skill is observation. She watches. She remembers. She notices when numbers do not balance and when stories do not align. She has no interest in wealth—she lives like a shadow and requires nothing but her blades and her duty. She will be incorruptible. She will also be terrifying to those who attempt to deceive her. This combination seems suited to the role."</p>
 </div>
 
 <div class="dialogue-block">
@@ -412,7 +412,7 @@ Zara let out a low, rumbling laugh. <span class="speech">"Do not eat their child
 </div>
 
 <div class="dialogue-block">
-Kareth inclined his scarred head. <span class="speech">"The Shadow Paws are not suited to this role. We are the darkness. We are the fear. Every race on Ethra knows that a Shadow Paw in the shadows means death. We cannot be the face of welcome. But we can support whoever takes this office. We can ensure the delegations are safe—truly safe, not merely appearing safe. And we can keep the other families in line when their instincts scream at them to do exactly what the king has forbidden."</span> He paused. <span class="speech">"Do not eat their children. The fact that you must say this aloud is an indictment of our people."</span>
+Kareth nodded once, his scarred head dipping. <span class="speech">"The Shadow Paws are not suited to this role. We are the darkness. We are the fear. Every race on Ethra knows that a Shadow Paw in the shadows means death. We cannot be the face of welcome. But we can support whoever takes this office. We can ensure the delegations are safe—truly safe, not merely appearing safe. And we can keep the other families in line when their instincts scream at them to do exactly what the king has forbidden."</span> He paused. <span class="speech">"Do not eat their children. The fact that you must say this aloud is an indictment of our people."</span>
 </div>
 
 <div class="dialogue-block">
@@ -440,7 +440,7 @@ Zara was the first to speak, and her voice carried the particular weight of a me
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">Sylva's silver aura flickered gently. She had been declined—her offer to serve as foreign advisor while holding the regency was refused, and she had been told that no one could hold two offices at once. She did not seem troubled. "The Motted Paws accept. I will propose a candidate for foreign advisor. She is young—younger than I am, younger than most of the elders in this hall. Her name is Elyra. She fought in the tournament. She lost to me in the second phase, but she learned from the loss. She has spent the years since studying the languages of the other races, preparing for the day when the Motted Paws would be called to serve. That day has come. She will be ready."</p>
+<p class="speech-line">A slow flicker passed through Sylva's silver aura. She had been declined—her offer to serve as foreign advisor while holding the regency was refused, and she had been told that no one could hold two offices at once. She did not seem troubled. "The Motted Paws accept. I will propose a candidate for foreign advisor. She is young—younger than I am, younger than most of the elders in this hall. Her name is Elyra. She fought in the tournament. She lost to me in the second phase, but she learned from the loss. She has spent the years since studying the languages of the other races, preparing for the day when the Motted Paws would be called to serve. That day has come. She will be ready."</p>
 </div>
 
 <div class="dialogue-block">
@@ -455,7 +455,7 @@ Zara was the first to speak, and her voice carried the particular weight of a me
 <p class="speech-line">"I accept, and now for the grand visir, he can stay in office as long as he keeps winning tournaments if he can hold it for life, he can, he will oversee the other offices and be advisor to the crown, he will enact the crowns policy and law, you should treat the office as the crown itself, which means I will be offloading almost all my work to them !!" <span class="speech-attr">- 'got you old bastards!!'</span></p>
 </div>
 
-The silence that followed was not the silence of shock—the elders had absorbed too many revelations in too short a time for shock—but the silence of predators reassessing the terrain. The king had just announced that the grand vizier, the most powerful office in the new government, would be tied to the tournament. Win the tournament, hold the office. Hold it for life, if you could keep winning. The crown's authority, the crown's policy, the crown's law—all of it offloaded onto the grand vizier's shoulders.
+What followed was not the silence of shock—the elders had absorbed too many revelations in too short a time for shock—but the silence of predators reassessing the terrain. The king had just announced that the grand vizier, the most powerful office in the new government, would be tied to the tournament. Win the tournament, hold the office. Hold it for life, if you could keep winning. The crown's authority, the crown's policy, the crown's law—all of it offloaded onto the grand vizier's shoulders.
 
 And the king? The king would be free. Free to build the road. Free to travel. Free to fight. Free to leave the crushing weight of governance on someone else's back while he did what he had been aching to do since the moment he returned from the marshes.
 
@@ -468,7 +468,7 @@ Kareth's scarred face was unreadable, but his one good eye gleamed. <span class=
 </div>
 
 <div class="dialogue-block">
-Sylva's silver aura flickered gently. <span class="speech">"The grand vizier will hold the crown's authority. They will enact the crown's policy and law. They will oversee the other offices. But they will not be the crown. The king can still intervene if the grand vizier exceeds their mandate. The king can still overrule if the grand vizier errs. The office is powerful, but it is not absolute. That is a necessary balance."</span> She paused, her ancient eyes meeting Ajani's. <span class="speech">"I am regent. I will hold the grand vizier's office until the next tournament, when a champion will be chosen to replace me. I accept this. But I will also ensure that the grand vizier does not become a tyrant. The Motted Paws have been silent for five thousand years. We will be silent no longer."</span>
+Sylva's silver aura stirred. <span class="speech">"The grand vizier will hold the crown's authority. They will enact the crown's policy and law. They will oversee the other offices. But they will not be the crown. The king can still intervene if the grand vizier exceeds their mandate. The king can still overrule if the grand vizier errs. The office is powerful, but it is not absolute. That is a necessary balance."</span> She paused, her ancient eyes meeting Ajani's. <span class="speech">"I am regent. I will hold the grand vizier's office until the next tournament, when a champion will be chosen to replace me. I accept this. But I will also ensure that the grand vizier does not become a tyrant. The Motted Paws have been silent for five thousand years. We will be silent no longer."</span>
 </div>
 
 <div class="dialogue-block">
@@ -724,7 +724,7 @@ The claw tap continued its slow, steady rhythm against the armrest of the throne
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">Sylva's silver aura flickered gently. "You ask for much, Ambassador. Permanent trade stalls. Training for champions. Housing and protection for your guilds. A voice in the council. These are not small requests. What do you offer in return, beyond gratitude?"</p>
+<p class="speech-line">Sylva's silver aura dimmed, then steadied. "You ask for much, Ambassador. Permanent trade stalls. Training for champions. Housing and protection for your guilds. A voice in the council. These are not small requests. What do you offer in return, beyond gratitude?"</p>
 </div>
 
 'this is so boring... I hope Sylva at least makes this quick'
@@ -991,7 +991,7 @@ Lena set down the brush. Her dark eyes, when they met Sylva's, were steady. <spa
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">Sylva's silver aura flickered gently. "You will not fail. You are too stubborn. Now finish the channel. We have much to do before the evening meal."</p>
+<p class="speech-line">Sylva's silver aura pulsed gently. "You will not fail. You are too stubborn. Now finish the channel. We have much to do before the evening meal."</p>
 </div>
 
 The morning training sessions had become a ritual. Ajani rose before dawn, before the petitioners and the elders and the endless scrolls of governance could find him, and made his way to the arena. The arena was empty at this hour, the stone tiers silent, the sand cool beneath his paws. He had trained here with L'vat in the marshes, drilled the saber until his claws bled, fought the green deaths until his body remembered the forms even when his mind could not. Now he trained alone.
@@ -1117,7 +1117,7 @@ The roots of the Kyre Tree pulsed in slow, rhythmic waves, the pale green light 
 
 And in return, I give them a fraction of my aura. A taste of strength. A feeling of being chosen. This will make them come back. This will make others follow. This is a cycle that feeds itself. This is not merely a feast. This is an arrangement that could endure for millennia.'
 
-The roots pulsed faster, brighter, the green light flickering with something that might have been excitement or might have been calculation. The Tree was not merely listening now. It was imagining. It was projecting forward across centuries, tracing the implications of what Ajani had proposed.
+The roots pulsed brighter, faster, the green light flickering with something that might have been excitement or might have been calculation. The Tree was not merely listening now. It was imagining. It was projecting forward across centuries, tracing the implications of what Ajani had proposed.
 
 'You say no one must know I feed on them. You say we must blame it on the sun. The gathering of the strong—I will sap them when they enter the city. In the gardens. During their parades. They will feel weak. They will think the desert is harsh. They will think the sun is cruel. They will not think of me. And the ones who live here—the Wengari, who are already accustomed to my hunger—they will barely notice.
 
@@ -1167,7 +1167,7 @@ Not merely to feed on whoever wandered too close, but to choose. To summon. To b
 
 If they die, they were weak, and I will feed on them anyway. Either way, I am nourished. Either way, the myth grows stronger. This is elegant. This is sustainable. The deception deepens with every choice I make.'
 
-The roots pulsed faster, brighter, the green light flickering with something that might have been excitement or might have been hunger. The Tree was not merely accepting the pact now. It was shaping it. Refining it. Adding its own ancient cunning to the design.
+The roots pulsed, faster and brighter, the green light flickering with something that might have been excitement or might have been hunger. The Tree was not merely accepting the pact now. It was shaping it. Refining it. Adding its own ancient cunning to the design.
 
 'I will choose the strong ones. The ones whose aura burns brightest. The ones whose ambition and pride and desperation make them delicious. I will send them a sign—a glow at the edge of their vision, a sound in the stillness before dawn, a dream of golden light and ancient wells. They will know they have been chosen. They will come. And if they survive the pilgrimage, they will return stronger, bearing my mark, and they will tell others.
 
@@ -1290,7 +1290,7 @@ The light show lasted perhaps five seconds. Perhaps ten. No one would ever agree
 
 But the crowd had seen it. Every Wengari in the plaza had witnessed something—something different, something personal, something that defied easy description. The cub had seen a shower of gold. The merchant had seen morning dew. The Shadow Paw had seen living light. The priest had seen Styx fire. And every single one of them would carry that memory to their graves, would tell their children and their grandchildren about the day the Golden Sun woke and made himself known in the plaza at noon.
 
-Below the plaza, in the ancient darkness, the lord of the desert felt the surge of belief ripple through the stone and settled back into its patient, hungry waiting. The flowers had bloomed. The light had bent. The myth was born. And the White Dawn, standing on his stone platform with the green fire flickering gently along his claws, allowed himself the faintest, most private of smiles. The old thing had come through. The Golden Sun was real now. And the pilgrims would come.
+
 
 <div class="dialogue-block">
 <p class="speech-line">'breathe, slowly, it went well, I thought I was going to get skewered here, he barely made it in time, stupid old thing' - "HE ALSO SHOWED ME HE WILL HELP OUR FRIENDS THE PYRINAE HE ALSO WANTS TO MAKE THEM STRONG, HE SHOWED ME A VISION, FIVE CITIES LIGHTING UP, FLOURISHING, I THINK IT MEANS HE WILL REACH TO THEM AS HE DID TO US, HE WANTS TO MAKE US STRONG, HE WANTS THE WENGARI TO BE THE RULERS OF ETHRA!!, BROTHERS, I WILL BE THE FIRST TO TAKE THE PILGRIMAGE, ONCE HE SHOWS ME THE WAY, I WILL WALK IT AND IF I SURVIVE, I'LL MAKE A TEMPLE THERE, SO YOU ALL KNOW WHERE TO GO, HE SHOWED ME A LAST VISION, IN MY DREAM I SAW AN OLD ROUGH WENGARI, HE SAW A LIGHT, HE KNEW, HE HAD BEEN CHOSEN, HE WALKED THE PATH, AND WHEN HE RETURNED, HE WON THE TOURNAMENT, HE WON THE CROWN!"</p>
@@ -1316,13 +1316,13 @@ Near the eastern fountain, the Humman ambassador Seris stood very still. Her dar
 
 The tournament would draw the strong. The pilgrimage would test them. The Golden Sun would bless them. And the Wengari would rule Ethra not merely through strength, but through the belief that their strength was divinely ordained. She said nothing. Her daughter was in Sylva's service. Her merchants were dead. She was learning. She was waiting.
 
-Sylva stood motionless at Ajani's side, her silver-chased ceremonial armor gleaming in the noon light. The faint flicker of her silver aura was the only sign of her thoughts. The king had just promised the Pyrinae that the Golden Sun would reach them. He had not consulted her. He had not consulted the Pyrinae. He had simply announced it, in the plaza, at noon, while the light of the Golden Sun still shimmered in the memory of the crowd.
 
-The elders would hear of this. They would have questions. They would have objections. But by the time those objections reached the capital, the myth would already be rooted. The pilgrims would already be walking. The Golden Sun would already be real.
 
 Below the plaza, in the ancient darkness, the lord of the desert stirred. The Golden Sun felt the surge of belief ripple through the stone above—felt the ambition of the young warrior, the hope of the old merchant, the quiet calculation of the Humman ambassador, the fierce pride of the Wengari who now believed they were chosen. It felt the energy of thousands of creatures, all of them turning their thoughts toward the light it had made, the myth it had become.
 
 The White Dawn had promised a self-sustaining feast. The White Dawn was delivering. And the Golden Sun, patient and hungry and ancient beyond memory, settled back into its waiting and began to plan which pilgrim it would choose first.
+
+And the White Dawn, standing on his stone platform with the green fire flickering gently along his claws, allowed himself the faintest, most private of smiles. The old thing had come through. The Golden Sun was real now.
 
 <div class="dialogue-block">
 <p class="speech-line">'good, now all of them will walk it, this is so tiring.. I need a bath' - "BROTHERS, I'LL RETIRE NOW, BUT BEFORE I LEAVE, I HAVE A LAST PIECE OF ADVICE, THE DESERT SUN JUST AS UNFORGIVING AS OUR BROTHER, IF YOU ARE CHOSEN, DON'T TAKE IT LIGHTLY IF YOU FALL, YOU'LL HAVE NO ONE TO BLAME BUT YOURSELVES"</p>
@@ -2035,7 +2035,7 @@ She brought the message to Sylva personally. <span class="speech">"The Humman am
 </div>
 
 <div class="dialogue-block">
-Sylva's silver aura flickered gently. <span class="speech">"The intelligence network is working as designed. The Shadow Paws are watching. The Pyrinae are reporting. The Motted Paws are observing. And the Humman ambassador, for all her cunning, has just revealed every contact she possesses."</span> She paused, her ancient eyes meeting Elyra's. <span class="speech">"The king will want to know. But he will also want to see how this plays out. Let the threads come to him. Let Seris wait. Desperation is a teacher. Let her learn."</span>
+Sylva's silver aura rippled once. <span class="speech">"The intelligence network is working as designed. The Shadow Paws are watching. The Pyrinae are reporting. The Motted Paws are observing. And the Humman ambassador, for all her cunning, has just revealed every contact she possesses."</span> She paused, her ancient eyes meeting Elyra's. <span class="speech">"The king will want to know. But he will also want to see how this plays out. Let the threads come to him. Let Seris wait. Desperation is a teacher. Let her learn."</span>
 </div>
 The reports reached Ajani in his private chambers, where he sat with Kira beside the window overlooking the hanging gardens. The cub was curled on a cushion, a half-eaten plate of dried fruit beside her, her dark pelt still bearing the faint sheen of the bath Sera had insisted on. She had been quiet since the Great Hall—not frightened, not shaken, but thoughtful.
 

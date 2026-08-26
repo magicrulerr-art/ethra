@@ -2345,7 +2345,7 @@ Sylva flowed. Not backward, not sideways—down. Her body dropped beneath the st
 
 
 <div class="dialogue-block">
-<span class="speech">"The staff is the grandfather,"</span> she said quietly, her soft voice carrying across the silent platform. <span class="speech">"It protects. It does not deceive. You used it as a weapon of ambush. That is not the art. That is cleverness. Cleverness is not wisdom."</span> She stepped back, her silver aura flickering gently. <span class="speech">"Try again."</span>
+<span class="speech">"The staff is the grandfather,"</span> she said, her quiet voice carrying across the silent platform. <span class="speech">"It protects. It does not deceive. You used it as a weapon of ambush. That is not the art. That is cleverness. Cleverness is not wisdom."</span> She stepped back, her silver aura flickering gently. <span class="speech">"Try again."</span>
 </div>
 
 
@@ -2422,7 +2422,7 @@ It caught Sylva's extended arm at the wrist and guided it gently, inexorably, aw
 
 
 <div class="dialogue-block">
-The crowd erupted. The Styx screamed. Sylva looked down at the green blade against her wrist, then up at the young king whose chest was heaving, whose golden mane was a mess, whose green-flecked eyes were wide with the dawning realization of what he had just done. She smiled—a small, private expression, meant only for him. <span class="speech">"The feint,"</span> she said quietly, her soft voice carrying across the silent platform. <span class="speech">"You learned something after all. The ji was the distraction. The saber was the truth. Well played."</span>
+The crowd erupted. The Styx screamed. Sylva looked down at the green blade against her wrist, then up at the young king whose chest was heaving, whose golden mane was a mess, whose green-flecked eyes were wide with the dawning realization of what he had just done. She smiled—a small, private expression, meant only for him. <span class="speech">"The feint,"</span> Her soft voice carried across the hush of the platform. <span class="speech">"You learned something after all. The ji was the distraction. The saber was the truth. Well played."</span>
 </div>
 
 

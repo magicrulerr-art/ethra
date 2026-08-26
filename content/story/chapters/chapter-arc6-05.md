@@ -1,51 +1,5 @@
 ## Chapter 5: Epilogue
 
-Nikolai watched the exchange with the carefully impassive face of a king who was assessing information. *That's an incomplete form,* he thought. *The ji—the weapon he used to best me—is an incomplete form. He defeated me with a technique he has not yet mastered.* His stern face betrayed nothing. But his pale blue eyes flickered with something that was not quite alarm and not quite admiration.
-
-
-Vanya and Nadya had descended from the snow wurm and were standing at the edge of the celebration, their pale blue eyes fixed on Ajani with expressions that were not remotely subtle. Vanya's gaze was assessing—she had just watched a king defeat her father with an incomplete form, and she was recalculating everything she had assumed about the southern Wengari. Nadya's gaze was something else entirely.
-
-
-<div class="dialogue-block">
-<p class="speech-line">"He's taller than I remembered," <span class="speech-attr">Nadya said quietly.</span></p>
-</div>
-
-
-<div class="dialogue-block">
-<span class="speech">"You threw snowballs at him for a month,"</span> Vanya said. <span class="speech">"He probably doesn't remember you."</span>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">"He'll remember me. I'll make sure of it."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Yvaria had recovered from her missed lunge and was advancing on Ajani with the determined stride of someone who had been publicly humiliated and was not going to let it stand. "Your Highness! You dodged! I crossed the desert for the queen's escort and then flew back ahead of the delegation to see you and you—you—you sent your scorpions after your sister instead!"</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">"I haven't seen Kira in weeks. You've been gone for three days."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">"Three days is an eternity! I am your personal nurse! I am your—"</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">"You appointed yourself my personal nurse. While I was unconscious. I didn't get a vote."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Lira had materialized at Ajani's other side, her lacquered claws gleaming, her dark eyes fixed on Yvaria with the cold, patient hatred of someone who had been competing for the king's attention and was not about to lose ground. "The king is unharmed. The king does not need a nurse. The king needs a guard. I am his guard."</p>
-</div>
-
-
 <div class="dialogue-block">
 <p class="speech-line">"You were his guard before the war and you let a stranger walk past you into his chambers."</p>
 </div>

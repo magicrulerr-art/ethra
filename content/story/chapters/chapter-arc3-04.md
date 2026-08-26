@@ -537,8 +537,3 @@ Zara, standing at the opposite fence rail, exchanged a glance with Kareth. The S
 He was gesturing now, his claws tracing tactical diagrams in the air. The green fire flickered along his knuckles, forgotten. The white cloak trailed in the dust. The king of the Wengari, the White Dawn, the heir of the Lightbringer, was calling out combat analysis like a caravan master at a way-station brawl, and every Wengari in the arena was watching him with expressions ranging from bewilderment to barely suppressed laughter.
 
 He noticed none of it. The fire feet thundered past again, and Ajani Brightmane, first of his name, son of Uthgard IX, keeper of the pact, leaned over the fence rail and shouted with the pure, unguarded joy of someone who had forgotten he was supposed to be regal.
-
-
-<div class="dialogue-block">
-<p class="speech-line">"YES! That's it, Torin! Cut him off! Now Sylva comes from the blind side—she's been waiting the whole match for this opening, she's been patient for five thousand years and she's not going to waste it now—GO! GO! GO!"</p>
-</div>

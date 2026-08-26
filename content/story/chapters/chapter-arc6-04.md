@@ -1,28 +1,5 @@
 ## Chapter 4: The Road Begins
 
-And standing slightly apart, trying very hard to look formal and failing utterly, was the youngest son. Ivan. He was the same age as Kira, the same height as Kira, and the moment he saw her—a dark-furred Wengari girl with a white scorpion on her shoulder, walking through the snow like she belonged there—his pale blue eyes went very wide. His mouth opened slightly. His tail gave a single, involuntary twitch.
-
-Vanya noticed. Nadya noticed. Anastasia noticed. Nikolai noticed. No one said anything. Ivan did not stop staring.
-
-
-<div class="dialogue-block">
-Nikolai stepped forward, his voice deep and resonant, carrying the weight of five thousand years of isolation. <span class="speech">"Cefiro. You are home."</span> He looked at Kira, his pale blue eyes taking in her dark fur, her fierce expression, the practice saber still strapped to her back. <span class="speech">"And you have brought a guest. A Shadow Paw. The stories the wanderer told us were true. There are indeed more Wengari."</span>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Cefiro inclined his head. "This is Kira Brightmane. Adopted sister of Ajani Brightmane, first of his name, White Dawn, king of the Wengari. She has come to see the Ice City and to bring word of the south."</p>
-</div>
-
-
-The silence that followed was absolute. Even the wind seemed to pause. Vanya's sharp eyes widened. Nadya's fierce expression flickered with something that was not quite shock and not quite delight. Anastasia's quiet, frightening stillness deepened. Nikolai's massive frame seemed to grow even larger. Ivan was still staring at Kira and had not heard a word anyone had said.
-
-
-<div class="dialogue-block">
-<span class="speech">"He is king,"</span> Nikolai said. It was not a question. <span class="speech">"The starving boy who wandered into our city three years ago is now a king."</span> Cefiro nodded. <span class="speech">"He is not merely a king. He is a White Dawn. Convergence-born. Touched by both suns. He renewed the pact with the lord of the desert. He trained under the lord of the marsh. He freed the Pyrinae from three thousand years of vassalage. He held a tournament and put his crown on the line. He survived an assassination attempt, a coup, a coma, and a war. He summoned six elemental spirits and destroyed a Plague creature with a thunderstorm. He has united the four families under a new government. He has built offices and councils and trade routes. The Shadow Paws fight for him. The Motted Paws serve as his regent. The Stripe Paws carry his coin. The Bright Paws are learning to be strong again. And he sent me here with the royal seal and an invitation from one king to another."</span> He produced the seal from his cloak. <span class="speech">"Ajani Brightmane requests formal diplomatic relations with the Snow Paws. He wishes for the fifth family to come home."</span>
-</div>
-
-
 <div class="dialogue-block">
 Vanya broke the silence. <span class="speech"><span class="speech">"Is he married?"</span></span> Nadya shoved her sister. <span class="speech">"Vanya! He's a king! You can't just—"</span> <span class="speech">"I'm asking. It's a legitimate question."</span> She turned back to Cefiro. "Is he married?"
 </div>
@@ -104,75 +81,6 @@ But Nikolai was also a king. A king who had just learned that his long-lost cous
 <div class="dialogue-block">
 <p class="speech-line">"Tell me about this war. The Plague War. You said the Humman king deployed weapons from Velarius. You said there was a creature. You said Ajani summoned elemental spirits and destroyed it. Tell me everything. Numbers. Tactics. Casualties. The state of the Wengari military. The strength of their walls. The loyalty of their generals. Everything a king would need to know about a potential ally."</p>
 </div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Cefiro set down his cup of Frostfire. "The Human army marched from Verdantis. Nine hundred kilometers. A thousand scorpion riders, fifty Tide Wolf cavalry, ten Amuk war-beasts. They arrived at dawn. The capital was defended by a garrison of twenty elite soldiers and a hundred volunteers. The Woh riders reinforced at the first hour. The ghosts at the second. The shadow riders at the third. The Humman king deployed Plague weapons—suicide scorpions, purple orbs. We lost Wohs and ghosts and riders. The wall was breached. The light shield fell. The mirror array fired its last shot. The Golden Cloaks rose. The creature manifested. Ajani woke. He summoned six elemental spirits and destroyed the creature with a thunderstorm. The Humman king is dead. The city is rebuilding. The generals are loyal. The elders have been bypassed. The military is stronger than it was before the war."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Nikolai listened without interruption. When Cefiro finished, the Tsar was silent for a long moment. Then he spoke, his deep voice quiet and contemplative. "I want to fight him. This White Dawn. This Ajani Brightmane. Three years ago, he was a starving boy who could not defeat my son in a sparring match. Now you tell me he is something else. Something more. I want to see it for myself."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">"You will. The royal seal he gave me includes an invitation. He wants the Snow Paws to come south. He wants the fifth family to return. There will be a memorial celebration for the fallen. He wants us there."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Nikolai nodded slowly. "Then we will go. I will bring a delegation. I will bring gifts. I will bring my family. And I will spar with the White Dawn. We will see if he is as strong as you say."</p>
-</div>
-
-
-<div class="dialogue-block">
-Vanya and Nadya had been listening to their own conversation, their heads bent together, their pale blue eyes flicking toward Cefiro with the predatory focus of sisters who wanted information. Vanya spoke first, her voice sharp and direct. <span class="speech">"The women of the south. Are any of them strong? I mean truly strong. Warriors. Champions. I have been training my whole life. I want to know if there is anyone worth fighting."</span> Cefiro considered this. <span class="speech">"There is Sera. Shadow Paw. Master of the Eight Points. She held the gate against four hundred scorpion riders with twenty soldiers. Her face is ruined from the battle, but she did not break. There is Reva. Stripe Paw. Two-star general. She lost fifteen Wohs in three seconds and kept fighting. There is Yvaria. Motted Paw. Two-star general. She led the ghosts through the Plague mist and caught Ajani when he fell from the sky. There is Sylva. Motted Paw. Regent of the Wengari. She won the king's tournament. She is the most patient warrior I have ever seen. She defeated Ajani in single combat and then yielded so he could keep the crown. There is Lira. Shadow Paw. Master of the Eight Points. She guards the king's sister. She was presented as a bride and dismissed as a misunderstanding, but she is deadly. Any of them would be worth fighting."</span>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Vanya's eyes blazed with anticipation. "Good. I will fight them all."</p>
-</div>
-
-
-<div class="dialogue-block">
-Nadya leaned forward. <span class="speech">"And the beautiful ones? The ones who are trying to marry Ajani? Are any of them as beautiful as me?"</span> She tossed her white mane over her shoulder with the practiced confidence of a sixteen-year-old princess who had never been told no. Cefiro closed his eyes. <span class="speech">"Yvaria has declared publicly that she will be his bride. She caught him when he fell from the sky. She has not left his side since the war. Lira was presented as a bride by the Shadow Paw elders. The king did not notice. The Pyrinae ambassador, a Sun-Walker named Mira, has been watching him with professional interest. The Motted Paw general, Yvaria—"</span> He stopped. <span class="speech">"I have already mentioned Yvaria. She is both strong and beautiful. She is also very persistent. Ajani has not noticed any of this. He is, as I have mentioned, alarmingly single."</span>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Nadya's eyes gleamed. "Then I still have a chance. I threw snowballs at him for a month. He didn't notice then, but I was twelve. I am sixteen now. He will notice."</p>
-</div>
-
-
-<div class="dialogue-block">
-<span class="speech">"He will not notice,"</span> Cefiro said flatly. <span class="speech">"He did not notice the assassin who tried to kill him until the scorpion melted him. He is the least observant king in the history of the Wengari. I do not believe he would notice a mate if they climbed into his bed and announced their intentions in formal court language."</span>
-</div>
-
-
-<div class="dialogue-block">
-Anastasia was still examining Pearl. The scorpion had climbed into her lap at some point during the conversation, her pale carapace gleaming against the Tsarina's white fur. Pearl's antennae waved contentedly as Anastasia traced the lines of her chitin with one gentle claw. <span class="speech">"She is remarkable. I have never seen a creature like this. The southern deserts produce such strange and beautiful things."</span> She looked up at Kira. <span class="speech">"You said there are two more. Larger. With dissolving beams in their tails. Are they all this affectionate?"</span> Kira nodded. <span class="speech">"Blackie and Reddy are bigger. They hide behind doors and jump out at people. Ajani thinks it's funny. The servants don't. But they're good. They're protective. They love him. They love me. Pearl is the smallest, but she's the bravest. She deflected the assassin's blade. She's the reason I'm alive."</span>
-</div>
-
-
-<div class="dialogue-block">
-Anastasia looked at Pearl, who was now making a soft, rumbling sound that was almost a purr. <span class="speech">"I would like to meet the others. When we go south."</span> She looked at her husband. <span class="speech">"We are going south. I have decided."</span> Nikolai inclined his head. <span class="speech">"I had already decided. But I am glad we agree."</span>
-</div>
-
-
-
-
-The dining hall of the Ice Palace was a vast chamber carved from living glacier, its walls enchanted to glow with a soft blue luminescence that cast no shadows. The meal was a feast of northern delicacies—roasted ice fish, preserved snow berries, haunches of white bear meat, and a clear, potent liquor that the Snow Paws called Frostfire.
-
-
-Kira sat between Cefiro and the empty chair that Ivan had claimed the moment he entered the room. Pearl was on the table beside her plate, her pale carapace gleaming in the blue luminescence, and the scorpion was already accepting choice cuts of fish from Kira's fork with the regal dignity of a creature who knew she was the center of attention.
-
-
-<div class="dialogue-block">
-<p class="speech-line">Nikolai leaned forward, his massive frame dwarfing the chair he sat in. "Tell me about this war. This Plague War. You said the Humman king deployed weapons. You said there was a creature. You said Ajani summoned elemental spirits and destroyed it. Tell me everything. Numbers. Tactics. Casualties. The state of the Wengari military. Everything a king would need to know about a potential ally."</p>
-</div>
-
 
 <div class="dialogue-block">
 <p class="speech-line">Cefiro set down his cup of Frostfire. "The Human army marched from Verdantis. Nine hundred kilometers. A thousand scorpion riders, fifty Tide Wolf cavalry, ten Amuk war-beasts."</p>
@@ -279,9 +187,71 @@ The dining hall was silent. Even the Frostfire seemed to have stopped burning. N
 </div>
 
 
+
+
+
 <div class="dialogue-block">
-Nikolai was silent for a long moment. Then he looked at his son, and his voice was very quiet. <span class="speech">"You have been in the south for less than a month. You have learned more about our people in that time than we have learned in five thousand years. The Snow Paws have been alone in the ice, tending our own fires, telling our own stories, and the world kept turning without us. Tyrants rose and fell. Pacts were made and broken. A Humman nearly destroyed the Wengari, and a White Dawn saved them. And we knew nothing of any of it."</span> He rose from his chair, his massive form casting a long shadow across the frozen table. <span class="speech">"We will go south. I will bring my family. I will bring gifts. I will bring questions. And I will spar with this White Dawn. We will see if he is as strong as my son claims."</span>
+<p class="speech-line">When Cefiro finished, the Tsar was silent for a long moment. Then he spoke, his deep voice quiet and contemplative. "I want to fight him. This White Dawn. This Ajani Brightmane. Three years ago, he was a starving boy who could not defeat my son in a sparring match. Now you tell me he is something else. Something more. I want to see it for myself."</p>
 </div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">"You will. The royal seal he gave me includes an invitation. He wants the Snow Paws to come south. He wants the fifth family to return. There will be a memorial celebration for the fallen. He wants us there."</p>
+</div>
+
+
+<div class="dialogue-block">
+Nikolai was silent for a long moment. Then he looked at his son, and his voice was very quiet. <span class="speech">"You have been in the south for less than a month. You have learned more about our people in that time than we have learned in five thousand years. The Snow Paws have been alone in the ice, tending our own fires, telling our own stories, and the world kept turning without us. Tyrants rose and fell. Pacts were made and broken. A Humman nearly destroyed the Wengari, and a White Dawn saved them. And we knew nothing of any of it."</span> He rose from his chair, his massive form casting a long shadow across the frozen table. <span class="speech">"Then we will go south. I will bring a delegation. I will bring my family. I will bring gifts. I will bring questions. And I will spar with this White Dawn. We will see if he is as strong as my son claims."</span>
+</div>
+
+
+
+
+
+<div class="dialogue-block">
+Vanya and Nadya had been listening to their own conversation, their heads bent together, their pale blue eyes flicking toward Cefiro with the predatory focus of sisters who wanted information. Vanya spoke first, her voice sharp and direct. <span class="speech">"The women of the south. Are any of them strong? I mean truly strong. Warriors. Champions. I have been training my whole life. I want to know if there is anyone worth fighting."</span> Cefiro considered this. <span class="speech">"There is Sera. Shadow Paw. Master of the Eight Points. She held the gate against four hundred scorpion riders with twenty soldiers. Her face is ruined from the battle, but she did not break. There is Reva. Stripe Paw. Two-star general. She lost fifteen Wohs in three seconds and kept fighting. There is Yvaria. Motted Paw. Two-star general. She led the ghosts through the Plague mist and caught Ajani when he fell from the sky. There is Sylva. Motted Paw. Regent of the Wengari. She won the king's tournament. She is the most patient warrior I have ever seen. She defeated Ajani in single combat and then yielded so he could keep the crown. There is Lira. Shadow Paw. Master of the Eight Points. She guards the king's sister. She was presented as a bride and dismissed as a misunderstanding, but she is deadly. Any of them would be worth fighting."</span>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Vanya's eyes blazed with anticipation. "Good. I will fight them all."</p>
+</div>
+
+
+<div class="dialogue-block">
+Nadya leaned forward. <span class="speech">"And the beautiful ones? The ones who are trying to marry Ajani? Are any of them as beautiful as me?"</span> She tossed her white mane over her shoulder with the practiced confidence of a sixteen-year-old princess who had never been told no. Cefiro closed his eyes. <span class="speech">"Yvaria has declared publicly that she will be his bride. She caught him when he fell from the sky. She has not left his side since the war. Lira was presented as a bride by the Shadow Paw elders. The king did not notice. The Pyrinae ambassador, a Sun-Walker named Mira, has been watching him with professional interest. The Motted Paw general, Yvaria—"</span> He stopped. <span class="speech">"I have already mentioned Yvaria. She is both strong and beautiful. She is also very persistent. Ajani has not noticed any of this. He is, as I have mentioned, alarmingly single."</span>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Nadya's eyes gleamed. "Then I still have a chance. I threw snowballs at him for a month. He didn't notice then, but I was twelve. I am sixteen now. He will notice."</p>
+</div>
+
+
+<div class="dialogue-block">
+<span class="speech">"He will not notice,"</span> Cefiro said flatly. <span class="speech">"He did not notice the assassin who tried to kill him until the scorpion melted him. He is the least observant king in the history of the Wengari. I do not believe he would notice a mate if they climbed into his bed and announced their intentions in formal court language."</span>
+</div>
+
+
+<div class="dialogue-block">
+Anastasia was still examining Pearl. The scorpion had climbed into her lap at some point during the conversation, her pale carapace gleaming against the Tsarina's white fur. Pearl's antennae waved contentedly as Anastasia traced the lines of her chitin with one gentle claw. <span class="speech">"She is remarkable. I have never seen a creature like this. The southern deserts produce such strange and beautiful things."</span> She looked up at Kira. <span class="speech">"You said there are two more. Larger. With dissolving beams in their tails. Are they all this affectionate?"</span> Kira nodded. <span class="speech">"Blackie and Reddy are bigger. They hide behind doors and jump out at people. Ajani thinks it's funny. The servants don't. But they're good. They're protective. They love him. They love me. Pearl is the smallest, but she's the bravest. She's the reason I'm alive."</span>
+</div>
+
+
+<div class="dialogue-block">
+Anastasia looked at Pearl, who was now making a soft, rumbling sound that was almost a purr. <span class="speech">"I would like to meet the others. When we go south."</span> She looked at her husband. <span class="speech">"We are going south. I have decided."</span> Nikolai inclined his head. <span class="speech">"I had already decided. But I am glad we agree."</span>
+</div>
+
+
+
+
+
+
+
+
+
+
+
 
 
 <div class="dialogue-block">
@@ -1266,4 +1236,50 @@ Pearl launched herself from Kira's shoulder and landed on Blackie's back, her pa
 
 <div class="dialogue-block">
 <p class="speech-line">"That does not make my statement less true!"</p>
+</div>
+
+
+Nikolai watched the exchange with the carefully impassive face of a king who was assessing information. *That's an incomplete form,* he thought. *The ji—the weapon he used to best me—is an incomplete form. He defeated me with a technique he has not yet mastered.* His stern face betrayed nothing. But his pale blue eyes flickered with something that was not quite alarm and not quite admiration.
+
+
+Vanya and Nadya had descended from the snow wurm and were standing at the edge of the celebration, their pale blue eyes fixed on Ajani with expressions that were not remotely subtle. Vanya's gaze was assessing—she had just watched a king defeat her father with an incomplete form, and she was recalculating everything she had assumed about the southern Wengari. Nadya's gaze was something else entirely.
+
+
+<div class="dialogue-block">
+<p class="speech-line">"He's taller than I remembered," <span class="speech-attr">Nadya said quietly.</span></p>
+</div>
+
+
+<div class="dialogue-block">
+<span class="speech">"You threw snowballs at him for a month,"</span> Vanya said. <span class="speech">"He probably doesn't remember you."</span>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">"He'll remember me. I'll make sure of it."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Yvaria had recovered from her missed lunge and was advancing on Ajani with the determined stride of someone who had been publicly humiliated and was not going to let it stand. "Your Highness! You dodged! I crossed the desert for the queen's escort and then flew back ahead of the delegation to see you and you—you—you sent your scorpions after your sister instead!"</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">"I haven't seen Kira in weeks. You've been gone for three days."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">"Three days is an eternity! I am your personal nurse! I am your—"</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">"You appointed yourself my personal nurse. While I was unconscious. I didn't get a vote."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Lira had materialized at Ajani's other side, her lacquered claws gleaming, her dark eyes fixed on Yvaria with the cold, patient hatred of someone who had been competing for the king's attention and was not about to lose ground. "The king is unharmed. The king does not need a nurse. The king needs a guard. I am his guard."</p>
 </div>

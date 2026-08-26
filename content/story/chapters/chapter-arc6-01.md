@@ -330,12 +330,7 @@ Yvaria made no effort to hide her appreciation. Her silver-furred arms crossed o
 </div>
 
 
-Cefiro flicked his wrist. A dense, cool mist erupted from the air around Ajani, swirling into a cylinder of opaque white fog that covered him from the shoulders down. The Snow Paw prince did not look up from his notebook.
 
-
-<div class="dialogue-block">
-<span class="speech">"This one does not know the customs of the southern court,"</span> he said, his accent precise and unhurried. <span class="speech">"But in the Great Ice City, a king does not conduct his first war council in his underfur. I will maintain the mist until suitable garments are found."</span> He paused, and the faintest trace of something—not quite amusement, not quite exasperation—entered his voice. <span class="speech">"You are welcome, cousin."</span>
-</div>
 
 
 <div class="dialogue-block">
@@ -344,7 +339,7 @@ Cefiro flicked his wrist. A dense, cool mist erupted from the air around Ajani, 
 
 
 <div class="dialogue-block">
-<p class="speech-line">Sylva stood very still. Her silver-chased armor was still dented, her ancient eyes still hollow, but something in her posture shifted as Ajani spoke. The resignation is not accepted. You fought to be regent. Now bear the weight till it's taken from you. It's not a prize. It's a burden. No one should want it. I don't want it, which is why I dumped it on you. She had expected dismissal. She had expected disgrace. She had expected the king to accept her resignation and send her back to the Motted Paw halls in shame. Instead, he had told her to keep carrying the weight she had tried to set down. Her voice, when she found it, was very quiet. "I understand, Your Highness. I will contact Maren regarding the pensions and reparations. The families of the fallen will be cared for."</p>
+<p class="speech-line">Sylva stood very still. Her silver-chased armor was still dented, her ancient eyes still hollow, but something in her posture shifted as Ajani spoke. <span class="speech">"The resignation is not accepted. You fought to be regent. Now bear the weight till it's taken from you. It's not a prize. It's a burden. No one should want it. I don't want it, which is why I dumped it on you."</span> She had expected dismissal. She had expected disgrace. She had expected the king to accept her resignation and send her back to the Motted Paw halls in shame. Instead, he had told her to keep carrying the weight she had tried to set down. Her voice, when she found it, was very quiet. "I understand, Your Highness. I will contact Maren regarding the pensions and reparations. The families of the fallen will be cared for."</p>
 </div>
 
 
@@ -1027,7 +1022,7 @@ Ajani’s eyes flickered with a cold, sharp light. He had not slept properly in 
 </div>
 
 
-The guard at the door bowed and departed. The throne room settled into silence, broken only by the soft breathing of Black Fire and Red Fire at Ajani's feet. The four generals remained at attention. Vasha's stylus had stopped moving. Sylva stood at the foot of the dais, her ancient eyes fixed on the door.
+The guard bowed and withdrew. The throne room settled into silence, broken only by the soft breathing of Black Fire and Red Fire at Ajani's feet. The four generals remained at attention. Vasha's stylus had stopped moving. Sylva stood at the foot of the dais, her ancient eyes fixed on the door.
 
 
 <div class="dialogue-block">
@@ -1079,17 +1074,4 @@ Ajani's question hung in the throne room like a challenge. His voice had not ris
 
 <div class="dialogue-block">
 <p class="speech-line">M'rak stepped forward before anyone else could speak. The burn-scarred general had been fighting since dawn, and his voice was hoarse, but it did not waver. "Your Highness, the Humman king deployed Plague weapons against us. He used the arsenal of the Fifth Tyrant. Under the old laws—the laws from before the pact, the laws the Wengari have kept since the First Tyrant fell—the use of Plague weapons is a declaration of total war. It carries a single response: annihilation of the offending state. If you order full military deployment, you will be acting within the old laws. No Wengari would question it. No elder would oppose it. The precedent is clear."</p>
-</div>
-
-
-He paused. His burn-scarred hands clenched at his sides.
-
-
-<div class="dialogue-block">
-<p class="speech-line">"I lost fifteen Wohs. I watched my soldiers burn in pillars of fire. I watched the purple orbs consume forty of our brothers and sisters on the wall. I want justice. But I also want you to understand what you are asking. If you order annihilation, you will be following the precedent of the First Tyrant—the Black Fire himself. He would have done exactly what you are proposing. He did exactly what you are proposing, five thousand years ago. The genocide that erased the other families. The purge that drove the Snow Paws into exile. The fire that scarred the shadow wolves forever. That is the precedent you would be following. Not the old laws. The First Tyrant's laws."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Reva stepped forward, her voice cold and steady. "The Plague weapons are an abomination. They should never have been used. The Humman king is dead. The shadowy figure who gave him the weapons is dead or fled. The Human refugees in our city are not the ones who deployed the orbs. The Humman general who defected is not the one who unleashed the Plague. If you annihilate Verdantis, you will be killing the innocent alongside the guilty. You will be no different from the king who marched on our city because a frightened scribe told him we were weak. That is not justice. That is vengeance. And vengeance is what the Black Fire would have chosen."</p>
 </div>

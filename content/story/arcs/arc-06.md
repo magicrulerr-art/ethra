@@ -1,6 +1,6 @@
 ## Chapter 1: The Cost
 
-*71,566 words across 5 chapters*
+*69,552 words across 5 chapters*
 
 ### The Cost
 
@@ -8,17 +8,17 @@ The throne room was not a throne room anymore. It was a hospital ward, a war cou
 
 ### Rebuilding
 
-Elyra spoke again, her melodic voice quiet but firm. "The other races are watching, Your Highness. The Veylar heard your chants. The Threx felt the Plague through the mycelial network. The Dragari sen...
+He paused. His burn-scarred hands clenched at his sides....
 
 ### The Vision
 
-Outside the great hall, the morning sun was climbing higher over the shattered capital. The wall was still broken. The memorial pillar stood in the eastern plaza, waiting for the celebration. The legi...
+A Shadow Paw elder, her dark pelt blending with the shadows, inclined her head. "You are just now realizing this? The king bypassed us during the war. He promoted four young generals over every comman...
 
 ### The Road Begins
 
-And standing slightly apart, trying very hard to look formal and failing utterly, was the youngest son. Ivan. He was the same age as Kira, the same height as Kira, and the moment he saw her—a dark-fur...
+Vanya broke the silence. "Is he married?" Nadya shoved her sister. "Vanya! He's a king! You can't just—" "I'm asking. It's a legitimate question." She turned back to Cefiro. "Is he married?"...
 
 ### Epilogue
 
-Nikolai watched the exchange with the carefully impassive face of a king who was assessing information. *That's an incomplete form,* he thought. *The ji—the weapon he used to best me—is an incomplete ...
+"You were his guard before the war and you let a stranger walk past you into his chambers."...
 

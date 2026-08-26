@@ -1,6 +1,6 @@
 # Chapter 3: The Tournament
 
-*39,373 words across 5 chapters*
+*38,151 words across 5 chapters*
 
 ### The Arena
 
@@ -8,17 +8,17 @@ The sun was bleeding out across the western rim of the desert, painting the hang
 
 ### First Blood
 
-Zara had not thought to ask him about the king. Now she wondered....
+Nefere turned her clouded eyes toward the younger Pyrina. "I think he is a White Dawn. I think every White Dawn in history began with benevolence. I think he is afraid of himself—and that fear is the ...
 
 ### The Fire Feet
 
-He let the silence stretch. Solen's mouth opened, then closed. The other Bright Paw elders stood frozen behind him, their golden manes limp, their claws retracted....
+Vasha, the stern advisor who had served Uthgard IX, stepped forward. "The Lightbringer's crown. Your father's crown. The symbol of three thousand years of Bright Paw rule. You just—" She clenched her ...
 
 ### The Tyrant Cycle
 
-The eldest of them, a grizzled veteran named Voren, stepped forward and bowed low before the throne. His voice was steady, but his paws trembled. "I trained them, my king. I taught them the old forms....
+"No, my king." His voice was hoarse, but it did not waver. "The performance you witnessed today was not the best our family has to offer. It was the best I had to offer. And it was not enough."...
 
 ### The Hour Before
 
-He noticed none of it. The fire feet thundered past again, and Ajani Brightmane, first of his name, son of Uthgard IX, keeper of the pact, leaned over the fence rail and shouted with the pure, unguard...
+"YES! That's it, Torin! Cut him off! Now Sylva comes from the blind side—she's been waiting the whole match for this opening, she's been patient for five thousand years and she's not going to waste it...
 

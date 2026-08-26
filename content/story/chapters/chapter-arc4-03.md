@@ -1,5 +1,9 @@
 ## Chapter 3: The Pyrinae Accord
 
+<div class="dialogue-block">
+<p class="speech-line">The Threx came next, a single Rooted who had walked from the Flickermarch, its mycelial filaments trailing behind it like the roots of an ancient tree. It brought no gold, no coral, no trade goods. It brought a single spore, encased in rune-glass, pulsing with a faint green light. "The lord of the marsh sends this gift. Plant it in the garden. Let it grow. It will remind you of what you learned, and it will remind the lord of the desert that the marsh is watching." The Rooted did not stay for the feast. It simply delivered its gift and walked back into the desert, its filaments leaving faint traces in the sand.</p>
+</div>
+
 Other delegations followed. A caravan of Stripe Paws returning from the eastern routes brought word that the Rune-Belt was stirring—nothing hostile, but something ancient was moving in the deep forest. A Pyrinae scholar arrived with ancient texts copied from the Memory-Vaults, histories of the Lightbringer's reign that had been thought lost. A Humman merchant, unrelated to Seris, arrived with a cargo of Pearly Scorpion eggs and a nervous smile, hoping to establish trade before his competitors arrived.
 
 The gifts from the families arrived over the course of the three weeks, each delivered in a private ceremony, each reflecting the philosophy of the giver.
@@ -59,7 +63,7 @@ Lena set down the brush. Her dark eyes, when they met Sylva's, were steady. <spa
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">Sylva's silver aura flickered gently. "You will not fail. You are too stubborn. Now finish the channel. We have much to do before the evening meal."</p>
+<p class="speech-line">Sylva's silver aura pulsed gently. "You will not fail. You are too stubborn. Now finish the channel. We have much to do before the evening meal."</p>
 </div>
 
 The morning training sessions had become a ritual. Ajani rose before dawn, before the petitioners and the elders and the endless scrolls of governance could find him, and made his way to the arena. The arena was empty at this hour, the stone tiers silent, the sand cool beneath his paws. He had trained here with L'vat in the marshes, drilled the saber until his claws bled, fought the green deaths until his body remembered the forms even when his mind could not. Now he trained alone.
@@ -185,7 +189,7 @@ The roots of the Kyre Tree pulsed in slow, rhythmic waves, the pale green light 
 
 And in return, I give them a fraction of my aura. A taste of strength. A feeling of being chosen. This will make them come back. This will make others follow. This is a cycle that feeds itself. This is not merely a feast. This is an arrangement that could endure for millennia.'
 
-The roots pulsed faster, brighter, the green light flickering with something that might have been excitement or might have been calculation. The Tree was not merely listening now. It was imagining. It was projecting forward across centuries, tracing the implications of what Ajani had proposed.
+The roots pulsed brighter, faster, the green light flickering with something that might have been excitement or might have been calculation. The Tree was not merely listening now. It was imagining. It was projecting forward across centuries, tracing the implications of what Ajani had proposed.
 
 'You say no one must know I feed on them. You say we must blame it on the sun. The gathering of the strong—I will sap them when they enter the city. In the gardens. During their parades. They will feel weak. They will think the desert is harsh. They will think the sun is cruel. They will not think of me. And the ones who live here—the Wengari, who are already accustomed to my hunger—they will barely notice.
 
@@ -235,7 +239,7 @@ Not merely to feed on whoever wandered too close, but to choose. To summon. To b
 
 If they die, they were weak, and I will feed on them anyway. Either way, I am nourished. Either way, the myth grows stronger. This is elegant. This is sustainable. The deception deepens with every choice I make.'
 
-The roots pulsed faster, brighter, the green light flickering with something that might have been excitement or might have been hunger. The Tree was not merely accepting the pact now. It was shaping it. Refining it. Adding its own ancient cunning to the design.
+The roots pulsed, faster and brighter, the green light flickering with something that might have been excitement or might have been hunger. The Tree was not merely accepting the pact now. It was shaping it. Refining it. Adding its own ancient cunning to the design.
 
 'I will choose the strong ones. The ones whose aura burns brightest. The ones whose ambition and pride and desperation make them delicious. I will send them a sign—a glow at the edge of their vision, a sound in the stillness before dawn, a dream of golden light and ancient wells. They will know they have been chosen. They will come. And if they survive the pilgrimage, they will return stronger, bearing my mark, and they will tell others.
 
@@ -358,7 +362,7 @@ The light show lasted perhaps five seconds. Perhaps ten. No one would ever agree
 
 But the crowd had seen it. Every Wengari in the plaza had witnessed something—something different, something personal, something that defied easy description. The cub had seen a shower of gold. The merchant had seen morning dew. The Shadow Paw had seen living light. The priest had seen Styx fire. And every single one of them would carry that memory to their graves, would tell their children and their grandchildren about the day the Golden Sun woke and made himself known in the plaza at noon.
 
-Below the plaza, in the ancient darkness, the lord of the desert felt the surge of belief ripple through the stone and settled back into its patient, hungry waiting. The flowers had bloomed. The light had bent. The myth was born. And the White Dawn, standing on his stone platform with the green fire flickering gently along his claws, allowed himself the faintest, most private of smiles. The old thing had come through. The Golden Sun was real now. And the pilgrims would come.
+
 
 <div class="dialogue-block">
 <p class="speech-line">'breathe, slowly, it went well, I thought I was going to get skewered here, he barely made it in time, stupid old thing' - "HE ALSO SHOWED ME HE WILL HELP OUR FRIENDS THE PYRINAE HE ALSO WANTS TO MAKE THEM STRONG, HE SHOWED ME A VISION, FIVE CITIES LIGHTING UP, FLOURISHING, I THINK IT MEANS HE WILL REACH TO THEM AS HE DID TO US, HE WANTS TO MAKE US STRONG, HE WANTS THE WENGARI TO BE THE RULERS OF ETHRA!!, BROTHERS, I WILL BE THE FIRST TO TAKE THE PILGRIMAGE, ONCE HE SHOWS ME THE WAY, I WILL WALK IT AND IF I SURVIVE, I'LL MAKE A TEMPLE THERE, SO YOU ALL KNOW WHERE TO GO, HE SHOWED ME A LAST VISION, IN MY DREAM I SAW AN OLD ROUGH WENGARI, HE SAW A LIGHT, HE KNEW, HE HAD BEEN CHOSEN, HE WALKED THE PATH, AND WHEN HE RETURNED, HE WON THE TOURNAMENT, HE WON THE CROWN!"</p>
@@ -384,13 +388,13 @@ Near the eastern fountain, the Humman ambassador Seris stood very still. Her dar
 
 The tournament would draw the strong. The pilgrimage would test them. The Golden Sun would bless them. And the Wengari would rule Ethra not merely through strength, but through the belief that their strength was divinely ordained. She said nothing. Her daughter was in Sylva's service. Her merchants were dead. She was learning. She was waiting.
 
-Sylva stood motionless at Ajani's side, her silver-chased ceremonial armor gleaming in the noon light. The faint flicker of her silver aura was the only sign of her thoughts. The king had just promised the Pyrinae that the Golden Sun would reach them. He had not consulted her. He had not consulted the Pyrinae. He had simply announced it, in the plaza, at noon, while the light of the Golden Sun still shimmered in the memory of the crowd.
 
-The elders would hear of this. They would have questions. They would have objections. But by the time those objections reached the capital, the myth would already be rooted. The pilgrims would already be walking. The Golden Sun would already be real.
 
 Below the plaza, in the ancient darkness, the lord of the desert stirred. The Golden Sun felt the surge of belief ripple through the stone above—felt the ambition of the young warrior, the hope of the old merchant, the quiet calculation of the Humman ambassador, the fierce pride of the Wengari who now believed they were chosen. It felt the energy of thousands of creatures, all of them turning their thoughts toward the light it had made, the myth it had become.
 
 The White Dawn had promised a self-sustaining feast. The White Dawn was delivering. And the Golden Sun, patient and hungry and ancient beyond memory, settled back into its waiting and began to plan which pilgrim it would choose first.
+
+And the White Dawn, standing on his stone platform with the green fire flickering gently along his claws, allowed himself the faintest, most private of smiles. The old thing had come through. The Golden Sun was real now.
 
 <div class="dialogue-block">
 <p class="speech-line">'good, now all of them will walk it, this is so tiring.. I need a bath' - "BROTHERS, I'LL RETIRE NOW, BUT BEFORE I LEAVE, I HAVE A LAST PIECE OF ADVICE, THE DESERT SUN JUST AS UNFORGIVING AS OUR BROTHER, IF YOU ARE CHOSEN, DON'T TAKE IT LIGHTLY IF YOU FALL, YOU'LL HAVE NO ONE TO BLAME BUT YOURSELVES"</p>
@@ -459,3 +463,5 @@ Sylva absorbed this in silence. The morning prayers had been recited in the same
 <div class="dialogue-block">
 <p class="speech-line">"In the eastern district, Regent. The Root-Speakers have gathered in their meditation chamber. They have been there since the announcement ended. No one has seen them emerge."</p>
 </div>
+
+Sylva nodded slowly. The Root-Speakers had been listening to the lord of the desert for three thousand years. They had never heard it speak. They had only felt its dreams—fragments, impulses, hunger. And now their king had announced that the Golden Sun had spoken to him, had shown him visions, had promised to extend its blessing to their people. The Root-Speakers would have questions. Sylva did not have answers. But she would have to find them.

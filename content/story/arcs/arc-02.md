@@ -1,6 +1,6 @@
 # Chapter 2: The Council of the Families
 
-*22,815 words across 6 chapters*
+*22,067 words across 6 chapters*
 
 ### The Summons
 
@@ -8,21 +8,21 @@
 
 ### The Confession
 
-Kareth, the old general, the scarred Shadow Paw who had served three kings and buried two of them, let out a sound that might have been a laugh or might have been a snarl. It echoed through the chambe...
+'well it's not as bad as I thought, no one is dead yet', "you misunderstand something my brothers, first of all the lord of the desert does not take our weak, they die by their own hand, it is known o...
 
 ### The Shadow Paw
 
-The Motted Paw twins raised their twinned petals and added their voices, a harmony that had not been heard in three thousand years. The Shadow Paw cub, still clutching her single bright petal, shouted...
+"I will not ask, what your pacts were, those are for your own families, but I will reveal my own, I promised to build a great corridor from the marshes to the desert, all before the next tide, in 50 y...
 
 ### The Tree's Judgment
 
-Her right knee hit the sand. Then her left. She stared at the ground, her striped mane hanging limp, her claws still retracted, her breath coming in short, sharp gasps. She did not know what had happe...
+"Go," Seris said quietly to her council. "I will speak for Verdantis. The rest of you—wait outside. If the king wished you dead, you would already be dead." They fled. Not with dignity, not with the m...
 
 ### The Hydromancer
 
-She stopped at the foot of the throne's dais, her clouded eyes level with his. "The question is not whether we will follow you. The question is whether you will let us follow you as we are, or whether...
+She had never seen a king drop the act so completely....
 
 ### Foreign Delegations
 
-She stopped at the foot of the throne's dais and raised her eyes to the king. "I am old, Ajani Brightmane. I have perhaps three years left, perhaps five. I will spend them doing what I have always don...
+She straightened, and the faintest smile crossed her weathered face. "I will warn you, though. You have given me cities. You have given me trade. You have given me the first real hope the Pyrinae have...
 

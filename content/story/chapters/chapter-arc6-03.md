@@ -1,5 +1,73 @@
 ## Chapter 3: The Vision
 
+<div class="dialogue-block">
+<p class="speech-line">A Shadow Paw elder, her dark pelt blending with the shadows, inclined her head. "You are just now realizing this? The king bypassed us during the war. He promoted four young generals over every commander in this room. He gave the Council official recognition. He formalized the tournament. He established the schools. He made the Pyrinae free and the Hummans brothers. The old order has been dying since the day he took the throne. The Shadow Office is merely the final nail in the coffin. Adapt or fade. Those are the only choices."</p>
+</div>
+
+
+Vasha remained at her place near the dais, her stylus still moving across her ledger. Maren stood beside her, the coin master's dark eyes scanning the room with the cold assessment of someone who was already planning her recruitment strategy.
+
+
+<div class="dialogue-block">
+<span class="speech">"They are afraid,"</span> Maren said quietly. <span class="speech">"The elders. The generals. The foreign delegations. They are all afraid of what you will do with this power."</span>
+</div>
+
+
+<div class="dialogue-block">
+<span class="speech">"They should be."</span> Vasha did not look up from her ledger. <span class="speech">"Fear is more effective than surveillance. If they believe we are watching, we do not need to watch them all. Only the ones foolish enough to act."</span>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">"The Humman ambassador is not afraid. She is calculating. She knows the Shadow Office will be watching her people. She is already planning how to turn that to her advantage."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">"Seris has been planning how to turn things to her advantage for thirty years. She is the most dangerous Human in the city. I respect her immensely. I will be watching her very closely."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Maren's stylus scratched once. "The coin master notes that the Shadow Office will require a significant initial investment. Staff, training facilities, secure records, operational funds. The crown's share of the tournament revenue will not be sufficient for the first year. The coin master recommends a one-time levy on the caravan masters to cover the shortfall."</p>
+
+<div class="dialogue-block">
+<p class="speech-line">Lira's ears flattened. She had been silent since the throne room, her lacquered claws retracted but her tail lashing slow and deliberate. "You knew."</p>
+</div>
+
+<div class="dialogue-block">
+<p class="speech-line">Maren didn't look up from her ledger. The stylus didn't pause. "I knew the numbers. I knew the risk. I did not know your White Dawn would tear the sky open."</p>
+</div>
+
+<div class="dialogue-block">
+<p class="speech-line">"You sent me to the Shadow Office. You sent me away from the fight. From *him*." Lira stepped closer, close enough that Maren could smell the desert dust on her fur. "Every report you buried. Every resource you diverted. You made sure I couldn't reach him."</p>
+</div>
+
+<div class="dialogue-block">
+<p class="speech-line">Maren's stylus finally stopped. She looked up, and her dark eyes held the cold precision of a coin master who had once been a sister. "I made sure *you* survived. The Shadow Office needed its claws. The White Dawn needed his. You are not the same weapon, Lira. You never were."</p>
+</div>
+
+<div class="dialogue-block">
+<p class="speech-line">The silence stretched. Then Lira's claws half-extended, catching the light. "And if he falls? If the pact breaks? What does your ledger say then, sister?"</p>
+</div>
+
+<div class="dialogue-block">
+<p class="speech-line">Maren returned to her numbers. "It says we prepare for the audit. As we always have."</p>
+</div>
+
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Vasha almost—almost—smiled. "The caravan masters will protest."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">"The caravan masters will pay. They always pay. The coin master will see to it."</p>
+</div>
+
+
 Outside the great hall, the morning sun was climbing higher over the shattered capital. The wall was still broken. The memorial pillar stood in the eastern plaza, waiting for the celebration. The legion was preparing to march on Verdantis. The Shadow Office was being born. And the king, his scorpions flanking him, was already walking toward the northern gate to work the stone alongside his people.
 
 
@@ -59,9 +127,7 @@ The Lament stepped forward. Its ancient, multifaceted eyes moved across Ajani's 
 </div>
 
 
-<div class="dialogue-block">
-<p class="speech-line">Then without warning the lament extends a limb and touches ajanis forehead, a light passes between them then too fast for anyone to react it snaps the back of ajanis head with a force that drops him to his knees and he shouts in the common tongue "STUPID DISCIPLE I TOLD YOU TO NEVER TRY THAT RIDICULOUS IDEA OF SPIRIT SUMMONING YOU COULD HAVE DIED" everyone stares slawjacked</p>
-</div>
+
 
 
 The Lament's limb touched Ajani's forehead, and a pulse of light passed between them—green, ancient, the light of the Mycelial Deep. For a single, breathless moment, the Wengari on the wall and the Hummans on the scaffolding and the Threx at the gate all stood frozen, unsure whether this was a greeting or an attack.
@@ -120,72 +186,32 @@ L'vat's multifaceted eyes blazed. For a long, terrible moment, the Lament simply
 <p class="speech-line">"It always is with you. Explain. Now."</p>
 </div>
 
-
-The Lament's limb touched Ajani's forehead, and a pulse of light passed between them—green, ancient, the light of the Mycelial Deep. For a single, breathless moment, the Wengari on the wall and the Hummans on the scaffolding and the Threx at the gate all stood frozen, unsure whether this was a greeting or an attack.
-
+Ajani explained. The Hummans on the wall. The creature at the gate. The king who had unleashed the Plague and the soldiers who had paid for his ambition. He told it plainly, without decoration, and when he finished, the wind moved across the broken wall and L'vat simply looked at him for a long, unreadable moment.
 
 <div class="dialogue-block">
-<p class="speech-line">Then L'vat spoke. His voice was not the booming shout of a furious teacher, but something quieter, something that trembled at the edges. "You foolish, reckless, impossible boy. I felt the elements shift. I felt the old names being spoken. I felt fire and ice and light and darkness and storm converge on a single point in the desert, and I knew—I knew—it was you. No one else would be stupid enough to try that ridiculous idea. No one else would be powerful enough to survive it."</p>
+<p class="speech-line">Ajani met his teacher's ancient gaze. "L'vat. You came."</p>
 </div>
-
-
-<div class="dialogue-block">
-He struck Ajani across the back of the head—not hard enough to injure, but hard enough to drop him to his knees. <span class="speech">"I told you never to attempt spirit summoning. I told you the formulas were incomplete. I told you the old names were dangerous. And you—"</span> His voice cracked. <span class="speech">"You summoned all six. At once. While burning your own aura. I felt you almost die. I felt it through the elements themselves. Do you understand what that felt like? To sense my student's life force flickering out across the desert, and to be too far away to do anything?"</span>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Ajani looked up from his knees. "L'vat. You came."</p>
-</div>
-
-
-<div class="dialogue-block">
-<span class="speech">"Of course I came."</span> The Lament's multifaceted eyes blazed. <span class="speech">"I had to convince the Deep to let me go. Do you know how hard that was? The Deep does not like its Laments leaving the March. We are its avatars. Its hands. Its voice. And I had to argue—argue, with the ancient consciousness of the mycelial network—that my student was worth crossing a desert for. That the White Dawn was worth protecting. That the pact you made with us was worth honoring."</span> He gestured at the twenty Quick behind him. <span class="speech">"The Deep agreed to send twenty. Twenty Quick, Ajani. Do you know how many Quick die within a week of leaving the March? Away from the network, away from the mycelium, they weaken. They fade. They are already afraid. They have been afraid since we crossed the desert's edge."</span>
-</div>
-
-
-The Quick were not at ease. Their multifaceted eyes darted across the wall, taking in the Wengari soldiers, the Pyrinae engineers, the scorpion riders who had been cleared by Seris's tribunal. When their gaze fell on the Hummans, they hissed—a low, instinctive sound of fear and recognition. Their limbs raised, their claws extended, their bodies trembling with the effort of restraining themselves.
-
-
-<div class="dialogue-block">
-<span class="speech">"These are the ones,"</span> one of the Quick whispered, its voice a thin, reedy rasp. <span class="speech">"These are the ones who burned us. The First Tyrant's fire. The Fifth Tyrant's Plague. Twice. Twice the Hummans burned us. We remember. The network remembers. The Deep remembers. Why are they here? Why are they not dead?"</span>
-</div>
-
-
-<div class="dialogue-block">
-The Hummans on the wall had gone very still. The young boy Ajani had been helping with the boulder was pale, his dark eyes wide. The scorpion riders had raised their hands, empty, showing they carried no weapons. The Wengari soldiers had tensed, unsure whether to intervene. Blackie and Reddy had positioned themselves between the Quick and the Hummans, their tails raised, their white-lacquered stingers gleaming. They did not attack. But they were ready. Ajani rose to his feet. The diadem's gem pulsed with a steady, calming light. <span class="speech">"L'vat. Tell them. Tell them what happened here. Tell them the Hummans fought on the wall. Tell them the Hummans died defending the city. Tell them the Hummans are not our enemies. Not anymore."</span> He met the Lament's ancient eyes. <span class="speech">"I know what the Plague did to your people. I know what the Black Fire did. But the Hummans who did those things are dead. The Hummans who are here now fought alongside us. They saved Wengari lives. They died for this city. If you cannot accept that, then you have come here for nothing."</span>
-</div>
-
-
-The Lament's limb touched Ajani's forehead, and a pulse of light passed between them—green, ancient, the light of the Mycelial Deep. For a single, breathless moment, the Wengari on the wall and the Hummans on the scaffolding and the Threx at the gate all stood frozen, unsure whether this was a greeting or an attack.
-
-
-<div class="dialogue-block">
-<p class="speech-line">Then L'vat spoke. His voice was not the booming shout of a furious teacher, but something quieter, something that trembled at the edges. "You foolish, reckless, impossible boy. The Deep felt the elements shift. The Deep felt the old names being spoken—names that have not been called since before the Wengari walked the desert. The Deep felt fire and ice and light and darkness and storm converge on a single point, and the Deep knew. And I knew. No one else would be stupid enough to attempt that ridiculous idea. No one else would be powerful enough to survive it."</p>
-</div>
-
-
-He struck Ajani across the back of the head—not hard enough to injure, but hard enough to drop him to his knees. The crack echoed across the silent wall. Blackie and Reddy surged forward, their tails raised, their stingers gleaming—and then stopped. The Lament was not attacking. The Lament was disciplining a student who had nearly died.
-
-
-<div class="dialogue-block">
-<span class="speech">"I told you never to attempt spirit summoning. I told you the formulas were incomplete. I told you the old names were dangerous. And you—"</span> His voice cracked. <span class="speech">"You summoned all six. At once. While burning your own aura. I felt the elements answer you. I felt them tearing through the veil. And I felt you almost die. Do you understand what that felt like? To sense my student's life force guttering across the desert, and to be too far away to do anything?"</span>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Ajani looked up from his knees, his head still ringing. "L'vat. You came."</p>
-</div>
-
 
 <div class="dialogue-block">
 <span class="speech">"Of course I came."</span> The Lament's multifaceted eyes blazed. <span class="speech">"I had to convince the Deep to let me go. To let twenty Quick go. Do you know how hard that was? The Deep does not like its children leaving the March. We are part of it. We weaken apart from it. Every day we spend away from the network, we fade. The Quick have been afraid since we crossed the desert's edge. They are afraid now. They feel the lord of the desert's hunger pressing down on them. They feel the Hummans' presence. They remember what the Hummans did. Twice."</span>
 </div>
 
 
-The Quick were not at ease. Their multifaceted eyes darted across the wall, taking in the Wengari soldiers, the Pyrinae engineers, the scorpion riders. When their gaze fell on the Hummans, they hissed—a low, instinctive sound of fear and recognition. Their limbs raised, their claws extended, their bodies trembling with the effort of restraining themselves. One of them, smaller than the others, let out a thin, reedy sound that might have been a whimper.
+
+
+
+
+
+
+The Quick were not at ease. Their multifaceted eyes darted across the wall, taking in the Wengari soldiers, the Pyrinae engineers, the scorpion riders who had been cleared by Seris's tribunal. When their gaze fell on the Hummans, they hissed—a low, instinctive sound of fear and recognition. Their limbs raised, their claws extended, their bodies trembling with the effort of restraining themselves. One of them, smaller than the others, let out a thin, reedy sound that might have been a whimper.
 
 They looked ready to strike. They looked ready to flee. They looked like creatures caught between an old terror and an unfamiliar command.
+
+<div class="dialogue-block">
+<span class="speech">"These are the ones,"</span> one of the Quick whispered, its voice a thin, reedy rasp. <span class="speech">"These are the ones who burned us. The First Tyrant's fire. The Fifth Tyrant's Plague. Twice. Twice the Hummans burned us. We remember. The network remembers. The Deep remembers. Why are they here? Why are they not dead?"</span>
+</div>
+
+The Hummans on the wall had gone very still. The young boy Ajani had been helping with the boulder was pale, his dark eyes wide. The scorpion riders had raised their hands, empty, showing they carried no weapons. The Wengari soldiers had tensed, unsure whether to intervene. Blackie and Reddy had positioned themselves between the Quick and the Hummans, their tails raised, their white-lacquered stingers gleaming. They did not attack. But they were ready.
 
 
 <div class="dialogue-block">
@@ -203,9 +229,7 @@ The Quick hesitated. Their hissing faltered. They looked at L'vat, waiting. The 
 </div>
 
 
-<div class="dialogue-block">
-We see a humman mother and daughter can't be more than four  they have come to deliver food for the father who's working on the wall, she then sees the quick, shinning under the sun she thinks 'theyre so pretty ' while the woman is delivering the food to the father and before anyone notices she is running towards them everyone reacts too late she embraces the smallest quick saying <span class="speech">"You're so pretty"</span> and rubbing her face in it to the absolute horror of the quick and every thrax, they shudder and are about to strike her then she takes out her share of food some dried fruits and offers some to quick saying in broken common tongue <span class="speech">"want ? Fruit ?"</span>
-</div>
+
 
 
 The humman woman was perhaps thirty, her dark hair pulled back in a simple cloth, her arms carrying a basket of dried fruits and flatbread. She had been bringing food to her husband every day since the wall repairs began, weaving through the scaffolding with the practiced ease of someone who had learned to navigate a city under siege. Her daughter trotted beside her, a small girl of perhaps four years, her dark curls bouncing with each step.
@@ -244,9 +268,7 @@ It simply held it, its multifaceted eyes blinking, its body still shuddering wit
 </div>
 
 
-<div class="dialogue-block">
-<p class="speech-line">Ajani very flustered says "I apologize for our guests humman cubs are very curious she meant no offense" trying to calm the situation</p>
-</div>
+
 
 
 <div class="dialogue-block">
@@ -282,9 +304,7 @@ L'vat turned his ancient gaze toward the small girl, who was still waving over h
 </div>
 
 
-<div class="dialogue-block">
-L'vat turned his ancient gaze toward the small girl, who was still waving over her mother's shoulder. <span class="speech">"Yes. She did."</span> He looked back at Ajani. <span class="speech">"The Deep will want a full report. It will be very confused by this. We have spent a thousand years teaching our young that the others are dangerous—the Wengari who burned us, the Hummans who brought the Plague. The Deep does not forget. The network does not forget. Every Quick learns the old lessons before they learn to speak. And now I must tell them that a Humman cub gave one of our own a piece of fruit and called it pretty. The Deep does not handle confusion well. You owe me, disciple."</span>
-</div>
+
 
 
 L'vat had not stopped talking since they passed through the northern gate. The ancient Lament walked beside Ajani, his dark chitin gleaming in the afternoon sun, his multifaceted eyes taking in every detail of the city—the broken wall, the Pyrinae engineers, the Human refugees, the scaffolding that still clung to the eastern section like a bandage on an open wound. And he had something to say about all of it.
@@ -792,33 +812,6 @@ The Council murmured its assent. The intelligence officer closed her report. Out
 
 
 
-<div class="dialogue-block">
-<span class="speech">"Then we negotiate,"</span> the Sultan said. <span class="speech">"We give them everything they ask for. We empty the coffers. We fill their treasury until they are satisfied. And then—"</span> He paused. <span class="speech">"Then we wait. We rebuild. We learn. And we never make this mistake again."</span>
-</div>
-
-
-The Council murmured its assent. The intelligence officer closed her report. Outside the Merchant's Spire, the sun was setting over Verdantis, painting the city in shades of amber and gold. The caravans were still running. The markets were still open. The city was still alive. But the shadow of the Wengari legion was already falling across the desert, and nothing would ever be the same.
-
-
-The chapter's core achievement is that it answers the question the Great War posed: what happens after the victory? The war was seven hours of desperate, grinding defense. The three weeks that follow are a slow, deliberate unfurling of consequence. Every scene in this chapter is about rebuilding—not just the wall, but trust, institutions, relationships, and the fragile, tenuous peace that shared trauma creates.
-
-
-The Sultan's arrival and Seris's interrogation are the political capstone of the Humman arc. Salahim came with backdated documents and a pre-prepared narrative, and Seris dismantled it because she knows her own people's machinery better than any Wengari could. Her question—"If you are truly sorry, why did you not chase after Mekhmed?"—is the blade that cuts through the paper shield. The Sultan's admission of cowardice is the most honest moment a Human leader has had in this entire story.
-
-The Council scene in Verdantis confirms that the Humman intelligence network is still alive and still fast, but also that the Hummans are genuinely afraid. They are not plotting revenge; they are calculating survival.
-
-
-
-
-
-
-
-
-<div class="dialogue-block">
-<p class="speech-line">Let's now follow Cefiro and Kira, they are lost again Kira is chastising Cefiro "YOU SAID YOU KNEW THE WAY ITS BEEN FIVE DAYS YOU SAID IT WOULD TAKE THREE!!"</p>
-</div>
-
-
 The Sunraptor banked low over the endless sand, its great wings beating with the tired, steady rhythm of a creature that had been flying for far too long. Cefiro sat in the saddle, his white fur dusty from the journey, his pale blue eyes scanning the horizon with the careful, deliberate attention of someone who was very good at not admitting when he was lost. Kira sat behind him, Pearl clutched against her chest, her dark eyes burning with the particular fury of a child who had been told a journey would take three days and was now on her fifth day in the air with no destination in sight.
 
 
@@ -1041,3 +1034,26 @@ Beside him stood Anastasia, the Tsarina, two and a half meters of lithe, beautif
 
 
 Behind them stood two daughters. The older, Vanya, was twenty-seven years old and two point four meters tall, her pale blue eyes sharp and assessing, her posture that of a warrior who had been trained since birth to defend the Ice City. The younger, Nadya, was sixteen and already two point two meters, her white fur still soft with youth, her eyes blazing with the same fierce curiosity that had driven her to throw snowballs at a starving wanderer three years ago.
+
+
+And standing slightly apart, trying very hard to look formal and failing utterly, was the youngest son. Ivan. He was the same age as Kira, the same height as Kira, and the moment he saw her—a dark-furred Wengari girl with a white scorpion on her shoulder, walking through the snow like she belonged there—his pale blue eyes went very wide. His mouth opened slightly. His tail gave a single, involuntary twitch.
+
+Vanya noticed. Nadya noticed. Anastasia noticed. Nikolai noticed. No one said anything. Ivan did not stop staring.
+
+
+<div class="dialogue-block">
+Nikolai stepped forward, his voice deep and resonant, carrying the weight of five thousand years of isolation. <span class="speech">"Cefiro. You are home."</span> He looked at Kira, his pale blue eyes taking in her dark fur, her fierce expression, the practice saber still strapped to her back. <span class="speech">"And you have brought a guest. A Shadow Paw. The stories the wanderer told us were true. There are indeed more Wengari."</span>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Cefiro inclined his head. "This is Kira Brightmane. Adopted sister of Ajani Brightmane, first of his name, White Dawn, king of the Wengari. She has come to see the Ice City and to bring word of the south."</p>
+</div>
+
+
+The silence that followed was absolute. Even the wind seemed to pause. Vanya's sharp eyes widened. Nadya's fierce expression flickered with something that was not quite shock and not quite delight. Anastasia's quiet, frightening stillness deepened. Nikolai's massive frame seemed to grow even larger. Ivan was still staring at Kira and had not heard a word anyone had said.
+
+
+<div class="dialogue-block">
+<span class="speech">"He is king,"</span> Nikolai said. It was not a question. <span class="speech">"The starving boy who wandered into our city three years ago is now a king."</span> Cefiro nodded. <span class="speech">"He is not merely a king. He is a White Dawn. Convergence-born. Touched by both suns. He renewed the pact with the lord of the desert. He trained under the lord of the marsh. He freed the Pyrinae from three thousand years of vassalage. He held a tournament and put his crown on the line. He survived an assassination attempt, a coup, a coma, and a war. He summoned six elemental spirits and destroyed a Plague creature with a thunderstorm. He has united the four families under a new government. He has built offices and councils and trade routes. The Shadow Paws fight for him. The Motted Paws serve as his regent. The Stripe Paws carry his coin. The Bright Paws are learning to be strong again. And he sent me here with the royal seal and an invitation from one king to another."</span> He produced the seal from his cloak. <span class="speech">"Ajani Brightmane requests formal diplomatic relations with the Snow Paws. He wishes for the fifth family to come home."</span>
+</div>

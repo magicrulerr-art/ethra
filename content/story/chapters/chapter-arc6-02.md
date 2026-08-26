@@ -1,5 +1,18 @@
 ## Chapter 2: Rebuilding
 
+He paused. His burn-scarred hands clenched at his sides.
+
+
+<div class="dialogue-block">
+<p class="speech-line">"I lost fifteen Wohs. I watched my soldiers burn in pillars of fire. I watched the purple orbs consume forty of our brothers and sisters on the wall. I want justice. But I also want you to understand what you are asking. If you order annihilation, you will be following the precedent of the First Tyrant—the Black Fire himself. He would have done exactly what you are proposing. He did exactly what you are proposing, five thousand years ago. The genocide that erased the other families. The purge that drove the Snow Paws into exile. The fire that scarred the shadow wolves forever. That is the precedent you would be following. Not the old laws. The First Tyrant's laws."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Reva stepped forward, her voice cold and steady. "The Plague weapons are an abomination. They should never have been used. The Humman king is dead. The shadowy figure who gave him the weapons is dead or fled. The Human refugees in our city are not the ones who deployed the orbs. The Humman general who defected is not the one who unleashed the Plague. If you annihilate Verdantis, you will be killing the innocent alongside the guilty. You will be no different from the king who marched on our city because a frightened scribe told him we were weak. That is not justice. That is vengeance. And vengeance is what the Black Fire would have chosen."</p>
+</div>
+
+
 <div class="dialogue-block">
 <p class="speech-line">Elyra spoke again, her melodic voice quiet but firm. "The other races are watching, Your Highness. The Veylar heard your chants. The Threx felt the Plague through the mycelial network. The Dragari sent their medallion and their messenger. If you respond to the Plague weapons with annihilation, they will see the cycle repeating. They will see another White Dawn become a Tyrant. They will see the hope of the tournament and the road and the Golden Sun turn to ash. The Humman king used the Plague because he believed you would respond exactly as you are proposing to respond. He believed the Wengari were brutes who would choose vengeance. Prove him wrong."</p>
 </div>
@@ -988,7 +1001,7 @@ A long silence settled over the chamber. Then the room began to breathe again.
 
 
 <div class="dialogue-block">
-General Torek, the old Bright Paw commander who had let M'rak ride without authorization, turned to his former subordinate. <span class="speech">"The king just created an intelligence office with the power to detain anyone on the regent's authority and handle critical threats without oversight. And he put Vasha in charge of it."</span> He paused. <span class="speech">"I am going to retire. Soon. Very soon."</span>
+Torek turned to his former subordinate once more. <span class="speech">"The king just created an intelligence office with the power to detain anyone on the regent's authority and handle critical threats without oversight. And he put Vasha in charge of it."</span> He paused. <span class="speech">"I am going to retire. Soon. Very soon."</span>
 </div>
 
 
@@ -1004,72 +1017,4 @@ General Torek, the old Bright Paw commander who had let M'rak ride without autho
 
 <div class="dialogue-block">
 Across the hall, the elders were stirring. The old Bright Paw who had protested Vasha's bypassing of the chain of command was speaking in a low, urgent voice to his companions. <span class="speech">"An intelligence office. With detainment authority. Run by the Council of the Untrustworthy. The same council that bypassed us during the war. The same spymaster who just told the king she wanted the power to disappear people in the night. And he gave her almost everything she asked for."</span> His golden mane was limp, his ancient shoulders bowed. <span class="speech">"We are becoming obsolete. Not gradually. Immediately."</span>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">A Shadow Paw elder, her dark pelt blending with the shadows, inclined her head. "You are just now realizing this? The king bypassed us during the war. He promoted four young generals over every commander in this room. He gave the Council official recognition. He formalized the tournament. He established the schools. He made the Pyrinae free and the Hummans brothers. The old order has been dying since the day he took the throne. The Shadow Office is merely the final nail in the coffin. Adapt or fade. Those are the only choices."</p>
-</div>
-
-
-Vasha remained at her place near the dais, her stylus still moving across her ledger. Maren stood beside her, the coin master's dark eyes scanning the room with the cold assessment of someone who was already planning her recruitment strategy.
-
-
-<div class="dialogue-block">
-<span class="speech">"They are afraid,"</span> Maren said quietly. <span class="speech">"The elders. The generals. The foreign delegations. They are all afraid of what you will do with this power."</span>
-</div>
-
-
-<div class="dialogue-block">
-<span class="speech">"They should be."</span> Vasha did not look up from her ledger. <span class="speech">"Fear is more effective than surveillance. If they believe we are watching, we do not need to watch them all. Only the ones foolish enough to act."</span>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">"The Humman ambassador is not afraid. She is calculating. She knows the Shadow Office will be watching her people. She is already planning how to turn that to her advantage."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">"Seris has been planning how to turn things to her advantage for thirty years. She is the most dangerous Human in the city. I respect her immensely. I will be watching her very closely."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Maren's stylus scratched once. "The coin master notes that the Shadow Office will require a significant initial investment. Staff, training facilities, secure records, operational funds. The crown's share of the tournament revenue will not be sufficient for the first year. The coin master recommends a one-time levy on the caravan masters to cover the shortfall."</p>
-
-<div class="dialogue-block">
-<p class="speech-line">Lira's ears flattened. She had been silent since the throne room, her lacquered claws retracted but her tail lashing slow and deliberate. "You knew."</p>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">Maren didn't look up from her ledger. The stylus didn't pause. "I knew the numbers. I knew the risk. I did not know your White Dawn would tear the sky open."</p>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">"You sent me to the Shadow Office. You sent me away from the fight. From *him*." Lira stepped closer, close enough that Maren could smell the desert dust on her fur. "Every report you buried. Every resource you diverted. You made sure I couldn't reach him."</p>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">Maren's stylus finally stopped. She looked up, and her dark eyes held the cold precision of a coin master who had once been a sister. "I made sure *you* survived. The Shadow Office needed its claws. The White Dawn needed his. You are not the same weapon, Lira. You never were."</p>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">The silence stretched. Then Lira's claws half-extended, catching the light. "And if he falls? If the pact breaks? What does your ledger say then, sister?"</p>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">Maren returned to her numbers. "It says we prepare for the audit. As we always have."</p>
-</div>
-
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Vasha almost—almost—smiled. "The caravan masters will protest."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">"The caravan masters will pay. They always pay. The coin master will see to it."</p>
 </div>

@@ -1,11 +1,15 @@
 ## Chapter 2: The Caravans
 
 <div class="dialogue-block">
+Zara's laugh was sharp and delighted. <span class="speech">"You cunning little—"</span> She caught herself, her ears flattening briefly, but the grin did not leave her face. <span class="speech">"You just offloaded almost all your work onto the grand vizier. The coin master handles the money. The security advisor handles the soldiers. The foreign advisor handles the delegations. The grand vizier oversees them all. And you—"</span> She shook her great head, her striped mane rippling. <span class="speech">"You ride north and build your road while we run your kingdom for you. This is either the laziest kingship in Wengari history or the most brilliant. I cannot decide which."</span>
+</div>
+
+<div class="dialogue-block">
 Kareth's scarred face was unreadable, but his one good eye gleamed. <span class="speech">"The grand vizier tied to the tournament. Win the tournament, hold the office. Hold it for life if you can keep winning. That means the most powerful Wengari in the capital will always be the strongest. Not the richest. Not the most cunning. Not the most politically connected. The strongest. This is the old way, before the pact, before the cities. The king has reinvented it."</span> He inclined his head toward the throne. <span class="speech">"The Shadow Paws approve. We will train our champions to compete for this office. We will train them to win. And we will ensure that whoever holds the office is worthy of it."</span>
 </div>
 
 <div class="dialogue-block">
-Sylva's silver aura flickered gently. <span class="speech">"The grand vizier will hold the crown's authority. They will enact the crown's policy and law. They will oversee the other offices. But they will not be the crown. The king can still intervene if the grand vizier exceeds their mandate. The king can still overrule if the grand vizier errs. The office is powerful, but it is not absolute. That is a necessary balance."</span> She paused, her ancient eyes meeting Ajani's. <span class="speech">"I am regent. I will hold the grand vizier's office until the next tournament, when a champion will be chosen to replace me. I accept this. But I will also ensure that the grand vizier does not become a tyrant. The Motted Paws have been silent for five thousand years. We will be silent no longer."</span>
+Sylva's silver aura stirred. <span class="speech">"The grand vizier will hold the crown's authority. They will enact the crown's policy and law. They will oversee the other offices. But they will not be the crown. The king can still intervene if the grand vizier exceeds their mandate. The king can still overrule if the grand vizier errs. The office is powerful, but it is not absolute. That is a necessary balance."</span> She paused, her ancient eyes meeting Ajani's. <span class="speech">"I am regent. I will hold the grand vizier's office until the next tournament, when a champion will be chosen to replace me. I accept this. But I will also ensure that the grand vizier does not become a tyrant. The Motted Paws have been silent for five thousand years. We will be silent no longer."</span>
 </div>
 
 <div class="dialogue-block">
@@ -261,7 +265,7 @@ The claw tap continued its slow, steady rhythm against the armrest of the throne
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">Sylva's silver aura flickered gently. "You ask for much, Ambassador. Permanent trade stalls. Training for champions. Housing and protection for your guilds. A voice in the council. These are not small requests. What do you offer in return, beyond gratitude?"</p>
+<p class="speech-line">Sylva's silver aura dimmed, then steadied. "You ask for much, Ambassador. Permanent trade stalls. Training for champions. Housing and protection for your guilds. A voice in the council. These are not small requests. What do you offer in return, beyond gratitude?"</p>
 </div>
 
 'this is so boring... I hope Sylva at least makes this quick'
@@ -463,8 +467,4 @@ The capital stirred with the arrival of foreign delegations. Word of the White D
 
 <div class="dialogue-block">
 <p class="speech-line">The Veylar came first, a delegation of Tide-Wardens and Shell-Singers bearing gifts of living coral that pulsed with soft, bioluminescent light. The coral would be transplanted to the hanging gardens, a permanent reminder of the alliance between the desert and the sea. Sylara, the Shell-Singer who had witnessed the tournament, presented the gift personally, her melodic voice carrying through the Great Hall. "The Veylar remember. The Veylar witness. The Veylar will walk the road when the time is right."</p>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">The Threx came next, a single Rooted who had walked from the Flickermarch, its mycelial filaments trailing behind it like the roots of an ancient tree. It brought no gold, no coral, no trade goods. It brought a single spore, encased in rune-glass, pulsing with a faint green light. "The lord of the marsh sends this gift. Plant it in the garden. Let it grow. It will remind you of what you learned, and it will remind the lord of the desert that the marsh is watching." The Rooted did not stay for the feast. It simply delivered its gift and walked back into the desert, its filaments leaving faint traces in the sand.</p>
 </div>

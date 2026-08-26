@@ -1,7 +1,5 @@
 ## Chapter 4: The Humman Delegation
 
-Sylva nodded slowly. The Root-Speakers had been listening to the lord of the desert for three thousand years. They had never heard it speak. They had only felt its dreams—fragments, impulses, hunger. And now their king had announced that the Golden Sun had spoken to him, had shown him visions, had promised to extend its blessing to their people. The Root-Speakers would have questions. Sylva did not have answers. But she would have to find them.
-
 Seris stood alone near the eastern fountain, her dark eyes fixed on the stone platform where the king had stood. Her merchants had returned to their quarters. Her daughter was in Sylva's service, learning to scrub stone and carry water. The list of Wengari names—the careful record of every contact, every relationship, every potential ally—was still hidden in her chambers, untouched since the day the Shadow Paws had exposed it.
 
 She had not stopped studying. She had not stopped planning. She had simply learned to be more careful.
@@ -479,3 +477,7 @@ He turned and walked back to the throne, his white cloak billowing behind him. <
 </div>
 
 The merchant's body hit the polished stone at Seris's feet with a sound like a sack of grain falling from a wagon. His neck was broken. The green fire had not touched him—Ajani had not used his aura, had not summoned the saber or the spear—he had simply closed his paw and twisted, and the Humman's fragile vertebrae had snapped like dry twigs in the marsh. The body lay crumpled before the ambassador, and Seris stared down at it, her diplomatic composure shattered beyond repair.
+
+<div class="dialogue-block">
+Ajani flexed his claws once, as if testing their edge. <span class="speech">"So frail. The weakest trees in the marsh are harder than this."</span> He gestured, and the guards stepped back, leaving the corpse where it lay. <span class="speech">"Your dead. Your insult. Your lesson. Remember it."</span>
+</div>

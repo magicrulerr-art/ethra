@@ -1,10 +1,6 @@
 ## Chapter 5: The Gifts
 
 <div class="dialogue-block">
-Ajani flexed his claws once, as if testing their edge. <span class="speech">"So frail. The weakest trees in the marsh are harder than this."</span> He gestured, and the guards stepped back, leaving the corpse where it lay. <span class="speech">"Your dead. Your insult. Your lesson. Remember it."</span>
-</div>
-
-<div class="dialogue-block">
 <p class="speech-line">He turned and walked back toward the throne, his white cloak billowing behind him. As he passed the shadows behind the dais, he extended one paw toward the darkness. "Kira. Come here."</p>
 </div>
 
@@ -163,7 +159,7 @@ She brought the message to Sylva personally. <span class="speech">"The Humman am
 </div>
 
 <div class="dialogue-block">
-Sylva's silver aura flickered gently. <span class="speech">"The intelligence network is working as designed. The Shadow Paws are watching. The Pyrinae are reporting. The Motted Paws are observing. And the Humman ambassador, for all her cunning, has just revealed every contact she possesses."</span> She paused, her ancient eyes meeting Elyra's. <span class="speech">"The king will want to know. But he will also want to see how this plays out. Let the threads come to him. Let Seris wait. Desperation is a teacher. Let her learn."</span>
+Sylva's silver aura rippled once. <span class="speech">"The intelligence network is working as designed. The Shadow Paws are watching. The Pyrinae are reporting. The Motted Paws are observing. And the Humman ambassador, for all her cunning, has just revealed every contact she possesses."</span> She paused, her ancient eyes meeting Elyra's. <span class="speech">"The king will want to know. But he will also want to see how this plays out. Let the threads come to him. Let Seris wait. Desperation is a teacher. Let her learn."</span>
 </div>
 The reports reached Ajani in his private chambers, where he sat with Kira beside the window overlooking the hanging gardens. The cub was curled on a cushion, a half-eaten plate of dried fruit beside her, her dark pelt still bearing the faint sheen of the bath Sera had insisted on. She had been quiet since the Great Hall—not frightened, not shaken, but thoughtful.
 
@@ -528,3 +524,7 @@ Nefere's clouded gaze sharpened. Elyra's silver aura flickered with something th
 The page dissolved entirely. In its place, a sphere of pale green light hovered in the air above Ajani's palm—a perfect, pulsing orb of concentrated water and wind, bound together by the runic sequence he had inscribed. He reached out to touch it. The sphere shot upward, a streak of green against the amber sky, and exploded above the water hole in a shower of warm, glowing mist. Droplets of light rained down over the gathered Wengari, over the fire feet, over the Stripe Paws and the Shadow Paws and the Motted Paws and the Pyrinae.
 
 For a single, breathless moment, the water hole was bathed in a soft, green-gold luminescence that smelled of marsh water and ancient roots and the patient, inexorable pulse of the Deep.
+
+<div class="dialogue-block">
+<p class="speech-line">Ajani stared at the empty space where the sphere had been. Then he looked down at the grimoire. Then he looked at Elyra. "Can it be made to grow new pages? If I use a page for sorcery, it's gone. But if the book could grow new pages—if it could replenish itself—then this is not merely a grimoire. This is a portable sorcery arsenal."</p>
+</div>

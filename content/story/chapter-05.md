@@ -158,7 +158,7 @@ She did not speak immediately. She simply looked at Sylva, her cold eyes sweepin
 
 Sylva stared at her. The war drums pounded on, low and patient and utterly without fear. The third wave was advancing. The Amuks were coming. And the great war was only twenty-five minutes old.
 
-It was 5:25 in the morning, the seventh day of the Month of Storms, in the first year of the reign of Ajani Brightmane, first of his name. The White Dawn lay unconscious in his chambers, the golden armor still pulsing faintly over his chest. The regent stood in the war room, her silver aura flickering like a guttering candle. And the battle was not yet over.
+
 
 The Hall of the Untrustworthy was a small, windowless chamber beneath the Great Hall, its walls lined with rune-glass filaments that pulsed with soft amber light. The table at its center was round. The five members sat in their accustomed places, their faces lit from below by the amber glow, their shadows stretching long and distorted across the stone walls.
 

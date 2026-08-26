@@ -1,6 +1,6 @@
 # Chapter 4: The Consolidation
 
-*64,381 words across 6 chapters*
+*60,975 words across 6 chapters*
 
 ### Bureaucracy
 
@@ -8,21 +8,21 @@
 
 ### The Caravans
 
-He paused, his ancient eyes meeting Ajani's. "There is wisdom in this. The Lightbringer himself did not rule alone—he had advisors, companions, allies who challenged his thinking and sharpened his jud...
+Zara's laugh was sharp and delighted. "You cunning little—" She caught herself, her ears flattening briefly, but the grin did not leave her face. "You just offloaded almost all your work onto the gran...
 
 ### The Pyrinae Accord
 
-The gifts from the families arrived over the course of the three weeks, each delivered in a private ceremony, each reflecting the philosophy of the giver....
+The Threx came next, a single Rooted who had walked from the Flickermarch, its mycelial filaments trailing behind it like the roots of an ancient tree. It brought no gold, no coral, no trade goods. It...
 
 ### The Humman Delegation
 
-But the memories were enough. The Wengari were a people who understood that the desert remembered. And now the Golden Sun remembered too....
+Seris stood alone near the eastern fountain, her dark eyes fixed on the stone platform where the king had stood. Her merchants had returned to their quarters. Her daughter was in Sylva's service, lear...
 
 ### The Gifts
 
-The merchant's body hit the polished stone at Seris's feet with a sound like a sack of grain falling from a wagon. His neck was broken. The green fire had not touched him—Ajani had not used his aura, ...
+He turned and walked back toward the throne, his white cloak billowing behind him. As he passed the shadows behind the dais, he extended one paw toward the darkness. "Kira. Come here."...
 
 ### Aftermath
 
-And one pair of eyes, unseen, watching from the shadows of the ridge above the water hole. Ancient eyes. Patient eyes. Eyes that had been walking for months across the desert, carrying a song no one h...
+Elyra was silent for a long moment. Her silver aura flickered, and her melodic voice, when it came, was careful. "The grimoire is bound to its owner. It is a living thing, in its fashion. But whether ...
 
