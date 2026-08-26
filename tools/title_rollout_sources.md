@@ -69,6 +69,7 @@
 | 49 | arc6-ch04 | The Road Begins | static/images/chapter-arc6-04-v2.png | own cover (locked) | 30 |
 | 50 | arc6-ch05 | Epilogue | static/images/chapter-arc6-05-v1.png | own cover (locked, landscape) | 31 |
 | 51 | arc7-ch01 | The Birth of the Festival | archive/.../chapter-arc7-01-v3.png | discard (AUDIT-PASSED council scene) | 32 |
+| 52 | arc7-ch02 | Whitey | static/images/chapter-arc7-02-v4.png | own cover (icicle/stalactite scenery strip, excl. wurm heads + eggs) | 33 |
 
 32 new bands + 2 live pilots = 34 image bands; 13 arc5 chapters keep
 gradient glyphs until their covers are forged (no source material exists).
