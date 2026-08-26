@@ -275,14 +275,22 @@ if CHECK_ONLY:
     sys.exit(0)
 
 # ── Backup live splits, then swap staged in ───────────────
+# IMPORTANT: only touch splits for arcs that were actually regenerated.
+# Standalone canon chapters of placeholder arcs (e.g. Arc VII's
+# chapter-arc7-NN.md files, which have no umbrella source) must survive
+# regeneration untouched — moving them to backup silently unpublished them.
 ts = time.strftime('%Y%m%d-%H%M%S')
 BAK = BASE / 'backups' / f'splits-{ts}'
 (BAK / 'chapters').mkdir(parents=True)
 (BAK / 'arcs').mkdir(parents=True)
+regen_arcs = {f.name.split('-')[1] for f in staged}  # e.g. {'arc1', ..., 'arc6'}
 for f in CHAPTERS_DIR.glob("chapter-arc*.md"):
-    shutil.move(str(f), str(BAK / 'chapters' / f.name))
+    if f.name.split('-')[1] in regen_arcs:
+        shutil.move(str(f), str(BAK / 'chapters' / f.name))
 for f in ARCS_DIR.glob("arc-*.md"):
-    shutil.move(str(f), str(BAK / 'arcs' / f.name))
+    arc_id = 'arc' + f.stem.split('-')[1].lstrip('0')
+    if arc_id in regen_arcs:
+        shutil.move(str(f), str(BAK / 'arcs' / f.name))
 for f in staged:
     shutil.move(str(f), str(CHAPTERS_DIR / f.name))
 for f in AR_NEW.glob("arc-*.md"):
