@@ -75,3 +75,47 @@ Sylva listened to it all from the doorway — the moons and the month, the claws
 <div class="dialogue-block">
 <p class="speech-line">"Ambassador Seris, may I have a word?"</p>
 </div>
+
+---
+
+**The Missing**
+
+The chamber's argument had not stopped — Stripe Paw and Bright Paw still traded fourth moons and whole months up and down the amber-lit round table — but Sylva had drawn the ambassador a little apart from it, into the margin of the room where the rune-glow ran thin and the shadows went long and crooked up the stone.
+Seris came willingly. She had been waiting, perhaps, for someone to speak to her as a mother rather than a creditor.
+Sylva did not offer comfort. The Grand Vizier was not built for it. She delivered what she had the way she delivered everything — plainly, and all at once.
+<div class="dialogue-block">
+<p class="speech-line">"We found someone who saw your daughter leave from the east gate while the battle was going on."</p>
+</div>
+Something in the ambassador's face reached for light then — a hope so quick and so desperate it was painful to watch it catch.
+<div class="dialogue-block">
+<p class="speech-line">"And we also found some hummans who said they saw a woman with a similar description at the human camp."</p>
+</div>
+Sylva paused. It was the pause of a Wengari counting what remained before she gave it all away.
+<div class="dialogue-block">
+<p class="speech-line">"Regrettably, we did not find her among the dead. That is all I have for you now. I would not hold out hope — there are still many hummans missing from when the creature attacked."</p>
+</div>
+The words settled into the quiet between them. Seris let a drowned breath out of her — the breath of a swimmer who has surfaced for just long enough to see that the sea is still all around.
+<div class="dialogue-block">
+<p class="speech-line">"Thank you, Grand Vizier. I know my daughter brought a calamity at your gates, and you had no reason to honor my request for finding her. I will not forget this."</p>
+</div>
+She said it like a woman carving a debt into stone with the point of a knife. Grief had not made her smaller. It had made her still — the way pressure makes a thing hard.
+<div class="thought-block">
+*Verdantis did this to her. I will burn that city to the ground for what they did to my Lena. Just you wait.*
+</div>
+The thought did not cross her face. It had no need to. It crouched in her, patient as a drawn blade; and for a single breath there was no diplomat in the room, only a mother, and a promise.
+Then a voice cut across the argument at the table, unconcerned with either grief or courtesy.
+<div class="dialogue-block">
+<p class="speech-line">"Hey! Grand Vizier! When are we going to start the festival? Has his Highness decided yet?"</p>
+</div>
+Vasha of the Stripe Paw had not even risen from her head seat. She shouted from it — loud, at ease, the voice of a Wengari who owned the room and knew it. Sylva turned to her, composed and unhurried, the whole weight of the palace settling back onto her shoulders.
+<div class="dialogue-block">
+<p class="speech-line">"Tomorrow, if he had his way. It seems the creature from the marshes wants to finish his training — something his Highness is very keen to avoid. He is taking our royal cousins for a tour of the city, I believe. I saw him leave with his pets a while ago."</p>
+</div>
+Royal cousins.
+Vasha's ears came forward at that, sharper than any question she had asked. The Snow Paws — long-lost kin, returned from the north out of exile. The four great families called each other brothers, and always would. But the Snow Paws were not brothers. They were cousins: family, truly, by blood and by story, and yet set apart by a hundred generations of ice, so that the word carried affection without quite carrying intimacy. Kin you loved and did not quite know. And the king had taken them walking.
+<div class="dialogue-block">
+<p class="speech-line">"Is that so…?"</p>
+</div>
+Vasha's smile came slow, and behind it, in her flat, cold eyes, a glint — not amusement. Appraisal. The look of a Wengari weighing a thing she had not yet decided to spend.
+The information sat on the table between them, unclaimed, and she handled it the way Maren handled a ledger or a trader handled an unguarded caravan: as currency. The festival. The king's refusal of his training. The creature from the marshes, growling for its pupil in the dark. The cousins, walking where the king walked.
+The fourth moon. The month. Tomorrow. Vasha did the arithmetic in her head, and her smile got a degree warmer, and nothing in the room was quite as safe as it had been a moment before.
