@@ -1,6 +1,6 @@
 ## Chapter 1: The Cost
 
-*69,552 words across 5 chapters*
+*67,580 words across 5 chapters*
 
 ### The Cost
 
@@ -8,17 +8,17 @@ The throne room was not a throne room anymore. It was a hospital ward, a war cou
 
 ### Rebuilding
 
-He paused. His burn-scarred hands clenched at his sides....
+She paused. Her silver aura flickered once....
 
 ### The Vision
 
-A Shadow Paw elder, her dark pelt blending with the shadows, inclined her head. "You are just now realizing this? The king bypassed us during the war. He promoted four young generals over every comman...
+Sylva stepped forward, her ancient voice measured. "The regent accepts the oversight responsibility. I will review all requests for detainment. If there is a credible threat, I will approve. If there ...
 
 ### The Road Begins
 
-Vanya broke the silence. "Is he married?" Nadya shoved her sister. "Vanya! He's a king! You can't just—" "I'm asking. It's a legitimate question." She turned back to Cefiro. "Is he married?"...
+The gates were not bronze but ice, enchanted to never melt, their surface etched with the history of the family that had fled the Black Fire five thousand years ago and survived....
 
 ### Epilogue
 
-"You were his guard before the war and you let a stranger walk past you into his chambers."...
+Nikolai threw back his head and laughed—a great, booming roar of delight that echoed across the desert and bounced off the golden walls of Styxian. "He is everything you said, Cefiro! Everything! The ...
 

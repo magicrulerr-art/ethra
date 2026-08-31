@@ -1,5 +1,11 @@
 ## Chapter 3: The Pyrinae Accord
 
+The capital stirred with the arrival of foreign delegations. Word of the White Dawn had spread across the continent, carried by caravan masters and Pyrinae traders and the swift, resonant songs of the Veylar Shell-Singers. The king who had renewed the pact, freed the Pyrinae, held a tournament that invited the world—such a figure demanded acknowledgment.
+
+<div class="dialogue-block">
+<p class="speech-line">The Veylar came first, a delegation of Tide-Wardens and Shell-Singers bearing gifts of living coral that pulsed with soft, bioluminescent light. The coral would be transplanted to the hanging gardens, a permanent reminder of the alliance between the desert and the sea. Sylara, the Shell-Singer who had witnessed the tournament, presented the gift personally, her melodic voice carrying through the Great Hall. "The Veylar remember. The Veylar witness. The Veylar will walk the road when the time is right."</p>
+</div>
+
 <div class="dialogue-block">
 <p class="speech-line">The Threx came next, a single Rooted who had walked from the Flickermarch, its mycelial filaments trailing behind it like the roots of an ancient tree. It brought no gold, no coral, no trade goods. It brought a single spore, encased in rune-glass, pulsing with a faint green light. "The lord of the marsh sends this gift. Plant it in the garden. Let it grow. It will remind you of what you learned, and it will remind the lord of the desert that the marsh is watching." The Rooted did not stay for the feast. It simply delivered its gift and walked back into the desert, its filaments leaving faint traces in the sand.</p>
 </div>
@@ -19,22 +25,14 @@ Ajani accepted the dagger in silence. He understood what it meant. The Shadow Pa
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">The Bright Paws came last, and their gift was the most unexpected. Solen himself presented it—a young Bright Paw cub, no more than six years old, her golden mane still soft with youth. "This is Kira. She is my granddaughter. She is the first of the new generation—the generation that will grow up under the new way. She will train in the schools. She will compete in the tournament. She will never know the stagnation that weakened her parents and her grandparents. I give her to the crown as a ward. Let her grow up in the palace. Let her learn from the king. Let her remind you, every day, that what you are building is not merely for the present. It is for the future."</p>
+<p class="speech-line">The Bright Paws came last, and their gift was the humblest in form yet the heaviest with meaning: a renewed oath, spoken not from a throne but from a family still learning to stand. Solen himself knelt—not in the ceremony's courtesy, but fully, his old golden mane brushing the polished stone. "We were the royal house for three thousand years, and we grew soft on the memory of it. The tournament stripped us bare. It was the truest gift the crown has given us, because it showed us what we are: a house that must earn its place again, the way the first Bright Paws earned it. The king asks us to train, to learn, to climb back from the shadows. We swear we will be worthy of the blood we carry—not by claim, but by deed. That is all the Bright Paws have left to give, and we give it whole."</p>
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">Ajani looked at the cub, who looked back at him with wide, unafraid golden eyes. He knelt, bringing himself to her level. "Kira. Do you know who I am?"</p>
+<p class="speech-line">Ajani walked forward and raised Solen to his feet. The green fire along his claws steadied to a warm, level glow. "Then you have given me more than any other family today. An oath kept is worth more than gold." He looked out over the assembled elders. "When the opening ceremonies come, it will be a Bright Paw who speaks the first words to the delegations of the world. So that everyone remembers that the Wengari do not rest on old glory—we build."</p>
 </div>
 
-<div class="dialogue-block">
-<p class="speech-line">The cub nodded solemnly. "You're the king. You fought Sylva and almost lost but then you won because you're very fast with a saber. I want to learn the saber. Can I learn the saber?"</p>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">Ajani smiled. It was not the smile of a king receiving a political gift. It was the smile of a young Wengari who recognized a kindred spirit. "You can learn the saber. You can learn all four pillars. You can learn Fire Paws and Eight Points and Flowing Water. You can learn everything the schools have to teach. And when you are old enough, you will compete in the tournament. And you will win. Because you are Bright Paw. Because you are Wengari. Because you are the future."</p>
-</div>
-
-The cub's ears pricked forward. She did not bow. She did not kneel. She simply nodded, as if the king had just confirmed something she already knew.
+The old High Priest's eyes, when they met the king's, held a clarity that had not been there since before the tournament. He inclined his head. "We will be worthy, my king. We will climb."
 
 Lena knelt beside the pool in the Motted Paw quarter, her dark hair tied back, her scribe's hands raw from scrubbing the stone channels that carried water from the gardens to the inner chambers. She had been Sylva's maid for three weeks, and she had learned that the regent was patient but exacting, kind but unsentimental, and utterly intolerant of any task done carelessly.
 
@@ -453,15 +451,3 @@ The faintest tremor passed through Sylva's whiskers—not quite a twitch, not qu
 <div class="dialogue-block">
 T'van consulted his scroll, though he did not need to. His memory was excellent. <span class="speech">"They are saying many things, Regent. The cubs are already playing at being pilgrims, walking imaginary paths across the market square. The merchants are discussing which well might be the one the Golden Sun chooses. The warriors are debating whether the pilgrim who wins the tournament will be chosen before or after they walk the path. And the elders—the few who remain in the capital—are saying nothing. They are watching. They are waiting. They are—"</span> He hesitated. <span class="speech">"They are afraid, I think. Not of the Golden Sun. Of what this means for the old order. The Bright Paw priests have already begun rewriting the morning prayers."</span>
 </div>
-
-Sylva absorbed this in silence. The morning prayers had been recited in the same form for three thousand years, since the Lightbringer first taught the Wengari to honor the lord of the desert. The Golden Sun was not a new god. It was an old god given a new name, a new face, a new place in the story. And the priests, who understood better than anyone that the story was more important than the truth, were already adapting.
-
-<div class="dialogue-block">
-<span class="speech">"The Pyrinae,"</span> Sylva said quietly. <span class="speech">"The king promised them the Golden Sun's blessing without consulting them. I must speak with Nefere before word reaches her through rumor. Where is the Pyrinae delegation now?"</span>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">"In the eastern district, Regent. The Root-Speakers have gathered in their meditation chamber. They have been there since the announcement ended. No one has seen them emerge."</p>
-</div>
-
-Sylva nodded slowly. The Root-Speakers had been listening to the lord of the desert for three thousand years. They had never heard it speak. They had only felt its dreams—fragments, impulses, hunger. And now their king had announced that the Golden Sun had spoken to him, had shown him visions, had promised to extend its blessing to their people. The Root-Speakers would have questions. Sylva did not have answers. But she would have to find them.

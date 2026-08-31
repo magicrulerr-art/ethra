@@ -1,5 +1,6 @@
 ## Chapter 4: The Styx
 
+<div class="dialogue-block">
 <p class="speech-line">'It's just as L'vat described, the spiral stair, the faint lights... the air gets thinner... if I hadn't lived with them for a year I think I would have fainted by now, here is the message, just where said it would be. "To my heir, if you are reading this, then you know, our blood is cursed, everyone who came before you and surely everyone who will come after has succumbed to the curse, there is only one way out, in." For the whiskers of Uthgard!! Did the first need to be so cryptic as well???!!!!, there's something... some noise... a voice?'</p>
 </div>
 

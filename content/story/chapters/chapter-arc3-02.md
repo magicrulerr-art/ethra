@@ -177,7 +177,7 @@ Hakar shrugged, his weathered shoulders rising and falling. <span class="speech"
 The song drifted across the desert, faint but growing louder. It was not a Wengari song. It was older. Deeper. It spoke of deep water and patient hunger, of ancient bargains and forgotten promises. It was the song of something that had been walking for a very long time, and was almost home. The watchmen stood their post, and the mirage kept walking, and the stars wheeled overhead in their slow, eternal dance. Morning was coming. And with it, the oldest of the races.
 
 
-The door burst open and three maids scrambled in, their golden manes disheveled, their eyes wide with a mixture of terror and barely suppressed amusement. The oldest of them, a stout Bright Paw named Mira who had served in the palace since Uthgard IX was young, was the first to find her voice.
+The door burst open and three maids scrambled in, their golden manes disheveled, their eyes wide with a mixture of terror and barely suppressed amusement. The oldest of them, a stout Bright Paw named Mara who had served in the palace since Uthgard IX was young, was the first to find her voice.
 
 
 <div class="dialogue-block">
@@ -186,13 +186,13 @@ The door burst open and three maids scrambled in, their golden manes disheveled,
 
 
 <div class="dialogue-block">
-Another maid, younger and bolder, spoke up from behind Mira. <span class="speech">"The tournament announcement is at noon, my king. You have not missed it. The criers have been spreading the word since dawn. The capital is already gathering. But you—"</span> She gestured at his mane, which was flattened on one side and sticking up on the other. <span class="speech">"You have time to eat. And bathe. And perhaps—"</span> She hesitated, her courage wavering. <span class="speech">"Perhaps brush your mane?"</span>
+Another maid, younger and bolder, spoke up from behind Mara. <span class="speech">"The tournament announcement is at noon, my king. You have not missed it. The criers have been spreading the word since dawn. The capital is already gathering. But you—"</span> She gestured at his mane, which was flattened on one side and sticking up on the other. <span class="speech">"You have time to eat. And bathe. And perhaps—"</span> She hesitated, her courage wavering. <span class="speech">"Perhaps brush your mane?"</span>
 </div>
 
 
-Mira shot the younger maid a warning look, but there was no real heat in it. The palace had been tense for a month, ever since the old king died and the new one took the throne. But this morning—this morning, the young king had woken up late and panicked like any other Wengari his age, and something in the atmosphere had cracked. The maids were still afraid of him. He was still the White Dawn, the king who had faced the Styx and renewed the pact.
+Mara shot the younger maid a warning look, but there was no real heat in it. The palace had been tense for a month, ever since the old king died and the new one took the throne. But this morning—this morning, the young king had woken up late and panicked like any other Wengari his age, and something in the atmosphere had cracked. The maids were still afraid of him. He was still the White Dawn, the king who had faced the Styx and renewed the pact.
 
-But he was also a young man who overslept and needed someone to tell him to brush his mane. And that, Mira thought, was not a bad thing. Not a bad thing at all.
+But he was also a young man who overslept and needed someone to tell him to brush his mane. And that, Mara thought, was not a bad thing. Not a bad thing at all.
 
 
 <div class="dialogue-block">
@@ -200,20 +200,20 @@ But he was also a young man who overslept and needed someone to tell him to brus
 </div>
 
 
-Mira, who had served in the palace since Uthgard IX was young and had seen more than her share of royal panics, calmly reached for a polished silver mirror and held it before the king's face. The reflection that stared back was not the regal figure who had faced down four delegations the day before. The golden mane was flattened on one side, sticking up in wild tufts on the other, and there was a small piece of dried vegetation lodged behind one ear—a remnant, perhaps, of his journey through the hanging gardens weeks ago.
+Mara, who had served in the palace since Uthgard IX was young and had seen more than her share of royal panics, calmly reached for a polished silver mirror and held it before the king's face. The reflection that stared back was not the regal figure who had faced down four delegations the day before. The golden mane was flattened on one side, sticking up in wild tufts on the other, and there was a small piece of dried vegetation lodged behind one ear—a remnant, perhaps, of his journey through the hanging gardens weeks ago.
 
 
 <div class="dialogue-block">
-<span class="speech">"The families are already gathering, my king,"</span> Mira said, her voice steady despite the chaos. <span class="speech">"The criers announced the tournament at dawn. The arena is being prepared. The Pyrinae delegation has requested front seats. The Hummans have asked if they are permitted to attend. The Veylar Shell-Singer is already seated in the eastern colonnade—she arrived before sunrise, and no one has dared ask her to move. And—"</span> She paused, her ears flicking with something that might have been amusement. <span class="speech">"And the Stripe Paws have been practicing in the caravan grounds since first light. They seem... eager."</span>
+<span class="speech">"The families are already gathering, my king,"</span> Mara said, her voice steady despite the chaos. <span class="speech">"The criers announced the tournament at dawn. The arena is being prepared. The Pyrinae delegation has requested front seats. The Hummans have asked if they are permitted to attend. The Veylar Shell-Singer is already seated in the eastern colonnade—she arrived before sunrise, and no one has dared ask her to move. And—"</span> She paused, her ears flicking with something that might have been amusement. <span class="speech">"And the Stripe Paws have been practicing in the caravan grounds since first light. They seem... eager."</span>
 </div>
 
 
 <div class="dialogue-block">
-The younger maid, emboldened by Mira's calm, stepped forward with a brush. <span class="speech">"Your mane, my king. If you will permit me—there is time. Not much time, but enough. The tournament is at noon. It is barely mid-morning. You have perhaps—"</span> She glanced at the window, where the Steadfast was climbing steadily toward its zenith. <span class="speech">"Perhaps forty minutes. If you eat quickly. And if you let me fix your mane. And if you do not stop to threaten any more delegations on the way to the arena."</span>
+The younger maid, emboldened by Mara's calm, stepped forward with a brush. <span class="speech">"Your mane, my king. If you will permit me—there is time. Not much time, but enough. The tournament is at noon. It is barely mid-morning. You have perhaps—"</span> She glanced at the window, where the Steadfast was climbing steadily toward its zenith. <span class="speech">"Perhaps forty minutes. If you eat quickly. And if you let me fix your mane. And if you do not stop to threaten any more delegations on the way to the arena."</span>
 </div>
 
 
-Mira shot her a look that could have melted stone. The younger maid's ears flattened, but she did not take back the words. And somewhere behind the chaos of the morning, Ajani could have sworn he heard the faint, distant sound of laughter echoing through the palace corridors. Whether it was the maids, or T'van, or the ghost of his father watching from somewhere beyond the veil, he could not tell. But it was there. And it was not unkind.
+Mara shot her a look that could have melted stone. The younger maid's ears flattened, but she did not take back the words. And somewhere behind the chaos of the morning, Ajani could have sworn he heard the faint, distant sound of laughter echoing through the palace corridors. Whether it was the maids, or T'van, or the ghost of his father watching from somewhere beyond the veil, he could not tell. But it was there. And it was not unkind.
 
 
 <div class="dialogue-block">
@@ -221,11 +221,11 @@ Mira shot her a look that could have melted stone. The younger maid's ears flatt
 </div>
 
 
-The maids erupted into motion. Mira snapped orders at the younger attendants, who scattered like leaves before a sandstorm—one running for the royal armory, another for the kitchens, a third for the wardrobe where the ceremonial robes were kept. The young maid with the brush stood her ground, already working the knots out of Ajani's mane with quick, practiced strokes.
+The maids erupted into motion. Mara snapped orders at the younger attendants, who scattered like leaves before a sandstorm—one running for the royal armory, another for the kitchens, a third for the wardrobe where the ceremonial robes were kept. The young maid with the brush stood her ground, already working the knots out of Ajani's mane with quick, practiced strokes.
 
 
 <div class="dialogue-block">
-<span class="speech">"Your father always woke before dawn,"</span> Mira said, her voice calm amid the chaos. <span class="speech">"He would sit on the throne for an hour before any audience, composing himself. He said a king who rushes is a king who makes mistakes. But your father—"</span> She paused, a faint smile creasing her weathered face. <span class="speech">"Your father also had four hundred and seventy-three years to perfect the habit. You have had one month. And you spent yesterday negotiating the fate of four races. I think the lord of the desert will forgive you a late morning."</span>
+<span class="speech">"Your father always woke before dawn,"</span> Mara said, her voice calm amid the chaos. <span class="speech">"He would sit on the throne for an hour before any audience, composing himself. He said a king who rushes is a king who makes mistakes. But your father—"</span> She paused, a faint smile creasing her weathered face. <span class="speech">"Your father also had four hundred and seventy-three years to perfect the habit. You have had one month. And you spent yesterday negotiating the fate of four races. I think the lord of the desert will forgive you a late morning."</span>
 </div>
 
 
@@ -243,7 +243,7 @@ The young maid with the brush made a soft sound that might have been agreement. 
 
 
 <div class="dialogue-block">
-Mira was already fastening the pauldrons across Ajani's shoulders. The white cloak settled around him, its familiar weight a comfort and a burden. <span class="speech">"You will enter the arena at noon,"</span> Mira said, stepping back to inspect her work. <span class="speech">"You will sit on your throne. You will announce the tournament. And no one—not the Stripe Paws, not the Pyrinae, not the Hummans, not the Shell-Singer—will know that their king overslept and forgot to eat breakfast. That is the secret of kingship, Ajani Brightmane. We all pretend. And eventually, the pretending becomes real."</span>
+Mara was already fastening the pauldrons across Ajani's shoulders. The white cloak settled around him, its familiar weight a comfort and a burden. <span class="speech">"You will enter the arena at noon,"</span> Mara said, stepping back to inspect her work. <span class="speech">"You will sit on your throne. You will announce the tournament. And no one—not the Stripe Paws, not the Pyrinae, not the Hummans, not the Shell-Singer—will know that their king overslept and forgot to eat breakfast. That is the secret of kingship, Ajani Brightmane. We all pretend. And eventually, the pretending becomes real."</span>
 </div>
 
 
@@ -258,7 +258,7 @@ The young maid stepped back, brush still in hand, her golden eyes bright. <span 
 
 
 <div class="dialogue-block">
-The maids scattered like leaves before a sandstorm as Ajani bolted from his chambers, still fumbling with the clasp of his father's white cloak. The young maid with the brush stood frozen, her eyes wide, while Mira—who had served three generations of Bright Paw royalty—simply shook her head and smiled. <span class="speech">"Forty-seven years I've dressed kings,"</span> she murmured to no one in particular. <span class="speech">"And that one is my favorite."</span>
+The maids scattered like leaves before a sandstorm as Ajani bolted from his chambers, still fumbling with the clasp of his father's white cloak. The young maid with the brush stood frozen, her eyes wide, while Mara—who had served three generations of Bright Paw royalty—simply shook her head and smiled. <span class="speech">"Forty-seven years I've dressed kings,"</span> she murmured to no one in particular. <span class="speech">"And that one is my favorite."</span>
 </div>
 
 

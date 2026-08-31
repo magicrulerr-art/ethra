@@ -1,6 +1,6 @@
 # Chapter 5: The Great War
 
-*39,607 words across 22 chapters*
+*39,498 words across 22 chapters*
 
 ### 05:25 — Vasha Storms In
 
@@ -76,17 +76,17 @@ The light wall cracked. A fissure ran across its golden surface like lightning a
 
 ### 12:02 — Ajani Throws The Spear
 
-Ajani didn't wait for an answer. He launched himself into the sky, the golden wings snapping open from his back, the white spear of the Pyrinae already materializing in his grip. The creature was a le...
+Then it opened its maw and fired....
 
 ### 12:03 — Cefiro Arrives
 
-It was 12:03 in the afternoon. The city was chanting. The spirits were fighting. And Ajani, suspended between fire and ice, his aura draining into both, reached for the third page....
+"Spirit of light from the west, the sun that shines upon us all—warm, unforgiving, unflinching. This humble sorcerer beseeches you: take from me and answer my plea. Be made manifest and answer my plea...
 
 ### 12:05 — The Light Cage Fades
 
-It was 12:04 in the afternoon. The elemental avatars were giants. The city was chanting. And the White Dawn, suspended between fire and ice and light with blood running from his nose and the golden St...
+Ajani hung in the sky, the golden Styx still perched on his right shoulder with its talons buried deep, the fire serpent coiled around his right arm, the ice ring still tight around his neck. His fur ...
 
 ### 12:06 — The White Dawn Wakes
 
-Ajani reached for the fifth page. His left arm was still coiled by the fire serpent, his neck still ringed in ice, his left leg still swirling with tiny white stars, his right shoulder still pierced b...
+"Golden Spirit from the deep, the one who guards the gate, keeper of riches untold, this humble sorcerer beseeches you—take from me and answer my plea. Be made manifest and answer my plea. I call to t...
 

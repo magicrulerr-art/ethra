@@ -499,13 +499,9 @@ She paused. <span class="speech">"My mother used to tell me stories about the Pl
 
 
 <div class="dialogue-block">
-<span class="speech">"That's not true. I didn't like the assassin who tried to kill me. I fed him to Black Fire."</span> She paused. <span class="speech">"Well. Black Fire fed himself. I just watched."</span>
+<p class="speech-line">"That's not true. I didn't like the assassin who tried to kill me. I fed him to Black Fire."</p>
 </div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">We switch to the night at the throne room ajani is taking a bath the bracers have become simple wrist wards barely a claw long, Cefiro is next to him clearly enjoying the warm water, ajani asks "Tell me cousin how did you manage to get to the city?"</p>
-</div>
+<p>She paused. <span class="speech">"Well. Black Fire fed himself. I just watched."</span></p>
 
 
 The bathhouse beneath the palace was a relic of the old world—a deep, steaming pool of water fed by the same aquifers that sustained the hanging gardens. The walls were lined with rune-glass filaments that pulsed with a soft amber light, and the air was thick with the scent of mineral salts and the faint, lingering sweetness of the kyre flowers. Ajani had been soaking for nearly an hour. The heat was the only thing that seemed to reach the ache in his bones.
@@ -1053,25 +1049,4 @@ M'rak's burn-scarred face tightened. Reva's golden eyes widened. Zephyr's scarre
 
 <div class="dialogue-block">
 <p class="speech-line">Elyra was the first to speak. Her melodic voice was very quiet. "Your Highness. If you order a full military deployment against the Human cities, you will succeed. The Wengari have the Wohs. The ghosts. The shadow riders. The Humman military is shattered. Their king is dead. Their remaining forces are scattered. You could burn Verdantis to the ground. You could erase every Human city from the face of Ethra. It would take perhaps three months. Perhaps four. The cost in Wengari lives would be significant but not prohibitive. You would win."</p>
-</div>
-
-
-She paused. Her silver aura flickered once.
-
-
-<div class="dialogue-block">
-<span class="speech">"And when you were done, every other race on Ethra would know that the White Dawn who offered them friendship and trade and a place in his tournament had become the sixth Tyrant. The Pyrinae would remember that you freed them and then wonder if you would enslave them again. The Veylar would withdraw to their Tidepools and never speak to the surface again. The Threx would retreat into the March and close the mycelial network forever. The Dragari would vanish. The Chi'Thak would feast on the ruins. And the Golden Sun, the lord of the desert, would watch you become exactly what every Tyrant before you became—a White Dawn who began with benevolence and ended in blood. You would win the war, Your Highness. And you would lose everything you built."</span> She raised her eyes to the throne. <span class="speech">"The foreign advisor recommends against full military deployment. The foreign advisor recommends leverage instead."</span>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">"they used Velarius madness don't you believe that justifies full military deployment?"</p>
-</div>
-
-
-Ajani's question hung in the throne room like a challenge. His voice had not risen, but the cold fury beneath it was unmistakable. The diadem's gem pulsed once, bright and hard.
-
-
-<div class="dialogue-block">
-<p class="speech-line">M'rak stepped forward before anyone else could speak. The burn-scarred general had been fighting since dawn, and his voice was hoarse, but it did not waver. "Your Highness, the Humman king deployed Plague weapons against us. He used the arsenal of the Fifth Tyrant. Under the old laws—the laws from before the pact, the laws the Wengari have kept since the First Tyrant fell—the use of Plague weapons is a declaration of total war. It carries a single response: annihilation of the offending state. If you order full military deployment, you will be acting within the old laws. No Wengari would question it. No elder would oppose it. The precedent is clear."</p>
 </div>

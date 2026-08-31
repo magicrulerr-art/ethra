@@ -499,13 +499,9 @@ She paused. <span class="speech">"My mother used to tell me stories about the Pl
 
 
 <div class="dialogue-block">
-<span class="speech">"That's not true. I didn't like the assassin who tried to kill me. I fed him to Black Fire."</span> She paused. <span class="speech">"Well. Black Fire fed himself. I just watched."</span>
+<p class="speech-line">"That's not true. I didn't like the assassin who tried to kill me. I fed him to Black Fire."</p>
 </div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">We switch to the night at the throne room ajani is taking a bath the bracers have become simple wrist wards barely a claw long, Cefiro is next to him clearly enjoying the warm water, ajani asks "Tell me cousin how did you manage to get to the city?"</p>
-</div>
+<p>She paused. <span class="speech">"Well. Black Fire fed himself. I just watched."</span></p>
 
 
 The bathhouse beneath the palace was a relic of the old world—a deep, steaming pool of water fed by the same aquifers that sustained the hanging gardens. The walls were lined with rune-glass filaments that pulsed with a soft amber light, and the air was thick with the scent of mineral salts and the faint, lingering sweetness of the kyre flowers. Ajani had been soaking for nearly an hour. The heat was the only thing that seemed to reach the ache in his bones.
@@ -1719,11 +1715,6 @@ The generals stirred. M'rak's golden eyes narrowed. Reva's claws half-extended. 
 Sultan Salahim's weathered face tightened, but he did not deny it. He simply stood, the scroll still raised, waiting for the king to speak.
 
 
-<div class="dialogue-block">
-<p class="speech-line">Ajani says his voice booming "This Ajani first of his name, protector of the realm, heir to the black fire and to the light bringer, brother to the deep, caller of spirits, king of the wengari, salutes sultan Salahim king of the Hummans, and while he might be forgiving, his subjects are not, Seris deal with this filth they are banned from entering the city, Generals seize the birds and check for any weapon, if you find anything, kill them all" then he turns his cape billowing and enters the city</p>
-</div>
-
-
 The Sultan stood frozen, the scroll still raised in his hand, as the White Dawn turned his back and walked through the shattered gate. The white cape billowed behind him, the diadem's gem blazing in the morning sun. Blackie and Reddy flanked him, their white-lacquered pincers clicking in perfect, menacing unison. The spear hummed in his paw.
 
 
@@ -1754,18 +1745,6 @@ M'rak approached the Sultan, his burn-scarred face unreadable. <span class="spee
 <div class="dialogue-block">
 <p class="speech-line">M'rak looked at him for a long moment. Then he turned away. "Then you are wiser than your predecessor. Pray that wisdom is enough."</p>
 </div>
-
-
-
-The white cape billowing was a calculated gesture. He knew the Sultan would watch him go. That is the behavior of a king who is learning to use his presence as a weapon. The core tension of his character remains intact. He is still the young Wengari who would rather be on the road than on the throne, who would rather fight than negotiate. He is still the White Dawn who nearly lost his crown in a duel. He is still the brother who made Kira a belt and laughed when his scorpions frightened the servants.
-
-The war has not hardened him into something unrecognizable. It has sharpened the edges that were already there.
-
-
-His delegation of the Human question to Seris is the right political move and the right character beat. She is the one who can see through Salahim's paper shield. She is the one who knows the difference between genuine shame and bureaucratic survival instinct. She is the one who has earned the right to speak for the crown in this moment. And her quiet, cold dismissal of the Sultan is the perfect counterpoint to Ajani's theatrical exit.
-
-The king thunders, and the ambassador cuts. That is a functioning partnership.
-
 
 The tent was a simple affair of canvas and rope, erected just beyond the northern gate on the blackened sand where the Plague creature had nearly breached the wall. The ground was still scarred, the sand fused into rough, dark glass in places where the mirror array's beam had struck. The Sultan's cargo hawks were penned nearby, their emerald plumage ruffling in the desert wind, their great wings folded.
 
@@ -4332,22 +4311,7 @@ Ajani spoke, his voice steady and clear, carrying across the silent gate. <span 
 
 
 <div class="dialogue-block">
-A long silence. Then Nikolai threw back his head and laughed—a great, booming roar of delight that echoed across the desert and bounced off the golden walls of Styxian. <span class="speech">"He is everything you said, Cefiro! Everything! The boy who could not beat my son three years ago just bested me in front of every delegation on the continent!"</span> He dismissed his halberd with a flick of his wrist and clasped Ajani's forearm in the Wengari greeting. <span class="speech">"You are your father's son. You are your mother's son. You are everything the old tales promised. The Snow Paws are honored to meet you, White Dawn. The Snow Paws are honored to come home."</span>
-</div>
-
-
-<div class="dialogue-block">
 Nikolai threw back his head and laughed—a great, booming roar of delight that echoed across the desert and bounced off the golden walls of Styxian. <span class="speech">"He is everything you said, Cefiro! Everything! The boy who could not beat my son three years ago just bested me in front of every delegation on the continent!"</span> He dismissed his halberd with a flick of his wrist and clasped Ajani's forearm in the Wengari greeting. <span class="speech">"Nikolai Silverpelt, champion of the frozen wastes, defender of the Great Ice City, long-lost brother of the Wengari, Tsar of the Snow Paws, salutes Ajani Brightmane, first of his name, White Dawn, king of the Wengari. The Snow Paws are honored to meet you. The Snow Paws are honored to come home, Nephew."</span>
-</div>
-
-
-
-
-The final exchange—staff parry into ji descent—was the correct resolution. The halberd user was beaten by an opponent who could change weapons faster than the halberd could change direction. That is the Four Pillars philosophy in its purest form.
-
-
-<div class="dialogue-block">
-Everyone cheers for Ajani everyone but l'vat who approaches and unceremoniously starts critiquing him <span class="speech">"you didn't dodge fast enough !, you summoned the ji again!!! , you haven't even finished the spear training!!!! "</span> Nikolai thinks worryingly 'thats an incomplete form ?' but his face remains impassive, Vanya and Nadya are looking at Ajani appreciatevely, Yvaria and lira notice it and immediately go towards ajanis side Yvaria throws herself at him shouting <span class="speech">"your highness I missed you so much!"</span>, but ajani dodges an instead orders blackie and reddy to grab Kira
 </div>
 
 
@@ -4531,10 +4495,6 @@ Sylva watched the exchange with the patient, ancient eyes of a regent who had lo
 
 
 <div class="dialogue-block">
-
-
-
-<div class="dialogue-block">
 <p class="speech-line">It's the afternoon of the same day everyone has already settled in the throne room ajani is meeting all his advisors, Nikolai and Anastasia are there as well, L'vat, seris and the yet unamed veylar queen ajani speaks "Everyone is here, so Maren are we ready for the memorial and premiation ceremony tomorrow ?"</p>
 </div>
 
@@ -4641,12 +4601,6 @@ The court dispersed into the afternoon light, and the Great Celebration prepared
 <div class="dialogue-block">
 <p class="speech-line">Nikolai leaned forward, his deep voice thoughtful. "Cefiro has told me of the battle. He was not a combatant—he arrived at the end, with the medallion, and he did not fight. But he witnessed the cost. The Snow Paws have been isolated for five thousand years. We did not know our cousins were fighting a war. We did not know the Plague had been unleashed again. We have no names to add to your pillar, but we will stand with you at the memorial. The fifth family will honor the fallen of the four."</p>
 </div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Ok next one is a MASSIVE scene, we start from the palace it's early morning an hour before dawn ajani is wearing an uncharacteristic black robe and so is everyone else, 40 coffins are being loaded and carried by the bright paw guards, the Hummans are as well carrying their dead along with the Pyrinae the funeral procession walks through the city, in absolute Silence, wherever it passes wengari, Humman and pyranei join, Nikolai is walking next to ajani on his right, on his left the veylar queen, when they reach the gate, the dead are placed in a line and ajani turns to the Crowd and speaks "Life in the desert is hard only those strong enough survive and the weak die, however those behind me despite being dead are the strongest of us all, there is no higher honor than dying to protect your cubs and mate,  there is no one strongest that the one who knows will face certain death and yet he embraces it with a smile on his face, no greater power than that of the one who overcomes it's fear and fights along those different than him self for a greater cause , the brothers and sisters behind spirits have returned to their ancestors it is time their bodies do so now, GHOSTS RELEASE YOUR ARROWS" as soon as he speaks the words dozens of lighted arrows pelt the bodies ajani doesn't turn, and the funeral pyre burns against the dawn</p>
-</div>
-
 
 The city woke in darkness. The first grey light of dawn had not yet touched the eastern horizon when the great bronze doors of the palace swung open. Ajani Brightmane walked through them, and he was wearing black. The robe was simple, unadorned, the color of ash and mourning. The diadem on his brow was the only thing that gleamed, its white gem pulsing with a slow, steady light. Behind him, Blackie and Reddy walked in perfect silence, their white-lacquered pincers dimmed, their tails lowered.
 
@@ -4830,27 +4784,6 @@ Reva watched her fellow general with something that was almost a smile. She had 
 
 Kira watched M'rak with wide eyes. She had seen him on the wall, shouting orders, his burn-scarred arms gesturing at the enemy. She had seen him kneel before Ajani and accept the Brightmane name. Now she was watching him become something more. Pearl clicked her pincers once. Remembered. Lira's claws extended and retracted. Her rivalry with Yvaria was personal. Her respect for M'rak was absolute. He had held the gate.
 
-He had saved the city. Even an assassin understood the weight of that. And Ajani stood before the remaining two generals, the white spear humming in his paw, and prepared to speak again.M'rak rose from his knees. His burn-scarred arms, marked by the long morning of the war, hung at his sides. His golden eyes, which had watched fifteen Wohs die in pillars of fire and held the gate against four hundred scorpion riders, were steady.
-
-The new name—Brightmane—was still settling on his shoulders, but he wore it like armor.
-
-
-<div class="dialogue-block">
-<p class="speech-line">"For believing when no one believed. For being the first and last bulwark in the line of duty. For commanding the army when no one else would. This crown awards you the following title. Stand, M'rak, Heavenly General of the Earth!"</p>
-</div>
-
-
-The ground beneath the atrium trembled—a low, deep vibration that rose through the stone and resonated in the bones of every creature present. It was not an earthquake. It was something older, something that recognized the title being bestowed. The lord of the desert, deep in its inner chamber, had stirred. The Golden Sun had felt the words spoken above its roots, and it had answered. The vibration faded into silence, and the Wengari in the plaza stared at the ground beneath their paws with expressions of awe and not a small amount of fear.
-
-
-
-<div class="dialogue-block">
-Reva watched her fellow general with something that was almost a smile. She had ridden through the night. She had lost half her command. She had fought beside him on the wall. And now the soldier who had held the gate was being honored as the foundation of the Wengari military—the earth itself, the thing that did not move, the thing that endured. Nikolai leaned toward Anastasia once more. <span class="speech">"Earth and Wind. He is naming them after the elements. This is not ceremony. This is theology."</span> Anastasia's quiet voice was thoughtful. <span class="speech">"He is building a pantheon. The White Dawn is not merely rewarding his generals. He is making them eternal."</span>
-</div>
-
-
-Kira watched M'rak with wide eyes. She had seen him on the wall, shouting orders, his burn-scarred arms gesturing at the enemy. She had seen him kneel before Ajani and accept the Brightmane name. Now she was watching him become something more. Pearl clicked her pincers once. Remembered. Lira's claws extended and retracted. Her rivalry with Yvaria was personal. Her respect for M'rak was absolute. He had held the gate.
-
 He had saved the city. Even an assassin understood the weight of that. And Ajani stood before the remaining two generals, the white spear humming in his paw, and prepared to speak again.
 
 
@@ -4954,7 +4887,7 @@ Zephyr raised one lacquered claw. And the legion answered with a sound that was 
 </div>
 
 
-Sylva stepped forward once more, her silver-chased armor gleaming in the morning light. A second scroll passed from her paw to Ajani's, and he unfurled it with the same theatrical flourish, the parchment crackling in the silence that had fallen after the generals' roar.
+Sylva stepped forward once more, her silver-chased armor gleaming in the morning light. A scroll passed from her paw to Ajani's, and he unfurled it with the same theatrical flourish, the parchment crackling in the silence that had fallen after the generals' roar.
 
 
 <div class="dialogue-block">
@@ -4965,44 +4898,10 @@ Sylva stepped forward once more, her silver-chased armor gleaming in the morning
 The crowd stirred. This was unexpected. The Humman general who had defected, who had ridden through her own lines with her hands raised, who had brought a hundred civilians to the wall—she was being called before the throne. The Wengari watched with curiosity. The Human refugees watched with something closer to disbelief.
 
 
-Tamsin walked through the assembled ranks. Her scarred face was set, her dark eyes forward, her back straight. She had been a general of the Human army. She had served a king she despised. She had defected when she saw the Plague weapons fire, and she had fought alongside the Wengari ever since. She stopped before the throne and knelt. Her chains were gone, removed weeks ago, but the memory of them still lingered in the way she held her wrists.
+Tamsin walked through the assembled ranks, and the crowd parted for her. Her scarred face was set, her dark eyes forward, her back straight. She had been a general of the Human army. She had served a king she despised. She had defected when she saw the Plague weapons fire, and she had fought alongside the Wengari ever since. She stopped before the throne and knelt. Her chains were gone, removed weeks ago, but the memory of them still lingered in the way she held her wrists. She was not Wengari. She would never be Wengari. But she had earned her place among them.
 
 
 Ajani looked down at her, and when he spoke, his voice was quieter than it had been for the Heavenly Generals. This was not a warrior of the Wengari. This was something rarer.
-
-
-<div class="dialogue-block">
-<p class="speech-line">"Tamsin of the Hummans. You were our enemy. You marched against us under a king who carried forbidden weapons. When you saw those weapons deployed, you did not stay silent. You did not look away. You rode through your own lines with your hands raised. You brought a hundred civilians to the wall. You led them in battle. You held the gate alongside my soldiers. You are not a Wengari. You are not bound to us by blood or by oath. And yet you fought for this city as if it were your own."</p>
-</div>
-
-
-He paused. The diadem's gem pulsed once, a slow, steady beat.
-
-
-<div class="dialogue-block">
-<p class="speech-line">"For standing against your own when they were wrong. For choosing honor over obedience. For proving that courage does not belong to any one race. This crown awards you the following title. Stand, Tamsin, the Sun's Mercy, Honorary General of the Wengari!"</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">The crowd erupted. It was not the thunderous roar that had greeted the Heavenly Generals—it was something more complex, something that carried the weight of old hatreds and new alliances. The Human refugees in the plaza were weeping. The Wengari soldiers who had fought alongside Tamsin on the wall were cheering. Seris, standing near the back of the atrium, had closed her eyes, and a single tear traced a line down her dark cheek. Tamsin rose from her knees. Her scarred face was still set, but her dark eyes glistened. She saluted the throne in the Wengari fashion—claws extended, then retracted—and her voice, when she spoke, was steady. "I am not Wengari. I will never be Wengari. But I will serve this city until I die. This I swear."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Ajani inclined his head. "That is all we ask."</p>
-</div>
-
-
-Sylva stepped forward once more, a third scroll passing from her paw to Ajani's. He unfurled it with the same theatrical flourish, the parchment crackling in the silence that followed the roar for the Heavenly Generals. The white spear hummed in his other paw, and the diadem's gem blazed.
-
-
-<div class="dialogue-block">
-<p class="speech-line">"Tamsin of the Hummans, present yourself to the crown!"</p>
-</div>
-
-
-Tamsin walked through the assembled ranks, and the crowd parted for her. She was not Wengari. She would never be Wengari. But she had earned her place among them. She knelt before the throne, her scarred hands resting on her knees, her dark eyes fixed on the king.
 
 
 <div class="dialogue-block">
@@ -5024,35 +4923,9 @@ Her people had been enemies. Her people had been broken. And now one of her own 
 <p class="speech-line">Ajani inclined his head. "That is all we ask."</p>
 </div>
 
-
-
-
-By elevating a Human who defied her own king, Ajani is reminding his own people that loyalty to the crown is the highest virtue—higher than blood, higher than tradition, higher than the old hatreds.
-
-
-The theatricality of the scroll is the right choice for this ceremony. The war was fought in desperation and chaos. The celebration is a performance, and Ajani understands this. He is performing the role of the king who rewards loyalty, the White Dawn who keeps his promises. The theatrics are not vanity. They are statecraft. Every elder who watches this ceremony understands that the king is demonstrating exactly how he intends to rule.
-
-The Heavenly Generals and the Knight of the Golden Claw are the template for the future.
-
-
-The language of the proclamations is elevated without being archaic. It uses rhythmic repetition and concrete imagery in a way that feels like it belongs in the old tales even as it is being spoken for the first time. The balance between honoring the fallen and rewarding the living is precise; neither overshadows the other.
-
-
-Finally, the proclamations accomplish a diplomatic function. The Snow Paws are watching. The Veylar are listening through their Shell-Singers. The Threx are present. The Hummans are present. The titles are a message to all of them: this is how the White Dawn honors service, regardless of race or family or past allegiance. Tamsin's knighthood is an invitation and a warning. The invitation is to every other Human who might wonder if there is a place for them in the new order.
-
-The warning is to every Wengari who might think the old hatreds still apply.
-
-
-The titles are making legends. More importantly, they are making a nation.
-
-
 <div class="dialogue-block">
-<p class="speech-line">Sylva hands another scroll to Ajani this one is black he reads "Vasha of the stripe paws, Mira su walker of the Pyrinae present yourselves to the crown!!"</p>
+<p class="speech-line">Sylva stepped forward a final time, and the scroll she placed in Ajani's paw was black—the color of ink, of shadows, of secrets kept and truths uncovered. He unfurled it with the same theatrical flourish, and the crowd leaned forward, for this was unexpected. The Heavenly Generals had been honored. The Knight of the Golden Claw had been named. Who else could the crown wish to recognize?</p>
 </div>
-
-
-Sylva stepped forward a final time, and the scroll she placed in Ajani's paw was black—the color of ink, of shadows, of secrets kept and truths uncovered. He unfurled it with the same theatrical flourish, and the crowd leaned forward, for this was unexpected. The Heavenly Generals had been honored. The Knight of the Golden Claw had been named. Who else could the crown wish to recognize?
-
 
 <div class="dialogue-block">
 <p class="speech-line">"Vasha of the Stripe Paws, Mira Sun-Walker of the Pyrinae, present yourselves to the crown!"</p>

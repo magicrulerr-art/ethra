@@ -1,9 +1,5 @@
 ## Chapter 20: 12:03 — Cefiro Arrives
 
-It was 12:03 in the afternoon. The city was chanting. The spirits were fighting. And Ajani, suspended between fire and ice, his aura draining into both, reached for the third page.
-
-Ajani reached for the third page. The fire serpent constricted around his right arm, and the ice ring tightened around his neck, and his fur was frozen white across his shoulders, but his claws were steady. He tore the page from the grimoire—this one shimmering with a faint green light—and began to chant.
-
 <div class="dialogue-block">
 <p class="speech-line">"Spirit of light from the west, the sun that shines upon us all—warm, unforgiving, unflinching. This humble sorcerer beseeches you: take from me and answer my plea. Be made manifest and answer my plea. I call to thee—SERAPHIM!"</p>
 </div>
@@ -23,3 +19,7 @@ Blood began to drip from Ajani's nose. It ran down his lip and chin and splashed
 The chant spread through the ghosts, through the wall, through the temple. The Veylar Shell-Singer took it up, her melodic voice weaving the words into a harmony that resonated through the stone. The light Ajani grew. Its form swelled and intensified, matching the fire Ajani and the ice Ajani in size—nine meters of living radiance, its two-handed sword now a blazing pillar of solar fury. The fire Ajani, its twin sabers whirling, carved another leg from the creature.
 
 The ice Ajani, its scepter raised, froze another. The creature screamed—a sound of genuine, desperate agony, its purple eyes flickering, its wounds no longer healing.
+
+It was 12:04 in the afternoon. The elemental avatars were giants. The city was chanting. And the White Dawn, suspended between fire and ice and light with blood running from his nose and the golden Styx's talons buried in his shoulder, was winning.
+
+It was 12:05. The light cage faded. The creature advanced, diminished but not defeated, the wound where the black spear had torn it still smoking faintly. The four elemental avatars ringed it in a tightening spiral — fire, ice, light, and dark — each of them growing as the chanting swelled.

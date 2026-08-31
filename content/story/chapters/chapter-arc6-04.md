@@ -1,5 +1,46 @@
 ## Chapter 4: The Road Begins
 
+The gates were not bronze but ice, enchanted to never melt, their surface etched with the history of the family that had fled the Black Fire five thousand years ago and survived.
+
+
+The Sunraptor descended through the freezing air, and Kira clutched Pearl against her chest, her dark fur bristling against the cold despite the heavy cloak Cefiro had draped over her. The city spread beneath them, and she could see figures moving in the streets—white-furred Wengari, tall and elegant, their pelts marked with black motes like Cefiro's, their breath misting in the frozen air. Children pointed upward at the Sunraptor. Adults paused in their work to watch it descend.
+
+
+The landing platform was a wide circle of polished ice at the base of the palace. The Sunraptor touched down with a weary screech, its great wings folding, its head drooping with exhaustion. Cefiro dismounted first, his white fur blending with the snow, and extended a paw to help Kira down. Pearl skittered onto her shoulder, her pale carapace shivering slightly in the cold.
+
+
+A delegation was already waiting. At its head stood a Wengari of absolutely massive proportions—Nikolai, Tsar of the Snow Paws, standing nearly two point eight meters from his paws to the tips of his ears. His white fur was thick and heavy, his black motes forming patterns like storm clouds across his shoulders. His pale blue eyes—the same eyes Cefiro had—fixed on his son with an expression of profound relief barely concealed behind a mask of royal formality.
+
+
+Beside him stood Anastasia, the Tsarina, two and a half meters of lithe, beautiful white fur and a quiet, frightening demeanor. She did not speak. She did not need to. Her presence was a statement in itself—a blade hidden in silk, a winter storm waiting to break. She looked at her son, and the faintest softening at the corners of her mouth was the only sign that she had been worried.
+
+
+Behind them stood two daughters. The older, Vanya, was twenty-seven years old and two point four meters tall, her pale blue eyes sharp and assessing, her posture that of a warrior who had been trained since birth to defend the Ice City. The younger, Nadya, was sixteen and already two point two meters, her white fur still soft with youth, her eyes blazing with the same fierce curiosity that had driven her to throw snowballs at a starving wanderer three years ago.
+
+
+And standing slightly apart, trying very hard to look formal and failing utterly, was the youngest son. Ivan. He was the same age as Kira, the same height as Kira, and the moment he saw her—a dark-furred Wengari girl with a white scorpion on her shoulder, walking through the snow like she belonged there—his pale blue eyes went very wide. His mouth opened slightly. His tail gave a single, involuntary twitch.
+
+Vanya noticed. Nadya noticed. Anastasia noticed. Nikolai noticed. No one said anything. Ivan did not stop staring.
+
+
+<div class="dialogue-block">
+Nikolai stepped forward, his voice deep and resonant, carrying the weight of five thousand years of isolation. <span class="speech">"Cefiro. You are home."</span> He looked at Kira, his pale blue eyes taking in her dark fur, her fierce expression, the practice saber still strapped to her back. <span class="speech">"And you have brought a guest. A Shadow Paw. The stories the wanderer told us were true. There are indeed more Wengari."</span>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Cefiro inclined his head. "This is Kira Brightmane. Adopted sister of Ajani Brightmane, first of his name, White Dawn, king of the Wengari. She has come to see the Ice City and to bring word of the south."</p>
+</div>
+
+
+The silence that followed was absolute. Even the wind seemed to pause. Vanya's sharp eyes widened. Nadya's fierce expression flickered with something that was not quite shock and not quite delight. Anastasia's quiet, frightening stillness deepened. Nikolai's massive frame seemed to grow even larger. Ivan was still staring at Kira and had not heard a word anyone had said.
+
+
+<div class="dialogue-block">
+<span class="speech">"He is king,"</span> Nikolai said. It was not a question. <span class="speech">"The starving boy who wandered into our city three years ago is now a king."</span> Cefiro nodded. <span class="speech">"He is not merely a king. He is a White Dawn. Convergence-born. Touched by both suns. He renewed the pact with the lord of the desert. He trained under the lord of the marsh. He freed the Pyrinae from three thousand years of vassalage. He held a tournament and put his crown on the line. He survived an assassination attempt, a coup, a coma, and a war. He summoned six elemental spirits and destroyed a Plague creature with a thunderstorm. He has united the four families under a new government. He has built offices and councils and trade routes. The Shadow Paws fight for him. The Motted Paws serve as his regent. The Stripe Paws carry his coin. The Bright Paws are learning to be strong again. And he sent me here with the royal seal and an invitation from one king to another."</span> He produced the seal from his cloak. <span class="speech">"Ajani Brightmane requests formal diplomatic relations with the Snow Paws. He wishes for the fifth family to come home."</span>
+</div>
+
+
 <div class="dialogue-block">
 Vanya broke the silence. <span class="speech"><span class="speech">"Is he married?"</span></span> Nadya shoved her sister. <span class="speech">"Vanya! He's a king! You can't just—"</span> <span class="speech">"I'm asking. It's a legitimate question."</span> She turned back to Cefiro. "Is he married?"
 </div>
@@ -1169,117 +1210,4 @@ The Veylar queen watched in silence from her coral palanquin, her ancient eyes u
 
 <div class="dialogue-block">
 Ajani spoke, his voice steady and clear, carrying across the silent gate. <span class="speech">"This Ajani Brightmane, first of his name, protector of the realm, heir to the Black Fire and the Lightbringer, brother to the Deep, caller of spirits, king of the Wengari, salutes Nikolai Silverpelt, champion of the frozen wastes, defender of the Great Ice City, long-lost brother of the Wengari, Tsar of the Snow Paws."</span> He lowered the ji from Nikolai's throat and bowed his head. <span class="speech">"Welcome home, Uncle."</span>
-</div>
-
-
-<div class="dialogue-block">
-A long silence. Then Nikolai threw back his head and laughed—a great, booming roar of delight that echoed across the desert and bounced off the golden walls of Styxian. <span class="speech">"He is everything you said, Cefiro! Everything! The boy who could not beat my son three years ago just bested me in front of every delegation on the continent!"</span> He dismissed his halberd with a flick of his wrist and clasped Ajani's forearm in the Wengari greeting. <span class="speech">"You are your father's son. You are your mother's son. You are everything the old tales promised. The Snow Paws are honored to meet you, White Dawn. The Snow Paws are honored to come home."</span>
-</div>
-
-
-<div class="dialogue-block">
-Nikolai threw back his head and laughed—a great, booming roar of delight that echoed across the desert and bounced off the golden walls of Styxian. <span class="speech">"He is everything you said, Cefiro! Everything! The boy who could not beat my son three years ago just bested me in front of every delegation on the continent!"</span> He dismissed his halberd with a flick of his wrist and clasped Ajani's forearm in the Wengari greeting. <span class="speech">"Nikolai Silverpelt, champion of the frozen wastes, defender of the Great Ice City, long-lost brother of the Wengari, Tsar of the Snow Paws, salutes Ajani Brightmane, first of his name, White Dawn, king of the Wengari. The Snow Paws are honored to meet you. The Snow Paws are honored to come home, Nephew."</span>
-</div>
-
-
-
-
-The final exchange—staff parry into ji descent—was the correct resolution. The halberd user was beaten by an opponent who could change weapons faster than the halberd could change direction. That is the Four Pillars philosophy in its purest form.
-
-
-<div class="dialogue-block">
-Everyone cheers for Ajani everyone but l'vat who approaches and unceremoniously starts critiquing him <span class="speech">"you didn't dodge fast enough !, you summoned the ji again!!! , you haven't even finished the spear training!!!! "</span> Nikolai thinks worryingly 'thats an incomplete form ?' but his face remains impassive, Vanya and Nadya are looking at Ajani appreciatevely, Yvaria and lira notice it and immediately go towards ajanis side Yvaria throws herself at him shouting <span class="speech">"your highness I missed you so much!"</span>, but ajani dodges an instead orders blackie and reddy to grab Kira
-</div>
-
-
-Blackie and Reddy surged forward, their massive bodies moving with the fluid precision of apex predators who had been trained by a king. They swept past Yvaria's lunging form, past L'vat's gesturing limbs, and converged on the snow wurm where Kira stood beside Nikolai. The scorpions clicked their pincers in perfect unison—a sound of recognition, of welcome, of joy.
-
-
-Kira didn't wait for them to reach her. She launched herself off the wurm's back, her dark fur streaming behind her, and landed between the two scorpions with the practiced ease of someone who had been doing this since the day she met them. Blackie's antennae waved frantically over her head, checking for injuries. Reddy's tail curled around her shoulders in a protective arc.
-
-
-<div class="dialogue-block">
-<span class="speech">"You got bigger,"</span> Kira said. <span class="speech">"Both of you. You're huge now. You're like small Wohs."</span>
-</div>
-
-
-Blackie clicked his pincers, a sound that managed to convey both offense and pride. *Not small. Medium.*
-
-
-<div class="dialogue-block">
-<p class="speech-line">"You're medium Wohs. I missed you too."</p>
-</div>
-
-
-Pearl launched herself from Kira's shoulder and landed on Blackie's back, her pale carapace gleaming against his dark chitin. The three scorpions clicked and hummed together, a reunion older than language. L'vat had not stopped talking.
-
-
-<div class="dialogue-block">
-<span class="speech">"—and the ji! You summoned the ji again! I told you the form is incomplete! You could have shattered your own arm! The binding sequence was wrong, the stabilization matrix was missing, and you—"</span> The ancient Lament paused, his multifaceted eyes narrowing. <span class="speech">"You are not listening to me."</span>
-</div>
-
-
-<div class="dialogue-block">
-<span class="speech">"I am listening,"</span> Ajani said. <span class="speech">"I'm just also watching my sister reunite with her scorpions. She's been gone for weeks. The critique can wait."</span>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">"The critique cannot wait! You nearly died! Again! You are the most infuriating student I have ever trained!"</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">"You've only trained one student."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">"That does not make my statement less true!"</p>
-</div>
-
-
-Nikolai watched the exchange with the carefully impassive face of a king who was assessing information. *That's an incomplete form,* he thought. *The ji—the weapon he used to best me—is an incomplete form. He defeated me with a technique he has not yet mastered.* His stern face betrayed nothing. But his pale blue eyes flickered with something that was not quite alarm and not quite admiration.
-
-
-Vanya and Nadya had descended from the snow wurm and were standing at the edge of the celebration, their pale blue eyes fixed on Ajani with expressions that were not remotely subtle. Vanya's gaze was assessing—she had just watched a king defeat her father with an incomplete form, and she was recalculating everything she had assumed about the southern Wengari. Nadya's gaze was something else entirely.
-
-
-<div class="dialogue-block">
-<p class="speech-line">"He's taller than I remembered," <span class="speech-attr">Nadya said quietly.</span></p>
-</div>
-
-
-<div class="dialogue-block">
-<span class="speech">"You threw snowballs at him for a month,"</span> Vanya said. <span class="speech">"He probably doesn't remember you."</span>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">"He'll remember me. I'll make sure of it."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Yvaria had recovered from her missed lunge and was advancing on Ajani with the determined stride of someone who had been publicly humiliated and was not going to let it stand. "Your Highness! You dodged! I crossed the desert for the queen's escort and then flew back ahead of the delegation to see you and you—you—you sent your scorpions after your sister instead!"</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">"I haven't seen Kira in weeks. You've been gone for three days."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">"Three days is an eternity! I am your personal nurse! I am your—"</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">"You appointed yourself my personal nurse. While I was unconscious. I didn't get a vote."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Lira had materialized at Ajani's other side, her lacquered claws gleaming, her dark eyes fixed on Yvaria with the cold, patient hatred of someone who had been competing for the king's attention and was not about to lose ground. "The king is unharmed. The king does not need a nurse. The king needs a guard. I am his guard."</p>
 </div>

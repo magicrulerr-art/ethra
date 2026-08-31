@@ -1,6 +1,47 @@
 ## Chapter 3: The Vision
 
 <div class="dialogue-block">
+<p class="speech-line">Sylva stepped forward, her ancient voice measured. "The regent accepts the oversight responsibility. I will review all requests for detainment. If there is a credible threat, I will approve. If there is doubt, I will consult the king. The Shadow Office will not become a weapon of political persecution while I hold this office."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Maren looked up from her ledger. "The coin master accepts the director position, on the condition that a replacement is trained within the year. The treasury requires constant attention. The Shadow Office will require more. I can do both for a time. Not forever."</p>
+</div>
+
+
+<div class="dialogue-block">
+Ajani nodded slowly. <span class="speech">"Then it's done. Vasha, you have your office. Maren, you have your staff. Sylva, you have your oversight. The Shadow Office is now a permanent institution of the crown. Its budget will be drawn from the tournament revenue. Its director will answer to the throne. Its operatives will be drawn from every family. And its enemies—"</span> He paused, the diadem's gem pulsing once. <span class="speech">"Its enemies will learn to fear the shadows as much as they fear the sun."</span>
+</div>
+
+
+Ajani rose from the throne and walked out of the great hall, Blackie and Reddy falling into step behind him. The scorpions clicked their pincers once in unison, and then they were gone, the great bronze doors swinging shut behind them.
+
+
+A long silence settled over the chamber. Then the room began to breathe again.
+
+
+<div class="dialogue-block">
+Torek turned to his former subordinate once more. <span class="speech">"The king just created an intelligence office with the power to detain anyone on the regent's authority and handle critical threats without oversight. And he put Vasha in charge of it."</span> He paused. <span class="speech">"I am going to retire. Soon. Very soon."</span>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">M'rak's burn-scarred face was unreadable. "You said that after the last war. You're still here."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">"The last war didn't have Vasha with a legal mandate. I give it six months before she has files on every elder in this room."</p>
+</div>
+
+
+<div class="dialogue-block">
+Across the hall, the elders were stirring. The old Bright Paw who had protested Vasha's bypassing of the chain of command was speaking in a low, urgent voice to his companions. <span class="speech">"An intelligence office. With detainment authority. Run by the Council of the Untrustworthy. The same council that bypassed us during the war. The same spymaster who just told the king she wanted the power to disappear people in the night. And he gave her almost everything she asked for."</span> His golden mane was limp, his ancient shoulders bowed. <span class="speech">"We are becoming obsolete. Not gradually. Immediately."</span>
+</div>
+
+
+<div class="dialogue-block">
 <p class="speech-line">A Shadow Paw elder, her dark pelt blending with the shadows, inclined her head. "You are just now realizing this? The king bypassed us during the war. He promoted four young generals over every commander in this room. He gave the Council official recognition. He formalized the tournament. He established the schools. He made the Pyrinae free and the Hummans brothers. The old order has been dying since the day he took the throne. The Shadow Office is merely the final nail in the coffin. Adapt or fade. Those are the only choices."</p>
 </div>
 
@@ -1017,43 +1058,3 @@ The Sunraptor banked over the frozen peaks, and Kira saw the Great Ice City for 
 
 
 It was not like Styxian. Styxian rose from the desert like a golden fist, its walls ancient and weathered, its hanging gardens a defiant burst of green against the endless sand. The Ice City rose from the tundra like a frozen wave, its spires carved from gleaming white stone that caught the pale northern sun and threw it back in a thousand fractured sparks. The walls were not walls but glaciers, shaped and smoothed by millennia of Snow Paw craft.
-
-The gates were not bronze but ice, enchanted to never melt, their surface etched with the history of the family that had fled the Black Fire five thousand years ago and survived.
-
-
-The Sunraptor descended through the freezing air, and Kira clutched Pearl against her chest, her dark fur bristling against the cold despite the heavy cloak Cefiro had draped over her. The city spread beneath them, and she could see figures moving in the streets—white-furred Wengari, tall and elegant, their pelts marked with black motes like Cefiro's, their breath misting in the frozen air. Children pointed upward at the Sunraptor. Adults paused in their work to watch it descend.
-
-
-The landing platform was a wide circle of polished ice at the base of the palace. The Sunraptor touched down with a weary screech, its great wings folding, its head drooping with exhaustion. Cefiro dismounted first, his white fur blending with the snow, and extended a paw to help Kira down. Pearl skittered onto her shoulder, her pale carapace shivering slightly in the cold.
-
-
-A delegation was already waiting. At its head stood a Wengari of absolutely massive proportions—Nikolai, Tsar of the Snow Paws, standing nearly two point eight meters from his paws to the tips of his ears. His white fur was thick and heavy, his black motes forming patterns like storm clouds across his shoulders. His pale blue eyes—the same eyes Cefiro had—fixed on his son with an expression of profound relief barely concealed behind a mask of royal formality.
-
-
-Beside him stood Anastasia, the Tsarina, two and a half meters of lithe, beautiful white fur and a quiet, frightening demeanor. She did not speak. She did not need to. Her presence was a statement in itself—a blade hidden in silk, a winter storm waiting to break. She looked at her son, and the faintest softening at the corners of her mouth was the only sign that she had been worried.
-
-
-Behind them stood two daughters. The older, Vanya, was twenty-seven years old and two point four meters tall, her pale blue eyes sharp and assessing, her posture that of a warrior who had been trained since birth to defend the Ice City. The younger, Nadya, was sixteen and already two point two meters, her white fur still soft with youth, her eyes blazing with the same fierce curiosity that had driven her to throw snowballs at a starving wanderer three years ago.
-
-
-And standing slightly apart, trying very hard to look formal and failing utterly, was the youngest son. Ivan. He was the same age as Kira, the same height as Kira, and the moment he saw her—a dark-furred Wengari girl with a white scorpion on her shoulder, walking through the snow like she belonged there—his pale blue eyes went very wide. His mouth opened slightly. His tail gave a single, involuntary twitch.
-
-Vanya noticed. Nadya noticed. Anastasia noticed. Nikolai noticed. No one said anything. Ivan did not stop staring.
-
-
-<div class="dialogue-block">
-Nikolai stepped forward, his voice deep and resonant, carrying the weight of five thousand years of isolation. <span class="speech">"Cefiro. You are home."</span> He looked at Kira, his pale blue eyes taking in her dark fur, her fierce expression, the practice saber still strapped to her back. <span class="speech">"And you have brought a guest. A Shadow Paw. The stories the wanderer told us were true. There are indeed more Wengari."</span>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Cefiro inclined his head. "This is Kira Brightmane. Adopted sister of Ajani Brightmane, first of his name, White Dawn, king of the Wengari. She has come to see the Ice City and to bring word of the south."</p>
-</div>
-
-
-The silence that followed was absolute. Even the wind seemed to pause. Vanya's sharp eyes widened. Nadya's fierce expression flickered with something that was not quite shock and not quite delight. Anastasia's quiet, frightening stillness deepened. Nikolai's massive frame seemed to grow even larger. Ivan was still staring at Kira and had not heard a word anyone had said.
-
-
-<div class="dialogue-block">
-<span class="speech">"He is king,"</span> Nikolai said. It was not a question. <span class="speech">"The starving boy who wandered into our city three years ago is now a king."</span> Cefiro nodded. <span class="speech">"He is not merely a king. He is a White Dawn. Convergence-born. Touched by both suns. He renewed the pact with the lord of the desert. He trained under the lord of the marsh. He freed the Pyrinae from three thousand years of vassalage. He held a tournament and put his crown on the line. He survived an assassination attempt, a coup, a coma, and a war. He summoned six elemental spirits and destroyed a Plague creature with a thunderstorm. He has united the four families under a new government. He has built offices and councils and trade routes. The Shadow Paws fight for him. The Motted Paws serve as his regent. The Stripe Paws carry his coin. The Bright Paws are learning to be strong again. And he sent me here with the royal seal and an invitation from one king to another."</span> He produced the seal from his cloak. <span class="speech">"Ajani Brightmane requests formal diplomatic relations with the Snow Paws. He wishes for the fifth family to come home."</span>
-</div>

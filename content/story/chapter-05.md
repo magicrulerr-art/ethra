@@ -1655,10 +1655,6 @@ The white Wengari was exactly as Ajani remembered him—tall, pale-furred, his b
 The name came out hoarse, barely a whisper. Ajani's throat was dry from weeks of silence, and his voice cracked on the second syllable. But Cefiro heard it. His pale blue eyes widened, and the notebook slipped from his paw and landed on the stone floor with a soft thump. <span class="speech">"Cousin. You are awake. This one was beginning to think the medallion had failed. The Dragari said it would work, but the Dragari say many things, and not all of them are—"</span> He stopped. His gaze flicked toward the window, where the distant sounds of the creature's rampage were still filtering through the stone. <span class="speech">"There is a war. A very large war. With a very large creature. This one did not expect a war."</span>
 </div>
 
-<div class="dialogue-block">
-<p class="speech-line">Ajani's head turned toward the window so fast Kira heard the bones in his neck crack. He did not seem to notice. He jumped out of bed and ran toward the balcony. He saw the creature; he smelled the blood and the death. He took out the grimoire and wrote a formula. Golden translucent wings sprouted from his back and he flew to the wall. Cefiro said, "Well, that's new..." He turned to Kira. "Do you want to follow?" She nodded. He took out a scroll, read it, then bubbles enveloped them and the scorpions and the unconscious Vex and Lira as they followed him.</p>
-</div>
-
 It was noon, seventh day of the Month of Storms, first year of the reign of Ajani Brightmane.
 
 Ajani's head snapped toward the window so fast Kira heard the bones in his neck crack. He did not seem to notice. He was on his feet before she could speak, before Cefiro could finish his sentence, before the scorpions could untangle themselves from his legs. He crossed the chamber in three strides and threw open the balcony doors.

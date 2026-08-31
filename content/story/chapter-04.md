@@ -947,22 +947,14 @@ Ajani accepted the dagger in silence. He understood what it meant. The Shadow Pa
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">The Bright Paws came last, and their gift was the most unexpected. Solen himself presented it—a young Bright Paw cub, no more than six years old, her golden mane still soft with youth. "This is Kira. She is my granddaughter. She is the first of the new generation—the generation that will grow up under the new way. She will train in the schools. She will compete in the tournament. She will never know the stagnation that weakened her parents and her grandparents. I give her to the crown as a ward. Let her grow up in the palace. Let her learn from the king. Let her remind you, every day, that what you are building is not merely for the present. It is for the future."</p>
+<p class="speech-line">The Bright Paws came last, and their gift was the humblest in form yet the heaviest with meaning: a renewed oath, spoken not from a throne but from a family still learning to stand. Solen himself knelt—not in the ceremony's courtesy, but fully, his old golden mane brushing the polished stone. "We were the royal house for three thousand years, and we grew soft on the memory of it. The tournament stripped us bare. It was the truest gift the crown has given us, because it showed us what we are: a house that must earn its place again, the way the first Bright Paws earned it. The king asks us to train, to learn, to climb back from the shadows. We swear we will be worthy of the blood we carry—not by claim, but by deed. That is all the Bright Paws have left to give, and we give it whole."</p>
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">Ajani looked at the cub, who looked back at him with wide, unafraid golden eyes. He knelt, bringing himself to her level. "Kira. Do you know who I am?"</p>
+<p class="speech-line">Ajani walked forward and raised Solen to his feet. The green fire along his claws steadied to a warm, level glow. "Then you have given me more than any other family today. An oath kept is worth more than gold." He looked out over the assembled elders. "When the opening ceremonies come, it will be a Bright Paw who speaks the first words to the delegations of the world. So that everyone remembers that the Wengari do not rest on old glory—we build."</p>
 </div>
 
-<div class="dialogue-block">
-<p class="speech-line">The cub nodded solemnly. "You're the king. You fought Sylva and almost lost but then you won because you're very fast with a saber. I want to learn the saber. Can I learn the saber?"</p>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">Ajani smiled. It was not the smile of a king receiving a political gift. It was the smile of a young Wengari who recognized a kindred spirit. "You can learn the saber. You can learn all four pillars. You can learn Fire Paws and Eight Points and Flowing Water. You can learn everything the schools have to teach. And when you are old enough, you will compete in the tournament. And you will win. Because you are Bright Paw. Because you are Wengari. Because you are the future."</p>
-</div>
-
-The cub's ears pricked forward. She did not bow. She did not kneel. She simply nodded, as if the king had just confirmed something she already knew.
+The old High Priest's eyes, when they met the king's, held a clarity that had not been there since before the tournament. He inclined his head. "We will be worthy, my king. We will climb."
 
 Lena knelt beside the pool in the Motted Paw quarter, her dark hair tied back, her scribe's hands raw from scrubbing the stone channels that carried water from the gardens to the inner chambers. She had been Sylva's maid for three weeks, and she had learned that the regent was patient but exacting, kind but unsentimental, and utterly intolerant of any task done carelessly.
 
@@ -1584,42 +1576,6 @@ In the taverns and the caravan grounds and the training halls, the stories grew.
 
 He was a prophet. The Golden Sun had chosen him. The Golden Sun would choose others. And the Wengari, who had been the strongest race on Ethra for five thousand years, would now be favored by the strongest god.
 
-Kira, the young Bright Paw cub who had been given to the crown as a ward, had become a fixture in the palace. She was six years old, her golden mane still soft with youth, her curiosity boundless. She followed the servants through the corridors, asking endless questions about everything she saw. She watched the guards train in the courtyard, mimicking their movements with a wooden practice claw. She haunted the kitchens, charming the cooks into giving her extra portions of dried fruit.
-
-And every evening, without fail, she presented herself at the door of Ajani's chambers and demanded to know when she could begin learning the saber.
-
-<div class="dialogue-block">
-<span class="speech">"Tomorrow,"</span> Ajani told her one evening, not looking up from the scroll he was reading. <span class="speech">"I have meetings all day. The regent is angry with me about the Pyrinae. The council wants to discuss the budget. The Hummans are being suspiciously cooperative. I don't have time to teach a cub."</span>
-</div>
-
-<div class="dialogue-block">
-<span class="speech">"You said that yesterday,"</span> Kira pointed out. <span class="speech">"And the day before. And the day before that. You are the king. You can do whatever you want. You could cancel your meetings. You could tell the regent to stop being angry. You could tell the Hummans to stop being suspicious. And then you could teach me the saber."</span>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">Ajani set down the scroll. The green fire flickered gently along his claws, and he regarded the cub with an expression that was not quite amusement and not quite exasperation. "You are six years old. You are not ready for the saber."</p>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">"I am ready. I have been practicing with the wooden claw. I can show you. I can do the first form. I can do the second form too. I almost have the third form. I just need someone to show me the fourth form. You could do that. You are the king."</p>
-</div>
-
-Ajani stared at her for a long moment. Then he rose from his chair and walked to the corner of the chamber, where a wooden practice saber leaned against the wall. He picked it up, tested its weight, and tossed it to the cub. Kira caught it with both paws, her golden eyes blazing with triumph.
-
-<div class="dialogue-block">
-<span class="speech">"The first form,"</span> Ajani said, settling back into his chair. <span class="speech">"Show me."</span>
-</div>
-
-Kira lifted the wooden saber with the careful, deliberate stance of someone who had been watching warriors train for months and absorbing every detail. She moved through the first three forms with a precision that was impressive for a cub of six, and then she hesitated, her brow furrowing.
-
-<div class="dialogue-block">
-<span class="speech">"The fourth form,"</span> she said. <span class="speech">"I don't know the fourth form."</span>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">Ajani allowed himself the faintest twitch of his whiskers. "Then I suppose you will have to come back tomorrow."</p>
-</div>
-
 The afternoon sun of the Steadfast blazed over the market district of Styxian, and the fire feet pens were the busiest section of the square. The great black war-mounts stamped and snorted in their enclosures, their red feet leaving faint scorch marks on the stone, while a Stripe Paw handler extolled the virtues of a particularly fine breeding female to a crowd of admiring merchants.
 
 Ajani stood at the edge of the pens, his white cloak left behind in the palace, his golden mane pulled back in a simple traveler's knot. He had escaped. The morning had been consumed by a tedious dispute between two Bright Paw priests over the proper wording of the new prayers to the Golden Sun, and Sylva had been giving him that look—the patient, infuriating look that meant she was going to make him sit through the entire thing—and he had simply walked out the side door and kept walking until he reached the market.
@@ -1796,7 +1752,7 @@ Ajani's laughter echoed through the arena. <span class="speech">"You're learning
 
 Kira learned the palace's secret places from Ajani over the following weeks. The hidden passage behind the throne room that led to the old guard quarters. The rooftop garden where the kyre flowers bloomed year-round, even in the driest seasons. The kitchen's back entrance, where the cooks would slip them extra portions of dried fruit if they promised not to tell the steward. They played pranks on the maids—Ajani using a flicker of green fire to make the washbasin glow, Kira hiding in the linen closet and jumping out at precisely the right moment.
 
-The maids complained to Mira, and Mira complained to Sylva, and Sylva simply shook her head and said nothing. The king had been carrying the weight of the crown for months. If he needed to act like a cub for a few hours, the regent would not stop him.
+The maids complained to Mara, and Mara complained to Sylva, and Sylva simply shook her head and said nothing. The king had been carrying the weight of the crown for months. If he needed to act like a cub for a few hours, the regent would not stop him.
 
 One evening, they sat on the rooftop garden as the Steadfast set over the desert, painting the sky in shades of amber and rose. Kira was quiet, her dark pelt blending with the shadows, her golden eyes reflecting the dying light.
 
@@ -2256,6 +2212,8 @@ He looked at Vex. The Shadow Paw assassin was standing rigid, his dark eyes fixe
 Ajani looked at Lira. She stood frozen in her bridal silks, her serene expression crumbling into confusion. The elder beside her had gone very still, his confidence evaporating as he realized what his ambition had done.
 
 Ajani knelt beside Kira. He gathered the belt from the stone, brushing the dust from the fire scarab leather. The stitching was uneven but strong. He turned it over in his paws, examining the careful seams, the reinforced loops, the small, crooked Brightmane sigil she had tooled into the leather herself.
+</div>
+
 
 <div class="dialogue-block">
 <p class="speech-line">"Is this for me?" <span class="speech-attr">he asked quietly.</span></p>
@@ -2435,6 +2393,8 @@ He opened his mouth to answer. The mist was still falling, soft and green and pa
 
 <div class="dialogue-block">
 Ajani closed the grimoire and looked up. His green-flecked eyes swept across the gathered families, and he seemed to realize, for the first time, that everyone was staring at him. He had just ripped a page from a book, inscribed a sorcery formula, and conjured a ball of light that exploded into green rain. No one had known he could do that. No one had known he had been trained in sorcery at all.
+</div>
+
 
 <div class="dialogue-block">
 <span class="speech">"I will explain,"</span> he said. <span class="speech">"But first—"</span> His gaze found Seris. <span class="speech">"The Humman ambassador has been waiting to present her gift. I have kept her waiting long enough."</span>

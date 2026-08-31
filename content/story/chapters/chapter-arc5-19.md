@@ -1,9 +1,5 @@
 ## Chapter 19: 12:02 — Ajani Throws The Spear
 
-Ajani didn't wait for an answer. He launched himself into the sky, the golden wings snapping open from his back, the white spear of the Pyrinae already materializing in his grip. The creature was a league away—close enough that he could see the purple orbs pulsing where its eyes should have been, close enough that he could smell the charnel reek of its body, close enough that the green acid barbs it had fired at the Wohs could reach him in seconds.
-
-He threw the spear with everything he had. It split in midair—one became two, two became four, four became five—the five spears of the Pyrinae gift, each one blazing with a different elemental fury. Fire, water, light, darkness, earth. They surrounded the creature in a perfect pentagon, their points aimed inward, their shafts humming with contained power. The creature stopped. Its massive head swiveled, tracking the spears, and its purple eyes flickered with something that might have been recognition.
-
 Then it opened its maw and fired.
 
 <div class="dialogue-block">
@@ -69,3 +65,7 @@ She understood what it would cost him. She limped across the shattered rampart, 
 The chant spread along the wall. Wengari and Humman, soldier and civilian, took up the words. The fire Ajani grew. The serpent on Ajani's arm tightened, and he grimaced in pain, but the fire warrior swelled with each new voice, its blows against the creature growing heavier, faster, more furious. The ice Ajani struck with renewed precision. The creature was slowing. Its wounds were taking longer to heal.
 
 For the first time since it rose from the Humman camp, the black thing was being driven back.
+
+It was 12:03 in the afternoon. The city was chanting. The spirits were fighting. And Ajani, suspended between fire and ice, his aura draining into both, reached for the third page.
+
+Ajani reached for the third page. The fire serpent constricted around his right arm, and the ice ring tightened around his neck, and his fur was frozen white across his shoulders, but his claws were steady. He tore the page from the grimoire—this one shimmering with a faint green light—and began to chant.

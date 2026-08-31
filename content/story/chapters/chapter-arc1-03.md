@@ -1,5 +1,6 @@
 ## Chapter 3: The Pact
 
+<div class="dialogue-block">
 <p class="speech-line">"Your mother, Layla, was the fifth woman I loved. The first four… their bodies could not bear the weight of what I am. Each child was lost before it could take its first breath. And each time, a piece of me went with them. I thought I would never have an heir. I thought the Bright Paw line would end with me, and the pact would break, and the Tree would claim its due. And then Layla came. And she was strong. Stronger than any of them. She carried you to term. She gave you to the world. And then she died, as the others died, because the White Dawn does not share its fire without cost."</p>
 </div>
 
@@ -133,6 +134,3 @@ Beyond the threshold, a narrow passage descended into the bedrock. The air that 
 <div class="dialogue-block">
 <span class="speech">"Ajani."</span> Uthgard's voice stopped him at the threshold. <span class="speech">"Whatever the Tree asks of you—whatever it demands—remember that you are not merely the heir to the Lightbringer. You are the son of Layla. You are the White Dawn. And whatever bargain you strike, strike it not as a servant, but as an equal. That is what the Lightbringer understood. That is what I could never do. That is what you must do now. Go. The Tree is waiting. And I will be here when you return."</span>
 </div>
-
-
-<div class="dialogue-block">

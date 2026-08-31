@@ -146,6 +146,3 @@ His voice, already a dry whisper, grew softer still.
 
 
 He looked down at his ruined left hand.
-
-
-<div class="dialogue-block">

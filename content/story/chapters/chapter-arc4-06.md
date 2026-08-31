@@ -1,10 +1,6 @@
 ## Chapter 6: Aftermath
 
 <div class="dialogue-block">
-Elyra was silent for a long moment. Her silver aura flickered, and her melodic voice, when it came, was careful. <span class="speech">"The grimoire is bound to its owner. It is a living thing, in its fashion. But whether it can be made to grow new pages... that is not a question the Motted Paws have ever been asked. The grimoires we create are finite. Each page is a vessel for a single working. When the pages are gone, the book is complete, and its owner must begin again with a new volume."</span> She paused. <span class="speech">"You are asking if the vessel can be made to refill itself. That is... a significant request. We will need to study the question. It may not be possible. It may take years."</span>
-</div>
-
-<div class="dialogue-block">
 <p class="speech-line">Ajani nodded slowly. "Then study it. The road will take years. The coalition will take years. I am not asking for an answer today. I am asking for the question to be asked."</p>
 </div>
 
@@ -30,6 +26,8 @@ He opened his mouth to answer. The mist was still falling, soft and green and pa
 
 <div class="dialogue-block">
 Ajani closed the grimoire and looked up. His green-flecked eyes swept across the gathered families, and he seemed to realize, for the first time, that everyone was staring at him. He had just ripped a page from a book, inscribed a sorcery formula, and conjured a ball of light that exploded into green rain. No one had known he could do that. No one had known he had been trained in sorcery at all.
+</div>
+
 
 <div class="dialogue-block">
 <span class="speech">"I will explain,"</span> he said. <span class="speech">"But first—"</span> His gaze found Seris. <span class="speech">"The Humman ambassador has been waiting to present her gift. I have kept her waiting long enough."</span>

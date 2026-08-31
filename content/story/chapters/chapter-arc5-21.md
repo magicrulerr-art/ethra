@@ -1,9 +1,5 @@
 ## Chapter 21: 12:05 — The Light Cage Fades
 
-It was 12:04 in the afternoon. The elemental avatars were giants. The city was chanting. And the White Dawn, suspended between fire and ice and light with blood running from his nose and the golden Styx's talons buried in his shoulder, was winning.
-
-It was 12:05. The light cage faded. The creature advanced, diminished but not defeated, the wound where the black spear had torn it still smoking faintly. The four elemental avatars ringed it in a tightening spiral — fire, ice, light, and dark — each of them growing as the chanting swelled.
-
 Ajani hung in the sky, the golden Styx still perched on his right shoulder with its talons buried deep, the fire serpent coiled around his right arm, the ice ring still tight around his neck. His fur was frozen across his shoulders and burned along his forearm and bleeding from his nose, and his left leg had turned black. Tiny white stars swirled in the darkness of his leg, pinpricks of light in a void of flesh. He reached for the fourth page.
 
 <div class="thought-block">
@@ -35,3 +31,5 @@ Nefere stood beside him, leaning on her cracked staff, her ancient face grim. <s
 The light cage that Solen and the Golden Cloaks had erected flickered and faded. The twenty golden warriors had given everything they had left. Their light pillars guttered and died, and they fell back toward the wall, their golden armor dim, their spiked maces dark. The creature, diminished but unbroken, advanced. The elemental avatars hacked at it—fire sabers and ice scepter and light sword and dark spear—and the creature screamed and bled and kept coming.
 
 And Ajani, still aloft on his golden wings, still bleeding from his nose and his shoulder and his frozen and burned and blackened flesh, reached for the fifth page. His hand was steady. It was 12:05 in the afternoon.
+
+Ajani reached for the fifth page. His left arm was still coiled by the fire serpent, his neck still ringed in ice, his left leg still swirling with tiny white stars, his right shoulder still pierced by the golden Styx's talons. Blood ran from his nose and dripped onto the breastplate of the Lightbringer's armor. His voice, when he began to chant, was strained and hoarse, each word an effort dragged from a body that was running out of time.

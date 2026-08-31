@@ -1,14 +1,6 @@
 ## Chapter 5: The Gifts
 
 <div class="dialogue-block">
-<p class="speech-line">He turned and walked back toward the throne, his white cloak billowing behind him. As he passed the shadows behind the dais, he extended one paw toward the darkness. "Kira. Come here."</p>
-</div>
-
-Kira stepped out of the shadows between Sera and Vex, her dark pelt blending with the gloom, her golden eyes wide but steady. She had seen death before—on the streets, in the market, in the rubble of the west wall where her parents had died. She had never seen death delivered so casually, so absolutely, by someone who was protecting her. She took Ajani's paw, and he led her to the center of the dais, where every eye in the Great Hall could see her.
-
-The green fire flared along his claws, bright enough to cast dancing shadows across the golden mosaics, and his voice thundered through the silent hall.
-
-<div class="dialogue-block">
 <p class="speech-line">"I AM AJANI, FIRST OF MY NAME! PROTECTOR OF THE REALM! CHOSEN OF THE GOLDEN SUN! BROTHER OF THE DEEP! HEIR TO THE BLACK FIRE AND THE LIGHTBRINGER! FRIEND OF THE PYRINAE! KING OF THE WENGARI!" <span class="speech-attr">The titles echoed off the ancient stone, each one a hammer blow against the silence. The Humman merchants flinched. The Bright Paw guards stood taller. Even the shadows behind the throne seemed to lean forward, listening.</span></p>
 </div>
 
@@ -380,6 +372,8 @@ He looked at Vex. The Shadow Paw assassin was standing rigid, his dark eyes fixe
 Ajani looked at Lira. She stood frozen in her bridal silks, her serene expression crumbling into confusion. The elder beside her had gone very still, his confidence evaporating as he realized what his ambition had done.
 
 Ajani knelt beside Kira. He gathered the belt from the stone, brushing the dust from the fire scarab leather. The stitching was uneven but strong. He turned it over in his paws, examining the careful seams, the reinforced loops, the small, crooked Brightmane sigil she had tooled into the leather herself.
+</div>
+
 
 <div class="dialogue-block">
 <p class="speech-line">"Is this for me?" <span class="speech-attr">he asked quietly.</span></p>
@@ -527,4 +521,8 @@ For a single, breathless moment, the water hole was bathed in a soft, green-gold
 
 <div class="dialogue-block">
 <p class="speech-line">Ajani stared at the empty space where the sphere had been. Then he looked down at the grimoire. Then he looked at Elyra. "Can it be made to grow new pages? If I use a page for sorcery, it's gone. But if the book could grow new pages—if it could replenish itself—then this is not merely a grimoire. This is a portable sorcery arsenal."</p>
+</div>
+
+<div class="dialogue-block">
+Elyra was silent for a long moment. Her silver aura flickered, and her melodic voice, when it came, was careful. <span class="speech">"The grimoire is bound to its owner. It is a living thing, in its fashion. But whether it can be made to grow new pages... that is not a question the Motted Paws have ever been asked. The grimoires we create are finite. Each page is a vessel for a single working. When the pages are gone, the book is complete, and its owner must begin again with a new volume."</span> She paused. <span class="speech">"You are asking if the vessel can be made to refill itself. That is... a significant request. We will need to study the question. It may not be possible. It may take years."</span>
 </div>

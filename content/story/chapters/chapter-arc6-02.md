@@ -1,5 +1,26 @@
 ## Chapter 2: Rebuilding
 
+She paused. Her silver aura flickered once.
+
+
+<div class="dialogue-block">
+<span class="speech">"And when you were done, every other race on Ethra would know that the White Dawn who offered them friendship and trade and a place in his tournament had become the sixth Tyrant. The Pyrinae would remember that you freed them and then wonder if you would enslave them again. The Veylar would withdraw to their Tidepools and never speak to the surface again. The Threx would retreat into the March and close the mycelial network forever. The Dragari would vanish. The Chi'Thak would feast on the ruins. And the Golden Sun, the lord of the desert, would watch you become exactly what every Tyrant before you became—a White Dawn who began with benevolence and ended in blood. You would win the war, Your Highness. And you would lose everything you built."</span> She raised her eyes to the throne. <span class="speech">"The foreign advisor recommends against full military deployment. The foreign advisor recommends leverage instead."</span>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">"they used Velarius madness don't you believe that justifies full military deployment?"</p>
+</div>
+
+
+Ajani's question hung in the throne room like a challenge. His voice had not risen, but the cold fury beneath it was unmistakable. The diadem's gem pulsed once, bright and hard.
+
+
+<div class="dialogue-block">
+<p class="speech-line">M'rak stepped forward before anyone else could speak. The burn-scarred general had been fighting since dawn, and his voice was hoarse, but it did not waver. "Your Highness, the Humman king deployed Plague weapons against us. He used the arsenal of the Fifth Tyrant. Under the old laws—the laws from before the pact, the laws the Wengari have kept since the First Tyrant fell—the use of Plague weapons is a declaration of total war. It carries a single response: annihilation of the offending state. If you order full military deployment, you will be acting within the old laws. No Wengari would question it. No elder would oppose it. The precedent is clear."</p>
+</div>
+
+
 He paused. His burn-scarred hands clenched at his sides.
 
 
@@ -641,11 +662,6 @@ The generals stirred. M'rak's golden eyes narrowed. Reva's claws half-extended. 
 Sultan Salahim's weathered face tightened, but he did not deny it. He simply stood, the scroll still raised, waiting for the king to speak.
 
 
-<div class="dialogue-block">
-<p class="speech-line">Ajani says his voice booming "This Ajani first of his name, protector of the realm, heir to the black fire and to the light bringer, brother to the deep, caller of spirits, king of the wengari, salutes sultan Salahim king of the Hummans, and while he might be forgiving, his subjects are not, Seris deal with this filth they are banned from entering the city, Generals seize the birds and check for any weapon, if you find anything, kill them all" then he turns his cape billowing and enters the city</p>
-</div>
-
-
 The Sultan stood frozen, the scroll still raised in his hand, as the White Dawn turned his back and walked through the shattered gate. The white cape billowed behind him, the diadem's gem blazing in the morning sun. Blackie and Reddy flanked him, their white-lacquered pincers clicking in perfect, menacing unison. The spear hummed in his paw.
 
 
@@ -676,18 +692,6 @@ M'rak approached the Sultan, his burn-scarred face unreadable. <span class="spee
 <div class="dialogue-block">
 <p class="speech-line">M'rak looked at him for a long moment. Then he turned away. "Then you are wiser than your predecessor. Pray that wisdom is enough."</p>
 </div>
-
-
-
-The white cape billowing was a calculated gesture. He knew the Sultan would watch him go. That is the behavior of a king who is learning to use his presence as a weapon. The core tension of his character remains intact. He is still the young Wengari who would rather be on the road than on the throne, who would rather fight than negotiate. He is still the White Dawn who nearly lost his crown in a duel. He is still the brother who made Kira a belt and laughed when his scorpions frightened the servants.
-
-The war has not hardened him into something unrecognizable. It has sharpened the edges that were already there.
-
-
-His delegation of the Human question to Seris is the right political move and the right character beat. She is the one who can see through Salahim's paper shield. She is the one who knows the difference between genuine shame and bureaucratic survival instinct. She is the one who has earned the right to speak for the crown in this moment. And her quiet, cold dismissal of the Sultan is the perfect counterpoint to Ajani's theatrical exit.
-
-The king thunders, and the ambassador cuts. That is a functioning partnership.
-
 
 The tent was a simple affair of canvas and rope, erected just beyond the northern gate on the blackened sand where the Plague creature had nearly breached the wall. The ground was still scarred, the sand fused into rough, dark glass in places where the mirror array's beam had struck. The Sultan's cargo hawks were penned nearby, their emerald plumage ruffling in the desert wind, their great wings folded.
 
@@ -976,45 +980,4 @@ Vasha's stylus paused. For the first time since the war began, the spymaster loo
 
 <div class="dialogue-block">
 <p class="speech-line">She paused, her cold eyes meeting Ajani's. "The office will not collect old debts. It will not settle personal scores. It will not make Wengari or Hummans disappear in the night without cause. I give you my word. And if anyone under my command violates that word, I will handle them personally. The crown will not need to know how."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Sylva stepped forward, her ancient voice measured. "The regent accepts the oversight responsibility. I will review all requests for detainment. If there is a credible threat, I will approve. If there is doubt, I will consult the king. The Shadow Office will not become a weapon of political persecution while I hold this office."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Maren looked up from her ledger. "The coin master accepts the director position, on the condition that a replacement is trained within the year. The treasury requires constant attention. The Shadow Office will require more. I can do both for a time. Not forever."</p>
-</div>
-
-
-<div class="dialogue-block">
-Ajani nodded slowly. <span class="speech">"Then it's done. Vasha, you have your office. Maren, you have your staff. Sylva, you have your oversight. The Shadow Office is now a permanent institution of the crown. Its budget will be drawn from the tournament revenue. Its director will answer to the throne. Its operatives will be drawn from every family. And its enemies—"</span> He paused, the diadem's gem pulsing once. <span class="speech">"Its enemies will learn to fear the shadows as much as they fear the sun."</span>
-</div>
-
-
-Ajani rose from the throne and walked out of the great hall, Blackie and Reddy falling into step behind him. The scorpions clicked their pincers once in unison, and then they were gone, the great bronze doors swinging shut behind them.
-
-
-A long silence settled over the chamber. Then the room began to breathe again.
-
-
-<div class="dialogue-block">
-Torek turned to his former subordinate once more. <span class="speech">"The king just created an intelligence office with the power to detain anyone on the regent's authority and handle critical threats without oversight. And he put Vasha in charge of it."</span> He paused. <span class="speech">"I am going to retire. Soon. Very soon."</span>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">M'rak's burn-scarred face was unreadable. "You said that after the last war. You're still here."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">"The last war didn't have Vasha with a legal mandate. I give it six months before she has files on every elder in this room."</p>
-</div>
-
-
-<div class="dialogue-block">
-Across the hall, the elders were stirring. The old Bright Paw who had protested Vasha's bypassing of the chain of command was speaking in a low, urgent voice to his companions. <span class="speech">"An intelligence office. With detainment authority. Run by the Council of the Untrustworthy. The same council that bypassed us during the war. The same spymaster who just told the king she wanted the power to disappear people in the night. And he gave her almost everything she asked for."</span> His golden mane was limp, his ancient shoulders bowed. <span class="speech">"We are becoming obsolete. Not gradually. Immediately."</span>
 </div>

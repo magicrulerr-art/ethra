@@ -1,7 +1,5 @@
 ## Chapter 22: 12:06 — The White Dawn Wakes
 
-Ajani reached for the fifth page. His left arm was still coiled by the fire serpent, his neck still ringed in ice, his left leg still swirling with tiny white stars, his right shoulder still pierced by the golden Styx's talons. Blood ran from his nose and dripped onto the breastplate of the Lightbringer's armor. His voice, when he began to chant, was strained and hoarse, each word an effort dragged from a body that was running out of time.
-
 <div class="dialogue-block">
 <p class="speech-line">"Golden Spirit from the deep, the one who guards the gate, keeper of riches untold, this humble sorcerer beseeches you—take from me and answer my plea. Be made manifest and answer my plea. I call to thee—AURUM!"</p>
 </div>

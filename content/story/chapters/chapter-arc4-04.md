@@ -1,5 +1,17 @@
 ## Chapter 4: The Humman Delegation
 
+Sylva absorbed this in silence. The morning prayers had been recited in the same form for three thousand years, since the Lightbringer first taught the Wengari to honor the lord of the desert. The Golden Sun was not a new god. It was an old god given a new name, a new face, a new place in the story. And the priests, who understood better than anyone that the story was more important than the truth, were already adapting.
+
+<div class="dialogue-block">
+<span class="speech">"The Pyrinae,"</span> Sylva said quietly. <span class="speech">"The king promised them the Golden Sun's blessing without consulting them. I must speak with Nefere before word reaches her through rumor. Where is the Pyrinae delegation now?"</span>
+</div>
+
+<div class="dialogue-block">
+<p class="speech-line">"In the eastern district, Regent. The Root-Speakers have gathered in their meditation chamber. They have been there since the announcement ended. No one has seen them emerge."</p>
+</div>
+
+Sylva nodded slowly. The Root-Speakers had been listening to the lord of the desert for three thousand years. They had never heard it speak. They had only felt its dreams—fragments, impulses, hunger. And now their king had announced that the Golden Sun had spoken to him, had shown him visions, had promised to extend its blessing to their people. The Root-Speakers would have questions. Sylva did not have answers. But she would have to find them.
+
 Seris stood alone near the eastern fountain, her dark eyes fixed on the stone platform where the king had stood. Her merchants had returned to their quarters. Her daughter was in Sylva's service, learning to scrub stone and carry water. The list of Wengari names—the careful record of every contact, every relationship, every potential ally—was still hidden in her chambers, untouched since the day the Shadow Paws had exposed it.
 
 She had not stopped studying. She had not stopped planning. She had simply learned to be more careful.
@@ -190,42 +202,6 @@ In the taverns and the caravan grounds and the training halls, the stories grew.
 
 He was a prophet. The Golden Sun had chosen him. The Golden Sun would choose others. And the Wengari, who had been the strongest race on Ethra for five thousand years, would now be favored by the strongest god.
 
-Kira, the young Bright Paw cub who had been given to the crown as a ward, had become a fixture in the palace. She was six years old, her golden mane still soft with youth, her curiosity boundless. She followed the servants through the corridors, asking endless questions about everything she saw. She watched the guards train in the courtyard, mimicking their movements with a wooden practice claw. She haunted the kitchens, charming the cooks into giving her extra portions of dried fruit.
-
-And every evening, without fail, she presented herself at the door of Ajani's chambers and demanded to know when she could begin learning the saber.
-
-<div class="dialogue-block">
-<span class="speech">"Tomorrow,"</span> Ajani told her one evening, not looking up from the scroll he was reading. <span class="speech">"I have meetings all day. The regent is angry with me about the Pyrinae. The council wants to discuss the budget. The Hummans are being suspiciously cooperative. I don't have time to teach a cub."</span>
-</div>
-
-<div class="dialogue-block">
-<span class="speech">"You said that yesterday,"</span> Kira pointed out. <span class="speech">"And the day before. And the day before that. You are the king. You can do whatever you want. You could cancel your meetings. You could tell the regent to stop being angry. You could tell the Hummans to stop being suspicious. And then you could teach me the saber."</span>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">Ajani set down the scroll. The green fire flickered gently along his claws, and he regarded the cub with an expression that was not quite amusement and not quite exasperation. "You are six years old. You are not ready for the saber."</p>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">"I am ready. I have been practicing with the wooden claw. I can show you. I can do the first form. I can do the second form too. I almost have the third form. I just need someone to show me the fourth form. You could do that. You are the king."</p>
-</div>
-
-Ajani stared at her for a long moment. Then he rose from his chair and walked to the corner of the chamber, where a wooden practice saber leaned against the wall. He picked it up, tested its weight, and tossed it to the cub. Kira caught it with both paws, her golden eyes blazing with triumph.
-
-<div class="dialogue-block">
-<span class="speech">"The first form,"</span> Ajani said, settling back into his chair. <span class="speech">"Show me."</span>
-</div>
-
-Kira lifted the wooden saber with the careful, deliberate stance of someone who had been watching warriors train for months and absorbing every detail. She moved through the first three forms with a precision that was impressive for a cub of six, and then she hesitated, her brow furrowing.
-
-<div class="dialogue-block">
-<span class="speech">"The fourth form,"</span> she said. <span class="speech">"I don't know the fourth form."</span>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">Ajani allowed himself the faintest twitch of his whiskers. "Then I suppose you will have to come back tomorrow."</p>
-</div>
-
 The afternoon sun of the Steadfast blazed over the market district of Styxian, and the fire feet pens were the busiest section of the square. The great black war-mounts stamped and snorted in their enclosures, their red feet leaving faint scorch marks on the stone, while a Stripe Paw handler extolled the virtues of a particularly fine breeding female to a crowd of admiring merchants.
 
 Ajani stood at the edge of the pens, his white cloak left behind in the palace, his golden mane pulled back in a simple traveler's knot. He had escaped. The morning had been consumed by a tedious dispute between two Bright Paw priests over the proper wording of the new prayers to the Golden Sun, and Sylva had been giving him that look—the patient, infuriating look that meant she was going to make him sit through the entire thing—and he had simply walked out the side door and kept walking until he reached the market.
@@ -402,7 +378,7 @@ Ajani's laughter echoed through the arena. <span class="speech">"You're learning
 
 Kira learned the palace's secret places from Ajani over the following weeks. The hidden passage behind the throne room that led to the old guard quarters. The rooftop garden where the kyre flowers bloomed year-round, even in the driest seasons. The kitchen's back entrance, where the cooks would slip them extra portions of dried fruit if they promised not to tell the steward. They played pranks on the maids—Ajani using a flicker of green fire to make the washbasin glow, Kira hiding in the linen closet and jumping out at precisely the right moment.
 
-The maids complained to Mira, and Mira complained to Sylva, and Sylva simply shook her head and said nothing. The king had been carrying the weight of the crown for months. If he needed to act like a cub for a few hours, the regent would not stop him.
+The maids complained to Mara, and Mara complained to Sylva, and Sylva simply shook her head and said nothing. The king had been carrying the weight of the crown for months. If he needed to act like a cub for a few hours, the regent would not stop him.
 
 One evening, they sat on the rooftop garden as the Steadfast set over the desert, painting the sky in shades of amber and rose. Kira was quiet, her dark pelt blending with the shadows, her golden eyes reflecting the dying light.
 
@@ -481,3 +457,11 @@ The merchant's body hit the polished stone at Seris's feet with a sound like a s
 <div class="dialogue-block">
 Ajani flexed his claws once, as if testing their edge. <span class="speech">"So frail. The weakest trees in the marsh are harder than this."</span> He gestured, and the guards stepped back, leaving the corpse where it lay. <span class="speech">"Your dead. Your insult. Your lesson. Remember it."</span>
 </div>
+
+<div class="dialogue-block">
+<p class="speech-line">He turned and walked back toward the throne, his white cloak billowing behind him. As he passed the shadows behind the dais, he extended one paw toward the darkness. "Kira. Come here."</p>
+</div>
+
+Kira stepped out of the shadows between Sera and Vex, her dark pelt blending with the gloom, her golden eyes wide but steady. She had seen death before—on the streets, in the market, in the rubble of the west wall where her parents had died. She had never seen death delivered so casually, so absolutely, by someone who was protecting her. She took Ajani's paw, and he led her to the center of the dais, where every eye in the Great Hall could see her.
+
+The green fire flared along his claws, bright enough to cast dancing shadows across the golden mosaics, and his voice thundered through the silent hall.
