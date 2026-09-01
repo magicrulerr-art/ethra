@@ -1,27 +1,5 @@
 ## Chapter 4: The Humman Delegation
 
-Sylva absorbed this in silence. The morning prayers had been recited in the same form for three thousand years, since the Lightbringer first taught the Wengari to honor the lord of the desert. The Golden Sun was not a new god. It was an old god given a new name, a new face, a new place in the story. And the priests, who understood better than anyone that the story was more important than the truth, were already adapting.
-
-<div class="dialogue-block">
-<span class="speech">"The Pyrinae,"</span> Sylva said quietly. <span class="speech">"The king promised them the Golden Sun's blessing without consulting them. I must speak with Nefere before word reaches her through rumor. Where is the Pyrinae delegation now?"</span>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">"In the eastern district, Regent. The Root-Speakers have gathered in their meditation chamber. They have been there since the announcement ended. No one has seen them emerge."</p>
-</div>
-
-Sylva nodded slowly. The Root-Speakers had been listening to the lord of the desert for three thousand years. They had never heard it speak. They had only felt its dreams—fragments, impulses, hunger. And now their king had announced that the Golden Sun had spoken to him, had shown him visions, had promised to extend its blessing to their people. The Root-Speakers would have questions. Sylva did not have answers. But she would have to find them.
-
-Seris stood alone near the eastern fountain, her dark eyes fixed on the stone platform where the king had stood. Her merchants had returned to their quarters. Her daughter was in Sylva's service, learning to scrub stone and carry water. The list of Wengari names—the careful record of every contact, every relationship, every potential ally—was still hidden in her chambers, untouched since the day the Shadow Paws had exposed it.
-
-She had not stopped studying. She had not stopped planning. She had simply learned to be more careful.
-
-The Golden Sun. The withering sickness. The pilgrimage. The chosen ones. It was a beautiful lie. She recognized it because her own people had survived on beautiful lies for five hundred years, since Velarius Vane poisoned the world and left the Hummans carrying the shame of the Fifth Tyrant. The Hummans had told themselves they were still relevant, still powerful, still capable of greatness. They had believed it because the alternative was despair.
-
-The Wengari were now being given a different lie—a lie that made them feel chosen, favored, destined to rule. It was a more effective lie than the Hummans had ever managed, and it was backed by the king's tournament and the regent's patience and the ancient, patient hunger of whatever truly dwelled beneath the desert.
-
-But it was still a lie. And lies could be used.
-
 She turned away from the fountain and walked slowly back toward the Humman quarter, her diplomatic robes stirring the dust at her feet. The Golden Sun had chosen the Wengari. The Golden Sun had promised to make them strong. But the Hummans had survived five hundred years of shame by learning to be indispensable. The tournament had made them indispensable. The road would make them more so. And if the Golden Sun was real—if there truly was something beneath the desert that fed on aura and favored the strong—then the Hummans would simply have to become strong enough to be noticed.
 
 She did not believe in gods. She believed in leverage. And the king, for all his brilliance, had just given her more leverage than she had ever possessed. The Golden Sun chose pilgrims. The pilgrims walked the harshest path. The strong survived. The weak died. It was a test. And the Hummans, who had been tested for five hundred years and were still standing, understood tests better than anyone.
@@ -467,3 +445,17 @@ Ajani flexed his claws once, as if testing their edge. <span class="speech">"So 
 Kira stepped out of the shadows between Sera and Vex, her dark pelt blending with the gloom, her golden eyes wide but steady. She had seen death before—on the streets, in the market, in the rubble of the west wall where her parents had died. She had never seen death delivered so casually, so absolutely, by someone who was protecting her. She took Ajani's paw, and he led her to the center of the dais, where every eye in the Great Hall could see her.
 
 The fire along his claws flared, throwing hard shadows across the golden mosaics, and his voice thundered through the silent hall.
+
+<div class="dialogue-block">
+<p class="speech-line">"I AM AJANI, FIRST OF MY NAME! PROTECTOR OF THE REALM! CHOSEN OF THE GOLDEN SUN! BROTHER OF THE DEEP! HEIR TO THE BLACK FIRE AND THE LIGHTBRINGER! FRIEND OF THE PYRINAE! KING OF THE WENGARI!" <span class="speech-attr">The titles echoed off the ancient stone, each one a hammer blow against the silence. The Humman merchants flinched. The Bright Paw guards stood taller. Even the shadows behind the throne seemed to lean forward, listening.</span></p>
+</div>
+
+<div class="dialogue-block">
+<p class="speech-line">"AND THIS IS KIRA! MY SISTER! A BRIGHTMANE BY BLOOD AND BY NAME! BY INSULTING HER, YOU INSULT NOT ONLY ME, BUT THE CROWN AND EVERY SINGLE WENGARI WHO HAS EVER KNELT BEFORE THIS THRONE!"</p>
+</div>
+
+He swept his gaze across the Humman delegation, across the Bright Paw guards, across the servants and the scribes and the priests who had gathered at the edges of the hall to witness what was unfolding. This was not merely for the Hummans. This was for everyone. This was the White Dawn reminding his own people that the Shadow Paw cub they had ignored for three years, the street rat they had left to starve while her parents' bones moldered in the west wall, was now beyond their reach forever.
+
+<div class="dialogue-block">
+<span class="speech">"YOUR FATE NOW RESTS IN MY SISTER'S PAWS!"</span> Ajani looked down at Kira, and his voice softened, just slightly. <span class="speech">"Little sister. These pests have offended you. They have offended me. They have offended the crown. Will you let them scurry back to their quarter with their dead, or will you demand more from them? The choice is yours. Whatever you decide, I will enforce. Whatever you demand, they will give. Speak, Kira Brightmane. Let them hear you."</span>
+</div>

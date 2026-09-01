@@ -1,19 +1,5 @@
 ## Chapter 5: The Gifts
 
-<div class="dialogue-block">
-<p class="speech-line">"I AM AJANI, FIRST OF MY NAME! PROTECTOR OF THE REALM! CHOSEN OF THE GOLDEN SUN! BROTHER OF THE DEEP! HEIR TO THE BLACK FIRE AND THE LIGHTBRINGER! FRIEND OF THE PYRINAE! KING OF THE WENGARI!" <span class="speech-attr">The titles echoed off the ancient stone, each one a hammer blow against the silence. The Humman merchants flinched. The Bright Paw guards stood taller. Even the shadows behind the throne seemed to lean forward, listening.</span></p>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">"AND THIS IS KIRA! MY SISTER! A BRIGHTMANE BY BLOOD AND BY NAME! BY INSULTING HER, YOU INSULT NOT ONLY ME, BUT THE CROWN AND EVERY SINGLE WENGARI WHO HAS EVER KNELT BEFORE THIS THRONE!"</p>
-</div>
-
-He swept his gaze across the Humman delegation, across the Bright Paw guards, across the servants and the scribes and the priests who had gathered at the edges of the hall to witness what was unfolding. This was not merely for the Hummans. This was for everyone. This was the White Dawn reminding his own people that the Shadow Paw cub they had ignored for three years, the street rat they had left to starve while her parents' bones moldered in the west wall, was now beyond their reach forever.
-
-<div class="dialogue-block">
-<span class="speech">"YOUR FATE NOW RESTS IN MY SISTER'S PAWS!"</span> Ajani looked down at Kira, and his voice softened, just slightly. <span class="speech">"Little sister. These pests have offended you. They have offended me. They have offended the crown. Will you let them scurry back to their quarter with their dead, or will you demand more from them? The choice is yours. Whatever you decide, I will enforce. Whatever you demand, they will give. Speak, Kira Brightmane. Let them hear you."</span>
-</div>
-
 The Great Hall fell silent. The guards had dragged the dead merchant's body to Seris's feet, and the ambassador stared down at it, her diplomatic mask shattered, her dark eyes hollow with the knowledge that another of her people had died because she had failed to control them.
 
 Ajani stood at the center of the dais, one paw resting on Kira's shoulder, green flame glowing softly along his claws. He had said what needed to be said. He had made the proclamation. The entire hall—Bright Paw guards, Shadow Paw assassins, servants, scribes, priests—had heard him claim the Shadow Paw cub as his sister. Now it was Kira's turn. He did not prompt her. He did not whisper advice. He simply waited, his green-flecked eyes moving from the trembling Humman delegation to the small, dark-furred cub at his side.
@@ -523,4 +509,12 @@ Then the water hole was bathed in a soft, green-gold luminescence that smelled o
 
 <div class="dialogue-block">
 Elyra was silent for a long moment. Her silver aura flickered, and her melodic voice, when it came, was careful. <span class="speech">"The grimoire is bound to its owner. It is a living thing, in its fashion. But whether it can be made to grow new pages... that is not a question the Motted Paws have ever been asked. The grimoires we create are finite. Each page is a vessel for a single working. When the pages are gone, the book is complete, and its owner must begin again with a new volume."</span> She paused. <span class="speech">"You are asking if the vessel can be made to refill itself. That is... a significant request. We will need to study the question. It may not be possible. It may take years."</span>
+</div>
+
+<div class="dialogue-block">
+<p class="speech-line">Ajani nodded slowly. "Then study it. The road will take years. The coalition will take years. I am not asking for an answer today. I am asking for the question to be asked."</p>
+</div>
+
+<div class="dialogue-block">
+<p class="speech-line">Elyra inclined her elegant head. "The Motted Paws will ask it. We have been patient for five thousand years. We can be patient a little longer."</p>
 </div>

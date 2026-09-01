@@ -1,5 +1,13 @@
 ## Chapter 2: The Caravans
 
+<div class="dialogue-block">
+<p class="speech-line">"I accept. And now, for the grand vizier: he can stay in office as long as he keeps winning tournaments. If he can hold it for life, he can. He will oversee the other offices and be advisor to the crown. He will enact the crown's policy and law. You should treat the office as the crown itself, which means I will be offloading almost all my work to them!"</p>
+</div>
+
+*Got you, old bastards!*
+
+What followed was not the silence of shock—the elders had absorbed too many revelations in too short a time for shock—but the silence of predators reassessing the terrain. The king had just announced that the grand vizier, the most powerful office in the new government, would be tied to the tournament. Win the tournament, hold the office. Hold it for life, if you could keep winning. The crown's authority, the crown's policy, the crown's law—all of it offloaded onto the grand vizier's shoulders.
+
 And the king? The king would be free. Free to build the road. Free to travel. Free to fight. Free to leave the crushing weight of governance on someone else's back while he did what he had been aching to do since the moment he returned from the marshes.
 
 <div class="dialogue-block">
@@ -466,17 +474,3 @@ She paused at the edge of the dais, glancing back over her shoulder. <span class
 She turned and walked toward the great bronze doors, her silver-chased ceremonial armor gleaming in the amber light. The king had laughed at her—she had heard the laughter in his voice, even if he had not spoken it aloud. She did not mind. The laughter of a king who was also a teacher was a gift. She would repay it by learning. And by ensuring that the next time the Hummans tried to deceive the throne, the regent would see it before the king did.
 
 Ajani said nothing. He walked slowly around the fire foot, his green-flecked eyes tracing the familiar lines of her scales, the particular angle of her tail, the small scar above her left foreleg where a thorn had caught her in the Flickermarch. He had not seen her since he left the marshes. He had not known she was alive.
-
-<div class="dialogue-block">
-<span class="speech">"She carried you for a year,"</span> Korr said. <span class="speech">"Through the Flickermarch. Through the deep desert. Through places no fire foot should have survived. When we lost the caravan—when the others died—she kept going. She kept you going. I think—"</span> He paused, his rough voice softening. <span class="speech">"I think the lord of the marsh watched over her. The same green light that flickers along your claws. She carried that light for a year. She carries it still."</span>
-</div>
-
-Ajani reached out and placed his paw against Ember's flank. The fire foot rumbled, a low, throaty sound that was not fear and not warning, but recognition. The green fire flickered along his claws, and Ember's scales shimmered in answer, a faint, answering glow that rose from her skin like mist from still water.
-
-<div class="dialogue-block">
-<span class="speech">"The Stripe Paws offer this gift,"</span> Zara said, her voice formal now, the ceremonial cadence of a chief speaking for her family. <span class="speech">"Not as tribute. Not as politics. As family. Your mother was one of us. You rode with our caravans for three years. You carried our blood and our ways into the marshes and back. Ember is yours. She has always been yours. We are only returning what was already given."</span>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">Ajani did not speak for a long moment. When he turned to face them, his eyes were bright, and the green fire along his claws had steadied to a warm, steady glow. "I accept this gift. I accept it as family. And I will ride Ember north, when the road begins. She carried me through the marshes. She will carry me through the Rune-Belt. And when the road is done, she will carry me home."</p>
-</div>

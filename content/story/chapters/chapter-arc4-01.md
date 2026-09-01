@@ -463,11 +463,3 @@ Zara was the first to speak, and her voice carried the particular weight of a me
 <div class="dialogue-block">
 <p class="speech-line">He paused, his ancient eyes meeting Ajani's. "There is wisdom in this. The Lightbringer himself did not rule alone—he had advisors, companions, allies who challenged his thinking and sharpened his judgment. The offices you are creating are a return to that old way. Not a monarchy propped up by ritual and tradition, but a government of competing voices, each one sharpening the others. The Bright Paws will support this. We will train our cubs to compete for these offices. And we will remind them that five years is a season, not a lifetime. A predator hunts. A predator adapts. A predator does not grow fat on the throne."</p>
 </div>
-
-<div class="dialogue-block">
-<p class="speech-line">"I accept. And now, for the grand vizier: he can stay in office as long as he keeps winning tournaments. If he can hold it for life, he can. He will oversee the other offices and be advisor to the crown. He will enact the crown's policy and law. You should treat the office as the crown itself, which means I will be offloading almost all my work to them!"</p>
-</div>
-
-*Got you, old bastards!*
-
-What followed was not the silence of shock—the elders had absorbed too many revelations in too short a time for shock—but the silence of predators reassessing the terrain. The king had just announced that the grand vizier, the most powerful office in the new government, would be tied to the tournament. Win the tournament, hold the office. Hold it for life, if you could keep winning. The crown's authority, the crown's policy, the crown's law—all of it offloaded onto the grand vizier's shoulders.

@@ -1,6 +1,6 @@
 # Chapter 4: The Consolidation
 
-*60,227 words across 6 chapters*
+*59,352 words across 6 chapters*
 
 ### Bureaucracy
 
@@ -8,21 +8,21 @@
 
 ### The Caravans
 
-And the king? The king would be free. Free to build the road. Free to travel. Free to fight. Free to leave the crushing weight of governance on someone else's back while he did what he had been aching...
+"I accept. And now, for the grand vizier: he can stay in office as long as he keeps winning tournaments. If he can hold it for life, he can. He will oversee the other offices and be advisor to the cro...
 
 ### The Pyrinae Accord
 
-The capital stirred with the arrival of foreign delegations. Word of the White Dawn had spread across the continent, carried by caravan masters and Pyrinae traders and the swift, resonant songs of the...
+"She carried you for a year," Korr said. "Through the Flickermarch. Through the deep desert. Through places no fire foot should have survived. When we lost the caravan—when the others died—she kept go...
 
 ### The Humman Delegation
 
-Sylva absorbed this in silence. The morning prayers had been recited in the same form for three thousand years, since the Lightbringer first taught the Wengari to honor the lord of the desert. The Gol...
+She turned away from the fountain and walked slowly back toward the Humman quarter, her diplomatic robes stirring the dust at her feet. The Golden Sun had chosen the Wengari. The Golden Sun had promis...
 
 ### The Gifts
 
-"I AM AJANI, FIRST OF MY NAME! PROTECTOR OF THE REALM! CHOSEN OF THE GOLDEN SUN! BROTHER OF THE DEEP! HEIR TO THE BLACK FIRE AND THE LIGHTBRINGER! FRIEND OF THE PYRINAE! KING OF THE WENGARI!" The titl...
+The Great Hall fell silent. The guards had dragged the dead merchant's body to Seris's feet, and the ambassador stared down at it, her diplomatic mask shattered, her dark eyes hollow with the knowledg...
 
 ### Aftermath
 
-Ajani nodded slowly. "Then study it. The road will take years. The coalition will take years. I am not asking for an answer today. I am asking for the question to be asked."...
+Ajani closed the grimoire and held it against his chest. The glow along his claws had steadied, warm and even. "This is still the best gift I have received today. The spear is magnificent. The fire fo...
 

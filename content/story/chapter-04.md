@@ -952,39 +952,7 @@ Ajani reached out and placed his paw against Ember's flank. The fire foot rumble
 <p class="speech-line">Ajani did not speak for a long moment. When he turned to face them, his eyes were bright, and the green fire along his claws had steadied to a warm, steady glow. "I accept this gift. I accept it as family. And I will ride Ember north, when the road begins. She carried me through the marshes. She will carry me through the Rune-Belt. And when the road is done, she will carry me home."</p>
 </div>
 
-The capital stirred with the arrival of foreign delegations. Word of the White Dawn had spread across the continent, carried by caravan masters and Pyrinae traders and the swift, resonant songs of the Veylar Shell-Singers. The king who had renewed the pact, freed the Pyrinae, held a tournament that invited the world—such a figure demanded acknowledgment.
-
-<div class="dialogue-block">
-<p class="speech-line">The Veylar came first, a delegation of Tide-Wardens and Shell-Singers bearing gifts of living coral that pulsed with soft, bioluminescent light. The coral would be transplanted to the hanging gardens, a permanent reminder of the alliance between the desert and the sea. Sylara, the Shell-Singer who had witnessed the tournament, presented the gift personally, her melodic voice carrying through the Great Hall. "The Veylar remember. The Veylar witness. The Veylar will walk the road when the time is right."</p>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">The Threx came next, a single Rooted who had walked from the Flickermarch, its mycelial filaments trailing behind it like the roots of an ancient tree. It brought no gold, no coral, no trade goods. It brought a single spore, encased in rune-glass, pulsing with a faint green light. "The lord of the marsh sends this gift. Plant it in the garden. Let it grow. It will remind you of what you learned, and it will remind the lord of the desert that the marsh is watching." The Rooted did not stay for the feast. It simply delivered its gift and walked back into the desert, its filaments leaving faint traces in the sand.</p>
-</div>
-
-Other delegations followed. A caravan of Stripe Paws returning from the eastern routes brought word that the Rune-Belt was stirring—nothing hostile, but something ancient was moving in the deep forest. A Pyrinae scholar arrived with ancient texts copied from the Memory-Vaults, histories of the Lightbringer's reign that had been thought lost. A Humman merchant, unrelated to Seris, arrived with a cargo of Pearly Scorpion eggs and a nervous smile, hoping to establish trade before his competitors arrived.
-
-The gifts from the families arrived over the course of the three weeks, each delivered in a private ceremony, each reflecting the philosophy of the giver.
-
-<div class="dialogue-block">
-<p class="speech-line">The Shadow Paws came first. Kareth himself presented the gift—a simple obsidian dagger, its blade so dark it seemed to absorb light. "This dagger was forged in the fires of the First Tyrant's fall. It was quenched in the ashes of his capital. It has been kept by the Shadow Paws for five thousand years as a reminder of what happens when the madness takes a White Dawn. We give it to you not as a threat, but as a promise. If the madness ever takes you, one of our own will use this dagger. You will not burn the world as the First Tyrant burned it. This is our oath."</p>
-</div>
-
-Ajani accepted the dagger in silence. He understood what it meant. The Shadow Paws were not threatening him. They were offering him the one thing no other family could offer: a clean death, if the worst came to pass. He placed the dagger on the mantle above the throne, where it would remain, visible to all who entered the Great Hall.
-
-<div class="dialogue-block">
-<p class="speech-line">The Stripe Paws came next, and their gift was Ember—but that was not all. Zara also presented a set of ceremonial barding for the fire foot, tooled leather inlaid with gold and amber, bearing the symbols of all four families. "The fire foot carries the king. The king carries the Wengari. Let the barding remind you that you do not ride alone."</p>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">The Bright Paws came last, and their gift was the humblest in form yet the heaviest with meaning: a renewed oath, spoken not from a throne but from a family still learning to stand. Solen himself knelt—not in the ceremony's courtesy, but fully, his old golden mane brushing the polished stone. "We were the royal house for three thousand years, and we grew soft on the memory of it. The tournament stripped us bare. It was the truest gift the crown has given us, because it showed us what we are: a house that must earn its place again, the way the first Bright Paws earned it. The king asks us to train, to learn, to climb back from the shadows. We swear we will be worthy of the blood we carry—not by claim, but by deed. That is all the Bright Paws have left to give, and we give it whole."</p>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">Ajani walked forward and raised Solen to his feet. The light along his claws softened to a level glow. "Then you have given me more than any other family today. An oath kept is worth more than gold." He looked out over the assembled elders. "When the opening ceremonies come, it will be a Bright Paw who speaks the first words to the delegations of the world. So that everyone remembers that the Wengari do not rest on old glory—we build."</p>
-</div>
-
-The old High Priest's eyes, when they met the king's, held a clarity that had not been there since before the tournament. He inclined his head. "We will be worthy, my king. We will climb."
+Three weeks passed.
 
 Lena knelt beside the pool in the Motted Paw quarter, her dark hair tied back, her scribe's hands raw from scrubbing the stone channels that carried water from the gardens to the inner chambers. She had been Sylva's maid for three weeks, and she had learned that the regent was patient but exacting, kind but unsentimental, and utterly intolerant of any task done carelessly.
 
