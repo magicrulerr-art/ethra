@@ -1013,7 +1013,7 @@ Ivan stared at her. <span class="speech">"Are you—do you—is that—"</span> 
 
 
 <div class="dialogue-block">
-<p class="speech-line">"I'm worth waiting for." <span class="speech-attr">She turned and walked toward the lead snow wurm, Pearl's antennae waving with what might have been approval. Ivan stared after her. His tail twitched. He was smiling.</span></p>
+<p class="speech-line">"I'm worth waiting for." <span class="speech-attr">She turned and walked toward the lead snow wurm, Pearl's antennae waving in approval. Ivan stared after her. His tail twitched. He was smiling.</span></p>
 </div>
 
 
@@ -1228,5 +1228,3 @@ They are not plotting revenge; they are calculating survival. The legion prepari
 Nikolai had been waiting for this moment since Cefiro first told him of the White Dawn. The massive Tsar launched himself from the snow wurm before it had fully stopped moving, his great halberd materializing in his paws with a flash of frozen light, the runic patterns along its blade blazing with ancient power. He crossed the distance to Ajani in three thunderous strides, his roar echoing across the silent gate.
 
 The halberd came down with the force of a collapsing glacier, and Ajani's light spear materialized just in time to meet it. The clash of ice and light sent a shockwave rippling across the sand. The ground beneath Ajani's paws fractured, cracks spider-webbing outward from the impact, but he did not move. He held his ground, the diadem's gem blazing on his brow, his green-flecked eyes locked on Nikolai's pale blue ones.
-
-Nikolai pulled his halberd back for a second strike. Ajani dismissed his spear entirely—the light vanishing from his paw—and the Tsar's weapon swept through empty air. For a single, breathless heartbeat, Nikolai was off balance, his momentum carrying him forward, his pale blue eyes widening with surprise. He recovered instantly, thrusting the halberd forward, but Ajani was already dodging—not backward, but sideways, his body flowing around the strike like water around stone.

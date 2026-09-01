@@ -334,7 +334,7 @@ Yvaria made no effort to hide her appreciation. Her silver-furred arms crossed o
 
 
 <div class="dialogue-block">
-<p class="speech-line">M'rak bowed his head. The orders were clear, and they were his to execute. "Every garrison commander. Within the week. With honor guards. It will be done, Your Highness." He straightened, and for the first time since the battle ended, something flickered in his exhausted eyes that might have been hope. The king was awake. The king was giving orders. The world was beginning to make sense again.</p>
+<p class="speech-line">M'rak bowed his head. The orders were clear, and they were his to execute. "Every garrison commander. Within the week. With honor guards. It will be done, Your Highness." He straightened, and for the first time since the battle ended, something flickered in his exhausted eyes: hope. The king was awake. The king was giving orders. The world was beginning to make sense again.</p>
 </div>
 
 

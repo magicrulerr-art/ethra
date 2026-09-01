@@ -199,7 +199,7 @@ The Lament stepped forward. Its ancient, multifaceted eyes moved across Ajani's 
 
 
 
-The Lament's limb touched Ajani's forehead, and a pulse of light passed between them—green, ancient, the light of the Mycelial Deep. For a single, breathless moment, the Wengari on the wall and the Hummans on the scaffolding and the Threx at the gate all stood frozen, unsure whether this was a greeting or an attack.
+The Lament's limb touched Ajani's forehead, and a pulse of light passed between them—green, ancient, the light of the Mycelial Deep. For one long moment of perfect stillness, the Wengari on the wall and the Hummans on the scaffolding and the Threx at the gate all stood frozen, unsure whether this was a greeting or an attack.
 
 
 Then the Lament's other limb snapped forward and struck Ajani across the back of the head with enough force to drop him to his knees. The crack echoed across the silent wall.
@@ -242,7 +242,7 @@ Every Wengari on the wall was staring. Every human was staring. The young Humman
 
 
 <div class="dialogue-block">
-L'vat's multifaceted eyes blazed. For a long, terrible moment, the Lament simply stared at his student. Then, very slowly, the ancient Threx let out a long, rattling breath that might have been a sigh. <span class="speech">"Yes. Six somethings answered. Because you are the White Dawn, and the elements listen to you, and you are too stupid to die properly."</span> The Lament's voice dropped, still resonant but quieter now, almost grudging. <span class="speech">"The Deep was worried. The network felt the Plague. The network felt you burning. We came as fast as we could. I brought twenty Quick. I did not expect to find you hauling rocks with the enemy."</span>
+L'vat's multifaceted eyes blazed. For a long, terrible moment, the Lament simply stared at his student. Then, very slowly, the ancient Threx let out a long, rattling sigh. <span class="speech">"Yes. Six somethings answered. Because you are the White Dawn, and the elements listen to you, and you are too stupid to die properly."</span> The Lament's voice dropped, still resonant but quieter now, almost grudging. <span class="speech">"The Deep was worried. The network felt the Plague. The network felt you burning. We came as fast as we could. I brought twenty Quick. I did not expect to find you hauling rocks with the enemy."</span>
 </div>
 
 
@@ -272,7 +272,7 @@ Ajani explained. The Hummans on the wall. The creature at the gate. The king who
 
 
 
-The Quick were not at ease. Their multifaceted eyes darted across the wall, taking in the Wengari soldiers, the Pyrinae engineers, the scorpion riders who had been cleared by Seris's tribunal. When their gaze fell on the Hummans, they hissed—a low, instinctive sound of fear and recognition. Their limbs raised, their claws extended, their bodies trembling with the effort of restraining themselves. One of them, smaller than the others, let out a thin, reedy sound that might have been a whimper.
+The Quick were not at ease. Their multifaceted eyes darted across the wall, taking in the Wengari soldiers, the Pyrinae engineers, the scorpion riders who had been cleared by Seris's tribunal. When their gaze fell on the Hummans, they hissed—a low, instinctive sound of fear and recognition. Their limbs raised, their claws extended, their bodies trembling with the effort of restraining themselves. One of them, smaller than the others, let out a thin, reedy whimper.
 
 They looked ready to strike. They looked ready to flee. They looked like creatures caught between an old terror and an unfamiliar command.
 
@@ -601,7 +601,7 @@ The afternoon sun streamed through the high windows of the throne room as Ajani 
 
 
 <div class="dialogue-block">
-<p class="speech-line">Sylva's ancient eyes held a glimmer of something that might have been amusement. "The Quick are barely taller than a Wengari cub. They have never seen a city. They have never seen clean water. They have never been given gifts. Let them have this day. The war was hard. The peace should be gentle."</p>
+<p class="speech-line">Sylva's ancient eyes held a glimmer of amusement. "The Quick are barely taller than a Wengari cub. They have never seen a city. They have never seen clean water. They have never been given gifts. Let them have this day. The war was hard. The peace should be gentle."</p>
 </div>
 
 
@@ -649,7 +649,7 @@ Ajani raised one paw, and the room fell silent. He looked at the Shell-Singer fo
 </div>
 
 
-The Shell-Singer was silent for a long moment. Her iridescent skin shifted through a cascade of colors that no surface-dweller could interpret. Then she raised the Petal-Shell, and its light pulsed once, twice, three times—a slow, steady rhythm that might have been acknowledgment or might have been something else entirely.
+The Shell-Singer was silent for a long moment. Her iridescent skin shifted through a cascade of colors that no surface-dweller could interpret. Then she raised the Petal-Shell, and its light pulsed once, twice, three times—a slow, steady rhythm — acknowledgment, or something else entirely.
 
 
 <div class="dialogue-block">
@@ -658,7 +658,7 @@ The Shell-Singer was silent for a long moment. Her iridescent skin shifted throu
 
 
 <div class="dialogue-block">
-<p class="speech-line">She inclined her head. "The Veylar do not go to war lightly. We will deliberate. We will sing the old songs and consult the moon. And we will return with our answer. Until then, the Tidepools remain open to you, White Dawn. The road you are building will reach our shores. When it does, we will be ready." She turned and walked toward the great bronze doors, her Petal-Shell still pulsing with its slow, rhythmic light. The guards let her pass. The war had been averted—for now.</p>
+<p class="speech-line">She inclined her head. "The Veylar do not go to war lightly. We will deliberate. We will sing the old songs and consult the moon. And we will return with our answer. Until then, the Tidepools remain open to you, White Dawn. The road you are building will reach our shores. When it does, we will be ready." She turned and walked toward the great bronze doors, her Petal-Shell still pulsing with its slow, even light. The guards let her pass. The war had been averted—for now.</p>
 </div>
 
 
@@ -694,7 +694,7 @@ The Shell-Singer was silent for a long moment. Her iridescent skin shifted throu
 
 
 <div class="dialogue-block">
-<p class="speech-line">The deep voice carried a note of something that might have been amusement. "The Petal-Shells are not merely communication devices. They are part of the Resonant Network. What one shell hears, all shells hear. I am speaking to you from the Coral Citadel, thousands of leagues away. The ambassador's shell is carrying my voice. This is the way of the Veylar. We have been patient for twenty thousand years. We have learned many things."</p>
+<p class="speech-line">The deep voice carried a note of amusement. "The Petal-Shells are not merely communication devices. They are part of the Resonant Network. What one shell hears, all shells hear. I am speaking to you from the Coral Citadel, thousands of leagues away. The ambassador's shell is carrying my voice. This is the way of the Veylar. We have been patient for twenty thousand years. We have learned many things."</p>
 </div>
 
 
@@ -788,7 +788,7 @@ Three days had passed since the Veylar Shell-Singer had delivered her message. T
 
 
 <div class="dialogue-block">
-L'vat looked down at the Quick. <span class="speech">"You cannot stay. Not yet."</span> His voice was gentle now, the stern edge softened by something that might have been affection. <span class="speech">"But we will return. Soon. Ajani is a king now, and it is unbecoming of us to arrive without gifts. The other races—the Pyrinae, the Motted Paws, the Snow Paws, even the Veylar—they all brought offerings. The Threx brought only ourselves. Next time, we will bring more."</span>
+L'vat looked down at the Quick. <span class="speech">"You cannot stay. Not yet."</span> His voice was gentle now, the stern edge softened by affection. <span class="speech">"But we will return. Soon. Ajani is a king now, and it is unbecoming of us to arrive without gifts. The other races—the Pyrinae, the Motted Paws, the Snow Paws, even the Veylar—they all brought offerings. The Threx brought only ourselves. Next time, we will bring more."</span>
 </div>
 
 
@@ -807,7 +807,7 @@ Korr himself was already counting coin in his head, his scarred face split in a 
 
 
 <div class="dialogue-block">
-L'vat turned back to the smallest Quick. <span class="speech">"The caravan will follow us. I will guide them through a safe route. The lord of the desert and the lord of the marsh are allies now—the Golden Sun will not harm us, and the Deep will welcome the Stripe Paws. The journey that took us weeks will take them days. And when we return, we will bring gifts worthy of a king. Wood for his buildings. Herbs for his healers. And perhaps—"</span> He paused, his multifaceted eyes flickering with something that might have been amusement. <span class="speech">"Perhaps a district of our own in the city. The Quick have decided they would like to live near the market. The bauble merchant has agreed to give them a discount."</span>
+L'vat turned back to the smallest Quick. <span class="speech">"The caravan will follow us. I will guide them through a safe route. The lord of the desert and the lord of the marsh are allies now—the Golden Sun will not harm us, and the Deep will welcome the Stripe Paws. The journey that took us weeks will take them days. And when we return, we will bring gifts worthy of a king. Wood for his buildings. Herbs for his healers. And perhaps—"</span> He paused, his multifaceted eyes flickering with quiet amusement. <span class="speech">"Perhaps a district of our own in the city. The Quick have decided they would like to live near the market. The bauble merchant has agreed to give them a discount."</span>
 </div>
 
 
@@ -924,7 +924,7 @@ Cefiro was quiet for a moment. When he spoke again, his voice was smaller. <span
 
 
 <div class="dialogue-block">
-Kira pressed her face into Pearl's pale shell and screamed, very quietly, into the scorpion's carapace. Pearl's antennae waved with what might have been sympathy. <span class="speech">"When we get home,"</span> Kira said, her voice muffled, <span class="speech">"I'm telling Ajani you got us lost for two days because you were looking at the wrong stars."</span>
+Kira pressed her face into Pearl's pale shell and screamed, very quietly, into the scorpion's carapace. Pearl's antennae waved in blunt sympathy. <span class="speech">"When we get home,"</span> Kira said, her voice muffled, <span class="speech">"I'm telling Ajani you got us lost for two days because you were looking at the wrong stars."</span>
 </div>
 
 

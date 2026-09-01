@@ -1,6 +1,6 @@
 ## Chapter 1: The Cost
 
-*66,477 words across 5 chapters*
+*66,377 words across 5 chapters*
 
 ### The Cost
 
@@ -20,5 +20,5 @@ A third claw. "Third, legal authority. The office must be able to intercept corr
 
 ### Epilogue
 
-Nikolai switched to a wide sweep, the halberd's blade cutting a glittering arc through the morning air. Ajani jumped, the halberd passing beneath him, and the Tsar's stern face split in a fierce grin....
+Nikolai pulled his halberd back for a second strike. Ajani dismissed his spear entirely—the light vanishing from his paw—and the Tsar's weapon swept through empty air. For a single, breathless heartbe...
 

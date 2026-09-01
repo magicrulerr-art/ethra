@@ -1,12 +1,14 @@
 ## Chapter 5: Epilogue
 
+Nikolai pulled his halberd back for a second strike. Ajani dismissed his spear entirely—the light vanishing from his paw—and the Tsar's weapon swept through empty air. For a single, breathless heartbeat, Nikolai was off balance, his momentum carrying him forward, his pale blue eyes widening with surprise. He recovered instantly, thrusting the halberd forward, but Ajani was already dodging—not backward, but sideways, his body flowing around the strike like water around stone.
+
 Nikolai switched to a wide sweep, the halberd's blade cutting a glittering arc through the morning air. Ajani jumped, the halberd passing beneath him, and the Tsar's stern face split in a fierce grin. He had been testing the boy. The boy was good. He thrust upward, changing direction with the speed of a warrior who had been fighting for longer than most Wengari had been alive. But Ajani was already summoning his staff—the grandfather, the fourth pillar—and he used it to parry the halberd's upward thrust.
 
 The force of the parry drove the halberd down, its blade biting into the sand, and by the time Nikolai lifted it, Ajani was already descending. The ji materialized in his paws—the weapon of the Deep, the blade of green fire, the form he had not yet mastered but had learned to trust. He landed on the shaft of the halberd, his weight pinning it to the ground, and the tip of the ji came to rest gently against Nikolai's throat.
 
 
 
-The Tsar of the Snow Paws looked up at the White Dawn. For a long, breathless moment, no one moved. On the snow wurm, Anastasia watched with her quiet, frightening stillness, her pale blue eyes taking in every detail of the exchange. Vanya's hand had moved to her axe, but she had not drawn it. Nadya was frozen, her daggers forgotten in her fingers. Ivan's mouth was hanging open. Cefiro simply nodded, a single, deliberate inclination of his head, as if to say: *I told you.* In the shadow of the gate, L'vat let out a long, rattling breath that might have been annoyance or might have been pride.
+The Tsar of the Snow Paws looked up at the White Dawn. For a long moment, no one moved. On the snow wurm, Anastasia watched with her quiet, frightening stillness, her pale blue eyes taking in every detail of the exchange. Vanya's hand had moved to her axe, but she had not drawn it. Nadya was frozen, her daggers forgotten in her fingers. Ivan's mouth was hanging open. Cefiro simply nodded, a single, deliberate inclination of his head, as if to say: *I told you.* In the shadow of the gate, L'vat let out a long, rattling breath — annoyance, or pride.
 
 The Veylar queen watched in silence from her coral palanquin, her ancient eyes unreadable. The Wengari on the wall—M'rak, Reva, Zephyr, Yvaria, Sylva—stood ready, their claws half-extended, unsure whether to intervene or applaud.
 
@@ -239,7 +241,7 @@ The Veylar queen sat in a chair of living coral that her attendants had carried 
 
 
 <div class="dialogue-block">
-<p class="speech-line">A faint sound that might have been laughter rippled through the assembled court. L'vat's multifaceted eyes flickered with something that was almost amusement. "The Quick have been talking about the baubles since we left the city. They have already purchased thirty-seven new pieces. I do not understand the appeal, but the Deep is pleased that its children are happy."</p>
+<p class="speech-line">Low, quiet laughter moved through the assembled court. L'vat's multifaceted eyes flickered with something that was almost amusement. "The Quick have been talking about the baubles since we left the city. They have already purchased thirty-seven new pieces. I do not understand the appeal, but the Deep is pleased that its children are happy."</p>
 </div>
 
 
@@ -630,7 +632,7 @@ Ajani looked down at them, and when he spoke, his voice was quieter than it had 
 </div>
 
 
-Vasha's cold eyes flickered with something that might have been surprise. Mira's sharp merchant's face went very still.
+Vasha's cold eyes flickered with surprise. Mira's sharp merchant's face went very still.
 
 
 <div class="dialogue-block">
@@ -638,7 +640,7 @@ Vasha's cold eyes flickered with something that might have been surprise. Mira's
 </div>
 
 
-Mira kept her face still, but her sharp merchant's eyes flickered with something that might have been surprise. Vasha did not smile. She never smiled. But her cold eyes met Ajani's, and something passed between them—the recognition of a spymaster who had been seen.
+Mira kept her face still, but her sharp merchant's eyes sharpened. Vasha did not smile. She never smiled. But her cold eyes met Ajani's, and something passed between them—the recognition of a spymaster who had been seen.
 
 
 <div class="dialogue-block">
@@ -651,7 +653,7 @@ Mira kept her face still, but her sharp merchant's eyes flickered with something
 </div>
 
 
-The faintest ripple of something that might have been laughter ran through the assembled court. Vasha did not acknowledge it.
+A murmur of amusement moved through the assembled court. Vasha did not acknowledge it.
 
 
 Mira still knelt on the cold stone, her sharp eyes fixed on the king, waiting. The Sun-Walker had been Nefere's right hand, the one who had kept the Pyrinae intelligence network running during the war. She was not a warrior. She was not a spymaster. She was a merchant, an envoy, a woman who had spent her life building relationships and cultivating contacts. And now the king was about to speak her name. Ajani turned to the second scroll and began to read.
@@ -707,7 +709,7 @@ The war horn's echo had barely faded when the three Snow Paws vanished. Where Ni
 </div>
 
 
-A ripple of suppressed laughter ran through the assembled court. Sylva's ancient eyes flickered with something that was almost amusement. The Veylar Shell-Singers exchanged glances. L'vat let out a rattling breath that might have been a sigh. Even Blackie and Reddy clicked their pincers in a rhythm that sounded suspiciously like laughter.
+A ripple of suppressed laughter ran through the assembled court. Sylva's ancient eyes flickered with something that was almost amusement. The Veylar Shell-Singers exchanged glances. L'vat let out a rattling sigh. Even Blackie and Reddy clicked their pincers in a rhythm that sounded suspiciously like laughter.
 
 
 <div class="dialogue-block">

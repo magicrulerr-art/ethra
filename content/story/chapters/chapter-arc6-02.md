@@ -15,7 +15,7 @@ Elyra was silent for a moment, her silver aura flickering gently. Then she spoke
 The words fell like a blade. The throne room went absolutely still.
 
 
-M'rak's burn-scarred face tightened. Reva's golden eyes widened. Zephyr's scarred expression flickered with something that might have been alarm. Yvaria's silver-furred hands, still stained with the blood of her ghosts, clenched at her sides. Sylva's ancient eyes closed. Vasha's stylus stopped moving.
+M'rak's burn-scarred face tightened. Reva's golden eyes widened. Zephyr's scarred expression flickered with a flash of alarm. Yvaria's silver-furred hands, still stained with the blood of her ghosts, clenched at her sides. Sylva's ancient eyes closed. Vasha's stylus stopped moving.
 
 
 <div class="dialogue-block">
@@ -349,7 +349,7 @@ The great bronze doors had barely closed behind Ajani and the scorpions when the
 
 
 <div class="dialogue-block">
-<p class="speech-line">General Torek, the old Bright Paw commander who had let M'rak ride without authorization, turned to his former subordinate. His golden mane was streaked with grey, his ceremonial armor still immaculate, but his voice was rough with something that might have been pride or might have been grief. "Two stars. You're a two-star general now. You outrank me."</p>
+<p class="speech-line">General Torek, the old Bright Paw commander who had let M'rak ride without authorization, turned to his former subordinate. His golden mane was streaked with grey, his ceremonial armor still immaculate, but his voice rough with pride threaded with grief. "Two stars. You're a two-star general now. You outrank me."</p>
 </div>
 
 
@@ -600,7 +600,7 @@ In the Shadow Paw quarter, Lira stood outside the training hall. She had been wa
 </div>
 
 
-Reddy clicked her pincers loudly. Blackie's antennae swiveled toward Lira with what might have been suspicion. The two scorpions had become very protective of their king in the days since the battle. They remembered the assassin who had tried to kill Kira. They remembered the creature that had nearly broken the wall. They were not inclined to trust anyone they did not already know.
+Reddy clicked her pincers loudly. Blackie's antennae swiveled toward Lira with open suspicion. The two scorpions had become very protective of their king in the days since the battle. They remembered the assassin who had tried to kill Kira. They remembered the creature that had nearly broken the wall. They were not inclined to trust anyone they did not already know.
 
 
 Lira looked at the scorpions. The scorpions looked at Lira. Vex, still standing three paces behind, said nothing. But the faintest trace of something—not quite amusement, not quite sympathy—flickered across his usually impassive face.
@@ -867,7 +867,7 @@ The descent into the inner chamber had become familiar. Ajani walked the spiral 
 </div>
 
 
-The roots pulsed. The blossom stirred. The Tree's voice pressed against his mind—not words, but the familiar, patient hunger, tinged now with something that might have been mild annoyance at being disturbed twice in one week.
+The roots pulsed. The blossom stirred. The Tree's voice pressed against his mind—not words, but the familiar, patient hunger, tinged now with mild annoyance at being disturbed twice in one week.
 
 
 'You are here again. You have questions. Ask.'

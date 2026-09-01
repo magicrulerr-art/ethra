@@ -68,7 +68,7 @@ Sylara inclined her head. Her fin-ridges rippled faintly, tasting the air, readi
 </div>
 
 
-Sylara was silent for a long moment. The Petal-Shell in her hands pulsed with a slow, rhythmic light, matching the steady beat of her breathing—a sign, perhaps, of deep thought among her kind. The fin-ridges along her temples rippled once, twice, then stilled.
+Sylara was silent for a long moment. The Petal-Shell in her hands pulsed with a slow, even light, matching the steady beat of her breathing—a sign, perhaps, of deep thought among her kind. The fin-ridges along her temples rippled once, twice, then stilled.
 
 
 When she spoke, her melodic voice carried a new note beneath its patient cadence. Wonder, or calculation — or both.
