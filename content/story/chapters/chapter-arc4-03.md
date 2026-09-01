@@ -1,18 +1,12 @@
 ## Chapter 3: The Pyrinae Accord
 
+Ajani said nothing. He walked slowly around the fire foot, his green-flecked eyes tracing the familiar lines of her scales, the particular angle of her tail, the small scar above her left foreleg where a thorn had caught her in the Flickermarch. He had not seen her since he left the marshes. He had not known she was alive.
+
 <div class="dialogue-block">
 <span class="speech">"She carried you for a year,"</span> Korr said. <span class="speech">"Through the Flickermarch. Through the deep desert. Through places no fire foot should have survived. When we lost the caravan—when the others died—she kept going. She kept you going. I think—"</span> He paused, his rough voice softening. <span class="speech">"I think the lord of the marsh watched over her. The same green light that flickers along your claws. She carried that light for a year. She carries it still."</span>
 </div>
 
 Ajani reached out and placed his paw against Ember's flank. The fire foot rumbled, a low, throaty sound that was not fear and not warning, but recognition. The green fire flickered along his claws, and Ember's scales shimmered in answer, a faint, answering glow that rose from her skin like mist from still water.
-
-<div class="dialogue-block">
-<span class="speech">"The Stripe Paws offer this gift,"</span> Zara said, her voice formal now, the ceremonial cadence of a chief speaking for her family. <span class="speech">"Not as tribute. Not as politics. As family. Your mother was one of us. You rode with our caravans for three years. You carried our blood and our ways into the marshes and back. Ember is yours. She has always been yours. We are only returning what was already given."</span>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">Ajani did not speak for a long moment. When he turned to face them, his eyes were bright, and the green fire along his claws had steadied to a warm, steady glow. "I accept this gift. I accept it as family. And I will ride Ember north, when the road begins. She carried me through the marshes. She will carry me through the Rune-Belt. And when the road is done, she will carry me home."</p>
-</div>
 
 Three weeks passed.
 
@@ -465,3 +459,5 @@ The Golden Sun. The withering sickness. The pilgrimage. The chosen ones. It was 
 The Wengari were now being given a different lie—a lie that made them feel chosen, favored, destined to rule. It was a more effective lie than the Hummans had ever managed, and it was backed by the king's tournament and the regent's patience and the ancient, patient hunger of whatever truly dwelled beneath the desert.
 
 But it was still a lie. And lies could be used.
+
+She turned away from the fountain and walked slowly back toward the Humman quarter, her diplomatic robes stirring the dust at her feet. The Golden Sun had chosen the Wengari. The Golden Sun had promised to make them strong. But the Hummans had survived five hundred years of shame by learning to be indispensable. The tournament had made them indispensable. The road would make them more so. And if the Golden Sun was real—if there truly was something beneath the desert that fed on aura and favored the strong—then the Hummans would simply have to become strong enough to be noticed.

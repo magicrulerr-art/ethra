@@ -472,5 +472,3 @@ She paused at the edge of the dais, glancing back over her shoulder. <span class
 </div>
 
 She turned and walked toward the great bronze doors, her silver-chased ceremonial armor gleaming in the amber light. The king had laughed at her—she had heard the laughter in his voice, even if he had not spoken it aloud. She did not mind. The laughter of a king who was also a teacher was a gift. She would repay it by learning. And by ensuring that the next time the Hummans tried to deceive the throne, the regent would see it before the king did.
-
-Ajani said nothing. He walked slowly around the fire foot, his green-flecked eyes tracing the familiar lines of her scales, the particular angle of her tail, the small scar above her left foreleg where a thorn had caught her in the Flickermarch. He had not seen her since he left the marshes. He had not known she was alive.

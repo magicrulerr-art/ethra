@@ -1,7 +1,5 @@
 ## Chapter 4: The Humman Delegation
 
-She turned away from the fountain and walked slowly back toward the Humman quarter, her diplomatic robes stirring the dust at her feet. The Golden Sun had chosen the Wengari. The Golden Sun had promised to make them strong. But the Hummans had survived five hundred years of shame by learning to be indispensable. The tournament had made them indispensable. The road would make them more so. And if the Golden Sun was real—if there truly was something beneath the desert that fed on aura and favored the strong—then the Hummans would simply have to become strong enough to be noticed.
-
 She did not believe in gods. She believed in leverage. And the king, for all his brilliance, had just given her more leverage than she had ever possessed. The Golden Sun chose pilgrims. The pilgrims walked the harshest path. The strong survived. The weak died. It was a test. And the Hummans, who had been tested for five hundred years and were still standing, understood tests better than anyone.
 
 The meditation chamber of the Pyrinae Root-Speakers was a small, circular room carved into the living stone of the eastern district. Its walls were lined with rune-glass filaments that pulsed with a soft, amber light, and its floor was covered with woven mats that smelled of old incense and ancient earth. The chamber was dark, lit only by the filaments and a single oil lamp that burned at the center of the room.
@@ -459,3 +457,5 @@ He swept his gaze across the Humman delegation, across the Bright Paw guards, ac
 <div class="dialogue-block">
 <span class="speech">"YOUR FATE NOW RESTS IN MY SISTER'S PAWS!"</span> Ajani looked down at Kira, and his voice softened, just slightly. <span class="speech">"Little sister. These pests have offended you. They have offended me. They have offended the crown. Will you let them scurry back to their quarter with their dead, or will you demand more from them? The choice is yours. Whatever you decide, I will enforce. Whatever you demand, they will give. Speak, Kira Brightmane. Let them hear you."</span>
 </div>
+
+The Great Hall fell silent. The guards had dragged the dead merchant's body to Seris's feet, and the ambassador stared down at it, her diplomatic mask shattered, her dark eyes hollow with the knowledge that another of her people had died because she had failed to control them.

@@ -1,6 +1,6 @@
 # Chapter 4: The Consolidation
 
-*59,352 words across 6 chapters*
+*59,220 words across 6 chapters*
 
 ### Bureaucracy
 
@@ -12,17 +12,17 @@
 
 ### The Pyrinae Accord
 
-"She carried you for a year," Korr said. "Through the Flickermarch. Through the deep desert. Through places no fire foot should have survived. When we lost the caravan—when the others died—she kept go...
+Ajani said nothing. He walked slowly around the fire foot, his green-flecked eyes tracing the familiar lines of her scales, the particular angle of her tail, the small scar above her left foreleg wher...
 
 ### The Humman Delegation
 
-She turned away from the fountain and walked slowly back toward the Humman quarter, her diplomatic robes stirring the dust at her feet. The Golden Sun had chosen the Wengari. The Golden Sun had promis...
+She did not believe in gods. She believed in leverage. And the king, for all his brilliance, had just given her more leverage than she had ever possessed. The Golden Sun chose pilgrims. The pilgrims w...
 
 ### The Gifts
 
-The Great Hall fell silent. The guards had dragged the dead merchant's body to Seris's feet, and the ambassador stared down at it, her diplomatic mask shattered, her dark eyes hollow with the knowledg...
+Ajani stood at the center of the dais, one paw resting on Kira's shoulder, green flame glowing softly along his claws. He had said what needed to be said. He had made the proclamation. The entire hall...
 
 ### Aftermath
 
-Ajani closed the grimoire and held it against his chest. The glow along his claws had steadied, warm and even. "This is still the best gift I have received today. The spear is magnificent. The fire fo...
+Every eye at the water hole was fixed on him. The Stripe Paws, who had just watched their king rip a page from a book and conjure a ball of light that exploded into green rain. The Shadow Paws, who ha...
 

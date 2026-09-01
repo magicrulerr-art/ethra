@@ -1,7 +1,5 @@
 ## Chapter 5: The Gifts
 
-The Great Hall fell silent. The guards had dragged the dead merchant's body to Seris's feet, and the ambassador stared down at it, her diplomatic mask shattered, her dark eyes hollow with the knowledge that another of her people had died because she had failed to control them.
-
 Ajani stood at the center of the dais, one paw resting on Kira's shoulder, green flame glowing softly along his claws. He had said what needed to be said. He had made the proclamation. The entire hall—Bright Paw guards, Shadow Paw assassins, servants, scribes, priests—had heard him claim the Shadow Paw cub as his sister. Now it was Kira's turn. He did not prompt her. He did not whisper advice. He simply waited, his green-flecked eyes moving from the trembling Humman delegation to the small, dark-furred cub at his side.
 
 Seris saw the opening. She was a diplomat of thirty years, and she understood power even when it wore the face of a six-year-old child. The king had given his sister the power of life and death over the Humman delegation. The king had not told her what to do with it. If Seris could sway the cub, she could save her people. If she failed, they would all follow the dead merchant to the eastern gate—or worse.
@@ -292,7 +290,7 @@ Kira stared. She had never seen her brother like this. Not in the training arena
 Vasha made a small, noncommittal sound — agreement or disapproval; Vasha never gave either away.
 
 <div class="dialogue-block">
-<p class="speech-line">Zara spoke the words again — the same words she had spoken at the first gift-giving, and this time they were not formality but blessing. "Ember is yours. She has always been yours. We are only returning what was already given."</p>
+<p class="speech-line">Zara stepped forward, her massive frame moving with the easy confidence of a chief who had trained champions for forty years. "The Stripe Paws offer this gift. Not as tribute. Not as politics. As family. Your mother was one of us. You rode with our caravans for three years. Ember is yours. She has always been yours. We are only returning what was already given."</p>
 </div>
 
 <div class="dialogue-block">
@@ -517,4 +515,8 @@ Elyra was silent for a long moment. Her silver aura flickered, and her melodic v
 
 <div class="dialogue-block">
 <p class="speech-line">Elyra inclined her elegant head. "The Motted Paws will ask it. We have been patient for five thousand years. We can be patient a little longer."</p>
+</div>
+
+<div class="dialogue-block">
+<p class="speech-line">Ajani closed the grimoire and held it against his chest. The glow along his claws had steadied, warm and even. "This is still the best gift I have received today. The spear is magnificent. The fire foot is beloved. The daggers are precious. But this—this is a piece of the future."</p>
 </div>

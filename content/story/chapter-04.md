@@ -944,14 +944,6 @@ Ajani said nothing. He walked slowly around the fire foot, his green-flecked eye
 
 Ajani reached out and placed his paw against Ember's flank. The fire foot rumbled, a low, throaty sound that was not fear and not warning, but recognition. The green fire flickered along his claws, and Ember's scales shimmered in answer, a faint, answering glow that rose from her skin like mist from still water.
 
-<div class="dialogue-block">
-<span class="speech">"The Stripe Paws offer this gift,"</span> Zara said, her voice formal now, the ceremonial cadence of a chief speaking for her family. <span class="speech">"Not as tribute. Not as politics. As family. Your mother was one of us. You rode with our caravans for three years. You carried our blood and our ways into the marshes and back. Ember is yours. She has always been yours. We are only returning what was already given."</span>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">Ajani did not speak for a long moment. When he turned to face them, his eyes were bright, and the green fire along his claws had steadied to a warm, steady glow. "I accept this gift. I accept it as family. And I will ride Ember north, when the road begins. She carried me through the marshes. She will carry me through the Rune-Belt. And when the road is done, she will carry me home."</p>
-</div>
-
 Three weeks passed.
 
 Lena knelt beside the pool in the Motted Paw quarter, her dark hair tied back, her scribe's hands raw from scrubbing the stone channels that carried water from the gardens to the inner chambers. She had been Sylva's maid for three weeks, and she had learned that the regent was patient but exacting, kind but unsentimental, and utterly intolerant of any task done carelessly.
@@ -2156,7 +2148,7 @@ Kira stared. She had never seen her brother like this. Not in the training arena
 Vasha made a small, noncommittal sound — agreement or disapproval; Vasha never gave either away.
 
 <div class="dialogue-block">
-<p class="speech-line">Zara spoke the words again — the same words she had spoken at the first gift-giving, and this time they were not formality but blessing. "Ember is yours. She has always been yours. We are only returning what was already given."</p>
+<p class="speech-line">Zara stepped forward, her massive frame moving with the easy confidence of a chief who had trained champions for forty years. "The Stripe Paws offer this gift. Not as tribute. Not as politics. As family. Your mother was one of us. You rode with our caravans for three years. Ember is yours. She has always been yours. We are only returning what was already given."</p>
 </div>
 
 <div class="dialogue-block">
