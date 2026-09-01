@@ -6,7 +6,7 @@ The creature kept advancing. Each step was steadier now, its eight legs moving i
 
 Then the light came.
 
-Twenty meteors of golden fire fell from the sky and slammed into the sand before the creature, forming a line across the battlefield. Each meteor struck with a thunderous impact that shook the wall, and from each impact point, a pillar of light shot upward, blazing gold and amber and white, a curtain of radiance that stretched from the sand to the sky. The creature stopped. Its massive head swiveled toward the pillars, and its purple eyes flickered with something that might have been recognition or might have been fear.
+Twenty meteors of golden fire fell from the sky and slammed into the sand before the creature, forming a line across the battlefield. Each meteor struck with a thunderous impact that shook the wall, and from each impact point, a pillar of light shot upward, blazing gold and amber and white, a curtain of radiance that stretched from the sand to the sky. The creature stopped. Its massive head swiveled toward the pillars, and its purple eyes flickered with recognition — or fear.
 
 A twenty-first light pillar descended onto the wall itself, landing directly behind M'rak. The light faded, and from within it stepped Solen.
 

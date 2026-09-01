@@ -116,7 +116,7 @@ Then she heard the drums. The bone-vibration rhythm of the ghosts, the Motted Pa
 <p class="speech-line">"TURN BACK! TURN BACK! THE ORB IS COMING! TURN—"</p>
 </div>
 
-It was too late. A purple orb was already approaching. It came from the Humman lines, a sphere of sickly violet light no larger than a clenched fist, trailing tendrils of purple mist. It moved with a speed that should not have been possible, silent and terrible, and Reva watched it pass her. She watched it fly past her Woh, past her riders, past the vanguard of her command, and then it stopped. It hovered for a single, breathless moment above the center of her formation. Then it detonated.
+It was too late. A purple orb was already approaching. It came from the Humman lines, a sphere of sickly violet light no larger than a clenched fist, trailing tendrils of purple mist. It moved with a speed that should not have been possible, silent and terrible, and Reva watched it pass her. She watched it fly past her Woh, past her riders, past the vanguard of her command, and then it stopped. It hovered one heartbeat above the center of her formation. Then it detonated.
 
 The blast was not an explosion. It was an unfolding—a silent, terrible blossoming of violet light that expanded outward in concentric rings, consuming everything it touched. Five Wohs were struck in the first heartbeat, their natural plate armor no defense against the Plague-touched sorcery, their massive bodies dissolving into the purple light. Then ten. Then fifteen. The riders on their backs died with them, their screams swallowed by the silence of the orb.
 

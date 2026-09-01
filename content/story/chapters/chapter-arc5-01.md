@@ -129,7 +129,7 @@ The war room fell silent again. Sylva could feel the seconds dragging, each one 
 <p class="speech-line">"Twenty warriors. They are holding, Regent. They are holding."</p>
 </div>
 
-The cheer that went up this time was louder, fiercer, the sound of Wengari who had been waiting for a miracle and were watching one unfold before their eyes. Zara was grinning, her great fangs bared. Nefere's clouded eyes were closed, her rune-glass staff humming with a steady, calming light. Even Kareth, leaning on his obsidian staff in the corner of the room, inclined his scarred head in something that might have been approval.
+The cheer that went up this time was louder, fiercer, the sound of Wengari who had been waiting for a miracle and were watching one unfold before their eyes. Zara was grinning, her great fangs bared. Nefere's clouded eyes were closed, her rune-glass staff humming with a steady, calming light. Even Kareth, leaning on his obsidian staff in the corner of the room, inclined his scarred head in quiet approval.
 
 Then the scout spoke again, and the cheer died.
 

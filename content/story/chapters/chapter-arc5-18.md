@@ -30,7 +30,7 @@ The shockwave that burst from the royal chamber was not a blast of force or fire
 
 In the war room, Sylva stopped mid-stride and turned toward the palace, her silver aura flickering with something that was not exhaustion. In the temple, the wounded looked up from their pallets, and the children stopped crying. On the wall, M'rak felt it pass through his chest like a heartbeat that was not his own, and his burn-scarred arms broke out in gooseflesh.
 
-The creature felt it too. It faltered. Its eight legs, which had been carrying it toward the gate with increasing steadiness, stumbled. The purple orbs where its eyes should have been flickered, and its massive head swiveled toward the palace. It let out a sound that was not a scream but something lower, something that might have been uncertainty. Then it began to move faster, its legs churning the sand, its body lurching toward the wall with a new urgency.
+The creature felt it too. It faltered. Its eight legs, which had been carrying it toward the gate with increasing steadiness, stumbled. The purple orbs where its eyes should have been flickered, and its massive head swiveled toward the palace. It let out a sound that was not a scream but something lower, something raw and uncertain. Then it began to move faster, its legs churning the sand, its body lurching toward the wall with a new urgency.
 
 It knew what had happened. It knew what was coming.
 
@@ -104,4 +104,4 @@ Then he looked back at the creature. It was noon. He had been unconscious for th
 
 Ajani didn't wait for an answer. He launched himself into the sky, the golden wings snapping open from his back, the white spear of the Pyrinae already materializing in his grip. The creature was a league away—close enough that he could see the purple orbs pulsing where its eyes should have been, close enough that he could smell the charnel reek of its body, close enough that the green acid barbs it had fired at the Wohs could reach him in seconds.
 
-He threw the spear with everything he had. It split in midair—one became two, two became four, four became five—the five spears of the Pyrinae gift, each one blazing with a different elemental fury. Fire, water, light, darkness, earth. They surrounded the creature in a perfect pentagon, their points aimed inward, their shafts humming with contained power. The creature stopped. Its massive head swiveled, tracking the spears, and its purple eyes flickered with something that might have been recognition.
+He threw the spear with everything he had. It split in midair—one became two, two became four, four became five—the five spears of the Pyrinae gift, each one blazing with a different elemental fury. Fire, water, light, darkness, earth. They surrounded the creature in a perfect pentagon, their points aimed inward, their shafts humming with contained power. The creature stopped. Its massive head swiveled, tracking the spears, and its purple eyes flickered with recognition.

@@ -13,7 +13,7 @@ Mekhmed grimaced. He looked down at his fingers as if counting, though the numbe
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">Mekhmed looked at him. For a long moment, the tent was silent. Then, in a rare display of something that might have been understanding, he nodded. "Order them back. Pull the vanguard to the perimeter. We hold position. For now." The generals bowed and departed, their relief barely concealed. Outside the tent, the order was given. The second contingent of suicide scorpions—fifty riders, their mounts still fresh, their dark eyes still closed in grim resignation—turned from the wall and retreated. The Wengari defenders watched them go, their claws still raised, their hearts still pounding. No one cheered. The retreat was not a surrender. It was a pause.</p>
+<p class="speech-line">Mekhmed looked at him. For a long moment, the tent was silent. Then, in what passed, for him, as understanding, he nodded. "Order them back. Pull the vanguard to the perimeter. We hold position. For now." The generals bowed and departed, their relief barely concealed. Outside the tent, the order was given. The second contingent of suicide scorpions—fifty riders, their mounts still fresh, their dark eyes still closed in grim resignation—turned from the wall and retreated. The Wengari defenders watched them go, their claws still raised, their hearts still pounding. No one cheered. The retreat was not a surrender. It was a pause.</p>
 </div>
 
 <div class="dialogue-block">

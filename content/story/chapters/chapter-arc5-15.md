@@ -12,7 +12,7 @@ The rune cannons roared. All sixteen of them, their sorcerers chanting in unison
 
 It crashed into the desert floor with the force of a collapsing mountain, its eight legs splayed, its purple eyes flickering, its body twitching and spasming in the sand.
 
-For a single, breathless moment, the wall was silent. Reva lowered her claws. Yvaria's ghosts hovered in the sky, their drums still. The Humman refugees in the courtyard stared at the fallen creature with expressions of stunned, disbelieving hope.
+The wall went utterly silent. Reva lowered her claws. Yvaria's ghosts hovered in the sky, their drums still. The Humman refugees in the courtyard stared at the fallen creature with expressions of stunned, disbelieving hope.
 
 Then the creature began to reform.
 

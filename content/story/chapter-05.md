@@ -128,7 +128,7 @@ The war room fell silent again. Sylva could feel the seconds dragging, each one 
 <p class="speech-line">"Twenty warriors. They are holding, Regent. They are holding."</p>
 </div>
 
-The cheer that went up this time was louder, fiercer, the sound of Wengari who had been waiting for a miracle and were watching one unfold before their eyes. Zara was grinning, her great fangs bared. Nefere's clouded eyes were closed, her rune-glass staff humming with a steady, calming light. Even Kareth, leaning on his obsidian staff in the corner of the room, inclined his scarred head in something that might have been approval.
+The cheer that went up this time was louder, fiercer, the sound of Wengari who had been waiting for a miracle and were watching one unfold before their eyes. Zara was grinning, her great fangs bared. Nefere's clouded eyes were closed, her rune-glass staff humming with a steady, calming light. Even Kareth, leaning on his obsidian staff in the corner of the room, inclined his scarred head in quiet approval.
 
 Then the scout spoke again, and the cheer died.
 
@@ -615,7 +615,7 @@ The temple fell silent before it struck. Every Wengari inside—the merchants an
 
 The wounded stopped their moaning. The children stopped their crying. And they waited.
 
-The wind cannon roared. The steel ball struck the dome, and the light shield shattered. The golden hemisphere that had enclosed the capital for an hour fractured into a thousand shards of dying light, each one burning out as it fell toward the city below. For a single, breathless moment, the capital was bathed in a soft, golden rain—fragments of ancient sorcery that had been passed from High Speaker to High Speaker since the time of the Third Tyrant, falling like tears into the sand.
+The wind cannon roared. The steel ball struck the dome, and the light shield shattered. The golden hemisphere that had enclosed the capital for an hour fractured into a thousand shards of dying light, each one burning out as it fell toward the city below. For one still moment, the capital was bathed in a soft, golden rain—fragments of ancient sorcery that had been passed from High Speaker to High Speaker since the time of the Third Tyrant, falling like tears into the sand.
 
 Then the light was gone, and the sky was open, and the war drums were pounding, and the scorpions were climbing the wall again.
 
@@ -898,7 +898,7 @@ Mekhmed grimaced. He looked down at his fingers as if counting, though the numbe
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">Mekhmed looked at him. For a long moment, the tent was silent. Then, in a rare display of something that might have been understanding, he nodded. "Order them back. Pull the vanguard to the perimeter. We hold position. For now." The generals bowed and departed, their relief barely concealed. Outside the tent, the order was given. The second contingent of suicide scorpions—fifty riders, their mounts still fresh, their dark eyes still closed in grim resignation—turned from the wall and retreated. The Wengari defenders watched them go, their claws still raised, their hearts still pounding. No one cheered. The retreat was not a surrender. It was a pause.</p>
+<p class="speech-line">Mekhmed looked at him. For a long moment, the tent was silent. Then, in what passed, for him, as understanding, he nodded. "Order them back. Pull the vanguard to the perimeter. We hold position. For now." The generals bowed and departed, their relief barely concealed. Outside the tent, the order was given. The second contingent of suicide scorpions—fifty riders, their mounts still fresh, their dark eyes still closed in grim resignation—turned from the wall and retreated. The Wengari defenders watched them go, their claws still raised, their hearts still pounding. No one cheered. The retreat was not a surrender. It was a pause.</p>
 </div>
 
 <div class="dialogue-block">
@@ -1057,7 +1057,7 @@ Then she heard the drums. The bone-vibration rhythm of the ghosts, the Motted Pa
 <p class="speech-line">"TURN BACK! TURN BACK! THE ORB IS COMING! TURN—"</p>
 </div>
 
-It was too late. A purple orb was already approaching. It came from the Humman lines, a sphere of sickly violet light no larger than a clenched fist, trailing tendrils of purple mist. It moved with a speed that should not have been possible, silent and terrible, and Reva watched it pass her. She watched it fly past her Woh, past her riders, past the vanguard of her command, and then it stopped. It hovered for a single, breathless moment above the center of her formation. Then it detonated.
+It was too late. A purple orb was already approaching. It came from the Humman lines, a sphere of sickly violet light no larger than a clenched fist, trailing tendrils of purple mist. It moved with a speed that should not have been possible, silent and terrible, and Reva watched it pass her. She watched it fly past her Woh, past her riders, past the vanguard of her command, and then it stopped. It hovered one heartbeat above the center of her formation. Then it detonated.
 
 The blast was not an explosion. It was an unfolding—a silent, terrible blossoming of violet light that expanded outward in concentric rings, consuming everything it touched. Five Wohs were struck in the first heartbeat, their natural plate armor no defense against the Plague-touched sorcery, their massive bodies dissolving into the purple light. Then ten. Then fifteen. The riders on their backs died with them, their screams swallowed by the silence of the orb.
 
@@ -1199,7 +1199,7 @@ The white Wengari raised one paw, and Kira felt herself lifted gently from the f
 <p class="speech-line">Cefiro looked at her, and his smile faded. When he spoke again, his voice was gentler. "Did you ever wonder why the Wengari call themselves the five families, but you're only four? Stripe Paws. Bright Paws. Motted Paws. Shadow Paws. Four families. And yet the old songs speak of five. The old tales remember five. The First Tyrant purged the other families—everyone knows this—but one family escaped. We fled north, cousin. We fled into the ice and the snow and the endless night, and we survived. We thought everyone else had died. For five thousand years, we thought we were the last Wengari in the world."</p>
 </div>
 
-He paused. The scorpions were still floating, but their struggles had ceased. They were listening, their small heads tilted, their dark eyes fixed on the white Wengari with something that might have been curiosity.
+He paused. The scorpions were still floating, but their struggles had ceased. They were listening, their small heads tilted, their dark eyes fixed on the white Wengari with wide curiosity.
 
 <div class="dialogue-block">
 <span class="speech">"Then this one came. Three years ago. He walked out of the snow like a ghost, half-frozen and half-starved, and he asked if he could rest by our fire. He stayed for months. He told us about the desert, about the capital, about the pact. He told us about the Bright Paws and the Shadow Paws and the Stripe Paws and the Motted Paws. He told us we were not alone."</span> Cefiro's voice dropped. <span class="speech">"He told us we were still Wengari. And he invited us to come home."</span>
@@ -1479,7 +1479,7 @@ The rune cannons roared. All sixteen of them, their sorcerers chanting in unison
 
 It crashed into the desert floor with the force of a collapsing mountain, its eight legs splayed, its purple eyes flickering, its body twitching and spasming in the sand.
 
-For a single, breathless moment, the wall was silent. Reva lowered her claws. Yvaria's ghosts hovered in the sky, their drums still. The Humman refugees in the courtyard stared at the fallen creature with expressions of stunned, disbelieving hope.
+The wall went utterly silent. Reva lowered her claws. Yvaria's ghosts hovered in the sky, their drums still. The Humman refugees in the courtyard stared at the fallen creature with expressions of stunned, disbelieving hope.
 
 Then the creature began to reform.
 
@@ -1565,7 +1565,7 @@ The creature kept advancing. Each step was steadier now, its eight legs moving i
 
 Then the light came.
 
-Twenty meteors of golden fire fell from the sky and slammed into the sand before the creature, forming a line across the battlefield. Each meteor struck with a thunderous impact that shook the wall, and from each impact point, a pillar of light shot upward, blazing gold and amber and white, a curtain of radiance that stretched from the sand to the sky. The creature stopped. Its massive head swiveled toward the pillars, and its purple eyes flickered with something that might have been recognition or might have been fear.
+Twenty meteors of golden fire fell from the sky and slammed into the sand before the creature, forming a line across the battlefield. Each meteor struck with a thunderous impact that shook the wall, and from each impact point, a pillar of light shot upward, blazing gold and amber and white, a curtain of radiance that stretched from the sand to the sky. The creature stopped. Its massive head swiveled toward the pillars, and its purple eyes flickered with recognition — or fear.
 
 A twenty-first light pillar descended onto the wall itself, landing directly behind M'rak. The light faded, and from within it stepped Solen.
 
@@ -1625,7 +1625,7 @@ The shockwave that burst from the royal chamber was not a blast of force or fire
 
 In the war room, Sylva stopped mid-stride and turned toward the palace, her silver aura flickering with something that was not exhaustion. In the temple, the wounded looked up from their pallets, and the children stopped crying. On the wall, M'rak felt it pass through his chest like a heartbeat that was not his own, and his burn-scarred arms broke out in gooseflesh.
 
-The creature felt it too. It faltered. Its eight legs, which had been carrying it toward the gate with increasing steadiness, stumbled. The purple orbs where its eyes should have been flickered, and its massive head swiveled toward the palace. It let out a sound that was not a scream but something lower, something that might have been uncertainty. Then it began to move faster, its legs churning the sand, its body lurching toward the wall with a new urgency.
+The creature felt it too. It faltered. Its eight legs, which had been carrying it toward the gate with increasing steadiness, stumbled. The purple orbs where its eyes should have been flickered, and its massive head swiveled toward the palace. It let out a sound that was not a scream but something lower, something raw and uncertain. Then it began to move faster, its legs churning the sand, its body lurching toward the wall with a new urgency.
 
 It knew what had happened. It knew what was coming.
 
@@ -1699,7 +1699,7 @@ Then he looked back at the creature. It was noon. He had been unconscious for th
 
 Ajani didn't wait for an answer. He launched himself into the sky, the golden wings snapping open from his back, the white spear of the Pyrinae already materializing in his grip. The creature was a league away—close enough that he could see the purple orbs pulsing where its eyes should have been, close enough that he could smell the charnel reek of its body, close enough that the green acid barbs it had fired at the Wohs could reach him in seconds.
 
-He threw the spear with everything he had. It split in midair—one became two, two became four, four became five—the five spears of the Pyrinae gift, each one blazing with a different elemental fury. Fire, water, light, darkness, earth. They surrounded the creature in a perfect pentagon, their points aimed inward, their shafts humming with contained power. The creature stopped. Its massive head swiveled, tracking the spears, and its purple eyes flickered with something that might have been recognition.
+He threw the spear with everything he had. It split in midair—one became two, two became four, four became five—the five spears of the Pyrinae gift, each one blazing with a different elemental fury. Fire, water, light, darkness, earth. They surrounded the creature in a perfect pentagon, their points aimed inward, their shafts humming with contained power. The creature stopped. Its massive head swiveled, tracking the spears, and its purple eyes flickered with recognition.
 
 Then it opened its maw and fired.
 

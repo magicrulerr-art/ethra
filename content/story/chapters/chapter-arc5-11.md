@@ -126,7 +126,7 @@ The white Wengari raised one paw, and Kira felt herself lifted gently from the f
 <p class="speech-line">Cefiro looked at her, and his smile faded. When he spoke again, his voice was gentler. "Did you ever wonder why the Wengari call themselves the five families, but you're only four? Stripe Paws. Bright Paws. Motted Paws. Shadow Paws. Four families. And yet the old songs speak of five. The old tales remember five. The First Tyrant purged the other families—everyone knows this—but one family escaped. We fled north, cousin. We fled into the ice and the snow and the endless night, and we survived. We thought everyone else had died. For five thousand years, we thought we were the last Wengari in the world."</p>
 </div>
 
-He paused. The scorpions were still floating, but their struggles had ceased. They were listening, their small heads tilted, their dark eyes fixed on the white Wengari with something that might have been curiosity.
+He paused. The scorpions were still floating, but their struggles had ceased. They were listening, their small heads tilted, their dark eyes fixed on the white Wengari with wide curiosity.
 
 <div class="dialogue-block">
 <span class="speech">"Then this one came. Three years ago. He walked out of the snow like a ghost, half-frozen and half-starved, and he asked if he could rest by our fire. He stayed for months. He told us about the desert, about the capital, about the pact. He told us about the Bright Paws and the Shadow Paws and the Stripe Paws and the Motted Paws. He told us we were not alone."</span> Cefiro's voice dropped. <span class="speech">"He told us we were still Wengari. And he invited us to come home."</span>

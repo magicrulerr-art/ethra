@@ -6,7 +6,7 @@ The temple fell silent before it struck. Every Wengari inside—the merchants an
 
 The wounded stopped their moaning. The children stopped their crying. And they waited.
 
-The wind cannon roared. The steel ball struck the dome, and the light shield shattered. The golden hemisphere that had enclosed the capital for an hour fractured into a thousand shards of dying light, each one burning out as it fell toward the city below. For a single, breathless moment, the capital was bathed in a soft, golden rain—fragments of ancient sorcery that had been passed from High Speaker to High Speaker since the time of the Third Tyrant, falling like tears into the sand.
+The wind cannon roared. The steel ball struck the dome, and the light shield shattered. The golden hemisphere that had enclosed the capital for an hour fractured into a thousand shards of dying light, each one burning out as it fell toward the city below. For one still moment, the capital was bathed in a soft, golden rain—fragments of ancient sorcery that had been passed from High Speaker to High Speaker since the time of the Third Tyrant, falling like tears into the sand.
 
 Then the light was gone, and the sky was open, and the war drums were pounding, and the scorpions were climbing the wall again.
 
