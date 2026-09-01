@@ -321,7 +321,7 @@ Zara's smile faltered, then steadied. The other elders—Torek, Veena, Mako—ex
 
 
 <div class="dialogue-block">
-Old Torek rose slowly, his weathered paw pressing against the small of his back where the decades of caravan travel had left their mark. <span class="speech">"I served your father,"</span> he said quietly. <span class="speech">"And his father before him—Uthgard VIII, who was stern but fair. My own father served the king before that. He told me stories. The Stripe Paws remember, even when the records crumble. Four generations of my family have watched the Bright Paw dynasty. And now I watch you."</span> He bowed his head, his old eyes glistening. <span class="speech">"The Stripe Paws will follow you, Ajani Brightmane. Not because we must. Because you have earned it."</span>
+Old Torek rose slowly, his weathered paw pressing against the small of his back where the decades of caravan travel had left their mark. <span class="speech">"I served your father,"</span> he said quietly. <span class="speech">"My father's father spoke of his father before him—Uthgard VIII, who was stern but fair—and of the king before that. The Stripe Paws remember, even when the records crumble. Four generations of my family have kept the watch over the Bright Paw dynasty. And now I watch you."</span> He bowed his head, his old eyes glistening. <span class="speech">"The Stripe Paws will follow you, Ajani Brightmane. Not because we must. Because you have earned it."</span>
 </div>
 
 
@@ -537,7 +537,7 @@ Kareth was there. The old general had not slept since the council in the inner c
 </div>
 
 
-The chamber fell silent. Kareth looked at the other elders, their faces unreadable in the flickering light. He had served three generations of Bright Paw kings. He had watched the old pact wither and the Tree's patience fray. He had knelt before Ajani Brightmane in the inner chamber and offered his service. And now his own kin were talking about stopping him. Killing him. A king not yet a month on the throne.
+The chamber fell silent. Kareth looked at the other elders, their faces unreadable in the flickering light. He had served one king his whole life. He had watched the old pact wither and the Tree's patience fray. He had knelt before Ajani Brightmane in the inner chamber and offered his service. And now his own kin were talking about stopping him. Killing him. A king not yet a month on the throne.
 
 
 <div class="dialogue-block">
@@ -717,7 +717,7 @@ The young maid stepped back, brush still in hand, her golden eyes bright. <span 
 
 
 <div class="dialogue-block">
-The maids scattered like leaves before a sandstorm as Ajani bolted from his chambers, still fumbling with the clasp of his father's white cloak. The young maid with the brush stood frozen, her eyes wide, while Mara—who had served three generations of Bright Paw royalty—simply shook her head and smiled. <span class="speech">"Forty-seven years I've dressed kings,"</span> she murmured to no one in particular. <span class="speech">"And that one is my favorite."</span>
+The maids scattered like leaves before a sandstorm as Ajani bolted from his chambers, still fumbling with the clasp of his father's white cloak. The young maid with the brush stood frozen, her eyes wide, while Mara—who had served the royal household for forty-seven years—simply shook her head and smiled. <span class="speech">"Forty-seven years I've dressed kings,"</span> she murmured to no one in particular. <span class="speech">"And that one is my favorite."</span>
 </div>
 
 
@@ -1057,7 +1057,7 @@ Solen's golden eyes, clouded with age and fury, met Ajani's green-flecked gaze. 
 </div>
 
 
-He rose from the throne, his white cloak swirling around him, and stepped down from the dais until he stood face-to-face with the High Priest. Solen was old—ancient, even, by Wengari standards—and he had served three generations of Bright Paw kings. But he had never stood this close to the White Dawn before. He had never felt the heat of the green fire radiating from the young king's claws.
+He rose from the throne, his white cloak swirling around him, and stepped down from the dais until he stood face-to-face with the High Priest. Solen was old—ancient, even, by Wengari standards—and he had served the Bright Paw crown his whole life. But he had never stood this close to the White Dawn before. He had never felt the heat of the green fire radiating from the young king's claws.
 
 
 <div class="dialogue-block">
@@ -1318,7 +1318,7 @@ Zara was the first to move. She walked to the edge of the basin and turned to fa
 
 
 <div class="dialogue-block">
-Kareth rose slowly from his seat in the Shadow Paw section. His obsidian staff clicked against the stone as he made his way down to the arena floor. His one good eye swept across the champions—Thane, the two other assassins—and then turned to the throne. <span class="speech">"The Shadow Paws accept. I will arbit for our family. I have served three generations of Bright Paw kings. I have fought in wars and duels and tournaments beyond counting. I am old, but I am not weak. No harm will pass beyond the basin's edge while I stand watch."</span> He planted his staff on the sand. <span class="speech">"I am Kareth, elder of the Shadow Paws. I will arbit."</span>
+Kareth rose slowly from his seat in the Shadow Paw section. His obsidian staff clicked against the stone as he made his way down to the arena floor. His one good eye swept across the champions—Thane, the two other assassins—and then turned to the throne. <span class="speech">"The Shadow Paws accept. I will arbit for our family. I have served one king of the Bright Paws, all my life. I have fought in wars and duels and tournaments beyond counting. I am old, but I am not weak. No harm will pass beyond the basin's edge while I stand watch."</span> He planted his staff on the sand. <span class="speech">"I am Kareth, elder of the Shadow Paws. I will arbit."</span>
 </div>
 
 

@@ -26,8 +26,8 @@ If the story evolves, the ledger regrows; this file changes only when a decision
 
 | name | aliases | status | note |
 |---|---|---|---|
-| Kareth | the old general | - | Bright Paw general; obsidian staff |
-| Uthgard IX | - | - | Dying king, ch01 opener |
+| Kareth | the old general | - | Shadow Paw elder/general; obsidian staff; one good eye; served ONE king (Uthgard IX) his whole life — per 2026-09-01 one-king ruling |
+| Uthgard IX | - | - | 47th king of the Bright Paws; died ch01; lived/reigned ~400 years (anomaly — pact-drained); per 2026-09-01 ruling, no living Wengari served any king before him |
 | Uthgar Lightbringer | the Lightbringer; the Third Tyrant | - | Historical; made the Kyre pact |
 | Nyasha | - | - | Ancient Motted Paw elder |
 | Solen | - | - | Bright Paw; ward excised (see granddaughter-Kira) |

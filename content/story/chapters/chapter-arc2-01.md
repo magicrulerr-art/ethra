@@ -73,7 +73,7 @@ His fur was not bristling.
 </div>
 
 
-The silence that followed was heavy, expectant, charged with the unspoken questions that had been brewing for seven days. It was a Shadow Paw elder who rose first. Old Kareth, his dark pelt streaked with silver, his left eye a milky scar from a battle fought before Ajani's father was born. He leaned on a staff of polished obsidian and regarded the young king with an expression that was neither hostile nor welcoming, but simply... measuring.
+The silence that followed was heavy, expectant, charged with the unspoken questions that had been brewing for seven days. It was a Shadow Paw elder who rose first. Old Kareth, his dark pelt streaked with silver, his left eye a milky scar from a battle fought before Ajani was born. He leaned on a staff of polished obsidian and regarded the young king with an expression that was neither hostile nor welcoming, but simply... measuring.
 
 
 <div class="dialogue-block">
@@ -188,7 +188,7 @@ One by one, the other chiefs and heirs rose. The Shadow Paws, wary but unwilling
 
 
 <div class="dialogue-block">
-<span class="speech">"I served your father,"</span> he said at last. <span class="speech">"I served his father before him. I have buried two kings of the Bright Paws. I have watched the pact drain them year by year, century by century, and I have said nothing because it was not my place to speak."</span> He rose, slowly, painfully, his old joints cracking. <span class="speech">"If Uthgard's son says the truth lies beneath our feet, then I will see it. But know this, young king. If you lead us into darkness, and there is nothing there but more secrets and more lies, I will not follow you again."</span>
+<span class="speech">"I served your father,"</span> he said at last. <span class="speech">"One king, my whole life. I have watched the pact drain him year by year, century by century, and I have said nothing because it was not my place to speak."</span> He rose, slowly, painfully, his old joints cracking. <span class="speech">"If Uthgard's son says the truth lies beneath our feet, then I will see it. But know this, young king. If you lead us into darkness, and there is nothing there but more secrets and more lies, I will not follow you again."</span>
 </div>
 
 
@@ -236,7 +236,7 @@ The silence that followed was not the respectful silence of a council chamber. I
 
 
 <div class="dialogue-block">
-Kareth, the old general, the scarred Shadow Paw who had served three kings and buried two of them, was the first to speak. His voice was hoarse, barely a whisper. <span class="speech">"The lord of the desert. The true king."</span> He turned his one good eye toward the pulsing blossom, the roots that twisted through the stone like veins, the amber pool that rippled with ancient hunger. <span class="speech">"We thought the Tree was a myth. A story. The old tales said the Lightbringer made a pact, but we thought—"</span> He shook his head. <span class="speech">"We thought it was a metaphor. A legend. Not... this."</span>
+Kareth, the old general, the scarred Shadow Paw who had served one king his whole life and buried him, was the first to speak. His voice was hoarse, barely a whisper. <span class="speech">"The lord of the desert. The true king."</span> He turned his one good eye toward the pulsing blossom, the roots that twisted through the stone like veins, the amber pool that rippled with ancient hunger. <span class="speech">"We thought the Tree was a myth. A story. The old tales said the Lightbringer made a pact, but we thought—"</span> He shook his head. <span class="speech">"We thought it was a metaphor. A legend. Not... this."</span>
 </div>
 
 

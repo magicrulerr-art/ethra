@@ -322,7 +322,7 @@ Zara's smile faltered, then steadied. The other elders—Torek, Veena, Mako—ex
 
 
 <div class="dialogue-block">
-Old Torek rose slowly, his weathered paw pressing against the small of his back where the decades of caravan travel had left their mark. <span class="speech">"I served your father,"</span> he said quietly. <span class="speech">"And his father before him—Uthgard VIII, who was stern but fair. My own father served the king before that. He told me stories. The Stripe Paws remember, even when the records crumble. Four generations of my family have watched the Bright Paw dynasty. And now I watch you."</span> He bowed his head, his old eyes glistening. <span class="speech">"The Stripe Paws will follow you, Ajani Brightmane. Not because we must. Because you have earned it."</span>
+Old Torek rose slowly, his weathered paw pressing against the small of his back where the decades of caravan travel had left their mark. <span class="speech">"I served your father,"</span> he said quietly. <span class="speech">"My father's father spoke of his father before him—Uthgard VIII, who was stern but fair—and of the king before that. The Stripe Paws remember, even when the records crumble. Four generations of my family have kept the watch over the Bright Paw dynasty. And now I watch you."</span> He bowed his head, his old eyes glistening. <span class="speech">"The Stripe Paws will follow you, Ajani Brightmane. Not because we must. Because you have earned it."</span>
 </div>
 
 

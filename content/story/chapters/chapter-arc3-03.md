@@ -37,7 +37,7 @@ Solen's golden eyes, clouded with age and fury, met Ajani's green-flecked gaze. 
 </div>
 
 
-He rose from the throne, his white cloak swirling around him, and stepped down from the dais until he stood face-to-face with the High Priest. Solen was old—ancient, even, by Wengari standards—and he had served three generations of Bright Paw kings. But he had never stood this close to the White Dawn before. He had never felt the heat of the green fire radiating from the young king's claws.
+He rose from the throne, his white cloak swirling around him, and stepped down from the dais until he stood face-to-face with the High Priest. Solen was old—ancient, even, by Wengari standards—and he had served the Bright Paw crown his whole life. But he had never stood this close to the White Dawn before. He had never felt the heat of the green fire radiating from the young king's claws.
 
 
 <div class="dialogue-block">
@@ -298,7 +298,7 @@ Zara was the first to move. She walked to the edge of the basin and turned to fa
 
 
 <div class="dialogue-block">
-Kareth rose slowly from his seat in the Shadow Paw section. His obsidian staff clicked against the stone as he made his way down to the arena floor. His one good eye swept across the champions—Thane, the two other assassins—and then turned to the throne. <span class="speech">"The Shadow Paws accept. I will arbit for our family. I have served three generations of Bright Paw kings. I have fought in wars and duels and tournaments beyond counting. I am old, but I am not weak. No harm will pass beyond the basin's edge while I stand watch."</span> He planted his staff on the sand. <span class="speech">"I am Kareth, elder of the Shadow Paws. I will arbit."</span>
+Kareth rose slowly from his seat in the Shadow Paw section. His obsidian staff clicked against the stone as he made his way down to the arena floor. His one good eye swept across the champions—Thane, the two other assassins—and then turned to the throne. <span class="speech">"The Shadow Paws accept. I will arbit for our family. I have served one king of the Bright Paws, all my life. I have fought in wars and duels and tournaments beyond counting. I am old, but I am not weak. No harm will pass beyond the basin's edge while I stand watch."</span> He planted his staff on the sand. <span class="speech">"I am Kareth, elder of the Shadow Paws. I will arbit."</span>
 </div>
 
 

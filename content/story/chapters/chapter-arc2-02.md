@@ -6,7 +6,7 @@
 
 
 <div class="dialogue-block">
-Kareth, the old general, the scarred Shadow Paw who had served three kings and buried two of them, let out a sound that might have been a laugh or might have been a snarl. It echoed through the chamber, strange and sharp in the green-lit darkness. <span class="speech">"The boy king speaks truth,"</span> he said, turning to the other elders. <span class="speech">"What race can best a Wengari in single combat? None. What race hasn't felt our claws? None. We are feared. We are respected. We are the strongest."</span> He tapped his obsidian staff against the stone. <span class="speech">"And now we know why. The lord of the desert has been sharpening us. For three thousand years, it has been sharpening us. Killing the weak. Forging the strong. Turning us into weapons."</span>
+Kareth, the old general, the scarred Shadow Paw who had served one king his whole life and buried him, let out a sound that might have been a laugh or might have been a snarl. It echoed through the chamber, strange and sharp in the green-lit darkness. <span class="speech">"The boy king speaks truth,"</span> he said, turning to the other elders. <span class="speech">"What race can best a Wengari in single combat? None. What race hasn't felt our claws? None. We are feared. We are respected. We are the strongest."</span> He tapped his obsidian staff against the stone. <span class="speech">"And now we know why. The lord of the desert has been sharpening us. For three thousand years, it has been sharpening us. Killing the weak. Forging the strong. Turning us into weapons."</span>
 </div>
 
 
@@ -105,7 +105,7 @@ The old general moved with a speed that belied his centuries. His obsidian staff
 
 
 <div class="dialogue-block">
-<span class="speech">"You have spoken for the Motted Paws for three decades without saying a word,"</span> Kareth said, his rough voice echoing in the green-lit chamber. <span class="speech">"You have watched. You have waited. You have kept your counsel while the rest of us bickered and postured and forgot what we were."</span> He drew himself up to his full height, his dark mane bristling. <span class="speech">"The Shadow Paws have carried the shame of the First Tyrant for five thousand years. We have been the warning, the cautionary tale, the darkness whispered to cubs who misbehave. And I—I have buried two kings. I have watched the Bright Paws wither under the weight of a pact they did not understand. I have done nothing. Said nothing. Been nothing but a soldier following orders while our people faded."</span>
+<span class="speech">"You have spoken for the Motted Paws for three decades without saying a word,"</span> Kareth said, his rough voice echoing in the green-lit chamber. <span class="speech">"You have watched. You have waited. You have kept your counsel while the rest of us bickered and postured and forgot what we were."</span> He drew himself up to his full height, his dark mane bristling. <span class="speech">"The Shadow Paws have carried the shame of the First Tyrant for five thousand years. We have been the warning, the cautionary tale, the darkness whispered to cubs who misbehave. And I—I have buried my king. I have watched the Bright Paws wither under the weight of a pact they did not understand. I have done nothing. Said nothing. Been nothing but a soldier following orders while our people faded."</span>
 </div>
 
 
@@ -123,7 +123,7 @@ Kareth stepped forward. The amber pool rippled at his approach, and the green lu
 
 
 <div class="dialogue-block">
-<span class="speech">"I am Kareth,"</span> he said, his voice steady. <span class="speech">"Son of no one you would remember. General of the Shadow Paws. I have killed and I have been killed. I have served kings who lied to me and kings who did not know they were lying. I have no great wisdom to offer, no grand vision, no clever bargain. I have only this."</span> He pressed his scarred paw against his chest, over his heart. <span class="speech">"I am a soldier. I follow orders. But I have never broken faith. Not with my commanders. Not with my cubs. Not with my people. If you need a Wengari who will keep his word—who will guard the road and protect the pact and stand watch when others sleep—then I am yours. Not as a king. Not as a Tyrant. As a soldier. As a Wengari."</span>
+<span class="speech">"I am Kareth,"</span> he said, his voice steady. <span class="speech">"Son of no one you would remember. General of the Shadow Paws. I have killed and I have been killed. I have served one king my whole life, a king who lied to me and did not know he was lying. I have no great wisdom to offer, no grand vision, no clever bargain. I have only this."</span> He pressed his scarred paw against his chest, over his heart. <span class="speech">"I am a soldier. I follow orders. But I have never broken faith. Not with my commanders. Not with my cubs. Not with my people. If you need a Wengari who will keep his word—who will guard the road and protect the pact and stand watch when others sleep—then I am yours. Not as a king. Not as a Tyrant. As a soldier. As a Wengari."</span>
 </div>
 
 

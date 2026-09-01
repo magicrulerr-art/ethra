@@ -80,7 +80,7 @@ Kareth was there. The old general had not slept since the council in the inner c
 </div>
 
 
-The chamber fell silent. Kareth looked at the other elders, their faces unreadable in the flickering light. He had served three generations of Bright Paw kings. He had watched the old pact wither and the Tree's patience fray. He had knelt before Ajani Brightmane in the inner chamber and offered his service. And now his own kin were talking about stopping him. Killing him. A king not yet a month on the throne.
+The chamber fell silent. Kareth looked at the other elders, their faces unreadable in the flickering light. He had served one king his whole life. He had watched the old pact wither and the Tree's patience fray. He had knelt before Ajani Brightmane in the inner chamber and offered his service. And now his own kin were talking about stopping him. Killing him. A king not yet a month on the throne.
 
 
 <div class="dialogue-block">
@@ -260,7 +260,7 @@ The young maid stepped back, brush still in hand, her golden eyes bright. <span 
 
 
 <div class="dialogue-block">
-The maids scattered like leaves before a sandstorm as Ajani bolted from his chambers, still fumbling with the clasp of his father's white cloak. The young maid with the brush stood frozen, her eyes wide, while Mara—who had served three generations of Bright Paw royalty—simply shook her head and smiled. <span class="speech">"Forty-seven years I've dressed kings,"</span> she murmured to no one in particular. <span class="speech">"And that one is my favorite."</span>
+The maids scattered like leaves before a sandstorm as Ajani bolted from his chambers, still fumbling with the clasp of his father's white cloak. The young maid with the brush stood frozen, her eyes wide, while Mara—who had served the royal household for forty-seven years—simply shook her head and smiled. <span class="speech">"Forty-seven years I've dressed kings,"</span> she murmured to no one in particular. <span class="speech">"And that one is my favorite."</span>
 </div>
 
 

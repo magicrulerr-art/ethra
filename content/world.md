@@ -256,6 +256,12 @@ The supercontinent is dotted with ruins — empires that failed to maintain the 
 - Pyrinae: Greek-inspired
 - Other race languages: [To be extracted]
 
+### Lifespans & Reigns
+
+- **Wengari natural lifespan:** 100–150 years.
+- **Uthgard IX**, forty-seventh king of the Bright Paws (Ajani's father), lived and reigned **~400 years** — an extreme anomaly, drained century by century by the pact.
+- **Consequence:** no living Wengari ever personally served any king before Uthgard IX; living memory of earlier kings (Uthgard VIII and before) survives only as inherited story — e.g., the Stripe Paws' four-generation watch over the Bright Paw dynasty.
+
 ### Trade
 - **Pyrinae → All:** Rune-glass, Styx feathers
 - **Hummans → All:** Pearly Scorpion mounts and eggs
