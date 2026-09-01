@@ -1029,24 +1029,3 @@ The guard bowed and withdrew. The throne room settled into silence, broken only 
 <div class="dialogue-block">
 <span class="speech">"The Hummans,"</span> Ajani said. <span class="speech">"They are wealthy. They have more than one city. They walked upon our land and deployed weapons their own codes forbid. How do we demand the reparations?"</span>
 </div>
-
-
-<div class="dialogue-block">
-Elyra was silent for a moment, her silver aura flickering gently. Then she spoke. <span class="speech">"The Hummans are merchants. They understand debt. They understand leverage. They understand that a contract signed under duress is still a contract. If you want reparations, you must first understand what you hold that they need."</span> She paused, her melodic voice carrying through the silent hall. <span class="speech">"What do you hold that they need, Your Highness?"</span>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">'this grows tiresome' - "If someone doesn't tell me a way, I will order a full military deployment and erase their cities from the face of Ethra"</p>
-</div>
-
-
-The words fell like a blade. The throne room went absolutely still.
-
-
-M'rak's burn-scarred face tightened. Reva's golden eyes widened. Zephyr's scarred expression flickered with something that might have been alarm. Yvaria's silver-furred hands, still stained with the blood of her ghosts, clenched at her sides. Sylva's ancient eyes closed. Vasha's stylus stopped moving.
-
-
-<div class="dialogue-block">
-<p class="speech-line">Elyra was the first to speak. Her melodic voice was very quiet. "Your Highness. If you order a full military deployment against the Human cities, you will succeed. The Wengari have the Wohs. The ghosts. The shadow riders. The Humman military is shattered. Their king is dead. Their remaining forces are scattered. You could burn Verdantis to the ground. You could erase every Human city from the face of Ethra. It would take perhaps three months. Perhaps four. The cost in Wengari lives would be significant but not prohibitive. You would win."</p>
-</div>

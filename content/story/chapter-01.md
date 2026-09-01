@@ -1,8 +1,10 @@
 # Chapter 1: The White Dawn
 
 
+*Seven years... has it been that long? I remember it like it was yesterday. I wonder how is father doing... I heard last year wasn't a good year. I wanted to see the ocean... perhaps I'll be able to after I speak with father. L'vat is here, as promised. I wonder why does he want me to perform the ritual today? I must make haste to father. Ah, there are the guards.*
+
 <div class="dialogue-block">
-<p class="speech-line">'seven years, has it been that long?, I remember it like it was yesterday, I wonder how is father doing, I heard last year wasn't a good year, I wanted to see the ocean... perhaps I'll be able to after I speak with father L'vat is here, as promised, I wonder why does he want me to perform the ritual today? I must make haste to father, ah there are the guards', "Hail the Lightbringer, Hail the light that shines upon us all"</p>
+<p class="speech-line">"Hail the Lightbringer! Hail the light that shines upon us all!"</p>
 </div>
 
 
@@ -34,8 +36,10 @@ The Four Pillars gleam at the arena's center, waiting. The crowd is watching. Th
 Your move, Ajani.
 
 
+*The sun rises and the shadows grow long... that's why L'vat wanted me here. Could he not have said just that? I've lived with them for a year and he still can't speak plainly... father is waning, he can't maintain the ritual any longer... I must become Uthgard.*
+
 <div class="dialogue-block">
-<p class="speech-line">'The sun rises and the shadows grow long.... that's why l'vat wanted me here, could he not have said just that? I've lived with them for a year and he still can't speak plainly..., father is waning, he can't maintain the ritual any longer....I must become Uthgard' - "Take me to him, at once!"</p>
+<p class="speech-line">"Take me to him, at once!"</p>
 </div>
 
 
@@ -71,9 +75,13 @@ The attendant stopped and stepped aside, pressing his back to the cold stone wal
 The door waited, its runes dark. Beyond it, somewhere in the silence, a king was failing. And a son had come to take his name.
 
 
+*I've never been here, but somehow I know what to do.*
+
 <div class="dialogue-block">
-<p class="speech-line">'I've never been here, but somehow I know what to do', "The Spear is the king... the sword is the gentle man... the saber is the tiger...the staff is the grandfather", 'Ah they're opening'</p>
+<p class="speech-line">"The Spear is the king... The sword is the gentle man... The saber is the tiger... The staff is the grandfather."</p>
 </div>
+
+*Ah, they're opening.*
 
 
 The runes ignited.
@@ -111,8 +119,10 @@ Behind Ajani, the door began to close. The attendant's terrified face vanished. 
 Outside, in the arena, the Lament turned its head toward the palace. Its multifaceted eyes caught the dying light of the Steadfast. And it began, very softly, to hum.
 
 
+*The doors just closed behind me... spooky. I should kneel, seems appropriate.*
+
 <div class="dialogue-block">
-<p class="speech-line">'the doors just closed behind me... spooky, I should kneel, seems appropriate', "Father, Keeper of the light, Warrior amongst Warriors, the one who gives up his name to serve the Wengari, this humble son has returned, tell me, how can the son serve the Wengari?"</p>
+<p class="speech-line">"Father, Keeper of the Light, Warrior amongst Warriors, the one who gives up his name to serve the Wengari, this humble son has returned. Tell me, how can the son serve the Wengari?"</p>
 </div>
 
 
@@ -223,7 +233,7 @@ He closed his eyes.
 The chamber fell silent. The lamps held their breath. And far above, the Lament hummed on.
 
 
-'L'vat was right!!! We are a fraud! All my life I have believed our city was a marvel yet is nothing but a well-kept cage!!!'
+*L'vat was right! We are a fraud! All my life I have believed our city was a marvel, yet is nothing but a well-kept cage!*
 
 "Father... is this true? Are we nothing more than kept pets to a... thing that dwells below?"
 
@@ -440,9 +450,7 @@ Beyond the threshold, a narrow passage descended into the bedrock. The air that 
 </div>
 
 
-<div class="dialogue-block">
-<p class="speech-line">'It's just as L'vat described, the spiral stair, the faint lights... the air gets thinner... if I hadn't lived with them for a year I think I would have fainted by now, here is the message, just where said it would be. "To my heir, if you are reading this, then you know, our blood is cursed, everyone who came before you and surely everyone who will come after has succumbed to the curse, there is only one way out, in." For the whiskers of Uthgard!! Did the first need to be so cryptic as well???!!!!, there's something... some noise... a voice?'</p>
-</div>
+*It's just as L'vat described: the spiral stair, the faint lights... the air gets thinner... if I hadn't lived with them for a year I think I would have fainted by now. Here is the message, just where said it would be. "To my heir, if you are reading this, then you know, our blood is cursed, everyone who came before you and surely everyone who will come after has succumbed to the curse, there is only one way out, in." For the whiskers of Uthgard! Did the first need to be so cryptic as well? There's something... some noise... a voice?*
 
 
 The air thickened as Ajani descended, the faint green luminescence pulsing in rhythm with something deep beneath the rock. The voice—if it was a voice—seemed to come from everywhere and nowhere at once. Not words, not yet. More like the echo of words, the memory of a sound that had been spoken long ago and was only now reaching the surface.
@@ -463,8 +471,10 @@ And then the image shifted. He saw the pact fraying. The roots withering. The ga
 The blossom at the chamber's center began to open.
 
 
+*Ok... here it goes. Press the palm to the flower and speak, just like in the marshes.*
+
 <div class="dialogue-block">
-<p class="speech-line">'ok... here it goes, press the palm to the flower and speak, just like in the marshes' - "I am Ajani Brightmane first of my name, Heir to the light that burns the shadow, Son of Layla, bearer of the pact... Chosen by the Deep"</p>
+<p class="speech-line">"I am Ajani Brightmane, first of my name, Heir to the light that burns the shadow, Son of Layla, bearer of the pact... Chosen by the Deep."</p>
 </div>
 
 

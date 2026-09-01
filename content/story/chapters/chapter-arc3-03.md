@@ -73,7 +73,11 @@ The arena beyond the throne was silent. The gathered families, who had been watc
 And the Veylar Shell-Singer, seated alone in the eastern colonnade, opened both luminous eyes and smiled. The White Dawn had reminded his own blood who ruled the desert. The tournament would begin in minutes. And every Wengari in that arena now understood, with absolute certainty, that their king was not merely strong. He was the sun. Warm. Unflinching. Unforgiving.
 
 
-'the sun is up in the sky, it's time ' -"BROTHERS ESTEEMED GUESTS, PLEASE PRESENT YOUR CHAMPIONS!!!"
+*The sun is up in the sky, it's time.*
+
+<div class="dialogue-block">
+<p class="speech-line">"BROTHERS, ESTEEMED GUESTS, PLEASE PRESENT YOUR CHAMPIONS!"</p>
+</div>
 
 
 The arena fell silent. The noon sun of the Steadfast blazed overhead, casting sharp shadows across the sand, and every eye—Wengari, Pyrinae, Humman, Veylar, Threx—turned toward the central arena floor.
@@ -177,8 +181,10 @@ Nefere stood at the edge of the completed basin, her clouded eyes surveying the 
 </div>
 
 
+*Bow the head.*
+
 <div class="dialogue-block">
-<p class="speech-line">'bow the head'- "SPECTACULAR, THIS SKILL WILL BE INVALUABLE ON THE ROAD, THANK YOU FRIENDS, NOW FOR THE RULES, 1) NO MORTAL WOUNDS IT'S A TOURNAMENT NOT AN ASSASSINATION, ALL TYPES OF WEAPONS AND POISONS ARE PERMITTED AS LONG AS THEY'RE NOT LETHAL IF ANYONE BREAKS THE RULE, THEIR ENTIRE FAMILY LINE WILL PAY, ANY OBJECTIONS?"</p>
+<p class="speech-line">"SPECTACULAR, THIS SKILL WILL BE INVALUABLE ON THE ROAD. THANK YOU, FRIENDS. NOW FOR THE RULES: 1) NO MORTAL WOUNDS, IT’S A TOURNAMENT NOT AN ASSASSINATION. ALL TYPES OF WEAPONS AND POISONS ARE PERMITTED AS LONG AS THEY’RE NOT LETHAL. IF ANYONE BREAKS THE RULE, THEIR ENTIRE FAMILY LINE WILL PAY. ANY OBJECTIONS?"</p>
 </div>
 
 
@@ -200,7 +206,7 @@ The green fire flickered along Ajani's claws as he considered. Somewhere in the 
 
 
 <div class="dialogue-block">
-<p class="speech-line">"DOES THE STYX ASKS PERMISSION TO DEVOURE THE FIRE FEET? I SAID ALL"</p>
+<p class="speech-line">"DOES THE STYX ASK PERMISSION TO DEVOUR THE FIRE FEET? I SAID ALL"</p>
 </div>
 
 
@@ -462,8 +468,10 @@ Six champions remained: three Motted Paws, two Shadow Paws, one Stripe Paw. The 
 The tournament was not over. It was just beginning.
 
 
+*Well now...*
+
 <div class="dialogue-block">
-<p class="speech-line">'well now...', "MAGNIFICENT, I CAN SEE WHY THE WORLD FEARS THE WENGARI...AND WHY THE REST OF THE FAMILIES FEAR ONLY THE KING.... BRING ME MY BLOOD....I APOLOGIZE TO ALL FOR THE SHAMEFUL DISPLAY THEY PROVIDED"</p>
+<p class="speech-line">"MAGNIFICENT. I CAN SEE WHY THE WORLD FEARS THE WENGARI... AND WHY THE REST OF THE FAMILIES FEAR ONLY THE KING.... BRING ME MY BLOOD.... I APOLOGIZE TO ALL FOR THE SHAMEFUL DISPLAY THEY PROVIDED."</p>
 </div>
 
 

@@ -47,9 +47,7 @@ The words came out wrong. He could hear them as soon as he spoke—too fast, too
 
 The silence that followed was different from the silence that had greeted the Motted Paw grimoire or the Pyrinae spear. That silence had been wonder. This silence was confusion. The Stripe Paws, who had watched Ajani negotiate with the lord of the desert and face down a Motted Paw champion in single combat, exchanged glances. The Shadow Paws, who had guarded him for months and seen him kill a Humman with a flick of his wrist, stared at their king with open bewilderment.
 
-<div class="thought-block">
-'Please, please not one of those foul creatures please.'
-</div>
+*Please, please, not one of those foul creatures, please.*
 
 Seris did not know what to say. She had prepared for refusal. She had prepared for anger. She had not prepared for the White Dawn, the heir of the Lightbringer, the king who had humiliated her three times and killed her merchant without a second thought, to stand before her stammering like a cub caught stealing from the kitchens. The egg pulsed in her arms. The creature inside was stirring, its iridescent shell shimmering with the first faint light of awakening.
 
@@ -143,9 +141,7 @@ Every instinct screamed at him to run, to shake them off, to summon the green fi
 
 It was not a threatening vibration. It was not the warning rattle of a scorpion preparing to strike. It was something softer, something almost musical—a low, rhythmic thrumming that resonated through his fur and into his bones. If scorpions could purr, they would purr like this.
 
-<div class="thought-block">
-'Oh. This isn't so bad. You're not like the large gross ones. You're actually... kind of cute.'
-</div>
+*Oh. This isn't so bad. You're not like the large gross ones. You're actually... kind of cute.*
 
 Slowly, very slowly, Ajani began to move. He raised one paw and brought it gently toward the black scorpion investigating his mane. The creature's antennae lifted, tracking the movement, and then it pressed its small, dark head against his fingers with the unmistakable demand of a creature that had imprinted on him and was now absolutely certain he was its mother.
 

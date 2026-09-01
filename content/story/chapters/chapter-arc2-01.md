@@ -2,8 +2,10 @@
 
 
 
+*What day is it? Who's he?... Ah, the priest! T'van.*
+
 <div class="dialogue-block">
-<p class="speech-line">'what day is it?, who's he?... a the priest!, T'van', "Raise your head T'van, Ajani please, when you say my king I look behind my back for my father, I'll answer what I can and what I know, announce me please, then go to sleep, that is an order"</p>
+<p class="speech-line">"Raise your head, T'van. Ajani, please — when you say 'my king' I look behind my back for my father. I'll answer what I can and what I know. Announce me, please, then go to sleep. That is an order."</p>
 </div>
 
 
@@ -50,8 +52,10 @@ The chamber erupted. The Shadow Paws growled. The Stripe Paws thumped their tail
 </div>
 
 
+*Ok... I see everyone is here. Let's get this done so I can sleep too. I should sit on the throne — that seems appropriate. Father always said, if they see your fur bristle, you're as good as dead.*
+
 <div class="dialogue-block">
-<p class="speech-line">'ok... I see everyone is here.. let's get this done so I can sleep too, I should sit on the throne, that seems appropriate, father always said if they see your fur bristle you're as good as dead', "Brothers, Esteemed elders, you have summoned me, the king, tell me in which way can I serve the Wengari?"</p>
+<p class="speech-line">"Brothers, esteemed elders, you have summoned me, the king. Tell me, in which way can I serve the Wengari?"</p>
 </div>
 
 
@@ -93,8 +97,10 @@ The chamber fell utterly silent. The Stripe Paws stopped thumping their tails. T
 </div>
 
 
+*Kareth. An old general, I believe... The Shadow Paws, blunt as always. At least he is to the point.*
+
 <div class="dialogue-block">
-<p class="speech-line">'kareth, an old general I believe... the Shadow Paws blunt as always, at least he is to the point', "Brother, I must be honest until a week ago I wasn't sure myself of what I was, you know I've been absent for the last years, I travelled, and found myself on the marshes, In there I found a dying lament, he was burning up with aura and I saved him, He allowed me to talk with a someone, or perhaps, something is the right word, Brother, what I'm about to tell you, cannot leave this room, so please have every non-Wengari leave, and only the elders, the chiefs and their heir remains, I'll wait"</p>
+<p class="speech-line">"Brother, I must be honest — until a week ago I wasn't sure myself of what I was. You know I've been absent for the last years. I travelled, and found myself on the marshes. In there I found a dying Lament — he was burning up with aura, and I saved him. He allowed me to talk with a someone — or perhaps 'something' is the right word. Brother, what I'm about to tell you cannot leave this room, so please have every non-Wengari leave, and only the elders, the chiefs and their heirs remain. I'll wait."</p>
 </div>
 
 
@@ -116,8 +122,10 @@ The Motted Paw representatives, sleek and silent, their spotted coats making the
 He tapped his obsidian staff once against the floor, and the other elders murmured their assent. The Stripe Paws thumped their tails. The Bright Paws bowed their heads. The Motted Paws, silent as ever, simply inclined their elegant skulls. The Shadow Paws—the family of the First Tyrant, the family that had carried the shame of the Black Fire for five thousand years—watched with their scarred, unblinking eyes, waiting to hear what the new king would say.
 
 
+*Ok. Here it goes...*
+
 <div class="dialogue-block">
-<p class="speech-line">'ok here it goes...', "Brothers, my father's last words spoken to me were that I was indeed the White Dawn...he confirmed to me himself I am...the heir of the First not only in name but spirit"</p>
+<p class="speech-line">"Brothers, my father's last words spoken to me were that I was indeed the White Dawn... He confirmed to me himself I am... the heir of the First, not only in name but in spirit."</p>
 </div>
 
 
@@ -180,7 +188,7 @@ One by one, the other chiefs and heirs rose. The Shadow Paws, wary but unwilling
 
 
 <div class="dialogue-block">
-<span class="speech">"I served your father,"</span> he said at last. <span class="speech">"I served his father before him. I have buried three kings of the Bright Paws. I have watched the pact drain them year by year, century by century, and I have said nothing because it was not my place to speak."</span> He rose, slowly, painfully, his old joints cracking. <span class="speech">"If Uthgard's son says the truth lies beneath our feet, then I will see it. But know this, young king. If you lead us into darkness, and there is nothing there but more secrets and more lies, I will not follow you again."</span>
+<span class="speech">"I served your father,"</span> he said at last. <span class="speech">"I served his father before him. I have buried two kings of the Bright Paws. I have watched the pact drain them year by year, century by century, and I have said nothing because it was not my place to speak."</span> He rose, slowly, painfully, his old joints cracking. <span class="speech">"If Uthgard's son says the truth lies beneath our feet, then I will see it. But know this, young king. If you lead us into darkness, and there is nothing there but more secrets and more lies, I will not follow you again."</span>
 </div>
 
 
@@ -189,7 +197,7 @@ One by one, the other chiefs and heirs rose. The Shadow Paws, wary but unwilling
 </div>
 
 
-'I hope the tree doesn't kill anyone' — 'careful elders, the steps are steep, the air gets thin, if anyone doesn't feel strong to go on, grab my hand' — 'just a bit of aura should do' — 'once we are in the innermost chamber, please do not touch anything no matter what you see or hear'
+*I hope the tree doesn't kill anyone. Careful, elders — the steps are steep, the air gets thin. If anyone doesn't feel strong to go on, grab my hand. Just a bit of aura should do. Once we are in the innermost chamber, please do not touch anything, no matter what you see or hear.*
 
 
 The descent was slow. The spiral stair had been carved by the Lightbringer's own sorcery three thousand years ago, and the steps were worn smooth by centuries of royal footfalls—but only ever one set at a time. No king had brought an entourage into the inner chamber. No king had dared.
@@ -217,8 +225,10 @@ Then Kareth, his voice rough with awe and exhaustion, whispered: <span class="sp
 The amber pool rippled. The blossom stirred. The Tree was listening.
 
 
+*Ok... please don't kill anyone.*
+
 <div class="dialogue-block">
-<p class="speech-line">'ok...please don't kill anyone', "this is the crime of the Lightbringer, this is the truth, what you see here is the lord of the desert, we all live and die under his shadow the true king, with whom Uther brokered peace....with whom every king has paid in blood for our glory, have you ever wondered why only the strongest among us can live in the Capital?"</p>
+<p class="speech-line">"This is the crime of the Lightbringer. This is the truth. What you see here is the lord of the desert. We all live and die under his shadow — the true king, with whom Uthgar brokered peace... with whom every king has paid in blood for our glory. Have you ever wondered why only the strongest among us can live in the Capital?"</p>
 </div>
 
 
@@ -248,3 +258,6 @@ Before Ajani could answer, another voice spoke. It was Nyasha, the ancient Motte
 <div class="dialogue-block">
 She turned to Ajani. <span class="speech">"You said you were the heir of the First. But you are the heir of the Third as well. You carry his blood. You carry his pact. You carry his crime."</span> Her ancient eyes held no anger, only a terrible, patient sadness. <span class="speech">"What do you intend to do about it, young king? Will you continue the tithe? Will you feed the Tree as your father fed it, as every king before him has fed it? Or will you—"</span> She paused. <span class="speech">"You said you offered something new. A road. A partnership. The Deep. Tell us. Tell us everything. We have lived in the shadow of this lie for three thousand years. We deserve the truth. All of it."</span>
 </div>
+
+
+*Well, it's not as bad as I thought. No one is dead yet.*

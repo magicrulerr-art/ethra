@@ -1,5 +1,43 @@
 ## Chapter 4: The Road Begins
 
+<div class="dialogue-block">
+<p class="speech-line">"Hard as ice. Quick as wind. You are being hard, but you are not being quick. You commit to each strike before you see my response. You must watch. You must wait. The ice does not attack the mountain. The ice waits for the thaw. Then it moves."</p>
+</div>
+
+
+Kira's legs buckled. She fell to her knees in the sand, her chest heaving, the practice saber still clutched in her paws. Pearl scuttled over and pressed her pale carapace against Kira's side, her antennae waving with concern.
+
+
+<div class="dialogue-block">
+<p class="speech-line">"Did you ever fight Ajani?" <span class="speech-attr">Kira asked, her voice hoarse.</span></p>
+</div>
+
+
+<div class="dialogue-block">
+Cefiro lowered the ice blades. The mist curled around his paws, and for a moment, something flickered in his pale blue eyes—a memory, distant and cold. <span class="speech">"Yes. Three years ago. When he came to the Ice City. He was half-frozen and half-starved, but he wanted to spar. He always wanted to spar."</span> He paused. <span class="speech">"It was more like a slaughter. I was faster. I was better trained. I had been fighting since I could walk. He was... stubborn. He kept getting up. Every time I put him down, he got up. In the end, he managed one hit. One. A glancing blow to my shoulder. He was very proud of it."</span>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">He looked at Kira, still on her knees in the sand. "That was three years ago. I am not sure I could touch him now. The king I saw at the wall—the one who summoned six elemental spirits and killed a Plague creature with a thunderstorm—that is not the starving wanderer who stumbled into our city. He has become something else. Something more. I do not know if I could fight him now. I do not know if anyone could."</p>
+</div>
+
+
+<div class="dialogue-block">
+Kira pushed herself to her feet. Her legs were shaking, but her dark eyes were fierce. <span class="speech">"He's still the same person. He still laughs at his scorpions when they hide behind doors. He still visits the Tree even when he doesn't need to. He still wears the belt I made him, even though it's crooked."</span> She raised the practice saber. <span class="speech">"Teach me the ice blade. The short one. I want to learn."</span>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Cefiro looked at her for a long moment. Then he extended his paw, and a second short blade of ice formed in the air beside him, its handle hovering at Kira's eye level. "Hard as ice. Quick as wind. Ready for everything. Begin."</p>
+</div>
+
+
+The Sunraptor banked over the frozen peaks, and Kira saw the Great Ice City for the first time.
+
+
+It was not like Styxian. Styxian rose from the desert like a golden fist, its walls ancient and weathered, its hanging gardens a defiant burst of green against the endless sand. The Ice City rose from the tundra like a frozen wave, its spires carved from gleaming white stone that caught the pale northern sun and threw it back in a thousand fractured sparks. The walls were not walls but glaciers, shaped and smoothed by millennia of Snow Paw craft.
+
 The gates were not bronze but ice, enchanted to never melt, their surface etched with the history of the family that had fled the Black Fire five thousand years ago and survived.
 
 
@@ -1127,9 +1165,7 @@ Pearl clicked her pincers twice. Remembered.
 
 
 
-<div class="dialogue-block">
-<p class="speech-line">We're back at Styxian three days after the thrax delegation left, it's dawn ajani is at the wall like every day since the veylar announced the queen would arrive, suddenly the ground begins shaking, over at the east a black wave is crowning their zephyr's tide wolves escorting the veylar to the west a several dozens fire feet are pulling a massive caravan with 60 quick and l'vat at the forefront and to the north the snow wurms are arriving , the commotion brings everyone to the wall on the third week after the plague war Styxian welcomed what would be called "the meeting of the world"</p>
-</div>
+
 
 
 The dawn broke over Styxian like a promise. The eastern sky was still streaked with rose and amber when Ajani took his place on the northern wall, as he had every morning since the Veylar ambassador had announced the queen's approach. Blackie and Reddy flanked him, their white-lacquered pincers gleaming in the early light. The diadem's gem pulsed with a slow, steady rhythm.
@@ -1186,9 +1222,7 @@ They are not plotting revenge; they are calculating survival. The legion prepari
 
 
 
-<div class="dialogue-block">
-<p class="speech-line">All the délégations stop at the gate before anyone can attempt to receive them Nikolai roars and jumps from his when conjuring his halberd dead set on killing ajani, ajani summons his light spear and it clashes with Nikolai's , the ground beneath ajanis paws fractures without loosing momentum  Nikolai pulls his halberd towards him ajani dismisses his spear so Nikolai pulls air he is surprised for a mili second then he thrusts his halberd again ajani tries to dodge but Nikolai switches to a wide sweep, everyone is watching trying to asses when to intervene the silverpelts are watching ajani intently, l'vat huffs with what seems annoying and the veylar queen stares in silence , ajani jumps to avoid the wide swing Nikolai smiles and thrusts up changing directions quickly ajani summons his staff and uses it to parry the halberd and jump up, the force of the parry forces the halberd to the ground , by the time Nikolai manages to lift it ajani is coming down with the ji in his hands he lands on the shaft of the halberd and points his ji to Nikolai as he says "This Ajani brightmane, first of his name, protector of the realm, heir to the black fire and the lightbringer, brother to the deep, caller of spirits, king of the wengari salutes Nikolai silver pelt, champion of the frozen wastes, defender of the great ice city, long lost brother of the wengari, tsar of the snow paws, welcome home uncle" and bows</p>
-</div>
+
 
 
 Nikolai had been waiting for this moment since Cefiro first told him of the White Dawn. The massive Tsar launched himself from the snow wurm before it had fully stopped moving, his great halberd materializing in his paws with a flash of frozen light, the runic patterns along its blade blazing with ancient power. He crossed the distance to Ajani in three thunderous strides, his roar echoing across the silent gate.
@@ -1196,18 +1230,3 @@ Nikolai had been waiting for this moment since Cefiro first told him of the Whit
 The halberd came down with the force of a collapsing glacier, and Ajani's light spear materialized just in time to meet it. The clash of ice and light sent a shockwave rippling across the sand. The ground beneath Ajani's paws fractured, cracks spider-webbing outward from the impact, but he did not move. He held his ground, the diadem's gem blazing on his brow, his green-flecked eyes locked on Nikolai's pale blue ones.
 
 Nikolai pulled his halberd back for a second strike. Ajani dismissed his spear entirely—the light vanishing from his paw—and the Tsar's weapon swept through empty air. For a single, breathless heartbeat, Nikolai was off balance, his momentum carrying him forward, his pale blue eyes widening with surprise. He recovered instantly, thrusting the halberd forward, but Ajani was already dodging—not backward, but sideways, his body flowing around the strike like water around stone.
-
-Nikolai switched to a wide sweep, the halberd's blade cutting a glittering arc through the morning air. Ajani jumped, the halberd passing beneath him, and the Tsar's stern face split in a fierce grin. He had been testing the boy. The boy was good. He thrust upward, changing direction with the speed of a warrior who had been fighting for longer than most Wengari had been alive. But Ajani was already summoning his staff—the grandfather, the fourth pillar—and he used it to parry the halberd's upward thrust.
-
-The force of the parry drove the halberd down, its blade biting into the sand, and by the time Nikolai lifted it, Ajani was already descending. The ji materialized in his paws—the weapon of the Deep, the blade of green fire, the form he had not yet mastered but had learned to trust. He landed on the shaft of the halberd, his weight pinning it to the ground, and the tip of the ji came to rest gently against Nikolai's throat.
-
-
-
-The Tsar of the Snow Paws looked up at the White Dawn. For a long, breathless moment, no one moved. On the snow wurm, Anastasia watched with her quiet, frightening stillness, her pale blue eyes taking in every detail of the exchange. Vanya's hand had moved to her axe, but she had not drawn it. Nadya was frozen, her daggers forgotten in her fingers. Ivan's mouth was hanging open. Cefiro simply nodded, a single, deliberate inclination of his head, as if to say: *I told you.* In the shadow of the gate, L'vat let out a long, rattling breath that might have been annoyance or might have been pride.
-
-The Veylar queen watched in silence from her coral palanquin, her ancient eyes unreadable. The Wengari on the wall—M'rak, Reva, Zephyr, Yvaria, Sylva—stood ready, their claws half-extended, unsure whether to intervene or applaud.
-
-
-<div class="dialogue-block">
-Ajani spoke, his voice steady and clear, carrying across the silent gate. <span class="speech">"This Ajani Brightmane, first of his name, protector of the realm, heir to the Black Fire and the Lightbringer, brother to the Deep, caller of spirits, king of the Wengari, salutes Nikolai Silverpelt, champion of the frozen wastes, defender of the Great Ice City, long-lost brother of the Wengari, Tsar of the Snow Paws."</span> He lowered the ji from Nikolai's throat and bowed his head. <span class="speech">"Welcome home, Uncle."</span>
-</div>

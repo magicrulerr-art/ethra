@@ -18,7 +18,11 @@ T'van appeared at the arena's edge, his breath short, his shaved mane slick with
 </div>
 
 
-'a Veylar, I've never seen one' — "Please send her in, T'van"
+*A Veylar — I've never seen one.*
+
+<div class="dialogue-block">
+<p class="speech-line">"Please send her in, T'van."</p>
+</div>
 
 
 T'van bowed and vanished into the shadows of the eastern gate, his hurried footsteps echoing through the empty arena. For a long moment, there was only silence and the distant cry of the white Styx circling far above.
@@ -37,7 +41,7 @@ She stopped at the center of the arena, exactly where the other delegations had 
 
 
 <div class="dialogue-block">
-<span class="speech">"King Ajani."</span> Her voice was melodic, resonant, the sound of water over stone, of waves retreating from shore. <span class="speech">"I am Sylara, Shell-Singer of the Veylar, Tide-Warden of the eastern reefs, daughter of the moon and the deep water. I have come from the Tidepools to see the White Dawn with my own eyes before the road begins."</span> She raised the Petal-Shell, and its light pulsed once, twice, then steadied into a soft glow. <span class="speech">"I carry a song. The Deep sent it across the ocean. The Styx carried it on their wings. It reached the Tidepools three nights ago and woke something that has been sleeping since the Fourth Tyrant fell. The Abyssal Heart stirs. The Sea Marsh listens. And the Veylar would know what the White Dawn intends, before the world changes again."</span>
+<span class="speech">"King Ajani."</span> Her voice was melodic, resonant — a chord struck underwater, the sound of waves retreating from shore. <span class="speech">"I am Sylara, Shell-Singer of the Veylar, Tide-Warden of the eastern reefs, daughter of the moon and the deep water. I have come from the Tidepools to see the White Dawn with my own eyes before the road begins."</span> She raised the Petal-Shell, and its light pulsed once, twice, then steadied into a soft glow. <span class="speech">"I carry a song. The Deep sent it across the ocean. The Styx carried it on their wings. It reached the Tidepools three nights ago and woke something that has been sleeping since the Fourth Tyrant fell. The Abyssal Heart stirs. The Sea Marsh listens. And the Veylar would know what the White Dawn intends, before the world changes again."</span>
 </div>
 
 
@@ -50,7 +54,7 @@ Sylara inclined her head. Her fin-ridges rippled faintly, tasting the air, readi
 
 
 <div class="dialogue-block">
-<span class="speech">"The Veylar do not seek help, King Ajani. We have never sought help. We have endured the Tides since the world was young. We have sung the songs of the deep places while empires rose and fell upon the land. We have watched the Tyrants come and go—the Black Fire, the Lightbringer, the Fear-on-Wings, the Tidebreaker, the Plague. We have survived them all, not because we are strong, but because we are patient."</span> She paused, her luminous eyes meeting his. <span class="speech">"The Shell-Singers heard your coronation. The Styx's cry crossed the ocean. The Lament's song reached the deepest trenches. The Abyssal Heart stirred for the first time since the Tidebreaker fell. You have done something no White Dawn has done since the Lightbringer vanished. You have renewed the pact. You have awakened the ancient ones. And now—"</span> She lifted the Petal-Shell, and its light pulsed in rhythm with her voice. <span class="speech">"Now you intend to build a road."</span>
+<span class="speech">"The Veylar do not seek help, King Ajani. We have never sought help. We have endured the Tides since the world was young. We have sung the songs of the deep places while empires rose and fell upon the land. We have watched the Tyrants come and go—the Black Fire, the Fear-on-Wings, the Lightbringer, the Tidebreaker, the Plague. We have survived them all, not because we are strong, but because we are patient."</span> She paused, her luminous eyes meeting his. <span class="speech">"The Shell-Singers heard your coronation. The Styx's cry crossed the ocean. The Lament's song reached the deepest trenches. The Abyssal Heart stirred for the first time since the Tidebreaker fell. You have done something no White Dawn has done since the Lightbringer vanished. You have renewed the pact. You have awakened the ancient ones. And now—"</span> She lifted the Petal-Shell, and its light pulsed in rhythm with her voice. <span class="speech">"Now you intend to build a road."</span>
 </div>
 
 
@@ -90,9 +94,7 @@ She raised the Petal-Shell, and its light brightened until it cast shimmering re
 </div>
 
 
-<div class="dialogue-block">
-<p class="speech-line">'well, I am afraid to learn that you would need to stay, and even if your offer is gracious, we don't need help either. I am offering a hand in friendship, and you have just quite literally spat on it. The Blight will come for us all. They grew larger since the Fourth Tyrant, and they have never skipped a Tide... I know you know, if we don't unite, we will dwindle'</p>
-</div>
+*Well, I am afraid to learn that you would need to stay, and even if your offer is gracious, we don’t need help either. I am offering a hand in friendship, and you have just quite literally spat on it. The Blight will come for us all. They grew larger since the Fourth Tyrant, and they have never skipped a Tide... I know you know, if we don’t unite, we will dwindle.*
 
 
 Sylara's fin-ridges went very still. The iridescent shimmer of her skin, which had pulsed with the gentle colors of the tidepools throughout the audience, dimmed to a deep, shadowed blue.
@@ -113,8 +115,10 @@ She raised the Petal-Shell, and the sphere of water still hovering before the th
 </div>
 
 
+*Stubborn little...*
+
 <div class="dialogue-block">
-<p class="speech-line">'stubborn little...' — "Perhaps I am not making myself clear. That is my error. Let me be blunt: by the time the road reaches your shores, your help won't be needed. A friend doesn't offer help when it suits them; he does it when it's needed. You wish to be friend with the Wengari? Then do so like the Wengari do, with the full might behind them. Otherwise retreat to your shores. The road will never reach them, and if it does, it will be your doom"</p>
+<p class="speech-line">"Perhaps I am not making myself clear. That is my error. Let me be blunt: by the time the road reaches your shores, your help won’t be needed. A friend doesn’t offer help when it suits them; he does it when it’s needed. You wish to be friend with the Wengari? Then do so like the Wengari do, with the full might behind them. Otherwise retreat to your shores. The road will never reach them, and if it does, it will be your doom."</p>
 </div>
 
 
@@ -144,8 +148,10 @@ She lowered the shell, and its light dimmed. <span class="speech">"I cannot give
 </div>
 
 
+*At last!*
+
 <div class="dialogue-block">
-<p class="speech-line">'at last!' — "While your offer is, I admit, monumental by your standards... what can a single Veylar do? You are not predators, you can't help us on land. I offer terms: I wish for a contingent of your twenty best craftsmen to help the road. Twenty is not such a large number, I believe. But we are not builders, we are warriors. We can carry the load, but we need someone to shape it. Is this acceptable for the Veylar? Mind you, I do not ask for free labour. They will be paid in full in whatever their currency is"</p>
+<p class="speech-line">"While your offer is, I admit, monumental by your standards... what can a single Veylar do? You are not predators, you can’t help us on land. I offer terms: I wish for a contingent of your twenty best craftsmen to help the road. Twenty is not such a large number, I believe. But we are not builders, we are warriors. We can carry the load, but we need someone to shape it. Is this acceptable for the Veylar? Mind you, I do not ask for free labour. They will be paid in full in whatever their currency is."</p>
 </div>
 
 

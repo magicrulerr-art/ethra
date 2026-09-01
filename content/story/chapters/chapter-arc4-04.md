@@ -286,8 +286,10 @@ She raised her paw and drew a single claw across her palm. The cut was quick, ef
 <span class="speech">"Kira Brightmane,"</span> the cub said, testing the name on her tongue. It sounded strange. It sounded new. It sounded like something she had never dared to hope for. <span class="speech">"That's going to take some getting used to."</span> She looked up at Ajani, and the faintest, most uncertain of smiles flickered at the corner of her mouth. <span class="speech">"Does this mean I get to learn the saber now?"</span>
 </div>
 
+*Cheeky little...*
+
 <div class="dialogue-block">
-<p class="speech-line">'cheeky little...' - "No it means you learn to be a princess and stay endless hours cooped in the palace me hahaha!!!, SERA, take her, bathe her, feed her, get Sylva to hire the best teachers for her, you thought the market was hard, just wait..."</p>
+<p class="speech-line">"No, it means you learn to be a princess and stay endless hours cooped in the palace, me hahaha! Sera, take her, bathe her, feed her. Get Sylva to hire the best teachers for her. You thought the market was hard, just wait..."</p>
 </div>
 
 Sera inclined her head, the faintest ghost of something that might once have been a smile flickering across her ruined face. She had served the Shadow Paws for decades, had trained assassins and guarded kings, had fought in the tournament and nearly defeated her own master. She had never been asked to bathe and feed a street cub. She found that she did not mind.

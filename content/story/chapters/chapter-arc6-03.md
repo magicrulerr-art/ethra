@@ -1,6 +1,36 @@
 ## Chapter 3: The Vision
 
 <div class="dialogue-block">
+<p class="speech-line">A third claw. "Third, legal authority. The office must be able to intercept correspondence, monitor foreign delegations, and detain suspected spies without public trial. This will be controversial. The elders will oppose it. The foreign delegations will protest. The Hummans will claim we are persecuting them. All of that is irrelevant. An intelligence office without the power to act is merely a library. If we cannot detain, we cannot prevent. If we cannot intercept, we cannot know. The king must grant us the authority to operate in secret and the legal protection to survive when our operations become public."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">She lowered her claws. "One final recommendation. The Shadow Office should have a liaison in every family, every delegation, every guild. Not a spy—a known contact, someone who can receive requests for information and deliver reports. This will make our presence visible. That is intentional. Fear of being watched is often more effective than watching itself."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">She paused, her cold eyes meeting Ajani's. "The Council of the Untrustworthy was your invention. We saved the city because you gave us the authority to act. Now give us the authority to become something permanent. Something that will outlast us all."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">"I accept both the first and second. The third is overreach and very prone to misuse, Vasha. You will not use the office to collect old debts, nor we will have Wengari and Hummans disappearing in the night. I authorize instead a subset if there is a credible threat. You are authorized to detain someone, previous approval from the regent. If there is a critical threat, the crown doesn't want to know how it's handled. Am I understood?"</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Vasha's expression did not change, but her stylus made a single, precise mark on the ledger—a notation that only she would ever read. "Understood, Your Highness. The Shadow Office will operate within the bounds you have set. Detainment requires prior approval from the regent. Critical threats are handled at the discretion of the office, and the crown is not informed of the methods. The distinction is clear."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">She paused, her cold eyes meeting Ajani's. "The office will not collect old debts. It will not settle personal scores. It will not make Wengari or Hummans disappear in the night without cause. I give you my word. And if anyone under my command violates that word, I will handle them personally. The crown will not need to know how."</p>
+</div>
+
+
+<div class="dialogue-block">
 <p class="speech-line">Sylva stepped forward, her ancient voice measured. "The regent accepts the oversight responsibility. I will review all requests for detainment. If there is a credible threat, I will approve. If there is doubt, I will consult the king. The Shadow Office will not become a weapon of political persecution while I hold this office."</p>
 </div>
 
@@ -113,9 +143,7 @@ Outside the great hall, the morning sun was climbing higher over the shattered c
 
 
 
-<div class="dialogue-block">
-<p class="speech-line">A few hours later ajani is helping everyone on the wall, taking his example several old and young generals are also helping an ambience of camaraderie is felt where the Hummans were seen with disdain now it's almost gone they helping on the wall and the resistance they mounted on the war has gone a great way on smoothing things a very tenous peace has been forged through shared strife Ajani is offering to help a young Humman lift a boulder when a sandstorm approaches and dissipates a lament and 20 quick threx are at the gates it's the most threx anyone has ever seen they look at the Hummans hiss and raise their limbs then ajani panicked stands between them shouting "THEY'RE FRIENDS THEYRE FRINDS!"</p>
-</div>
+
 
 
 The wall had become a place of healing. In the weeks since the victory, Ajani had made it his practice to work alongside the laborers every afternoon. He had no skill with stone—the Pyrinae engineers had politely suggested he focus on hauling rather than masonry—but his presence had changed the atmosphere on the scaffolding. If the king could sweat alongside them, so could the generals. If the generals could haul stone, so could the honor guards.
@@ -693,9 +721,7 @@ The Petal-Shell's light dimmed. The deep voice faded. The Shell-Singer lowered t
 </div>
 
 
-<div class="dialogue-block">
-<p class="speech-line">Ajani looks towards sylva and says "call for zephyr and Yvaria, tell them its urgent"</p>
-</div>
+
 
 
 <div class="dialogue-block">
@@ -1019,42 +1045,3 @@ Kira raised her practice saber and charged. She was fast—Ajani had trained her
 
 
 Kira pulled back and attacked again. And again. And again. Each time, the short blade trapped her weapon. Each time, the long blade found her throat or her heart or her spine. Cefiro moved with an economy of motion that made Ajani's saber work look almost extravagant—each step was precise, each block was minimal, each counter was exactly where it needed to be and nowhere else.
-
-
-<div class="dialogue-block">
-<p class="speech-line">"Hard as ice. Quick as wind. You are being hard, but you are not being quick. You commit to each strike before you see my response. You must watch. You must wait. The ice does not attack the mountain. The ice waits for the thaw. Then it moves."</p>
-</div>
-
-
-Kira's legs buckled. She fell to her knees in the sand, her chest heaving, the practice saber still clutched in her paws. Pearl scuttled over and pressed her pale carapace against Kira's side, her antennae waving with concern.
-
-
-<div class="dialogue-block">
-<p class="speech-line">"Did you ever fight Ajani?" <span class="speech-attr">Kira asked, her voice hoarse.</span></p>
-</div>
-
-
-<div class="dialogue-block">
-Cefiro lowered the ice blades. The mist curled around his paws, and for a moment, something flickered in his pale blue eyes—a memory, distant and cold. <span class="speech">"Yes. Three years ago. When he came to the Ice City. He was half-frozen and half-starved, but he wanted to spar. He always wanted to spar."</span> He paused. <span class="speech">"It was more like a slaughter. I was faster. I was better trained. I had been fighting since I could walk. He was... stubborn. He kept getting up. Every time I put him down, he got up. In the end, he managed one hit. One. A glancing blow to my shoulder. He was very proud of it."</span>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">He looked at Kira, still on her knees in the sand. "That was three years ago. I am not sure I could touch him now. The king I saw at the wall—the one who summoned six elemental spirits and killed a Plague creature with a thunderstorm—that is not the starving wanderer who stumbled into our city. He has become something else. Something more. I do not know if I could fight him now. I do not know if anyone could."</p>
-</div>
-
-
-<div class="dialogue-block">
-Kira pushed herself to her feet. Her legs were shaking, but her dark eyes were fierce. <span class="speech">"He's still the same person. He still laughs at his scorpions when they hide behind doors. He still visits the Tree even when he doesn't need to. He still wears the belt I made him, even though it's crooked."</span> She raised the practice saber. <span class="speech">"Teach me the ice blade. The short one. I want to learn."</span>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Cefiro looked at her for a long moment. Then he extended his paw, and a second short blade of ice formed in the air beside him, its handle hovering at Kira's eye level. "Hard as ice. Quick as wind. Ready for everything. Begin."</p>
-</div>
-
-
-The Sunraptor banked over the frozen peaks, and Kira saw the Great Ice City for the first time.
-
-
-It was not like Styxian. Styxian rose from the desert like a golden fist, its walls ancient and weathered, its hanging gardens a defiant burst of green against the endless sand. The Ice City rose from the tundra like a frozen wave, its spires carved from gleaming white stone that caught the pale northern sun and threw it back in a thousand fractured sparks. The walls were not walls but glaciers, shaped and smoothed by millennia of Snow Paw craft.

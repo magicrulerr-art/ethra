@@ -1,9 +1,13 @@
 ## Chapter 1: Bureaucracy
 
 
+*I seriously hate this woman.*
+
 <div class="dialogue-block">
-<p class="speech-line">'I seriously hate this woman' - "Thank you for the advice, I'll take it to hear" - 'let's see what they want'</p>
+<p class="speech-line">"Thank you for the advice. I'll take it to heart."</p>
 </div>
+
+*Let's see what they want.*
 
 The Hall of the Sun was already full when Ajani arrived. The elders of the five families sat in their concentric semicircles, their pelts a sea of gold and stripe and shadow and mottle, their voices a low, contentious rumble that echoed off the ancient stone. The Bright Paws, still humiliated from the tournament, clustered near the front with the defiant air of people who had been publicly shamed and were determined not to show it.
 
@@ -151,8 +155,10 @@ Zara's paw slammed against the stone armrest before anyone else could speak. The
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">"next as long as I live, the regency and the crown are the prize, to any race" <span class="speech-attr">, 'I hear the screams coming '</span></p>
+<p class="speech-line">"Next, as long as I live, the regency and the crown are the prize, to any race."</p>
 </div>
+
+*I hear the screams coming.*
 
 <div class="dialogue-block">
 <p class="speech-line">The Hall of the Sun erupted. Zara was on her feet again, her striped mane fully bristled, her claws extended, her voice a roar of pure mercantile outrage that echoed off the ancient stone. "The crown?! Every year?! To any race?! You cannot be serious! A Humman could win the crown! A Pyrinae could win the crown! A Veylar could sit on the throne of the Wengari and—"</p>
@@ -176,8 +182,10 @@ Zara's paw slammed against the stone armrest before anyone else could speak. The
 
 The plan was audacious. It was reckless. It was, as Zara had said, possibly brilliant and possibly insane. But the elders had accepted it. The families were bound. The tournament would become the crucible in which the Wengari were forged anew—or the pyre on which they burned. Either way, the world would be watching.
 
+*That went unusually good. I don't trust them.*
+
 <div class="dialogue-block">
-'that went unusually good, I don't trust them' -<span class="speech">"ok since you all agree you better ensure no other race ever makes it to the finals which leads me to the next point, the tournament is a boon for all and we better take advantage of it, the Crown will retain 30% of all the profits, each family it's given a 15% flat fee for the rest, the 10% left will be distributed among those helping and participating, to enforce this we will institute a new office "</span>the tournament watch<span class="speech">" and that is where you will place your treacherous envoys in an official position, I wish for them to handle the actual money and logistics in the capital, and I can not stress this enough, I want the ones who would sell their own mother for coin, I want cunning and treacherous but no addicts nor deviants, am I clear ?"</span>
+<p class="speech-line">"Ok, since you all agree, you better ensure no other race ever makes it to the finals—which leads me to the next point. The tournament is a boon for all, and we better take advantage of it. The Crown will retain 30% of all the profits. Each family is given a 15% flat fee for the rest. The 10% left will be distributed among those helping and participating. To enforce this, we will institute a new office—the Tournament Watch—and that is where you will place your treacherous envoys in an official position. I wish for them to handle the actual money and logistics in the capital. And I cannot stress this enough: I want the ones who would sell their own mother for coin. I want cunning and treacherous, but no addicts nor deviants. Am I clear?"</p>
 </div>
 
 Zara's ears pricked forward. The Stripe Paw chief had been ready to argue—she was always ready to argue—but the numbers were already spinning behind her golden eyes. Thirty percent to the crown. Fifteen percent to each family. Ten percent for the participants and helpers. And an office to enforce it, staffed by the very people who were too treacherous to trust with anything else, given official positions handling actual coin and logistics.
@@ -243,8 +251,10 @@ Ajani settled back onto the cold stone of the throne. The green fire along his c
 <p class="speech-line">Sylva's soft voice carried from beside the throne. "And I have a question. The crown and the regency are the prize. Every year. To any race. You have made this clear. But if a champion of another race wins the tournament and claims the crown, what becomes of the Wengari? What becomes of the pact? What becomes of the regent? We have accepted your vision, King Ajani. But we must understand the stakes."</p>
 </div>
 
+*Good. They're not just going along.*
+
 <div class="dialogue-block">
-<p class="speech-line">'good they're not just going along' - "The crown will use the entire 30% for infrastructure, we need better roads, better gardens, better lodging, the Crown will build market stalls, fire feet pens, along with providing a training stipend for any masters that staff the schools, and the crown graciously asks that each family uses 10% of their total share to fund their schools and secure the trade routes and roads to other cities the crown will build, as for what happens if another race wins, that is on you, I will defend the crown, sylva will defend the regency if a Humman makes it to me, then you have all failed "</p>
+<p class="speech-line">"The Crown will use the entire 30% for infrastructure. We need better roads, better gardens, better lodging. The Crown will build market stalls, fire feet pens, along with providing a training stipend for any masters that staff the schools. And the Crown graciously asks that each family uses 10% of their total share to fund their schools and secure the trade routes and roads to the other cities the Crown will build. As for what happens if another race wins, that is on you. I will defend the Crown. Sylva will defend the regency. If a Humman makes it to me, then you have all failed."</p>
 </div>
 
 The elders absorbed the king's words in silence. Zara's golden eyes were already moving, calculating, her merchant's mind tracing the flow of coin from the tournament's profits to the infrastructure the crown would build—roads, gardens, lodging, market stalls, fire feet pens. Better roads meant faster caravans. Faster caravans meant more trade. More trade meant more wealth for the Stripe Paws. And the training stipend for the masters who staffed the schools—that was a direct subsidy to every family's martial tradition, paid for by the crown's share.
@@ -288,8 +298,10 @@ The elders did not erupt this time. They leaned forward. The king had just refra
 <p class="speech-line">Sylva's soft voice was the last to speak. "The Motted Paws will study the other races as we have always studied. Their styles. Their techniques. Their philosophies. Flowing Water adapts to every vessel. We will learn from the Hummans, the Pyrinae, the Veylar, the Threx. We will take what is useful. We will discard what is not. And we will teach the other families what we have learned. This is the way of the Motted Paws. This is the way of Flowing Water—hunt, learn, adapt, endure."</p>
 </div>
 
+*Almost done.*
+
 <div class="dialogue-block">
-<p class="speech-line">'almost done' , "the crown holds the absolute power but it doesn't hold the absolute wisdom I am a young king, I humbly request these new offices to be filled, I need a coin master, a security advisor, a foreign advisor and a grand visir, that office will belong to the regent when the crown is in the capital, if there is no objection I'll explain what each office entails so you can propose candidates"</p>
+<p class="speech-line">"The crown holds the absolute power, but it doesn't hold the absolute wisdom. I am a young king. I humbly request these new offices to be filled: I need a coin master, a security advisor, a foreign advisor, and a grand vizier. That office will belong to the regent when the crown is in the capital. If there is no objection, I'll explain what each office entails so you can propose candidates."</p>
 </div>
 
 The silence that followed was different from the silences that had come before. The elders of the four families exchanged glances—not the wary, calculating glances of politicians negotiating a trade deal, but the startled, almost uncomfortable glances of people who had just been reminded that their king was barely older than a cub.
@@ -335,7 +347,7 @@ Zara's golden eyes narrowed with calculation, but it was a different kind of cal
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">"you have proposed vasha for three different roles , you must truly hate your cousin, I choose Maren, the coin master needs not only guile but also endurance, someone without ambition will break the first month, or succumb to apathy, I need someone who can stare down the toughest of the families and make them cough up the coin, Maren sounds like she'll fit right in, objections?"</p>
+<p class="speech-line">"You have proposed Vasha for three different roles. You must truly hate your cousin. I choose Maren. The coin master needs not only guile but also endurance. Someone without ambition will break the first month, or succumb to apathy. I need someone who can stare down the toughest of the families and make them cough up the coin. Maren sounds like she'll fit right in. Objections?"</p>
 </div>
 
 <div class="dialogue-block">
@@ -453,7 +465,9 @@ Zara was the first to speak, and her voice carried the particular weight of a me
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">"I accept, and now for the grand visir, he can stay in office as long as he keeps winning tournaments if he can hold it for life, he can, he will oversee the other offices and be advisor to the crown, he will enact the crowns policy and law, you should treat the office as the crown itself, which means I will be offloading almost all my work to them !!" <span class="speech-attr">- 'got you old bastards!!'</span></p>
+<p class="speech-line">"I accept. And now, for the grand vizier: he can stay in office as long as he keeps winning tournaments. If he can hold it for life, he can. He will oversee the other offices and be advisor to the crown. He will enact the crown's policy and law. You should treat the office as the crown itself, which means I will be offloading almost all my work to them!"</p>
 </div>
+
+*Got you, old bastards!*
 
 What followed was not the silence of shock—the elders had absorbed too many revelations in too short a time for shock—but the silence of predators reassessing the terrain. The king had just announced that the grand vizier, the most powerful office in the new government, would be tied to the tournament. Win the tournament, hold the office. Hold it for life, if you could keep winning. The crown's authority, the crown's policy, the crown's law—all of it offloaded onto the grand vizier's shoulders.

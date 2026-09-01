@@ -11,15 +11,14 @@ She had never seen a king drop the act so completely.
 The green fire flickered along the king's claws. Somewhere in the shadows of the colonnade, the Root-Speaker was still listening. Somewhere beneath the desert, the Kyre Tree was waiting. And on the throne, the young king regarded the ancient Hydromancer with eyes that gave nothing away.
 
 
+*Twirl the spear, then throw it at her face, grace her lightly... there.*
+
 <div class="dialogue-block">
-<p class="speech-line">'twirl the spear, then throw it at her face, grace her lightly...there' — "I am my father's son, but I am not my father, I won't miss the next time, the truth, now"</p>
+<p class="speech-line">"I am my father’s son, but I am not my father. I won’t miss the next time. The truth, now."</p>
 </div>
 
 
 The spear whistled through the air, a blur of green fire and gleaming rune-glass, and embedded itself in the stone column beside the Hydromancer's head with a crack that echoed through the empty arena. A single lock of her pale bronze hair, severed clean, drifted down to rest on her shoulder. She did not flinch. She did not blink. She had stood before the Kyre Tree and felt its hunger. She had watched the Third Tyrant vanish into the Chamber of Reflection.
-
-A spear thrown by a young king, however precisely, was not the worst thing she had endured.
-
 
 <div class="dialogue-block">
 But something shifted in her expression. The ancient composure, the patient diplomacy of centuries, the quiet certainty that she could outlast any Wengari monarch who sat on the throne—all of it fell away, leaving something rawer beneath. Respect. Not fear. Respect. She reached up and touched the severed lock of hair, then looked at the spear quivering in the stone beside her. <span class="speech">"The Lightbringer threw a spear at me once,"</span> she said, her voice soft but clear. <span class="speech">"He missed entirely. I told him it was a poor omen for a king who sought to build. He laughed. He said he was not a builder yet. He was still learning."</span> She turned her clouded eyes toward Ajani. <span class="speech">"You did not miss. That is either a better omen or a worse one. I do not yet know which."</span>
@@ -72,8 +71,10 @@ She let the silence stretch. <span class="speech">"I am not here to speak of the
 </div>
 
 
+*I... what?*
+
 <div class="dialogue-block">
-<p class="speech-line">'I...what?' — "You knew my mother? May I know your name, please?"</p>
+<p class="speech-line">"You knew my mother? May I know your name, please?"</p>
 </div>
 
 
@@ -85,8 +86,10 @@ The ancient Hydromancer closed her eyes. For a long moment, she did not speak. W
 </div>
 
 
+*Mother wanted me to see the ocean...*
+
 <div class="dialogue-block">
-<p class="speech-line">'Mother wanted me to see the ocean...' — "This is a gift I can never repay. Ask me for anything, and if it is within my power I'll make it so. If it's not, I'll find someone who will"</p>
+<p class="speech-line">"This is a gift I can never repay. Ask me for anything, and if it is within my power I’ll make it so. If it’s not, I’ll find someone who will."</p>
 </div>
 
 
@@ -108,8 +111,10 @@ She inclined her head—not the formal bow of a diplomat, but the simple, tired 
 </div>
 
 
+*Mother...*
+
 <div class="dialogue-block">
-<p class="speech-line">'mother...' — "Very well, now let's return to the act. Call the rest of your delegation, please. Before Ajani, I am king... And just like the water is life in the desert, so must I be the life of our people. Negotiations must resume"</p>
+<p class="speech-line">"Very well, now let’s return to the act. Call the rest of your delegation, please. Before Ajani, I am king... and just like the water is life in the desert, so must I be the life of our people. Negotiations must resume."</p>
 </div>
 
 

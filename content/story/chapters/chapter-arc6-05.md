@@ -1,5 +1,21 @@
 ## Chapter 5: Epilogue
 
+Nikolai switched to a wide sweep, the halberd's blade cutting a glittering arc through the morning air. Ajani jumped, the halberd passing beneath him, and the Tsar's stern face split in a fierce grin. He had been testing the boy. The boy was good. He thrust upward, changing direction with the speed of a warrior who had been fighting for longer than most Wengari had been alive. But Ajani was already summoning his staff—the grandfather, the fourth pillar—and he used it to parry the halberd's upward thrust.
+
+The force of the parry drove the halberd down, its blade biting into the sand, and by the time Nikolai lifted it, Ajani was already descending. The ji materialized in his paws—the weapon of the Deep, the blade of green fire, the form he had not yet mastered but had learned to trust. He landed on the shaft of the halberd, his weight pinning it to the ground, and the tip of the ji came to rest gently against Nikolai's throat.
+
+
+
+The Tsar of the Snow Paws looked up at the White Dawn. For a long, breathless moment, no one moved. On the snow wurm, Anastasia watched with her quiet, frightening stillness, her pale blue eyes taking in every detail of the exchange. Vanya's hand had moved to her axe, but she had not drawn it. Nadya was frozen, her daggers forgotten in her fingers. Ivan's mouth was hanging open. Cefiro simply nodded, a single, deliberate inclination of his head, as if to say: *I told you.* In the shadow of the gate, L'vat let out a long, rattling breath that might have been annoyance or might have been pride.
+
+The Veylar queen watched in silence from her coral palanquin, her ancient eyes unreadable. The Wengari on the wall—M'rak, Reva, Zephyr, Yvaria, Sylva—stood ready, their claws half-extended, unsure whether to intervene or applaud.
+
+
+<div class="dialogue-block">
+Ajani spoke, his voice steady and clear, carrying across the silent gate. <span class="speech">"This Ajani Brightmane, first of his name, protector of the realm, heir to the Black Fire and the Lightbringer, brother to the Deep, caller of spirits, king of the Wengari, salutes Nikolai Silverpelt, champion of the frozen wastes, defender of the Great Ice City, long-lost brother of the Wengari, Tsar of the Snow Paws."</span> He lowered the ji from Nikolai's throat and bowed his head. <span class="speech">"Welcome home, Uncle."</span>
+</div>
+
+
 <div class="dialogue-block">
 Nikolai threw back his head and laughed—a great, booming roar of delight that echoed across the desert and bounced off the golden walls of Styxian. <span class="speech">"He is everything you said, Cefiro! Everything! The boy who could not beat my son three years ago just bested me in front of every delegation on the continent!"</span> He dismissed his halberd with a flick of his wrist and clasped Ajani's forearm in the Wengari greeting. <span class="speech">"Nikolai Silverpelt, champion of the frozen wastes, defender of the Great Ice City, long-lost brother of the Wengari, Tsar of the Snow Paws, salutes Ajani Brightmane, first of his name, White Dawn, king of the Wengari. The Snow Paws are honored to meet you. The Snow Paws are honored to come home, Nephew."</span>
 </div>
@@ -183,9 +199,7 @@ Sylva watched the exchange with the patient, ancient eyes of a regent who had lo
 </div>
 
 
-<div class="dialogue-block">
-<p class="speech-line">It's the afternoon of the same day everyone has already settled in the throne room ajani is meeting all his advisors, Nikolai and Anastasia are there as well, L'vat, seris and the yet unamed veylar queen ajani speaks "Everyone is here, so Maren are we ready for the memorial and premiation ceremony tomorrow ?"</p>
-</div>
+
 
 
 The throne room was full for the first time since the war. Ajani sat on the cold stone of the throne, Blackie and Reddy sprawled at his feet, their white-lacquered pincers gleaming in the afternoon light. The diadem's gem pulsed with a slow, steady rhythm. The room was a tapestry of the new world he had built.
@@ -279,11 +293,6 @@ The court dispersed into the afternoon light, and the Great Celebration prepared
 
 <div class="dialogue-block">
 <p class="speech-line">Maren stepped forward, her stylus already tracing a line down her ledger. "The memorial is prepared, Your Highness. The pillar in the eastern plaza has been completed. The names of the fallen have been carved—forty-seven Wengari, twelve Pyrinae, the Hummans who died on the wall. The stone is white, quarried from the deep veins beneath the Pyrinae district. It will stand for as long as the city stands."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">She turned a page. "The prize ceremony will follow the memorial. The four two-star generals will be honored—M'rak, Reva, Zephyr, and Yvaria. The elite unit will receive the Black Cloak, a new honor created by the crown for those who held the gate against the second vanguard. Sera will receive the Sun's Fang, the highest military honor the Wengari have ever awarded, for commanding the defense while the king was unconscious. The civilians who fought on the wall will receive the Citizen's Blade. The families of the fallen will receive their pensions and their loved ones' honors in their stead."</p>
 </div>
 
 
@@ -387,15 +396,13 @@ All of them, standing at attention.
 Beyond the atrium, the city's inhabitants watched with rapt attention. They filled the plaza and the surrounding streets, Wengari and human and Pyrinae alike, their faces lifted toward the ceremony. The memorial pillar stood in the eastern plaza, its white stone gleaming in the morning sun, the names of the fallen carved deep, the red lines of blood marking the height where the living had honored the dead.
 
 
-And Ajani rose from the throne, the white spear humming in his paw, and the ceremony began.
 
 
 
 
 
-<div class="dialogue-block">
-<p class="speech-line">Ajani stands and sylva passes him a scroll he unfolds it theatrically and proclames "Yvaria whisperwind, Sephyr flamebound, Reva firepelt, M'rak brightmane present yourselves to the crown!!"</p>
-</div>
+
+
 
 
 Ajani rose from the throne, the white spear humming in his paw. The diadem's gem blazed on his brow. The morning sun poured through the open dome of the atrium, catching the golden threads in his regalia, the white lacquer on Blackie's pincers, the polished stone of the memorial pillar visible in the distance. Sylva stepped forward, her silver-chased armor gleaming, and placed a scroll in his paw. He unfurled it with a single, theatrical motion, the parchment crackling in the silence.
@@ -418,9 +425,7 @@ Reva walked with the heavy, deliberate stride of a Stripe Paw who had lost half 
 M'rak came last. The burn-scarred general who had commanded the defense while the king slept, who had held the wall with twenty elite and a hundred volunteers, who had made the decisions that saved the city. He carried the new name Ajani had given him the night before—Brightmane, the royal name, the name of the Lightbringer, the name of the king himself. He was no longer merely a soldier. He was family. He knelt before the throne, and the diadem's gem pulsed once as if in recognition.
 
 
-<div class="dialogue-block">
-<p class="speech-line">"For riding in the night when no one followed, for standing their ground when all hope was lost, for risking limb and life in defense of the others, this crown awards you the following titles stand Yvaria heavenly general of the wind!!!"</p>
-</div>
+
 
 
 Yvaria rose from her knees. The drums on her harness were silent, but the ghosts beyond the atrium stirred, their great wings rustling as if they understood the moment. Ajani's voice carried across the silent plaza, each word weighted with the memory of the battle.
@@ -449,9 +454,7 @@ Her claws half-extended, then retracted. She would not ruin this moment. But she
 Blackie and Reddy clicked their pincers in perfect unison, a sound of approval. The capes on their backs shimmered in the morning light, the gold-threaded motifs of their triumphs catching the sun. They understood ceremony. They understood recognition. They understood that the one who had caught their king when he fell was being honored for it. And Ajani stood before the four generals, the white spear humming in his paw, and prepared to speak again.
 
 
-<div class="dialogue-block">
-<p class="speech-line">"For believing when no one believed, for being the first and last bulwark in the line of duty, for commanding the army when no one else would, this crown awards you the following title, stand M'rak Heavenly general of the earth !!!"</p>
-</div>
+
 
 
 M'rak rose from his knees. His burn-scarred arms, marked by the long morning of the war, hung at his sides. His golden eyes, which had watched fifteen Wohs die in pillars of fire and held the gate against four hundred scorpion riders, were steady. The new name—Brightmane—was still settling on his shoulders, but he wore it like armor.
@@ -476,9 +479,7 @@ Kira watched M'rak with wide eyes. She had seen him on the wall, shouting orders
 He had saved the city. Even an assassin understood the weight of that. And Ajani stood before the remaining two generals, the white spear humming in his paw, and prepared to speak again.
 
 
-<div class="dialogue-block">
-<p class="speech-line">"For crossing the belt and the desert in one night, for bringing and doing more than anyone would have hope her to do, for standing where eveyeone else fell, this crown awards you the following title Stand Reva heavenly general of fire!!!"</p>
-</div>
+
 
 
 Reva rose from her knees. Her golden eyes, still carrying the weight of the fifteen Wohs she had lost in three seconds, were steady. Her striped mane, still bearing the dust of the western garrison, caught the morning sun. She had ridden through the night. She had watched the purple orb consume half her command. She had led the survivors to the gate and fought alongside the defenders until the creature fell.
@@ -508,9 +509,7 @@ Kira watched Reva with wide eyes. She had seen the general arrive at the wall, h
 Blackie and Reddy clicked their pincers in unison, their capes shimmering. They understood fire. They had been born from it, or something close to it—the purple flames of the Plague orbs, the green venom of their tails. The Heavenly General of Fire was a kindred spirit, and the scorpions acknowledged her as such. Ajani stood before the remaining general, the white spear humming in his paw, and prepared to speak again.
 
 
-<div class="dialogue-block">
-<p class="speech-line">"For being the only one unscathed, for breaking the plague net, for riding far longer and faster than anyone else, this crown awards the following titles stand Zephyr the unbroken, heavenly general of shadow !!!"</p>
-</div>
+
 
 
 Zephyr rose from his knees. His scarred face, marked by the tournament where he had fought and lost and the war where he had fought and won, was unreadable. His lacquered claws, still stained with the residue of the shadow charge, gleamed in the morning light. He was the only general who had emerged from the battle unscathed—not untouched, not unwounded, but with every rider and every wolf still alive. The Black Fire had broken the Plague net, and the Black Fire had saved the city.
@@ -538,9 +537,7 @@ Kira watched Zephyr with wide eyes. She had seen him arrive at the gate, his wol
 The shadow riders beyond the columns raised their lacquered claws in salute, and Zephyr the Unbroken, Heavenly General of Shadow, stood before the throne with the weight of five thousand years of shame lifting from his shoulders. And Ajani lowered the scroll. The four Heavenly Generals stood in a line before him—Wind, Earth, Fire, and Shadow. The elements were complete. The pantheon was forged. The Wengari had new legends.
 
 
-<div class="dialogue-block">
-<p class="speech-line">"My citizens I give you your generals the four heavenly generals of the wengari!!! May their legends grow ever stronger and wider, now go my generals teach the treacherous Hummans in Verdantis why no one steals a wengari cub!!!"</p>
-</div>
+
 
 
 The roar that erupted from the plaza was not merely a cheer. It was a thunderclap of pride, of grief, of vengeance, of hope. The four Heavenly Generals stood before the throne—Wind, Earth, Fire, and Shadow—and the Wengari people greeted them with a sound that shook the golden walls of Styxian and echoed across the blackened sand beyond the broken gate.
@@ -571,9 +568,7 @@ The four Heavenly Generals turned as one and faced the assembled might of the We
 Zephyr raised one lacquered claw. And the legion answered with a sound that was not a cheer but a promise. The Heavenly Generals of the Wengari were going to war, and the world would remember.
 
 
-<div class="dialogue-block">
-<p class="speech-line">Sylva hands another scroll to ajani he again unfolds if with a theatrical flair and says "Tamsin of the Hummans present yourself to the crown!"</p>
-</div>
+
 
 
 Sylva stepped forward once more, her silver-chased armor gleaming in the morning light. A scroll passed from her paw to Ajani's, and he unfurled it with the same theatrical flourish, the parchment crackling in the silence that had fallen after the generals' roar.
@@ -770,9 +765,7 @@ A ripple of suppressed laughter ran through the assembled court. Sylva's ancient
 </div>
 
 
-<div class="dialogue-block">
-<p class="speech-line">Salahim had come to offer a veritable mother load of reparations to ajani, he had come with just two honor guards, landed way before the gate he expected hostility he didn't expect a gigantic white wengari with an equally large axe, with what appeared to be his retinue he bows gently and says "I am Salahim current sultan of the Hummans I have come to offer reparations to the great king of the wengari, Ajani the white dawn, may I seek an audience with him ?"</p>
-</div>
+
 
 
 Salahim, Sultan of the Hummans, had prepared for many things. He had prepared for hostility. He had prepared for cold formality. He had prepared for the possibility that he would not be permitted to enter the city at all. He had come with only two honor guards, as a gesture of trust, and he had ordered the cargo birds to land well before the gate, as a gesture of deference. He had done everything correctly.
@@ -922,9 +915,7 @@ At the gate, Nikolai lowered his halberd entirely. His fighting spirit was gone.
 </div>
 
 
-<div class="dialogue-block">
-<p class="speech-line">Nikolai turns and says utterly defeated "Come Humman, and perhaps next time bring better guards ?" As he slowly very slowly walks back to the capital cursing his luck</p>
-</div>
+
 
 
 Nikolai turned. The great halberd dissolved into a swirl of snowflakes, and the Tsar of the Snow Paws, champion of the frozen wastes, defender of the Great Ice City, began the long, slow walk back to the gate. His massive shoulders were slumped. His pale blue eyes were fixed on the distant golden walls of Styxian with the hollow stare of a warrior who had prepared for battle and been defeated by something he could not fight.

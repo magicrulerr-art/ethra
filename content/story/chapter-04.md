@@ -1,8 +1,12 @@
 # Chapter 4: The Consolidation
 
+*I seriously hate this woman.*
+
 <div class="dialogue-block">
-<p class="speech-line">'I seriously hate this woman' - "Thank you for the advice, I'll take it to hear" - 'let's see what they want'</p>
+<p class="speech-line">"Thank you for the advice. I'll take it to heart."</p>
 </div>
+
+*Let's see what they want.*
 
 The Hall of the Sun was already full when Ajani arrived. The elders of the five families sat in their concentric semicircles, their pelts a sea of gold and stripe and shadow and mottle, their voices a low, contentious rumble that echoed off the ancient stone. The Bright Paws, still humiliated from the tournament, clustered near the front with the defiant air of people who had been publicly shamed and were determined not to show it.
 
@@ -150,8 +154,10 @@ Zara's paw slammed against the stone armrest before anyone else could speak. The
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">"next as long as I live, the regency and the crown are the prize, to any race" <span class="speech-attr">, 'I hear the screams coming '</span></p>
+<p class="speech-line">"Next, as long as I live, the regency and the crown are the prize, to any race."</p>
 </div>
+
+*I hear the screams coming.*
 
 <div class="dialogue-block">
 <p class="speech-line">The Hall of the Sun erupted. Zara was on her feet again, her striped mane fully bristled, her claws extended, her voice a roar of pure mercantile outrage that echoed off the ancient stone. "The crown?! Every year?! To any race?! You cannot be serious! A Humman could win the crown! A Pyrinae could win the crown! A Veylar could sit on the throne of the Wengari and—"</p>
@@ -175,8 +181,10 @@ Zara's paw slammed against the stone armrest before anyone else could speak. The
 
 The plan was audacious. It was reckless. It was, as Zara had said, possibly brilliant and possibly insane. But the elders had accepted it. The families were bound. The tournament would become the crucible in which the Wengari were forged anew—or the pyre on which they burned. Either way, the world would be watching.
 
+*That went unusually good. I don't trust them.*
+
 <div class="dialogue-block">
-'that went unusually good, I don't trust them' -<span class="speech">"ok since you all agree you better ensure no other race ever makes it to the finals which leads me to the next point, the tournament is a boon for all and we better take advantage of it, the Crown will retain 30% of all the profits, each family it's given a 15% flat fee for the rest, the 10% left will be distributed among those helping and participating, to enforce this we will institute a new office "</span>the tournament watch<span class="speech">" and that is where you will place your treacherous envoys in an official position, I wish for them to handle the actual money and logistics in the capital, and I can not stress this enough, I want the ones who would sell their own mother for coin, I want cunning and treacherous but no addicts nor deviants, am I clear ?"</span>
+<p class="speech-line">"Ok, since you all agree, you better ensure no other race ever makes it to the finals—which leads me to the next point. The tournament is a boon for all, and we better take advantage of it. The Crown will retain 30% of all the profits. Each family is given a 15% flat fee for the rest. The 10% left will be distributed among those helping and participating. To enforce this, we will institute a new office—the Tournament Watch—and that is where you will place your treacherous envoys in an official position. I wish for them to handle the actual money and logistics in the capital. And I cannot stress this enough: I want the ones who would sell their own mother for coin. I want cunning and treacherous, but no addicts nor deviants. Am I clear?"</p>
 </div>
 
 Zara's ears pricked forward. The Stripe Paw chief had been ready to argue—she was always ready to argue—but the numbers were already spinning behind her golden eyes. Thirty percent to the crown. Fifteen percent to each family. Ten percent for the participants and helpers. And an office to enforce it, staffed by the very people who were too treacherous to trust with anything else, given official positions handling actual coin and logistics.
@@ -242,8 +250,10 @@ Ajani settled back onto the cold stone of the throne. The green fire along his c
 <p class="speech-line">Sylva's soft voice carried from beside the throne. "And I have a question. The crown and the regency are the prize. Every year. To any race. You have made this clear. But if a champion of another race wins the tournament and claims the crown, what becomes of the Wengari? What becomes of the pact? What becomes of the regent? We have accepted your vision, King Ajani. But we must understand the stakes."</p>
 </div>
 
+*Good. They're not just going along.*
+
 <div class="dialogue-block">
-<p class="speech-line">'good they're not just going along' - "The crown will use the entire 30% for infrastructure, we need better roads, better gardens, better lodging, the Crown will build market stalls, fire feet pens, along with providing a training stipend for any masters that staff the schools, and the crown graciously asks that each family uses 10% of their total share to fund their schools and secure the trade routes and roads to other cities the crown will build, as for what happens if another race wins, that is on you, I will defend the crown, sylva will defend the regency if a Humman makes it to me, then you have all failed "</p>
+<p class="speech-line">"The Crown will use the entire 30% for infrastructure. We need better roads, better gardens, better lodging. The Crown will build market stalls, fire feet pens, along with providing a training stipend for any masters that staff the schools. And the Crown graciously asks that each family uses 10% of their total share to fund their schools and secure the trade routes and roads to the other cities the Crown will build. As for what happens if another race wins, that is on you. I will defend the Crown. Sylva will defend the regency. If a Humman makes it to me, then you have all failed."</p>
 </div>
 
 The elders absorbed the king's words in silence. Zara's golden eyes were already moving, calculating, her merchant's mind tracing the flow of coin from the tournament's profits to the infrastructure the crown would build—roads, gardens, lodging, market stalls, fire feet pens. Better roads meant faster caravans. Faster caravans meant more trade. More trade meant more wealth for the Stripe Paws. And the training stipend for the masters who staffed the schools—that was a direct subsidy to every family's martial tradition, paid for by the crown's share.
@@ -287,8 +297,10 @@ The elders did not erupt this time. They leaned forward. The king had just refra
 <p class="speech-line">Sylva's soft voice was the last to speak. "The Motted Paws will study the other races as we have always studied. Their styles. Their techniques. Their philosophies. Flowing Water adapts to every vessel. We will learn from the Hummans, the Pyrinae, the Veylar, the Threx. We will take what is useful. We will discard what is not. And we will teach the other families what we have learned. This is the way of the Motted Paws. This is the way of Flowing Water—hunt, learn, adapt, endure."</p>
 </div>
 
+*Almost done.*
+
 <div class="dialogue-block">
-<p class="speech-line">'almost done' , "the crown holds the absolute power but it doesn't hold the absolute wisdom I am a young king, I humbly request these new offices to be filled, I need a coin master, a security advisor, a foreign advisor and a grand visir, that office will belong to the regent when the crown is in the capital, if there is no objection I'll explain what each office entails so you can propose candidates"</p>
+<p class="speech-line">"The crown holds the absolute power, but it doesn't hold the absolute wisdom. I am a young king. I humbly request these new offices to be filled: I need a coin master, a security advisor, a foreign advisor, and a grand vizier. That office will belong to the regent when the crown is in the capital. If there is no objection, I'll explain what each office entails so you can propose candidates."</p>
 </div>
 
 The silence that followed was different from the silences that had come before. The elders of the four families exchanged glances—not the wary, calculating glances of politicians negotiating a trade deal, but the startled, almost uncomfortable glances of people who had just been reminded that their king was barely older than a cub.
@@ -334,7 +346,7 @@ Zara's golden eyes narrowed with calculation, but it was a different kind of cal
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">"you have proposed vasha for three different roles , you must truly hate your cousin, I choose Maren, the coin master needs not only guile but also endurance, someone without ambition will break the first month, or succumb to apathy, I need someone who can stare down the toughest of the families and make them cough up the coin, Maren sounds like she'll fit right in, objections?"</p>
+<p class="speech-line">"You have proposed Vasha for three different roles. You must truly hate your cousin. I choose Maren. The coin master needs not only guile but also endurance. Someone without ambition will break the first month, or succumb to apathy. I need someone who can stare down the toughest of the families and make them cough up the coin. Maren sounds like she'll fit right in. Objections?"</p>
 </div>
 
 <div class="dialogue-block">
@@ -452,8 +464,10 @@ Zara was the first to speak, and her voice carried the particular weight of a me
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">"I accept, and now for the grand visir, he can stay in office as long as he keeps winning tournaments if he can hold it for life, he can, he will oversee the other offices and be advisor to the crown, he will enact the crowns policy and law, you should treat the office as the crown itself, which means I will be offloading almost all my work to them !!" <span class="speech-attr">- 'got you old bastards!!'</span></p>
+<p class="speech-line">"I accept. And now, for the grand vizier: he can stay in office as long as he keeps winning tournaments. If he can hold it for life, he can. He will oversee the other offices and be advisor to the crown. He will enact the crown's policy and law. You should treat the office as the crown itself, which means I will be offloading almost all my work to them!"</p>
 </div>
+
+*Got you, old bastards!*
 
 What followed was not the silence of shock—the elders had absorbed too many revelations in too short a time for shock—but the silence of predators reassessing the terrain. The king had just announced that the grand vizier, the most powerful office in the new government, would be tied to the tournament. Win the tournament, hold the office. Hold it for life, if you could keep winning. The crown's authority, the crown's policy, the crown's law—all of it offloaded onto the grand vizier's shoulders.
 
@@ -545,8 +559,10 @@ Ajani sat on the throne at the far end of the hall, the white cloak of his fathe
 <p class="speech-line">Ajani allowed himself a faint twitch of his whiskers. "The Pyrinae first. They've earned it. Send them in."</p>
 </div>
 
+*Let's see what they want now.*
+
 <div class="dialogue-block">
-<p class="speech-line">'let's see what they want now' - "Friends! I Ajani first of my name, protector of the realm, heir to the light, disciple of the deep, king of the wengari of the desert and the belt, the white dawn salute you, tell me, what can this king do for you ?"</p>
+<p class="speech-line">"Friends! I, Ajani, first of my name, protector of the realm, heir to the light, disciple of the deep, king of the Wengari of the desert and the belt, the White Dawn, salute you. Tell me, what can this king do for you?"</p>
 </div>
 
 Nefere entered the Great Hall with the slow, deliberate grace of someone who had walked these floors when Ajani's grandfather sat on the throne. Her embedded rune-glass filaments pulsed with soft amber light, and her clouded eyes swept across the golden mosaics with the quiet familiarity of an old friend returning to a well-remembered home. Behind her walked Mira, the sharp-eyed Sun-Walker envoy, and the silent, cowled figure of the Root-Speaker.
@@ -564,8 +580,10 @@ She paused, her clouded eyes meeting Ajani's. <span class="speech">"The lord of 
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">"the crown has no say in the internal family disputes, the stripe paws have their own needs, you will have to deal with them as friends, freedom comes at a cost Nefere" <span class="speech-attr">- 'I am not being dragged to that stink bugs nest !!'</span></p>
+<p class="speech-line">"The crown has no say in the internal family disputes. The Stripe Paws have their own needs. You will have to deal with them as friends. Freedom comes at a cost, Nefere."</p>
 </div>
+
+*I am not being dragged to that stink bugs' nest!*
 
 Nefere's ancient eyes crinkled at the corners. The faintest smile crossed her weathered face—not the smile of a diplomat who had been outmaneuvered, but the smile of an elder who had expected exactly this answer and was pleased to receive it.
 
@@ -586,8 +604,10 @@ The Root-Speaker, silent and cowled, raised one hand. The air in the Great Hall 
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">"Nefere how goes the task I asked of you ?" <span class="speech-attr">- 'I hope she's already spying on the Hummans'</span></p>
+<p class="speech-line">"Nefere, how goes the task I asked of you?"</p>
 </div>
+
+*I hope she's already spying on the Hummans.*
 
 Nefere paused mid-turn, her ancient frame silhouetted against the golden mosaics of the Great Hall. The faint smile that had crossed her face moments before deepened, and her clouded eyes glinted with something that might have been amusement or might have been the satisfaction of a task well begun.
 
@@ -608,8 +628,10 @@ Nefere inclined her head. <span class="speech">"I will have a full report delive
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">"Soon someone will notice your network, if they don't they weren't good enough but if they do, tell show them this" <span class="speech-attr">- 'What I've done, I've done for the future of Styxian and paw signature'</span></p>
+<p class="speech-line">"Soon someone will notice your network. If they don't, they weren't good enough. But if they do—show them this."</p>
 </div>
+
+*What I've done, I've done for the future of Styxian and paw signature.*
 
 Nefere accepted the parchment with her ancient, weathered paws, her clouded eyes moving across the signatures—the king's mark and hers, side by side. She understood immediately what she was holding. Not merely a document. A shield.
 
@@ -669,8 +691,10 @@ Sylva watched the two assassins glide away into the darkness beyond the amber li
 She adjusted her silver-chased pauldrons, the flowing water motifs catching the amber light. <span class="speech">"I will announce you. I will speak for you. If you are forced to speak, I will have failed. I understand my role."</span> She turned toward the great bronze doors, her soft voice carrying one final remark over her shoulder. <span class="speech">"Try not to smile with all your teeth. It ruins the effect."</span>
 </div>
 
+*I hate her so, so much.*
+
 <div class="dialogue-block">
-<p class="speech-line">'I hate her so, so much' - "T'van, send them in"</p>
+<p class="speech-line">"T'van, send them in."</p>
 </div>
 
 The great bronze doors swung open with a sound like the grinding of ancient bones, and the Humman delegation entered the Great Hall of the Sun. Ambassador Seris led them, her dark eyes forward, her shoulders squared, her diplomatic composure a mask that had held for thirty years and would not crack now, no matter what waited at the end of the amber-lit aisle.
@@ -697,7 +721,7 @@ But her daughter Lena, standing just behind her, flinched. The young scribe's da
 Ajani's voice, when it finally came, was quiet—almost conversational. <span class="speech">"No one fainted. Disappointing. I owe the Stripe Paws an apology. They would have made you faint."</span> His green-flecked eyes swept across the trembling merchants, the stone-faced ambassador, the wide-eyed scribe. <span class="speech">"Perhaps next time."</span>
 </div>
 
-'no one fainted...so disappointing, the stripe paws would have made them faint...., claw tap'
+*No one fainted... so disappointing. The Stripe Paws would have made them faint... Claw tap.*
 
 The claw tap continued. Slow. Rhythmic. Soft as a heartbeat, steady as the amber light pulsing through the rune-glass filaments in the floor. Ajani's green-flecked eyes swept across the trembling merchants, the stone-faced ambassador, the wide-eyed scribe. He did not speak. He did not need to. His thoughts were his own.
 
@@ -727,7 +751,7 @@ The claw tap continued its slow, steady rhythm against the armrest of the throne
 <p class="speech-line">Sylva's silver aura dimmed, then steadied. "You ask for much, Ambassador. Permanent trade stalls. Training for champions. Housing and protection for your guilds. A voice in the council. These are not small requests. What do you offer in return, beyond gratitude?"</p>
 </div>
 
-'this is so boring... I hope Sylva at least makes this quick'
+*This is so boring... I hope Sylva at least makes this quick.*
 
 The claw tap stopped.
 
@@ -749,10 +773,12 @@ She paused. The silence stretched.
 <p class="speech-line">She inclined her head toward Seris, a gesture that was not unkind but was utterly final. "The king will grant you a stall in the market. One stall. Your guilds will be housed in the district near the Pyrinae, as was already promised. Your champions may train in the schools, if the masters accept them. These are the terms. They are generous. Do not ask for more."</p>
 </div>
 
-'outrageous if she doesn't shut them down right now, I will '
+*Outrageous. If she doesn't shut them down right now, I will.*
+
+*She fumbled it!*
 
 <div class="dialogue-block">
-<p class="speech-line">'she fumbled it !' - "No she will get none, ambassador, you and your kin stood here no less than a month ago, and you could not take ten places and now all of your delegation waltzez in and stands ?, SHADOWS TO THEM, ON THEIR KNEES CHECK THEM FOR ARTIFACTS! GUARDS RESTRAIN THEM!!"</p>
+<p class="speech-line">"No, she will get none. Ambassador, you and your kin stood here no less than a month ago, and you could not take ten places. And now all of your delegation waltzes in and stands? SHADOWS TO THEM! ON THEIR KNEES! CHECK THEM FOR ARTIFACTS! GUARDS, RESTRAIN THEM!"</p>
 </div>
 
 The shadows moved before the echo of the king's voice died. Sera and her silent companion flowed out of the darkness behind the throne like oil spilling across water—silent, inexorable, terrifying. The Humman merchants had no time to react before lean dark paws seized them by the shoulders and forced them to their knees on the polished stone.
@@ -803,7 +829,7 @@ Sylva stood motionless beside the throne. Her silver aura had gone very still. S
 The king had known. And the regent, for all her centuries of patience, had missed it entirely.
 
 <div class="dialogue-block">
-<p class="speech-line">"YOU DARE COME TO ASK THE CROWN FOR FAVOR YET YOU TRY TO DECEIVE US?!, IS THAT HOW A BROTHER BEHAVES?! ANSWER ME AMBASSADOR!!!"</p>
+<p class="speech-line">"YOU DARE COME TO ASK THE CROWN FOR FAVOR YET YOU TRY TO DECEIVE US?! IS THAT HOW A BROTHER BEHAVES?! ANSWER ME, AMBASSADOR!!!"</p>
 </div>
 
 The roar echoed through the Great Hall like thunder rolling across the desert. The golden mosaics seemed to shiver in their settings. The amber light in the rune-glass filaments flared bright, then dimmed, as if the hall itself flinched from the king's fury.
@@ -819,8 +845,10 @@ Seris remained on her knees. Her diplomatic composure, that mask she had worn fo
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">"YOU SPEAK NOTHING BUT LIES, IN ONE BREATH YOU CLAIM NOT TO KNOW THE STONE EFFECTS THEN IN THE NEXT YOU SAY YOU USED IT TO STAND BEFORE ME WITH DIGNITY, EXPLAIN YOURSELF AND IT BETTER BE GOOD" <span class="speech-attr">- 'got you Humman'</span></p>
+<p class="speech-line">"YOU SPEAK NOTHING BUT LIES! IN ONE BREATH YOU CLAIM NOT TO KNOW THE STONE EFFECTS, THEN IN THE NEXT YOU SAY YOU USED IT TO STAND BEFORE ME WITH DIGNITY! EXPLAIN YOURSELF, AND IT BETTER BE GOOD!"</p>
 </div>
+
+*Got you, Humman.*
 
 Seris closed her eyes. The hairline fracture in her composure widened, and for a moment—just a moment—the ambassador was gone. In her place knelt a woman who had traded her daughter for her people's survival, who had scrambled to provide refreshments at a tournament she never expected, who had spent every day since the audiences maneuvering to keep her race alive in a city full of predators.
 
@@ -891,8 +919,10 @@ Sylva was silent for a long moment. The amber light from the rune-glass filament
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">"I see now I can't leave yet, you need training, inner court is a den of green deaths, you need to temper and still yourself from now on you must sit in all the ceremonies by my side, if you are to be regent you need to be like the sun, warm, unflinching, unyielding that is the language of our pride, and it's the only one the world will understand, go take a brief refreshment, then return we have to meet with the veylara and the thrax delegations, also for that Humman I expect you to mold her into a proper wengari see if you can at least make her not faint in front of us" <span class="speech-attr">- 'ahahahaha serves you right you obnoxious woman!!! At least I got one over you !!! , hahahaha '</span></p>
+<p class="speech-line">"I see now I can't leave yet. You need training. Inner court is a den of green deaths. You need to temper and still yourself. From now on, you must sit in all the ceremonies by my side. If you are to be regent, you need to be like the sun—warm, unflinching, unyielding. That is the language of our pride, and it's the only one the world will understand. Go take a brief refreshment, then return. We have to meet with the Veylar and the Thrax delegations. Also, for that Humman, I expect you to mold her into a proper Wengari. See if you can at least make her not faint in front of us."</p>
 </div>
+
+*Ahahahaha! Serves you right, you obnoxious woman! At least I got one over you!*
 
 Sylva absorbed the king's words in silence, her silver aura flickering gently in the amber light of the Great Hall. The king had rebuked her. The king had also promised to teach her. She had spent five thousand years in silence, watching the other families, studying their ways. She had never been taught. Not by a king. Not by anyone.
 
@@ -1171,7 +1201,7 @@ The blossom leaned closer, its petals trembling with the intensity of the Tree's
 
 'I will keep my end of the bargain. The road will connect me to the marsh. The temples will bring pilgrims to my wells. The sign will choose the strong ones. The deception will hold. And when the Tide comes, I will shield your people from the Flicker's chaos. Not because I love them. Not because I am benevolent. Because they are my food, and I protect what is mine. Because you are my brother, and I protect what is ours.
 
-This is the new pact. It is done. Tomorrow, you will make your announcement. Tomorrow, I will make myself known. Prepare your people, White Dawn. I will give them a sign they will never forget.'
+'This is the new pact. It is done. Tomorrow, you will make your announcement. Tomorrow, I will make myself known. Prepare your people, White Dawn. I will give them a sign they will never forget.'
 
 
 Ajani stepped onto the raised stone platform at the center of the plaza. The crowd fell silent. The sun blazed overhead, golden and unforgiving, and the kyre flowers seemed to lean toward the young king as if listening. The lord of the desert was waiting. The Golden Sun was about to be born.
@@ -1195,7 +1225,7 @@ The kyre flowers along the plaza walls seemed to lean closer, their pale petals 
 Ajani raised one paw, the green fire flaring gently along his claws, and the plaza fell utterly silent. The sun was at its zenith. The moment had come.
 
 <div class="dialogue-block">
-<p class="speech-line">"OUR TOURNAMENT GATHERED THE STRONGEST WENGARI AND IN DOING SO, WE WOKE OUR LONG LOST BROTHER!,HE CALLS HIMSELF THE GOLDEN SUN!!! AND HE LIVES SOMEWHERE BELOW THE DESERT, LIKE US HE'S THE STRONGEST IN THE DESERT BUT HE'S BEEN WEAKENED BY EONS SLEEPING BELOW, THE WITHERING SICKNESS IS HIS DOING! BUT NOT HIS FAULT, WHEN HE FELL ASLEEP HIS BODY NATURALLY TRIED TO RECOVER BY ABSORBING THE AURA ABOVE, HE DIDN'T KNEW WE WERE ALIVE, ALL HE FELT WERE AURAS, PROOF OF THAT IS HOW THE STRONG SURVIVE, THOSE WHO HAVE BEEN LIVING IN THE CAPITAL FOR GENERATIONS, YOU BARELY FEEL HIS INFLUENCE NOW DON'T YOU? HE'S BEEN HELPING US BECOME STRONGER FOR GENERATIONS WITHOUT US EVEN KNOWING, ISN'T HE A GREAT BROTHER?!"</p>
+<p class="speech-line">"OUR TOURNAMENT GATHERED THE STRONGEST WENGARI AND IN DOING SO, WE WOKE OUR LONG LOST BROTHER! HE CALLS HIMSELF THE GOLDEN SUN!!! AND HE LIVES SOMEWHERE BELOW THE DESERT, LIKE US HE'S THE STRONGEST IN THE DESERT BUT HE'S BEEN WEAKENED BY EONS SLEEPING BELOW, THE WITHERING SICKNESS IS HIS DOING! BUT NOT HIS FAULT, WHEN HE FELL ASLEEP HIS BODY NATURALLY TRIED TO RECOVER BY ABSORBING THE AURA ABOVE, HE DIDN'T KNEW WE WERE ALIVE, ALL HE FELT WERE AURAS, PROOF OF THAT IS HOW THE STRONG SURVIVE, THOSE WHO HAVE BEEN LIVING IN THE CAPITAL FOR GENERATIONS, YOU BARELY FEEL HIS INFLUENCE NOW DON'T YOU? HE'S BEEN HELPING US BECOME STRONGER FOR GENERATIONS WITHOUT US EVEN KNOWING, ISN'T HE A GREAT BROTHER?!"</p>
 </div>
 
 <div class="dialogue-block">
@@ -1242,8 +1272,10 @@ The Bright Paw priests near the front of the crowd were already conferring among
 <p class="speech-line">The crowd roared. Not the controlled roar of the tournament, but something rawer, more fervent. The word "pilgrimage" was already spreading through the plaza like fire through dry grass. The lie was becoming truth. The myth was being born. And below the plaza, in the ancient darkness, the lord of the desert felt the surge of belief ripple through the stone and smiled its slow, patient, hungry smile.</p>
 </div>
 
+*Now, old thing, don't let me down. Noon is almost here.*
+
 <div class="dialogue-block">
-<p class="speech-line">'now old thing don't let me down, noon is almost here' - "I'M NOT SURE IF IT'S REAL, IT WAS A DREAM, BUT IN THE DREAM I SAW MYSELF AS YOU SEE ME NOW, IN THE PLAZA AND JUST AS THE SUN WAS HIGHEST IN THE SKY, OUR BROTHER MADE HIMSELF KNOWN!"</p>
+<p class="speech-line">"I'M NOT SURE IF IT'S REAL, IT WAS A DREAM, BUT IN THE DREAM I SAW MYSELF AS YOU SEE ME NOW, IN THE PLAZA, AND JUST AS THE SUN WAS HIGHEST IN THE SKY, OUR BROTHER MADE HIMSELF KNOWN!"</p>
 </div>
 
 The noon sun hung directly overhead, a perfect golden disk in a sky bleached pale by the Steadfast's unblinking gaze. The shadows had vanished. Every creature in the plaza stood in the full, uncompromising light of midday, and the heat pressed down on the crowd like a physical weight. Ajani's words still echoed in the silence: 'I saw myself as you see me now, in the plaza, and just as the sun was highest in the sky, our brother made himself known.'
@@ -1285,7 +1317,11 @@ But the crowd had seen it. Every Wengari in the plaza had witnessed something—
 
 
 <div class="dialogue-block">
-<p class="speech-line">'breathe, slowly, it went well, I thought I was going to get skewered here, he barely made it in time, stupid old thing' - "HE ALSO SHOWED ME HE WILL HELP OUR FRIENDS THE PYRINAE HE ALSO WANTS TO MAKE THEM STRONG, HE SHOWED ME A VISION, FIVE CITIES LIGHTING UP, FLOURISHING, I THINK IT MEANS HE WILL REACH TO THEM AS HE DID TO US, HE WANTS TO MAKE US STRONG, HE WANTS THE WENGARI TO BE THE RULERS OF ETHRA!!, BROTHERS, I WILL BE THE FIRST TO TAKE THE PILGRIMAGE, ONCE HE SHOWS ME THE WAY, I WILL WALK IT AND IF I SURVIVE, I'LL MAKE A TEMPLE THERE, SO YOU ALL KNOW WHERE TO GO, HE SHOWED ME A LAST VISION, IN MY DREAM I SAW AN OLD ROUGH WENGARI, HE SAW A LIGHT, HE KNEW, HE HAD BEEN CHOSEN, HE WALKED THE PATH, AND WHEN HE RETURNED, HE WON THE TOURNAMENT, HE WON THE CROWN!"</p>
+*Breathe. Slowly. It went well. I thought I was going to get skewered here. He barely made it in time. Stupid old thing.*
+
+<div class="dialogue-block">
+<p class="speech-line">"HE ALSO SHOWED ME HE WILL HELP OUR FRIENDS THE PYRINAE. HE ALSO WANTS TO MAKE THEM STRONG. HE SHOWED ME A VISION: FIVE CITIES LIGHTING UP, FLOURISHING. I THINK IT MEANS HE WILL REACH TO THEM AS HE DID TO US. HE WANTS TO MAKE US STRONG. HE WANTS THE WENGARI TO BE THE RULERS OF ETHRA! BROTHERS, I WILL BE THE FIRST TO TAKE THE PILGRIMAGE. ONCE HE SHOWS ME THE WAY, I WILL WALK IT, AND IF I SURVIVE, I'LL MAKE A TEMPLE THERE, SO YOU ALL KNOW WHERE TO GO. HE SHOWED ME A LAST VISION: IN MY DREAM I SAW AN OLD ROUGH WENGARI. HE SAW A LIGHT. HE KNEW. HE HAD BEEN CHOSEN. HE WALKED THE PATH, AND WHEN HE RETURNED, HE WON THE TOURNAMENT. HE WON THE CROWN!"</p>
+</div>
 </div>
 
 The plaza erupted. Not in the controlled roar of a tournament crowd, not in the thoughtful murmur of people parsing a vision, but in something rawer, something deeper. The Wengari were a people who understood strength. They understood tests. They understood that the strong survived and the weak perished and the desert did not apologize for either outcome. And now their king—their young, brilliant, infuriating king—had just told them that the Golden Sun, the ancient brother who had been shaping them for generations without their knowledge, would personally choose pilgrims to walk a sacred path.
@@ -1317,7 +1353,11 @@ The White Dawn had promised a self-sustaining feast. The White Dawn was deliveri
 And the White Dawn, standing on his stone platform with the green fire flickering gently along his claws, allowed himself the faintest, most private of smiles. The old thing had come through. The Golden Sun was real now.
 
 <div class="dialogue-block">
-<p class="speech-line">'good, now all of them will walk it, this is so tiring.. I need a bath' - "BROTHERS, I'LL RETIRE NOW, BUT BEFORE I LEAVE, I HAVE A LAST PIECE OF ADVICE, THE DESERT SUN JUST AS UNFORGIVING AS OUR BROTHER, IF YOU ARE CHOSEN, DON'T TAKE IT LIGHTLY IF YOU FALL, YOU'LL HAVE NO ONE TO BLAME BUT YOURSELVES"</p>
+*Good. Now all of them will walk it. This is so tiring... I need a bath.*
+
+<div class="dialogue-block">
+<p class="speech-line">"BROTHERS, I'LL RETIRE NOW, BUT BEFORE I LEAVE, I HAVE A LAST PIECE OF ADVICE: THE DESERT SUN JUST AS UNFORGIVING AS OUR BROTHER. IF YOU ARE CHOSEN, DON'T TAKE IT LIGHTLY. IF YOU FALL, YOU'LL HAVE NO ONE TO BLAME BUT YOURSELVES."</p>
+</div>
 </div>
 
 The crowd's roar followed Ajani as he stepped down from the stone platform, but it was a different roar than before. It was not the frenzied excitement of the tournament or the fervent wonder of the Golden Sun's display. It was something deeper, something that would linger long after the plaza had emptied. It was the sound of a people who had just been given a purpose.
@@ -1660,8 +1700,10 @@ She raised her paw and drew a single claw across her palm. The cut was quick, ef
 <span class="speech">"Kira Brightmane,"</span> the cub said, testing the name on her tongue. It sounded strange. It sounded new. It sounded like something she had never dared to hope for. <span class="speech">"That's going to take some getting used to."</span> She looked up at Ajani, and the faintest, most uncertain of smiles flickered at the corner of her mouth. <span class="speech">"Does this mean I get to learn the saber now?"</span>
 </div>
 
+*Cheeky little...*
+
 <div class="dialogue-block">
-<p class="speech-line">'cheeky little...' - "No it means you learn to be a princess and stay endless hours cooped in the palace me hahaha!!!, SERA, take her, bathe her, feed her, get Sylva to hire the best teachers for her, you thought the market was hard, just wait..."</p>
+<p class="speech-line">"No, it means you learn to be a princess and stay endless hours cooped in the palace, me hahaha! Sera, take her, bathe her, feed her. Get Sylva to hire the best teachers for her. You thought the market was hard, just wait..."</p>
 </div>
 
 Sera inclined her head, the faintest ghost of something that might once have been a smile flickering across her ruined face. She had served the Shadow Paws for decades, had trained assassins and guarded kings, had fought in the tournament and nearly defeated her own master. She had never been asked to bathe and feed a street cub. She found that she did not mind.
@@ -2146,7 +2188,7 @@ Kira stared. She had never seen her brother like this. Not in the training arena
 Vasha made a small, noncommittal sound that might have been agreement or might have been disapproval. It was impossible to tell with Vasha.
 
 <div class="dialogue-block">
-<p class="speech-line">Zara stepped forward, her massive frame moving with the easy confidence of a chief who had trained champions for forty years. "The Stripe Paws offer this gift. Not as tribute. Not as politics. As family. Your mother was one of us. You rode with our caravans for three years. Ember is yours. She has always been yours. We are only returning what was already given."</p>
+<p class="speech-line">Zara spoke the words again — the same words she had spoken at the first gift-giving, and this time they were not formality but blessing. "Ember is yours. She has always been yours. We are only returning what was already given."</p>
 </div>
 
 <div class="dialogue-block">
@@ -2341,9 +2383,7 @@ Ajani did not notice. He was still turning the pages of the grimoire, watching t
 
 The grimoire pulsed faintly in Ajani's paws, its leather cover warm from the afternoon sun. He turned another page, watching the silver figure flow through the forms of Flowing Water, and his mind was already racing ahead of the moment. A book that could hold sorcery formulas. A book that could animate any sequence. A book that could translate any language the Motted Paws had encountered.
 
-<div class="thought-block">
-'Perhaps it will work...'
-</div>
+*Perhaps it will work...*
 
 He drew one of the rune-glass daggers from his belt—the one Kira had slotted into the right loop—and pressed the tip carefully against a blank page. The grimoire accepted the blade without resistance, the paper yielding like soft earth. He began to write. Air. Water. Speed. The runic formulas flowed from his claws in the precise, elegant script L'vat had drilled into him during those long months in the marshes.
 
@@ -2414,9 +2454,7 @@ The words came out wrong. He could hear them as soon as he spoke—too fast, too
 
 The silence that followed was different from the silence that had greeted the Motted Paw grimoire or the Pyrinae spear. That silence had been wonder. This silence was confusion. The Stripe Paws, who had watched Ajani negotiate with the lord of the desert and face down a Motted Paw champion in single combat, exchanged glances. The Shadow Paws, who had guarded him for months and seen him kill a Humman with a flick of his wrist, stared at their king with open bewilderment.
 
-<div class="thought-block">
-'Please, please not one of those foul creatures please.'
-</div>
+*Please, please, not one of those foul creatures, please.*
 
 Seris did not know what to say. She had prepared for refusal. She had prepared for anger. She had not prepared for the White Dawn, the heir of the Lightbringer, the king who had humiliated her three times and killed her merchant without a second thought, to stand before her stammering like a cub caught stealing from the kitchens. The egg pulsed in her arms. The creature inside was stirring, its iridescent shell shimmering with the first faint light of awakening.
 
@@ -2510,9 +2548,7 @@ Every instinct screamed at him to run, to shake them off, to summon the green fi
 
 It was not a threatening vibration. It was not the warning rattle of a scorpion preparing to strike. It was something softer, something almost musical—a low, rhythmic thrumming that resonated through his fur and into his bones. If scorpions could purr, they would purr like this.
 
-<div class="thought-block">
-'Oh. This isn't so bad. You're not like the large gross ones. You're actually... kind of cute.'
-</div>
+*Oh. This isn't so bad. You're not like the large gross ones. You're actually... kind of cute.*
 
 Slowly, very slowly, Ajani began to move. He raised one paw and brought it gently toward the black scorpion investigating his mane. The creature's antennae lifted, tracking the movement, and then it pressed its small, dark head against his fingers with the unmistakable demand of a creature that had imprinted on him and was now absolutely certain he was its mother.
 

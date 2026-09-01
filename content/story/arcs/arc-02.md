@@ -1,14 +1,14 @@
 # Chapter 2: The Council of the Families
 
-*22,067 words across 6 chapters*
+*22,054 words across 6 chapters*
 
 ### The Summons
 
-'what day is it?, who's he?... a the priest!, T'van', "Raise your head T'van, Ajani please, when you say my king I look behind my back for my father, I'll answer what I can and what I know, announce m...
+*What day is it? Who's he?... Ah, the priest! T'van.*...
 
 ### The Confession
 
-'well it's not as bad as I thought, no one is dead yet', "you misunderstand something my brothers, first of all the lord of the desert does not take our weak, they die by their own hand, it is known o...
+"You misunderstand something, my brothers. First of all, the lord of the desert does not take our weak — they die by their own hand. It is known only the strong survive here; it's even coded into our ...
 
 ### The Shadow Paw
 

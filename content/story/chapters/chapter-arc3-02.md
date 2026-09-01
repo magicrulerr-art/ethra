@@ -216,8 +216,10 @@ The younger maid, emboldened by Mara's calm, stepped forward with a brush. <span
 Mara shot her a look that could have melted stone. The younger maid's ears flattened, but she did not take back the words. And somewhere behind the chaos of the morning, Ajani could have sworn he heard the faint, distant sound of laughter echoing through the palace corridors. Whether it was the maids, or T'van, or the ghost of his father watching from somewhere beyond the veil, he could not tell. But it was there. And it was not unkind.
 
 
+*Forty minutes?! That’s not enough!*
+
 <div class="dialogue-block">
-<p class="speech-line">'forty minutes ?! That's not enough!!!' - "send for the royal armor, I'll skip breakfast...and bath, perhaps just some fruit, I need clothes, quick, WHY DID NO ONE WAKE ME?!!"</p>
+<p class="speech-line">"Send for the royal armor. I’ll skip breakfast... and bath. Perhaps just some fruit. I need clothes, quick! WHY DID NO ONE WAKE ME?!"</p>
 </div>
 
 
@@ -306,8 +308,10 @@ And at the center of the arena, the Five Families had assembled, each clan's war
 Ajani climbed the dais, his breath still short from the run, his mane barely tamed, the piece of dried fig now hopelessly crushed in his paw. He sat on his father's throne. He looked out at the gathered Wengari. And he smiled. The tournament was about to begin.
 
 
+*Ok. Breathe and...*
+
 <div class="dialogue-block">
-<p class="speech-line">'ok, breathe and ...', "BROTHERS!! FRIENDS!! WELCOME, SURELY YOU ALL KNOW OF THE GREAT PROJECT, THE GLORIOUS ROAD TO UNITE THE WORLD, HOWEVER A KING CAN'T BE IN TWO PLACES AT ONCE, OUR PEOPLE NEED A REGENT, SOMEONE STRONG, SOMEONE LOYAL, SOMEONE WHO CAN BE WHAT THE WENGARI NEED, AND TELL ME BROTHERS WHAT DO WENGARI VALUE ABOVE ALL ELSE ?!"</p>
+<p class="speech-line">"BROTHERS! FRIENDS! WELCOME! SURELY YOU ALL KNOW OF THE GREAT PROJECT, THE GLORIOUS ROAD TO UNITE THE WORLD. HOWEVER, A KING CAN’T BE IN TWO PLACES AT ONCE. OUR PEOPLE NEED A REGENT: SOMEONE STRONG, SOMEONE LOYAL, SOMEONE WHO CAN BE WHAT THE WENGARI NEED. AND TELL ME, BROTHERS, WHAT DO WENGARI VALUE ABOVE ALL ELSE?!"</p>
 </div>
 
 

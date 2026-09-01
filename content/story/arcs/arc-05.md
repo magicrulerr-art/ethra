@@ -1,18 +1,18 @@
 # Chapter 5: The Great War
 
-*39,498 words across 22 chapters*
+*39,488 words across 22 chapters*
 
 ### 05:25 — Vasha Storms In
 
 The first ray of sunlight touched the sand before the northern gate, and the war drums began....
 
-### 06:55 — Sera Holds The Gate
+### 06:25 — Sera Holds The Gate
 
 Sera stood at the gate, her ruined face impassive, her lacquered claws dripping with the blood of the second vanguard. Around her, the elite unit was still breathing hard, their dark pelts matted with...
 
-### 06:25 — The War Room Still Watches
+### 06:55 — The War Room Still Watches
 
-It was 6:25 in the morning, the seventh day of the Month of Storms, and the war room was thick with exhaustion and fear. Sylva stood at the head of the granite table, her silver-chased ceremonial armo...
+It was 6:55 in the morning, the seventh day of the Month of Storms, and the war room was thick with exhaustion and fear. Sylva stood at the head of the granite table, her silver-chased ceremonial armo...
 
 ### 07:55 — The Dome Shimmers
 
@@ -86,7 +86,7 @@ Then it opened its maw and fired....
 
 Ajani hung in the sky, the golden Styx still perched on his right shoulder with its talons buried deep, the fire serpent coiled around his right arm, the ice ring still tight around his neck. His fur ...
 
-### 12:06 — The White Dawn Wakes
+### 12:06 — The Golden Cage
 
 "Golden Spirit from the deep, the one who guards the gate, keeper of riches untold, this humble sorcerer beseeches you—take from me and answer my plea. Be made manifest and answer my plea. I call to t...
 

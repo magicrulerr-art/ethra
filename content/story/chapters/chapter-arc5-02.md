@@ -1,6 +1,6 @@
-## Chapter 2: 06:55 — Sera Holds The Gate
+## Chapter 2: 06:25 — Sera Holds The Gate
 
-At 6:55, Sera held the gate.
+At 6:25, Sera held the gate.
 
 Sera stood at the gate, her ruined face impassive, her lacquered claws dripping with the blood of the second vanguard. Around her, the elite unit was still breathing hard, their dark pelts matted with sweat and sand and the ichor of scorpions. Four of them were wounded—one grievously, her arm hanging limp—but all twenty still stood. They had held. They had won.
 
@@ -8,7 +8,7 @@ And then she saw the third wave.
 
 Four hundred scorpion riders. The entire remaining vanguard of the Humman army, stretching across the horizon in a sea of iridescent shells and gleaming claws. Behind them, the Amuks were forming a line, their great tusked forms swaying in unison, their eight-legged strides eating up the distance between the desert and the gate. The Tide Wolf cavalry was circling to the east, fifty massive wolves with riders in striped armor, waiting for the moment when the gate would fall and the slaughter would begin.
 
-'We can't win against four hundred. We barely survived fifty.'
+*We can't win against four hundred. We barely survived fifty.*
 
 The thought was cold and clear and utterly without panic. Sera had been an assassin for decades. She had learned to count enemies before she learned to read. She knew when a battle was winnable and when it was not. This battle was not winnable. Not with twenty warriors. Not with the cannons still recharging. Not with the hawks and the killer claws already spent.
 
@@ -52,7 +52,7 @@ Sera stood at the gate, her lacquered claws still dripping, her ruined face lit 
 <p class="speech-line">But she was a Shadow Paw. She had been trained to hold impossible positions. She raised her claws and shouted, her voice carrying across the chaos, "ELITE UNIT! TO THE BREACH! WE HOLD THE GATE OR WE DIE AT THE GATE! THERE IS NO RETREAT!"</p>
 </div>
 
-The elite unit formed up behind her. Twenty warriors against three hundred and fifty. The wall was burning. The gate was cracking. And it was 6:55 in the morning, the seventh day of the Month of Storms, in the first year of the reign of Ajani Brightmane, first of his name. The White Dawn lay unconscious in his chambers, the golden armor still pulsing faintly over his chest. And the great war was about to be lost.
+The elite unit formed up behind her. Twenty warriors against three hundred and fifty. The wall was burning. The gate was cracking. And it was 6:25 in the morning, the seventh day of the Month of Storms, in the first year of the reign of Ajani Brightmane, first of his name. The White Dawn lay unconscious in his chambers, the golden armor still pulsing faintly over his chest. And the great war was about to be lost.
 
 The eastern garrison was three hundred leagues from the capital, a sprawling fortress of sandstone and rune-glass that guarded the border against the Fire Beetles. It was manned by Bright Paws—the royal family's soldiers, stationed far from the comforts of the capital, their golden manes bleached pale by the desert sun. They had not seen a war in decades. They had not seen their king since his coronation.
 

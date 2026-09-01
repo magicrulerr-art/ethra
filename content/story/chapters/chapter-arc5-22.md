@@ -1,4 +1,4 @@
-## Chapter 22: 12:06 — The White Dawn Wakes
+## Chapter 22: 12:06 — The Golden Cage
 
 <div class="dialogue-block">
 <p class="speech-line">"Golden Spirit from the deep, the one who guards the gate, keeper of riches untold, this humble sorcerer beseeches you—take from me and answer my plea. Be made manifest and answer my plea. I call to thee—AURUM!"</p>
@@ -38,7 +38,7 @@ Ajani stared at the sixth page. The runes were already forming—golden, green, 
 
 The Styx talons still buried in his shoulder. Blood dripped from his nose and now from his mouth as well, a thin trickle of red that splashed against the breastplate.
 
-'This is it. I barely have ten seconds, I think. I hope it's enough.'
+*This is it. I barely have ten seconds, I think. I hope it's enough.*
 
 He began to write. The grimoire's pages had never resisted him before, but this one seemed to push back, as if the words he was inscribing were too large for the paper to contain. The runes spiraled faster. He coughed blood onto the page, and the blood sizzled and burned with golden light.
 

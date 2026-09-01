@@ -122,7 +122,7 @@ Ajani exhaled slowly. The road would have to wait. The world had come to the des
 
 
 <div class="dialogue-block">
-<p class="speech-line">"Summon the elders. Assemble the delegations in the Hall of the Sun. Tell them the king will speak."</p>
+<p class="speech-line">"Summon the elders. Assemble the delegations in the arena. Tell them the king will speak."</p>
 </div>
 
 
@@ -144,8 +144,10 @@ The young priest shook his head, a faint, bewildered smile crossing his weary fa
 And then he was gone, his hurried footsteps echoing down the corridor as he carried the king's message to the gathered powers of Ethra.
 
 
+*A Quick — not L'vat. The travel must have taken a toll on him. Let's not make him wait.*
+
 <div class="dialogue-block">
-<p class="speech-line">'a Quick, not L'vat. The travel must have taken a toll on him. Let's not make him wait' — "Brother, this Ajani, friend of the marsh, disciple of L'vat, salutes you"</p>
+<p class="speech-line">"Brother, this Ajani, friend of the marsh, disciple of L'vat, salutes you."</p>
 </div>
 
 
@@ -162,7 +164,13 @@ At Ajani's approach, the Quick's head snapped up. Its eyes caught the green fire
 </div>
 
 
-'of course he'll collect...the old bastard' — "brother, please rest, I'll have a pool drawn for you, thank you for coming in such haste, let me share some of my energy with you" — 'just a flicker, focus on the connection, don't overwhelm him'
+*Of course he'll collect... the old bastard.*
+
+<div class="dialogue-block">
+<p class="speech-line">"Brother, please rest. I'll have a pool drawn for you. Thank you for coming in such haste. Let me share some of my energy with you."</p>
+</div>
+
+*Just a flicker. Focus on the connection — don't overwhelm him.*
 
 
 The Quick flinched as Ajani reached out—an instinctive recoil, the reflex of a creature that had spent twenty-eight days alone in a world that would happily kill it. But when the king's paw touched its chitin, gentle as falling leaves, the Threx stilled.
@@ -207,9 +215,13 @@ Ajani settled onto the throne. The cold stone was familiar now—it had been a m
 </div>
 
 
+*Well, let's see how they face a king. Let them kneel.*
+
 <div class="dialogue-block">
-<p class="speech-line">'well, let's see how they face a king, let them kneel' — "Is it not customary to kneel before your king, brother?" — 'flare the aura, let them feel the heat of the desert sun, until they kneel'</p>
+<p class="speech-line">"Is it not customary to kneel before your king, brother?"</p>
 </div>
+
+*Flare the aura. Let them feel the heat of the desert sun, until they kneel.*
 
 
 The Humman delegation stepped into the arena, and the weight of the desert sun fell upon them like a hammer.
@@ -233,9 +245,13 @@ The Stripe Paw's striped mane rippled in the oppressive heat, her claws half-ext
 The merchant who had fallen first let out a strangled whimper. Seris, still on her knees, closed her eyes as if praying. And the Stripe Paw mercenary waited for the king's answer.
 
 
+*'The absolute insolence!'*
+
 <div class="dialogue-block">
-<p class="speech-line">'the absolute insolence!' — "I AM AJANI, KEEPER OF THE LIGHT, HEIR TO THE FIRST AND THE THIRD, I AM THE DESERT SUN AND YOU WILL KNEEL TO YOUR KING!!!!!" — 'now, what did father always do? Ah yes the spear vault, that's too showy, let's go with L'vat's way...careful...careful and pull!'</p>
+<p class="speech-line">"I AM AJANI, KEEPER OF THE LIGHT, HEIR TO THE FIRST AND THE THIRD, I AM THE DESERT SUN AND YOU WILL KNEEL TO YOUR KING!"</p>
 </div>
+
+*Now, what did father always do? Ah yes — the spear vault. That's too showy. Let's go with L'vat's way... careful... careful and pull!*
 
 
 The Stripe Paw mercenary braced for fire. She had seen the coronation. Everyone had seen the coronation—the Four Pillars blazing green and gold, the Styx bowing, the Lament singing. She knew what the White Dawn could do. She expected the spear. She expected the flame. She expected to be overwhelmed, incinerated, reduced to ash and memory by a king who would not tolerate defiance.
@@ -266,9 +282,13 @@ The Humman merchants, still on their knees, stared at their champion with dawnin
 And the king, still seated on his throne, his claws resting on the cold stone, met her eyes and did not answer.
 
 
+*Good.*
+
 <div class="dialogue-block">
-<p class="speech-line">'good' — "Guards, please remove our sister, she's feeling ill, as for the Humman, the ambassador can stay, the others do so at their own peril" — 'and just a little touch of eye flare, father always said that gave the Hummans the creeps'</p>
+<p class="speech-line">"Guards, please remove our sister, she’s feeling ill. As for the Humman, the ambassador can stay, the others do so at their own peril."</p>
 </div>
+
+*And just a little touch of eye flare — father always said that gave the Hummans the creeps.*
 
 
 The guards moved quickly. Two Bright Paws in ceremonial armor stepped forward and lifted the Stripe Paw mercenary by her arms, not ungently, as if handling a wounded comrade rather than a defiant challenger. She did not resist. Her legs still trembled, her eyes still wide with that uncomprehending shock.

@@ -306,7 +306,7 @@ Kira stared. She had never seen her brother like this. Not in the training arena
 Vasha made a small, noncommittal sound that might have been agreement or might have been disapproval. It was impossible to tell with Vasha.
 
 <div class="dialogue-block">
-<p class="speech-line">Zara stepped forward, her massive frame moving with the easy confidence of a chief who had trained champions for forty years. "The Stripe Paws offer this gift. Not as tribute. Not as politics. As family. Your mother was one of us. You rode with our caravans for three years. Ember is yours. She has always been yours. We are only returning what was already given."</p>
+<p class="speech-line">Zara spoke the words again — the same words she had spoken at the first gift-giving, and this time they were not formality but blessing. "Ember is yours. She has always been yours. We are only returning what was already given."</p>
 </div>
 
 <div class="dialogue-block">
@@ -501,9 +501,7 @@ Ajani did not notice. He was still turning the pages of the grimoire, watching t
 
 The grimoire pulsed faintly in Ajani's paws, its leather cover warm from the afternoon sun. He turned another page, watching the silver figure flow through the forms of Flowing Water, and his mind was already racing ahead of the moment. A book that could hold sorcery formulas. A book that could animate any sequence. A book that could translate any language the Motted Paws had encountered.
 
-<div class="thought-block">
-'Perhaps it will work...'
-</div>
+*Perhaps it will work...*
 
 He drew one of the rune-glass daggers from his belt—the one Kira had slotted into the right loop—and pressed the tip carefully against a blank page. The grimoire accepted the blade without resistance, the paper yielding like soft earth. He began to write. Air. Water. Speed. The runic formulas flowed from his claws in the precise, elegant script L'vat had drilled into him during those long months in the marshes.
 

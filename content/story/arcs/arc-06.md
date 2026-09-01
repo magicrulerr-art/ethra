@@ -1,6 +1,6 @@
 ## Chapter 1: The Cost
 
-*67,580 words across 5 chapters*
+*66,477 words across 5 chapters*
 
 ### The Cost
 
@@ -8,17 +8,17 @@ The throne room was not a throne room anymore. It was a hospital ward, a war cou
 
 ### Rebuilding
 
-She paused. Her silver aura flickered once....
+Elyra was silent for a moment, her silver aura flickering gently. Then she spoke. "The Hummans are merchants. They understand debt. They understand leverage. They understand that a contract signed und...
 
 ### The Vision
 
-Sylva stepped forward, her ancient voice measured. "The regent accepts the oversight responsibility. I will review all requests for detainment. If there is a credible threat, I will approve. If there ...
+A third claw. "Third, legal authority. The office must be able to intercept correspondence, monitor foreign delegations, and detain suspected spies without public trial. This will be controversial. Th...
 
 ### The Road Begins
 
-The gates were not bronze but ice, enchanted to never melt, their surface etched with the history of the family that had fled the Black Fire five thousand years ago and survived....
+"Hard as ice. Quick as wind. You are being hard, but you are not being quick. You commit to each strike before you see my response. You must watch. You must wait. The ice does not attack the mountain....
 
 ### Epilogue
 
-Nikolai threw back his head and laughed—a great, booming roar of delight that echoed across the desert and bounced off the golden walls of Styxian. "He is everything you said, Cefiro! Everything! The ...
+Nikolai switched to a wide sweep, the halberd's blade cutting a glittering arc through the morning air. Ajani jumped, the halberd passing beneath him, and the Tsar's stern face split in a fierce grin....
 

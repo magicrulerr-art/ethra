@@ -88,8 +88,10 @@ Ajani sat on the throne at the far end of the hall, the white cloak of his fathe
 <p class="speech-line">Ajani allowed himself a faint twitch of his whiskers. "The Pyrinae first. They've earned it. Send them in."</p>
 </div>
 
+*Let's see what they want now.*
+
 <div class="dialogue-block">
-<p class="speech-line">'let's see what they want now' - "Friends! I Ajani first of my name, protector of the realm, heir to the light, disciple of the deep, king of the wengari of the desert and the belt, the white dawn salute you, tell me, what can this king do for you ?"</p>
+<p class="speech-line">"Friends! I, Ajani, first of my name, protector of the realm, heir to the light, disciple of the deep, king of the Wengari of the desert and the belt, the White Dawn, salute you. Tell me, what can this king do for you?"</p>
 </div>
 
 Nefere entered the Great Hall with the slow, deliberate grace of someone who had walked these floors when Ajani's grandfather sat on the throne. Her embedded rune-glass filaments pulsed with soft amber light, and her clouded eyes swept across the golden mosaics with the quiet familiarity of an old friend returning to a well-remembered home. Behind her walked Mira, the sharp-eyed Sun-Walker envoy, and the silent, cowled figure of the Root-Speaker.
@@ -107,8 +109,10 @@ She paused, her clouded eyes meeting Ajani's. <span class="speech">"The lord of 
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">"the crown has no say in the internal family disputes, the stripe paws have their own needs, you will have to deal with them as friends, freedom comes at a cost Nefere" <span class="speech-attr">- 'I am not being dragged to that stink bugs nest !!'</span></p>
+<p class="speech-line">"The crown has no say in the internal family disputes. The Stripe Paws have their own needs. You will have to deal with them as friends. Freedom comes at a cost, Nefere."</p>
 </div>
+
+*I am not being dragged to that stink bugs' nest!*
 
 Nefere's ancient eyes crinkled at the corners. The faintest smile crossed her weathered face—not the smile of a diplomat who had been outmaneuvered, but the smile of an elder who had expected exactly this answer and was pleased to receive it.
 
@@ -129,8 +133,10 @@ The Root-Speaker, silent and cowled, raised one hand. The air in the Great Hall 
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">"Nefere how goes the task I asked of you ?" <span class="speech-attr">- 'I hope she's already spying on the Hummans'</span></p>
+<p class="speech-line">"Nefere, how goes the task I asked of you?"</p>
 </div>
+
+*I hope she's already spying on the Hummans.*
 
 Nefere paused mid-turn, her ancient frame silhouetted against the golden mosaics of the Great Hall. The faint smile that had crossed her face moments before deepened, and her clouded eyes glinted with something that might have been amusement or might have been the satisfaction of a task well begun.
 
@@ -151,8 +157,10 @@ Nefere inclined her head. <span class="speech">"I will have a full report delive
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">"Soon someone will notice your network, if they don't they weren't good enough but if they do, tell show them this" <span class="speech-attr">- 'What I've done, I've done for the future of Styxian and paw signature'</span></p>
+<p class="speech-line">"Soon someone will notice your network. If they don't, they weren't good enough. But if they do—show them this."</p>
 </div>
+
+*What I've done, I've done for the future of Styxian and paw signature.*
 
 Nefere accepted the parchment with her ancient, weathered paws, her clouded eyes moving across the signatures—the king's mark and hers, side by side. She understood immediately what she was holding. Not merely a document. A shield.
 
@@ -212,8 +220,10 @@ Sylva watched the two assassins glide away into the darkness beyond the amber li
 She adjusted her silver-chased pauldrons, the flowing water motifs catching the amber light. <span class="speech">"I will announce you. I will speak for you. If you are forced to speak, I will have failed. I understand my role."</span> She turned toward the great bronze doors, her soft voice carrying one final remark over her shoulder. <span class="speech">"Try not to smile with all your teeth. It ruins the effect."</span>
 </div>
 
+*I hate her so, so much.*
+
 <div class="dialogue-block">
-<p class="speech-line">'I hate her so, so much' - "T'van, send them in"</p>
+<p class="speech-line">"T'van, send them in."</p>
 </div>
 
 The great bronze doors swung open with a sound like the grinding of ancient bones, and the Humman delegation entered the Great Hall of the Sun. Ambassador Seris led them, her dark eyes forward, her shoulders squared, her diplomatic composure a mask that had held for thirty years and would not crack now, no matter what waited at the end of the amber-lit aisle.
@@ -240,7 +250,7 @@ But her daughter Lena, standing just behind her, flinched. The young scribe's da
 Ajani's voice, when it finally came, was quiet—almost conversational. <span class="speech">"No one fainted. Disappointing. I owe the Stripe Paws an apology. They would have made you faint."</span> His green-flecked eyes swept across the trembling merchants, the stone-faced ambassador, the wide-eyed scribe. <span class="speech">"Perhaps next time."</span>
 </div>
 
-'no one fainted...so disappointing, the stripe paws would have made them faint...., claw tap'
+*No one fainted... so disappointing. The Stripe Paws would have made them faint... Claw tap.*
 
 The claw tap continued. Slow. Rhythmic. Soft as a heartbeat, steady as the amber light pulsing through the rune-glass filaments in the floor. Ajani's green-flecked eyes swept across the trembling merchants, the stone-faced ambassador, the wide-eyed scribe. He did not speak. He did not need to. His thoughts were his own.
 
@@ -270,7 +280,7 @@ The claw tap continued its slow, steady rhythm against the armrest of the throne
 <p class="speech-line">Sylva's silver aura dimmed, then steadied. "You ask for much, Ambassador. Permanent trade stalls. Training for champions. Housing and protection for your guilds. A voice in the council. These are not small requests. What do you offer in return, beyond gratitude?"</p>
 </div>
 
-'this is so boring... I hope Sylva at least makes this quick'
+*This is so boring... I hope Sylva at least makes this quick.*
 
 The claw tap stopped.
 
@@ -292,10 +302,12 @@ She paused. The silence stretched.
 <p class="speech-line">She inclined her head toward Seris, a gesture that was not unkind but was utterly final. "The king will grant you a stall in the market. One stall. Your guilds will be housed in the district near the Pyrinae, as was already promised. Your champions may train in the schools, if the masters accept them. These are the terms. They are generous. Do not ask for more."</p>
 </div>
 
-'outrageous if she doesn't shut them down right now, I will '
+*Outrageous. If she doesn't shut them down right now, I will.*
+
+*She fumbled it!*
 
 <div class="dialogue-block">
-<p class="speech-line">'she fumbled it !' - "No she will get none, ambassador, you and your kin stood here no less than a month ago, and you could not take ten places and now all of your delegation waltzez in and stands ?, SHADOWS TO THEM, ON THEIR KNEES CHECK THEM FOR ARTIFACTS! GUARDS RESTRAIN THEM!!"</p>
+<p class="speech-line">"No, she will get none. Ambassador, you and your kin stood here no less than a month ago, and you could not take ten places. And now all of your delegation waltzes in and stands? SHADOWS TO THEM! ON THEIR KNEES! CHECK THEM FOR ARTIFACTS! GUARDS, RESTRAIN THEM!"</p>
 </div>
 
 The shadows moved before the echo of the king's voice died. Sera and her silent companion flowed out of the darkness behind the throne like oil spilling across water—silent, inexorable, terrifying. The Humman merchants had no time to react before lean dark paws seized them by the shoulders and forced them to their knees on the polished stone.
@@ -346,7 +358,7 @@ Sylva stood motionless beside the throne. Her silver aura had gone very still. S
 The king had known. And the regent, for all her centuries of patience, had missed it entirely.
 
 <div class="dialogue-block">
-<p class="speech-line">"YOU DARE COME TO ASK THE CROWN FOR FAVOR YET YOU TRY TO DECEIVE US?!, IS THAT HOW A BROTHER BEHAVES?! ANSWER ME AMBASSADOR!!!"</p>
+<p class="speech-line">"YOU DARE COME TO ASK THE CROWN FOR FAVOR YET YOU TRY TO DECEIVE US?! IS THAT HOW A BROTHER BEHAVES?! ANSWER ME, AMBASSADOR!!!"</p>
 </div>
 
 The roar echoed through the Great Hall like thunder rolling across the desert. The golden mosaics seemed to shiver in their settings. The amber light in the rune-glass filaments flared bright, then dimmed, as if the hall itself flinched from the king's fury.
@@ -362,8 +374,10 @@ Seris remained on her knees. Her diplomatic composure, that mask she had worn fo
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">"YOU SPEAK NOTHING BUT LIES, IN ONE BREATH YOU CLAIM NOT TO KNOW THE STONE EFFECTS THEN IN THE NEXT YOU SAY YOU USED IT TO STAND BEFORE ME WITH DIGNITY, EXPLAIN YOURSELF AND IT BETTER BE GOOD" <span class="speech-attr">- 'got you Humman'</span></p>
+<p class="speech-line">"YOU SPEAK NOTHING BUT LIES! IN ONE BREATH YOU CLAIM NOT TO KNOW THE STONE EFFECTS, THEN IN THE NEXT YOU SAY YOU USED IT TO STAND BEFORE ME WITH DIGNITY! EXPLAIN YOURSELF, AND IT BETTER BE GOOD!"</p>
 </div>
+
+*Got you, Humman.*
 
 Seris closed her eyes. The hairline fracture in her composure widened, and for a moment—just a moment—the ambassador was gone. In her place knelt a woman who had traded her daughter for her people's survival, who had scrambled to provide refreshments at a tournament she never expected, who had spent every day since the audiences maneuvering to keep her race alive in a city full of predators.
 
@@ -434,8 +448,10 @@ Sylva was silent for a long moment. The amber light from the rune-glass filament
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">"I see now I can't leave yet, you need training, inner court is a den of green deaths, you need to temper and still yourself from now on you must sit in all the ceremonies by my side, if you are to be regent you need to be like the sun, warm, unflinching, unyielding that is the language of our pride, and it's the only one the world will understand, go take a brief refreshment, then return we have to meet with the veylara and the thrax delegations, also for that Humman I expect you to mold her into a proper wengari see if you can at least make her not faint in front of us" <span class="speech-attr">- 'ahahahaha serves you right you obnoxious woman!!! At least I got one over you !!! , hahahaha '</span></p>
+<p class="speech-line">"I see now I can't leave yet. You need training. Inner court is a den of green deaths. You need to temper and still yourself. From now on, you must sit in all the ceremonies by my side. If you are to be regent, you need to be like the sun—warm, unflinching, unyielding. That is the language of our pride, and it's the only one the world will understand. Go take a brief refreshment, then return. We have to meet with the Veylar and the Thrax delegations. Also, for that Humman, I expect you to mold her into a proper Wengari. See if you can at least make her not faint in front of us."</p>
 </div>
+
+*Ahahahaha! Serves you right, you obnoxious woman! At least I got one over you!*
 
 Sylva absorbed the king's words in silence, her silver aura flickering gently in the amber light of the Great Hall. The king had rebuked her. The king had also promised to teach her. She had spent five thousand years in silence, watching the other families, studying their ways. She had never been taught. Not by a king. Not by anyone.
 

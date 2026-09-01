@@ -1,7 +1,7 @@
 ## Chapter 2: The Confession
 
 <div class="dialogue-block">
-<p class="speech-line">'well it's not as bad as I thought, no one is dead yet', "you misunderstand something my brothers, first of all the lord of the desert does not take our weak, they die by their own hand, it is known only the strong survive here, it's even coded into our lives, however cruel the lord of the desert has made us the strongest race on Ethra, who can best a Wengari in single combat?, what race hasn't felt our claws and fangs?, what race doesn't kill our cubs on sight out of fear?"</p>
+<p class="speech-line">"You misunderstand something, my brothers. First of all, the lord of the desert does not take our weak — they die by their own hand. It is known only the strong survive here; it's even coded into our lives. However cruel, the lord of the desert has made us the strongest race on Ethra. Who can best a Wengari in single combat? What race hasn't felt our claws and fangs? What race doesn't kill our cubs on sight out of fear?"</p>
 </div>
 
 
@@ -20,8 +20,10 @@ Nyasha, who had been silent since her last words, spoke again. <span class="spee
 </div>
 
 
+*Ok... so good, so far.*
+
 <div class="dialogue-block">
-<p class="speech-line">'ok... So good, so far', "I brought you here because the lord of the desert isn't the only one, while I was in the marsh I met the lord of the marsh, I trained under him, and he showed me exactly what the pact was, our weak did not start dying until the pact was broken, before the desert was a veritable oasis wasn't it? There are tales of our cities all over the desert, of Stripe Paw caravans that extended as far as the eye could see and of Shadow Paw assassins that shaped the world, of the Motted Paw shamans who could Commune with the Styx, the reason all that is gone is because we failed to upkeep the pact that the Lightbringer made with the lord of the desert... This flower here, it's how the Lord speaks, and it is also the reason why kings of the past have failed, I've brought you here so you can see for yourselves and if you so desire, speak against the pact or forge one of your own, my pact with the lord is my own, and it won't be a Wengari pact unless you all are part of it, elders and heirs"</p>
+<p class="speech-line">"I brought you here because the lord of the desert isn't the only one. While I was in the marsh I met the lord of the marsh. I trained under him, and he showed me exactly what the pact was. Our weak did not start dying until the pact was broken. Before, the desert was a veritable oasis, wasn't it? There are tales of our cities all over the desert, of Stripe Paw caravans that extended as far as the eye could see, and of Shadow Paw assassins that shaped the world, of the Motted Paw shamans who could commune with the Styx. The reason all that is gone is because we failed to upkeep the pact that the Lightbringer made with the lord of the desert... This flower here — it's how the Lord speaks, and it is also the reason why kings of the past have failed. I've brought you here so you can see for yourselves, and if you so desire, speak against the pact or forge one of your own. My pact with the lord is my own, and it won't be a Wengari pact unless you all are part of it — elders and heirs."</p>
 </div>
 
 
@@ -61,9 +63,13 @@ One by one, the other chiefs and heirs bent their heads. Zara, the Stripe Paw, h
 The amber pool rippled. The blossom stirred. The Tree was listening. And for the first time since the Lightbringer vanished, the Wengari were united—not under a Tyrant, not under a lie, but under a king who had given them the truth and asked them to choose.
 
 
+*Now... for the real test.*
+
 <div class="dialogue-block">
-<p class="speech-line">'now....for the real test', "the pact isn't with me, it's with the lord of the desert, and he must choose you and accept your offer, what you say it's between you and the lord, however I warn you, if your heart isn't steeled and your aura isn't strong you will perish, and each Wengari here must do so, both the elders and the heirs, for we will not break faith again", 'please, please, don't kill any of the old fools...'</p>
+<p class="speech-line">"The pact isn't with me, it's with the lord of the desert, and he must choose you and accept your offer. What you say, it's between you and the lord. However I warn you: if your heart isn't steeled and your aura isn't strong, you will perish, and each Wengari here must do so, both the elders and the heirs. For we will not break faith again."</p>
 </div>
+
+*Please, please, don't kill any of the old fools...*
 
 
 The words hung in the air like a blade poised to fall. The elders and heirs of the five families stood frozen, their eyes fixed on the pulsing blossom at the center of the chamber. The green luminescence of the Kyre Tree's roots cast their faces in sharp relief, and for a long, breathless moment, no one moved.
@@ -99,7 +105,7 @@ The old general moved with a speed that belied his centuries. His obsidian staff
 
 
 <div class="dialogue-block">
-<span class="speech">"You have spoken for the Motted Paws for three decades without saying a word,"</span> Kareth said, his rough voice echoing in the green-lit chamber. <span class="speech">"You have watched. You have waited. You have kept your counsel while the rest of us bickered and postured and forgot what we were."</span> He drew himself up to his full height, his dark mane bristling. <span class="speech">"The Shadow Paws have carried the shame of the First Tyrant for five thousand years. We have been the warning, the cautionary tale, the darkness whispered to cubs who misbehave. And I—I have buried three kings. I have watched the Bright Paws wither under the weight of a pact they did not understand. I have done nothing. Said nothing. Been nothing but a soldier following orders while our people faded."</span>
+<span class="speech">"You have spoken for the Motted Paws for three decades without saying a word,"</span> Kareth said, his rough voice echoing in the green-lit chamber. <span class="speech">"You have watched. You have waited. You have kept your counsel while the rest of us bickered and postured and forgot what we were."</span> He drew himself up to his full height, his dark mane bristling. <span class="speech">"The Shadow Paws have carried the shame of the First Tyrant for five thousand years. We have been the warning, the cautionary tale, the darkness whispered to cubs who misbehave. And I—I have buried two kings. I have watched the Bright Paws wither under the weight of a pact they did not understand. I have done nothing. Said nothing. Been nothing but a soldier following orders while our people faded."</span>
 </div>
 
 

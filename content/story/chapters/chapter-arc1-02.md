@@ -67,7 +67,7 @@ He closed his eyes.
 The chamber fell silent. The lamps held their breath. And far above, the Lament hummed on.
 
 
-'L'vat was right!!! We are a fraud! All my life I have believed our city was a marvel yet is nothing but a well-kept cage!!!'
+*L'vat was right! We are a fraud! All my life I have believed our city was a marvel, yet is nothing but a well-kept cage!*
 
 "Father... is this true? Are we nothing more than kept pets to a... thing that dwells below?"
 

@@ -1,4 +1,4 @@
-## Chapter 3
+## Chapter 3: A Cub's Play
 
 **A Cub's Play**
 

@@ -109,8 +109,10 @@ When T'van announced the king's summons, the chamber fell silent. Zara turned he
 The Stripe Paw elders filed out of the Hall of the Caravan Masters and into the darkened streets of the capital, their claws clicking against the stone, their silence heavier than any words. They would go to the king. They would hear his explanation. And then—depending on what they heard—they would decide whether the new pact was something they could still support, or something they would have to oppose.
 
 
+*They’re here. Good... why do they seem mad?*
+
 <div class="dialogue-block">
-<p class="speech-line">'they're here, good...why do they seem mad?' - "Brothers!, please come in we have much to discuss!"</p>
+<p class="speech-line">"Brothers! Please come in, we have much to discuss!"</p>
 </div>
 
 
@@ -133,8 +135,10 @@ Zara did not sit. She did not return the greeting. She walked into the center of
 </div>
 
 
+*Oh... so it’s that.*
+
 <div class="dialogue-block">
-<p class="speech-line">'oh .. so it's that ', "I see, tell me Zara, who rules the Wengari?"</p>
+<p class="speech-line">"I see. Tell me, Zara, who rules the Wengari?"</p>
 </div>
 
 
@@ -151,8 +155,10 @@ The old caravan master, Torek, stepped forward and placed a weathered paw on Zar
 </div>
 
 
+*So it’s pride.*
+
 <div class="dialogue-block">
-<p class="speech-line">'so it's pride', "I see you believe me to be a fool, have you perchance heard news about the Hummans as well or were your ears only attuned to the sound of coin?"</p>
+<p class="speech-line">"I see you believe me to be a fool. Have you perchance heard news about the Hummans as well, or were your ears only attuned to the sound of coin?"</p>
 </div>
 
 
@@ -665,8 +671,10 @@ The younger maid, emboldened by Mara's calm, stepped forward with a brush. <span
 Mara shot her a look that could have melted stone. The younger maid's ears flattened, but she did not take back the words. And somewhere behind the chaos of the morning, Ajani could have sworn he heard the faint, distant sound of laughter echoing through the palace corridors. Whether it was the maids, or T'van, or the ghost of his father watching from somewhere beyond the veil, he could not tell. But it was there. And it was not unkind.
 
 
+*Forty minutes?! That’s not enough!*
+
 <div class="dialogue-block">
-<p class="speech-line">'forty minutes ?! That's not enough!!!' - "send for the royal armor, I'll skip breakfast...and bath, perhaps just some fruit, I need clothes, quick, WHY DID NO ONE WAKE ME?!!"</p>
+<p class="speech-line">"Send for the royal armor. I’ll skip breakfast... and bath. Perhaps just some fruit. I need clothes, quick! WHY DID NO ONE WAKE ME?!"</p>
 </div>
 
 
@@ -755,8 +763,10 @@ And at the center of the arena, the Five Families had assembled, each clan's war
 Ajani climbed the dais, his breath still short from the run, his mane barely tamed, the piece of dried fig now hopelessly crushed in his paw. He sat on his father's throne. He looked out at the gathered Wengari. And he smiled. The tournament was about to begin.
 
 
+*Ok. Breathe and...*
+
 <div class="dialogue-block">
-<p class="speech-line">'ok, breathe and ...', "BROTHERS!! FRIENDS!! WELCOME, SURELY YOU ALL KNOW OF THE GREAT PROJECT, THE GLORIOUS ROAD TO UNITE THE WORLD, HOWEVER A KING CAN'T BE IN TWO PLACES AT ONCE, OUR PEOPLE NEED A REGENT, SOMEONE STRONG, SOMEONE LOYAL, SOMEONE WHO CAN BE WHAT THE WENGARI NEED, AND TELL ME BROTHERS WHAT DO WENGARI VALUE ABOVE ALL ELSE ?!"</p>
+<p class="speech-line">"BROTHERS! FRIENDS! WELCOME! SURELY YOU ALL KNOW OF THE GREAT PROJECT, THE GLORIOUS ROAD TO UNITE THE WORLD. HOWEVER, A KING CAN’T BE IN TWO PLACES AT ONCE. OUR PEOPLE NEED A REGENT: SOMEONE STRONG, SOMEONE LOYAL, SOMEONE WHO CAN BE WHAT THE WENGARI NEED. AND TELL ME, BROTHERS, WHAT DO WENGARI VALUE ABOVE ALL ELSE?!"</p>
 </div>
 
 
@@ -1079,7 +1089,11 @@ The arena beyond the throne was silent. The gathered families, who had been watc
 And the Veylar Shell-Singer, seated alone in the eastern colonnade, opened both luminous eyes and smiled. The White Dawn had reminded his own blood who ruled the desert. The tournament would begin in minutes. And every Wengari in that arena now understood, with absolute certainty, that their king was not merely strong. He was the sun. Warm. Unflinching. Unforgiving.
 
 
-'the sun is up in the sky, it's time ' -"BROTHERS ESTEEMED GUESTS, PLEASE PRESENT YOUR CHAMPIONS!!!"
+*The sun is up in the sky, it's time.*
+
+<div class="dialogue-block">
+<p class="speech-line">"BROTHERS, ESTEEMED GUESTS, PLEASE PRESENT YOUR CHAMPIONS!"</p>
+</div>
 
 
 The arena fell silent. The noon sun of the Steadfast blazed overhead, casting sharp shadows across the sand, and every eye—Wengari, Pyrinae, Humman, Veylar, Threx—turned toward the central arena floor.
@@ -1183,8 +1197,10 @@ Nefere stood at the edge of the completed basin, her clouded eyes surveying the 
 </div>
 
 
+*Bow the head.*
+
 <div class="dialogue-block">
-<p class="speech-line">'bow the head'- "SPECTACULAR, THIS SKILL WILL BE INVALUABLE ON THE ROAD, THANK YOU FRIENDS, NOW FOR THE RULES, 1) NO MORTAL WOUNDS IT'S A TOURNAMENT NOT AN ASSASSINATION, ALL TYPES OF WEAPONS AND POISONS ARE PERMITTED AS LONG AS THEY'RE NOT LETHAL IF ANYONE BREAKS THE RULE, THEIR ENTIRE FAMILY LINE WILL PAY, ANY OBJECTIONS?"</p>
+<p class="speech-line">"SPECTACULAR, THIS SKILL WILL BE INVALUABLE ON THE ROAD. THANK YOU, FRIENDS. NOW FOR THE RULES: 1) NO MORTAL WOUNDS, IT’S A TOURNAMENT NOT AN ASSASSINATION. ALL TYPES OF WEAPONS AND POISONS ARE PERMITTED AS LONG AS THEY’RE NOT LETHAL. IF ANYONE BREAKS THE RULE, THEIR ENTIRE FAMILY LINE WILL PAY. ANY OBJECTIONS?"</p>
 </div>
 
 
@@ -1206,7 +1222,7 @@ The green fire flickered along Ajani's claws as he considered. Somewhere in the 
 
 
 <div class="dialogue-block">
-<p class="speech-line">"DOES THE STYX ASKS PERMISSION TO DEVOURE THE FIRE FEET? I SAID ALL"</p>
+<p class="speech-line">"DOES THE STYX ASK PERMISSION TO DEVOUR THE FIRE FEET? I SAID ALL"</p>
 </div>
 
 
@@ -1468,8 +1484,10 @@ Six champions remained: three Motted Paws, two Shadow Paws, one Stripe Paw. The 
 The tournament was not over. It was just beginning.
 
 
+*Well now...*
+
 <div class="dialogue-block">
-<p class="speech-line">'well now...', "MAGNIFICENT, I CAN SEE WHY THE WORLD FEARS THE WENGARI...AND WHY THE REST OF THE FAMILIES FEAR ONLY THE KING.... BRING ME MY BLOOD....I APOLOGIZE TO ALL FOR THE SHAMEFUL DISPLAY THEY PROVIDED"</p>
+<p class="speech-line">"MAGNIFICENT. I CAN SEE WHY THE WORLD FEARS THE WENGARI... AND WHY THE REST OF THE FAMILIES FEAR ONLY THE KING.... BRING ME MY BLOOD.... I APOLOGIZE TO ALL FOR THE SHAMEFUL DISPLAY THEY PROVIDED."</p>
 </div>
 
 
@@ -1829,7 +1847,7 @@ Neither assassin moved. They circled each other in the blood-spattered sand, the
 They had trained together for years, sparred together, bled together. Now they would fight, and one of them would fall.
 
 
-Sera struck first. It was not a test. It was a full commitment—a Muay Thai combination, claws and elbows and knees in a blur of dark motion, her wounded face twisted with fury. Thane parried the first strike, redirected the second, absorbed the third on his injured shoulder and grunted with pain. She was faster than him. Younger. Hungrier. But he was more experienced, and he knew her weaknesses.
+Sera struck first. It was not a test. It was a full commitment—a combination of claws and elbows and knees in a blur of dark motion, her wounded face twisted with fury. Thane parried the first strike, redirected the second, absorbed the third on his injured shoulder and grunted with pain. She was faster than him. Younger. Hungrier. But he was more experienced, and he knew her weaknesses.
 
 
 He waited for the fourth strike—a low kick aimed at his crippled knee—and he moved into it, catching her shin on his own, deflecting the blow just enough to close the distance. His claws found her ribs. Not deep. Not lethal. But enough. She hissed and retreated, blood seeping through her dark pelt.
@@ -1921,7 +1939,7 @@ Sylva withdrew her claws. She extended her paw and pulled her student to her fee
 
 
 <div class="dialogue-block">
-<p class="speech-line">"WONDERFUL DISPLAY OF CHAMPIONS!!!, NOW FOR THE FINALS!!, I WILL REQUIRE HELP OF OUR FRIENDS AGAIN, PLEASE DESTROY THE ARENA, CAN YOU BUILD A FENCE 50PACES PER 50 PACES LONG, WITH AN INTERSPACING OF 1 PACE FOR THE BEAMS?, IF IT CAN BE DONE WITHIN THE HOUR THAT WOULD BE WONDERFUL, STRIPE PAW BROTHERS, CAN YOU LEND US THREE OF YOUR BEST WAR FIRE FEET?"</p>
+<p class="speech-line">"WONDERFUL DISPLAY OF CHAMPIONS! NOW FOR THE FINALS! I WILL REQUIRE HELP OF OUR FRIENDS AGAIN. PLEASE DESTROY THE ARENA. CAN YOU BUILD A FENCE 50 PACES PER 50 PACES LONG, WITH AN INTERSPACING OF 1 PACE FOR THE BEAMS? IF IT CAN BE DONE WITHIN THE HOUR THAT WOULD BE WONDERFUL. STRIPE PAW BROTHERS, CAN YOU LEND US THREE OF YOUR BEST WAR FIRE FEET?"</p>
 </div>
 
 
@@ -1993,8 +2011,10 @@ The fire feet snorted and stamped in their harnesses, sensing the excitement in 
 The king was about to arbit the finals. And the desert would witness.
 
 
+*Oh goody... war mounts! I haven’t seen one since I was a child, look at them! Would anyone care if I touched one?!... Wait, regal! Don’t look too much, regal!*
+
 <div class="dialogue-block">
-<p class="speech-line">'oh goody... war mounts!!!, I haven't seen one since I was a child, look at them!!, would anyone care if I touched one?!,.. wait, regal!, don't look too much, regal!' - "AHEM... WE WILL START WHEN THE INCENSE BURNS.... NOW!"</p>
+<p class="speech-line">"AHEM... WE WILL START WHEN THE INCENSE BURNS.... NOW!"</p>
 </div>
 
 
@@ -2134,8 +2154,10 @@ Ajani released the fence rail. His claws had left furrows in the stone. He strai
 The elders had noticed. And the gifts that would follow this tournament would be gifts worthy of a king who, for one glorious afternoon, had forgotten he was supposed to be regal.
 
 
+*Styx in heaven, I blew it!... I behaved no better than a cub, but they were so good! I should make this a yearly thing, definitely... a yearly thing. Now grab her paw, and rise.*
+
 <div class="dialogue-block">
-<p class="speech-line">'Styx in heaven I blew it!!... I behaved no better than a cub, but they were so good!!, I should make this a yearly, thing, definitely.. a yearly thing, now grab her paw, and rise' - "WENGARI I GIVE YOU YOUR REGENT, SYLVA OF THE MOTTED PAWS!!! ROAR FOR YOUR CHAMPION!!!"</p>
+<p class="speech-line">"WENGARI, I GIVE YOU YOUR REGENT, SYLVA OF THE MOTTED PAWS! ROAR FOR YOUR CHAMPION!"</p>
 </div>
 
 
@@ -2273,9 +2295,13 @@ She released the blade and stepped back, her silver aura flickering gently, her 
 Then, slowly, a grin spread across his face. The saber was not enough. Time to try something new.
 
 
+*Oh, ok, she has claws... spear then.*
+
 <div class="dialogue-block">
-<p class="speech-line">'OH, ok, she has claws... spear then' - "You're stronger than I expected, like a good regent should be, let's have the sun shine brighter then!" - 'Styx style, first form aim for her shoulder, when she deflects point to the plexus, dead in two moves'</p>
+<p class="speech-line">"You’re stronger than I expected, like a good regent should be. Let’s have the sun shine brighter then!"</p>
 </div>
+
+*Styx style, first form: aim for her shoulder, when she deflects point to the plexus. Dead in two moves.*
 
 
 The saber dissolved in a cascade of green sparks, and the spear blazed to life in Ajani's paws—a long, elegant shaft of emerald fire, its leaf-shaped blade catching the last light of the dying sun. The crowd leaned forward. The spear was the king's weapon, the first of the Four Pillars, the symbol of a ruler who kept his enemies at a distance and struck with precision. Ajani had trained with the spear since he was a cub.
@@ -2302,9 +2328,13 @@ The crowd was silent. The Styx circled above, their fires painting the twilight 
 The spear had failed. She had caught both. In her bare claws. And told him to try again. The grin that had spread across his face moments before was gone. In its place was something harder. Something older. The king was done playing.
 
 
+*What on... ok... calm, breathe, she’s unarmed. Sword then — let’s see her try to catch a dual blades.*
+
 <div class="dialogue-block">
-<p class="speech-line">'What on....ok... calm, breathe, she's unarmed, sword then, let's see her try to catch a dual blades'- "You're good, but I'm better!" - 'Five forms, fourth form, aim for the wrist, twist to the lung, if she catches or deflects curve to the neck, keep it tight, don't allow her openings, this is getting though, my fur is starting to bristle'</p>
+<p class="speech-line">"You’re good, but I’m better!"</p>
 </div>
+
+*Five forms, fourth form: aim for the wrist, twist to the lung, if she catches or deflects curve to the neck. Keep it tight, don’t allow her openings. This is getting tough, my fur is starting to bristle.*
 
 
 The sword blazed to life—a double-edged blade of emerald fire, shorter than the spear but faster, more maneuverable, a weapon of precision. Ajani shifted his grip, his green eyes locked on Sylva's calm silver gaze. The sword was the gentleman, the second pillar, the weapon of a ruler who could adapt to any opponent. He had trained with it under his father's watchful eye. He had practiced the five forms until his claws ached.
@@ -2331,9 +2361,13 @@ Ajani stood frozen, his sword still raised, his chest heaving. The crowd was utt
 He was going to have to try something he had never tried before. Something his father had never taught him. Something L'vat had never taught him. Something that was his alone.
 
 
+*This is getting annoying! Why can’t I reach her?! I’m faster than her, I’m sure I am, I’m stronger than her — how is she still catching me?!*
+
 <div class="dialogue-block">
-<p class="speech-line">'This is getting annoying!!!, why can't I reach her?!, I'm faster than her, I'm sure I am, I'm stronger than her, how is she still catching me?!' - "Perhaps there is some true to your words, but I'm still better!!" - 'Feint, open with the sword, change to the staff mid strike, she won't be able to evade with minimal movement, arch the shoulder so you can carry the momentum and angle the hand for support, one good strike all I need is one good strike'</p>
+<p class="speech-line">"Perhaps there is some truth to your words, but I’m still better!"</p>
 </div>
+
+*Feint, open with the sword, change to the staff mid-strike. She won’t be able to evade with minimal movement. Arch the shoulder so you can carry the momentum, and angle the hand for support. One good strike — all I need is one good strike.*
 
 
 The sword dissolved mid-swing, its green fire collapsing into a cascade of sparks, and the staff blazed to life in Ajani's paws in the same fluid motion. The transition was seamless—a technique he had practiced a thousand times, the secret heart of the Four Pillars, the art of switching weapons faster than any opponent could adapt. The staff was the grandfather, the fourth pillar, a weapon of defense and patience.
@@ -2356,9 +2390,13 @@ She was simply... better. Not at fighting. At understanding. And that understand
 He was going to have to admit that he was not better than her. And then he was going to have to try something new.
 
 
+*OK THIS ENDS NOW. SHE NEEDS TO GO DOWN, NOW.*
+
 <div class="dialogue-block">
-<p class="speech-line">'OK THIS ENDS NOW, SHE NEEDS TO GO DOWN, NOW' - "oh... you're going down now, you're good, I admit it, you might even be better than me, but I am still the heir of the Light, WITNESS MY MIGHT!!" - 'this will take a toll, but she needs to go down, I can't lose the crown!!! I haven't even made the road yet!!, I'll be the laughing stock of the families for millennia, the only king who lost in duel!!'</p>
+<p class="speech-line">"Oh... you’re going down now. You’re good, I admit it, you might even be better than me, but I am still the heir of the Light — WITNESS MY MIGHT!"</p>
 </div>
+
+*This will take a toll, but she needs to go down. I can’t lose the crown! I haven’t even made the road yet! I’ll be the laughing stock of the families for millennia — the only king who lost in duel!*
 
 
 The ji blazed to life in Ajani's paws—a weapon none of the gathered Wengari had ever seen. Its shaft was long, nearly the height of the king himself, and it shimmered with an unstable, shifting light that cycled between the brilliant gold of the Steadfast and the pure white of the male Styx circling far above. But the blade was green. Not the warm gold of the Bright Paw legacy, not the cold silver of the Motted Paws' Flowing Water, but the deep, vibrant green of living things, of marsh water and ancient roots and the patient, inexorable pulse of the Mycelial Deep.
@@ -2471,9 +2509,13 @@ She raised one silver-furred paw, and her aura flared—not the gentle, patient 
 </div>
 
 
+*What?*
+
 <div class="dialogue-block">
-<p class="speech-line">'what?' - "I DECLINE, BASED ON THE FACT THAT I WAS ALREADY PLANNING TO LEAVE A COUNCIL I EVEN SAID AFTER THIS I WOULD MEET ALL ELDERS TO PLAN FOR THE YEARLY TOURNAMENT, WHAT IS THAT IF NOT A COUNCIL RIGHT BROTHERS?, ASK SOMETHING ELSE"- 'Infuriating woman, not only does she try to beat me in the fight now also at statecraft...'</p>
+<p class="speech-line">"I DECLINE, BASED ON THE FACT THAT I WAS ALREADY PLANNING TO LEAVE A COUNCIL. I EVEN SAID AFTER THIS I WOULD MEET ALL ELDERS TO PLAN FOR THE YEARLY TOURNAMENT — WHAT IS THAT IF NOT A COUNCIL, RIGHT BROTHERS? ASK SOMETHING ELSE!"</p>
 </div>
+
+*Infuriating woman, not only does she try to beat me in the fight, now also at statecraft...*
 
 
 Sylva's silver eyes held his for a long, quiet moment. The crowd was silent, waiting, watching the young king and the old champion locked in a battle of wills that had nothing to do with claws or sabers or the green fire still flickering faintly along Ajani's knuckles. She inclined her head—a gesture that was neither submission nor defiance, but something older. Acknowledgment.
@@ -2489,8 +2531,10 @@ Sylva's silver eyes held his for a long, quiet moment. The crowd was silent, wai
 </div>
 
 
+*I’m this close to skewering her...*
+
 <div class="dialogue-block">
-<p class="speech-line">'I'm this close to skewering her..' , "OF COURSE, IN FACT, I SHALL MAKE THIS A ROYAL PROCLAMATION, ANY FAMILY IS INVITED TO OPEN SCHOOLS FOR THEIR ART IN THE CAPITAL, HOWEVER I WARN YOU ALL, THE CAPITAL IS LIKE THE SUN UNFORGIVING, ONLY THE STRONGEST WILL BE ABLE TO LIVE HERE, LET ALONE TRAIN IN THE SCHOOLS, AND OF COURSE, EACH MASTER WILL DECIDE WHO THEY TEACH, WHAT DO YOU SAY BROTHERS?!"</p>
+<p class="speech-line">"OF COURSE. IN FACT, I SHALL MAKE THIS A ROYAL PROCLAMATION: ANY FAMILY IS INVITED TO OPEN SCHOOLS FOR THEIR ART IN THE CAPITAL. HOWEVER, I WARN YOU ALL, THE CAPITAL IS LIKE THE SUN, UNFORGIVING. ONLY THE STRONGEST WILL BE ABLE TO LIVE HERE, LET ALONE TRAIN IN THE SCHOOLS. AND OF COURSE, EACH MASTER WILL DECIDE WHO THEY TEACH. WHAT DO YOU SAY, BROTHERS?!"</p>
 </div>
 
 

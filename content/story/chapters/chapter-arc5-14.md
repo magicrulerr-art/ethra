@@ -10,7 +10,7 @@ It looked at the wall. It screamed. The sound was not a voice. It was a pressure
 
 The barbs struck the remaining Wohs. The great theropods, the desert variation that had survived the suicide scorpions and the purple orbs and the long morning of carnage, were hit in their flanks and their necks and their legs. They fell to the ground, their massive bodies writhing, their natural plate armor no defense against whatever sorcery the barbs carried. The flesh around the wounds began to dissolve, melting into pools of green goo that spread across the stone.
 
-The Wohs' screams—deep, resonant, the sound of creatures that had never known fear and were now experiencing it for the first and last time—echoed across the shattered rampart. Their riders died with them, their golden and striped and shadowed pelts dissolving alongside their mounts.
+The Wohs' screams—high and broken, the sound of creatures meeting an end they had never once imagined—echoed across the shattered rampart. Their riders died with them, their golden and striped and shadowed pelts dissolving alongside their mounts.
 
 <div class="dialogue-block">
 On the wall, M'rak stood frozen. His golden eyes were wide, his burn-scarred arms limp at his sides. He had been asked a question—<span class="speech">"Any idea what that is?"</span>—and he had no answer. His voice, when he finally found it, was trembling. <span class="speech">"I don't know. I've never seen anything like that. No one has seen anything like that."</span>

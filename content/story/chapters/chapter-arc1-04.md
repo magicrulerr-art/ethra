@@ -1,8 +1,6 @@
 ## Chapter 4: The Styx
 
-<div class="dialogue-block">
-<p class="speech-line">'It's just as L'vat described, the spiral stair, the faint lights... the air gets thinner... if I hadn't lived with them for a year I think I would have fainted by now, here is the message, just where said it would be. "To my heir, if you are reading this, then you know, our blood is cursed, everyone who came before you and surely everyone who will come after has succumbed to the curse, there is only one way out, in." For the whiskers of Uthgard!! Did the first need to be so cryptic as well???!!!!, there's something... some noise... a voice?'</p>
-</div>
+*It's just as L'vat described: the spiral stair, the faint lights... the air gets thinner... if I hadn't lived with them for a year I think I would have fainted by now. Here is the message, just where said it would be. "To my heir, if you are reading this, then you know, our blood is cursed, everyone who came before you and surely everyone who will come after has succumbed to the curse, there is only one way out, in." For the whiskers of Uthgard! Did the first need to be so cryptic as well? There's something... some noise... a voice?*
 
 
 The air thickened as Ajani descended, the faint green luminescence pulsing in rhythm with something deep beneath the rock. The voice—if it was a voice—seemed to come from everywhere and nowhere at once. Not words, not yet. More like the echo of words, the memory of a sound that had been spoken long ago and was only now reaching the surface.
@@ -23,8 +21,10 @@ And then the image shifted. He saw the pact fraying. The roots withering. The ga
 The blossom at the chamber's center began to open.
 
 
+*Ok... here it goes. Press the palm to the flower and speak, just like in the marshes.*
+
 <div class="dialogue-block">
-<p class="speech-line">'ok... here it goes, press the palm to the flower and speak, just like in the marshes' - "I am Ajani Brightmane first of my name, Heir to the light that burns the shadow, Son of Layla, bearer of the pact... Chosen by the Deep"</p>
+<p class="speech-line">"I am Ajani Brightmane, first of my name, Heir to the light that burns the shadow, Son of Layla, bearer of the pact... Chosen by the Deep."</p>
 </div>
 
 

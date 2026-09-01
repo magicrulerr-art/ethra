@@ -306,7 +306,7 @@ Neither assassin moved. They circled each other in the blood-spattered sand, the
 They had trained together for years, sparred together, bled together. Now they would fight, and one of them would fall.
 
 
-Sera struck first. It was not a test. It was a full commitment—a Muay Thai combination, claws and elbows and knees in a blur of dark motion, her wounded face twisted with fury. Thane parried the first strike, redirected the second, absorbed the third on his injured shoulder and grunted with pain. She was faster than him. Younger. Hungrier. But he was more experienced, and he knew her weaknesses.
+Sera struck first. It was not a test. It was a full commitment—a combination of claws and elbows and knees in a blur of dark motion, her wounded face twisted with fury. Thane parried the first strike, redirected the second, absorbed the third on his injured shoulder and grunted with pain. She was faster than him. Younger. Hungrier. But he was more experienced, and he knew her weaknesses.
 
 
 He waited for the fourth strike—a low kick aimed at his crippled knee—and he moved into it, catching her shin on his own, deflecting the blow just enough to close the distance. His claws found her ribs. Not deep. Not lethal. But enough. She hissed and retreated, blood seeping through her dark pelt.
@@ -398,7 +398,7 @@ Sylva withdrew her claws. She extended her paw and pulled her student to her fee
 
 
 <div class="dialogue-block">
-<p class="speech-line">"WONDERFUL DISPLAY OF CHAMPIONS!!!, NOW FOR THE FINALS!!, I WILL REQUIRE HELP OF OUR FRIENDS AGAIN, PLEASE DESTROY THE ARENA, CAN YOU BUILD A FENCE 50PACES PER 50 PACES LONG, WITH AN INTERSPACING OF 1 PACE FOR THE BEAMS?, IF IT CAN BE DONE WITHIN THE HOUR THAT WOULD BE WONDERFUL, STRIPE PAW BROTHERS, CAN YOU LEND US THREE OF YOUR BEST WAR FIRE FEET?"</p>
+<p class="speech-line">"WONDERFUL DISPLAY OF CHAMPIONS! NOW FOR THE FINALS! I WILL REQUIRE HELP OF OUR FRIENDS AGAIN. PLEASE DESTROY THE ARENA. CAN YOU BUILD A FENCE 50 PACES PER 50 PACES LONG, WITH AN INTERSPACING OF 1 PACE FOR THE BEAMS? IF IT CAN BE DONE WITHIN THE HOUR THAT WOULD BE WONDERFUL. STRIPE PAW BROTHERS, CAN YOU LEND US THREE OF YOUR BEST WAR FIRE FEET?"</p>
 </div>
 
 
@@ -470,8 +470,10 @@ The fire feet snorted and stamped in their harnesses, sensing the excitement in 
 The king was about to arbit the finals. And the desert would witness.
 
 
+*Oh goody... war mounts! I haven’t seen one since I was a child, look at them! Would anyone care if I touched one?!... Wait, regal! Don’t look too much, regal!*
+
 <div class="dialogue-block">
-<p class="speech-line">'oh goody... war mounts!!!, I haven't seen one since I was a child, look at them!!, would anyone care if I touched one?!,.. wait, regal!, don't look too much, regal!' - "AHEM... WE WILL START WHEN THE INCENSE BURNS.... NOW!"</p>
+<p class="speech-line">"AHEM... WE WILL START WHEN THE INCENSE BURNS.... NOW!"</p>
 </div>
 
 

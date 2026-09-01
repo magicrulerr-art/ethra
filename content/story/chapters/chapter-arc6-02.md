@@ -1,5 +1,28 @@
 ## Chapter 2: Rebuilding
 
+<div class="dialogue-block">
+Elyra was silent for a moment, her silver aura flickering gently. Then she spoke. <span class="speech">"The Hummans are merchants. They understand debt. They understand leverage. They understand that a contract signed under duress is still a contract. If you want reparations, you must first understand what you hold that they need."</span> She paused, her melodic voice carrying through the silent hall. <span class="speech">"What do you hold that they need, Your Highness?"</span>
+</div>
+
+
+*This grows tiresome.*
+
+<div class="dialogue-block">
+<p class="speech-line">"If someone doesn't tell me a way, I will order a full military deployment and erase their cities from the face of Ethra."</p>
+</div>
+
+
+The words fell like a blade. The throne room went absolutely still.
+
+
+M'rak's burn-scarred face tightened. Reva's golden eyes widened. Zephyr's scarred expression flickered with something that might have been alarm. Yvaria's silver-furred hands, still stained with the blood of her ghosts, clenched at her sides. Sylva's ancient eyes closed. Vasha's stylus stopped moving.
+
+
+<div class="dialogue-block">
+<p class="speech-line">Elyra was the first to speak. Her melodic voice was very quiet. "Your Highness. If you order a full military deployment against the Human cities, you will succeed. The Wengari have the Wohs. The ghosts. The shadow riders. The Humman military is shattered. Their king is dead. Their remaining forces are scattered. You could burn Verdantis to the ground. You could erase every Human city from the face of Ethra. It would take perhaps three months. Perhaps four. The cost in Wengari lives would be significant but not prohibitive. You would win."</p>
+</div>
+
+
 She paused. Her silver aura flickered once.
 
 
@@ -950,34 +973,4 @@ Vasha's stylus paused. For the first time since the war began, the spymaster loo
 
 <div class="dialogue-block">
 <p class="speech-line">She set down her stylus and began to speak with the precision of someone who had been planning this recommendation for months. "The Council of the Untrustworthy should be the core of the new office. We are already operational. We have networks in every family, contacts in every delegation, sources in the Humman quarter and the Pyrinae district. But we are small. Five members, a handful of operatives, no dedicated funding beyond what we can skim from the Council's discretionary budget. To become a true intelligence office, we need three things: staff, funding, and legal authority."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">A third claw. "Third, legal authority. The office must be able to intercept correspondence, monitor foreign delegations, and detain suspected spies without public trial. This will be controversial. The elders will oppose it. The foreign delegations will protest. The Hummans will claim we are persecuting them. All of that is irrelevant. An intelligence office without the power to act is merely a library. If we cannot detain, we cannot prevent. If we cannot intercept, we cannot know. The king must grant us the authority to operate in secret and the legal protection to survive when our operations become public."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">She lowered her claws. "One final recommendation. The Shadow Office should have a liaison in every family, every delegation, every guild. Not a spy—a known contact, someone who can receive requests for information and deliver reports. This will make our presence visible. That is intentional. Fear of being watched is often more effective than watching itself."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">She paused, her cold eyes meeting Ajani's. "The Council of the Untrustworthy was your invention. We saved the city because you gave us the authority to act. Now give us the authority to become something permanent. Something that will outlast us all."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">"I accept both the first and second the third is over reach and very prone to miss use vasha, you will not use the office to collect old debts, nor we will have wengari and Hummans disappearing in the night, I authorize instead a subset if there is a credible threat you are authorized to detain someone previous approval from the regent, If there is a critical threat , the crown doesn't want to know how it's handled, am I understood?"</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">Vasha's expression did not change, but her stylus made a single, precise mark on the ledger—a notation that only she would ever read. "Understood, Your Highness. The Shadow Office will operate within the bounds you have set. Detainment requires prior approval from the regent. Critical threats are handled at the discretion of the office, and the crown is not informed of the methods. The distinction is clear."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">She paused, her cold eyes meeting Ajani's. "The office will not collect old debts. It will not settle personal scores. It will not make Wengari or Hummans disappear in the night without cause. I give you my word. And if anyone under my command violates that word, I will handle them personally. The crown will not need to know how."</p>
 </div>

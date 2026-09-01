@@ -110,8 +110,10 @@ When T'van announced the king's summons, the chamber fell silent. Zara turned he
 The Stripe Paw elders filed out of the Hall of the Caravan Masters and into the darkened streets of the capital, their claws clicking against the stone, their silence heavier than any words. They would go to the king. They would hear his explanation. And then—depending on what they heard—they would decide whether the new pact was something they could still support, or something they would have to oppose.
 
 
+*They’re here. Good... why do they seem mad?*
+
 <div class="dialogue-block">
-<p class="speech-line">'they're here, good...why do they seem mad?' - "Brothers!, please come in we have much to discuss!"</p>
+<p class="speech-line">"Brothers! Please come in, we have much to discuss!"</p>
 </div>
 
 
@@ -134,8 +136,10 @@ Zara did not sit. She did not return the greeting. She walked into the center of
 </div>
 
 
+*Oh... so it’s that.*
+
 <div class="dialogue-block">
-<p class="speech-line">'oh .. so it's that ', "I see, tell me Zara, who rules the Wengari?"</p>
+<p class="speech-line">"I see. Tell me, Zara, who rules the Wengari?"</p>
 </div>
 
 
@@ -152,8 +156,10 @@ The old caravan master, Torek, stepped forward and placed a weathered paw on Zar
 </div>
 
 
+*So it’s pride.*
+
 <div class="dialogue-block">
-<p class="speech-line">'so it's pride', "I see you believe me to be a fool, have you perchance heard news about the Hummans as well or were your ears only attuned to the sound of coin?"</p>
+<p class="speech-line">"I see you believe me to be a fool. Have you perchance heard news about the Hummans as well, or were your ears only attuned to the sound of coin?"</p>
 </div>
 
 

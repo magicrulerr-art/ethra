@@ -5,7 +5,7 @@
       "source": "chapter-01.md",
       "title": "Arc I: The White Dawn",
       "sub_titles": [
-        "The Return",
+        "The White Dawn",
         "The Chamber",
         "The Pact",
         "The Styx",
@@ -13,11 +13,11 @@
         "The Passing"
       ],
       "split_anchors": [
-        159,
-        306,
-        442,
-        565,
-        667
+        169,
+        316,
+        452,
+        575,
+        677
       ]
     },
     "2": {
@@ -60,8 +60,8 @@
       "title": "Arc V: The Great War",
       "sub_titles": [
         "05:25 — Vasha Storms In",
-        "06:55 — Sera Holds The Gate",
-        "06:25 — The War Room Still Watches",
+        "06:25 — Sera Holds The Gate",
+        "06:55 — The War Room Still Watches",
         "07:55 — The Dome Shimmers",
         "08:15 — The Second Shot",
         "08:20 — The Light Shield Falls",
@@ -80,7 +80,7 @@
         "12:02 — Ajani Throws The Spear",
         "12:03 — Cefiro Arrives",
         "12:05 — The Light Cage Fades",
-        "12:06 — The White Dawn Wakes"
+        "12:06 — The Golden Cage"
       ],
       "split_anchors": [
         285,
@@ -103,7 +103,7 @@
         1703,
         1773,
         1797,
-        1831
+        1829
       ]
     },
     "6": {

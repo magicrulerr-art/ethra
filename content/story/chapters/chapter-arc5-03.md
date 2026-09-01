@@ -1,6 +1,6 @@
-## Chapter 3: 06:25 — The War Room Still Watches
+## Chapter 3: 06:55 — The War Room Still Watches
 
-It was 6:25 in the morning, the seventh day of the Month of Storms, and the war room was thick with exhaustion and fear. Sylva stood at the head of the granite table, her silver-chased ceremonial armor still gleaming, but everything else about her was fraying. The rune cannons had fallen silent. The wall was burning. The third wave was pressing against the gate. And Vasha had just stormed through the door.
+It was 6:55 in the morning, the seventh day of the Month of Storms, and the war room was thick with exhaustion and fear. Sylva stood at the head of the granite table, her silver-chased ceremonial armor still gleaming, but everything else about her was fraying. The rune cannons had fallen silent. The wall was burning. The third wave was pressing against the gate. And Vasha had just stormed through the door.
 
 <div class="dialogue-block">
 <p class="speech-line">"I knew you old fools would still be here. I bet you don't even know why the Hummans are here, right?"</p>

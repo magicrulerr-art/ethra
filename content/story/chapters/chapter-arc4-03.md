@@ -249,7 +249,7 @@ The blossom leaned closer, its petals trembling with the intensity of the Tree's
 
 'I will keep my end of the bargain. The road will connect me to the marsh. The temples will bring pilgrims to my wells. The sign will choose the strong ones. The deception will hold. And when the Tide comes, I will shield your people from the Flicker's chaos. Not because I love them. Not because I am benevolent. Because they are my food, and I protect what is mine. Because you are my brother, and I protect what is ours.
 
-This is the new pact. It is done. Tomorrow, you will make your announcement. Tomorrow, I will make myself known. Prepare your people, White Dawn. I will give them a sign they will never forget.'
+'This is the new pact. It is done. Tomorrow, you will make your announcement. Tomorrow, I will make myself known. Prepare your people, White Dawn. I will give them a sign they will never forget.'
 
 
 Ajani stepped onto the raised stone platform at the center of the plaza. The crowd fell silent. The sun blazed overhead, golden and unforgiving, and the kyre flowers seemed to lean toward the young king as if listening. The lord of the desert was waiting. The Golden Sun was about to be born.
@@ -273,7 +273,7 @@ The kyre flowers along the plaza walls seemed to lean closer, their pale petals 
 Ajani raised one paw, the green fire flaring gently along his claws, and the plaza fell utterly silent. The sun was at its zenith. The moment had come.
 
 <div class="dialogue-block">
-<p class="speech-line">"OUR TOURNAMENT GATHERED THE STRONGEST WENGARI AND IN DOING SO, WE WOKE OUR LONG LOST BROTHER!,HE CALLS HIMSELF THE GOLDEN SUN!!! AND HE LIVES SOMEWHERE BELOW THE DESERT, LIKE US HE'S THE STRONGEST IN THE DESERT BUT HE'S BEEN WEAKENED BY EONS SLEEPING BELOW, THE WITHERING SICKNESS IS HIS DOING! BUT NOT HIS FAULT, WHEN HE FELL ASLEEP HIS BODY NATURALLY TRIED TO RECOVER BY ABSORBING THE AURA ABOVE, HE DIDN'T KNEW WE WERE ALIVE, ALL HE FELT WERE AURAS, PROOF OF THAT IS HOW THE STRONG SURVIVE, THOSE WHO HAVE BEEN LIVING IN THE CAPITAL FOR GENERATIONS, YOU BARELY FEEL HIS INFLUENCE NOW DON'T YOU? HE'S BEEN HELPING US BECOME STRONGER FOR GENERATIONS WITHOUT US EVEN KNOWING, ISN'T HE A GREAT BROTHER?!"</p>
+<p class="speech-line">"OUR TOURNAMENT GATHERED THE STRONGEST WENGARI AND IN DOING SO, WE WOKE OUR LONG LOST BROTHER! HE CALLS HIMSELF THE GOLDEN SUN!!! AND HE LIVES SOMEWHERE BELOW THE DESERT, LIKE US HE'S THE STRONGEST IN THE DESERT BUT HE'S BEEN WEAKENED BY EONS SLEEPING BELOW, THE WITHERING SICKNESS IS HIS DOING! BUT NOT HIS FAULT, WHEN HE FELL ASLEEP HIS BODY NATURALLY TRIED TO RECOVER BY ABSORBING THE AURA ABOVE, HE DIDN'T KNEW WE WERE ALIVE, ALL HE FELT WERE AURAS, PROOF OF THAT IS HOW THE STRONG SURVIVE, THOSE WHO HAVE BEEN LIVING IN THE CAPITAL FOR GENERATIONS, YOU BARELY FEEL HIS INFLUENCE NOW DON'T YOU? HE'S BEEN HELPING US BECOME STRONGER FOR GENERATIONS WITHOUT US EVEN KNOWING, ISN'T HE A GREAT BROTHER?!"</p>
 </div>
 
 <div class="dialogue-block">
@@ -320,8 +320,10 @@ The Bright Paw priests near the front of the crowd were already conferring among
 <p class="speech-line">The crowd roared. Not the controlled roar of the tournament, but something rawer, more fervent. The word "pilgrimage" was already spreading through the plaza like fire through dry grass. The lie was becoming truth. The myth was being born. And below the plaza, in the ancient darkness, the lord of the desert felt the surge of belief ripple through the stone and smiled its slow, patient, hungry smile.</p>
 </div>
 
+*Now, old thing, don't let me down. Noon is almost here.*
+
 <div class="dialogue-block">
-<p class="speech-line">'now old thing don't let me down, noon is almost here' - "I'M NOT SURE IF IT'S REAL, IT WAS A DREAM, BUT IN THE DREAM I SAW MYSELF AS YOU SEE ME NOW, IN THE PLAZA AND JUST AS THE SUN WAS HIGHEST IN THE SKY, OUR BROTHER MADE HIMSELF KNOWN!"</p>
+<p class="speech-line">"I'M NOT SURE IF IT'S REAL, IT WAS A DREAM, BUT IN THE DREAM I SAW MYSELF AS YOU SEE ME NOW, IN THE PLAZA, AND JUST AS THE SUN WAS HIGHEST IN THE SKY, OUR BROTHER MADE HIMSELF KNOWN!"</p>
 </div>
 
 The noon sun hung directly overhead, a perfect golden disk in a sky bleached pale by the Steadfast's unblinking gaze. The shadows had vanished. Every creature in the plaza stood in the full, uncompromising light of midday, and the heat pressed down on the crowd like a physical weight. Ajani's words still echoed in the silence: 'I saw myself as you see me now, in the plaza, and just as the sun was highest in the sky, our brother made himself known.'
@@ -363,7 +365,11 @@ But the crowd had seen it. Every Wengari in the plaza had witnessed something—
 
 
 <div class="dialogue-block">
-<p class="speech-line">'breathe, slowly, it went well, I thought I was going to get skewered here, he barely made it in time, stupid old thing' - "HE ALSO SHOWED ME HE WILL HELP OUR FRIENDS THE PYRINAE HE ALSO WANTS TO MAKE THEM STRONG, HE SHOWED ME A VISION, FIVE CITIES LIGHTING UP, FLOURISHING, I THINK IT MEANS HE WILL REACH TO THEM AS HE DID TO US, HE WANTS TO MAKE US STRONG, HE WANTS THE WENGARI TO BE THE RULERS OF ETHRA!!, BROTHERS, I WILL BE THE FIRST TO TAKE THE PILGRIMAGE, ONCE HE SHOWS ME THE WAY, I WILL WALK IT AND IF I SURVIVE, I'LL MAKE A TEMPLE THERE, SO YOU ALL KNOW WHERE TO GO, HE SHOWED ME A LAST VISION, IN MY DREAM I SAW AN OLD ROUGH WENGARI, HE SAW A LIGHT, HE KNEW, HE HAD BEEN CHOSEN, HE WALKED THE PATH, AND WHEN HE RETURNED, HE WON THE TOURNAMENT, HE WON THE CROWN!"</p>
+*Breathe. Slowly. It went well. I thought I was going to get skewered here. He barely made it in time. Stupid old thing.*
+
+<div class="dialogue-block">
+<p class="speech-line">"HE ALSO SHOWED ME HE WILL HELP OUR FRIENDS THE PYRINAE. HE ALSO WANTS TO MAKE THEM STRONG. HE SHOWED ME A VISION: FIVE CITIES LIGHTING UP, FLOURISHING. I THINK IT MEANS HE WILL REACH TO THEM AS HE DID TO US. HE WANTS TO MAKE US STRONG. HE WANTS THE WENGARI TO BE THE RULERS OF ETHRA! BROTHERS, I WILL BE THE FIRST TO TAKE THE PILGRIMAGE. ONCE HE SHOWS ME THE WAY, I WILL WALK IT, AND IF I SURVIVE, I'LL MAKE A TEMPLE THERE, SO YOU ALL KNOW WHERE TO GO. HE SHOWED ME A LAST VISION: IN MY DREAM I SAW AN OLD ROUGH WENGARI. HE SAW A LIGHT. HE KNEW. HE HAD BEEN CHOSEN. HE WALKED THE PATH, AND WHEN HE RETURNED, HE WON THE TOURNAMENT. HE WON THE CROWN!"</p>
+</div>
 </div>
 
 The plaza erupted. Not in the controlled roar of a tournament crowd, not in the thoughtful murmur of people parsing a vision, but in something rawer, something deeper. The Wengari were a people who understood strength. They understood tests. They understood that the strong survived and the weak perished and the desert did not apologize for either outcome. And now their king—their young, brilliant, infuriating king—had just told them that the Golden Sun, the ancient brother who had been shaping them for generations without their knowledge, would personally choose pilgrims to walk a sacred path.
@@ -395,7 +401,11 @@ The White Dawn had promised a self-sustaining feast. The White Dawn was deliveri
 And the White Dawn, standing on his stone platform with the green fire flickering gently along his claws, allowed himself the faintest, most private of smiles. The old thing had come through. The Golden Sun was real now.
 
 <div class="dialogue-block">
-<p class="speech-line">'good, now all of them will walk it, this is so tiring.. I need a bath' - "BROTHERS, I'LL RETIRE NOW, BUT BEFORE I LEAVE, I HAVE A LAST PIECE OF ADVICE, THE DESERT SUN JUST AS UNFORGIVING AS OUR BROTHER, IF YOU ARE CHOSEN, DON'T TAKE IT LIGHTLY IF YOU FALL, YOU'LL HAVE NO ONE TO BLAME BUT YOURSELVES"</p>
+*Good. Now all of them will walk it. This is so tiring... I need a bath.*
+
+<div class="dialogue-block">
+<p class="speech-line">"BROTHERS, I'LL RETIRE NOW, BUT BEFORE I LEAVE, I HAVE A LAST PIECE OF ADVICE: THE DESERT SUN JUST AS UNFORGIVING AS OUR BROTHER. IF YOU ARE CHOSEN, DON'T TAKE IT LIGHTLY. IF YOU FALL, YOU'LL HAVE NO ONE TO BLAME BUT YOURSELVES."</p>
+</div>
 </div>
 
 The crowd's roar followed Ajani as he stepped down from the stone platform, but it was a different roar than before. It was not the frenzied excitement of the tournament or the fervent wonder of the Golden Sun's display. It was something deeper, something that would linger long after the plaza had emptied. It was the sound of a people who had just been given a purpose.

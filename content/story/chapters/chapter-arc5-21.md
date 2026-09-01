@@ -2,9 +2,7 @@
 
 Ajani hung in the sky, the golden Styx still perched on his right shoulder with its talons buried deep, the fire serpent coiled around his right arm, the ice ring still tight around his neck. His fur was frozen across his shoulders and burned along his forearm and bleeding from his nose, and his left leg had turned black. Tiny white stars swirled in the darkness of his leg, pinpricks of light in a void of flesh. He reached for the fourth page.
 
-<div class="thought-block">
-'Just two more. And then... well, let's hope I can still speak.'
-</div>
+*Just two more. And then... well, let's hope I can still speak.*
 
 He tore the page from the grimoire. This one was black, its surface drinking the noon light rather than reflecting it. He began to chant. His voice was hoarser now, the ice ring making every word an effort, but the words came steady and clear.
 

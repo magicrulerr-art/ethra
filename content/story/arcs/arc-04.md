@@ -1,10 +1,10 @@
 # Chapter 4: The Consolidation
 
-*60,446 words across 6 chapters*
+*60,374 words across 6 chapters*
 
 ### Bureaucracy
 
-'I seriously hate this woman' - "Thank you for the advice, I'll take it to hear" - 'let's see what they want'...
+"Thank you for the advice. I'll take it to heart."...
 
 ### The Caravans
 

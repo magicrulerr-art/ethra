@@ -283,7 +283,7 @@ Tamsin did not move for a long moment. Then she turned and walked out of the ten
 
 Outside, the third wave was forming—four hundred scorpion riders, the last of the vanguard, the last hope of a king who had never fought a battle. The Amuks were still advancing, their great tusked forms swaying with each ponderous step. The Tide Wolf cavalry was still circling to the east. And the Wengari capital still stood, its walls unbroken, its gate unbreached, its king not dead but sleeping in a chamber high above the battle, waiting for the moment when he would wake.
 
-At 6:55, Sera held the gate.
+At 6:25, Sera held the gate.
 
 Sera stood at the gate, her ruined face impassive, her lacquered claws dripping with the blood of the second vanguard. Around her, the elite unit was still breathing hard, their dark pelts matted with sweat and sand and the ichor of scorpions. Four of them were wounded—one grievously, her arm hanging limp—but all twenty still stood. They had held. They had won.
 
@@ -291,7 +291,7 @@ And then she saw the third wave.
 
 Four hundred scorpion riders. The entire remaining vanguard of the Humman army, stretching across the horizon in a sea of iridescent shells and gleaming claws. Behind them, the Amuks were forming a line, their great tusked forms swaying in unison, their eight-legged strides eating up the distance between the desert and the gate. The Tide Wolf cavalry was circling to the east, fifty massive wolves with riders in striped armor, waiting for the moment when the gate would fall and the slaughter would begin.
 
-'We can't win against four hundred. We barely survived fifty.'
+*We can't win against four hundred. We barely survived fifty.*
 
 The thought was cold and clear and utterly without panic. Sera had been an assassin for decades. She had learned to count enemies before she learned to read. She knew when a battle was winnable and when it was not. This battle was not winnable. Not with twenty warriors. Not with the cannons still recharging. Not with the hawks and the killer claws already spent.
 
@@ -335,7 +335,7 @@ Sera stood at the gate, her lacquered claws still dripping, her ruined face lit 
 <p class="speech-line">But she was a Shadow Paw. She had been trained to hold impossible positions. She raised her claws and shouted, her voice carrying across the chaos, "ELITE UNIT! TO THE BREACH! WE HOLD THE GATE OR WE DIE AT THE GATE! THERE IS NO RETREAT!"</p>
 </div>
 
-The elite unit formed up behind her. Twenty warriors against three hundred and fifty. The wall was burning. The gate was cracking. And it was 6:55 in the morning, the seventh day of the Month of Storms, in the first year of the reign of Ajani Brightmane, first of his name. The White Dawn lay unconscious in his chambers, the golden armor still pulsing faintly over his chest. And the great war was about to be lost.
+The elite unit formed up behind her. Twenty warriors against three hundred and fifty. The wall was burning. The gate was cracking. And it was 6:25 in the morning, the seventh day of the Month of Storms, in the first year of the reign of Ajani Brightmane, first of his name. The White Dawn lay unconscious in his chambers, the golden armor still pulsing faintly over his chest. And the great war was about to be lost.
 
 The eastern garrison was three hundred leagues from the capital, a sprawling fortress of sandstone and rune-glass that guarded the border against the Fire Beetles. It was manned by Bright Paws—the royal family's soldiers, stationed far from the comforts of the capital, their golden manes bleached pale by the desert sun. They had not seen a war in decades. They had not seen their king since his coronation.
 
@@ -423,7 +423,7 @@ The wolves surged forward, their shadow flares intensifying, the fire licking at
 
 They rode. East, west, south—they rode toward the capital, toward the gate, toward the battle that was already raging. The Woh riders thundered across the desert. The ghosts flew through the darkness. The shadow riders surged like a black tide. And the first light of dawn was just beginning to touch the horizon.
 
-It was 6:25 in the morning, the seventh day of the Month of Storms, and the war room was thick with exhaustion and fear. Sylva stood at the head of the granite table, her silver-chased ceremonial armor still gleaming, but everything else about her was fraying. The rune cannons had fallen silent. The wall was burning. The third wave was pressing against the gate. And Vasha had just stormed through the door.
+It was 6:55 in the morning, the seventh day of the Month of Storms, and the war room was thick with exhaustion and fear. Sylva stood at the head of the granite table, her silver-chased ceremonial armor still gleaming, but everything else about her was fraying. The rune cannons had fallen silent. The wall was burning. The third wave was pressing against the gate. And Vasha had just stormed through the door.
 
 <div class="dialogue-block">
 <p class="speech-line">"I knew you old fools would still be here. I bet you don't even know why the Hummans are here, right?"</p>
@@ -1443,7 +1443,7 @@ It looked at the wall. It screamed. The sound was not a voice. It was a pressure
 
 The barbs struck the remaining Wohs. The great theropods, the desert variation that had survived the suicide scorpions and the purple orbs and the long morning of carnage, were hit in their flanks and their necks and their legs. They fell to the ground, their massive bodies writhing, their natural plate armor no defense against whatever sorcery the barbs carried. The flesh around the wounds began to dissolve, melting into pools of green goo that spread across the stone.
 
-The Wohs' screams—deep, resonant, the sound of creatures that had never known fear and were now experiencing it for the first and last time—echoed across the shattered rampart. Their riders died with them, their golden and striped and shadowed pelts dissolving alongside their mounts.
+The Wohs' screams—high and broken, the sound of creatures meeting an end they had never once imagined—echoed across the shattered rampart. Their riders died with them, their golden and striped and shadowed pelts dissolving alongside their mounts.
 
 <div class="dialogue-block">
 On the wall, M'rak stood frozen. His golden eyes were wide, his burn-scarred arms limp at his sides. He had been asked a question—<span class="speech">"Any idea what that is?"</span>—and he had no answer. His voice, when he finally found it, was trembling. <span class="speech">"I don't know. I've never seen anything like that. No one has seen anything like that."</span>
@@ -1797,9 +1797,7 @@ It was 12:05. The light cage faded. The creature advanced, diminished but not de
 
 Ajani hung in the sky, the golden Styx still perched on his right shoulder with its talons buried deep, the fire serpent coiled around his right arm, the ice ring still tight around his neck. His fur was frozen across his shoulders and burned along his forearm and bleeding from his nose, and his left leg had turned black. Tiny white stars swirled in the darkness of his leg, pinpricks of light in a void of flesh. He reached for the fourth page.
 
-<div class="thought-block">
-'Just two more. And then... well, let's hope I can still speak.'
-</div>
+*Just two more. And then... well, let's hope I can still speak.*
 
 He tore the page from the grimoire. This one was black, its surface drinking the noon light rather than reflecting it. He began to chant. His voice was hoarser now, the ice ring making every word an effort, but the words came steady and clear.
 
@@ -1867,7 +1865,7 @@ Ajani stared at the sixth page. The runes were already forming—golden, green, 
 
 The Styx talons still buried in his shoulder. Blood dripped from his nose and now from his mouth as well, a thin trickle of red that splashed against the breastplate.
 
-'This is it. I barely have ten seconds, I think. I hope it's enough.'
+*This is it. I barely have ten seconds, I think. I hope it's enough.*
 
 He began to write. The grimoire's pages had never resisted him before, but this one seemed to push back, as if the words he was inscribing were too large for the paper to contain. The runes spiraled faster. He coughed blood onto the page, and the blood sizzled and burned with golden light.
 

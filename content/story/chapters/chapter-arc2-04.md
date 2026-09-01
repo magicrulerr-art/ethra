@@ -68,9 +68,13 @@ She spread her empty hands. <span class="speech">"That is my offer. That is my c
 </div>
 
 
+*Laugh now, booming.*
+
 <div class="dialogue-block">
-<p class="speech-line">'laugh now, booming' — "Hahaha, what makes you believe the Wengari even need you Hummans? How many loads can you carry? How many days can you endure? You couldn't even take ten steps. But I do concede you have your uses, so here is my proposal: take your most trusted aides, your best guilds, swear allegiance to us, become honorary Wengari, and you can share our wealth. I'll even let you deal with your race on our behalf, but your guilds and aides stay here in our capital. It's that or we simply erase you from the map. So, ambassador?" — 'and now, smile with all the teeth'</p>
+<p class="speech-line">"Hahaha! What makes you believe the Wengari even need you Hummans? How many loads can you carry? How many days can you endure? You couldn’t even take ten steps. But I do concede you have your uses, so here is my proposal: take your most trusted aides, your best guilds, swear allegiance to us, become honorary Wengari, and you can share our wealth. I’ll even let you deal with your race on our behalf, but your guilds and aides stay here in our capital. It’s that or we simply erase you from the map. So, ambassador?"</p>
 </div>
+
+*And now, smile with all the teeth.*
 
 
 Seris went very still.
@@ -144,9 +148,13 @@ The Hydromancer stopped at the center of the sand, exactly where the Humman amba
 </div>
 
 
+*Raise an eyebrow. Father says they are like children, they aren’t malicious, just... naive.*
+
 <div class="dialogue-block">
-<p class="speech-line">'Raise an eyebrow, father says they are like children, they aren't malicious just...naive' — "esteemed friends, I salute you, the Pyrinae and the Wengari have been friends since the times of the Third, and I appreciate you like our cubs appreciate water on the heavy days, speak to me without flattery, for are we not friends?" — 'now walk to them and extend a hand, whoever grips, make sure he kneels'</p>
+<p class="speech-line">"Esteemed friends, I salute you. The Pyrinae and the Wengari have been friends since the times of the Third, and I appreciate you like our cubs appreciate water on the heavy days. Speak to me without flattery, for are we not friends?"</p>
 </div>
+
+*Now walk to them and extend a hand. Whoever grips, make sure he kneels.*
 
 
 The Hydromancer's clouded eyes registered the extended hand, and something ancient stirred in their depths—not quite amusement, not quite approval, but a recognition that the game had shifted. She had watched three Wengari kings hold court. She had seen Uthgard IX perform this ritual a hundred times. The hand was new. The walk was new. The young king was not merely receiving supplicants; he was testing them.
@@ -170,9 +178,13 @@ The Root-Speaker, still cowled and silent, raised one hand. The air in the arena
 </div>
 
 
+*Oh, this is new, I can use this. Smile.*
+
 <div class="dialogue-block">
-<p class="speech-line">'oh, this is new, I can use this, smile' — "let's drop the act, I could kill every single one of you right now and walk out of here like nothing happened, yet... That wouldn't help me or you, the old one can stay, the rest of you, scram" — 'now back to the throne'</p>
+<p class="speech-line">"Let’s drop the act. I could kill every single one of you right now and walk out of here like nothing happened, yet... that wouldn’t help me or you. The old one can stay, the rest of you, scram."</p>
 </div>
+
+*Now back to the throne.*
 
 
 The other Pyrinae departed without protest. The Sun-Walker envoy inclined her head with the practiced neutrality of a trader who knew when a negotiation had become something else. The Root-Speaker paused at the arena's edge, his cowled head turning back toward the king as if listening to something no one else could hear, then vanished into the shadows of the colonnade.

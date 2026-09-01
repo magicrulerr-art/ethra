@@ -1,7 +1,9 @@
 ## Chapter 1: The White Dawn
 
+*Seven years... has it been that long? I remember it like it was yesterday. I wonder how is father doing... I heard last year wasn't a good year. I wanted to see the ocean... perhaps I'll be able to after I speak with father. L'vat is here, as promised. I wonder why does he want me to perform the ritual today? I must make haste to father. Ah, there are the guards.*
+
 <div class="dialogue-block">
-<p class="speech-line">'seven years, has it been that long?, I remember it like it was yesterday, I wonder how is father doing, I heard last year wasn't a good year, I wanted to see the ocean... perhaps I'll be able to after I speak with father L'vat is here, as promised, I wonder why does he want me to perform the ritual today? I must make haste to father, ah there are the guards', "Hail the Lightbringer, Hail the light that shines upon us all"</p>
+<p class="speech-line">"Hail the Lightbringer! Hail the light that shines upon us all!"</p>
 </div>
 
 
@@ -33,8 +35,10 @@ The Four Pillars gleam at the arena's center, waiting. The crowd is watching. Th
 Your move, Ajani.
 
 
+*The sun rises and the shadows grow long... that's why L'vat wanted me here. Could he not have said just that? I've lived with them for a year and he still can't speak plainly... father is waning, he can't maintain the ritual any longer... I must become Uthgard.*
+
 <div class="dialogue-block">
-<p class="speech-line">'The sun rises and the shadows grow long.... that's why l'vat wanted me here, could he not have said just that? I've lived with them for a year and he still can't speak plainly..., father is waning, he can't maintain the ritual any longer....I must become Uthgard' - "Take me to him, at once!"</p>
+<p class="speech-line">"Take me to him, at once!"</p>
 </div>
 
 
@@ -70,9 +74,13 @@ The attendant stopped and stepped aside, pressing his back to the cold stone wal
 The door waited, its runes dark. Beyond it, somewhere in the silence, a king was failing. And a son had come to take his name.
 
 
+*I've never been here, but somehow I know what to do.*
+
 <div class="dialogue-block">
-<p class="speech-line">'I've never been here, but somehow I know what to do', "The Spear is the king... the sword is the gentle man... the saber is the tiger...the staff is the grandfather", 'Ah they're opening'</p>
+<p class="speech-line">"The Spear is the king... The sword is the gentle man... The saber is the tiger... The staff is the grandfather."</p>
 </div>
+
+*Ah, they're opening.*
 
 
 The runes ignited.
@@ -110,8 +118,10 @@ Behind Ajani, the door began to close. The attendant's terrified face vanished. 
 Outside, in the arena, the Lament turned its head toward the palace. Its multifaceted eyes caught the dying light of the Steadfast. And it began, very softly, to hum.
 
 
+*The doors just closed behind me... spooky. I should kneel, seems appropriate.*
+
 <div class="dialogue-block">
-<p class="speech-line">'the doors just closed behind me... spooky, I should kneel, seems appropriate', "Father, Keeper of the light, Warrior amongst Warriors, the one who gives up his name to serve the Wengari, this humble son has returned, tell me, how can the son serve the Wengari?"</p>
+<p class="speech-line">"Father, Keeper of the Light, Warrior amongst Warriors, the one who gives up his name to serve the Wengari, this humble son has returned. Tell me, how can the son serve the Wengari?"</p>
 </div>
 
 
