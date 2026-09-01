@@ -43,7 +43,7 @@ The words hung in the air, repeated back to him in a voice that was not a voice�
 *"The Deep has not chosen a Bright Paw since the Lightbringer. The Laments do not walk for kings. They walk for White Dawns. They walk for endings. They walk for beginnings. You are both."*
 
 
-The amber pool rippled again, and an image formed on its surface. Ajani saw himself—not as he was now, but as he might become. He stood in the arena above, the Four Pillars blazing around him. The gathered races knelt. The Lament bowed its head. And behind him, a shadow loomed—a vast, indistinct shape that might have been the Tree, or might have been something else entirely.
+The amber pool rippled again, and an image formed on its surface. Ajani saw himself—not as he was now, but as he might become. He stood in the arena above, the Four Pillars blazing around him. The gathered races knelt. The Lament bowed its head. And behind him, a shadow loomed—a vast, indistinct shape — the Tree, perhaps, or something else entirely.
 
 
 *"The pact was never a bargain of equals. The Lightbringer understood this. He came to me not as a servant, but as a partner. He offered me something no king since has dared to offer. He offered me his life—not in tribute, not in tithe, but in risk. He staked his existence against the survival of his people. And I accepted."*
@@ -55,7 +55,7 @@ The image shifted. Ajani saw Uthgar Lightbringer pressing his palm to the very p
 *"Every king since has paid the tithe. Every king since has kept the rituals. But none have offered what the Lightbringer offered. None have been what the Lightbringer was. The White Dawn comes, and the White Dawn goes, and the pact wears thin. Your father—Uthgard Ninth—has kept the gardens alive with his own life-force, bleeding himself into the soil year after year. He is a good king. He is not a White Dawn. And he is dying."*
 
 
-The blossom leaned closer. The amber pool rippled with something that might have been impatience, or curiosity, or hunger.
+The blossom leaned closer. The amber pool rippled — impatience, curiosity, hunger; the Deep does not name its moods.
 
 
 *"But you, Son of Layla, Chosen by the Deep—you are what the Lightbringer was. The first true White Dawn to walk this desert in three thousand years. The pact can be renewed. The gardens can bloom for another age. The city can stand. But the price..."*
@@ -81,7 +81,7 @@ The blossom drew back slightly, and the voice grew softer, almost gentle.
 The Tree was silent.
 
 
-The amber pool stilled. The green luminescence that pulsed through the roots dimmed, then brightened, then dimmed again—a slow, rhythmic cycle that might have been breathing, or thinking, or both. The great blossom hung motionless, its petals half-open, its attention fixed entirely on the young Wengari who stood before it.
+The amber pool stilled. The green luminescence that pulsed through the roots dimmed, then brightened, then dimmed again—a slow cycle: breathing, or thinking, or both. The great blossom hung motionless, its petals half-open, its attention fixed entirely on the young Wengari who stood before it.
 
 
 *"You do not offer your life."*

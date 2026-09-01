@@ -18,7 +18,7 @@ The blossom fell silent. The roots waited. The amber pool reflected the young ki
 The green spear blazed in the chamber, its light not the warm gold of the Bright Paw legacy but something wilder—the deep green of the Flickermarch, of the Mycelial Deep, of the ancient things that stir beneath the soil. The roots of the Kyre Tree recoiled for just a moment, as if surprised. Then they leaned in, drawn toward the light like flowers toward the sun.
 
 
-*"The way of the Deep,"* the Tree murmured, its ancient voice tinged with something that might have been wonder. *"You do not merely speak for the Deep. You are of the Deep. The Laments chose well."*
+*"The way of the Deep,"* the Tree murmured, its ancient voice tinged with wonder. *"You do not merely speak for the Deep. You are of the Deep. The Laments chose well."*
 
 
 The amber pool rippled, and in its surface, Ajani saw reflections—not of himself, but of possibilities. The Rune-Belt, its forests alive with roots and flowers. The Mycelial Deep and the Kyre Tree, ancient adversaries, their roots intertwined in a delicate, unprecedented truce. The Laments walking freely between the March and the desert, their humming a bridge between two worlds that had been separated since the world was young.
