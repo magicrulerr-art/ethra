@@ -156,11 +156,11 @@ The Quick stood alone at the center of the arena, its small frame dwarfed by the
 The Threx were allies in name, but the Laments were one thing—terrifying, yes, but comprehensible. This small, frightened thing was something else. Something fragile. Something that had traveled alone across a world that would happily kill it.
 
 
-At Ajani's approach, the Quick's head snapped up. Its eyes caught the green fire flickering along the king's claws and widened—not with fear, but with recognition. The stridulation began, a soft humming that formed itself into words, halting and breathless.
+At Ajani's approach, the Quick's head snapped up. Its eyes caught the marshlight flickering along the king's claws and widened—not with fear, but with recognition. The stridulation began, a soft humming that formed itself into words, halting and breathless.
 
 
 <div class="dialogue-block">
-<span class="speech">"Ajani. Friend of the marsh. Disciple of L'vat."</span> The Quick's voice was a rasp, its syllables shaped by mouthparts never meant for Wengari speech. <span class="speech">"L'vat. He speaks of you. In the network. In the roots. He says—he says the White Dawn remembers. He says you carry the green fire. He says you are not like the others."</span> The Quick swayed on its feet, exhaustion and relief warring in its small body. <span class="speech">"I have walked for twenty-eight days. I have not slept. The desert is so dry. So empty. No mycelium. No song. I thought I would die before I reached you."</span> It lifted its head, meeting Ajani's eyes for the first time. <span class="speech">"But I am here. I am Quick. I speak for the Deep. The Deep wants to know—the pact is made. The road is promised. But the Blight stirs. The Chi'Thak are waking. They are early. They are organized. They are hungry. The Deep asks: what does the White Dawn intend to do?"</span> It swayed again, catching itself on a trembling limb. <span class="speech">"And also... also L'vat says to tell you... the old root is proud of you. He says you did not kneel. He says he knew you would not."</span> The Quick managed a faint, chittering sound that might have been laughter. <span class="speech">"He says you still owe him a year of service. He says he will collect."</span>
+<span class="speech">"Ajani. Friend of the marsh. Disciple of L'vat."</span> The Quick's voice was a rasp, its syllables shaped by mouthparts never meant for Wengari speech. <span class="speech">"L'vat. He speaks of you. In the network. In the roots. He says—he says the White Dawn remembers. He says you carry the green fire. He says you are not like the others."</span> The Quick swayed on its feet, exhaustion and relief warring in its small body. <span class="speech">"I have walked for twenty-eight days. I have not slept. The desert is so dry. So empty. No mycelium. No song. I thought I would die before I reached you."</span> It lifted its head, meeting Ajani's eyes for the first time. <span class="speech">"But I am here. I am Quick. I speak for the Deep. The Deep wants to know—the pact is made. The road is promised. But the Blight stirs. The Chi'Thak are waking. They are early. They are organized. They are hungry. The Deep asks: what does the White Dawn intend to do?"</span> It swayed again, catching itself on a trembling limb. <span class="speech">"And also... also L'vat says to tell you... the old root is proud of you. He says you did not kneel. He says he knew you would not."</span> The Quick managed a faint, chittering sound that passed for laughter. <span class="speech">"He says you still owe him a year of service. He says he will collect."</span>
 </div>
 
 
@@ -190,7 +190,7 @@ The green fire flickered between them. Not the blazing spear of the ritual. Not 
 
 
 <div class="dialogue-block">
-It swayed again, but this time it was not exhaustion. It was something closer to peace. <span class="speech">"I will rest now. The pool—I would like the pool. And then I will return to the marsh. L'vat will want to know everything. He will want to know that his student has become—"</span> The Quick made a soft, chittering sound. <span class="speech">"—adequate."</span> The Bright Paw guards, who had watched the entire exchange with their claws half-extended and their manes bristling, exchanged bewildered glances. One of them—the younger one—muttered something about never having seen a Threx smile before. The Quick did not smile. But its chitin gleamed as it was led toward the shaded pool that T'van's acolytes had prepared, and the green fire that was not its own still flickered gently along its limbs.
+It swayed again, but this time it was not exhaustion. It was something closer to peace. <span class="speech">"I will rest now. The pool—I would like the pool. And then I will return to the marsh. L'vat will want to know everything. He will want to know that his student has become—"</span> The Quick made a soft, chittering sound. <span class="speech">"—adequate."</span> The Bright Paw guards, who had watched the entire exchange with their claws half-extended and their manes bristling, exchanged bewildered glances. One of them—the younger one—muttered something about never having seen a Threx smile before. The Quick did not smile. But its chitin gleamed as it was led toward the shaded pool that T'van's acolytes had prepared, and the borrowed green flame still flickered gently along its limbs.
 </div>
 
 
@@ -204,7 +204,7 @@ T'van returned with the summons, his breath still short from running. <span clas
 </div>
 
 
-Ajani settled onto the throne. The cold stone was familiar now—it had been a month, and the seat had begun to mold to his frame, or perhaps he had begun to mold to it. The spear of green fire flickered beside him, a constant companion. He could still hear his father's voice in his memory, the words worn smooth by repetition over a lifetime of watching the old king hold court.
+Ajani settled onto the throne. The cold stone was familiar now—it had been a month, and the seat had begun to mold to his frame, or perhaps he had begun to mold to it. The spear of green flame flickered beside him, a constant companion. He could still hear his father's voice in his memory, the words worn smooth by repetition over a lifetime of watching the old king hold court.
 
 
 *Warm, unflinching, unforgiving.*
@@ -238,7 +238,7 @@ Only the mercenary remained standing.
 
 
 <div class="dialogue-block">
-The Stripe Paw's striped mane rippled in the oppressive heat, her claws half-extended, her breathing controlled. She had felt worse. She had trained under worse. But she was Wengari, and a Wengari did not kneel to another Wengari—not without cause. She met Ajani's eyes, her gaze steady, her voice calm. <span class="speech">"You are not my king. You are a king. My king is dead. My caravan is gone. I sell my claws to whoever pays, and these Hummans paid for my protection. They asked me to stand before you. I am standing. If you want me to kneel—"</span> She let the pause stretch, her claws catching the green fire's light. <span class="speech">"Make me."</span>
+The Stripe Paw's striped mane rippled in the oppressive heat, her claws half-extended, her breathing controlled. She had felt worse. She had trained under worse. But she was Wengari, and a Wengari did not kneel to another Wengari—not without cause. She met Ajani's eyes, her gaze steady, her voice calm. <span class="speech">"You are not my king. You are a king. My king is dead. My caravan is gone. I sell my claws to whoever pays, and these Hummans paid for my protection. They asked me to stand before you. I am standing. If you want me to kneel—"</span> She let the pause stretch, her claws catching the cold green glow. <span class="speech">"Make me."</span>
 </div>
 
 
@@ -299,6 +299,6 @@ The guards moved quickly. Two Bright Paws in ceremonial armor stepped forward an
 </div>
 
 
-The Humman merchants exchanged terrified glances. The one who had fallen first—a portly man in Verdantian silks—scrambled backward on his hands and knees, his breath coming in short, panicked gasps. His colleague grabbed his arm and hissed something in the Humman trade-tongue, too fast for Wengari ears to catch. They had seen their champion kneel. They had seen the king's eyes flare—that brief, terrible flash of green fire, the predator's gaze that every Humman cub learned to fear in the old tales.
+The Humman merchants exchanged terrified glances. The one who had fallen first—a portly man in Verdantian silks—scrambled backward on his hands and knees, his breath coming in short, panicked gasps. His colleague grabbed his arm and hissed something in the Humman trade-tongue, too fast for Wengari ears to catch. They had seen their champion kneel. They had seen the king's eyes flare—that brief, terrible flash of eerie green, the predator's gaze that every Humman cub learned to fear in the old tales.
 
 The ambassador alone remained, her face pale but her jaw set.

@@ -8,7 +8,7 @@ She had never seen a king drop the act so completely.
 </div>
 
 
-The green fire flickered along the king's claws. Somewhere in the shadows of the colonnade, the Root-Speaker was still listening. Somewhere beneath the desert, the Kyre Tree was waiting. And on the throne, the young king regarded the ancient Hydromancer with eyes that gave nothing away.
+Green flame glowed softly along the king's claws. Somewhere in the shadows of the colonnade, the Root-Speaker was still listening. Somewhere beneath the desert, the Kyre Tree was waiting. And on the throne, the young king regarded the ancient Hydromancer with eyes that gave nothing away.
 
 
 *Twirl the spear, then throw it at her face, grace her lightly... there.*
@@ -127,7 +127,7 @@ The Sun-Walker's sharp merchant eyes flicked from the spear still quivering in t
 
 
 <div class="dialogue-block">
-Nefere resumed her formal posture, her voice returning to the measured cadence of a diplomat—but softer now, edged with something that might have been warmth. <span class="speech">"The Pyrinae delegation stands before you, King Ajani. We have spoken of friendship. We have spoken of memory. We have spoken of the road that you intend to build and the promises we have kept for three thousand years."</span> She spread her hands. <span class="speech">"What remains to be discussed is the shape of our alliance in the years to come. You know what we offer: our rune-glass, our wells, our knowledge of the deep aquifers, our memory of the old pacts. You know what we seek: a place on the road you are building, a voice in the decisions that will shape the future of the desert, and the continued survival of our people alongside yours."</span> She met his eyes. <span class="speech">"The negotiations, as you say, must resume. What would the king ask of the Pyrinae?"</span>
+Nefere resumed her formal posture, her voice returning to the measured cadence of a diplomat—but softer now, and warmed at the edges. <span class="speech">"The Pyrinae delegation stands before you, King Ajani. We have spoken of friendship. We have spoken of memory. We have spoken of the road that you intend to build and the promises we have kept for three thousand years."</span> She spread her hands. <span class="speech">"What remains to be discussed is the shape of our alliance in the years to come. You know what we offer: our rune-glass, our wells, our knowledge of the deep aquifers, our memory of the old pacts. You know what we seek: a place on the road you are building, a voice in the decisions that will shape the future of the desert, and the continued survival of our people alongside yours."</span> She met his eyes. <span class="speech">"The negotiations, as you say, must resume. What would the king ask of the Pyrinae?"</span>
 </div>
 
 

@@ -80,7 +80,7 @@ She spread her empty hands. <span class="speech">"That is my offer. That is my c
 Seris went very still.
 
 
-The king's laughter echoed through the empty arena, bouncing off the stone tiers where thousands had witnessed his coronation. The green fire flickered along his claws, and his smile—that terrible, predatory smile, full of teeth and ancient confidence—was the smile of a creature that had never doubted its place at the top of the food chain.
+The king's laughter echoed through the empty arena, bouncing off the stone tiers where thousands had witnessed his coronation. Cold green light flickered along his claws, and his smile—that terrible, predatory smile, full of teeth and ancient confidence—was the smile of a creature that had never doubted its place at the top of the food chain.
 
 
 She had miscalculated. She had come expecting to negotiate with a young king, a new king, a king who might be reasoned with. Instead, she had found Uthgard IX's son, sitting on his father's throne, tapping his father's claw rhythm, wearing his father's smile. She had been outplayed.
@@ -117,7 +117,7 @@ She turned to leave, her steps measured, her back straight—a diplomat's postur
 </div>
 
 
-The arena fell silent. The green fire flickered along Ajani's claws, casting dancing shadows across the empty stone tiers. Somewhere in the shaded colonnade, the Stripe Paw mercenary was still recovering from whatever the king had done to her. Somewhere in the palace, the Quick was resting beside a cool pool, dreaming of the marsh. Somewhere on the northern road, a mirage was walking toward them, singing a song that no living Wengari had ever heard.
+The arena fell silent. The Tree's fire burned low along Ajani's claws, throwing the empty stone tiers into shifting shadow. Somewhere in the shaded colonnade, the Stripe Paw mercenary was still recovering from whatever the king had done to her. Somewhere in the palace, the Quick was resting beside a cool pool, dreaming of the marsh. Somewhere on the northern road, a mirage was walking toward them, singing a song that no living Wengari had ever heard.
 
 And somewhere beneath the earth, the Blight was stirring, early and organized and hungry. The king sat on his throne and waited for the next delegation.
 
@@ -166,7 +166,7 @@ The Hydromancer's clouded eyes registered the extended hand, and something ancie
 
 
 <div class="dialogue-block">
-The Hydromancer made a soft sound that might have been a laugh. <span class="speech">"The young are so direct."</span> She stepped forward, her embedded rune-glass pulsing with amber light, and placed her ancient hand over both of theirs. Her skin was cool, paper-thin, the bones beneath delicate as a bird's. <span class="speech">"The Pyrinae have served the Bright Paws for three thousand years. We kept the pact when the kings forgot it. We kept the wells when the rituals faltered. We kept the knowledge when the Memory-Vaults were all that remained of your glory."</span> Her grip tightened, just slightly. <span class="speech">"We do not kneel, Ajani Brightmane. Not because we are proud. Not because we are defiant. But because kneeling would imply that we are subjects, and subjects can be released. We are not subjects. We are the roots beneath your garden. We are the water beneath your wells. We are the memory beneath your throne. You cannot release us. You can only forget us—and you have seen what happens when the Wengari forget."</span>
+The Hydromancer made a soft sound, almost a laugh. <span class="speech">"The young are so direct."</span> She stepped forward, her embedded rune-glass pulsing with amber light, and placed her ancient hand over both of theirs. Her skin was cool, paper-thin, the bones beneath delicate as a bird's. <span class="speech">"The Pyrinae have served the Bright Paws for three thousand years. We kept the pact when the kings forgot it. We kept the wells when the rituals faltered. We kept the knowledge when the Memory-Vaults were all that remained of your glory."</span> Her grip tightened, just slightly. <span class="speech">"We do not kneel, Ajani Brightmane. Not because we are proud. Not because we are defiant. But because kneeling would imply that we are subjects, and subjects can be released. We are not subjects. We are the roots beneath your garden. We are the water beneath your wells. We are the memory beneath your throne. You cannot release us. You can only forget us—and you have seen what happens when the Wengari forget."</span>
 </div>
 
 

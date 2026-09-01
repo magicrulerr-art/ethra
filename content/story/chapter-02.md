@@ -202,7 +202,7 @@ One by one, the other chiefs and heirs rose. The Shadow Paws, wary but unwilling
 The descent was slow. The spiral stair had been carved by the Lightbringer's own sorcery three thousand years ago, and the steps were worn smooth by centuries of royal footfalls—but only ever one set at a time. No king had brought an entourage into the inner chamber. No king had dared.
 
 
-Ajani's green fire flickered along the walls, casting dancing shadows that made the ancient runes seem to writhe. Behind him, the elders of the five families followed in single file. Kareth, his obsidian staff tapping against the stone with each labored step, his breath coming in harsh rasps. Zara, the Stripe Paw chief, her massive frame barely fitting through the narrowest portions of the passage, her claws scraping against the walls for balance.
+Ajani's fire flickered along the walls — cold, green, marsh-born — casting dancing shadows that made the ancient runes seem to writhe. Behind him, the elders of the five families followed in single file. Kareth, his obsidian staff tapping against the stone with each labored step, his breath coming in harsh rasps. Zara, the Stripe Paw chief, her massive frame barely fitting through the narrowest portions of the passage, her claws scraping against the walls for balance.
 
 Nyasha, impossibly old, moving with the slow, deliberate grace of one who had walked these depths before—perhaps in another life, perhaps in another age.
 
@@ -210,7 +210,7 @@ Nyasha, impossibly old, moving with the slow, deliberate grace of one who had wa
 The other elders followed. The heirs followed. And at the rear, the Bright Paw priests who had been permitted to accompany their new king exchanged nervous glances as the air grew thin and the weight of the Tree's presence pressed against their lungs.
 
 
-When Zara stumbled—her great paw slipping on a worn step—Ajani was there. His hand caught her arm, and a pulse of green fire flared between them, steadying her, warming her, filling her lungs with air that did not taste of ancient stone and patient hunger. She looked at him with something that might have been surprise, or might have been gratitude, and nodded once before continuing.
+When Zara stumbled—her great paw slipping on a worn step—Ajani was there. His hand caught her arm, and a pulse of green fire flared between them, steadying her, warming her, filling her lungs with air that did not taste of ancient stone and patient hunger. She looked at him — surprise, perhaps, or gratitude — and nodded once before continuing.
 
 
 The passage opened. The vast underground chamber lay before them—the roots of the Kyre Tree pulsing with pale green light, the blossom at its center still and silent, the amber pool rippling faintly. The elders, chiefs, and heirs of the Wengari stood at the threshold of the most sacred and terrible place in their history, and for a long, breathless moment, no one spoke.
@@ -267,7 +267,7 @@ She turned to Ajani. <span class="speech">"You said you were the heir of the Fir
 
 
 <div class="dialogue-block">
-Kareth, the old general, the scarred Shadow Paw who had served one king his whole life and buried him, let out a sound that might have been a laugh or might have been a snarl. It echoed through the chamber, strange and sharp in the green-lit darkness. <span class="speech">"The boy king speaks truth,"</span> he said, turning to the other elders. <span class="speech">"What race can best a Wengari in single combat? None. What race hasn't felt our claws? None. We are feared. We are respected. We are the strongest."</span> He tapped his obsidian staff against the stone. <span class="speech">"And now we know why. The lord of the desert has been sharpening us. For three thousand years, it has been sharpening us. Killing the weak. Forging the strong. Turning us into weapons."</span>
+Kareth, the old general, the scarred Shadow Paw who had served one king his whole life and buried him, let out a sound between a laugh and a snarl. It echoed through the chamber, strange and sharp in the green-lit darkness. <span class="speech">"The boy king speaks truth,"</span> he said, turning to the other elders. <span class="speech">"What race can best a Wengari in single combat? None. What race hasn't felt our claws? None. We are feared. We are respected. We are the strongest."</span> He tapped his obsidian staff against the stone. <span class="speech">"And now we know why. The lord of the desert has been sharpening us. For three thousand years, it has been sharpening us. Killing the weak. Forging the strong. Turning us into weapons."</span>
 </div>
 
 
@@ -307,12 +307,12 @@ Nyasha stepped forward. The ancient Motted Paw moved with the slow, deliberate g
 
 
 <div class="dialogue-block">
-<p class="speech-line">She turned back to Ajani, and her ancient eyes held something that might have been pride, or might have been sorrow, or might have been both. "You have done what no king has done since the Lightbringer vanished. You have spoken to the lord of the desert as an equal. You have brokered a new pact—your own pact, you said. Not the Lightbringer's. Not your father's. Yours. And now you ask us—the elders, the chiefs, the heirs—to join you. To forge a Wengari pact. Not a Bright Paw pact. A pact of all the families."</p>
+<p class="speech-line">She turned back to Ajani, and her ancient eyes held pride, and beneath it, sorrow. "You have done what no king has done since the Lightbringer vanished. You have spoken to the lord of the desert as an equal. You have brokered a new pact—your own pact, you said. Not the Lightbringer's. Not your father's. Yours. And now you ask us—the elders, the chiefs, the heirs—to join you. To forge a Wengari pact. Not a Bright Paw pact. A pact of all the families."</p>
 </div>
 
 
 <div class="dialogue-block">
-<p class="speech-line">She let the silence stretch for a long, breathless moment. Then she lowered her head, her ancient spine bending in a bow that no living Wengari had ever seen her perform. "I am old, Ajani Brightmane. I have seen two Tides. I will not see a third. But if you are offering the Motted Paws a chance to be part of something greater than we have been for three thousand years—to speak to the lord of the desert, to forge our own pact, to reclaim the glory that was lost—then I will follow you. Not as a subject. Not as an elder. As a Wengari."</p>
+<p class="speech-line">She let the silence stretch until nothing remained but the low pulse of the roots. Then she lowered her head, her ancient spine bending in a bow that no living Wengari had ever seen her perform. "I am old, Ajani Brightmane. I have seen two Tides. I will not see a third. But if you are offering the Motted Paws a chance to be part of something greater than we have been for three thousand years—to speak to the lord of the desert, to forge our own pact, to reclaim the glory that was lost—then I will follow you. Not as a subject. Not as an elder. As a Wengari."</p>
 </div>
 
 
@@ -333,11 +333,11 @@ The amber pool rippled. The blossom stirred. The Tree was listening. And for the
 *Please, please, don't kill any of the old fools...*
 
 
-The words hung in the air like a blade poised to fall. The elders and heirs of the five families stood frozen, their eyes fixed on the pulsing blossom at the center of the chamber. The green luminescence of the Kyre Tree's roots cast their faces in sharp relief, and for a long, breathless moment, no one moved.
+The words hung in the air like a blade poised to fall. The elders and heirs of the five families stood frozen, their eyes fixed on the pulsing blossom at the center of the chamber. The green luminescence of the Kyre Tree's roots cast their faces in sharp relief. The silence deepened until it pressed against the ear, and no one moved.
 
 
 <div class="dialogue-block">
-Kareth was the first to speak. <span class="speech">"You ask us to bargain with a god."</span> His voice was hoarse, barely a whisper. <span class="speech">"To offer our hearts to something that has been feeding on our people for three thousand years. To stand before it, alone, and prove ourselves worthy."</span> He turned his scarred face toward Ajani, and his one good eye gleamed with something that might have been fear or might have been fury. <span class="speech">"You ask much, young king."</span>
+Kareth was the first to speak. <span class="speech">"You ask us to bargain with a god."</span> His voice was hoarse, barely a whisper. <span class="speech">"To offer our hearts to something that has been feeding on our people for three thousand years. To stand before it, alone, and prove ourselves worthy."</span> He turned his scarred face toward Ajani, and his one good eye gleamed, and whether it was fear or fury, no one could have said. <span class="speech">"You ask much, young king."</span>
 </div>
 
 
@@ -347,7 +347,7 @@ Zara stepped forward. The Stripe Paw chief had retracted her claws, but her mass
 
 
 <div class="dialogue-block">
-Nyasha, who had already spoken more in this chamber than she had in three decades of council meetings, raised a hand. <span class="speech">"The young king is right. If we are to reclaim what we lost, we must prove ourselves worthy of it. The Lightbringer made a pact for all of us. We failed to keep it. Now we must make our own."</span> She turned her ancient eyes toward Ajani, and there was something in them that might have been approval. <span class="speech">"I will go first. I am old. If the Tree rejects me, let it be a lesson to the young. If it accepts me—"</span> She smiled, a thin, weathered expression that had not been seen on her face in living memory. <span class="speech">"Then let it be a lesson to you all."</span>
+Nyasha, who had already spoken more in this chamber than she had in three decades of council meetings, raised a hand. <span class="speech">"The young king is right. If we are to reclaim what we lost, we must prove ourselves worthy of it. The Lightbringer made a pact for all of us. We failed to keep it. Now we must make our own."</span> She turned her ancient eyes toward Ajani, and something like approval moved in them. <span class="speech">"I will go first. I am old. If the Tree rejects me, let it be a lesson to the young. If it accepts me—"</span> She smiled, a thin, weathered expression that had not been seen on her face in living memory. <span class="speech">"Then let it be a lesson to you all."</span>
 </div>
 
 
@@ -414,7 +414,7 @@ He would never fight again. He would never ignite the Four Pillars. He would nev
 
 
 <div class="dialogue-block">
-The elders watched in horrified silence. One of the Bright Paw priests rushed forward to drag Solen back from the edge of the pool. The young warrior's eyes were open, staring at the ceiling, his chest still rising and falling, but the light behind his gaze was gone. Kareth's scarred face twisted with something that might have been grief, or might have been fury. <span class="speech">"The Tree does not bargain in kindness,"</span> he said, his voice flat. <span class="speech">"It bargains in hunger. The boy offered his fear. The Tree took everything."</span>
+The elders watched in horrified silence. One of the Bright Paw priests rushed forward to drag Solen back from the edge of the pool. The young warrior's eyes were open, staring at the ceiling, his chest still rising and falling, but the light behind his gaze was gone. Kareth's scarred face twisted between grief and fury. <span class="speech">"The Tree does not bargain in kindness,"</span> he said, his voice flat. <span class="speech">"It bargains in hunger. The boy offered his fear. The Tree took everything."</span>
 </div>
 
 
@@ -599,11 +599,11 @@ The Quick stood alone at the center of the arena, its small frame dwarfed by the
 The Threx were allies in name, but the Laments were one thing—terrifying, yes, but comprehensible. This small, frightened thing was something else. Something fragile. Something that had traveled alone across a world that would happily kill it.
 
 
-At Ajani's approach, the Quick's head snapped up. Its eyes caught the green fire flickering along the king's claws and widened—not with fear, but with recognition. The stridulation began, a soft humming that formed itself into words, halting and breathless.
+At Ajani's approach, the Quick's head snapped up. Its eyes caught the marshlight flickering along the king's claws and widened—not with fear, but with recognition. The stridulation began, a soft humming that formed itself into words, halting and breathless.
 
 
 <div class="dialogue-block">
-<span class="speech">"Ajani. Friend of the marsh. Disciple of L'vat."</span> The Quick's voice was a rasp, its syllables shaped by mouthparts never meant for Wengari speech. <span class="speech">"L'vat. He speaks of you. In the network. In the roots. He says—he says the White Dawn remembers. He says you carry the green fire. He says you are not like the others."</span> The Quick swayed on its feet, exhaustion and relief warring in its small body. <span class="speech">"I have walked for twenty-eight days. I have not slept. The desert is so dry. So empty. No mycelium. No song. I thought I would die before I reached you."</span> It lifted its head, meeting Ajani's eyes for the first time. <span class="speech">"But I am here. I am Quick. I speak for the Deep. The Deep wants to know—the pact is made. The road is promised. But the Blight stirs. The Chi'Thak are waking. They are early. They are organized. They are hungry. The Deep asks: what does the White Dawn intend to do?"</span> It swayed again, catching itself on a trembling limb. <span class="speech">"And also... also L'vat says to tell you... the old root is proud of you. He says you did not kneel. He says he knew you would not."</span> The Quick managed a faint, chittering sound that might have been laughter. <span class="speech">"He says you still owe him a year of service. He says he will collect."</span>
+<span class="speech">"Ajani. Friend of the marsh. Disciple of L'vat."</span> The Quick's voice was a rasp, its syllables shaped by mouthparts never meant for Wengari speech. <span class="speech">"L'vat. He speaks of you. In the network. In the roots. He says—he says the White Dawn remembers. He says you carry the green fire. He says you are not like the others."</span> The Quick swayed on its feet, exhaustion and relief warring in its small body. <span class="speech">"I have walked for twenty-eight days. I have not slept. The desert is so dry. So empty. No mycelium. No song. I thought I would die before I reached you."</span> It lifted its head, meeting Ajani's eyes for the first time. <span class="speech">"But I am here. I am Quick. I speak for the Deep. The Deep wants to know—the pact is made. The road is promised. But the Blight stirs. The Chi'Thak are waking. They are early. They are organized. They are hungry. The Deep asks: what does the White Dawn intend to do?"</span> It swayed again, catching itself on a trembling limb. <span class="speech">"And also... also L'vat says to tell you... the old root is proud of you. He says you did not kneel. He says he knew you would not."</span> The Quick managed a faint, chittering sound that passed for laughter. <span class="speech">"He says you still owe him a year of service. He says he will collect."</span>
 </div>
 
 
@@ -633,7 +633,7 @@ The green fire flickered between them. Not the blazing spear of the ritual. Not 
 
 
 <div class="dialogue-block">
-It swayed again, but this time it was not exhaustion. It was something closer to peace. <span class="speech">"I will rest now. The pool—I would like the pool. And then I will return to the marsh. L'vat will want to know everything. He will want to know that his student has become—"</span> The Quick made a soft, chittering sound. <span class="speech">"—adequate."</span> The Bright Paw guards, who had watched the entire exchange with their claws half-extended and their manes bristling, exchanged bewildered glances. One of them—the younger one—muttered something about never having seen a Threx smile before. The Quick did not smile. But its chitin gleamed as it was led toward the shaded pool that T'van's acolytes had prepared, and the green fire that was not its own still flickered gently along its limbs.
+It swayed again, but this time it was not exhaustion. It was something closer to peace. <span class="speech">"I will rest now. The pool—I would like the pool. And then I will return to the marsh. L'vat will want to know everything. He will want to know that his student has become—"</span> The Quick made a soft, chittering sound. <span class="speech">"—adequate."</span> The Bright Paw guards, who had watched the entire exchange with their claws half-extended and their manes bristling, exchanged bewildered glances. One of them—the younger one—muttered something about never having seen a Threx smile before. The Quick did not smile. But its chitin gleamed as it was led toward the shaded pool that T'van's acolytes had prepared, and the borrowed green flame still flickered gently along its limbs.
 </div>
 
 
@@ -647,7 +647,7 @@ T'van returned with the summons, his breath still short from running. <span clas
 </div>
 
 
-Ajani settled onto the throne. The cold stone was familiar now—it had been a month, and the seat had begun to mold to his frame, or perhaps he had begun to mold to it. The spear of green fire flickered beside him, a constant companion. He could still hear his father's voice in his memory, the words worn smooth by repetition over a lifetime of watching the old king hold court.
+Ajani settled onto the throne. The cold stone was familiar now—it had been a month, and the seat had begun to mold to his frame, or perhaps he had begun to mold to it. The spear of green flame flickered beside him, a constant companion. He could still hear his father's voice in his memory, the words worn smooth by repetition over a lifetime of watching the old king hold court.
 
 
 *Warm, unflinching, unforgiving.*
@@ -681,7 +681,7 @@ Only the mercenary remained standing.
 
 
 <div class="dialogue-block">
-The Stripe Paw's striped mane rippled in the oppressive heat, her claws half-extended, her breathing controlled. She had felt worse. She had trained under worse. But she was Wengari, and a Wengari did not kneel to another Wengari—not without cause. She met Ajani's eyes, her gaze steady, her voice calm. <span class="speech">"You are not my king. You are a king. My king is dead. My caravan is gone. I sell my claws to whoever pays, and these Hummans paid for my protection. They asked me to stand before you. I am standing. If you want me to kneel—"</span> She let the pause stretch, her claws catching the green fire's light. <span class="speech">"Make me."</span>
+The Stripe Paw's striped mane rippled in the oppressive heat, her claws half-extended, her breathing controlled. She had felt worse. She had trained under worse. But she was Wengari, and a Wengari did not kneel to another Wengari—not without cause. She met Ajani's eyes, her gaze steady, her voice calm. <span class="speech">"You are not my king. You are a king. My king is dead. My caravan is gone. I sell my claws to whoever pays, and these Hummans paid for my protection. They asked me to stand before you. I am standing. If you want me to kneel—"</span> She let the pause stretch, her claws catching the cold green glow. <span class="speech">"Make me."</span>
 </div>
 
 
@@ -742,7 +742,7 @@ The guards moved quickly. Two Bright Paws in ceremonial armor stepped forward an
 </div>
 
 
-The Humman merchants exchanged terrified glances. The one who had fallen first—a portly man in Verdantian silks—scrambled backward on his hands and knees, his breath coming in short, panicked gasps. His colleague grabbed his arm and hissed something in the Humman trade-tongue, too fast for Wengari ears to catch. They had seen their champion kneel. They had seen the king's eyes flare—that brief, terrible flash of green fire, the predator's gaze that every Humman cub learned to fear in the old tales.
+The Humman merchants exchanged terrified glances. The one who had fallen first—a portly man in Verdantian silks—scrambled backward on his hands and knees, his breath coming in short, panicked gasps. His colleague grabbed his arm and hissed something in the Humman trade-tongue, too fast for Wengari ears to catch. They had seen their champion kneel. They had seen the king's eyes flare—that brief, terrible flash of eerie green, the predator's gaze that every Humman cub learned to fear in the old tales.
 
 The ambassador alone remained, her face pale but her jaw set.
 
@@ -827,7 +827,7 @@ She spread her empty hands. <span class="speech">"That is my offer. That is my c
 Seris went very still.
 
 
-The king's laughter echoed through the empty arena, bouncing off the stone tiers where thousands had witnessed his coronation. The green fire flickered along his claws, and his smile—that terrible, predatory smile, full of teeth and ancient confidence—was the smile of a creature that had never doubted its place at the top of the food chain.
+The king's laughter echoed through the empty arena, bouncing off the stone tiers where thousands had witnessed his coronation. Cold green light flickered along his claws, and his smile—that terrible, predatory smile, full of teeth and ancient confidence—was the smile of a creature that had never doubted its place at the top of the food chain.
 
 
 She had miscalculated. She had come expecting to negotiate with a young king, a new king, a king who might be reasoned with. Instead, she had found Uthgard IX's son, sitting on his father's throne, tapping his father's claw rhythm, wearing his father's smile. She had been outplayed.
@@ -864,7 +864,7 @@ She turned to leave, her steps measured, her back straight—a diplomat's postur
 </div>
 
 
-The arena fell silent. The green fire flickered along Ajani's claws, casting dancing shadows across the empty stone tiers. Somewhere in the shaded colonnade, the Stripe Paw mercenary was still recovering from whatever the king had done to her. Somewhere in the palace, the Quick was resting beside a cool pool, dreaming of the marsh. Somewhere on the northern road, a mirage was walking toward them, singing a song that no living Wengari had ever heard.
+The arena fell silent. The Tree's fire burned low along Ajani's claws, throwing the empty stone tiers into shifting shadow. Somewhere in the shaded colonnade, the Stripe Paw mercenary was still recovering from whatever the king had done to her. Somewhere in the palace, the Quick was resting beside a cool pool, dreaming of the marsh. Somewhere on the northern road, a mirage was walking toward them, singing a song that no living Wengari had ever heard.
 
 And somewhere beneath the earth, the Blight was stirring, early and organized and hungry. The king sat on his throne and waited for the next delegation.
 
@@ -913,7 +913,7 @@ The Hydromancer's clouded eyes registered the extended hand, and something ancie
 
 
 <div class="dialogue-block">
-The Hydromancer made a soft sound that might have been a laugh. <span class="speech">"The young are so direct."</span> She stepped forward, her embedded rune-glass pulsing with amber light, and placed her ancient hand over both of theirs. Her skin was cool, paper-thin, the bones beneath delicate as a bird's. <span class="speech">"The Pyrinae have served the Bright Paws for three thousand years. We kept the pact when the kings forgot it. We kept the wells when the rituals faltered. We kept the knowledge when the Memory-Vaults were all that remained of your glory."</span> Her grip tightened, just slightly. <span class="speech">"We do not kneel, Ajani Brightmane. Not because we are proud. Not because we are defiant. But because kneeling would imply that we are subjects, and subjects can be released. We are not subjects. We are the roots beneath your garden. We are the water beneath your wells. We are the memory beneath your throne. You cannot release us. You can only forget us—and you have seen what happens when the Wengari forget."</span>
+The Hydromancer made a soft sound, almost a laugh. <span class="speech">"The young are so direct."</span> She stepped forward, her embedded rune-glass pulsing with amber light, and placed her ancient hand over both of theirs. Her skin was cool, paper-thin, the bones beneath delicate as a bird's. <span class="speech">"The Pyrinae have served the Bright Paws for three thousand years. We kept the pact when the kings forgot it. We kept the wells when the rituals faltered. We kept the knowledge when the Memory-Vaults were all that remained of your glory."</span> Her grip tightened, just slightly. <span class="speech">"We do not kneel, Ajani Brightmane. Not because we are proud. Not because we are defiant. But because kneeling would imply that we are subjects, and subjects can be released. We are not subjects. We are the roots beneath your garden. We are the water beneath your wells. We are the memory beneath your throne. You cannot release us. You can only forget us—and you have seen what happens when the Wengari forget."</span>
 </div>
 
 
@@ -971,7 +971,7 @@ She had never seen a king drop the act so completely.
 </div>
 
 
-The green fire flickered along the king's claws. Somewhere in the shadows of the colonnade, the Root-Speaker was still listening. Somewhere beneath the desert, the Kyre Tree was waiting. And on the throne, the young king regarded the ancient Hydromancer with eyes that gave nothing away.
+Green flame glowed softly along the king's claws. Somewhere in the shadows of the colonnade, the Root-Speaker was still listening. Somewhere beneath the desert, the Kyre Tree was waiting. And on the throne, the young king regarded the ancient Hydromancer with eyes that gave nothing away.
 
 
 *Twirl the spear, then throw it at her face, grace her lightly... there.*
@@ -1090,7 +1090,7 @@ The Sun-Walker's sharp merchant eyes flicked from the spear still quivering in t
 
 
 <div class="dialogue-block">
-Nefere resumed her formal posture, her voice returning to the measured cadence of a diplomat—but softer now, edged with something that might have been warmth. <span class="speech">"The Pyrinae delegation stands before you, King Ajani. We have spoken of friendship. We have spoken of memory. We have spoken of the road that you intend to build and the promises we have kept for three thousand years."</span> She spread her hands. <span class="speech">"What remains to be discussed is the shape of our alliance in the years to come. You know what we offer: our rune-glass, our wells, our knowledge of the deep aquifers, our memory of the old pacts. You know what we seek: a place on the road you are building, a voice in the decisions that will shape the future of the desert, and the continued survival of our people alongside yours."</span> She met his eyes. <span class="speech">"The negotiations, as you say, must resume. What would the king ask of the Pyrinae?"</span>
+Nefere resumed her formal posture, her voice returning to the measured cadence of a diplomat—but softer now, and warmed at the edges. <span class="speech">"The Pyrinae delegation stands before you, King Ajani. We have spoken of friendship. We have spoken of memory. We have spoken of the road that you intend to build and the promises we have kept for three thousand years."</span> She spread her hands. <span class="speech">"What remains to be discussed is the shape of our alliance in the years to come. You know what we offer: our rune-glass, our wells, our knowledge of the deep aquifers, our memory of the old pacts. You know what we seek: a place on the road you are building, a voice in the decisions that will shape the future of the desert, and the continued survival of our people alongside yours."</span> She met his eyes. <span class="speech">"The negotiations, as you say, must resume. What would the king ask of the Pyrinae?"</span>
 </div>
 
 
@@ -1219,7 +1219,7 @@ Sylara inclined her head. Her fin-ridges rippled faintly, tasting the air, readi
 Sylara was silent for a long moment. The Petal-Shell in her hands pulsed with a slow, rhythmic light, matching the steady beat of her breathing—a sign, perhaps, of deep thought among her kind. The fin-ridges along her temples rippled once, twice, then stilled.
 
 
-When she spoke, her melodic voice carried a new note beneath its patient cadence. Something that might have been wonder. Or calculation. Or both.
+When she spoke, her melodic voice carried a new note beneath its patient cadence. Wonder, or calculation — or both.
 
 
 <div class="dialogue-block">
@@ -1327,6 +1327,6 @@ She extended her webbed hand once more, and the sphere of water that had hovered
 
 
 <div class="dialogue-block">
-Sylara's fin-ridges flared, then settled, then flared again in a rapid sequence that might have been the Veylar equivalent of a startled laugh. <span class="speech">"You want to send Humman envoys,"</span> she said slowly, as if making sure she had heard correctly. <span class="speech">"Guarded by Wengari warriors. To the Tidepools. To negotiate with the Harmonic Council in person, rather than waiting for me to carry your terms across the ocean and back."</span> She was silent for a long moment, her iridescent skin cycling through a cascade of colors—silver, deep blue, a flicker of gold that might have been admiration, or might have been alarm. <span class="speech">"King Ajani, the Veylar have not received surface-dwellers on our shores in four thousand years. The last was the Lightbringer. He came alone, himself. He came wandering out of the desert, lost and seeking songs, in the years before he built his pact. He did not ride a Styx—that was Xal'thyra, our shame and our silence, the only Tyrant who ever broke the white flame to her will. The Lightbringer came on foot, with sand still in his mane and the wide eyes of a pilgrim. We gave him our songs. He used them to hold the world together for three thousand years."</span> She raised her eyes to the throne. <span class="speech">"You are not the Lightbringer. You are something new. And you are asking us to open our most sacred places to Hummans—to the race that produced the Plague—guarded by Wengari, the race that produced the Black Fire. All to save time."</span> She paused, and the gold flickered again across her skin. <span class="speech">"The Harmonic Council will debate this for a decade. They will sing the old songs and consult the moon and argue precedent until the Tidepools themselves grow tired of listening. And then—"</span> She inclined her head, a gesture that was almost, but not quite, a bow. <span class="speech">"Then they will accept. Because you are right. The Blight will not wait for deliberation. The road cannot wait for patience. And the Veylar, who have been patient for twenty thousand years, must learn to be swift."</span> She extended her webbed hand once more, and the sphere of water pulsed in time with the Petal-Shell's light. <span class="speech">"Send your envoys. Send your guards. The Tidepools will receive them. I will precede them across the ocean and prepare the Council for what is coming. And when your Hummans arrive on our shores, they will be the first of their kind to see the Coral Citadel since the world was young."</span> She met his eyes, and her melodic voice carried a note that might have been excitement, or might have been terror, or might have been both. <span class="speech">"I have no objections, King Ajani. Only a great deal of fear. And a great deal of hope."</span>
+Sylara's fin-ridges flared, then settled, then flared again in a rapid sequence — the Veylar equivalent of a startled laugh. <span class="speech">"You want to send Humman envoys,"</span> she said slowly, as if making sure she had heard correctly. <span class="speech">"Guarded by Wengari warriors. To the Tidepools. To negotiate with the Harmonic Council in person, rather than waiting for me to carry your terms across the ocean and back."</span> She was silent for a long moment, her iridescent skin cycling through a cascade of colors—silver, deep blue, a flicker of gold — admiration or alarm, impossible to tell. <span class="speech">"King Ajani, the Veylar have not received surface-dwellers on our shores in four thousand years. The last was the Lightbringer. He came alone, himself. He came wandering out of the desert, lost and seeking songs, in the years before he built his pact. He did not ride a Styx—that was Xal'thyra, our shame and our silence, the only Tyrant who ever broke the white flame to her will. The Lightbringer came on foot, with sand still in his mane and the wide eyes of a pilgrim. We gave him our songs. He used them to hold the world together for three thousand years."</span> She raised her eyes to the throne. <span class="speech">"You are not the Lightbringer. You are something new. And you are asking us to open our most sacred places to Hummans—to the race that produced the Plague—guarded by Wengari, the race that produced the Black Fire. All to save time."</span> She paused, and the gold flickered again across her skin. <span class="speech">"The Harmonic Council will debate this for a decade. They will sing the old songs and consult the moon and argue precedent until the Tidepools themselves grow tired of listening. And then—"</span> She inclined her head, a gesture that was almost, but not quite, a bow. <span class="speech">"Then they will accept. Because you are right. The Blight will not wait for deliberation. The road cannot wait for patience. And the Veylar, who have been patient for twenty thousand years, must learn to be swift."</span> She extended her webbed hand once more, and the sphere of water pulsed in time with the Petal-Shell's light. <span class="speech">"Send your envoys. Send your guards. The Tidepools will receive them. I will precede them across the ocean and prepare the Council for what is coming. And when your Hummans arrive on our shores, they will be the first of their kind to see the Coral Citadel since the world was young."</span> She met his eyes, and her melodic voice carried a note of something raw and unnamed. <span class="speech">"I have no objections, King Ajani. Only a great deal of fear. And a great deal of hope."</span>
 </div>
 

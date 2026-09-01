@@ -6,7 +6,7 @@
 
 
 <div class="dialogue-block">
-Kareth, the old general, the scarred Shadow Paw who had served one king his whole life and buried him, let out a sound that might have been a laugh or might have been a snarl. It echoed through the chamber, strange and sharp in the green-lit darkness. <span class="speech">"The boy king speaks truth,"</span> he said, turning to the other elders. <span class="speech">"What race can best a Wengari in single combat? None. What race hasn't felt our claws? None. We are feared. We are respected. We are the strongest."</span> He tapped his obsidian staff against the stone. <span class="speech">"And now we know why. The lord of the desert has been sharpening us. For three thousand years, it has been sharpening us. Killing the weak. Forging the strong. Turning us into weapons."</span>
+Kareth, the old general, the scarred Shadow Paw who had served one king his whole life and buried him, let out a sound between a laugh and a snarl. It echoed through the chamber, strange and sharp in the green-lit darkness. <span class="speech">"The boy king speaks truth,"</span> he said, turning to the other elders. <span class="speech">"What race can best a Wengari in single combat? None. What race hasn't felt our claws? None. We are feared. We are respected. We are the strongest."</span> He tapped his obsidian staff against the stone. <span class="speech">"And now we know why. The lord of the desert has been sharpening us. For three thousand years, it has been sharpening us. Killing the weak. Forging the strong. Turning us into weapons."</span>
 </div>
 
 
@@ -46,12 +46,12 @@ Nyasha stepped forward. The ancient Motted Paw moved with the slow, deliberate g
 
 
 <div class="dialogue-block">
-<p class="speech-line">She turned back to Ajani, and her ancient eyes held something that might have been pride, or might have been sorrow, or might have been both. "You have done what no king has done since the Lightbringer vanished. You have spoken to the lord of the desert as an equal. You have brokered a new pact—your own pact, you said. Not the Lightbringer's. Not your father's. Yours. And now you ask us—the elders, the chiefs, the heirs—to join you. To forge a Wengari pact. Not a Bright Paw pact. A pact of all the families."</p>
+<p class="speech-line">She turned back to Ajani, and her ancient eyes held pride, and beneath it, sorrow. "You have done what no king has done since the Lightbringer vanished. You have spoken to the lord of the desert as an equal. You have brokered a new pact—your own pact, you said. Not the Lightbringer's. Not your father's. Yours. And now you ask us—the elders, the chiefs, the heirs—to join you. To forge a Wengari pact. Not a Bright Paw pact. A pact of all the families."</p>
 </div>
 
 
 <div class="dialogue-block">
-<p class="speech-line">She let the silence stretch for a long, breathless moment. Then she lowered her head, her ancient spine bending in a bow that no living Wengari had ever seen her perform. "I am old, Ajani Brightmane. I have seen two Tides. I will not see a third. But if you are offering the Motted Paws a chance to be part of something greater than we have been for three thousand years—to speak to the lord of the desert, to forge our own pact, to reclaim the glory that was lost—then I will follow you. Not as a subject. Not as an elder. As a Wengari."</p>
+<p class="speech-line">She let the silence stretch until nothing remained but the low pulse of the roots. Then she lowered her head, her ancient spine bending in a bow that no living Wengari had ever seen her perform. "I am old, Ajani Brightmane. I have seen two Tides. I will not see a third. But if you are offering the Motted Paws a chance to be part of something greater than we have been for three thousand years—to speak to the lord of the desert, to forge our own pact, to reclaim the glory that was lost—then I will follow you. Not as a subject. Not as an elder. As a Wengari."</p>
 </div>
 
 
@@ -72,11 +72,11 @@ The amber pool rippled. The blossom stirred. The Tree was listening. And for the
 *Please, please, don't kill any of the old fools...*
 
 
-The words hung in the air like a blade poised to fall. The elders and heirs of the five families stood frozen, their eyes fixed on the pulsing blossom at the center of the chamber. The green luminescence of the Kyre Tree's roots cast their faces in sharp relief, and for a long, breathless moment, no one moved.
+The words hung in the air like a blade poised to fall. The elders and heirs of the five families stood frozen, their eyes fixed on the pulsing blossom at the center of the chamber. The green luminescence of the Kyre Tree's roots cast their faces in sharp relief. The silence deepened until it pressed against the ear, and no one moved.
 
 
 <div class="dialogue-block">
-Kareth was the first to speak. <span class="speech">"You ask us to bargain with a god."</span> His voice was hoarse, barely a whisper. <span class="speech">"To offer our hearts to something that has been feeding on our people for three thousand years. To stand before it, alone, and prove ourselves worthy."</span> He turned his scarred face toward Ajani, and his one good eye gleamed with something that might have been fear or might have been fury. <span class="speech">"You ask much, young king."</span>
+Kareth was the first to speak. <span class="speech">"You ask us to bargain with a god."</span> His voice was hoarse, barely a whisper. <span class="speech">"To offer our hearts to something that has been feeding on our people for three thousand years. To stand before it, alone, and prove ourselves worthy."</span> He turned his scarred face toward Ajani, and his one good eye gleamed, and whether it was fear or fury, no one could have said. <span class="speech">"You ask much, young king."</span>
 </div>
 
 
@@ -86,7 +86,7 @@ Zara stepped forward. The Stripe Paw chief had retracted her claws, but her mass
 
 
 <div class="dialogue-block">
-Nyasha, who had already spoken more in this chamber than she had in three decades of council meetings, raised a hand. <span class="speech">"The young king is right. If we are to reclaim what we lost, we must prove ourselves worthy of it. The Lightbringer made a pact for all of us. We failed to keep it. Now we must make our own."</span> She turned her ancient eyes toward Ajani, and there was something in them that might have been approval. <span class="speech">"I will go first. I am old. If the Tree rejects me, let it be a lesson to the young. If it accepts me—"</span> She smiled, a thin, weathered expression that had not been seen on her face in living memory. <span class="speech">"Then let it be a lesson to you all."</span>
+Nyasha, who had already spoken more in this chamber than she had in three decades of council meetings, raised a hand. <span class="speech">"The young king is right. If we are to reclaim what we lost, we must prove ourselves worthy of it. The Lightbringer made a pact for all of us. We failed to keep it. Now we must make our own."</span> She turned her ancient eyes toward Ajani, and something like approval moved in them. <span class="speech">"I will go first. I am old. If the Tree rejects me, let it be a lesson to the young. If it accepts me—"</span> She smiled, a thin, weathered expression that had not been seen on her face in living memory. <span class="speech">"Then let it be a lesson to you all."</span>
 </div>
 
 
@@ -153,7 +153,7 @@ He would never fight again. He would never ignite the Four Pillars. He would nev
 
 
 <div class="dialogue-block">
-The elders watched in horrified silence. One of the Bright Paw priests rushed forward to drag Solen back from the edge of the pool. The young warrior's eyes were open, staring at the ceiling, his chest still rising and falling, but the light behind his gaze was gone. Kareth's scarred face twisted with something that might have been grief, or might have been fury. <span class="speech">"The Tree does not bargain in kindness,"</span> he said, his voice flat. <span class="speech">"It bargains in hunger. The boy offered his fear. The Tree took everything."</span>
+The elders watched in horrified silence. One of the Bright Paw priests rushed forward to drag Solen back from the edge of the pool. The young warrior's eyes were open, staring at the ceiling, his chest still rising and falling, but the light behind his gaze was gone. Kareth's scarred face twisted between grief and fury. <span class="speech">"The Tree does not bargain in kindness,"</span> he said, his voice flat. <span class="speech">"It bargains in hunger. The boy offered his fear. The Tree took everything."</span>
 </div>
 
 

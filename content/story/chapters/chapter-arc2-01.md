@@ -203,7 +203,7 @@ One by one, the other chiefs and heirs rose. The Shadow Paws, wary but unwilling
 The descent was slow. The spiral stair had been carved by the Lightbringer's own sorcery three thousand years ago, and the steps were worn smooth by centuries of royal footfalls—but only ever one set at a time. No king had brought an entourage into the inner chamber. No king had dared.
 
 
-Ajani's green fire flickered along the walls, casting dancing shadows that made the ancient runes seem to writhe. Behind him, the elders of the five families followed in single file. Kareth, his obsidian staff tapping against the stone with each labored step, his breath coming in harsh rasps. Zara, the Stripe Paw chief, her massive frame barely fitting through the narrowest portions of the passage, her claws scraping against the walls for balance.
+Ajani's fire flickered along the walls — cold, green, marsh-born — casting dancing shadows that made the ancient runes seem to writhe. Behind him, the elders of the five families followed in single file. Kareth, his obsidian staff tapping against the stone with each labored step, his breath coming in harsh rasps. Zara, the Stripe Paw chief, her massive frame barely fitting through the narrowest portions of the passage, her claws scraping against the walls for balance.
 
 Nyasha, impossibly old, moving with the slow, deliberate grace of one who had walked these depths before—perhaps in another life, perhaps in another age.
 
@@ -211,7 +211,7 @@ Nyasha, impossibly old, moving with the slow, deliberate grace of one who had wa
 The other elders followed. The heirs followed. And at the rear, the Bright Paw priests who had been permitted to accompany their new king exchanged nervous glances as the air grew thin and the weight of the Tree's presence pressed against their lungs.
 
 
-When Zara stumbled—her great paw slipping on a worn step—Ajani was there. His hand caught her arm, and a pulse of green fire flared between them, steadying her, warming her, filling her lungs with air that did not taste of ancient stone and patient hunger. She looked at him with something that might have been surprise, or might have been gratitude, and nodded once before continuing.
+When Zara stumbled—her great paw slipping on a worn step—Ajani was there. His hand caught her arm, and a pulse of green fire flared between them, steadying her, warming her, filling her lungs with air that did not taste of ancient stone and patient hunger. She looked at him — surprise, perhaps, or gratitude — and nodded once before continuing.
 
 
 The passage opened. The vast underground chamber lay before them—the roots of the Kyre Tree pulsing with pale green light, the blossom at its center still and silent, the amber pool rippling faintly. The elders, chiefs, and heirs of the Wengari stood at the threshold of the most sacred and terrible place in their history, and for a long, breathless moment, no one spoke.
