@@ -182,6 +182,10 @@ def index_canon_references(c):
     if os.path.isdir(cdir):
         for dp, _, fs in os.walk(cdir):
             targets += [os.path.join(dp, f) for f in sorted(fs) if f.endswith('.md')]
+    cdir = os.path.join(ROOT, 'canon')
+    if os.path.isdir(cdir):
+        targets += [os.path.join(cdir, f) for f in sorted(os.listdir(cdir))
+                    if f.endswith('.md')]
     for path in targets:
         if not os.path.exists(path):
             continue
@@ -189,6 +193,23 @@ def index_canon_references(c):
         body = strip_tags(open(path, encoding='utf-8').read())
         c.execute('INSERT INTO corpus_fts VALUES (?,?,?,?,?,?,?)', (
             'canon_reference', rel, None, None, '', '', body))
+        n += 1
+    # Adjudicated rulings — indexed in place from digest/ (never moved/duplicated)
+    ws = os.path.dirname(ROOT)
+    rulings = [
+        os.path.join(ws, 'digest', 'personal', 'ethra-canon-rulings.md'),
+        os.path.join(ws, 'digest', 'wiki',
+                     'ethra-canonical-identity-state-kira-and-mira.md'),
+        os.path.join(ws, 'digest', 'personal',
+                     'ainz-protected-content-and-no-cut-without-ruling.md'),
+    ]
+    for path in rulings:
+        if not os.path.exists(path):
+            continue
+        rel = os.path.relpath(path, ws).replace('\\', '/')
+        body = strip_tags(open(path, encoding='utf-8').read())
+        c.execute('INSERT INTO corpus_fts VALUES (?,?,?,?,?,?,?)', (
+            'ruling', rel, None, None, '', '', body))
         n += 1
     return n
 
