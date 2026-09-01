@@ -1,6 +1,6 @@
 # Ethra Canon Ledger — DERIVED (regenerable, never hand-edited)
 
-Compiled: 2026-09-01 08:33 by `canon/compile_canon.py` from 9 canon files.
+Compiled: 2026-09-01 09:46 by `canon/compile_canon.py` from 9 canon files.
 Source of truth: published masters + canon/roster.md skeleton.
 
 ## Entity census (counts per canonical unit)
