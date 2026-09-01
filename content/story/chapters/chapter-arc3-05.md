@@ -24,7 +24,7 @@ Ajani's claws were gripping the fence rail so hard the stone creaked. His tail l
 The crowd erupted. Sylva and Torin remained mounted, their silver auras flickering gently, their faces calm. They had won the final phase. They would advance to face the king.
 
 
-And Ajani—Ajani was still gripping the fence rail, his chest heaving, his eyes bright as a cub's. He had not noticed the green fire flaring along his claws. He had not noticed the silence spreading through the nearby elders as they watched their king unguard his passion. He had noticed only the fire feet, and the riders, and the sheer, visceral beauty of mounted combat. Zara watched him from across the enclosure.
+And Ajani—Ajani was still gripping the fence rail, his chest heaving, his eyes bright as a cub's. He had not noticed the cold green light flaring along his claws. He had not noticed the silence spreading through the nearby elders as they watched their king unguard his passion. He had noticed only the fire feet, and the riders, and the sheer, visceral beauty of mounted combat. Zara watched him from across the enclosure.
 
 Her golden eyes narrowed, then softened. She had seen many things in her decades as Stripe Paw chief. She had never seen a Bright Paw king lean over a fence rail and shout himself hoarse for a Motted Paw victory. The fire feet were the Stripe Paws' gift to the world. The king was a fan of the fire feet. The gift she had been planning with Korr—the pale mount, Ember, who had carried the young wanderer across the Rune-Belt—would be more than a gesture.
 
@@ -67,7 +67,7 @@ Torin's balance shattered. He gripped the reins, fought for control, but his fir
 One champion remained. Sylva of the Motted Paws, mounted on a Stripe Paw war-mount, her silver aura flickering gently in the afternoon sun. She would face the king at twilight.
 
 
-Ajani released the fence rail. His claws had left furrows in the stone. He straightened his white cloak, smoothed his golden mane, and cleared his throat with as much regal composure as he could muster. But Zara had already seen. Kareth had seen. Hakar had seen. And Sylva, looking down from her war-mount, inclined her elegant head toward the king with something that might have been a smile. The White Dawn loved the fight.
+Ajani released the fence rail. His claws had left furrows in the stone. He straightened his white cloak, smoothed his golden mane, and cleared his throat with as much regal composure as he could muster. But Zara had already seen. Kareth had seen. Hakar had seen. And Sylva, looking down from her war-mount, inclined her elegant head toward the king, almost smiling. The White Dawn loved the fight.
 
 The elders had noticed. And the gifts that would follow this tournament would be gifts worthy of a king who, for one glorious afternoon, had forgotten he was supposed to be regal.
 
@@ -102,7 +102,7 @@ And Sylva, the new regent, stood in the center of the enclosure with her silver 
 
 
 <div class="dialogue-block">
-<p class="speech-line">The arena's roar was all the answer Ajani needed, but the Wengari gave it anyway. "YEARLY! YEARLY! YEARLY!" The chant thundered through the stone tiers, punctuated by the rhythmic pounding of Stripe Paw tails against the stone and the sharp crack of Shadow Paw obsidian staves. The Bright Paws, still humiliated from their early elimination, found themselves swept up in the fervor despite themselves—even old Solen, his golden mane still dusty from the morning, was clapping his ancient paws together with something that might have been hope.</p>
+<p class="speech-line">The arena's roar was all the answer Ajani needed, but the Wengari gave it anyway. "YEARLY! YEARLY! YEARLY!" The chant thundered through the stone tiers, punctuated by the rhythmic pounding of Stripe Paw tails against the stone and the sharp crack of Shadow Paw obsidian staves. The Bright Paws, still humiliated from their early elimination, found themselves swept up in the fervor despite themselves—even old Solen, his golden mane still dusty from the morning, was clapping his ancient paws together with something close to hope.</p>
 </div>
 
 
@@ -232,7 +232,7 @@ He had watched his father demonstrate the form at a hundred annual rituals. He k
 Styx style. First form. Aim for the shoulder. When she deflects, point to the plexus. Dead in two moves.
 
 
-He lunged. The spear was faster than the saber—longer, more precise, a single point of green fire aimed at Sylva's right shoulder. If she deflected, the blade would drop naturally toward her solar plexus. If she dodged, he would pivot and sweep her legs. The form was flawless. The execution was perfect. And Sylva did neither.
+He lunged. The spear was faster than the saber—longer, more precise, a single point of green flame aimed at Sylva's right shoulder. If she deflected, the blade would drop naturally toward her solar plexus. If she dodged, he would pivot and sweep her legs. The form was flawless. The execution was perfect. And Sylva did neither.
 
 
 She caught the spear. Not the blade—the shaft. Her silver claws closed around the green fire just behind the leaf-shaped point, and she twisted, not to redirect the weapon but to redirect the warrior. Ajani's momentum carried him forward, and Sylva flowed with it, her body rolling around the spear like water around a stone. The young king stumbled, caught himself, and spun to face her—but she was already behind him, her silver aura flickering gently, her expression unchanged.
@@ -263,7 +263,7 @@ The sword blazed to life—a double-edged blade of emerald fire, shorter than th
 Five forms. Fourth form. Aim for the wrist. Twist to the lung. If she catches or deflects, curve to the neck. Keep it tight. Don't allow openings.
 
 
-He moved. The first strike was a blur of green fire aimed at Sylva's right wrist—a disabling blow, meant to end the duel without bloodshed. She did not catch it. She did not deflect it. She simply was not there when the blade arrived. Her body flowed sideways, her silver aura trailing behind her like moonlight on water, and the sword hissed through empty air. The second strike followed without pause—a twist of the wrist that redirected the blade toward her ribs, a thrust that should have caught her mid-step.
+He moved. The first strike was a blur of green flame aimed at Sylva's right wrist—a disabling blow, meant to end the duel without bloodshed. She did not catch it. She did not deflect it. She simply was not there when the blade arrived. Her body flowed sideways, her silver aura trailing behind her like moonlight on water, and the sword hissed through empty air. The second strike followed without pause—a twist of the wrist that redirected the blade toward her ribs, a thrust that should have caught her mid-step.
 
 But Sylva was already turning, her body rolling with the strike, and the sword's point grazed her silver fur but did not cut. The third strike was the curve—a sweeping arc that reversed the blade's momentum and brought it slicing toward her neck. Tight. Fast. No openings.
 
@@ -292,7 +292,7 @@ He was going to have to try something he had never tried before. Something his f
 
 The sword dissolved mid-swing, its green fire collapsing into a cascade of sparks, and the staff blazed to life in Ajani's paws in the same fluid motion. The transition was seamless—a technique he had practiced a thousand times, the secret heart of the Four Pillars, the art of switching weapons faster than any opponent could adapt. The staff was the grandfather, the fourth pillar, a weapon of defense and patience.
 
-But Ajani was not using it for defense. He was using it for deception. The sword had been the feint. The staff was the kill shot—a sweeping arc of green fire aimed at Sylva's ribs, carrying all the momentum of the abandoned sword strike, angled to strike from a direction she could not evade with her usual minimal movements.
+But Ajani was not using it for defense. He was using it for deception. The sword had been the feint. The staff was the kill shot—a sweeping arc of green flame aimed at Sylva's ribs, carrying all the momentum of the abandoned sword strike, angled to strike from a direction she could not evade with her usual minimal movements.
 
 
 Sylva flowed. Not backward, not sideways—down. Her body dropped beneath the staff's arc like water pouring over a fall, her silver aura flaring as she caught herself on one palm and swept her legs in a low, circular motion that was not an attack but a redirection. Her tail caught Ajani's ankle. His momentum, already committed to the staff strike, carried him forward. He stumbled. Caught himself. Spun to face her—but she was already standing, already calm, already watching him with those ancient silver eyes that had seen five thousand years of Wengari warriors and found them all wanting.
@@ -322,12 +322,12 @@ He was going to have to admit that he was not better than her. And then he was g
 The ji blazed to life in Ajani's paws—a weapon none of the gathered Wengari had ever seen. Its shaft was long, nearly the height of the king himself, and it shimmered with an unstable, shifting light that cycled between the brilliant gold of the Steadfast and the pure white of the male Styx circling far above. But the blade was green. Not the warm gold of the Bright Paw legacy, not the cold silver of the Motted Paws' Flowing Water, but the deep, vibrant green of living things, of marsh water and ancient roots and the patient, inexorable pulse of the Mycelial Deep.
 
 
-The crowd gasped. The Pyrinae Hydromancers leaned forward, their rune-glass staves humming in sympathy with the raw power bleeding off the platform. Zara's great paws tightened on the fence rail. Kareth's one good eye widened. Even Sylva, calm and patient Sylva, tilted her head a fraction of an inch, her silver aura flickering with something that might have been surprise—or might have been anticipation.
+The crowd gasped. The Pyrinae Hydromancers leaned forward, their rune-glass staves humming in sympathy with the raw power bleeding off the platform. Zara's great paws tightened on the fence rail. Kareth's one good eye widened. Even Sylva, calm and patient Sylva, tilted her head a fraction of an inch, her silver aura flickering — surprise, or anticipation.
 
 The ji was not one of the Four Pillars. It was something older, something wilder, something that combined the reach of the spear, the cutting edge of the saber, and the leverage of the staff into a single, devastating weapon.
 
 
-Ajani's chest heaved. The green fire along his claws was guttering now, flickering with exhaustion, but the ji held steady in his grip, its emerald blade casting dancing shadows across the polished stone. The weapon was not merely a conjuration. It was an act of will, a declaration of identity. This was the weapon of a warrior who had trained under L'vat in the marshes, who carried the Deep's fire in his veins, who refused to lose.
+Ajani's chest heaved. The flame along his claws was guttering now, flickering with exhaustion, but the ji held steady in his grip, its emerald blade casting dancing shadows across the polished stone. The weapon was not merely a conjuration. It was an act of will, a declaration of identity. This was the weapon of a warrior who had trained under L'vat in the marshes, who carried the Deep's fire in his veins, who refused to lose.
 
 He raised the ji high above his head, the blade blazing with green fire, and charged.
 
@@ -351,7 +351,7 @@ She flowed forward. Not fast—she was never fast—but with the inevitable, unh
 Her strike was not lethal. It was not even painful. It was precise. A single claw, extended, pressed against the hollow of his throat.
 
 
-The crowd fell utterly silent. The Styx circled above, their fires painting the twilight in shifting shades of flame. Sylva held her pose for a long, breathless moment—the old champion's claw at the young king's throat, the green fire of the ji guttering and dying in his exhausted paws.
+The crowd fell utterly silent. The Styx circled above, their fires painting the twilight in shifting shades of flame. Sylva held her pose—the old champion's claw at the young king's throat, the green fire of the ji guttering and dying in his exhausted paws.
 
 
 And then Ajani grinned. Not the grin of a defeated warrior. The grin of a king who had just remembered that the staff was the grandfather. And the grandfather protected. And deception was not the art—but the feint was.
@@ -360,10 +360,10 @@ And then Ajani grinned. Not the grin of a defeated warrior. The grin of a king w
 The ji dissolved. In the same fluid motion, the saber blazed back to life—not in a wide, sweeping arc, but in a tight, precise thrust that caught Sylva's extended arm at the wrist and guided it gently, inexorably, away from his throat. The switch had cost him everything—the last of his aura, the last of his strength, the last flicker of green fire that he could summon. But it had worked.
 
 
-Sylva looked down at the saber against her wrist. Then she looked up at the young king, whose chest was heaving, whose golden mane was plastered to his skull with sweat, whose green fire had dimmed to a faint, flickering glow. And she smiled—a small, private expression, meant only for him.
+Sylva looked down at the saber against her wrist. Then she looked up at the young king, whose chest was heaving, whose golden mane was plastered to his skull with sweat, whose fire had burned down to a faint green flicker. And she smiled—a small, private expression, meant only for him.
 
 
-The ji guttered and died in Ajani's exhausted paws, its emerald blade flickering out like a candle in a sandstorm. His chest heaved. His golden mane was plastered to his skull with sweat. The green fire along his claws had dimmed to a faint, sputtering glow, and every muscle in his body screamed with the effort of the duel. He had thrown everything at Sylva—the saber, the spear, the sword, the staff, the ji—and none of it had worked.
+The ji guttered and died in Ajani's exhausted paws, its emerald blade flickering out like a candle in a sandstorm. His chest heaved. His golden mane was plastered to his skull with sweat. The light along his claws had dimmed to a sputtering green glow, and every muscle in his body screamed with the effort of the duel. He had thrown everything at Sylva—the saber, the spear, the sword, the staff, the ji—and none of it had worked.
 
 She had caught or evaded or redirected every strike. She had read his openings, exploited his overcommitments, and pressed a single claw to his throat in front of the entire arena.
 
@@ -438,7 +438,7 @@ She raised one silver-furred paw, and her aura flared—not the gentle, patient 
 *Infuriating woman, not only does she try to beat me in the fight, now also at statecraft...*
 
 
-Sylva's silver eyes held his for a long, quiet moment. The crowd was silent, waiting, watching the young king and the old champion locked in a battle of wills that had nothing to do with claws or sabers or the green fire still flickering faintly along Ajani's knuckles. She inclined her head—a gesture that was neither submission nor defiance, but something older. Acknowledgment.
+Sylva's silver eyes held his for a long, quiet moment. The crowd was silent, waiting, watching the young king and the old champion locked in a battle of wills that had nothing to do with claws or sabers or faint green flame still flickering along Ajani's knuckles. She inclined her head—a gesture that was neither submission nor defiance, but something older. Acknowledgment.
 
 
 <div class="dialogue-block">
@@ -464,7 +464,7 @@ The Motted Paws would not be alone in their silence. They would be the first amo
 
 
 <div class="dialogue-block">
-<span class="speech">"A generous proclamation,"</span> she murmured, her soft voice carrying to the young king's ears alone. <span class="speech">"You learn quickly. The council seat I requested was a test. You passed. The schools were the true prize. You gave them freely."</span> She stepped back, her ancient eyes gleaming with something that might have been approval. <span class="speech">"You will make a fine king, Ajani Brightmane. When you return from the road, the Motted Paws will be waiting. We will have much to teach you."</span>
+<span class="speech">"A generous proclamation,"</span> she murmured, her soft voice carrying to the young king's ears alone. <span class="speech">"You learn quickly. The council seat I requested was a test. You passed. The schools were the true prize. You gave them freely."</span> She stepped back, her ancient eyes gleaming with approval. <span class="speech">"You will make a fine king, Ajani Brightmane. When you return from the road, the Motted Paws will be waiting. We will have much to teach you."</span>
 </div>
 
 
@@ -484,6 +484,6 @@ The Bright Paws, still humiliated, still stripped of their training autonomy, sa
 And Hakar, the old watchman, saw what it would mean: young soldiers flocking to the capital to study under the masters. The tournament had given them a dream. The schools would give them the means to achieve it. The Wengari, stagnant for three thousand years, were stirring. The king had done that. The tournament had done that. The road would do more.
 
 
-And the young king, exhausted and exhilarated, stood at the center of the platform with the green fire still flickering faintly along his claws and the roar of the crowd washing over him, and thought of the road ahead. The tournament was over. The regent was chosen. The schools would rise. The crown was safe. He had survived the closest duel of his life, had learned that instinct was sometimes worth more than technique, had discovered that the saber was his true weapon and that the ji was a form he might never master.
+And the young king, exhausted and exhilarated, stood at the center of the platform with the last green glow still clinging to his claws and the roar of the crowd washing over him, and thought of the road ahead. The tournament was over. The regent was chosen. The schools would rise. The crown was safe. He had survived the closest duel of his life, had learned that instinct was sometimes worth more than technique, had discovered that the saber was his true weapon and that the ji was a form he might never master.
 
 And tomorrow—or the day after, or the day after that, once the celebrations had ended and the delegations had departed and the capital had returned to something resembling order—he would begin the road. The great corridor. The pact's fulfillment. The bridge between the desert and the sea. That was the task that awaited him. That was the burden of the White Dawn. Tonight, he would celebrate.

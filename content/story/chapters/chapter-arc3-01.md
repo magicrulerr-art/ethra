@@ -2,7 +2,7 @@
 
 
 
-The sun was bleeding out across the western rim of the desert, painting the hanging gardens in shades of amber and rose. Ajani stood at the window of his chambers, watching the light fade, feeling the weight of the day settle into his bones. The white Styx still circled far to the north, patient as the stars, a constant reminder of the road ahead.
+The sun was bleeding out across the western rim of the desert, painting the hanging gardens in shades of amber and rose. Ajani stood at the window of his chambers, watching the light fade, feeling the weight of the day settle into his bones. The white Styx still circled far to the north, unhurried, a constant reminder of the road ahead.
 
 
 Three delegations. The Threx, who had come as friends and left with his fire in their veins. The Pyrinae, who had come as vassals and left as free allies. The Veylar, who had come as observers and left as partners, however hesitant. And still, somewhere below, the Humman ambassador was waiting with her answer.
@@ -68,7 +68,7 @@ She bowed her head one final time, lower than before. <span class="speech">"The 
 </div>
 
 
-She stepped back, her silhouette framed against the last glow of the vanished sun. The white Styx circled above, patient as the stars. The green fire flickered along Ajani's claws. And somewhere in the shadows of the colonnade, T'van was already waiting to escort the ambassador to her new quarters. The arena was empty now, the day's audiences complete, and the young king sat alone on his throne, the weight of four delegations pressing on his shoulders.
+She stepped back, her silhouette framed against the last glow of the vanished sun. The white Styx circled above, keeping its long vigil. Pale green light flickered along Ajani's claws. And somewhere in the shadows of the colonnade, T'van was already waiting to escort the ambassador to her new quarters. The arena was empty now, the day's audiences complete, and the young king sat alone on his throne, the weight of four delegations pressing on his shoulders.
 
 Somewhere in the capital, the Stripe Paw merchants were already counting their losses. Somewhere in the Bright Paw temples, traditionalists were muttering about cities given away and vassals made friends. Somewhere on the northern road, a mirage was walking toward them, singing a song no one recognized. And somewhere beneath the earth, the Blight was stirring. But for now, for this brief moment between sundown and moonrise, the king allowed himself to breathe.
 
@@ -239,7 +239,7 @@ Zara blinked. The faint smile that had been forming on her broad face faltered, 
 
 
 <div class="dialogue-block">
-<span class="speech">"A correction,"</span> she repeated, her voice carrying a note of something that might have been admiration. <span class="speech">"The Pyrinae are no longer vassals. They are friends. Peers. And friends—"</span> She glanced at the other elders, who were already murmuring among themselves. <span class="speech">"Friends do not work for free. Is that what you are telling us, King Ajani?"</span>
+<span class="speech">"A correction,"</span> she repeated, her voice carrying a note of quiet admiration. <span class="speech">"The Pyrinae are no longer vassals. They are friends. Peers. And friends—"</span> She glanced at the other elders, who were already murmuring among themselves. <span class="speech">"Friends do not work for free. Is that what you are telling us, King Ajani?"</span>
 </div>
 
 

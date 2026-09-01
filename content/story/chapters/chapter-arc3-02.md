@@ -141,7 +141,7 @@ Not even the Lightbringer, who had walked the March and spoken with the Laments,
 </div>
 
 
-The Quick closed its multifaceted eyes. The stars wheeled overhead. The green fire flickered gently along its chitin. And somewhere in the mycelial network, a thousand miles away, an old Lament named L'vat felt a pulse of warmth run through the roots, and wondered what his student had done now.
+The Quick closed its multifaceted eyes. The stars wheeled overhead. The marshlight flickered gently along its chitin. And somewhere in the mycelial network, a thousand miles away, an old Lament named L'vat felt a pulse of warmth run through the roots, and wondered what his student had done now.
 
 
 The northern watchtower was the oldest structure in the capital, older even than the Bright Paw temples, older than the inner chamber where the Lightbringer had vanished. It had been built in the days before the pact, when the desert was still wild and the Wengari huddled in scattered settlements, prey to every predator that roamed the sands. Its stones were worn smooth by the wind, and its parapet offered a clear view of the northern road—the road that stretched across the desert and into the distant green of the Rune-Belt.
@@ -204,7 +204,7 @@ Mara, who had served in the palace since Uthgard IX was young and had seen more 
 
 
 <div class="dialogue-block">
-<span class="speech">"The families are already gathering, my king,"</span> Mara said, her voice steady despite the chaos. <span class="speech">"The criers announced the tournament at dawn. The arena is being prepared. The Pyrinae delegation has requested front seats. The Hummans have asked if they are permitted to attend. The Veylar Shell-Singer is already seated in the eastern colonnade—she arrived before sunrise, and no one has dared ask her to move. And—"</span> She paused, her ears flicking with something that might have been amusement. <span class="speech">"And the Stripe Paws have been practicing in the caravan grounds since first light. They seem... eager."</span>
+<span class="speech">"The families are already gathering, my king,"</span> Mara said, her voice steady despite the chaos. <span class="speech">"The criers announced the tournament at dawn. The arena is being prepared. The Pyrinae delegation has requested front seats. The Hummans have asked if they are permitted to attend. The Veylar Shell-Singer is already seated in the eastern colonnade—she arrived before sunrise, and no one has dared ask her to move. And—"</span> She paused, her ears flicking with barely hidden amusement. <span class="speech">"And the Stripe Paws have been practicing in the caravan grounds since first light. They seem... eager."</span>
 </div>
 
 
@@ -231,7 +231,7 @@ The maids erupted into motion. Mara snapped orders at the younger attendants, wh
 </div>
 
 
-The young maid with the brush made a soft sound that might have been agreement. The fruit arrived—a bowl of sliced desert melon and dried figs, brought by a breathless kitchen attendant who nearly collided with the armory servant carrying the king's ceremonial armor. The armor was not the heavy battle-plate of a Wengari warrior, but the lighter, formal set worn for audiences and ceremonies—gold-inlaid pauldrons, a chestpiece etched with the four pillars, and a white cloak that had belonged to Uthgard IX.
+The young maid with the brush made a soft sound of agreement. The fruit arrived—a bowl of sliced desert melon and dried figs, brought by a breathless kitchen attendant who nearly collided with the armory servant carrying the king's ceremonial armor. The armor was not the heavy battle-plate of a Wengari warrior, but the lighter, formal set worn for audiences and ceremonies—gold-inlaid pauldrons, a chestpiece etched with the four pillars, and a white cloak that had belonged to Uthgard IX.
 
 
 <div class="dialogue-block">
@@ -296,7 +296,7 @@ Ajani flashed him a grateful look and kept running. The eastern colonnade opened
 
 
 <div class="dialogue-block">
-<p class="speech-line">The Shell-Singer's fin-ridges rippled with something that might have been amusement. "I waited eight hundred years for the White Dawn. I can wait eight more minutes." She closed her eye and resumed her humming.</p>
+<p class="speech-line">The Shell-Singer's fin-ridges rippled with dry amusement. "I waited eight hundred years for the White Dawn. I can wait eight more minutes." She closed her eye and resumed her humming.</p>
 </div>
 
 
@@ -348,7 +348,7 @@ Then the Stripe Paws began to laugh. It was not mocking laughter. It was the lau
 The Bright Paw traditionalists did not laugh. The High Priest Solen, seated among the elders, closed his eyes and pressed his paws together as if in prayer. The young priest who had railed against the king the night before sat rigid, his golden mane bristling, his claws half-extended.
 
 
-In the Pyrinae section, Nefere leaned toward Mira and murmured something that made the younger Pyrina's eyes widen. In the Humman tier, Seris sat very still, her daughter's hand clutched tightly in her own. The Veylar Shell-Singer opened both luminous eyes, her fin-ridges flaring with something that might have been surprise or might have been admiration. And in the shadowed alcove where the Threx Quick rested beside its pool, a small, chittering sound emerged—the Threx equivalent of startled delight.
+In the Pyrinae section, Nefere leaned toward Mira and murmured something that made the younger Pyrina's eyes widen. In the Humman tier, Seris sat very still, her daughter's hand clutched tightly in her own. The Veylar Shell-Singer opened both luminous eyes, her fin-ridges flaring in surprise — or admiration, hard to tell. And in the shadowed alcove where the Threx Quick rested beside its pool, a small, chittering sound emerged—the Threx equivalent of startled delight.
 
 
 <div class="dialogue-block">
@@ -374,7 +374,7 @@ The arena went absolutely silent. Not the silence of respect, not the silence of
 Then chaos.
 
 
-The Stripe Paws were on their feet, roaring not with laughter now but with pure, electric shock. The Shadow Paws had frozen, their obsidian staves suspended mid-pound. The Bright Paw traditionalists were clutching at each other, their golden manes bristling with horror. The Motted Paws, silent as ever, had leaned forward in their shadowed alcoves, their elegant heads tilted in something that might have been disbelief.
+The Stripe Paws were on their feet, roaring not with laughter now but with pure, electric shock. The Shadow Paws had frozen, their obsidian staves suspended mid-pound. The Bright Paw traditionalists were clutching at each other, their golden manes bristling with horror. The Motted Paws, silent as ever, had leaned forward in their shadowed alcoves, their elegant heads tilted in shared disbelief.
 
 
 In the Pyrinae section, Nefere had risen to her feet, her clouded eyes wide, her rune-glass filaments pulsing with urgent amber light. In the Humman tier, Seris had gone pale as the desert moon. The Veylar Shell-Singer's fin-ridges were flaring and flattening in rapid succession, a cascade of colors that no surface-dweller could interpret. And the Quick, resting beside its pool in the shaded colonnade, let out a single, piercing chitter that echoed through the stone like a cry of alarm.
@@ -396,7 +396,7 @@ She stared at the young king, her golden eyes searching his face for some sign t
 </div>
 
 
-The green fire flickered along Ajani's claws. His smile was wide, and bright, and utterly terrifying. The white Styx circled far above, patient as the stars. The tournament would begin in one hour. And the crown of the Wengari was now the greatest prize in the world.
+The green fire flickered along Ajani's claws. His smile was wide, and bright, and utterly terrifying. The white Styx held its high circle, waiting. The tournament would begin in one hour. And the crown of the Wengari was now the greatest prize in the world.
 
 
 **The Hour Before the Tournament**
@@ -540,7 +540,7 @@ She raised the Petal-Shell and sang a single, resonant note. The shell pulsed on
 *The Quick at the Pool*
 
 
-The Threx messenger floated on its back in the shaded pool, its multifaceted eyes watching the sky. It had heard the king's announcement. It had heard the roar of the crowd. It had felt the pulse of green fire flicker along its chitin in response.
+The Threx messenger floated on its back in the shaded pool, its multifaceted eyes watching the sky. It had heard the king's announcement. It had heard the roar of the crowd. It had felt the pulse of marshlight flicker along its chitin in response.
 
 
 The Quick could not send a champion. It was small, and young, and far from home. But it could send a thought, through the mycelial network, to L'vat in the distant marsh. And it did.
@@ -549,7 +549,7 @@ The Quick could not send a champion. It was small, and young, and far from home.
 'The king has put his crown on the line. The tournament begins in an hour. The Wengari are choosing their champions. The other races are choosing theirs. What should I do?'
 
 
-The response came not in words but in a feeling—a pulse of warmth, a flicker of something that might have been pride, or might have been worry, or might have been both. L'vat was watching. L'vat was waiting. And L'vat, the old root who had trained a White Dawn for a year, was not surprised at all.
+The response came not in words but in a feeling—a pulse of warmth, a flicker of pride edged with worry. L'vat was watching. L'vat was waiting. And L'vat, the old root who had trained a White Dawn for a year, was not surprised at all.
 
 
 **The Bright Paw Elders**

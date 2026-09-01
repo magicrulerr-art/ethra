@@ -1,7 +1,7 @@
 # Chapter 3: The Tournament
 
 
-The sun was bleeding out across the western rim of the desert, painting the hanging gardens in shades of amber and rose. Ajani stood at the window of his chambers, watching the light fade, feeling the weight of the day settle into his bones. The white Styx still circled far to the north, patient as the stars, a constant reminder of the road ahead.
+The sun was bleeding out across the western rim of the desert, painting the hanging gardens in shades of amber and rose. Ajani stood at the window of his chambers, watching the light fade, feeling the weight of the day settle into his bones. The white Styx still circled far to the north, unhurried, a constant reminder of the road ahead.
 
 
 Three delegations. The Threx, who had come as friends and left with his fire in their veins. The Pyrinae, who had come as vassals and left as free allies. The Veylar, who had come as observers and left as partners, however hesitant. And still, somewhere below, the Humman ambassador was waiting with her answer.
@@ -67,7 +67,7 @@ She bowed her head one final time, lower than before. <span class="speech">"The 
 </div>
 
 
-She stepped back, her silhouette framed against the last glow of the vanished sun. The white Styx circled above, patient as the stars. The green fire flickered along Ajani's claws. And somewhere in the shadows of the colonnade, T'van was already waiting to escort the ambassador to her new quarters. The arena was empty now, the day's audiences complete, and the young king sat alone on his throne, the weight of four delegations pressing on his shoulders.
+She stepped back, her silhouette framed against the last glow of the vanished sun. The white Styx circled above, keeping its long vigil. Pale green light flickered along Ajani's claws. And somewhere in the shadows of the colonnade, T'van was already waiting to escort the ambassador to her new quarters. The arena was empty now, the day's audiences complete, and the young king sat alone on his throne, the weight of four delegations pressing on his shoulders.
 
 Somewhere in the capital, the Stripe Paw merchants were already counting their losses. Somewhere in the Bright Paw temples, traditionalists were muttering about cities given away and vassals made friends. Somewhere on the northern road, a mirage was walking toward them, singing a song no one recognized. And somewhere beneath the earth, the Blight was stirring. But for now, for this brief moment between sundown and moonrise, the king allowed himself to breathe.
 
@@ -238,7 +238,7 @@ Zara blinked. The faint smile that had been forming on her broad face faltered, 
 
 
 <div class="dialogue-block">
-<span class="speech">"A correction,"</span> she repeated, her voice carrying a note of something that might have been admiration. <span class="speech">"The Pyrinae are no longer vassals. They are friends. Peers. And friends—"</span> She glanced at the other elders, who were already murmuring among themselves. <span class="speech">"Friends do not work for free. Is that what you are telling us, King Ajani?"</span>
+<span class="speech">"A correction,"</span> she repeated, her voice carrying a note of quiet admiration. <span class="speech">"The Pyrinae are no longer vassals. They are friends. Peers. And friends—"</span> She glanced at the other elders, who were already murmuring among themselves. <span class="speech">"Friends do not work for free. Is that what you are telling us, King Ajani?"</span>
 </div>
 
 
@@ -598,7 +598,7 @@ Not even the Lightbringer, who had walked the March and spoken with the Laments,
 </div>
 
 
-The Quick closed its multifaceted eyes. The stars wheeled overhead. The green fire flickered gently along its chitin. And somewhere in the mycelial network, a thousand miles away, an old Lament named L'vat felt a pulse of warmth run through the roots, and wondered what his student had done now.
+The Quick closed its multifaceted eyes. The stars wheeled overhead. The marshlight flickered gently along its chitin. And somewhere in the mycelial network, a thousand miles away, an old Lament named L'vat felt a pulse of warmth run through the roots, and wondered what his student had done now.
 
 
 The northern watchtower was the oldest structure in the capital, older even than the Bright Paw temples, older than the inner chamber where the Lightbringer had vanished. It had been built in the days before the pact, when the desert was still wild and the Wengari huddled in scattered settlements, prey to every predator that roamed the sands. Its stones were worn smooth by the wind, and its parapet offered a clear view of the northern road—the road that stretched across the desert and into the distant green of the Rune-Belt.
@@ -661,7 +661,7 @@ Mara, who had served in the palace since Uthgard IX was young and had seen more 
 
 
 <div class="dialogue-block">
-<span class="speech">"The families are already gathering, my king,"</span> Mara said, her voice steady despite the chaos. <span class="speech">"The criers announced the tournament at dawn. The arena is being prepared. The Pyrinae delegation has requested front seats. The Hummans have asked if they are permitted to attend. The Veylar Shell-Singer is already seated in the eastern colonnade—she arrived before sunrise, and no one has dared ask her to move. And—"</span> She paused, her ears flicking with something that might have been amusement. <span class="speech">"And the Stripe Paws have been practicing in the caravan grounds since first light. They seem... eager."</span>
+<span class="speech">"The families are already gathering, my king,"</span> Mara said, her voice steady despite the chaos. <span class="speech">"The criers announced the tournament at dawn. The arena is being prepared. The Pyrinae delegation has requested front seats. The Hummans have asked if they are permitted to attend. The Veylar Shell-Singer is already seated in the eastern colonnade—she arrived before sunrise, and no one has dared ask her to move. And—"</span> She paused, her ears flicking with barely hidden amusement. <span class="speech">"And the Stripe Paws have been practicing in the caravan grounds since first light. They seem... eager."</span>
 </div>
 
 
@@ -688,7 +688,7 @@ The maids erupted into motion. Mara snapped orders at the younger attendants, wh
 </div>
 
 
-The young maid with the brush made a soft sound that might have been agreement. The fruit arrived—a bowl of sliced desert melon and dried figs, brought by a breathless kitchen attendant who nearly collided with the armory servant carrying the king's ceremonial armor. The armor was not the heavy battle-plate of a Wengari warrior, but the lighter, formal set worn for audiences and ceremonies—gold-inlaid pauldrons, a chestpiece etched with the four pillars, and a white cloak that had belonged to Uthgard IX.
+The young maid with the brush made a soft sound of agreement. The fruit arrived—a bowl of sliced desert melon and dried figs, brought by a breathless kitchen attendant who nearly collided with the armory servant carrying the king's ceremonial armor. The armor was not the heavy battle-plate of a Wengari warrior, but the lighter, formal set worn for audiences and ceremonies—gold-inlaid pauldrons, a chestpiece etched with the four pillars, and a white cloak that had belonged to Uthgard IX.
 
 
 <div class="dialogue-block">
@@ -753,7 +753,7 @@ Ajani flashed him a grateful look and kept running. The eastern colonnade opened
 
 
 <div class="dialogue-block">
-<p class="speech-line">The Shell-Singer's fin-ridges rippled with something that might have been amusement. "I waited eight hundred years for the White Dawn. I can wait eight more minutes." She closed her eye and resumed her humming.</p>
+<p class="speech-line">The Shell-Singer's fin-ridges rippled with dry amusement. "I waited eight hundred years for the White Dawn. I can wait eight more minutes." She closed her eye and resumed her humming.</p>
 </div>
 
 
@@ -805,7 +805,7 @@ Then the Stripe Paws began to laugh. It was not mocking laughter. It was the lau
 The Bright Paw traditionalists did not laugh. The High Priest Solen, seated among the elders, closed his eyes and pressed his paws together as if in prayer. The young priest who had railed against the king the night before sat rigid, his golden mane bristling, his claws half-extended.
 
 
-In the Pyrinae section, Nefere leaned toward Mira and murmured something that made the younger Pyrina's eyes widen. In the Humman tier, Seris sat very still, her daughter's hand clutched tightly in her own. The Veylar Shell-Singer opened both luminous eyes, her fin-ridges flaring with something that might have been surprise or might have been admiration. And in the shadowed alcove where the Threx Quick rested beside its pool, a small, chittering sound emerged—the Threx equivalent of startled delight.
+In the Pyrinae section, Nefere leaned toward Mira and murmured something that made the younger Pyrina's eyes widen. In the Humman tier, Seris sat very still, her daughter's hand clutched tightly in her own. The Veylar Shell-Singer opened both luminous eyes, her fin-ridges flaring in surprise — or admiration, hard to tell. And in the shadowed alcove where the Threx Quick rested beside its pool, a small, chittering sound emerged—the Threx equivalent of startled delight.
 
 
 <div class="dialogue-block">
@@ -831,7 +831,7 @@ The arena went absolutely silent. Not the silence of respect, not the silence of
 Then chaos.
 
 
-The Stripe Paws were on their feet, roaring not with laughter now but with pure, electric shock. The Shadow Paws had frozen, their obsidian staves suspended mid-pound. The Bright Paw traditionalists were clutching at each other, their golden manes bristling with horror. The Motted Paws, silent as ever, had leaned forward in their shadowed alcoves, their elegant heads tilted in something that might have been disbelief.
+The Stripe Paws were on their feet, roaring not with laughter now but with pure, electric shock. The Shadow Paws had frozen, their obsidian staves suspended mid-pound. The Bright Paw traditionalists were clutching at each other, their golden manes bristling with horror. The Motted Paws, silent as ever, had leaned forward in their shadowed alcoves, their elegant heads tilted in shared disbelief.
 
 
 In the Pyrinae section, Nefere had risen to her feet, her clouded eyes wide, her rune-glass filaments pulsing with urgent amber light. In the Humman tier, Seris had gone pale as the desert moon. The Veylar Shell-Singer's fin-ridges were flaring and flattening in rapid succession, a cascade of colors that no surface-dweller could interpret. And the Quick, resting beside its pool in the shaded colonnade, let out a single, piercing chitter that echoed through the stone like a cry of alarm.
@@ -853,7 +853,7 @@ She stared at the young king, her golden eyes searching his face for some sign t
 </div>
 
 
-The green fire flickered along Ajani's claws. His smile was wide, and bright, and utterly terrifying. The white Styx circled far above, patient as the stars. The tournament would begin in one hour. And the crown of the Wengari was now the greatest prize in the world.
+The green fire flickered along Ajani's claws. His smile was wide, and bright, and utterly terrifying. The white Styx held its high circle, waiting. The tournament would begin in one hour. And the crown of the Wengari was now the greatest prize in the world.
 
 
 **The Hour Before the Tournament**
@@ -997,7 +997,7 @@ She raised the Petal-Shell and sang a single, resonant note. The shell pulsed on
 *The Quick at the Pool*
 
 
-The Threx messenger floated on its back in the shaded pool, its multifaceted eyes watching the sky. It had heard the king's announcement. It had heard the roar of the crowd. It had felt the pulse of green fire flicker along its chitin in response.
+The Threx messenger floated on its back in the shaded pool, its multifaceted eyes watching the sky. It had heard the king's announcement. It had heard the roar of the crowd. It had felt the pulse of marshlight flicker along its chitin in response.
 
 
 The Quick could not send a champion. It was small, and young, and far from home. But it could send a thought, through the mycelial network, to L'vat in the distant marsh. And it did.
@@ -1006,7 +1006,7 @@ The Quick could not send a champion. It was small, and young, and far from home.
 'The king has put his crown on the line. The tournament begins in an hour. The Wengari are choosing their champions. The other races are choosing theirs. What should I do?'
 
 
-The response came not in words but in a feeling—a pulse of warmth, a flicker of something that might have been pride, or might have been worry, or might have been both. L'vat was watching. L'vat was waiting. And L'vat, the old root who had trained a White Dawn for a year, was not surprised at all.
+The response came not in words but in a feeling—a pulse of warmth, a flicker of pride edged with worry. L'vat was watching. L'vat was waiting. And L'vat, the old root who had trained a White Dawn for a year, was not surprised at all.
 
 
 **The Bright Paw Elders**
@@ -1086,7 +1086,7 @@ He let the silence stretch. Solen's mouth opened, then closed. The other Bright 
 *Warm, unflinching, unforgiving.* His father's words echoed in his mind as he turned away from the stunned elders and walked toward the arena's edge. The hour was almost up. The tournament was about to begin. And the crown of the Wengari was waiting.
 
 
-In the space of three heartbeats, no one moved. The elders stood with their heads bowed and their claws retracted, and old Solen pressed one paw slowly to his chest, over his heart, where the king's claw had rested. No argument came. No protest followed. The silence was the surrender. The green fire still flickered along Ajani's claws, casting dancing shadows across the ancient stone—dimmed, but not gone.
+In the space of three heartbeats, no one moved. The elders stood with their heads bowed and their claws retracted, and old Solen pressed one paw slowly to his chest, over his heart, where the king's claw had rested. No argument came. No protest followed. The silence was the surrender. Cold green light still clung to Ajani's claws, throwing long shadows across the ancient stone—dimmed, but not gone.
 
 
 The arena beyond the throne was silent. The gathered families, who had been watching the confrontation with the same rapt attention they would give to a duel, slowly began to murmur among themselves. The Stripe Paws exchanged glances. The Shadow Paws nodded grimly. The Pyrinae scribes scratched furiously at their parchments. The Humman ambassador clutched her daughter's hand.
@@ -1140,7 +1140,7 @@ The Veylar Shell-Singer rose from her seat in the eastern colonnade and walked s
 </div>
 
 
-The Quick, floating in its shaded pool, sent a pulse of green fire through the mycelial network—a silent acknowledgment, a witness from afar. And somewhere in the shadows of the colonnade, the young priest T'van clutched his scribe's tablet and prayed to the lord of the desert that his king would survive the day.
+The Quick, floating in its shaded pool, sent a pulse of marshlight through the mycelial network—a silent acknowledgment, a witness from afar. And somewhere in the shadows of the colonnade, the young priest T'van clutched his scribe's tablet and prayed to the lord of the desert that his king would survive the day.
 
 
 <div class="dialogue-block">
@@ -1155,7 +1155,7 @@ The Quick, floating in its shaded pool, sent a pulse of green fire through the m
 *Bow and scene...*
 
 
-The Pyrinae rose as one. Nefere inclined her ancient head, her clouded eyes glistening with something that might have been gratitude. Mira, the Sun-Walker envoy, placed a hand over her heart and bowed low.
+The Pyrinae rose as one. Nefere inclined her ancient head, her clouded eyes glistening with quiet gratitude. Mira, the Sun-Walker envoy, placed a hand over her heart and bowed low.
 
 
 The Veylar Shell-Singer closed her luminous eyes and let the Petal-Shell pulse once with a soft, golden light—a gesture of acknowledgment, of respect given and received.
@@ -1164,10 +1164,10 @@ The Veylar Shell-Singer closed her luminous eyes and let the Petal-Shell pulse o
 The Quick, floating in its shaded pool, sent a ripple of warmth through the mycelial network that would reach L'vat in the distant marsh—a silent message that the White Dawn had honored the peaceful as well as the strong.
 
 
-And the Humman ambassador, Seris, clutched her daughter's hand and whispered something that might have been a prayer.
+And the Humman ambassador, Seris, clutched her daughter's hand and whispered something like a prayer.
 
 
-The champions of the five Wengari families stood alone on the sand—twelve warriors, the best their people could offer, waiting for the tournament to begin. The white Styx circled far above, patient as the stars. The green fire flickered gently along Ajani's claws. And the tournament for the crown of the Wengari was about to commence.
+The champions of the five Wengari families stood alone on the sand—twelve warriors, the best their people could offer, waiting for the tournament to begin. The white Styx went on circling far above, indifferent to the hours below. Green flame glowed softly along Ajani's claws. And the tournament for the crown of the Wengari was about to commence.
 
 
 <div class="dialogue-block">
@@ -1232,7 +1232,7 @@ It was Zara who spoke first. Her massive frame stepped forward from the Stripe P
 The question hung in the air. Every warrior in the arena understood what she was asking. Aura techniques were not weapons in the traditional sense. They were extensions of the body, expressions of the soul. To forbid them would be to forbid the Wengari from being Wengari. To permit them would open the door to combat that could skirt the edge of lethality with every strike.
 
 
-The green fire flickered along Ajani's claws as he considered. Somewhere in the Bright Paw section, the young priest who had railed against the king the night before held his breath. Somewhere in the Shadow Paw alcoves, Kareth leaned forward, his one good eye gleaming. And in the center of the arena, the twelve champions of the Wengari families waited for their king's answer.
+Cold green light flickered along Ajani's claws as he considered. Somewhere in the Bright Paw section, the young priest who had railed against the king the night before held his breath. Somewhere in the Shadow Paw alcoves, Kareth leaned forward, his one good eye gleaming. And in the center of the arena, the twelve champions of the Wengari families waited for their king's answer.
 
 
 <div class="dialogue-block">
@@ -1298,7 +1298,7 @@ That was the way of the desert. That was the way of the Wengari.
 The Veylar Shell-Singer tilted her head, her iridescent skin flickering through a cascade of colors that no surface-dweller could interpret. She raised her Petal-Shell and made a single, quiet note—a note of acknowledgment, perhaps, or of sorrow. The Humman ambassador clutched her daughter's hand and prayed to a god she did not believe in.
 
 
-And the Quick, floating in its shaded pool, felt the pulse of green fire along its chitin and sent a silent message through the mycelial network: 'The White Dawn does not ask for mercy. The White Dawn does not offer it. The tournament will be brutal. The tournament will be remembered.'
+And the Quick, floating in its shaded pool, felt the pulse of marshlight along its chitin and sent a silent message through the mycelial network: 'The White Dawn does not ask for mercy. The White Dawn does not offer it. The tournament will be brutal. The tournament will be remembered.'
 
 
 The twelve champions stood at the edge of the basin, their claws gleaming, their auras flickering, their eyes fixed on the king who had given them these rules and this arena and this moment. They were ready. The tournament was about to begin.
@@ -1409,7 +1409,7 @@ The incense sticks continued to burn. The Stripe Paws held the center. The Shado
 Ajani's eyes tracked the fallen Bright Paws as they were carried from the basin. Three champions of his own blood, eliminated in less than a quarter of an incense stick. The ceremonial training, the ancient forms, the proud lineage of the Lightbringer—all of it had crumbled before the raw, practical violence of the Stripe Paws. He had expected them to fall. He had not expected them to fall so quickly.
 
 
-His claws continued their slow, steady rhythm against the armrest. The green fire flickered along his knuckles, but his face remained stone. The crowd was watching him as much as they were watching the basin. They wanted to see how the White Dawn would react to the humiliation of his own family. He gave them nothing.
+His claws continued their slow, steady rhythm against the armrest. Green flame flickered along his knuckles, but his face remained stone. The crowd was watching him as much as they were watching the basin. They wanted to see how the White Dawn would react to the humiliation of his own family. He gave them nothing.
 
 
 The Shadow Paws had not yet struck. Thane and his two assassins were still ghosts at the basin's edge, their dark pelts indistinguishable from the shadows of the stone. They had watched the Stripe Paws dismantle the Bright Paws, and they had done nothing. That was not cowardice. That was discipline. A Shadow Paw did not waste energy on unnecessary combat. They waited. They assessed. They chose their moment.
@@ -1423,7 +1423,7 @@ Ajani's eyes moved to the assassins. The Shadow Paws had been his family's shame
 And he let it sit there, unexamined, as the incense continued to burn and the tournament continued to unfold.
 
 
-Ajani's claws continued their slow, steady rhythm against the armrest. The green fire along his knuckles had dimmed to a faint, pulsing glow. He was no longer watching the basin. He was watching the crowd. The Stripe Paws in the tiers were growing restless. The Shadow Paws were silent and watchful. The Bright Paws, humiliated and leaderless, sat in stunned silence. The delegations—Pyrinae, Humman, Veylar—observed with the careful neutrality of outsiders who understood that this was a Wengari matter, and that Wengari matters were settled in blood.
+Ajani's claws continued their slow, steady rhythm against the armrest. The green glow along his knuckles had burned down low, pulsing faintly. He was no longer watching the basin. He was watching the crowd. The Stripe Paws in the tiers were growing restless. The Shadow Paws were silent and watchful. The Bright Paws, humiliated and leaderless, sat in stunned silence. The delegations—Pyrinae, Humman, Veylar—observed with the careful neutrality of outsiders who understood that this was a Wengari matter, and that Wengari matters were settled in blood.
 
 Glory was the currency of the desert. And no champion would leave this basin without claiming their share.
 
@@ -1492,7 +1492,7 @@ The Stripe Paws had paid for their aggression in blood. Tor and Varn, paralyzed 
 The Motted Paws had lost no one. Sylva's silver claws were stained with Vex's blood. Her two companions had not been touched. All three would advance.
 
 
-Six champions remained: three Motted Paws, two Shadow Paws, one Stripe Paw. The Bright Paws were gone—eliminated in the opening moments, their humiliation complete. The other families had bled and fought and proven their worth. And the king sat on his throne, the green fire flickering gently along his claws, his eyes moving across the six champions who would fight again.
+Six champions remained: three Motted Paws, two Shadow Paws, one Stripe Paw. The Bright Paws were gone—eliminated in the opening moments, their humiliation complete. The other families had bled and fought and proven their worth. And the king sat on his throne, the Tree's fire burning low along his claws, his eyes moving across the six champions who would fight again.
 
 
 The tournament was not over. It was just beginning.
@@ -1519,7 +1519,7 @@ The Bright Paw champions were brought forward. Karn walked on his own feet, thou
 The other families watched in silence. The Stripe Paws, their champion Rask still standing despite the poison in her veins. The Shadow Paws, Thane and Sera bleeding but unbowed. The Motted Paws, their three champions untouched, their silver auras flickering faintly in the noon light.
 
 
-And the king sat on his father's throne, the green fire flickering gently along his claws, his eyes fixed on the broken warriors of his own blood. The apology hung in the air—not an excuse, not a justification, but an acknowledgment. The Bright Paws had shamed themselves. The king had seen it. The desert had witnessed it. And now the desert would see what the White Dawn did to those who failed him.
+And the king sat on his father's throne, his claws lit with faint green flame, his eyes fixed on the broken warriors of his own blood. The apology hung in the air—not an excuse, not a justification, but an acknowledgment. The Bright Paws had shamed themselves. The king had seen it. The desert had witnessed it. And now the desert would see what the White Dawn did to those who failed him.
 
 
 <div class="dialogue-block">
@@ -1544,7 +1544,7 @@ The other two trainers bowed beside him, their golden manes brushing the sand. T
 The arena waited. The Stripe Paws, the Shadow Paws, the Motted Paws—all of them watched the king and the trainers and the broken champions kneeling before the throne. The delegations—Pyrinae, Humman, Veylar—observed with the careful stillness of outsiders who understood that this was a Wengari matter, and that Wengari matters were settled in blood.
 
 
-And the green fire flickered gently along Ajani's claws, casting dancing shadows across the ancient stone. The White Dawn had asked a question. Now he would judge the answer.
+And pale green light clung to Ajani's claws, throwing long shadows across the ancient stone. The White Dawn had asked a question. Now he would judge the answer.
 
 
 <div class="dialogue-block">
@@ -1621,7 +1621,7 @@ The Motted Paws had claimed their prize. The arena was still. The six champions 
 The delegations stirred. Nefere sat very still in the Pyrinae section, her ancient eyes fixed on Sylva's retreating form. Mira, beside her, was already jotting notes. In the Humman tier, Seris clutched her daughter's hand and wondered what kind of regent would emerge from a tournament where the victors claimed training rights instead of blood. The Veylar Shell-Singer closed her luminous eyes and let the Petal-Shell pulse once with a soft, golden light—acknowledgment, perhaps, of something she had not expected to witness.
 
 
-Ajani rose from his father's throne. The green fire along his claws dimmed to a faint, pulsing glow. He did not speak to the crowd. He did not acknowledge the delegations. He simply walked toward the shaded colonnade where the champions were resting, his white cloak swirling around him, his golden mane catching the noon sun. The tournament was not over. But the Bright Paws had been humbled, the Motted Paws had spoken, and the desert had witnessed all of it.
+Ajani rose from his father's throne. The fire along his claws dimmed to cold green embers. He did not speak to the crowd. He did not acknowledge the delegations. He simply walked toward the shaded colonnade where the champions were resting, his white cloak swirling around him, his golden mane catching the noon sun. The tournament was not over. But the Bright Paws had been humbled, the Motted Paws had spoken, and the desert had witnessed all of it.
 
 And in one hour, the second phase would begin.
 
@@ -1661,7 +1661,7 @@ Sylva rose last. The Motted Paw champion moved with the same silent, fluid grace
 The six champions stood in a line before the throne. The basin waited, empty now, its stone walls still gleaming from the Pyrinae's sorcery. The incense had been swept away. The blood had been absorbed by the sand. The arena was silent, expectant, hungry for what came next.
 
 
-And the king looked down at his champions—the best the Wengari had to offer—and the green fire flickered gently along his claws. The second phase was about to begin.
+And the king looked down at his champions—the best the Wengari had to offer—and a faint green glow traced his claws. The second phase was about to begin.
 
 
 <div class="dialogue-block">
@@ -1760,7 +1760,7 @@ Sylva approached. The Motted Paw champion moved with the silent, fluid grace of 
 Sylva released the staff and stepped back. Her two companions flanked her as always, their claws still sheathed. They did not need to touch the staff. Their auras were extensions of hers. The feathers had already seen what they were.
 
 
-The companions approached together. The first, a silver-furred male named Torin, placed his claw upon the staff. The light that emerged was a softer echo of Sylva's—the same shifting luminescence, but dimmer, quieter, like starlight reflected on still water. The second, a female named Elyra, did the same. Her light was sharper, brighter, edged with something that might have been impatience or might have been anticipation. The feathers saw them both. The feathers remembered.
+The companions approached together. The first, a silver-furred male named Torin, placed his claw upon the staff. The light that emerged was a softer echo of Sylva's—the same shifting luminescence, but dimmer, quieter, like starlight reflected on still water. The second, a female named Elyra, did the same. Her light was sharper, brighter, edged with keen anticipation. The feathers saw them both. The feathers remembered.
 
 
 <div class="dialogue-block">
@@ -1817,7 +1817,7 @@ The Motted Paws accepted the offerings with their characteristic silence. Sylva 
 The crowd rumbled with approval. The common Wengari in the stone tiers reached for the baskets that the Humman servants carried among them, their earlier contempt for the weak race softened—just slightly—by the gift of food and wine. Even the Bright Paws, still humiliated from their elimination, accepted the offerings. Karn, the broken champion, took a pitcher of water and drank as if it were the first kindness he had received in a very long time.
 
 
-Ajani watched it all from his throne. The green fire along his claws dimmed to a faint, pulsing glow. The Humman gesture was exactly what he had intended—a reminder that the weak races now served the Wengari, and that the Wengari, in turn, were magnanimous in victory. He let his gaze sweep across the arena, the eye flare still flickering in his pupils, and then he settled back into his throne to wait for the second phase to begin.
+Ajani watched it all from his throne. The glow along his claws had sunk to a dim, steady pulse. The Humman gesture was exactly what he had intended—a reminder that the weak races now served the Wengari, and that the Wengari, in turn, were magnanimous in victory. He let his gaze sweep across the arena, the eye flare still flickering in his pupils, and then he settled back into his throne to wait for the second phase to begin.
 
 
 The Humman delegation froze. Seris, the ambassador who had knelt before the king and surrendered her daughter, stared up at the throne with an expression of pure, unguarded shock. The king had not discussed this with her. There had been no quiet negotiation, no diplomatic courtesy, no advance warning. He had simply announced, before every family and every delegation and every race gathered in this arena, that the Hummans would provide refreshments for the champions and the crowd.
@@ -1850,7 +1850,7 @@ Within minutes, Humman servants were scrambling through the stone tiers, their a
 The champions in the colonnade were served first. Then the delegations. Then the common Wengari in the upper tiers. The Hummans had been given a task, and they had fulfilled it. It was not elegant. It was not dignified. But it was done.
 
 
-And Ajani watched from his throne, the green fire flickering gently along his claws, the faintest smile playing at the corners of his mouth. The Hummans had scrambled. They had served. And the arena had seen them do it. That was enough.
+And Ajani watched from his throne, the cold light of the Deep flickering along his claws, the faintest smile playing at the corners of his mouth. The Hummans had scrambled. They had served. And the arena had seen them do it. That was enough.
 
 
 The arena rumbled with anticipation. The first duel of the second phase was about to begin.
@@ -1872,7 +1872,7 @@ He waited for the fourth strike—a low kick aimed at his crippled knee—and he
 </div>
 
 
-Sera attacked again. This time she was more cautious, her combinations shorter, her retreats faster. She was learning. She was adapting. She landed a clean elbow to Thane's jaw that sent him staggering backward, and the crowd gasped. He recovered, his dark eyes gleaming with something that might have been pride. She had always been his best student. She was proving it now.
+Sera attacked again. This time she was more cautious, her combinations shorter, her retreats faster. She was learning. She was adapting. She landed a clean elbow to Thane's jaw that sent him staggering backward, and the crowd gasped. He recovered, his dark eyes gleaming with pride. She had always been his best student. She was proving it now.
 
 
 They exchanged strikes for another minute, two minutes, three. The sand drank their blood. Their poisons canceled each other—both assassins, both immune to the paralytic toxins that had felled the Stripe Paws. This was a pure duel of skill, and skill was something the Shadow Paws had honed for five thousand years.
@@ -1899,7 +1899,7 @@ Kareth opened his eye. Something glistened there—not tears, not quite, but som
 </div>
 
 
-The green fire flickered gently along Ajani's claws. The king leaned forward on his throne, his eyes moving from the two Shadow Paws in the basin to the two Motted Paws waiting in the colonnade. Sylva and Elyra. Master and student. Champion and companion. The final duel of the second phase was about to begin. And this time, the Motted Paws would face each other.
+A soft green glow traced Ajani's claws. The king leaned forward on his throne, his eyes moving from the two Shadow Paws in the basin to the two Motted Paws waiting in the colonnade. Sylva and Elyra. Master and student. Champion and companion. The final duel of the second phase was about to begin. And this time, the Motted Paws would face each other.
 
 
 The arena fell quiet as the two Motted Paws stepped into the basin. Sylva and Elyra moved in perfect, silent synchronization—master and student, champion and companion, their silver auras flickering like moonlight on still water. They had trained together in the silent halls of their order for decades. They had stood together in the first phase, untouched, while the other families bled. Now they would face each other, and the art of Flowing Water would be tested against itself.
@@ -1983,7 +1983,7 @@ They were bred for combat, trained to carry a rider into the heart of a Chi'Thak
 </div>
 
 
-The fence was nearly complete. The fire feet stood ready. The afternoon sun was beginning its long descent toward the western rim of the desert. And Ajani sat on his father's throne, the green fire flickering gently along his claws, watching the world he had reshaped continue to reshape itself around him. The tournament's final phase would begin within the hour. And this time, the champions would not fight on foot.
+The fence was nearly complete. The fire feet stood ready. The afternoon sun was beginning its long descent toward the western rim of the desert. And Ajani sat on his father's throne, the green flame along his claws burning low, watching the world he had reshaped continue to reshape itself around him. The tournament's final phase would begin within the hour. And this time, the champions would not fight on foot.
 
 
 <div class="dialogue-block">
@@ -1991,7 +1991,7 @@ The fence was nearly complete. The fire feet stood ready. The afternoon sun was 
 </div>
 
 
-The arena erupted. Not in protest—in delight. The common Wengari in the upper tiers roared with laughter and approval. The Stripe Paws thumped their tails against the stone. Even the Shadow Paws, silent and watchful, exchanged glances that might have been amusement. The king, the White Dawn, the heir of the Lightbringer—wanted to stand in the dust and judge a mounted brawl like a common caravan master at a way-station tournament.
+The arena erupted. Not in protest—in delight. The common Wengari in the upper tiers roared with laughter and approval. The Stripe Paws thumped their tails against the stone. Even the Shadow Paws, silent and watchful, exchanged glances tinged with amusement. The king, the White Dawn, the heir of the Lightbringer—wanted to stand in the dust and judge a mounted brawl like a common caravan master at a way-station tournament.
 
 It was absurd. It was magnificent. It was entirely in keeping with everything they had learned about Ajani Brightmane in the month since his coronation.
 
@@ -2015,7 +2015,7 @@ Thane, his shoulder still bound, his dark eyes gleaming, simply raised one lacqu
 
 
 <div class="dialogue-block">
-<p class="speech-line">The Pyrinae, still finishing the fence, paused in their work to stare. Nefere's ancient face creased with something that might have been a smile. "The king will arbit. The king will stand in the dust. The king will judge the final phase himself. Let the chronicles record this moment. Let the Memory-Vaults preserve it. The White Dawn does not merely rule the Wengari. He stands among them."</p>
+<p class="speech-line">The Pyrinae, still finishing the fence, paused in their work to stare. Nefere's ancient face creased into the ghost of a smile. "The king will arbit. The king will stand in the dust. The king will judge the final phase himself. Let the chronicles record this moment. Let the Memory-Vaults preserve it. The White Dawn does not merely rule the Wengari. He stands among them."</p>
 </div>
 
 
@@ -2037,7 +2037,7 @@ The incense flared to life, and the arena held its breath. Ajani stood at the ed
 And the king was staring at them with the barely restrained excitement of a cub seeing his first Styx.
 
 
-He reached out, hesitated, then placed one claw gently on the nearest fire foot's flank. The great beast rumbled—a low, throaty sound that might have been acknowledgment or warning—and did not pull away. Ajani's ears pricked forward. His tail gave a single, involuntary twitch of delight. Then he remembered where he was, and who was watching, and he straightened his white cloak and cleared his throat with as much regal authority as he could muster.
+He reached out, hesitated, then placed one claw gently on the nearest fire foot's flank. The great beast rumbled—a low, throaty sound — acknowledgment or warning — and did not pull away. Ajani's ears pricked forward. His tail gave a single, involuntary twitch of delight. Then he remembered where he was, and who was watching, and he straightened his white cloak and cleared his throat with as much regal authority as he could muster.
 
 
 The champions mounted. Thane swung onto the first fire foot with the fluid grace of an assassin who had been trained in every form of combat. His injured shoulder protested, but his dark eyes were steady. He had won his duel against Sera with the Eight Points. He would win this phase with whatever tools the arena provided.
@@ -2091,7 +2091,7 @@ Zara, standing at the opposite fence rail, exchanged a glance with Kareth. The S
 </div>
 
 
-He was gesturing now, his claws tracing tactical diagrams in the air. The green fire flickered along his knuckles, forgotten. The white cloak trailed in the dust. The king of the Wengari, the White Dawn, the heir of the Lightbringer, was calling out combat analysis like a caravan master at a way-station brawl, and every Wengari in the arena was watching him with expressions ranging from bewilderment to barely suppressed laughter.
+He was gesturing now, his claws tracing tactical diagrams in the air. Green flame flickered along his knuckles, forgotten. The white cloak trailed in the dust. The king of the Wengari, the White Dawn, the heir of the Lightbringer, was calling out combat analysis like a caravan master at a way-station brawl, and every Wengari in the arena was watching him with expressions ranging from bewilderment to barely suppressed laughter.
 
 He noticed none of it. The fire feet thundered past again, and Ajani Brightmane, first of his name, son of Uthgard IX, keeper of the pact, leaned over the fence rail and shouted with the pure, unguarded joy of someone who had forgotten he was supposed to be regal.
 
@@ -2120,7 +2120,7 @@ Ajani's claws were gripping the fence rail so hard the stone creaked. His tail l
 The crowd erupted. Sylva and Torin remained mounted, their silver auras flickering gently, their faces calm. They had won the final phase. They would advance to face the king.
 
 
-And Ajani—Ajani was still gripping the fence rail, his chest heaving, his eyes bright as a cub's. He had not noticed the green fire flaring along his claws. He had not noticed the silence spreading through the nearby elders as they watched their king unguard his passion. He had noticed only the fire feet, and the riders, and the sheer, visceral beauty of mounted combat. Zara watched him from across the enclosure.
+And Ajani—Ajani was still gripping the fence rail, his chest heaving, his eyes bright as a cub's. He had not noticed the cold green light flaring along his claws. He had not noticed the silence spreading through the nearby elders as they watched their king unguard his passion. He had noticed only the fire feet, and the riders, and the sheer, visceral beauty of mounted combat. Zara watched him from across the enclosure.
 
 Her golden eyes narrowed, then softened. She had seen many things in her decades as Stripe Paw chief. She had never seen a Bright Paw king lean over a fence rail and shout himself hoarse for a Motted Paw victory. The fire feet were the Stripe Paws' gift to the world. The king was a fan of the fire feet. The gift she had been planning with Korr—the pale mount, Ember, who had carried the young wanderer across the Rune-Belt—would be more than a gesture.
 
@@ -2163,7 +2163,7 @@ Torin's balance shattered. He gripped the reins, fought for control, but his fir
 One champion remained. Sylva of the Motted Paws, mounted on a Stripe Paw war-mount, her silver aura flickering gently in the afternoon sun. She would face the king at twilight.
 
 
-Ajani released the fence rail. His claws had left furrows in the stone. He straightened his white cloak, smoothed his golden mane, and cleared his throat with as much regal composure as he could muster. But Zara had already seen. Kareth had seen. Hakar had seen. And Sylva, looking down from her war-mount, inclined her elegant head toward the king with something that might have been a smile. The White Dawn loved the fight.
+Ajani released the fence rail. His claws had left furrows in the stone. He straightened his white cloak, smoothed his golden mane, and cleared his throat with as much regal composure as he could muster. But Zara had already seen. Kareth had seen. Hakar had seen. And Sylva, looking down from her war-mount, inclined her elegant head toward the king, almost smiling. The White Dawn loved the fight.
 
 The elders had noticed. And the gifts that would follow this tournament would be gifts worthy of a king who, for one glorious afternoon, had forgotten he was supposed to be regal.
 
@@ -2198,7 +2198,7 @@ And Sylva, the new regent, stood in the center of the enclosure with her silver 
 
 
 <div class="dialogue-block">
-<p class="speech-line">The arena's roar was all the answer Ajani needed, but the Wengari gave it anyway. "YEARLY! YEARLY! YEARLY!" The chant thundered through the stone tiers, punctuated by the rhythmic pounding of Stripe Paw tails against the stone and the sharp crack of Shadow Paw obsidian staves. The Bright Paws, still humiliated from their early elimination, found themselves swept up in the fervor despite themselves—even old Solen, his golden mane still dusty from the morning, was clapping his ancient paws together with something that might have been hope.</p>
+<p class="speech-line">The arena's roar was all the answer Ajani needed, but the Wengari gave it anyway. "YEARLY! YEARLY! YEARLY!" The chant thundered through the stone tiers, punctuated by the rhythmic pounding of Stripe Paw tails against the stone and the sharp crack of Shadow Paw obsidian staves. The Bright Paws, still humiliated from their early elimination, found themselves swept up in the fervor despite themselves—even old Solen, his golden mane still dusty from the morning, was clapping his ancient paws together with something close to hope.</p>
 </div>
 
 
@@ -2328,7 +2328,7 @@ He had watched his father demonstrate the form at a hundred annual rituals. He k
 Styx style. First form. Aim for the shoulder. When she deflects, point to the plexus. Dead in two moves.
 
 
-He lunged. The spear was faster than the saber—longer, more precise, a single point of green fire aimed at Sylva's right shoulder. If she deflected, the blade would drop naturally toward her solar plexus. If she dodged, he would pivot and sweep her legs. The form was flawless. The execution was perfect. And Sylva did neither.
+He lunged. The spear was faster than the saber—longer, more precise, a single point of green flame aimed at Sylva's right shoulder. If she deflected, the blade would drop naturally toward her solar plexus. If she dodged, he would pivot and sweep her legs. The form was flawless. The execution was perfect. And Sylva did neither.
 
 
 She caught the spear. Not the blade—the shaft. Her silver claws closed around the green fire just behind the leaf-shaped point, and she twisted, not to redirect the weapon but to redirect the warrior. Ajani's momentum carried him forward, and Sylva flowed with it, her body rolling around the spear like water around a stone. The young king stumbled, caught himself, and spun to face her—but she was already behind him, her silver aura flickering gently, her expression unchanged.
@@ -2359,7 +2359,7 @@ The sword blazed to life—a double-edged blade of emerald fire, shorter than th
 Five forms. Fourth form. Aim for the wrist. Twist to the lung. If she catches or deflects, curve to the neck. Keep it tight. Don't allow openings.
 
 
-He moved. The first strike was a blur of green fire aimed at Sylva's right wrist—a disabling blow, meant to end the duel without bloodshed. She did not catch it. She did not deflect it. She simply was not there when the blade arrived. Her body flowed sideways, her silver aura trailing behind her like moonlight on water, and the sword hissed through empty air. The second strike followed without pause—a twist of the wrist that redirected the blade toward her ribs, a thrust that should have caught her mid-step.
+He moved. The first strike was a blur of green flame aimed at Sylva's right wrist—a disabling blow, meant to end the duel without bloodshed. She did not catch it. She did not deflect it. She simply was not there when the blade arrived. Her body flowed sideways, her silver aura trailing behind her like moonlight on water, and the sword hissed through empty air. The second strike followed without pause—a twist of the wrist that redirected the blade toward her ribs, a thrust that should have caught her mid-step.
 
 But Sylva was already turning, her body rolling with the strike, and the sword's point grazed her silver fur but did not cut. The third strike was the curve—a sweeping arc that reversed the blade's momentum and brought it slicing toward her neck. Tight. Fast. No openings.
 
@@ -2388,7 +2388,7 @@ He was going to have to try something he had never tried before. Something his f
 
 The sword dissolved mid-swing, its green fire collapsing into a cascade of sparks, and the staff blazed to life in Ajani's paws in the same fluid motion. The transition was seamless—a technique he had practiced a thousand times, the secret heart of the Four Pillars, the art of switching weapons faster than any opponent could adapt. The staff was the grandfather, the fourth pillar, a weapon of defense and patience.
 
-But Ajani was not using it for defense. He was using it for deception. The sword had been the feint. The staff was the kill shot—a sweeping arc of green fire aimed at Sylva's ribs, carrying all the momentum of the abandoned sword strike, angled to strike from a direction she could not evade with her usual minimal movements.
+But Ajani was not using it for defense. He was using it for deception. The sword had been the feint. The staff was the kill shot—a sweeping arc of green flame aimed at Sylva's ribs, carrying all the momentum of the abandoned sword strike, angled to strike from a direction she could not evade with her usual minimal movements.
 
 
 Sylva flowed. Not backward, not sideways—down. Her body dropped beneath the staff's arc like water pouring over a fall, her silver aura flaring as she caught herself on one palm and swept her legs in a low, circular motion that was not an attack but a redirection. Her tail caught Ajani's ankle. His momentum, already committed to the staff strike, carried him forward. He stumbled. Caught himself. Spun to face her—but she was already standing, already calm, already watching him with those ancient silver eyes that had seen five thousand years of Wengari warriors and found them all wanting.
@@ -2418,12 +2418,12 @@ He was going to have to admit that he was not better than her. And then he was g
 The ji blazed to life in Ajani's paws—a weapon none of the gathered Wengari had ever seen. Its shaft was long, nearly the height of the king himself, and it shimmered with an unstable, shifting light that cycled between the brilliant gold of the Steadfast and the pure white of the male Styx circling far above. But the blade was green. Not the warm gold of the Bright Paw legacy, not the cold silver of the Motted Paws' Flowing Water, but the deep, vibrant green of living things, of marsh water and ancient roots and the patient, inexorable pulse of the Mycelial Deep.
 
 
-The crowd gasped. The Pyrinae Hydromancers leaned forward, their rune-glass staves humming in sympathy with the raw power bleeding off the platform. Zara's great paws tightened on the fence rail. Kareth's one good eye widened. Even Sylva, calm and patient Sylva, tilted her head a fraction of an inch, her silver aura flickering with something that might have been surprise—or might have been anticipation.
+The crowd gasped. The Pyrinae Hydromancers leaned forward, their rune-glass staves humming in sympathy with the raw power bleeding off the platform. Zara's great paws tightened on the fence rail. Kareth's one good eye widened. Even Sylva, calm and patient Sylva, tilted her head a fraction of an inch, her silver aura flickering — surprise, or anticipation.
 
 The ji was not one of the Four Pillars. It was something older, something wilder, something that combined the reach of the spear, the cutting edge of the saber, and the leverage of the staff into a single, devastating weapon.
 
 
-Ajani's chest heaved. The green fire along his claws was guttering now, flickering with exhaustion, but the ji held steady in his grip, its emerald blade casting dancing shadows across the polished stone. The weapon was not merely a conjuration. It was an act of will, a declaration of identity. This was the weapon of a warrior who had trained under L'vat in the marshes, who carried the Deep's fire in his veins, who refused to lose.
+Ajani's chest heaved. The flame along his claws was guttering now, flickering with exhaustion, but the ji held steady in his grip, its emerald blade casting dancing shadows across the polished stone. The weapon was not merely a conjuration. It was an act of will, a declaration of identity. This was the weapon of a warrior who had trained under L'vat in the marshes, who carried the Deep's fire in his veins, who refused to lose.
 
 He raised the ji high above his head, the blade blazing with green fire, and charged.
 
@@ -2447,7 +2447,7 @@ She flowed forward. Not fast—she was never fast—but with the inevitable, unh
 Her strike was not lethal. It was not even painful. It was precise. A single claw, extended, pressed against the hollow of his throat.
 
 
-The crowd fell utterly silent. The Styx circled above, their fires painting the twilight in shifting shades of flame. Sylva held her pose for a long, breathless moment—the old champion's claw at the young king's throat, the green fire of the ji guttering and dying in his exhausted paws.
+The crowd fell utterly silent. The Styx circled above, their fires painting the twilight in shifting shades of flame. Sylva held her pose—the old champion's claw at the young king's throat, the green fire of the ji guttering and dying in his exhausted paws.
 
 
 And then Ajani grinned. Not the grin of a defeated warrior. The grin of a king who had just remembered that the staff was the grandfather. And the grandfather protected. And deception was not the art—but the feint was.
@@ -2456,10 +2456,10 @@ And then Ajani grinned. Not the grin of a defeated warrior. The grin of a king w
 The ji dissolved. In the same fluid motion, the saber blazed back to life—not in a wide, sweeping arc, but in a tight, precise thrust that caught Sylva's extended arm at the wrist and guided it gently, inexorably, away from his throat. The switch had cost him everything—the last of his aura, the last of his strength, the last flicker of green fire that he could summon. But it had worked.
 
 
-Sylva looked down at the saber against her wrist. Then she looked up at the young king, whose chest was heaving, whose golden mane was plastered to his skull with sweat, whose green fire had dimmed to a faint, flickering glow. And she smiled—a small, private expression, meant only for him.
+Sylva looked down at the saber against her wrist. Then she looked up at the young king, whose chest was heaving, whose golden mane was plastered to his skull with sweat, whose fire had burned down to a faint green flicker. And she smiled—a small, private expression, meant only for him.
 
 
-The ji guttered and died in Ajani's exhausted paws, its emerald blade flickering out like a candle in a sandstorm. His chest heaved. His golden mane was plastered to his skull with sweat. The green fire along his claws had dimmed to a faint, sputtering glow, and every muscle in his body screamed with the effort of the duel. He had thrown everything at Sylva—the saber, the spear, the sword, the staff, the ji—and none of it had worked.
+The ji guttered and died in Ajani's exhausted paws, its emerald blade flickering out like a candle in a sandstorm. His chest heaved. His golden mane was plastered to his skull with sweat. The light along his claws had dimmed to a sputtering green glow, and every muscle in his body screamed with the effort of the duel. He had thrown everything at Sylva—the saber, the spear, the sword, the staff, the ji—and none of it had worked.
 
 She had caught or evaded or redirected every strike. She had read his openings, exploited his overcommitments, and pressed a single claw to his throat in front of the entire arena.
 
@@ -2534,7 +2534,7 @@ She raised one silver-furred paw, and her aura flared—not the gentle, patient 
 *Infuriating woman, not only does she try to beat me in the fight, now also at statecraft...*
 
 
-Sylva's silver eyes held his for a long, quiet moment. The crowd was silent, waiting, watching the young king and the old champion locked in a battle of wills that had nothing to do with claws or sabers or the green fire still flickering faintly along Ajani's knuckles. She inclined her head—a gesture that was neither submission nor defiance, but something older. Acknowledgment.
+Sylva's silver eyes held his for a long, quiet moment. The crowd was silent, waiting, watching the young king and the old champion locked in a battle of wills that had nothing to do with claws or sabers or faint green flame still flickering along Ajani's knuckles. She inclined her head—a gesture that was neither submission nor defiance, but something older. Acknowledgment.
 
 
 <div class="dialogue-block">
@@ -2560,7 +2560,7 @@ The Motted Paws would not be alone in their silence. They would be the first amo
 
 
 <div class="dialogue-block">
-<span class="speech">"A generous proclamation,"</span> she murmured, her soft voice carrying to the young king's ears alone. <span class="speech">"You learn quickly. The council seat I requested was a test. You passed. The schools were the true prize. You gave them freely."</span> She stepped back, her ancient eyes gleaming with something that might have been approval. <span class="speech">"You will make a fine king, Ajani Brightmane. When you return from the road, the Motted Paws will be waiting. We will have much to teach you."</span>
+<span class="speech">"A generous proclamation,"</span> she murmured, her soft voice carrying to the young king's ears alone. <span class="speech">"You learn quickly. The council seat I requested was a test. You passed. The schools were the true prize. You gave them freely."</span> She stepped back, her ancient eyes gleaming with approval. <span class="speech">"You will make a fine king, Ajani Brightmane. When you return from the road, the Motted Paws will be waiting. We will have much to teach you."</span>
 </div>
 
 
@@ -2580,7 +2580,7 @@ The Bright Paws, still humiliated, still stripped of their training autonomy, sa
 And Hakar, the old watchman, saw what it would mean: young soldiers flocking to the capital to study under the masters. The tournament had given them a dream. The schools would give them the means to achieve it. The Wengari, stagnant for three thousand years, were stirring. The king had done that. The tournament had done that. The road would do more.
 
 
-And the young king, exhausted and exhilarated, stood at the center of the platform with the green fire still flickering faintly along his claws and the roar of the crowd washing over him, and thought of the road ahead. The tournament was over. The regent was chosen. The schools would rise. The crown was safe. He had survived the closest duel of his life, had learned that instinct was sometimes worth more than technique, had discovered that the saber was his true weapon and that the ji was a form he might never master.
+And the young king, exhausted and exhilarated, stood at the center of the platform with the last green glow still clinging to his claws and the roar of the crowd washing over him, and thought of the road ahead. The tournament was over. The regent was chosen. The schools would rise. The crown was safe. He had survived the closest duel of his life, had learned that instinct was sometimes worth more than technique, had discovered that the saber was his true weapon and that the ji was a form he might never master.
 
 And tomorrow—or the day after, or the day after that, once the celebrations had ended and the delegations had departed and the capital had returned to something resembling order—he would begin the road. The great corridor. The pact's fulfillment. The bridge between the desert and the sea. That was the task that awaited him. That was the burden of the White Dawn. Tonight, he would celebrate.
 

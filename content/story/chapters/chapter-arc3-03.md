@@ -66,7 +66,7 @@ He let the silence stretch. Solen's mouth opened, then closed. The other Bright 
 *Warm, unflinching, unforgiving.* His father's words echoed in his mind as he turned away from the stunned elders and walked toward the arena's edge. The hour was almost up. The tournament was about to begin. And the crown of the Wengari was waiting.
 
 
-In the space of three heartbeats, no one moved. The elders stood with their heads bowed and their claws retracted, and old Solen pressed one paw slowly to his chest, over his heart, where the king's claw had rested. No argument came. No protest followed. The silence was the surrender. The green fire still flickered along Ajani's claws, casting dancing shadows across the ancient stone—dimmed, but not gone.
+In the space of three heartbeats, no one moved. The elders stood with their heads bowed and their claws retracted, and old Solen pressed one paw slowly to his chest, over his heart, where the king's claw had rested. No argument came. No protest followed. The silence was the surrender. Cold green light still clung to Ajani's claws, throwing long shadows across the ancient stone—dimmed, but not gone.
 
 
 The arena beyond the throne was silent. The gathered families, who had been watching the confrontation with the same rapt attention they would give to a duel, slowly began to murmur among themselves. The Stripe Paws exchanged glances. The Shadow Paws nodded grimly. The Pyrinae scribes scratched furiously at their parchments. The Humman ambassador clutched her daughter's hand.
@@ -120,7 +120,7 @@ The Veylar Shell-Singer rose from her seat in the eastern colonnade and walked s
 </div>
 
 
-The Quick, floating in its shaded pool, sent a pulse of green fire through the mycelial network—a silent acknowledgment, a witness from afar. And somewhere in the shadows of the colonnade, the young priest T'van clutched his scribe's tablet and prayed to the lord of the desert that his king would survive the day.
+The Quick, floating in its shaded pool, sent a pulse of marshlight through the mycelial network—a silent acknowledgment, a witness from afar. And somewhere in the shadows of the colonnade, the young priest T'van clutched his scribe's tablet and prayed to the lord of the desert that his king would survive the day.
 
 
 <div class="dialogue-block">
@@ -135,7 +135,7 @@ The Quick, floating in its shaded pool, sent a pulse of green fire through the m
 *Bow and scene...*
 
 
-The Pyrinae rose as one. Nefere inclined her ancient head, her clouded eyes glistening with something that might have been gratitude. Mira, the Sun-Walker envoy, placed a hand over her heart and bowed low.
+The Pyrinae rose as one. Nefere inclined her ancient head, her clouded eyes glistening with quiet gratitude. Mira, the Sun-Walker envoy, placed a hand over her heart and bowed low.
 
 
 The Veylar Shell-Singer closed her luminous eyes and let the Petal-Shell pulse once with a soft, golden light—a gesture of acknowledgment, of respect given and received.
@@ -144,10 +144,10 @@ The Veylar Shell-Singer closed her luminous eyes and let the Petal-Shell pulse o
 The Quick, floating in its shaded pool, sent a ripple of warmth through the mycelial network that would reach L'vat in the distant marsh—a silent message that the White Dawn had honored the peaceful as well as the strong.
 
 
-And the Humman ambassador, Seris, clutched her daughter's hand and whispered something that might have been a prayer.
+And the Humman ambassador, Seris, clutched her daughter's hand and whispered something like a prayer.
 
 
-The champions of the five Wengari families stood alone on the sand—twelve warriors, the best their people could offer, waiting for the tournament to begin. The white Styx circled far above, patient as the stars. The green fire flickered gently along Ajani's claws. And the tournament for the crown of the Wengari was about to commence.
+The champions of the five Wengari families stood alone on the sand—twelve warriors, the best their people could offer, waiting for the tournament to begin. The white Styx went on circling far above, indifferent to the hours below. Green flame glowed softly along Ajani's claws. And the tournament for the crown of the Wengari was about to commence.
 
 
 <div class="dialogue-block">
@@ -212,7 +212,7 @@ It was Zara who spoke first. Her massive frame stepped forward from the Stripe P
 The question hung in the air. Every warrior in the arena understood what she was asking. Aura techniques were not weapons in the traditional sense. They were extensions of the body, expressions of the soul. To forbid them would be to forbid the Wengari from being Wengari. To permit them would open the door to combat that could skirt the edge of lethality with every strike.
 
 
-The green fire flickered along Ajani's claws as he considered. Somewhere in the Bright Paw section, the young priest who had railed against the king the night before held his breath. Somewhere in the Shadow Paw alcoves, Kareth leaned forward, his one good eye gleaming. And in the center of the arena, the twelve champions of the Wengari families waited for their king's answer.
+Cold green light flickered along Ajani's claws as he considered. Somewhere in the Bright Paw section, the young priest who had railed against the king the night before held his breath. Somewhere in the Shadow Paw alcoves, Kareth leaned forward, his one good eye gleaming. And in the center of the arena, the twelve champions of the Wengari families waited for their king's answer.
 
 
 <div class="dialogue-block">
@@ -278,7 +278,7 @@ That was the way of the desert. That was the way of the Wengari.
 The Veylar Shell-Singer tilted her head, her iridescent skin flickering through a cascade of colors that no surface-dweller could interpret. She raised her Petal-Shell and made a single, quiet note—a note of acknowledgment, perhaps, or of sorrow. The Humman ambassador clutched her daughter's hand and prayed to a god she did not believe in.
 
 
-And the Quick, floating in its shaded pool, felt the pulse of green fire along its chitin and sent a silent message through the mycelial network: 'The White Dawn does not ask for mercy. The White Dawn does not offer it. The tournament will be brutal. The tournament will be remembered.'
+And the Quick, floating in its shaded pool, felt the pulse of marshlight along its chitin and sent a silent message through the mycelial network: 'The White Dawn does not ask for mercy. The White Dawn does not offer it. The tournament will be brutal. The tournament will be remembered.'
 
 
 The twelve champions stood at the edge of the basin, their claws gleaming, their auras flickering, their eyes fixed on the king who had given them these rules and this arena and this moment. They were ready. The tournament was about to begin.
@@ -389,7 +389,7 @@ The incense sticks continued to burn. The Stripe Paws held the center. The Shado
 Ajani's eyes tracked the fallen Bright Paws as they were carried from the basin. Three champions of his own blood, eliminated in less than a quarter of an incense stick. The ceremonial training, the ancient forms, the proud lineage of the Lightbringer—all of it had crumbled before the raw, practical violence of the Stripe Paws. He had expected them to fall. He had not expected them to fall so quickly.
 
 
-His claws continued their slow, steady rhythm against the armrest. The green fire flickered along his knuckles, but his face remained stone. The crowd was watching him as much as they were watching the basin. They wanted to see how the White Dawn would react to the humiliation of his own family. He gave them nothing.
+His claws continued their slow, steady rhythm against the armrest. Green flame flickered along his knuckles, but his face remained stone. The crowd was watching him as much as they were watching the basin. They wanted to see how the White Dawn would react to the humiliation of his own family. He gave them nothing.
 
 
 The Shadow Paws had not yet struck. Thane and his two assassins were still ghosts at the basin's edge, their dark pelts indistinguishable from the shadows of the stone. They had watched the Stripe Paws dismantle the Bright Paws, and they had done nothing. That was not cowardice. That was discipline. A Shadow Paw did not waste energy on unnecessary combat. They waited. They assessed. They chose their moment.
@@ -403,7 +403,7 @@ Ajani's eyes moved to the assassins. The Shadow Paws had been his family's shame
 And he let it sit there, unexamined, as the incense continued to burn and the tournament continued to unfold.
 
 
-Ajani's claws continued their slow, steady rhythm against the armrest. The green fire along his knuckles had dimmed to a faint, pulsing glow. He was no longer watching the basin. He was watching the crowd. The Stripe Paws in the tiers were growing restless. The Shadow Paws were silent and watchful. The Bright Paws, humiliated and leaderless, sat in stunned silence. The delegations—Pyrinae, Humman, Veylar—observed with the careful neutrality of outsiders who understood that this was a Wengari matter, and that Wengari matters were settled in blood.
+Ajani's claws continued their slow, steady rhythm against the armrest. The green glow along his knuckles had burned down low, pulsing faintly. He was no longer watching the basin. He was watching the crowd. The Stripe Paws in the tiers were growing restless. The Shadow Paws were silent and watchful. The Bright Paws, humiliated and leaderless, sat in stunned silence. The delegations—Pyrinae, Humman, Veylar—observed with the careful neutrality of outsiders who understood that this was a Wengari matter, and that Wengari matters were settled in blood.
 
 Glory was the currency of the desert. And no champion would leave this basin without claiming their share.
 
@@ -472,7 +472,7 @@ The Stripe Paws had paid for their aggression in blood. Tor and Varn, paralyzed 
 The Motted Paws had lost no one. Sylva's silver claws were stained with Vex's blood. Her two companions had not been touched. All three would advance.
 
 
-Six champions remained: three Motted Paws, two Shadow Paws, one Stripe Paw. The Bright Paws were gone—eliminated in the opening moments, their humiliation complete. The other families had bled and fought and proven their worth. And the king sat on his throne, the green fire flickering gently along his claws, his eyes moving across the six champions who would fight again.
+Six champions remained: three Motted Paws, two Shadow Paws, one Stripe Paw. The Bright Paws were gone—eliminated in the opening moments, their humiliation complete. The other families had bled and fought and proven their worth. And the king sat on his throne, the Tree's fire burning low along his claws, his eyes moving across the six champions who would fight again.
 
 
 The tournament was not over. It was just beginning.
@@ -499,7 +499,7 @@ The Bright Paw champions were brought forward. Karn walked on his own feet, thou
 The other families watched in silence. The Stripe Paws, their champion Rask still standing despite the poison in her veins. The Shadow Paws, Thane and Sera bleeding but unbowed. The Motted Paws, their three champions untouched, their silver auras flickering faintly in the noon light.
 
 
-And the king sat on his father's throne, the green fire flickering gently along his claws, his eyes fixed on the broken warriors of his own blood. The apology hung in the air—not an excuse, not a justification, but an acknowledgment. The Bright Paws had shamed themselves. The king had seen it. The desert had witnessed it. And now the desert would see what the White Dawn did to those who failed him.
+And the king sat on his father's throne, his claws lit with faint green flame, his eyes fixed on the broken warriors of his own blood. The apology hung in the air—not an excuse, not a justification, but an acknowledgment. The Bright Paws had shamed themselves. The king had seen it. The desert had witnessed it. And now the desert would see what the White Dawn did to those who failed him.
 
 
 <div class="dialogue-block">
@@ -524,7 +524,7 @@ The other two trainers bowed beside him, their golden manes brushing the sand. T
 The arena waited. The Stripe Paws, the Shadow Paws, the Motted Paws—all of them watched the king and the trainers and the broken champions kneeling before the throne. The delegations—Pyrinae, Humman, Veylar—observed with the careful stillness of outsiders who understood that this was a Wengari matter, and that Wengari matters were settled in blood.
 
 
-And the green fire flickered gently along Ajani's claws, casting dancing shadows across the ancient stone. The White Dawn had asked a question. Now he would judge the answer.
+And pale green light clung to Ajani's claws, throwing long shadows across the ancient stone. The White Dawn had asked a question. Now he would judge the answer.
 
 
 <div class="dialogue-block">
