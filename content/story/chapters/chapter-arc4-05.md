@@ -16,7 +16,7 @@ He swept his gaze across the Humman delegation, across the Bright Paw guards, ac
 
 The Great Hall fell silent. The guards had dragged the dead merchant's body to Seris's feet, and the ambassador stared down at it, her diplomatic mask shattered, her dark eyes hollow with the knowledge that another of her people had died because she had failed to control them.
 
-Ajani stood at the center of the dais, one paw resting on Kira's shoulder, the green fire flickering gently along his claws. He had said what needed to be said. He had made the proclamation. The entire hall—Bright Paw guards, Shadow Paw assassins, servants, scribes, priests—had heard him claim the Shadow Paw cub as his sister. Now it was Kira's turn. He did not prompt her. He did not whisper advice. He simply waited, his green-flecked eyes moving from the trembling Humman delegation to the small, dark-furred cub at his side.
+Ajani stood at the center of the dais, one paw resting on Kira's shoulder, green flame glowing softly along his claws. He had said what needed to be said. He had made the proclamation. The entire hall—Bright Paw guards, Shadow Paw assassins, servants, scribes, priests—had heard him claim the Shadow Paw cub as his sister. Now it was Kira's turn. He did not prompt her. He did not whisper advice. He simply waited, his green-flecked eyes moving from the trembling Humman delegation to the small, dark-furred cub at his side.
 
 Seris saw the opening. She was a diplomat of thirty years, and she understood power even when it wore the face of a six-year-old child. The king had given his sister the power of life and death over the Humman delegation. The king had not told her what to do with it. If Seris could sway the cub, she could save her people. If she failed, they would all follow the dead merchant to the eastern gate—or worse.
 
@@ -28,7 +28,7 @@ The Humman merchants behind her held their breath. The Bright Paw guards watched
 
 Kira looked down at the Humman ambassador kneeling before her, and the Great Hall was silent. The dead merchant's body lay crumpled at Seris's feet, and the ambassador's voice still echoed off the ancient stone, her plea for mercy hanging in the air like smoke from a dying fire. Every eye in the hall was fixed on the small, dark-furred cub standing at the king's side.
 
-She had never been looked at like this before. On the streets, she had been invisible—a shadow among shadows, a stray to be kicked aside or ignored. Now the most powerful Humman in the capital was kneeling before her, begging for her people's lives, and the king—her brother—was waiting for her to decide their fate. She could feel the weight of his paw on her shoulder, steady and warm. She could feel the green fire flickering along his claws, patient and waiting.
+She had never been looked at like this before. On the streets, she had been invisible—a shadow among shadows, a stray to be kicked aside or ignored. Now the most powerful Humman in the capital was kneeling before her, begging for her people's lives, and the king—her brother—was waiting for her to decide their fate. She could feel the weight of his paw on her shoulder, steady and warm. She could feel the green flame flickering along his claws, patient and waiting.
 
 She could feel the eyes of the Bright Paw guards and the Shadow Paw assassins and the servants and the scribes, all of them watching, all of them waiting to see what the king's new sister would do.
 
@@ -247,7 +247,7 @@ Sylva's silver aura flickered gently. <span class="speech">"Let them go. The kin
 </div>
 The water hole was a shallow basin of cool, clear water fed by an underground spring, hidden in a fold of the desert rock just beyond the east wall. The fire feet handlers used it sometimes, and the wild razor hares came at dawn and dusk, but in the late afternoon it was empty. The rocks above the basin were warm from the sun, and the view stretched across the desert to the distant, shimmering haze of the Rune-Belt.
 
-Ajani lay on his back on the largest rock, his golden mane spread around him, his paws folded behind his head. Kira sat beside him, her dark pelt still damp from the water, her small legs dangling over the edge of the rock. The green fire along Ajani's claws had dimmed to a faint, contented glow.
+Ajani lay on his back on the largest rock, his golden mane spread around him, his paws folded behind his head. Kira sat beside him, her dark pelt still damp from the water, her small legs dangling over the edge of the rock. The green glow along Ajani's claws had softened, faint and contented.
 
 <div class="dialogue-block">
 <span class="speech">"This is perfect,"</span> he said. <span class="speech">"No elders. No ambassadors. No regent with a scroll of urgent matters. Just warm rocks and cool water and my best sister."</span>
@@ -291,7 +291,7 @@ It was subtle—nothing like the blazing gold of Rask's Fire Paws or the cold si
 <span class="speech">"Look at you,"</span> Ajani whispered. <span class="speech">"Look at you. You got so big. You were just a yearling. You used to trip over your own feet. L'vat said you were clumsy. I told him he was wrong. I was right. I was right, Ember. You're magnificent."</span>
 </div>
 
-He reached out and placed both paws against her flank. The green fire flared along his claws, and Ember's scales shimmered in answer, the same faint, answering glow that had lit the darkness of the marshes a hundred nights. She lowered her great head and pressed her forehead against his chest, and the White Dawn, the heir of the Lightbringer, the king of the Wengari, wrapped his arms around the neck of his fire foot and held on like a cub who had been lost in the desert and had finally found his way home.
+He reached out and placed both paws against her flank. Green flame flared along his claws, and Ember's scales shimmered in answer, the same faint, answering glow that had lit the darkness of the marshes a hundred nights. She lowered her great head and pressed her forehead against his chest, and the White Dawn, the heir of the Lightbringer, the king of the Wengari, wrapped his arms around the neck of his fire foot and held on like a cub who had been lost in the desert and had finally found his way home.
 
 Kira stared. She had never seen her brother like this. Not in the training arena, not in the Great Hall, not in the quiet moments on the rooftop garden at sunset. The king who had killed a man with a flick of his wrist was standing in the afternoon sun with his face buried in the mane of a pale fire foot, and he was laughing and crying at the same time, and he did not seem to care who saw him.
 
@@ -303,14 +303,14 @@ Kira stared. She had never seen her brother like this. Not in the training arena
 <p class="speech-line">Kira did not look at her. "I know. He's my brother. He can cry if he wants to."</p>
 </div>
 
-Vasha made a small, noncommittal sound that might have been agreement or might have been disapproval. It was impossible to tell with Vasha.
+Vasha made a small, noncommittal sound — agreement or disapproval; Vasha never gave either away.
 
 <div class="dialogue-block">
 <p class="speech-line">Zara spoke the words again — the same words she had spoken at the first gift-giving, and this time they were not formality but blessing. "Ember is yours. She has always been yours. We are only returning what was already given."</p>
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">Ajani raised his head. His golden eyes were bright, and the green fire along his claws had steadied into a warm, steady glow. "I accept this gift. I accept it as family. Thank you, Zara. Thank you, Korr. Thank you, Vasha, for delaying the ambassador's messages and winning the race. You may now stop being angry about the three offices."</p>
+<p class="speech-line">Ajani raised his head. His golden eyes were bright, and the light along his claws had settled into a warm, even glow. "I accept this gift. I accept it as family. Thank you, Zara. Thank you, Korr. Thank you, Vasha, for delaying the ambassador's messages and winning the race. You may now stop being angry about the three offices."</p>
 </div>
 
 <div class="dialogue-block">
@@ -322,7 +322,7 @@ Before Ajani could respond, Kira tugged at his sleeve. <span class="speech">"Mor
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">Ajani straightened, one paw still resting on Ember's flank. The green fire flickered along his claws. "The Shadow Paws have overplayed their hand. I can feel it. Sera and Vex are embarrassed. Kareth is not with them. This is going to be interesting."</p>
+<p class="speech-line">Ajani straightened, one paw still resting on Ember's flank. Green light flickered along his claws. "The Shadow Paws have overplayed their hand. I can feel it. Sera and Vex are embarrassed. Kareth is not with them. This is going to be interesting."</p>
 </div>
 The Shadow Paw contingent crested the ridge in perfect formation, their dark pelts blending with the late afternoon shadows, their lacquered claws gleaming. Kareth was not with them. The elder who had overruled him walked at the head of the column, his scarred face composed into an expression of serene confidence. Beside him walked Lira.
 
@@ -511,11 +511,11 @@ He ripped the page from the grimoire.
 
 The runes began to glow. Pale green light traced the concentric circles, and the paper started to crumble from the edges inward, dissolving into fine, luminescent dust. Every Wengari at the water hole went silent. The Stripe Paws stopped exchanging coin. The Shadow Paws forgot their shame. Vasha's stylus paused mid-stroke. Zara's great paw froze halfway to her cup. Kira, still perched on Ember's back, leaned forward with her dark eyes wide.
 
-Nefere's clouded gaze sharpened. Elyra's silver aura flickered with something that might have been surprise or might have been satisfaction.
+Nefere's clouded gaze sharpened. Elyra's silver aura flickered — surprise, or satisfaction.
 
 The page dissolved entirely. In its place, a sphere of pale green light hovered in the air above Ajani's palm—a perfect, pulsing orb of concentrated water and wind, bound together by the runic sequence he had inscribed. He reached out to touch it. The sphere shot upward, a streak of green against the amber sky, and exploded above the water hole in a shower of warm, glowing mist. Droplets of light rained down over the gathered Wengari, over the fire feet, over the Stripe Paws and the Shadow Paws and the Motted Paws and the Pyrinae.
 
-For a single, breathless moment, the water hole was bathed in a soft, green-gold luminescence that smelled of marsh water and ancient roots and the patient, inexorable pulse of the Deep.
+Then the water hole was bathed in a soft, green-gold luminescence that smelled of marsh, and the night went utterly still. water and ancient roots and the patient, inexorable pulse of the Deep.
 
 <div class="dialogue-block">
 <p class="speech-line">Ajani stared at the empty space where the sphere had been. Then he looked down at the grimoire. Then he looked at Elyra. "Can it be made to grow new pages? If I use a page for sorcery, it's gone. But if the book could grow new pages—if it could replenish itself—then this is not merely a grimoire. This is a portable sorcery arsenal."</p>

@@ -9,7 +9,7 @@
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">Ajani closed the grimoire and held it against his chest. The green fire along his claws had steadied into a warm, steady glow. "This is still the best gift I have received today. The spear is magnificent. The fire foot is beloved. The daggers are precious. But this—this is a piece of the future."</p>
+<p class="speech-line">Ajani closed the grimoire and held it against his chest. The glow along his claws had steadied, warm and even. "This is still the best gift I have received today. The spear is magnificent. The fire foot is beloved. The daggers are precious. But this—this is a piece of the future."</p>
 </div>
 
 Every eye at the water hole was fixed on him. The Stripe Paws, who had just watched their king rip a page from a book and conjure a ball of light that exploded into green rain. The Shadow Paws, who had just watched the same king accept a grimoire with more enthusiasm than he had shown for their daggers or their would-be bride. The Motted Paws, who had known what the grimoire could do but had not known the king would test it so immediately, so publicly, so successfully.
@@ -169,15 +169,15 @@ But the king was doting on them. The king, who had stammered with fear at the si
 Seris shifted modes with the practiced ease of a diplomat who had survived thirty years by adapting to circumstances she could not control. <span class="speech">"The miniature Pearly Scorpion,"</span> she said, her voice smooth and confident. <span class="speech">"Exceptionally rare. Prized as personal companions by the wealthiest Humman families. They are intelligent, loyal, and fiercely protective of their imprinted masters. They bond for life. They will never leave your side. A perfect gift for a king."</span> She paused. <span class="speech">"And for his sister."</span>
 </div>
 
-Vasha, standing at the edge of the Stripe Paw contingent, made a small, noncommittal sound. It might have been respect. It might have been disbelief. It was impossible to tell with Vasha.
+Vasha, standing at the edge of the Stripe Paw contingent, made a small, noncommittal sound. Respect, perhaps, or disbelief — it was impossible to tell with Vasha.
 
 The Bright Paws arrived as the afternoon sun began its descent toward the western rim of the desert. Solen led the procession, his ancient frame trembling with exhaustion and relief, his golden mane still dusty from the frantic search through the temple reliquary. Behind him came a small army of priests and attendants, carrying the pieces of the Lightbringer's regalia on cushions of white silk. The pearly scorpion chitin chestplate.
 
 The fire beetle bracers adorned with green gems. The travel boots of sturdy, unfamiliar leather studded with white gems. And the crown—the crown of white Styx feathers encased in resin, shimmering with the impression of white flames.
 
-Everyone was trying to get a look at the scorpions. The Stripe Paws had abandoned their betting to crowd around Ajani's shoulders. The Motted Paws were observing with their characteristic silence, but even Elyra's silver aura flickered with something that might have been curiosity. The Pyrinae were taking mental notes, their scholar's minds already cataloging the unprecedented phenomenon of a multi-colored scorpion clutch.
+Everyone was trying to get a look at the scorpions. The Stripe Paws had abandoned their betting to crowd around Ajani's shoulders. The Motted Paws were observing with their characteristic silence, but even Elyra's silver aura flickered with curiosity. The Pyrinae were taking mental notes, their scholar's minds already cataloging the unprecedented phenomenon of a multi-colored scorpion clutch.
 
-And Kira was holding the white scorpion above her head so Ember could inspect it, the pale fire foot snorting gently at the tiny creature with what might have been approval.
+And Kira was holding the white scorpion above her head so Ember could inspect it, the pale fire foot snorting gently at the tiny creature — approval, in fire-foot fashion.
 
 Lira approached. The beautiful Shadow Paw warrior had retreated to the edge of the gathering after her humiliation, her bridal silks still shimmering, her lacquered claws still gleaming. She had watched Ajani accept the grimoire and the spear and the daggers and the fire foot. She had watched him stammer with fear at the scorpion egg and then melt into tenderness when the hatchlings emerged. She had seen him gentle and terrified and joyful and coldly furious, and she was not sure which of those faces was the true one.
 
@@ -287,7 +287,7 @@ She sent word to the Shadow Paws that the king's personal guard would be reinsta
 
 She could not enter the inner chamber to speak with the Tree. The lord of the desert would only open its doors to the king, and the king was unconscious. So Sylva sat in her chambers each night, her silver aura flickering gently, and she listened to the reports from the healers and the elders and the spies, and she waited.
 
-By the seventh day, nothing had changed. Ajani lay in his bed, his armor glowing faintly, his scorpions on his chest, his sister at his side. The white Styx still circled above the capital, patient as the stars. The Dragari's message still echoed in the silence: 'the king has returned, the empty maw has woken.' And Sylva, the regent of the Wengari, stood at the window of her chambers and watched the sun set over the desert, and she did not know if the king would ever wake.
+By the seventh day, nothing had changed. Ajani lay in his bed, his armor glowing faintly, his scorpions on his chest, his sister at his side. The white Styx still circled above the capital, keeping its endless vigil. The Dragari's message still echoed in the silence: 'the king has returned, the empty maw has woken.' And Sylva, the regent of the Wengari, stood at the window of her chambers and watched the sun set over the desert, and she did not know if the king would ever wake.
 
 The second week began with a scream.
 
@@ -417,7 +417,7 @@ The elite unit stood at the gate. Twenty Wengari warriors, handpicked by Sera, t
 
 Five hundred Wengari and their allies stood at the northern gate, waiting for an army that outnumbered them two to one.
 
-Nefere returned on the seventh day. She was exhausted, her ancient frame trembling, her clouded eyes bright with something that might have been hope or might have been desperation. In her arms she carried a small bundle wrapped in silk—the kyre flowers, harvested from the basin of the fifth well, their pale petals invisible to all but the razor hare that had plucked them. She did not stop to explain. She did not stop to rest.
+Nefere returned on the seventh day. She was exhausted, her ancient frame trembling, her clouded eyes bright with desperate hope. In her arms she carried a small bundle wrapped in silk—the kyre flowers, harvested from the basin of the fifth well, their pale petals invisible to all but the razor hare that had plucked them. She did not stop to explain. She did not stop to rest.
 
 She walked through the palace corridors with her bundle clutched against her chest, and Sylva met her at the door of Ajani's chambers.
 

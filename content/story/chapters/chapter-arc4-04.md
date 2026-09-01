@@ -54,7 +54,7 @@ They had been meditating since the announcement ended. They had felt the surge o
 
 The eldest Root-Speaker nodded slowly. She raised her withered hand again, and the rune-glass filaments in the walls pulsed back to life. The three Root-Speakers bowed their heads and returned to their meditation, listening for a voice that had never spoken to them, listening for a dream that had never shown them the path. The lord of the desert was awake. The Golden Sun was real. And the Pyrinae, who had been patient for three thousand years, would wait a little longer to understand what it meant.
 
-Sylva found Nefere in the Pyrinae delegation's private quarters, a small, circular room carved into the living stone of the eastern district. The walls were lined with rune-glass filaments that pulsed with soft amber light, and the floor was covered with woven mats that smelled of old incense and ancient earth. The ancient Hydromancer sat alone, her clouded eyes fixed on a small rune-glass sphere that hovered above her upturned palm, pulsing with a slow, rhythmic light that matched her breathing.
+Sylva found Nefere in the Pyrinae delegation's private quarters, a small, circular room carved into the living stone of the eastern district. The walls were lined with rune-glass filaments that pulsed with soft amber light, and the floor was covered with woven mats that smelled of old incense and ancient earth. The ancient Hydromancer sat alone, her clouded eyes fixed on a small rune-glass sphere that hovered above her upturned palm, pulsing in time with her breathing.
 
 <div class="dialogue-block">
 <span class="speech">"I wondered when you would come,"</span> Nefere said without looking up. <span class="speech">"The king has retired to bathe. The regent is left to manage the consequences. This is the way of governance. You are learning."</span>
@@ -153,7 +153,7 @@ Sylva met with Ajani in the throne room at the end of each week, and their meeti
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">Ajani leaned back on the cold throne, the green fire flickering gently along his claws. "The road is still there. The coalition is still assembling. The Pyrinae are still surveying the route through the Rune-Belt. The Stripe Paws are still gathering supplies. The Hummans are still pretending to be cooperative while they plot whatever they are plotting. But I cannot leave until the tournament succeeds. I know this now. I hate it, but I know it."</p>
+<p class="speech-line">Ajani leaned back on the cold throne, green flame glowing softly along his claws. "The road is still there. The coalition is still assembling. The Pyrinae are still surveying the route through the Rune-Belt. The Stripe Paws are still gathering supplies. The Hummans are still pretending to be cooperative while they plot whatever they are plotting. But I cannot leave until the tournament succeeds. I know this now. I hate it, but I know it."</p>
 </div>
 
 <div class="dialogue-block">
@@ -252,7 +252,7 @@ A Bright Paw cub would have been claimed by her family's priests within days. A 
 <p class="speech-line">Kira's laugh was sharp and bitter, far too old for a cub of six. "They don't know. They're too busy being important. The elders don't come to the west wall. The elders don't see what happens to the ones who fall through the cracks. I'm not important enough for Kareth to notice. I'm just a street rat with a dark pelt and the blood of the Black Fire in my veins. No one wants that."</p>
 </div>
 
-A soft sound came from the shadows behind Ajani—a quiet, almost imperceptible exhalation that might have been a sigh. Sera stepped out of the darkness, her ruined face impassive, her lacquered claws catching the afternoon light. Behind her, the silent male Shadow Paw emerged, his dark eyes fixed on the cub with an expression that was difficult to read.
+A soft sound came from the shadows behind Ajani—a quiet, almost imperceptible sigh. Sera stepped out of the darkness, her ruined face impassive, her lacquered claws catching the afternoon light. Behind her, the silent male Shadow Paw emerged, his dark eyes fixed on the cub with an expression that was difficult to read.
 
 <div class="dialogue-block">
 <span class="speech">"We did not stop her,"</span> Sera said, answering the question Ajani had not yet asked, <span class="speech">"because she was not a threat. Her paw was in your purse, not on a blade. She is six years old and starving. The Shadow Paws do not kill starving cubs."</span>
@@ -266,12 +266,12 @@ She turned her one good eye toward Kira, who had gone very still at the sight of
 'we have so much work to do... sigh' - <span class="speech">"your name was Kira right?, I always wanted a sister you know? or a brother... or any other kid around... you're an orphan, from now on, you are Kira Brightmane, my sister, here"</span> , 'God this hurts!, L'vat never flinched when he opened his palm' - <span class="speech">"scratch your paw lightly with your claws, only to draw blood and mix it with mine"</span>
 </div>
 
-The green fire flared along Ajani's claws as he drew one sharp point across his own palm. The cut was clean, precise—a line of bright blood welling up against the golden fur. He winced, just slightly, and a flicker of something that might have been pain or might have been memory crossed his face.
+The green fire flared along Ajani's claws as he drew one sharp point across his own palm. The cut was clean, precise—a line of bright blood welling up against the golden fur. He winced, just slightly, and a flicker of pain — or memory — crossed his face.
 
 Kira stared at him, her dark eyes wide with an emotion she had not felt in three years. She had been prepared for punishment. She had been prepared for death. She had not been prepared for this. The king—the White Dawn, the heir of the Lightbringer, the most powerful Wengari on Ethra—was offering her his blood. His name. His family.
 
 <div class="dialogue-block">
-<span class="speech">"Your paw,"</span> Ajani said, his voice quieter now, the green fire dimming to a faint, steady glow. <span class="speech">"Just a scratch. Enough to draw blood. Then mix it with mine. It's an old ritual. My father taught me. He said it was the way the first Wengari made pacts, before the cities, before the pact, before any of this. Blood for blood. Name for name. You're not alone anymore, Kira. You're my sister. You're a Brightmane. That means something. That means you belong."</span>
+<span class="speech">"Your paw,"</span> Ajani said, his voice quieter now, the fire dimming to a faint, steady glow. <span class="speech">"Just a scratch. Enough to draw blood. Then mix it with mine. It's an old ritual. My father taught me. He said it was the way the first Wengari made pacts, before the cities, before the pact, before any of this. Blood for blood. Name for name. You're not alone anymore, Kira. You're my sister. You're a Brightmane. That means something. That means you belong."</span>
 </div>
 
 Sera stood motionless in the shadows, her ruined face unreadable. The silent male Shadow Paw beside her had not moved, but his dark eyes were fixed on the cub with an intensity that spoke of something deeper than mere observation. They were both Shadow Paws. They both knew what it meant for a child of their blood to be claimed by the king himself—not merely as a ward, not merely as a servant, but as family.
@@ -336,7 +336,7 @@ By the third week, Kira had learned to be still. By the sixth week, she had lear
 <span class="speech">"The other races will try to fill your silence with their own words,"</span> Sylva told her one afternoon, as they sat beneath the kyre flowers that lined the garden wall. <span class="speech">"They will assume your quiet is weakness. They will assume your patience is fear. They will be wrong. The Motted Paws have been silent for five thousand years. We have learned that silence is a weapon sharper than any claw. You are a Shadow Paw by blood. You already know how to wait. Now you must learn how to listen."</span> Kira closed her eyes and listened to the wind move through the hanging gardens, and she did not speak for the rest of the hour.
 </div>
 
-Morning training with Ajani was the thing Kira looked forward to most. It was the only time she had him to herself—no elders, no delegations, no regent waiting with a scroll of urgent matters. Just the two of them in the cold sand of the practice arena, the green fire flickering along Ajani's claws, the wooden practice saber heavy in Kira's small paws.
+Morning training with Ajani was the thing Kira looked forward to most. It was the only time she had him to herself—no elders, no delegations, no regent waiting with a scroll of urgent matters. Just the two of them in the cold sand of the practice arena, faint green light along Ajani's claws, the wooden practice saber heavy in Kira's small paws.
 
 <div class="dialogue-block">
 <span class="speech">"You're still dropping your left shoulder on the third form,"</span> Ajani said one morning, correcting her stance with a gentle paw. <span class="speech">"My father used to say that a king who drops his shoulder is a king who drops his crown. He was full of sayings like that. He had one for everything. 'Never cross a maid or you'll wake in rags.' 'The sun does not stop for the flowers.' 'If they see your fur bristle, you're as good as dead.' He drove me crazy with them. Now I can't stop thinking about them."</span>
@@ -347,7 +347,7 @@ Morning training with Ajani was the thing Kira looked forward to most. It was th
 </div>
 
 <div class="dialogue-block">
-Ajani was silent for a moment. The green fire dimmed along his claws. <span class="speech">"Every day. He was a good king. He was a better father. He would have liked you."</span> He raised his own practice saber. <span class="speech">"Again. And keep that shoulder up. The saber is not forgiving. Neither am I."</span>
+Ajani was silent for a moment. The green glow dimmed along his claws. <span class="speech">"Every day. He was a good king. He was a better father. He would have liked you."</span> He raised his own practice saber. <span class="speech">"Again. And keep that shoulder up. The saber is not forgiving. Neither am I."</span>
 </div>
 
 The fight came in the eighth week. Kira had been restless, irritable, snapping at her tutors and refusing her meals. Something was building in her, something she did not have words for. It came out in the training arena, when Ajani corrected her footwork and she threw down the practice saber and screamed at him.
@@ -356,7 +356,7 @@ The fight came in the eighth week. Kira had been restless, irritable, snapping a
 <p class="speech-line">"You should have left me on the streets! I don't belong here! I don't know how to be a princess, I don't know how to be a Brightmane, I don't know any of this! Everyone watches me all the time, the servants whisper when I walk past, the tutors think I'm stupid because I can't read the old script, and the other cubs in the market stare at me like I'm some kind of—of—" <span class="speech-attr">She ran out of words and stood there, chest heaving, dark fur bristling, eyes blazing with unshed tears.</span></p>
 </div>
 
-Ajani did not move. He did not speak. He simply stood there, the practice saber still in his paw, the green fire flickering gently along his claws, and let her words run out into the silence. When she was done, when she was standing in the cold sand with her small fists clenched and her whole body trembling, he set down the saber and knelt before her. Not as a king. As a brother.
+Ajani did not move. He did not speak. He simply stood there, the practice saber still in his paw, his claws traced with fading green light, and let her words run out into the silence. When she was done, when she was standing in the cold sand with her small fists clenched and her whole body trembling, he set down the saber and knelt before her. Not as a king. As a brother.
 
 <div class="dialogue-block">
 <span class="speech">"You belong here,"</span> he said quietly. <span class="speech">"Not because you are a princess. Not because you are a Brightmane. Because I chose you. Because I saw a starving cub in the market who scratched my face and tried to steal my purse, and I recognized something. I recognized the look in your eyes. It was the same look I had when I wandered the marshes, when I trained under L'vat, when I didn't know who I was or what I was meant to be. You are not stupid. You are not weak. You are not a burden. You are my sister. And I am never—never—going to leave you on the streets. Do you understand?"</span>
@@ -378,14 +378,14 @@ Ajani's whiskers twitched. <span class="speech">"That's probably true. But I'm y
 Ajani's laughter echoed through the arena. <span class="speech">"You're learning. That's almost exactly what my father would have said."</span> He raised his saber. <span class="speech">"Again."</span>
 </div>
 
-Kira learned the palace's secret places from Ajani over the following weeks. The hidden passage behind the throne room that led to the old guard quarters. The rooftop garden where the kyre flowers bloomed year-round, even in the driest seasons. The kitchen's back entrance, where the cooks would slip them extra portions of dried fruit if they promised not to tell the steward. They played pranks on the maids—Ajani using a flicker of green fire to make the washbasin glow, Kira hiding in the linen closet and jumping out at precisely the right moment.
+Kira learned the palace's secret places from Ajani over the following weeks. The hidden passage behind the throne room that led to the old guard quarters. The rooftop garden where the kyre flowers bloomed year-round, even in the driest seasons. The kitchen's back entrance, where the cooks would slip them extra portions of dried fruit if they promised not to tell the steward. They played pranks on the maids—Ajani using a flicker of green flame to make the washbasin glow, Kira hiding in the linen closet and jumping out at precisely the right moment.
 
 The maids complained to Mara, and Mara complained to Sylva, and Sylva simply shook her head and said nothing. The king had been carrying the weight of the crown for months. If he needed to act like a cub for a few hours, the regent would not stop him.
 
 One evening, they sat on the rooftop garden as the Steadfast set over the desert, painting the sky in shades of amber and rose. Kira was quiet, her dark pelt blending with the shadows, her golden eyes reflecting the dying light.
 
 <div class="dialogue-block">
-<span class="speech">"L'vat used to make me sit like this,"</span> Ajani said. <span class="speech">"In the marshes. He never said anything. He just sat. For hours. I thought he was punishing me at first. Then I realized he was teaching me. Patience. Stillness. The art of being alone without being lonely."</span> He paused, the green fire flickering gently along his claws. <span class="speech">"You don't have to be alone anymore. But you should learn to be still. The world will try to rush you. Don't let it."</span>
+<span class="speech">"L'vat used to make me sit like this,"</span> Ajani said. <span class="speech">"In the marshes. He never said anything. He just sat. For hours. I thought he was punishing me at first. Then I realized he was teaching me. Patience. Stillness. The art of being alone without being lonely."</span> He paused, soft green light playing along his claws. <span class="speech">"You don't have to be alone anymore. But you should learn to be still. The world will try to rush you. Don't let it."</span>
 </div>
 
 <div class="dialogue-block">
@@ -451,7 +451,7 @@ The merchant's eyes rolled wildly toward Seris, but the ambassador stood frozen,
 </div>
 
 <div class="dialogue-block">
-He turned and walked back to the throne, his white cloak billowing behind him. <span class="speech">"The guards will escort this merchant to the eastern gate. He will leave the capital before sundown. If he ever returns, he will be killed on sight. The rest of the Humman delegation may remain, but they will remember what happens to those who insult the Brightmane name."</span> He settled onto the cold stone, the green fire still flaring along his claws. <span class="speech">"Ambassador Seris. You were presenting a trade proposal. Continue."</span>
+He turned and walked back to the throne, his white cloak billowing behind him. <span class="speech">"The guards will escort this merchant to the eastern gate. He will leave the capital before sundown. If he ever returns, he will be killed on sight. The rest of the Humman delegation may remain, but they will remember what happens to those who insult the Brightmane name."</span> He settled onto the cold stone, the fire still flaring along his claws. <span class="speech">"Ambassador Seris. You were presenting a trade proposal. Continue."</span>
 </div>
 
 The merchant's body hit the polished stone at Seris's feet with a sound like a sack of grain falling from a wagon. His neck was broken. The green fire had not touched him—Ajani had not used his aura, had not summoned the saber or the spear—he had simply closed his paw and twisted, and the Humman's fragile vertebrae had snapped like dry twigs in the marsh. The body lay crumpled before the ambassador, and Seris stared down at it, her diplomatic composure shattered beyond repair.
@@ -466,4 +466,4 @@ Ajani flexed his claws once, as if testing their edge. <span class="speech">"So 
 
 Kira stepped out of the shadows between Sera and Vex, her dark pelt blending with the gloom, her golden eyes wide but steady. She had seen death before—on the streets, in the market, in the rubble of the west wall where her parents had died. She had never seen death delivered so casually, so absolutely, by someone who was protecting her. She took Ajani's paw, and he led her to the center of the dais, where every eye in the Great Hall could see her.
 
-The green fire flared along his claws, bright enough to cast dancing shadows across the golden mosaics, and his voice thundered through the silent hall.
+The fire along his claws flared, throwing hard shadows across the golden mosaics, and his voice thundered through the silent hall.

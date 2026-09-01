@@ -18,7 +18,7 @@ Sylva's silver aura stirred. <span class="speech">"The grand vizier will hold th
 Solen rose slowly. <span class="speech">"The Bright Paws accept. The grand vizier will be the champion of the tournament. That is a prize worth fighting for. That is a prize worth training for. The Bright Paws will train. The Bright Paws will compete. And one day—perhaps not this year, perhaps not the next—a Bright Paw will hold that office again. Not through blood. Not through tradition. Through strength."</span> He bowed his ancient head. <span class="speech">"The king has given us a reason to hope. That is a gift we did not expect."</span>
 </div>
 
-Ajani leaned back on the cold throne. The green fire flickered gently along his claws. The plan was set. The offices were filled. The grand vizier would carry the weight of governance, and the king would be free. The road awaited. The coalition was assembling. The world was turning. And the elders, for all their cunning, had just agreed to do his work for him while he rode north into legend.
+Ajani leaned back on the cold throne, faint green flame tracing his claws. The plan was set. The offices were filled. The grand vizier would carry the weight of governance, and the king would be free. The road awaited. The coalition was assembling. The world was turning. And the elders, for all their cunning, had just agreed to do his work for him while he rode north into legend.
 
 Zara gathered her chiefs in the fire feet stables, where the great black war-mounts stamped and snorted in their pens and the smell of leather and dust hung thick in the cooling air. Her cousin Vasha—humorless, meticulous, thrice-proposed for offices she would now never hold—stood at her side with a tablet of wax and a stylus, her expression the particular blankness of someone who had been publicly offered for three different roles and rejected from all of them.
 
@@ -35,7 +35,7 @@ Vasha spoke without looking up from her tablet. <span class="speech">"The king a
 </div>
 
 <div class="dialogue-block">
-Zara's whiskers twitched. <span class="speech">"I know. That's why I proposed you. The king chose otherwise. We will work with Maren. We will watch Maren. And we will ensure that the coin master does not forget that the Stripe Paws are the overlords of trade."</span> She turned back to her chiefs. <span class="speech">"We leave for the caravan routes at dawn. But we will leave behind our best—our most cunning, our most treacherous, our most ambitious. The king asked for those we trust least. I am sending Vasha."</span> A ripple of something that might have been laughter or might have been sympathy ran through the assembled chiefs. Vasha's stylus did not pause.
+Zara's whiskers twitched. <span class="speech">"I know. That's why I proposed you. The king chose otherwise. We will work with Maren. We will watch Maren. And we will ensure that the coin master does not forget that the Stripe Paws are the overlords of trade."</span> She turned back to her chiefs. <span class="speech">"We leave for the caravan routes at dawn. But we will leave behind our best—our most cunning, our most treacherous, our most ambitious. The king asked for those we trust least. I am sending Vasha."</span> A ripple of laughter — or sympathy; the two sounded alike — ran through the assembled chiefs. Vasha's stylus did not pause.
 </div>
 
 The Shadow Paw quarter was carved into the base of the plateau, a labyrinth of dark stone and ancient silence. Kareth walked its corridors slowly, his obsidian staff clicking against the stone, his one good eye adjusting to the gloom. Behind him, Sera walked in silence. She had not spoken since the council ended. She had been appointed security advisor—the role she had not sought, the role that would take her from the shadows and place her in the light, training an elite unit to face the Blight.
@@ -78,7 +78,7 @@ She closed her eyes, and her silver aura dimmed to a faint, gentle pulse. The Mo
 
 And when the next tournament came, they would be ready to defend the grand vizier's office with claws and patience and the quiet, inexorable power of Flowing Water. The king had given them a voice. They would use it.
 
-Ajani sat on the throne at the far end of the hall, the white cloak of his father draped across his shoulders, the green fire flickering gently along his claws. He had bathed. He had eaten. He had spent an hour in the gardens, walking among the kyre flowers and pretending, for a little while, that he was not a king. Now he was ready—or as ready as he would ever be.
+Ajani sat on the throne at the far end of the hall, the white cloak of his father draped across his shoulders, a soft green glow along his claws. He had bathed. He had eaten. He had spent an hour in the gardens, walking among the kyre flowers and pretending, for a little while, that he was not a king. Now he was ready—or as ready as he would ever be.
 
 <div class="dialogue-block">
 <p class="speech-line">T'van stood at his side, a stack of scrolls tucked under one arm, his golden eyes bright with the particular exhaustion of a servant who had been running messages since dawn. "The delegations are waiting, my king. The Pyrinae have requested to be received first—they say they have a proposal for the road that cannot wait. The Hummans are next, then the Veylar Shell-Singer, then the Threx. The Quick has been waiting since this morning. It says it does not mind. It says the pool is very comfortable."</p>
@@ -138,7 +138,7 @@ The Root-Speaker, silent and cowled, raised one hand. The air in the Great Hall 
 
 *I hope she's already spying on the Hummans.*
 
-Nefere paused mid-turn, her ancient frame silhouetted against the golden mosaics of the Great Hall. The faint smile that had crossed her face moments before deepened, and her clouded eyes glinted with something that might have been amusement or might have been the satisfaction of a task well begun.
+Nefere paused mid-turn, her ancient frame silhouetted against the golden mosaics of the Great Hall. The faint smile that had crossed her face moments before deepened, and her clouded eyes glinted with the satisfaction of a task well begun.
 
 <div class="dialogue-block">
 <p class="speech-line">"The Hummans are restless, King Ajani. Ambassador Seris has spent the days since the tournament organizing her people—not merely the refreshments you demanded, but something deeper. She has been meeting with the Stripe Paws about caravan routes. She has been sending scribes to the Pyrinae district to study our rune-glass techniques. She has been asking quiet questions about the schools, about the tournament, about the offices you announced in the council. She is not merely trying to survive, King Ajani. She is trying to position herself. She is trying to make the Hummans indispensable."</p>
@@ -202,7 +202,7 @@ Ajani allowed himself the faintest twitch of his whiskers. The trap was set. The
 <p class="speech-line">"Send them in," <span class="speech-attr">he said.</span></p>
 </div>
 
-Sera's ruined face did not change expression—it could not, the scars too deep, the muscles beneath too damaged—but something flickered in her one good eye that might have been approval. Or anticipation. Or both.
+Sera's ruined face did not change expression—it could not, the scars too deep, the muscles beneath too damaged—but something flickered in her one good eye: approval, anticipation, perhaps both.
 
 <div class="dialogue-block">
 <span class="speech">"It will be done, King Ajani."</span> Her voice was quiet, almost gentle, the voice of someone who had killed many times and taken no particular pleasure in it, but who understood the value of fear as a tool. <span class="speech">"The guards will roar. The auras will flare. The Hummans will enter a hall of predators dressed in gold and fire. If any of them faint—"</span> She paused, and the faintest ghost of something that might once have been a smile crossed her ruined face. <span class="speech">"The guards will appreciate the waiver from training. They have been training hard. They will appreciate it very much."</span>
@@ -234,7 +234,7 @@ Now they walked into the heart of Wengari power, and every step echoed off the g
 
 The guards roared. Twenty Bright Paw warriors in ceremonial armor, their golden manes bristling, their auras flaring in perfect, synchronized fury—a wall of sound and light that crashed over the Humman delegation like a sandstorm. The polished stone trembled. The amber filaments in the floor pulsed brighter. The Humman merchants stumbled, their hands flying to their ears, their carefully rehearsed dignity evaporating in an instant of pure, primal terror.
 
-Seris did not stumble. Her step faltered for only a heartbeat, and then she continued forward, her jaw set, her eyes fixed on the distant throne where the White Dawn sat in his father's cloak with the green fire flickering along his claws. Behind him, half-seen in the shadows, two figures stood motionless—lean, dark-furred, their lacquered claws catching the amber light like blades of obsidian. They did not move. They did not speak. They simply watched.
+Seris did not stumble. Her step faltered for only a heartbeat, and then she continued forward, her jaw set, her eyes fixed on the distant throne where the White Dawn sat in his father's cloak with faint green flame flickering along his claws. Behind him, half-seen in the shadows, two figures stood motionless—lean, dark-furred, their lacquered claws catching the amber light like blades of obsidian. They did not move. They did not speak. They simply watched.
 
 <div class="dialogue-block">
 <p class="speech-line">Sylva stepped forward from her place beside the throne. Her silver-chased ceremonial armor gleamed in the amber light, and her ancient voice carried through the silent hall with the patient, inexorable cadence of Flowing Water. "Ambassador Seris of the Hummans. Daughter of Verdantis. Keeper of the Scorpion Trade. You stand before Ajani Brightmane, first of his name, protector of the realm, heir to the light, disciple of the deep, king of the Wengari of the desert and the belt, the White Dawn. He welcomes you to his hall. Speak your purpose."</p>
@@ -244,7 +244,7 @@ A single claw clicked against the armrest of the throne. The sound was soft, alm
 
 Another click. Seris's jaw tightened. She had been a diplomat for thirty years. She had negotiated with Stripe Paw warlords who could crush her skull in one paw. She had bargained with Pyrinae Hydromancers who could dissolve her bones with a thought. She had knelt before this king in the arena and surrendered her daughter to his capital. She would not flinch at the tapping of a claw.
 
-But her daughter Lena, standing just behind her, flinched. The young scribe's dark eyes darted to the throne, to the green fire flickering along Ajani's claws, to the two motionless shadows standing behind him. She had never seen a Shadow Paw before. She had not known that fear could be so still.
+But her daughter Lena, standing just behind her, flinched. The young scribe's dark eyes darted to the throne, to the pale green glow along Ajani's claws, to the two motionless shadows standing behind him. She had never seen a Shadow Paw before. She had not known that fear could be so still.
 
 <div class="dialogue-block">
 Ajani's voice, when it finally came, was quiet—almost conversational. <span class="speech">"No one fainted. Disappointing. I owe the Stripe Paws an apology. They would have made you faint."</span> His green-flecked eyes swept across the trembling merchants, the stone-faced ambassador, the wide-eyed scribe. <span class="speech">"Perhaps next time."</span>
@@ -460,7 +460,7 @@ Sylva absorbed the king's words in silence, her silver aura flickering gently in
 </div>
 
 <div class="dialogue-block">
-She paused at the edge of the dais, glancing back over her shoulder. <span class="speech">"The Humman girl. Lena. You want me to mold her into a proper Wengari."</span> Her ancient eyes held a faint glimmer of something that might have been amusement or might have been curiosity. <span class="speech">"I will teach her. I will teach her to stand. I will teach her not to flinch. I will teach her the language of the sun, as you are teaching me. And perhaps, in time, she will teach me something about the Hummans that I did not know. That is the way of Flowing Water. We learn from every vessel."</span>
+She paused at the edge of the dais, glancing back over her shoulder. <span class="speech">"The Humman girl. Lena. You want me to mold her into a proper Wengari."</span> Her ancient eyes held a faint glimmer of curiosity sharpened by amusement. <span class="speech">"I will teach her. I will teach her to stand. I will teach her not to flinch. I will teach her the language of the sun, as you are teaching me. And perhaps, in time, she will teach me something about the Hummans that I did not know. That is the way of Flowing Water. We learn from every vessel."</span>
 </div>
 
 She turned and walked toward the great bronze doors, her silver-chased ceremonial armor gleaming in the amber light. The king had laughed at her—she had heard the laughter in his voice, even if he had not spoken it aloud. She did not mind. The laughter of a king who was also a teacher was a gift. She would repay it by learning. And by ensuring that the next time the Hummans tried to deceive the throne, the regent would see it before the king did.

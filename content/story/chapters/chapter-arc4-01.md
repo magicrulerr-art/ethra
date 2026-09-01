@@ -45,15 +45,15 @@ Ajani climbed the dais and settled onto the cold stone. The green fire flickered
 <p class="speech-line">Solen stared at her. He opened his mouth, closed it, and sat down. The Motted Paw elder, a silver-furred woman whose name Ajani had not yet learned, rose next. "The Motted Paws wish to know the limits of the regent's authority. Sylva speaks for us, but she also speaks for the crown. Where does one end and the other begin? We require clarity."</p>
 </div>
 
-Ajani looked at Sylva. Sylva looked at Ajani. Then the king leaned forward, the green fire flaring gently along his claws, and began to explain.
+Ajani looked at Sylva. Sylva looked at Ajani. Then the king leaned forward, the cold green glow flaring gently along his claws, and began to explain.
 
 The Hall of the Sun fell silent. Zara, who had been prepared to argue trade agreements and caravan contracts and the thousand logistical details that came with the overlordship of trade, paused mid-rise. The other elders—Bright Paw, Shadow Paw, Motted Paw—exchanged glances. The king had not answered their questions. He had not addressed their demands. He had asked a question of his own.
 
 <div class="dialogue-block">
-Zara straightened. <span class="speech">"The yearly tournament?"</span> She considered for a moment, her golden eyes narrowing as she weighed the question. <span class="speech">"It's the best thing that's happened to the Stripe Paws in a generation. The caravans are already seeing increased traffic. The fire feet handlers are planning breeding schedules for next year's mounts. The common Wengari are still talking about the duels, the mounted phase, the—"</span> She paused, glancing at Ajani with something that might have been a grin. <span class="speech">"The king's performance as arbiter. It was undignified. It was unpolished. It was magnificent. The Stripe Paws will support the yearly tournament. We'll sponsor the mounted phase ourselves if the crown permits."</span>
+Zara straightened. <span class="speech">"The yearly tournament?"</span> She considered for a moment, her golden eyes narrowing as she weighed the question. <span class="speech">"It's the best thing that's happened to the Stripe Paws in a generation. The caravans are already seeing increased traffic. The fire feet handlers are planning breeding schedules for next year's mounts. The common Wengari are still talking about the duels, the mounted phase, the—"</span> She paused, glancing at Ajani, almost grinning. <span class="speech">"The king's performance as arbiter. It was undignified. It was unpolished. It was magnificent. The Stripe Paws will support the yearly tournament. We'll sponsor the mounted phase ourselves if the crown permits."</span>
 </div>
 
-She sat down, her striped mane rippling. The other elders murmured. The Shadow Paws were harder to read, but Kareth inclined his scarred head in what might have been agreement. The Bright Paws, still nursing their humiliation, seemed uncertain. The Motted Paws watched in their characteristic silence. Ajani let the murmur settle, then leaned forward on the throne. He had asked Zara first because she was the most commercially minded, the most practical, the most likely to see the tournament's value in coin and spectacle and opportunity.
+She sat down, her striped mane rippling. The other elders murmured. The Shadow Paws were harder to read, but Kareth inclined his scarred head in slow agreement. The Bright Paws, still nursing their humiliation, seemed uncertain. The Motted Paws watched in their characteristic silence. Ajani let the murmur settle, then leaned forward on the throne. He had asked Zara first because she was the most commercially minded, the most practical, the most likely to see the tournament's value in coin and spectacle and opportunity.
 
 He had not asked the Shadow Paws or the Motted Paws or his own humiliated kin because he already knew what they would say—or he thought he knew. Now it was time to find out.
 
@@ -210,7 +210,7 @@ Their High Priest had been humbled before the throne. They were not a fifth fami
 Solen, the High Priest, rose slowly. His golden mane was still dulled, his ancient shoulders still bowed from the weight of the tournament's humiliation. But his voice, when he spoke, was steady. <span class="speech">"The Bright Paws have no objection. We have not earned a full share. We have not earned anything. We will take what the king gives us, and we will work to become worthy of more."</span> He paused, his golden eyes meeting Ajani's. <span class="speech">"But we are still the royal family. We are still the blood of the Lightbringer. We will train. We will learn. We will claw our way back from the shadows. And when we are strong again—when we have earned it—we will ask for our full share. Not before."</span>
 </div>
 
-Zara, who had been ready to argue numbers and percentages, closed her mouth. Kareth inclined his scarred head, a gesture of respect that was rare from the Shadow Paw elder. Sylva's silver aura pulsed, soft and low, in the shadows beside the throne, and her ancient eyes held something that might have been approval.
+Zara, who had been ready to argue numbers and percentages, closed her mouth. Kareth inclined his scarred head, a gesture of respect that was rare from the Shadow Paw elder. Sylva's silver aura pulsed, soft and low, in the shadows beside the throne, and her ancient eyes held quiet approval.
 
 
 <div class="dialogue-block">
@@ -355,7 +355,7 @@ Zara's golden eyes narrowed with calculation, but it was a different kind of cal
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">Kareth inclined his scarred head, his one good eye gleaming with something that might have been pride. "Maren will serve. She has no family beyond the Shadow Paws. She has no desires beyond her duty. She has no tolerance for corruption, no patience for excuses, and no fear of any living creature. She has stared down Laments in the Flickermarch and Pyrinae Hydromancers in their own halls. The Stripe Paws will not intimidate her. The Bright Paws will not outmaneuver her. The merchants will learn to fear her. She will be the best coin master the Wengari have ever had."</p>
+<p class="speech-line">Kareth inclined his scarred head, his one good eye gleaming with pride. "Maren will serve. She has no family beyond the Shadow Paws. She has no desires beyond her duty. She has no tolerance for corruption, no patience for excuses, and no fear of any living creature. She has stared down Laments in the Flickermarch and Pyrinae Hydromancers in their own halls. The Stripe Paws will not intimidate her. The Bright Paws will not outmaneuver her. The merchants will learn to fear her. She will be the best coin master the Wengari have ever had."</p>
 </div>
 
 <div class="dialogue-block">
@@ -363,7 +363,7 @@ Zara's golden eyes narrowed with calculation, but it was a different kind of cal
 </div>
 
 <div class="dialogue-block">
-Solen, the old High Priest, inclined his head slowly. <span class="speech">"The Bright Paws withdraw Torek. The king has chosen wisely. A scribe of forty years would have been competent. Maren will be formidable. We will support her appointment and wish her well. Someone should. She will have no other well-wishers in the entire capital."</span> He paused, his golden eyes meeting Ajani's with something that might have been the ghost of a smile. <span class="speech">"Including, I suspect, the king himself."</span>
+Solen, the old High Priest, inclined his head slowly. <span class="speech">"The Bright Paws withdraw Torek. The king has chosen wisely. A scribe of forty years would have been competent. Maren will be formidable. We will support her appointment and wish her well. Someone should. She will have no other well-wishers in the entire capital."</span> He paused, his golden eyes meeting Ajani's, half a smile in them. <span class="speech">"Including, I suspect, the king himself."</span>
 </div>
 
 <div class="dialogue-block">
