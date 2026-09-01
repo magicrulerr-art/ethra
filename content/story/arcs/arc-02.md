@@ -1,6 +1,6 @@
 # Chapter 2: The Council of the Families
 
-*22,054 words across 6 chapters*
+*22,049 words across 6 chapters*
 
 ### The Summons
 
