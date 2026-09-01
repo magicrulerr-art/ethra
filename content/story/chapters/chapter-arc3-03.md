@@ -18,8 +18,10 @@ And Ajani, seated on his father's throne, the white cloak around his shoulders, 
 
 
 <div class="dialogue-block">
-<p class="speech-line">"tell me Solen, who rules the Wengari ?" <span class="speech-attr">, 'warm, unflinching, unforgiving '</span></p>
+<p class="speech-line">"Tell me, Solen, who rules the Wengari?"</p>
 </div>
+
+*Warm, unflinching, unforgiving.*
 
 
 Solen's golden eyes, clouded with age and fury, met Ajani's green-flecked gaze. The question hung in the air between them—simple, direct, and utterly unanswerable in any way that did not affirm the young king's authority.
@@ -127,8 +129,10 @@ The Quick, floating in its shaded pool, sent a pulse of green fire through the m
 
 
 <div class="dialogue-block">
-<p class="speech-line">"IT SEEMS NONE OF OUR GUESTS RISEN TO THE CHALLENGE, LET'S HONOR THEM, FOR THERE IS STRENGTH IN KNOWING WHEN TO FLEE AND WHEN TO FIGHT, LIKE THE RAZOR HARE KNOWS, THE STYX CAN NOT BE BESTED BUT BY ANOTHER STYX, LET'S ALL SHOW THEM THE RESPECT THEY DESERVE" <span class="speech-attr">- 'bow and scene...'</span></p>
+<p class="speech-line">"IT SEEMS NONE OF OUR GUESTS HAVE RISEN TO THE CHALLENGE. LET’S HONOR THEM, FOR THERE IS STRENGTH IN KNOWING WHEN TO FLEE AND WHEN TO FIGHT, LIKE THE RAZOR HARE KNOWS. THE STYX CAN NOT BE BESTED BUT BY ANOTHER STYX. LET’S ALL SHOW THEM THE RESPECT THEY DESERVE"</p>
 </div>
+
+*Bow and scene...*
 
 
 The Pyrinae rose as one. Nefere inclined her ancient head, her clouded eyes glistening with something that might have been gratitude. Mira, the Sun-Walker envoy, placed a hand over her heart and bowed low.
@@ -147,7 +151,13 @@ The champions of the five Wengari families stood alone on the sand—twelve warr
 
 
 <div class="dialogue-block">
-<span class="speech">"AND NOW FOR THE RULES!!"</span> - 'Leap to the center, do not trip..' - <span class="speech">"I asks our new friends the Pyrinae, please build us a rock basin, a nine paces per nine paces square, three paces deep, can you deliver in under ten minutes ?"</span>
+<p class="speech-line">"AND NOW FOR THE RULES!"</p>
+</div>
+
+*Leap to the center, do not trip...*
+
+<div class="dialogue-block">
+<p class="speech-line">"I ask our new friends the Pyrinae, please build us a rock basin, a nine paces per nine paces square, three paces deep. Can you deliver in under ten minutes?"</p>
 </div>
 
 

@@ -229,8 +229,10 @@ She looked at the other elders. Torek was stroking his chin, his weathered face 
 
 
 <div class="dialogue-block">
-<p class="speech-line">"A slight correction, before the Pyrinae were our vassals we owed them protection...now they are our friends, our peers, I've travelled with the caravans on the fire feet for three years, and I carry merchant blood, I know for a fact the tide paws do not work for free, specially for their friends" <span class="speech-attr">, 'smile now, wide, this is so exhausting I just want to sleep...'</span></p>
+<p class="speech-line">"A slight correction. Before the Pyrinae were our vassals we owed them protection... now they are our friends, our peers. I’ve travelled with the caravans on the fire feet for three years, and I carry merchant blood. I know for a fact the tide paws do not work for free, especially for their friends."</p>
 </div>
+
+*Smile now, wide. This is so exhausting, I just want to sleep...*
 
 
 Zara blinked. The faint smile that had been forming on her broad face faltered, then returned, wider than before.

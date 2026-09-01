@@ -362,8 +362,10 @@ The tournament was open. The world was watching. And the White Dawn had just rem
 
 
 <div class="dialogue-block">
-<p class="speech-line">"MY TOURNAMENT STARTS IN ONE HOUR, ONLY THREE PARTICIPANTS PER FAMILY AND ONLY ONE FOR THOSE WHO WISH TO CHALLENGE THE WENGARI, AND...THE WINNER GETS TO CHALLENGE ME, AND IF HE BEATS ME, I WILL SURRENDER THE CROWN" <span class="speech-attr">, 'and now, aura dare and smile wide and menacing '</span></p>
+<p class="speech-line">"MY TOURNAMENT STARTS IN ONE HOUR, ONLY THREE PARTICIPANTS PER FAMILY AND ONLY ONE FOR THOSE WHO WISH TO CHALLENGE THE WENGARI, AND... THE WINNER GETS TO CHALLENGE ME, AND IF HE BEATS ME, I WILL SURRENDER THE CROWN"</p>
 </div>
+
+*And now — aura, dare, and smile wide and menacing.*
 
 
 The arena went absolutely silent. Not the silence of respect, not the silence of anticipation. The silence of a thousand hearts stopping at once. The silence of a world tilting on its axis.

@@ -132,8 +132,10 @@ It was not merely an arena. It was a stage—a monument that could be seen from 
 
 
 <div class="dialogue-block">
-<p class="speech-line">"THEN, WHEN IT IS DONE, AFTER THE DUEL ENDS, I SHALL MEET WITH THE ELDERS, AND THE PYRINAE, THIS TOURNAMENT SHALL BE SPONSORED BY THE CROWN!!" <span class="speech-attr">- 'or so they will believe, I'll gouge their eyes out... I can already see the royal coffers filling with coin'</span></p>
+<p class="speech-line">"THEN, WHEN IT IS DONE, AFTER THE DUEL ENDS, I SHALL MEET WITH THE ELDERS, AND THE PYRINAE. THIS TOURNAMENT SHALL BE SPONSORED BY THE CROWN!"</p>
 </div>
+
+*Or so they will believe. I’ll gouge their eyes out... I can already see the royal coffers filling with coin.*
 
 
 A ripple of delighted anticipation ran through the gathered delegations. A yearly tournament, sponsored by the crown, meant a yearly influx of trade, spectacle, and political opportunity.

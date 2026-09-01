@@ -228,8 +228,10 @@ She looked at the other elders. Torek was stroking his chin, his weathered face 
 
 
 <div class="dialogue-block">
-<p class="speech-line">"A slight correction, before the Pyrinae were our vassals we owed them protection...now they are our friends, our peers, I've travelled with the caravans on the fire feet for three years, and I carry merchant blood, I know for a fact the tide paws do not work for free, specially for their friends" <span class="speech-attr">, 'smile now, wide, this is so exhausting I just want to sleep...'</span></p>
+<p class="speech-line">"A slight correction. Before the Pyrinae were our vassals we owed them protection... now they are our friends, our peers. I’ve travelled with the caravans on the fire feet for three years, and I carry merchant blood. I know for a fact the tide paws do not work for free, especially for their friends."</p>
 </div>
+
+*Smile now, wide. This is so exhausting, I just want to sleep...*
 
 
 Zara blinked. The faint smile that had been forming on her broad face faltered, then returned, wider than before.
@@ -817,8 +819,10 @@ The tournament was open. The world was watching. And the White Dawn had just rem
 
 
 <div class="dialogue-block">
-<p class="speech-line">"MY TOURNAMENT STARTS IN ONE HOUR, ONLY THREE PARTICIPANTS PER FAMILY AND ONLY ONE FOR THOSE WHO WISH TO CHALLENGE THE WENGARI, AND...THE WINNER GETS TO CHALLENGE ME, AND IF HE BEATS ME, I WILL SURRENDER THE CROWN" <span class="speech-attr">, 'and now, aura dare and smile wide and menacing '</span></p>
+<p class="speech-line">"MY TOURNAMENT STARTS IN ONE HOUR, ONLY THREE PARTICIPANTS PER FAMILY AND ONLY ONE FOR THOSE WHO WISH TO CHALLENGE THE WENGARI, AND... THE WINNER GETS TO CHALLENGE ME, AND IF HE BEATS ME, I WILL SURRENDER THE CROWN"</p>
 </div>
+
+*And now — aura, dare, and smile wide and menacing.*
 
 
 The arena went absolutely silent. Not the silence of respect, not the silence of anticipation. The silence of a thousand hearts stopping at once. The silence of a world tilting on its axis.
@@ -1034,8 +1038,10 @@ And Ajani, seated on his father's throne, the white cloak around his shoulders, 
 
 
 <div class="dialogue-block">
-<p class="speech-line">"tell me Solen, who rules the Wengari ?" <span class="speech-attr">, 'warm, unflinching, unforgiving '</span></p>
+<p class="speech-line">"Tell me, Solen, who rules the Wengari?"</p>
 </div>
+
+*Warm, unflinching, unforgiving.*
 
 
 Solen's golden eyes, clouded with age and fury, met Ajani's green-flecked gaze. The question hung in the air between them—simple, direct, and utterly unanswerable in any way that did not affirm the young king's authority.
@@ -1143,8 +1149,10 @@ The Quick, floating in its shaded pool, sent a pulse of green fire through the m
 
 
 <div class="dialogue-block">
-<p class="speech-line">"IT SEEMS NONE OF OUR GUESTS RISEN TO THE CHALLENGE, LET'S HONOR THEM, FOR THERE IS STRENGTH IN KNOWING WHEN TO FLEE AND WHEN TO FIGHT, LIKE THE RAZOR HARE KNOWS, THE STYX CAN NOT BE BESTED BUT BY ANOTHER STYX, LET'S ALL SHOW THEM THE RESPECT THEY DESERVE" <span class="speech-attr">- 'bow and scene...'</span></p>
+<p class="speech-line">"IT SEEMS NONE OF OUR GUESTS HAVE RISEN TO THE CHALLENGE. LET’S HONOR THEM, FOR THERE IS STRENGTH IN KNOWING WHEN TO FLEE AND WHEN TO FIGHT, LIKE THE RAZOR HARE KNOWS. THE STYX CAN NOT BE BESTED BUT BY ANOTHER STYX. LET’S ALL SHOW THEM THE RESPECT THEY DESERVE"</p>
 </div>
+
+*Bow and scene...*
 
 
 The Pyrinae rose as one. Nefere inclined her ancient head, her clouded eyes glistening with something that might have been gratitude. Mira, the Sun-Walker envoy, placed a hand over her heart and bowed low.
@@ -1163,7 +1171,13 @@ The champions of the five Wengari families stood alone on the sand—twelve warr
 
 
 <div class="dialogue-block">
-<span class="speech">"AND NOW FOR THE RULES!!"</span> - 'Leap to the center, do not trip..' - <span class="speech">"I asks our new friends the Pyrinae, please build us a rock basin, a nine paces per nine paces square, three paces deep, can you deliver in under ten minutes ?"</span>
+<p class="speech-line">"AND NOW FOR THE RULES!"</p>
+</div>
+
+*Leap to the center, do not trip...*
+
+<div class="dialogue-block">
+<p class="speech-line">"I ask our new friends the Pyrinae, please build us a rock basin, a nine paces per nine paces square, three paces deep. Can you deliver in under ten minutes?"</p>
 </div>
 
 
@@ -2214,8 +2228,10 @@ It was not merely an arena. It was a stage—a monument that could be seen from 
 
 
 <div class="dialogue-block">
-<p class="speech-line">"THEN, WHEN IT IS DONE, AFTER THE DUEL ENDS, I SHALL MEET WITH THE ELDERS, AND THE PYRINAE, THIS TOURNAMENT SHALL BE SPONSORED BY THE CROWN!!" <span class="speech-attr">- 'or so they will believe, I'll gouge their eyes out... I can already see the royal coffers filling with coin'</span></p>
+<p class="speech-line">"THEN, WHEN IT IS DONE, AFTER THE DUEL ENDS, I SHALL MEET WITH THE ELDERS, AND THE PYRINAE. THIS TOURNAMENT SHALL BE SPONSORED BY THE CROWN!"</p>
 </div>
+
+*Or so they will believe. I’ll gouge their eyes out... I can already see the royal coffers filling with coin.*
 
 
 A ripple of delighted anticipation ran through the gathered delegations. A yearly tournament, sponsored by the crown, meant a yearly influx of trade, spectacle, and political opportunity.
