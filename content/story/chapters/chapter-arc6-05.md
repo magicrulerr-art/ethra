@@ -210,7 +210,7 @@ The throne room was full for the first time since the war. Ajani sat on the cold
 To his right, Sylva stood in her silver-chased ceremonial armor, the regent who had carried the weight of the city while he slept. Vasha was beside her, her stylus already moving across a fresh ledger. Maren stood apart, the coin master's dark eyes moving across the assembled court with the cold assessment of an auditor. Elyra waited near the throne, her silver aura flickering gently, the foreign advisor who had helped negotiate the peace.
 
 
-To his left, the generals had gathered. M'rak, his burn-scarred arms folded across his chest. Reva, her golden eyes still carrying the weight of the Wohs she had lost. Zephyr, his scarred face unreadable, his shadow wolves waiting outside. Yvaria, her drum harness still strapped across her chest, her silver-furred paws resting on her drums. Sera stood apart from the generals, her ruined face impassive, her lacquered claws gleaming.
+To his left, the generals had gathered. M'rak, his burn-scarred arms folded across his chest. Reva, her golden eyes still carrying the weight of the Wohs she had lost. Zephyr, his scarred face still, his shadow wolves waiting outside. Yvaria, her drum harness still strapped across her chest, her silver-furred paws resting on her drums. Sera stood apart from the generals, her ruined face impassive, her lacquered claws gleaming.
 
 She was no longer a general—she was the security advisor, the architect of the elite unit that had held the gate.
 
@@ -418,7 +418,7 @@ Ajani rose from the throne, the white spear humming in his paw. The diadem's gem
 The four generals stepped forward from the assembled military ranks. Yvaria walked with the fluid grace of the Motted Paws, her drum harness still strapped across her chest, her silver-furred paws steady. She had led the ghosts through the Plague mist. She had caught Ajani when he fell from the sky. Now she knelt before the throne, her head bowed.
 
 
-Zephyr moved with the quiet, lethal precision of the Shadow Paws, his scarred face unreadable, his lacquered claws gleaming. The black Tide Wolves waited outside the atrium, their shadow flares flickering faintly. He had broken the Plague net with the Black Fire. He had brought a full legion when no other family would. Now he knelt.
+Zephyr moved with the quiet, lethal precision of the Shadow Paws, his scarred face set, his lacquered claws gleaming. The black Tide Wolves waited outside the atrium, their shadow flares flickering faintly. He had broken the Plague net with the Black Fire. He had brought a full legion when no other family would. Now he knelt.
 
 
 Reva walked with the heavy, deliberate stride of a Stripe Paw who had lost half her command in three seconds and kept fighting. Her golden eyes still carried the weight of the fifteen Wohs she had watched die, but her back was straight. She had ridden through the night from the western garrison. She had led the survivors to the gate. Now she knelt.
@@ -444,7 +444,7 @@ The ghosts answered. The wind answered. The Heavenly General of the Wind had bee
 
 
 <div class="dialogue-block">
-M'rak watched from his place among the kneeling generals, his burn-scarred face unreadable, but his golden eyes glistened. Zephyr inclined his scarred head, a gesture of respect that was rare from a Shadow Paw. Reva's stern expression softened for just a moment—the first time she had allowed herself anything other than grim determination since the Wohs died. Nikolai leaned toward Anastasia. <span class="speech">"Heavenly General of the Wind. They are not merely titles. They are legends. He is making them legends."</span> Anastasia's quiet voice was thoughtful. <span class="speech">"He is making them immortal. The songs will remember them long after the war is forgotten."</span>
+M'rak watched from his place among the kneeling generals, his burn-scarred face still, but his golden eyes glistened. Zephyr inclined his scarred head, a gesture of respect that was rare from a Shadow Paw. Reva's stern expression softened for just a moment—the first time she had allowed herself anything other than grim determination since the Wohs died. Nikolai leaned toward Anastasia. <span class="speech">"Heavenly General of the Wind. They are not merely titles. They are legends. He is making them legends."</span> Anastasia's quiet voice was thoughtful. <span class="speech">"He is making them immortal. The songs will remember them long after the war is forgotten."</span>
 </div>
 
 

@@ -1,6 +1,6 @@
 # Chapter 5: The Great War
 
-*39,454 words across 22 chapters*
+*39,453 words across 22 chapters*
 
 ### 05:25 — Vasha Storms In
 

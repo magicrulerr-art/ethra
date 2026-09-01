@@ -87,7 +87,7 @@ Sylva inclined her head toward the king, her soft voice barely audible beneath t
 </div>
 
 
-Kareth leaned on his obsidian staff, his scarred face unreadable. The Shadow Paws had witnessed the king's unguarded passion for combat. An exhibition of the Eight Points—a private demonstration of the art's most secret techniques—would honor that passion. And it would remind the White Dawn that the Shadow Paws, too, had gifts to give.
+Kareth leaned on his obsidian staff, his scarred face betraying nothing. The Shadow Paws had witnessed the king's unguarded passion for combat. An exhibition of the Eight Points—a private demonstration of the art's most secret techniques—would honor that passion. And it would remind the White Dawn that the Shadow Paws, too, had gifts to give.
 
 
 Hakar, the old watchman, was already cataloging the weapons stored in the northern wall's armory. A king who craved spectacle deserved a blade worthy of it.

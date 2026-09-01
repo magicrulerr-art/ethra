@@ -274,7 +274,7 @@ Kira stared at him, her dark eyes wide with an emotion she had not felt in three
 <span class="speech">"Your paw,"</span> Ajani said, his voice quieter now, the fire dimming to a faint, steady glow. <span class="speech">"Just a scratch. Enough to draw blood. Then mix it with mine. It's an old ritual. My father taught me. He said it was the way the first Wengari made pacts, before the cities, before the pact, before any of this. Blood for blood. Name for name. You're not alone anymore, Kira. You're my sister. You're a Brightmane. That means something. That means you belong."</span>
 </div>
 
-Sera stood motionless in the shadows, her ruined face unreadable. The silent male Shadow Paw beside her had not moved, but his dark eyes were fixed on the cub with an intensity that spoke of something deeper than mere observation. They were both Shadow Paws. They both knew what it meant for a child of their blood to be claimed by the king himself—not merely as a ward, not merely as a servant, but as family.
+Sera stood motionless in the shadows, her ruined face still. The silent male Shadow Paw beside her had not moved, but his dark eyes were fixed on the cub with an intensity that spoke of something deeper than mere observation. They were both Shadow Paws. They both knew what it meant for a child of their blood to be claimed by the king himself—not merely as a ward, not merely as a servant, but as family.
 
 The heir of the Black Fire, adopted by the heir of the Lightbringer. The bloodlines of the First Tyrant and the Third, mingling in a single cut on a dusty palm. Kareth would hear of this. The elders would hear of this. The entire Shadow Paw quarter would hear of this. And it would change things. It would change many things.
 

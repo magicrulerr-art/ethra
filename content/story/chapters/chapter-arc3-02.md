@@ -25,7 +25,7 @@ The voice came from behind her. Korr himself stepped out of the shadows, a tall 
 
 
 <div class="dialogue-block">
-<span class="speech">"I've been thinking,"</span> Korr said, <span class="speech">"about the king's wandering years. He said he traveled with our caravans for three years. He said he trained under something called L'vat in the marshes. But he didn't say which caravan. And I've been trying to remember if I ever carried a young Bright Paw with a golden mane and a quiet manner, who asked questions about the ocean and the deep places."</span> He paused, his scarred face unreadable. <span class="speech">"I think I did. Four years ago. He was thin. Hungry. He didn't tell me his name. He just asked if he could ride with us for a while. I said yes. I always say yes to strays."</span>
+<span class="speech">"I've been thinking,"</span> Korr said, <span class="speech">"about the king's wandering years. He said he traveled with our caravans for three years. He said he trained under something called L'vat in the marshes. But he didn't say which caravan. And I've been trying to remember if I ever carried a young Bright Paw with a golden mane and a quiet manner, who asked questions about the ocean and the deep places."</span> He paused, his scarred face going distant. <span class="speech">"I think I did. Four years ago. He was thin. Hungry. He didn't tell me his name. He just asked if he could ride with us for a while. I said yes. I always say yes to strays."</span>
 </div>
 
 
@@ -430,7 +430,7 @@ The Stripe Paws had scattered to prepare. Zara stood at the center of the traini
 
 
 <div class="dialogue-block">
-<span class="speech">"Zara."</span> Korr appeared at her side, his scarred face unreadable. <span class="speech">"The king just put his throne on the line. If our champion wins the tournament and then beats him—"</span> He paused. <span class="speech">"We would rule the Wengari."</span>
+<span class="speech">"Zara."</span> Korr appeared at her side, his scarred face grim. <span class="speech">"The king just put his throne on the line. If our champion wins the tournament and then beats him—"</span> He paused. <span class="speech">"We would rule the Wengari."</span>
 </div>
 
 

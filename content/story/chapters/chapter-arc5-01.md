@@ -60,7 +60,7 @@ The drums paused.
 Irek felt the silence like a physical weight. The sun was higher now, climbing toward mid-morning, and the desert was littered with the corpses of scorpions and riders and the smoldering remains of rune bomb detonations. The first wave had been a test. The second had been an assault. And the third wave—four hundred riders, the full strength of the Humman army—was pressing forward.
 
 <div class="dialogue-block">
-<p class="speech-line">The Amuks were still advancing. The Tide Wolf cavalry was still in reserve. And the Wengari had not yet won. Irek tightened his grip on his spear and looked at Toren, who was still standing beside him on the wall, her scarred face unreadable. "What happens now?" he asked.</p>
+<p class="speech-line">The Amuks were still advancing. The Tide Wolf cavalry was still in reserve. And the Wengari had not yet won. Irek tightened his grip on his spear and looked at Toren, who was still standing beside him on the wall, her scarred face tight. "What happens now?" he asked.</p>
 </div>
 
 <div class="dialogue-block">

@@ -59,7 +59,7 @@ The drums paused.
 Irek felt the silence like a physical weight. The sun was higher now, climbing toward mid-morning, and the desert was littered with the corpses of scorpions and riders and the smoldering remains of rune bomb detonations. The first wave had been a test. The second had been an assault. And the third wave—four hundred riders, the full strength of the Humman army—was pressing forward.
 
 <div class="dialogue-block">
-<p class="speech-line">The Amuks were still advancing. The Tide Wolf cavalry was still in reserve. And the Wengari had not yet won. Irek tightened his grip on his spear and looked at Toren, who was still standing beside him on the wall, her scarred face unreadable. "What happens now?" he asked.</p>
+<p class="speech-line">The Amuks were still advancing. The Tide Wolf cavalry was still in reserve. And the Wengari had not yet won. Irek tightened his grip on his spear and looked at Toren, who was still standing beside him on the wall, her scarred face tight. "What happens now?" he asked.</p>
 </div>
 
 <div class="dialogue-block">
@@ -1251,7 +1251,7 @@ A sound drew his attention. From the streets below the wall, a column of figures
 
 M'rak looked at them. A hundred civilians with table legs and scythes, standing in the shadow of the broken gate, asking to fight. They would die. He knew they would die. But they were asking anyway.
 
-He turned to Tamsin. The Humman general stood at the edge of the rampart, her scarred face unreadable, her dark eyes still hollow from watching her king execute one of her own colleagues.
+He turned to Tamsin. The Humman general stood at the edge of the rampart, her scarred face drawn, her dark eyes hollow from watching her king execute one of her own colleagues.
 
 <div class="dialogue-block">
 <p class="speech-line">"You there. You said you were a general."</p>

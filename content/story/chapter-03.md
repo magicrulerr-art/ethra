@@ -219,7 +219,7 @@ Zara sat back on her haunches, her massive frame settling onto the cushion with 
 </div>
 
 
-She looked at the other elders. Torek was stroking his chin, his weathered face unreadable. Veena, still standing by the door, had the faintest hint of a smile on her sharp features. Mako, the young caravan master, was watching the king with an expression that was rapidly shifting from wariness to something closer to awe.
+She looked at the other elders. Torek was stroking his chin, his weathered face giving nothing away. Veena, still standing by the door, had the faintest hint of a smile on her sharp features. Mako, the young caravan master, was watching the king with an expression that was rapidly shifting from wariness to something closer to awe.
 
 
 <div class="dialogue-block">
@@ -415,7 +415,7 @@ Lena was twenty-two, dark-haired like her mother, with the sharp cheekbones of h
 
 
 <div class="dialogue-block">
-<p class="speech-line">The tent was silent. Outside, the merchants were still calling to each other, their voices carrying on the cool desert air. Somewhere, a fire foot bellowed in its sleep. Lena stood very still, her hands clasped before her, her face unreadable. Then she said, quietly, "You traded me."</p>
+<p class="speech-line">The tent was silent. Outside, the merchants were still calling to each other, their voices carrying on the cool desert air. Somewhere, a fire foot bellowed in its sleep. Lena stood very still, her hands clasped before her, her face carefully blank. Then she said, quietly, "You traded me."</p>
 </div>
 
 
@@ -482,7 +482,7 @@ The voice came from behind her. Korr himself stepped out of the shadows, a tall 
 
 
 <div class="dialogue-block">
-<span class="speech">"I've been thinking,"</span> Korr said, <span class="speech">"about the king's wandering years. He said he traveled with our caravans for three years. He said he trained under something called L'vat in the marshes. But he didn't say which caravan. And I've been trying to remember if I ever carried a young Bright Paw with a golden mane and a quiet manner, who asked questions about the ocean and the deep places."</span> He paused, his scarred face unreadable. <span class="speech">"I think I did. Four years ago. He was thin. Hungry. He didn't tell me his name. He just asked if he could ride with us for a while. I said yes. I always say yes to strays."</span>
+<span class="speech">"I've been thinking,"</span> Korr said, <span class="speech">"about the king's wandering years. He said he traveled with our caravans for three years. He said he trained under something called L'vat in the marshes. But he didn't say which caravan. And I've been trying to remember if I ever carried a young Bright Paw with a golden mane and a quiet manner, who asked questions about the ocean and the deep places."</span> He paused, his scarred face going distant. <span class="speech">"I think I did. Four years ago. He was thin. Hungry. He didn't tell me his name. He just asked if he could ride with us for a while. I said yes. I always say yes to strays."</span>
 </div>
 
 
@@ -887,7 +887,7 @@ The Stripe Paws had scattered to prepare. Zara stood at the center of the traini
 
 
 <div class="dialogue-block">
-<span class="speech">"Zara."</span> Korr appeared at her side, his scarred face unreadable. <span class="speech">"The king just put his throne on the line. If our champion wins the tournament and then beats him—"</span> He paused. <span class="speech">"We would rule the Wengari."</span>
+<span class="speech">"Zara."</span> Korr appeared at her side, his scarred face grim. <span class="speech">"The king just put his throne on the line. If our champion wins the tournament and then beats him—"</span> He paused. <span class="speech">"We would rule the Wengari."</span>
 </div>
 
 
@@ -1735,7 +1735,7 @@ Thane stepped forward next. The Shadow Paw assassin moved with the same quiet, p
 </div>
 
 
-Thane released the staff and stepped back, his scarred face unreadable. He did not look at the other champions. He did not need to.
+Thane released the staff and stepped back, his scarred face giving nothing away. He did not look at the other champions. He did not need to.
 
 
 Sera approached next. The second Shadow Paw, her face still a mask of dried blood and fresh scar tissue, placed her claw upon the staff. The Styx feathers shimmered with the same liquid silver as Thane's, but edged with a thin, sharp line of crimson—the color of fresh blood on old steel. The light pulsed once, twice, then steadied.
@@ -2183,7 +2183,7 @@ Sylva inclined her head toward the king, her soft voice barely audible beneath t
 </div>
 
 
-Kareth leaned on his obsidian staff, his scarred face unreadable. The Shadow Paws had witnessed the king's unguarded passion for combat. An exhibition of the Eight Points—a private demonstration of the art's most secret techniques—would honor that passion. And it would remind the White Dawn that the Shadow Paws, too, had gifts to give.
+Kareth leaned on his obsidian staff, his scarred face betraying nothing. The Shadow Paws had witnessed the king's unguarded passion for combat. An exhibition of the Eight Points—a private demonstration of the art's most secret techniques—would honor that passion. And it would remind the White Dawn that the Shadow Paws, too, had gifts to give.
 
 
 Hakar, the old watchman, was already cataloging the weapons stored in the northern wall's armory. A king who craved spectacle deserved a blade worthy of it.

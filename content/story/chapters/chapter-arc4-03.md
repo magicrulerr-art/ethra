@@ -93,7 +93,7 @@ Sera stepped out of the darkness, her ruined face impassive, her lacquered claws
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">They sparred until the sun was fully risen, and Ajani learned that Sera was faster than she looked, more patient than she seemed, and utterly merciless in exploiting every weakness. He lost the first bout. He lost the second. He won the third by the thinnest of margins, a saber strike that caught her off-guard only because he switched weapons mid-motion, flowing from staff to saber in the heartbeat between one strike and the next. Sera stepped back, her ruined face unreadable, and inclined her head. "You are learning. The king who can adapt is the king who survives. The king who survives is the king who rules. Tomorrow, we train again."</p>
+<p class="speech-line">They sparred until the sun was fully risen, and Ajani learned that Sera was faster than she looked, more patient than she seemed, and utterly merciless in exploiting every weakness. He lost the first bout. He lost the second. He won the third by the thinnest of margins, a saber strike that caught her off-guard only because he switched weapons mid-motion, flowing from staff to saber in the heartbeat between one strike and the next. Sera stepped back, her ruined face composed, and inclined her head. "You are learning. The king who can adapt is the king who survives. The king who survives is the king who rules. Tomorrow, we train again."</p>
 </div>
 
 She melted back into the shadows, her silent companion following, and Ajani was left alone on the sand with the rising sun and the knowledge that his shadows were not merely protecting him. They were teaching him.

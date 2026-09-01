@@ -206,7 +206,7 @@ Solen had come to Ajani on the fourth day, his golden cloak still wrapped around
 The Bulwark who guarded the Wengari should not become a political tool. Solen had bowed his head and left without speaking, but his shoulders had been lighter.
 
 
-Reva, M'rak, and Zephyr had thrown themselves into the work of the city. Reva had taken charge of the wall repairs, her surviving Wohs clearing rubble alongside the Pyrinae engineers. M'rak had organized the patrols, the watch rotations, the slow, grinding work of securing a wounded capital. Zephyr had been seen in the Humman quarter, speaking with the refugees, his scarred face unreadable, his shadow wolves padding silently at his heels. No one knew what they discussed. No one asked.
+Reva, M'rak, and Zephyr had thrown themselves into the work of the city. Reva had taken charge of the wall repairs, her surviving Wohs clearing rubble alongside the Pyrinae engineers. M'rak had organized the patrols, the watch rotations, the slow, grinding work of securing a wounded capital. Zephyr had been seen in the Humman quarter, speaking with the refugees, his scarred face still, his shadow wolves padding silently at his heels. No one knew what they discussed. No one asked.
 
 
 The city was slowly starting to heal. The memorial had been erected in the eastern plaza—a simple pillar of white stone, carved with the names of the fallen. The celebration was planned for the following week, tied to the tournament's infrastructure as Maren had suggested. The pensions were being distributed. The wall was being rebuilt. And the generals and elders were now gathered in the throne room, their honor guards lining the walls, their banners hanging from the rafters.
@@ -284,7 +284,7 @@ After a long moment, an older Bright Paw general stepped forward. His golden man
 </div>
 
 
-Ajani looked at the three older generals for a long moment. Then he turned to Zephyr, who stood apart from the others, his scarred face unreadable.
+Ajani looked at the three older generals for a long moment. Then he turned to Zephyr, who stood apart from the others, his scarred face betraying nothing.
 
 
 <div class="dialogue-block">
@@ -313,7 +313,7 @@ The weight of the king's words settled over the great hall like a mantle. The fo
 
 
 <div class="dialogue-block">
-<p class="speech-line">M'rak stepped forward first, his burn-scarred face unreadable, his voice steady. "Your Highness. I accept the promotion. I will take a legion to Verdantis, and I will not return until the Hummans understand what they brought upon themselves. But I did not fight alone. The soldiers who held the wall, the civilians who grabbed table legs and scythes, the ghosts who died catching the acid barbs—they earned this. Not me. I will carry their memory to Verdantis. The Hummans will know their names before I am done."</p>
+<p class="speech-line">M'rak stepped forward first, his burn-scarred face composed, his voice steady. "Your Highness. I accept the promotion. I will take a legion to Verdantis, and I will not return until the Hummans understand what they brought upon themselves. But I did not fight alone. The soldiers who held the wall, the civilians who grabbed table legs and scythes, the ghosts who died catching the acid barbs—they earned this. Not me. I will carry their memory to Verdantis. The Hummans will know their names before I am done."</p>
 </div>
 
 
@@ -403,7 +403,7 @@ Vorak nodded slowly. <span class="speech">"Then carry them to Verdantis. Make th
 </div>
 
 
-Zephyr stood apart from the others, his scarred face unreadable, his shadow wolves waiting silently in the corridor outside. The Shadow Paw elders had gathered near the far wall, their dark pelts blending with the shadows, their lacquered claws gleaming. They did not approach him. They did not congratulate him. They simply inclined their heads—a gesture of acknowledgment that was almost a bow. The Black Fire's legacy had been used to protect instead of destroy.
+Zephyr stood apart from the others, his scarred face watchful, his shadow wolves waiting silently in the corridor outside. The Shadow Paw elders had gathered near the far wall, their dark pelts blending with the shadows, their lacquered claws gleaming. They did not approach him. They did not congratulate him. They simply inclined their heads—a gesture of acknowledgment that was almost a bow. The Black Fire's legacy had been used to protect instead of destroy.
 
 The shame of five thousand years had been lifted, at least in part. And the young general who had carried the flame was now a two-star commander of a full legion.
 
@@ -703,7 +703,7 @@ The cargo hawks were seized. The Humman delegation was searched. No weapons were
 
 
 <div class="dialogue-block">
-M'rak approached the Sultan, his burn-scarred face unreadable. <span class="speech">"Your birds will be unloaded. Your tribute will be accepted. Your weapons—if you have any—will be confiscated. You will wait here until the ambassador has completed her review. If she finds anything that contradicts your story, you will not leave this desert."</span> He paused. <span class="speech">"The king said to kill you all if we found weapons. Be grateful you brought none."</span>
+M'rak approached the Sultan, his burn-scarred face impassive. <span class="speech">"Your birds will be unloaded. Your tribute will be accepted. Your weapons—if you have any—will be confiscated. You will wait here until the ambassador has completed her review. If she finds anything that contradicts your story, you will not leave this desert."</span> He paused. <span class="speech">"The king said to kill you all if we found weapons. Be grateful you brought none."</span>
 </div>
 
 
@@ -721,7 +721,7 @@ The tent was a simple affair of canvas and rope, erected just beyond the norther
 The Humman delegation sat under guard—M'rak's Wohs flanking the perimeter, Zephyr's shadow wolves lying in the sand with their dark eyes fixed on the visitors.
 
 
-Seris entered alone. She wore no diplomatic robes, only the simple tunic she had worn since the war ended. Her dark eyes were cold, her face unreadable. She had been the Humman ambassador for thirty years, and she had never once interrogated a king of her own people. She sat down across from Salahim, a small camp table between them. The documents the Sultan had brought were spread across its surface—the signed agreement banning military intervention, the trade manifests, the list of proposed reparations.
+Seris entered alone. She wore no diplomatic robes, only the simple tunic she had worn since the war ended. Her dark eyes were cold, her face composed. She had been the Humman ambassador for thirty years, and she had never once interrogated a king of her own people. She sat down across from Salahim, a small camp table between them. The documents the Sultan had brought were spread across its surface—the signed agreement banning military intervention, the trade manifests, the list of proposed reparations.
 
 
 

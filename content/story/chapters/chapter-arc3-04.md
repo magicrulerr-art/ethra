@@ -180,7 +180,7 @@ Thane stepped forward next. The Shadow Paw assassin moved with the same quiet, p
 </div>
 
 
-Thane released the staff and stepped back, his scarred face unreadable. He did not look at the other champions. He did not need to.
+Thane released the staff and stepped back, his scarred face giving nothing away. He did not look at the other champions. He did not need to.
 
 
 Sera approached next. The second Shadow Paw, her face still a mask of dried blood and fresh scar tissue, placed her claw upon the staff. The Styx feathers shimmered with the same liquid silver as Thane's, but edged with a thin, sharp line of crimson—the color of fresh blood on old steel. The light pulsed once, twice, then steadied.

@@ -220,7 +220,7 @@ Zara sat back on her haunches, her massive frame settling onto the cushion with 
 </div>
 
 
-She looked at the other elders. Torek was stroking his chin, his weathered face unreadable. Veena, still standing by the door, had the faintest hint of a smile on her sharp features. Mako, the young caravan master, was watching the king with an expression that was rapidly shifting from wariness to something closer to awe.
+She looked at the other elders. Torek was stroking his chin, his weathered face giving nothing away. Veena, still standing by the door, had the faintest hint of a smile on her sharp features. Mako, the young caravan master, was watching the king with an expression that was rapidly shifting from wariness to something closer to awe.
 
 
 <div class="dialogue-block">
@@ -416,7 +416,7 @@ Lena was twenty-two, dark-haired like her mother, with the sharp cheekbones of h
 
 
 <div class="dialogue-block">
-<p class="speech-line">The tent was silent. Outside, the merchants were still calling to each other, their voices carrying on the cool desert air. Somewhere, a fire foot bellowed in its sleep. Lena stood very still, her hands clasped before her, her face unreadable. Then she said, quietly, "You traded me."</p>
+<p class="speech-line">The tent was silent. Outside, the merchants were still calling to each other, their voices carrying on the cool desert air. Somewhere, a fire foot bellowed in its sleep. Lena stood very still, her hands clasped before her, her face carefully blank. Then she said, quietly, "You traded me."</p>
 </div>
 
 

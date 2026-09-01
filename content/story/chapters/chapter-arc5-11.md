@@ -178,7 +178,7 @@ A sound drew his attention. From the streets below the wall, a column of figures
 
 M'rak looked at them. A hundred civilians with table legs and scythes, standing in the shadow of the broken gate, asking to fight. They would die. He knew they would die. But they were asking anyway.
 
-He turned to Tamsin. The Humman general stood at the edge of the rampart, her scarred face unreadable, her dark eyes still hollow from watching her king execute one of her own colleagues.
+He turned to Tamsin. The Humman general stood at the edge of the rampart, her scarred face drawn, her dark eyes hollow from watching her king execute one of her own colleagues.
 
 <div class="dialogue-block">
 <p class="speech-line">"You there. You said you were a general."</p>

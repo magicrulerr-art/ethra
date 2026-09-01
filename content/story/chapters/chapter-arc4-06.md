@@ -351,7 +351,7 @@ Sylva had not slept since the water hole. It showed in the faint tremor of her s
 
 And now a faction of Bright Paws demanding that Ajani be replaced by his cousin while he lay unconscious in his chambers.
 
-She sat in the war room as the reports came in, her silver-chased ceremonial armor still gleaming, her ancient paws wrapped around a cup of cold tea that she had forgotten to drink. Zara stood at the far end of the table, her massive frame rigid with tension. Kareth leaned on his obsidian staff, his scarred face unreadable. Elyra was there, and Nefere, and representatives from every family and delegation in the capital.
+She sat in the war room as the reports came in, her silver-chased ceremonial armor still gleaming, her ancient paws wrapped around a cup of cold tea that she had forgotten to drink. Zara stood at the far end of the table, her massive frame rigid with tension. Kareth leaned on his obsidian staff, his scarred face stony. Elyra was there, and Nefere, and representatives from every family and delegation in the capital.
 
 The room was thick with fear and exhaustion and the particular desperation of people who had run out of options.
 
@@ -447,7 +447,7 @@ And in his chambers, beneath the invisible petals of the kyre flowers, Ajani Bri
 
 The war room was thick with the smell of old stone and older fear. The table at its center was carved from a single slab of desert granite, its surface worn smooth by centuries of elbows and claws and the endless, grinding weight of decisions that had shaped the Wengari people. Maps were spread across it now—maps of the northern approach, maps of the capital's defenses, maps of the desert roads that the Humman army had traversed to reach this moment.
 
-Zara stood at the head of the table. The Stripe Paw chief had fought in three wars and a hundred skirmishes, and her golden eyes moved across the maps with the cold, practiced assessment of a warrior who had learned to count enemies before she learned to count coin. Beside her stood Kareth, his obsidian staff planted on the stone, his scarred face unreadable. Sera was there, her ruined face impassive, her lacquered claws resting on the table's edge.
+Zara stood at the head of the table. The Stripe Paw chief had fought in three wars and a hundred skirmishes, and her golden eyes moved across the maps with the cold, practiced assessment of a warrior who had learned to count enemies before she learned to count coin. Beside her stood Kareth, his obsidian staff planted on the stone, his scarred face watchful. Sera was there, her ruined face impassive, her lacquered claws resting on the table's edge.
 
 Elyra represented the Motted Paws, her silver aura flickering gently. Nefere stood for the Pyrinae, her clouded eyes distant with exhaustion. And Sylva sat at the head of the table, her silver-chased ceremonial armor still gleaming, her ancient paws wrapped around a cup of cold tea she had forgotten to drink for the third time that night.
 
