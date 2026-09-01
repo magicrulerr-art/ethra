@@ -36,7 +36,7 @@ If the story evolves, the ledger regrows; this file changes only when a decision
 | Anastasia | the Tsarina | - | Humman ruler; trained Cefiro since he was two; NEVER bested by Nikolai |
 | Nikolai | the Tsar | - | Address: "Your Highness" / "the Tsar" |
 | Cefiro | - | - | Trained by Anastasia since age two |
-| Mekhmed | - | - | Envoy |
+| Mekhmed | - | - | Sultan of the Hummans (title adjudicated 2026-09-01); see alive-section entry |
 | Pearl | Kira's white scorpion | - | Venom from STINGERS only (pincers = communication) |
 | Blackie | Black Fire | - | Companion scorpion, ~2 m; stinger-venom canon |
 | Reddy | Red Fire | - | Companion scorpion, ~1.8 m; stinger-venom canon |
@@ -59,8 +59,8 @@ If the story evolves, the ledger regrows; this file changes only when a decision
 | Nefere | - | alive | Pyrinae hydromancer |
 | Yvaria | - | alive | Ghost commander |
 | Reva | - | alive | Wengari warrior; border wars |
-| Vasha | - | alive | Stripe Paw caravan master; "share wine afterward" (ch04:1088) |
-| Mekhmed | - | alive | Humman war leader Arc V; exact title (king vs ambassador) verify |
+| Vasha | - | alive | Stripe Paw caravan master; "share Bitter Ale afterward" (ch04:1088) |
+| Mekhmed | - | alive | Humman war leader Arc V; ruler title ADJUDICATED 2026-09-01: Hummans have SULTANS, not kings — Mekhmed the Third is Sultan |
 
 ## Uncurated census names (compiler tracks; promote at canonization events)
 
@@ -76,7 +76,7 @@ If the story evolves, the ledger regrows; this file changes only when a decision
 | Vanya | - | census-only | role unverified |
 | Maren | - | census-only | healer per memory; verify published |
 | Thane | - | census-only | role unverified |
-| Salahim | - | census-only | role unverified |
+| Salahim | - | census-only | Sultan of the Hummans (Arc VI); succeeded Mekhmed; title per 2026-09-01 ruling |
 | Torin | - | census-only | role unverified |
 | Toren | - | census-only | role unverified |
 | Hakar | - | census-only | role unverified |

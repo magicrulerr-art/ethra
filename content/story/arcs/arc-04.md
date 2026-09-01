@@ -1,6 +1,6 @@
 # Chapter 4: The Consolidation
 
-*60,221 words across 6 chapters*
+*60,227 words across 6 chapters*
 
 ### Bureaucracy
 

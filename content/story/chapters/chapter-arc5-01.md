@@ -231,7 +231,7 @@ Kellan was silent for a long moment. His hands had stopped trembling. His face w
 </div>
 
 <div class="dialogue-block">
-<span class="speech">"I am telling you,"</span> Vasha said, <span class="speech">"that the Humman king thinks he is attacking a wounded city with no reinforcements. He is wrong. The elders did not authorize any of this. The generals did not plan for any of this. The regent does not know about any of this. But the intelligence networks worked exactly as the king designed them to work. And your people are about to learn what the Wengari truly are."</span>
+<span class="speech">"I am telling you,"</span> Vasha said, <span class="speech">"that the Humman Sultan thinks he is attacking a wounded city with no reinforcements. He is wrong. The elders did not authorize any of this. The generals did not plan for any of this. The regent does not know about any of this. But the intelligence networks worked exactly as the king designed them to work. And your people are about to learn what the Wengari truly are."</span>
 </div>
 
 The war drums began to pound outside. The first rays of sunlight touched the sand before the northern gate. And the Council of the Untrustworthy sat in their windowless chamber, their faces lit from below by the amber glow of the rune-glass filaments.
@@ -271,7 +271,7 @@ General Tamsin, a weathered woman of sixty years whose dark skin was cross-hatch
 </div>
 
 <div class="dialogue-block">
-Tamsin stared at him. She had served three generations of Humman kings. She had fought in a dozen border skirmishes and two actual wars. She had never been told to shut it by a king who had never held a blade. <span class="speech">"You don't pay me at all,"</span> she said quietly. <span class="speech">"I am a general. I serve because I swore an oath. Not to you. To Verdantis. To my people. You are leading my people into a slaughter because a frightened scribe sent you a letter and you saw an opportunity to enrich yourself. That is not leadership. That is greed."</span>
+Tamsin stared at him. She had served three generations of Humman Sultans. She had fought in a dozen border skirmishes and two actual wars. She had never been told to shut it by a Sultan who had never held a blade. <span class="speech">"You don't pay me at all,"</span> she said quietly. <span class="speech">"I am a general. I serve because I swore an oath. Not to you. To Verdantis. To my people. You are leading my people into a slaughter because a frightened scribe sent you a letter and you saw an opportunity to enrich yourself. That is not leadership. That is greed."</span>
 </div>
 
 The tent went very still. The war drums pounded on outside, indifferent to the silence within.

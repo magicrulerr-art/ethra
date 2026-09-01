@@ -184,7 +184,7 @@ Zara watched from the edge of the grounds, her golden eyes tracking the flow of 
 </div>
 
 
-The Humman encampment had transformed. Seris, the ambassador who had been caught off guard by Ajani's demand for refreshments, had spent the intervening hours preparing for the twilight crowds. Now her people were everywhere—servants moving through the streets with trays of dried fruits and cured meats, merchants hawking Verdantian wine at marked-up prices, scribes taking bets and recording the odds.
+The Humman encampment had transformed. Seris, the ambassador who had been caught off guard by Ajani's demand for refreshments, had spent the intervening hours preparing for the twilight crowds. Now her people were everywhere—servants moving through the streets with trays of dried fruits and cured meats, merchants hawking Verdantian rune berry juice at marked-up prices, scribes taking bets and recording the odds.
 
 She had been humiliated in the morning. She had scrambled to fulfill the king's demand. Now she was profiting from it.
 

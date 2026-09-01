@@ -41,7 +41,7 @@ He did not know what the black pillar had been, or why the creature had dissolve
 
 
 <div class="dialogue-block">
-The room erupted. Vasha was already speaking before anyone else could draw breath, her humorless voice cutting through the chaos. <span class="speech">"The Humman ambassador's daughter sent letters to Verdantis detailing the guard rotations and your coma. The Humman king marched nine hundred kilometers with a thousand scorpion riders. We intercepted the letters, but the elders didn't mobilize, so the Council of the Untrustworthy acted independently—"</span> Yvaria spoke over her, her silver-furred hands still stained with the blood of the ghosts she had lost. <span class="speech">"I brought a hundred ghosts! Thirty-five of them died before they even knew what was happening! Your regent's maid betrayed us all and then her own king executed her—"</span> Zephyr's voice joined the clamor, his scarred face twisted with frustration. <span class="speech">"The shadow riders broke the Plague net! The Black Fire's legacy saved the city, and none of you even knew it would work—"</span>
+The room erupted. Vasha was already speaking before anyone else could draw breath, her humorless voice cutting through the chaos. <span class="speech">"The Humman ambassador's daughter sent letters to Verdantis detailing the guard rotations and your coma. The Humman Sultan marched nine hundred kilometers with a thousand scorpion riders. We intercepted the letters, but the elders didn't mobilize, so the Council of the Untrustworthy acted independently—"</span> Yvaria spoke over her, her silver-furred hands still stained with the blood of the ghosts she had lost. <span class="speech">"I brought a hundred ghosts! Thirty-five of them died before they even knew what was happening! Your regent's maid betrayed us all and then her own Sultan executed her—"</span> Zephyr's voice joined the clamor, his scarred face twisted with frustration. <span class="speech">"The shadow riders broke the Plague net! The Black Fire's legacy saved the city, and none of you even knew it would work—"</span>
 </div>
 
 
@@ -70,7 +70,7 @@ Finally, M'rak sighed. He straightened his shoulders—the burn-scarred shoulder
 
 
 <div class="dialogue-block">
-<span class="speech">"The Human army marched from Verdantis. Nine hundred kilometers. A thousand scorpion riders, fifty Tide Wolf cavalry, ten Amuk war-beasts. They arrived at dawn. We held the wall with twenty elite soldiers and a hundred volunteers. The Woh riders from the eastern and western garrisons reinforced at the first hour. The ghosts arrived at the second. The shadow riders arrived at the third."</span> He paused. <span class="speech">"The Humman king deployed Plague weapons. Suicide scorpions. Purple orbs. We lost fifteen Wohs in the first strike. Thirty-five ghosts in the second. Fifteen more Wohs in the third. The mirror array destroyed one orb. The array is gone. The eastern section of the wall is gone."</span>
+<span class="speech">"The Human army marched from Verdantis. Nine hundred kilometers. A thousand scorpion riders, fifty Tide Wolf cavalry, ten Amuk war-beasts. They arrived at dawn. We held the wall with twenty elite soldiers and a hundred volunteers. The Woh riders from the eastern and western garrisons reinforced at the first hour. The ghosts arrived at the second. The shadow riders arrived at the third."</span> He paused. <span class="speech">"The Humman Sultan deployed Plague weapons. Suicide scorpions. Purple orbs. We lost fifteen Wohs in the first strike. Thirty-five ghosts in the second. Fifteen more Wohs in the third. The mirror array destroyed one orb. The array is gone. The eastern section of the wall is gone."</span>
 </div>
 
 
@@ -271,7 +271,7 @@ He paused, letting the implication settle.
 
 
 <div class="dialogue-block">
-<p class="speech-line">"They let the letters go through. The Humman king thought he was acting on secret intelligence. He thought he was surprising a wounded city. The Council let him believe that. They knew that if the letters didn't reach Verdantis, the Hummans would find another way. A different route. A different strategy. Something the Council couldn't predict. So they gave the Hummans a strategy they could predict. They let the letters pass, and they started preparing."</p>
+<p class="speech-line">"They let the letters go through. The Humman Sultan thought he was acting on secret intelligence. He thought he was surprising a wounded city. The Council let him believe that. They knew that if the letters didn't reach Verdantis, the Hummans would find another way. A different route. A different strategy. Something the Council couldn't predict. So they gave the Hummans a strategy they could predict. They let the letters pass, and they started preparing."</p>
 </div>
 
 
@@ -521,7 +521,7 @@ Cefiro sat across the pool, his white fur slicked back from the steam, his pale 
 
 
 <div class="dialogue-block">
-Cefiro opened his eyes. The steam curled around his white fur like a ghost. <span class="speech">"Easy."</span> He repeated the word as if tasting it. <span class="speech">"No. It was not easy. The Dragari guided me. They have been watching you since you left our city, cousin. They knew the war was coming before anyone else. They knew the Plague weapons were being moved before the Humman king himself. They told me when to leave. They told me where to go. They told me what to bring."</span> He paused. <span class="speech">"They did not tell me everything. They never tell everything. But they told me enough."</span>
+Cefiro opened his eyes. The steam curled around his white fur like a ghost. <span class="speech">"Easy."</span> He repeated the word as if tasting it. <span class="speech">"No. It was not easy. The Dragari guided me. They have been watching you since you left our city, cousin. They knew the war was coming before anyone else. They knew the Plague weapons were being moved before the Humman Sultan himself. They told me when to leave. They told me where to go. They told me what to bring."</span> He paused. <span class="speech">"They did not tell me everything. They never tell everything. But they told me enough."</span>
 </div>
 
 

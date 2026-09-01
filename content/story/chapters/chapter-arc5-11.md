@@ -268,7 +268,7 @@ The command tent was empty now. The generals had been dismissed to the perimeter
 <p class="speech-line">"I didn't know what they did! Why do I need to—"</p>
 </div>
 
-He never finished the sentence. The shadowy figure's hand moved, a blur of darkness, and Mekhmed's throat opened in a bright red line. The king of the Hummans, owner of twelve thousand caravans, heir to the wealthiest line three generations back, victor of a hundred trade disputes he had rebranded as wars, crumpled to the floor of his command tent without a sound.
+He never finished the sentence. The shadowy figure's hand moved, a blur of darkness, and Mekhmed's throat opened in a bright red line. The Sultan of the Hummans, owner of twelve thousand caravans, heir to the wealthiest line three generations back, victor of a hundred trade disputes he had rebranded as wars, crumpled to the floor of his command tent without a sound.
 
 <div class="dialogue-block">
 <p class="speech-line">The shadowy figure stepped over his body and raised its voice—and the voice that came out was Mekhmed's voice, perfectly mimicked, perfectly pitched, amplified by some unseen sorcery to carry across the entire Humman camp. "FIRE THE OTHER WEAPONS! AIM AT THE ONE ALREADY DEPLOYED! FIRE NOW!"</p>

@@ -1059,7 +1059,7 @@ Ajani watched the procession approach from the throne, the diadem's gem pulsing 
 </div>
 
 
-Ajani looked from Nikolai's defeated posture to the Sultan's carefully composed face. The Humman king was weary—not merely from the desert journey, but from the ordeal of the past few minutes, from the war, from the weight of a crown he had not wanted and a throne he had inherited from a fool. The diadem's gem pulsed once, a slow, steady beat. Then the White Dawn did something that surprised everyone present.
+Ajani looked from Nikolai's defeated posture to the Sultan's carefully composed face. The Sultan was weary—not merely from the desert journey, but from the ordeal of the past few minutes, from the war, from the weight of a crown he had not wanted and a throne he had inherited from a fool. The diadem's gem pulsed once, a slow, steady beat. Then the White Dawn did something that surprised everyone present.
 
 
 He laughed. It was not the cold laugh of the throne room, nor the fierce laugh of the arena. It was the genuine, surprised laughter of a young king who had been handed a situation so absurd that there was nothing left to do but find it funny. He gestured toward a shaded alcove near the edge of the atrium, where the Pyrinae had woven a canopy of rune-glass and living vines to shield the Veylar queen from the desert heat.

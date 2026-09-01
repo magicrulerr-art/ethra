@@ -133,14 +133,14 @@ The Pyrinae and the Stripe Paws met in a neutral chamber beneath the Great Hall,
 </div>
 
 <div class="dialogue-block">
-Vasha studied the parchment for a long moment. Then she nodded. <span class="speech">"Agreed. The Stripe Paws will honor this agreement. The Pyrinae are our friends. Friends negotiate. Friends haggle. Friends drive hard bargains and then share wine afterward."</span> She produced a flask from her satchel—caravan wine, rough and pale. <span class="speech">"I trust the Pyrinae have no objection to a toast?"</span>
+Vasha studied the parchment for a long moment. Then she nodded. <span class="speech">"Agreed. The Stripe Paws will honor this agreement. The Pyrinae are our friends. Friends negotiate. Friends haggle. Friends drive hard bargains and then share Bitter Ale afterward."</span> She produced a flask from her satchel—caravan Bitter Ale, rough and dark. <span class="speech">"I trust the Pyrinae have no objection to a toast?"</span>
 </div>
 
 <div class="dialogue-block">
 Mira smiled. It was the first genuine smile the Sun-Walker had worn since the negotiations began. <span class="speech">"The Pyrinae have no objection. To the road."</span> She raised her cup. <span class="speech">"To the road."</span>
 </div>
 
-They drank together, and the road's foundations were laid not in stone but in parchment and wine and the hard-won trust of former vassals and former masters learning to treat as equals.
+They drank together, and the road's foundations were laid not in stone but in parchment and Bitter Ale and the hard-won trust of former vassals and former masters learning to treat as equals.
 
 The descent into the inner chamber was quiet. The spiral stair had been worn smooth by centuries of royal footfalls, and Ajani walked it alone, the green fire along his claws the only light in the ancient darkness. The air grew cool, then cold, then still—the patient stillness of something that had been waiting for a very long time.
 

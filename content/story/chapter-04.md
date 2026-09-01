@@ -592,7 +592,7 @@ Nefere's ancient eyes crinkled at the corners. The faintest smile crossed her we
 </div>
 
 <div class="dialogue-block">
-Mira, the Sun-Walker envoy, stepped forward. Her sharp merchant's eyes gleamed with the particular light of someone who had just been handed a complex negotiation and was already calculating the angles. <span class="speech">"The Stripe Paws control the Rune-Belt's resources. They are our friends now—the king made us friends. Friends negotiate. Friends haggle. Friends drive hard bargains and then share wine afterward."</span> She inclined her head toward the throne. <span class="speech">"The Pyrinae will treat with the Stripe Paws directly. We will secure the timber, the iron, the stone. And we will do it as equals, not as vassals begging for scraps. This is the gift you have given us. We will use it."</span>
+Mira, the Sun-Walker envoy, stepped forward. Her sharp merchant's eyes gleamed with the particular light of someone who had just been handed a complex negotiation and was already calculating the angles. <span class="speech">"The Stripe Paws control the Rune-Belt's resources. They are our friends now—the king made us friends. Friends negotiate. Friends haggle. Friends drive hard bargains and then share Bitter Ale afterward."</span> She inclined her head toward the throne. <span class="speech">"The Pyrinae will treat with the Stripe Paws directly. We will secure the timber, the iron, the stone. And we will do it as equals, not as vassals begging for scraps. This is the gift you have given us. We will use it."</span>
 </div>
 
 <div class="dialogue-block">
@@ -865,7 +865,7 @@ When she opened her eyes, she spoke not with the careful cadence of a diplomat, 
 Sera moved before the last syllable left the king's mouth. Her lacquered claws closed around Lena's arm, and the young scribe let out a sharp, terrified gasp as she was dragged backward across the polished stone, away from her mother, away from the other merchants, into the shadows behind the throne. The silent male Shadow Paw was already among the kneeling Hummans, his dark form flowing between them like oil through water, his claws extended.
 
 <div class="dialogue-block">
-<p class="speech-line">The merchants screamed. One of them—the portly Wind-Trader who had provided the wine for the tournament—threw himself at Seris's feet. "Ambassador! Please! Tell him we meant no harm! Tell him—" The Shadow Paw's claws found the back of his neck, and his plea dissolved into a strangled whimper.</p>
+<p class="speech-line">The merchants screamed. One of them—the portly Wind-Trader who had provided the rune berry juice for the tournament—threw himself at Seris's feet. "Ambassador! Please! Tell him we meant no harm! Tell him—" The Shadow Paw's claws found the back of his neck, and his plea dissolved into a strangled whimper.</p>
 </div>
 
 Seris did not scream. She did not weep. She knelt on the cold stone, her daughter's terrified gasp still echoing in her ears, and she looked up at the king with eyes that had seen thirty years of diplomacy and had never once begged. Until now.
@@ -1085,14 +1085,14 @@ The Pyrinae and the Stripe Paws met in a neutral chamber beneath the Great Hall,
 </div>
 
 <div class="dialogue-block">
-Vasha studied the parchment for a long moment. Then she nodded. <span class="speech">"Agreed. The Stripe Paws will honor this agreement. The Pyrinae are our friends. Friends negotiate. Friends haggle. Friends drive hard bargains and then share wine afterward."</span> She produced a flask from her satchel—caravan wine, rough and pale. <span class="speech">"I trust the Pyrinae have no objection to a toast?"</span>
+Vasha studied the parchment for a long moment. Then she nodded. <span class="speech">"Agreed. The Stripe Paws will honor this agreement. The Pyrinae are our friends. Friends negotiate. Friends haggle. Friends drive hard bargains and then share Bitter Ale afterward."</span> She produced a flask from her satchel—caravan Bitter Ale, rough and dark. <span class="speech">"I trust the Pyrinae have no objection to a toast?"</span>
 </div>
 
 <div class="dialogue-block">
 Mira smiled. It was the first genuine smile the Sun-Walker had worn since the negotiations began. <span class="speech">"The Pyrinae have no objection. To the road."</span> She raised her cup. <span class="speech">"To the road."</span>
 </div>
 
-They drank together, and the road's foundations were laid not in stone but in parchment and wine and the hard-won trust of former vassals and former masters learning to treat as equals.
+They drank together, and the road's foundations were laid not in stone but in parchment and Bitter Ale and the hard-won trust of former vassals and former masters learning to treat as equals.
 
 The descent into the inner chamber was quiet. The spiral stair had been worn smooth by centuries of royal footfalls, and Ajani walked it alone, the green fire along his claws the only light in the ancient darkness. The air grew cool, then cold, then still—the patient stillness of something that had been waiting for a very long time.
 
@@ -2740,9 +2740,9 @@ The machinery of governance was holding, even as its architect lay unconscious i
 
 And then the scouts arrived.
 
-They came from the north, riding hard on exhausted fire feet, their striped manes caked with dust. They brought news that silenced every council chamber and every market square and every whispered rumor in the capital. The Humman King was coming. From Verdantis, the distant city of merchants and schemes, the ruler of the weakest race on Ethra was marching toward Styxian with an entourage of hundreds—scorpion riders at the forefront, their great beasts gleaming in the desert sun, their claws leaving deep furrows in the sand.
+They came from the north, riding hard on exhausted fire feet, their striped manes caked with dust. They brought news that silenced every council chamber and every market square and every whispered rumor in the capital. The Humman Sultan was coming. From Verdantis, the distant city of merchants and schemes, the ruler of the weakest race on Ethra was marching toward Styxian with an entourage of hundreds—scorpion riders at the forefront, their great beasts gleaming in the desert sun, their claws leaving deep furrows in the sand.
 
-It looked like a war declaration. It looked like an invasion. It looked like the Hummans, who had been humiliated and subjugated and stripped of their best, were seizing their moment. The king was ill. The rumors had spread. And now the Humman King was coming, with hundreds of scorpion riders, and he would arrive in one week.
+It looked like a war declaration. It looked like an invasion. It looked like the Hummans, who had been humiliated and subjugated and stripped of their best, were seizing their moment. The king was ill. The rumors had spread. And now the Humman Sultan was coming, with hundreds of scorpion riders, and he would arrive in one week.
 
 Sylva received the report in her chambers, her silver aura flickering gently. She did not panic. She had been patient for a very long time. But she sent for Zara. She sent for Kareth. She sent for Elyra and Nefere and every elder still in the capital. And she began to plan.
 
@@ -2905,7 +2905,7 @@ Elyra represented the Motted Paws, her silver aura flickering gently. Nefere sto
 The war room fell silent. Outside, the first rays of the sun were beginning to touch the northern watchtowers, painting the desert in shades of amber and gold. And in the distance, across the sand, a single scorpion rider was approaching the gate. He rode alone, his mount's iridescent shell gleaming in the morning light, his hands raised in the universal gesture of parley.
 
 <div class="dialogue-block">
-Sylva rose from her chair. Her silver aura flickered once, steadied, and then she walked toward the window. <span class="speech">"The Humman King has sent an emissary. He wants to talk before he attacks. That means he is not certain of victory. That means he can be negotiated with."</span> She turned to face the war council. <span class="speech">"Zara. Sera. Kareth. You will hold the gate. You will not attack unless attacked. You will not provoke. You will hold. Nefere, your cannons will remain silent until my signal. Elyra, your envoys will observe and report. I will meet the emissary at the gate. We will learn what the Humman King wants. And then we will decide whether he lives or dies."</span> She walked toward the door, her silver-chased armor catching the first light of dawn. <span class="speech">"The king is still unconscious. The armor is still draining. But we are still Wengari. We will hold."</span>
+Sylva rose from her chair. Her silver aura flickered once, steadied, and then she walked toward the window. <span class="speech">"The Humman Sultan has sent an emissary. He wants to talk before he attacks. That means he is not certain of victory. That means he can be negotiated with."</span> She turned to face the war council. <span class="speech">"Zara. Sera. Kareth. You will hold the gate. You will not attack unless attacked. You will not provoke. You will hold. Nefere, your cannons will remain silent until my signal. Elyra, your envoys will observe and report. I will meet the emissary at the gate. We will learn what the Humman Sultan wants. And then we will decide whether he lives or dies."</span> She walked toward the door, her silver-chased armor catching the first light of dawn. <span class="speech">"The king is still unconscious. The armor is still draining. But we are still Wengari. We will hold."</span>
 </div>
 
 He reined his scorpion to a halt just beyond the range of the rune cannons, close enough to be heard, far enough to flee if the Wengari proved unreasonable. Then he raised a small, sorcery-enhanced speaker to his lips—a Humman device, cunning and practical, the kind of thing they excelled at. His voice boomed across the silent gate, amplified and distorted, carrying to every Wengari standing on the walls and every warrior waiting in the courtyard below.
@@ -2931,7 +2931,7 @@ He lowered the speaker. He did not wait for an answer. He simply turned his scor
 Sylva stood at the edge of the gate, her silver-chased ceremonial armor gleaming in the growing light. She had heard the emissary. She had heard the title—'His Wealthiness', as if wealth were a virtue, as if coin could substitute for strength. She had heard the offer of vassalage, the casual arrogance of a king who believed the Wengari would kneel because they were outnumbered. And she had heard the deadline. The first rays of the sun. Minutes. Perhaps less.
 
 <div class="dialogue-block">
-She turned to the war council. <span class="speech">"The Humman King thinks we are already defeated. He thinks the king's illness has made us weak. He thinks numbers will break us."</span> Her silver aura flickered once, cold and steady. <span class="speech">"He is wrong. We will not kneel. We will not become vassals. We will hold the gate. And when the sun touches the sand, we will show him what the Wengari are."</span>
+She turned to the war council. <span class="speech">"The Humman Sultan thinks we are already defeated. He thinks the king's illness has made us weak. He thinks numbers will break us."</span> Her silver aura flickered once, cold and steady. <span class="speech">"He is wrong. We will not kneel. We will not become vassals. We will hold the gate. And when the sun touches the sand, we will show him what the Wengari are."</span>
 </div>
 
 The first ray of sunlight broke over the eastern horizon. It touched the sand before the gate, a single golden line that stretched across the desert like a blade. The deadline had come. The Humman army began to move. And the Wengari stood ready.

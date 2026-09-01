@@ -121,7 +121,7 @@ Nefere's ancient eyes crinkled at the corners. The faintest smile crossed her we
 </div>
 
 <div class="dialogue-block">
-Mira, the Sun-Walker envoy, stepped forward. Her sharp merchant's eyes gleamed with the particular light of someone who had just been handed a complex negotiation and was already calculating the angles. <span class="speech">"The Stripe Paws control the Rune-Belt's resources. They are our friends now—the king made us friends. Friends negotiate. Friends haggle. Friends drive hard bargains and then share wine afterward."</span> She inclined her head toward the throne. <span class="speech">"The Pyrinae will treat with the Stripe Paws directly. We will secure the timber, the iron, the stone. And we will do it as equals, not as vassals begging for scraps. This is the gift you have given us. We will use it."</span>
+Mira, the Sun-Walker envoy, stepped forward. Her sharp merchant's eyes gleamed with the particular light of someone who had just been handed a complex negotiation and was already calculating the angles. <span class="speech">"The Stripe Paws control the Rune-Belt's resources. They are our friends now—the king made us friends. Friends negotiate. Friends haggle. Friends drive hard bargains and then share Bitter Ale afterward."</span> She inclined her head toward the throne. <span class="speech">"The Pyrinae will treat with the Stripe Paws directly. We will secure the timber, the iron, the stone. And we will do it as equals, not as vassals begging for scraps. This is the gift you have given us. We will use it."</span>
 </div>
 
 <div class="dialogue-block">
@@ -394,7 +394,7 @@ When she opened her eyes, she spoke not with the careful cadence of a diplomat, 
 Sera moved before the last syllable left the king's mouth. Her lacquered claws closed around Lena's arm, and the young scribe let out a sharp, terrified gasp as she was dragged backward across the polished stone, away from her mother, away from the other merchants, into the shadows behind the throne. The silent male Shadow Paw was already among the kneeling Hummans, his dark form flowing between them like oil through water, his claws extended.
 
 <div class="dialogue-block">
-<p class="speech-line">The merchants screamed. One of them—the portly Wind-Trader who had provided the wine for the tournament—threw himself at Seris's feet. "Ambassador! Please! Tell him we meant no harm! Tell him—" The Shadow Paw's claws found the back of his neck, and his plea dissolved into a strangled whimper.</p>
+<p class="speech-line">The merchants screamed. One of them—the portly Wind-Trader who had provided the rune berry juice for the tournament—threw himself at Seris's feet. "Ambassador! Please! Tell him we meant no harm! Tell him—" The Shadow Paw's claws found the back of his neck, and his plea dissolved into a strangled whimper.</p>
 </div>
 
 Seris did not scream. She did not weep. She knelt on the cold stone, her daughter's terrified gasp still echoing in her ears, and she looked up at the king with eyes that had seen thirty years of diplomacy and had never once begged. Until now.

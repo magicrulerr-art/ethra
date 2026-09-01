@@ -158,7 +158,7 @@ But Nikolai was also a king. A king who had just learned that his long-lost cous
 
 
 <div class="dialogue-block">
-<p class="speech-line">"Tell me about this war. The Plague War. You said the Humman king deployed weapons from Velarius. You said there was a creature. You said Ajani summoned elemental spirits and destroyed it. Tell me everything. Numbers. Tactics. Casualties. The state of the Wengari military. The strength of their walls. The loyalty of their generals. Everything a king would need to know about a potential ally."</p>
+<p class="speech-line">"Tell me about this war. The Plague War. You said the Humman Sultan deployed weapons from Velarius. You said there was a creature. You said Ajani summoned elemental spirits and destroyed it. Tell me everything. Numbers. Tactics. Casualties. The state of the Wengari military. The strength of their walls. The loyalty of their generals. Everything a king would need to know about a potential ally."</p>
 </div>
 
 <div class="dialogue-block">
@@ -235,7 +235,7 @@ Nikolai's expression darkened. The First Tyrant. The Black Fire. The reason the 
 
 
 <div class="dialogue-block">
-Cefiro paused. He was telling the story in the wrong order. <span class="speech">"The Humman king—Mekhmed—deployed weapons from the Fifth Tyrant. Suicide scorpions. Purple orbs. The orbs created a net of tendrils that trapped and consumed anything they touched. The shadow riders burned through it with the Black Fire. But the Plague weapons—"</span> He stopped. <span class="speech">"The Plague is a long story. It involves the Fifth Tyrant, Velarius Vane. He poisoned the world for sixty-five years. He died five hundred years ago. The Humman king somehow acquired his old weapons."</span>
+Cefiro paused. He was telling the story in the wrong order. <span class="speech">"The Humman Sultan—Mekhmed—deployed weapons from the Fifth Tyrant. Suicide scorpions. Purple orbs. The orbs created a net of tendrils that trapped and consumed anything they touched. The shadow riders burned through it with the Black Fire. But the Plague weapons—"</span> He stopped. <span class="speech">"The Plague is a long story. It involves the Fifth Tyrant, Velarius Vane. He poisoned the world for sixty-five years. He died five hundred years ago. The Humman Sultan somehow acquired his old weapons."</span>
 </div>
 
 
@@ -754,7 +754,7 @@ Cefiro was silent for a long moment. The northern lights flickered overhead, and
 
 
 <div class="dialogue-block">
-<p class="speech-line">"The lord of the desert spoke of it. The lord of the marsh spoke of it. The Dragari crossed the desert to warn him. The creature that rose in the Plague War—the shadowy figure that gave the Humman king his weapons—was merely a servant. The true enemy is still out there. It has been there since before the Wengari walked the desert. It has destroyed civilizations. It has been waiting. And Ajani is building a coalition to fight it. He does not yet know this. He thinks he is building a road. He is building an army."</p>
+<p class="speech-line">"The lord of the desert spoke of it. The lord of the marsh spoke of it. The Dragari crossed the desert to warn him. The creature that rose in the Plague War—the shadowy figure that gave the Humman Sultan his weapons—was merely a servant. The true enemy is still out there. It has been there since before the Wengari walked the desert. It has destroyed civilizations. It has been waiting. And Ajani is building a coalition to fight it. He does not yet know this. He thinks he is building a road. He is building an army."</p>
 </div>
 
 

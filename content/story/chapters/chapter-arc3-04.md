@@ -238,18 +238,18 @@ Sylva inclined her head toward Elyra. Elyra inclined her head toward Sylva. No w
 The pairings were set. The second phase of the tournament was about to begin.
 
 
-Ajani's smile spread wide across his face—all teeth, no warmth—and his eyes flared with a pulse of green fire that was visible even in the blinding noon sun. The Humman delegation scrambled to their feet. Seris, the ambassador who had knelt before the king and surrendered her daughter, was already directing a small army of servants carrying clay pitchers and woven baskets laden with dried fruits, cured meats, and the sweet, pale wine of the Verdantian vineyards.
+Ajani's smile spread wide across his face—all teeth, no warmth—and his eyes flared with a pulse of green fire that was visible even in the blinding noon sun. The Humman delegation scrambled to their feet. Seris, the ambassador who had knelt before the king and surrendered her daughter, was already directing a small army of servants carrying clay pitchers and woven baskets laden with dried fruits, cured meats, and the sweet, pale rune berry juice of Verdantis.
 
 She moved among them with the practiced efficiency of a diplomat who had learned, over decades, that the best way to survive a predator was to be useful.
 
 
 <div class="dialogue-block">
-<span class="speech">"Refreshments, King Ajani! Bread and salt and wine from our own stores! A gift! A gesture of our new brotherhood!"</span> Her voice was steady, but her hands trembled as she gestured toward the champions. <span class="speech">"Let our Wengari brothers drink and eat before the next phase! Let the arena share in our humble offerings!"</span>
+<span class="speech">"Refreshments, King Ajani! Bread and salt and rune berry juice from our own stores! A gift! A gesture of our new brotherhood!"</span> Her voice was steady, but her hands trembled as she gestured toward the champions. <span class="speech">"Let our Wengari brothers drink and eat before the next phase! Let the arena share in our humble offerings!"</span>
 </div>
 
 
 <div class="dialogue-block">
-<p class="speech-line">The Stripe Paws were the first to accept. Rask, still catching her breath from the first phase, took a clay pitcher from a trembling Humman servant and drank deeply, the pale wine running down her chin. She wiped her mouth with the back of her massive paw and nodded once. "Good," she said. That single word, from the champion who had nearly defeated the Shadow Paws, was worth more to the Hummans than a thousand diplomatic treaties.</p>
+<p class="speech-line">The Stripe Paws were the first to accept. Rask, still catching her breath from the first phase, took a clay pitcher from a trembling Humman servant and drank deeply, the pale juice running down her chin. She wiped her mouth with the back of her massive paw and nodded once. "Good," she said. That single word, from the champion who had nearly defeated the Shadow Paws, was worth more to the Hummans than a thousand diplomatic treaties.</p>
 </div>
 
 
@@ -259,7 +259,7 @@ The Shadow Paws did not drink. Thane and Sera stood apart from the other champio
 The Motted Paws accepted the offerings with their characteristic silence. Sylva took a single dried fig, inspected it with her ancient silver eyes, and placed it in her mouth. She chewed slowly, thoughtfully, as if tasting something more than fruit. Elyra and Torin followed her lead, their movements synchronized, their silver auras flickering faintly as they ate.
 
 
-The crowd rumbled with approval. The common Wengari in the stone tiers reached for the baskets that the Humman servants carried among them, their earlier contempt for the weak race softened—just slightly—by the gift of food and wine. Even the Bright Paws, still humiliated from their elimination, accepted the offerings. Karn, the broken champion, took a pitcher of water and drank as if it were the first kindness he had received in a very long time.
+The crowd rumbled with approval. The common Wengari in the stone tiers reached for the baskets that the Humman servants carried among them, their earlier contempt for the weak race softened—just slightly—by the gift of food and juice. Even the Bright Paws, still humiliated from their elimination, accepted the offerings. Karn, the broken champion, took a pitcher of water and drank as if it were the first kindness he had received in a very long time.
 
 
 Ajani watched it all from his throne. The glow along his claws had sunk to a dim, steady pulse. The Humman gesture was exactly what he had intended—a reminder that the weak races now served the Wengari, and that the Wengari, in turn, were magnanimous in victory. He let his gaze sweep across the arena, the eye flare still flickering in his pupils, and then he settled back into his throne to wait for the second phase to begin.
@@ -271,7 +271,7 @@ The Humman delegation froze. Seris, the ambassador who had knelt before the king
 And now every eye in the arena was on her.
 
 
-Her mind raced. The Humman encampment outside the eastern wall had supplies—dried fruits, cured meats, the pale wine of the Verdantian vineyards. But they were not prepared for this. They had not arranged servants. They had not organized distribution. They had come to witness a tournament, not to cater one.
+Her mind raced. The Humman encampment outside the eastern wall had supplies—dried fruits, cured meats, the pale rune berry juice of Verdantis. But they were not prepared for this. They had not arranged servants. They had not organized distribution. They had come to witness a tournament, not to cater one.
 
 
 But she could not refuse. Not publicly. Not after the king had called them brothers. Not after she had knelt in the sand and accepted his terms. To refuse would be to shame her people before the entire world.
@@ -290,7 +290,7 @@ She turned to her aides with a smile that did not reach her eyes. <span class="s
 She was buying time. The servants would need at least a quarter-hour to gather the supplies and distribute them. But the king had not specified when the refreshments must arrive. He had simply made his announcement. She could work with that.
 
 
-Within minutes, Humman servants were scrambling through the stone tiers, their arms laden with clay pitchers and woven baskets. The wine was not the finest vintage—it was the rough, pale wine of the caravan routes—but it was wet and cool in the desert heat. The dried fruits were a little too dry, the cured meats a little too salty, but they were food, and the Wengari crowd accepted them with the casual entitlement of a people who expected tribute.
+Within minutes, Humman servants were scrambling through the stone tiers, their arms laden with clay pitchers and woven baskets. The juice was not the finest pressing—it was the rough, pale stuff of the caravan routes—but it was wet and cool in the desert heat. The dried fruits were a little too dry, the cured meats a little too salty, but they were food, and the Wengari crowd accepted them with the casual entitlement of a people who expected tribute.
 
 The champions in the colonnade were served first. Then the delegations. Then the common Wengari in the upper tiers. The Hummans had been given a task, and they had fulfilled it. It was not elegant. It was not dignified. But it was done.
 

@@ -230,7 +230,7 @@ Kellan was silent for a long moment. His hands had stopped trembling. His face w
 </div>
 
 <div class="dialogue-block">
-<span class="speech">"I am telling you,"</span> Vasha said, <span class="speech">"that the Humman king thinks he is attacking a wounded city with no reinforcements. He is wrong. The elders did not authorize any of this. The generals did not plan for any of this. The regent does not know about any of this. But the intelligence networks worked exactly as the king designed them to work. And your people are about to learn what the Wengari truly are."</span>
+<span class="speech">"I am telling you,"</span> Vasha said, <span class="speech">"that the Humman Sultan thinks he is attacking a wounded city with no reinforcements. He is wrong. The elders did not authorize any of this. The generals did not plan for any of this. The regent does not know about any of this. But the intelligence networks worked exactly as the king designed them to work. And your people are about to learn what the Wengari truly are."</span>
 </div>
 
 The war drums began to pound outside. The first rays of sunlight touched the sand before the northern gate. And the Council of the Untrustworthy sat in their windowless chamber, their faces lit from below by the amber glow of the rune-glass filaments.
@@ -270,7 +270,7 @@ General Tamsin, a weathered woman of sixty years whose dark skin was cross-hatch
 </div>
 
 <div class="dialogue-block">
-Tamsin stared at him. She had served three generations of Humman kings. She had fought in a dozen border skirmishes and two actual wars. She had never been told to shut it by a king who had never held a blade. <span class="speech">"You don't pay me at all,"</span> she said quietly. <span class="speech">"I am a general. I serve because I swore an oath. Not to you. To Verdantis. To my people. You are leading my people into a slaughter because a frightened scribe sent you a letter and you saw an opportunity to enrich yourself. That is not leadership. That is greed."</span>
+Tamsin stared at him. She had served three generations of Humman Sultans. She had fought in a dozen border skirmishes and two actual wars. She had never been told to shut it by a Sultan who had never held a blade. <span class="speech">"You don't pay me at all,"</span> she said quietly. <span class="speech">"I am a general. I serve because I swore an oath. Not to you. To Verdantis. To my people. You are leading my people into a slaughter because a frightened scribe sent you a letter and you saw an opportunity to enrich yourself. That is not leadership. That is greed."</span>
 </div>
 
 The tent went very still. The war drums pounded on outside, indifferent to the silence within.
@@ -1341,7 +1341,7 @@ The command tent was empty now. The generals had been dismissed to the perimeter
 <p class="speech-line">"I didn't know what they did! Why do I need to—"</p>
 </div>
 
-He never finished the sentence. The shadowy figure's hand moved, a blur of darkness, and Mekhmed's throat opened in a bright red line. The king of the Hummans, owner of twelve thousand caravans, heir to the wealthiest line three generations back, victor of a hundred trade disputes he had rebranded as wars, crumpled to the floor of his command tent without a sound.
+He never finished the sentence. The shadowy figure's hand moved, a blur of darkness, and Mekhmed's throat opened in a bright red line. The Sultan of the Hummans, owner of twelve thousand caravans, heir to the wealthiest line three generations back, victor of a hundred trade disputes he had rebranded as wars, crumpled to the floor of his command tent without a sound.
 
 <div class="dialogue-block">
 <p class="speech-line">The shadowy figure stepped over his body and raised its voice—and the voice that came out was Mekhmed's voice, perfectly mimicked, perfectly pitched, amplified by some unseen sorcery to carry across the entire Humman camp. "FIRE THE OTHER WEAPONS! AIM AT THE ONE ALREADY DEPLOYED! FIRE NOW!"</p>
@@ -1688,7 +1688,7 @@ Ajani's roar cut through all of it. <span class="speech">"LESS KNEELING AND MORE
 </div>
 
 <div class="dialogue-block">
-M'rak was already moving. He had not knelt—he was too much of a soldier to kneel when the enemy was a league away—and he reached Ajani's side in three strides. <span class="speech">"Plague weapons, Your Highness. Velarius Vane's arsenal. The Humman king had them. He's dead now. The creature is what's left. It regenerates. We've hit it with cannons, with the mirror array, with shadow fire, with everything we have. Nothing stops it. The Golden Cloaks bought us time. The mirror array is destroyed. We were about to evacuate the city."</span> He took a breath. <span class="speech">"The Hummans in the courtyard are refugees. Their king turned on them. They're not our enemies anymore."</span>
+M'rak was already moving. He had not knelt—he was too much of a soldier to kneel when the enemy was a league away—and he reached Ajani's side in three strides. <span class="speech">"Plague weapons, Your Highness. Velarius Vane's arsenal. The Humman Sultan had them. He's dead now. The creature is what's left. It regenerates. We've hit it with cannons, with the mirror array, with shadow fire, with everything we have. Nothing stops it. The Golden Cloaks bought us time. The mirror array is destroyed. We were about to evacuate the city."</span> He took a breath. <span class="speech">"The Hummans in the courtyard are refugees. Their Sultan turned on them. They're not our enemies anymore."</span>
 </div>
 
 Ajani stared at him. Then he looked at the creature, which was still advancing, still regenerating, still one league from the gate. He looked at the broken wall, the dissolving Wohs, the bodies of the fallen. He looked at the Golden Cloaks, still kneeling, still blazing with their ancient light. He looked at Tamsin, the Humman general, standing at the gate with a column of civilian volunteers. He looked at Zephyr and his shadow riders, their wolves still smoking from the charge.
