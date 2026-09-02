@@ -1,4 +1,4 @@
-## Chapter 2: First Blood
+## Chapter 2: The Gauntlet
 
 <div class="dialogue-block">
 Nefere turned her clouded eyes toward the younger Pyrina. <span class="speech">"I think he is a White Dawn. I think every White Dawn in history began with benevolence. I think he is afraid of himself—and that fear is the best thing about him. But I also think his mother wanted him to see the ocean, and his father loved him enough to let him go, and he carries both of them in his heart. That is not nothing. That is a foundation. Whether it is enough—"</span> She shook her head. <span class="speech">"We will find out. We will all find out."</span>

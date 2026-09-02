@@ -777,7 +777,12 @@ The northern lights flickered overhead, and far to the south, across the endless
 
 
 <div class="dialogue-block">
-The next day at breakfast Nikolai announces <span class="speech">"well go to meet our cousins south, tell the servants to pack for a six months voyage"</span> then kiras eyes perk up and says <span class="speech">"six months ? It took us five days if you don't count the time we were lost"</span> everyone looks at Cefiro who chokes on his frostfire
+<p class="speech-line">The next day at breakfast, Nikolai set down his cup of Frostfire and made his announcement. "We go to meet our cousins in the south. Tell the servants to pack for a six-month voyage."</p>
+</div>
+
+
+<div class="dialogue-block">
+<p class="speech-line">Kira's eyes lit up. "Six months? It took us five days—if you don't count the time we were lost."</p>
 </div>
 
 

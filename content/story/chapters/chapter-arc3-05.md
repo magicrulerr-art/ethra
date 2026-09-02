@@ -1,4 +1,4 @@
-## Chapter 5: The Hour Before
+## Chapter 5: The Fire Feet
 
 <div class="dialogue-block">
 <p class="speech-line">"YES! That's it, Torin! Cut him off! Now Sylva comes from the blind side—she's been waiting the whole match for this opening, she's been patient for five thousand years and she's not going to waste it now—GO! GO! GO!"</p>

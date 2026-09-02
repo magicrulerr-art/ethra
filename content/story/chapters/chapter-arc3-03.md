@@ -1,4 +1,4 @@
-## Chapter 3: The Fire Feet
+## Chapter 3: First Blood
 
 <div class="dialogue-block">
 Vasha, the stern advisor who had served Uthgard IX, stepped forward. <span class="speech">"The Lightbringer's crown. Your father's crown. The symbol of three thousand years of Bright Paw rule. You just—"</span> She clenched her claws. <span class="speech">"You just offered it as a prize. To anyone. Without consulting us."</span>
