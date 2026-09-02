@@ -104,8 +104,12 @@ He reached out with his right hand and grasped Ajani's shoulder, his claws press
 </div>
 
 
+*'Mother....'*
+
+*'look at him, so frail, even the king pays its tithe to the tree, he's carried this with him for years, it ate him up as much as the tree did, just like L'vat said, how does he know so much about us?'*
+
 <div class="dialogue-block">
-'Mother....' -<span class="speech">"The son acknowledges, his mother sacrifice..."</span>, 'look at him, so frail, even the king pays its tithe to the tree, he's carried this with him for years, it ate him up as much as the tree did, just like l'vat said, how does he know so much about us?', <span class="speech">"Please take me to the inner chamber, Father"</span>
+<span class="speech">"Please take me to the inner chamber, Father"</span>
 </div>
 
 
@@ -113,7 +117,7 @@ Uthgard IX looked at his son for a long, silent moment. The weariness that had c
 
 
 <div class="dialogue-block">
-<p class="speech-line">"You have your mother's heart, Ajani. She would have been proud of you. I am proud of you."</p>
+<p class="speech-line">"You have your mother's heart, son. She would have been proud of you. I am proud of you."</p>
 </div>
 
 
