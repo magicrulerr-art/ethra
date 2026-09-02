@@ -1,4 +1,4 @@
-## Chapter 1: The Cost
+# Chapter 6: The Cost
 
 The throne room was not a throne room anymore. It was a hospital ward, a war council, and a family gathering all pressed into one. The morning sun streamed through the high windows, catching the dust motes that still hung in the air from the shattered wall. The bodies of the fallen had been cleared, but the smell of smoke and blood and the faint, lingering sweetness of the Plague mist still clung to the stone.
 
@@ -1290,11 +1290,6 @@ The Bright Paw elder opened his mouth, then closed it. Sylva stepped forward, he
 The hall fell silent again. The elders looked at each other. The young generals stood firm. And Ajani waited.
 
 
-<div class="dialogue-block">
-<p class="speech-line">"while they might be shielding you, I am sure every single general here knew the troops were missing,  step forward, who was in charge of the three here ?, and blackpaws you have my personal thanks you did not waiver and sent a full legion, you are the example of what the other families should be"</p>
-</div>
-
-
 The hall fell silent. The young generals stood at the foot of the throne—M'rak, Reva, Yvaria—the three who had brought what they could, who had ridden through the night, who had fought on the wall while the legions stayed in their barracks.
 
 
@@ -1322,7 +1317,7 @@ Ajani looked at the three older generals for a long moment. Then he turned to Ze
 
 
 <div class="dialogue-block">
-<p class="speech-line">"Blackpaws. You have my personal thanks. You did not waver. You sent a full legion. You are the example of what the other families should be."</p>
+<p class="speech-line">"Shadow Paws. You have my personal thanks. You did not waver. You sent a full legion. You are the example of what the other families should be."</p>
 </div>
 
 
@@ -2785,11 +2780,6 @@ Ajani rose from the throne. Blackie and Reddy stirred at his feet, their tails r
 </div>
 
 
-<div class="dialogue-block">
-<p class="speech-line">"Ambassador please tell them Wich direction to take" <span class="speech-attr">, we move three days ahead the threx are getting ready to leave a but with a promise to return soon, the quick are actually very sad to go, one even pleads l'vat to let him stay, l'vat just tells him they'll be back soon, he gently explains Ajani is now a king and it's unbecoming of them to arrive without gifts like the other races and that now that the golden Sun and the wengari are allies they can make the journey faster, and points out to a stripe paw caravan. The leader is korr the only one who's travelled the marshes other stripe paws look in envy, we come to know from whispers korr offered himself to establish a new permanent caravan route from the desert to the marsh, l'vat will guide them through a safe route opening up all sorts of ventures, he's very excited about it already counting coin in his head for their part the quick are eager to purchase more baubles and perhaps get a district of their own in the city, it's been agreed the first trades would be for clean water and baubles the threx will offer high quality wood something the desert lacks and some medicinal herbs</span></p>
-</div>
-
-
 Three days had passed since the Veylar Shell-Singer had delivered her message. The shadow riders had departed within the hour of Ajani's command, twenty black wolves running through the desert night with Zephyr at their head. The ghosts had flown at dawn, Yvaria's drums beating a steady rhythm of vigilance across the empty sand. And now the Threx were preparing to leave.
 
 
@@ -3439,11 +3429,6 @@ Anastasia looked at Pearl, who was now making a soft, rumbling sound that was al
 
 
 <div class="dialogue-block">
-Before they have taken ten paces Kira takes out her Wooden saber and shouts <span class="speech">"TAKE THAT BACK!, NO ONE CAN BEST AJANI!!"</span>, then Ivan takes out a small ceremonial dagger <span class="speech">"of course they can! Brother bested him daily for six months!!!"</span> The family watches this unfold slightly amused, Nikolai voices boom <span class="speech">"you truly are a wengari southern princess, why don't you spar in the arena ? Well watch"</span> in his mind already planning the wedding all of his children are single it's not wrong for a father to dream right ? Anastasia has surprisingly similar thoughts
-</div>
-
-
-<div class="dialogue-block">
 <p class="speech-line">Kira's paw tightened around the wooden saber. Her dark eyes blazed with the same fierce intensity that had carried her through the streets of the capital, through the assassination attempt, through the war. "Take that back! No one can best Ajani!"</p>
 </div>
 
@@ -3630,11 +3615,6 @@ Nikolai's laugh boomed through the corridor, even louder than before. Cefiro clo
 
 <div class="dialogue-block">
 <p class="speech-line">Kira raised her wooden saber. "Ajani's are better. Let's go to the arena. I'll prove it."</p>
-</div>
-
-
-<div class="dialogue-block">
-In the arena Kira remembers ajanis teachings <span class="speech">"most think the saber is like a tide wolf, fast, hard, destructive, but I was stuck fighting iris serpents for a year!! "</span> He shudders at the memory and continues <span class="speech">"And I tell you it is like a serpent, treacherous, annoying and poisonous, this is my faith form, serpents fang!"</span>, and also liras teachings <span class="speech">"you are a Shadow Paw, the right points are you're both right, there is no honor in death, only in living another day"</span>, she prepares her stance while the silverpelts take their places along the arena
 </div>
 
 

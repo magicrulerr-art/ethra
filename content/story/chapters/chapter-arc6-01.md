@@ -1,5 +1,6 @@
 ## Chapter 1: The Cost
 
+
 The throne room was not a throne room anymore. It was a hospital ward, a war council, and a family gathering all pressed into one. The morning sun streamed through the high windows, catching the dust motes that still hung in the air from the shattered wall. The bodies of the fallen had been cleared, but the smell of smoke and blood and the faint, lingering sweetness of the Plague mist still clung to the stone.
 
 
@@ -1019,13 +1020,3 @@ Ajani's eyes flickered with a cold, sharp light. He had not slept properly in we
 
 
 The guard bowed and withdrew. The throne room settled into silence, broken only by the soft breathing of Black Fire and Red Fire at Ajani's feet. The four generals remained at attention. Vasha's stylus had stopped moving. Sylva stood at the foot of the dais, her ancient eyes fixed on the door.
-
-
-<div class="dialogue-block">
-<p class="speech-line">Elyra entered with the quiet grace of Flowing Water. The Motted Paw foreign advisor moved across the polished stone and inclined her head toward the throne. "Your Highness. You wish to discuss reparations from Verdantis." It was not a question. She had been listening outside the door.</p>
-</div>
-
-
-<div class="dialogue-block">
-<span class="speech">"The Hummans,"</span> Ajani said. <span class="speech">"They are wealthy. They have more than one city. They walked upon our land and deployed weapons their own codes forbid. How do we demand the reparations?"</span>
-</div>

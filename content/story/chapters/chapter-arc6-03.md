@@ -1,6 +1,11 @@
 ## Chapter 3: The Vision
 
 <div class="dialogue-block">
+<p class="speech-line">She set down her stylus and began to speak with the precision of someone who had been planning this recommendation for months. "The Council of the Untrustworthy should be the core of the new office. We are already operational. We have networks in every family, contacts in every delegation, sources in the Humman quarter and the Pyrinae district. But we are small. Five members, a handful of operatives, no dedicated funding beyond what we can skim from the Council's discretionary budget. To become a true intelligence office, we need three things: staff, funding, and legal authority."</p>
+</div>
+
+
+<div class="dialogue-block">
 <p class="speech-line">A third claw. "Third, legal authority. The office must be able to intercept correspondence, monitor foreign delegations, and detain suspected spies without public trial. This will be controversial. The elders will oppose it. The foreign delegations will protest. The Hummans will claim we are persecuting them. All of that is irrelevant. An intelligence office without the power to act is merely a library. If we cannot detain, we cannot prevent. If we cannot intercept, we cannot know. The king must grant us the authority to operate in secret and the legal protection to survive when our operations become public."</p>
 </div>
 
@@ -771,11 +776,6 @@ Ajani rose from the throne. Blackie and Reddy stirred at his feet, their tails r
 
 <div class="dialogue-block">
 <p class="speech-line">Ajani nodded. "Go. Both of you. The queen is coming, and I want her to see the best of what the Wengari are before she reaches the gate."</p>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">"Ambassador please tell them Wich direction to take" <span class="speech-attr">, we move three days ahead the threx are getting ready to leave a but with a promise to return soon, the quick are actually very sad to go, one even pleads l'vat to let him stay, l'vat just tells him they'll be back soon, he gently explains Ajani is now a king and it's unbecoming of them to arrive without gifts like the other races and that now that the golden Sun and the wengari are allies they can make the journey faster, and points out to a stripe paw caravan. The leader is korr the only one who's travelled the marshes other stripe paws look in envy, we come to know from whispers korr offered himself to establish a new permanent caravan route from the desert to the marsh, l'vat will guide them through a safe route opening up all sorts of ventures, he's very excited about it already counting coin in his head for their part the quick are eager to purchase more baubles and perhaps get a district of their own in the city, it's been agreed the first trades would be for clean water and baubles the threx will offer high quality wood something the desert lacks and some medicinal herbs</span></p>
 </div>
 
 

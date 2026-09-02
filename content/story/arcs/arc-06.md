@@ -1,6 +1,6 @@
-## Chapter 1: The Cost
+# Chapter 6: The Cost
 
-*66,374 words across 5 chapters*
+*65,891 words across 5 chapters*
 
 ### The Cost
 
@@ -8,11 +8,11 @@ The throne room was not a throne room anymore. It was a hospital ward, a war cou
 
 ### Rebuilding
 
-Elyra was silent for a moment, her silver aura flickering gently. Then she spoke. "The Hummans are merchants. They understand debt. They understand leverage. They understand that a contract signed und...
+Elyra entered with the quiet grace of Flowing Water. The Motted Paw foreign advisor moved across the polished stone and inclined her head toward the throne. "Your Highness. You wish to discuss reparat...
 
 ### The Vision
 
-A third claw. "Third, legal authority. The office must be able to intercept correspondence, monitor foreign delegations, and detain suspected spies without public trial. This will be controversial. Th...
+She set down her stylus and began to speak with the precision of someone who had been planning this recommendation for months. "The Council of the Untrustworthy should be the core of the new office. W...
 
 ### The Road Begins
 
@@ -20,5 +20,5 @@ A third claw. "Third, legal authority. The office must be able to intercept corr
 
 ### Epilogue
 
-Nikolai pulled his halberd back for a second strike. Ajani dismissed his spear entirely—the light vanishing from his paw—and the Tsar's weapon swept through empty air. For a single, breathless heartbe...
+Nikolai switched to a wide sweep, the halberd's blade cutting a glittering arc through the morning air. Ajani jumped, the halberd passing beneath him, and the Tsar's stern face split in a fierce grin....
 

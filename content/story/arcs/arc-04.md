@@ -1,6 +1,6 @@
 # Chapter 4: The Consolidation
 
-*59,335 words across 6 chapters*
+*59,274 words across 6 chapters*
 
 ### Bureaucracy
 
@@ -24,5 +24,5 @@ Seris saw the opening. She was a diplomat of thirty years, and she understood po
 
 ### Aftermath
 
-Ajani closed the grimoire and held it against his chest. The glow along his claws had steadied, warm and even. "This is still the best gift I have received today. The spear is magnificent. The fire fo...
+Every eye at the water hole was fixed on him. The Stripe Paws, who had just watched their king rip a page from a book and conjure a ball of light that exploded into green rain. The Shadow Paws, who ha...
 

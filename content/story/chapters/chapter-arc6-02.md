@@ -1,6 +1,16 @@
 ## Chapter 2: Rebuilding
 
 <div class="dialogue-block">
+<p class="speech-line">Elyra entered with the quiet grace of Flowing Water. The Motted Paw foreign advisor moved across the polished stone and inclined her head toward the throne. "Your Highness. You wish to discuss reparations from Verdantis." It was not a question. She had been listening outside the door.</p>
+</div>
+
+
+<div class="dialogue-block">
+<span class="speech">"The Hummans,"</span> Ajani said. <span class="speech">"They are wealthy. They have more than one city. They walked upon our land and deployed weapons their own codes forbid. How do we demand the reparations?"</span>
+</div>
+
+
+<div class="dialogue-block">
 Elyra was silent for a moment, her silver aura flickering gently. Then she spoke. <span class="speech">"The Hummans are merchants. They understand debt. They understand leverage. They understand that a contract signed under duress is still a contract. If you want reparations, you must first understand what you hold that they need."</span> She paused, her melodic voice carrying through the silent hall. <span class="speech">"What do you hold that they need, Your Highness?"</span>
 </div>
 
@@ -258,11 +268,6 @@ The Bright Paw elder opened his mouth, then closed it. Sylva stepped forward, he
 The hall fell silent again. The elders looked at each other. The young generals stood firm. And Ajani waited.
 
 
-<div class="dialogue-block">
-<p class="speech-line">"while they might be shielding you, I am sure every single general here knew the troops were missing,  step forward, who was in charge of the three here ?, and blackpaws you have my personal thanks you did not waiver and sent a full legion, you are the example of what the other families should be"</p>
-</div>
-
-
 The hall fell silent. The young generals stood at the foot of the throne—M'rak, Reva, Yvaria—the three who had brought what they could, who had ridden through the night, who had fought on the wall while the legions stayed in their barracks.
 
 
@@ -290,7 +295,7 @@ Ajani looked at the three older generals for a long moment. Then he turned to Ze
 
 
 <div class="dialogue-block">
-<p class="speech-line">"Blackpaws. You have my personal thanks. You did not waver. You sent a full legion. You are the example of what the other families should be."</p>
+<p class="speech-line">"Shadow Paws. You have my personal thanks. You did not waver. You sent a full legion. You are the example of what the other families should be."</p>
 </div>
 
 
@@ -970,9 +975,4 @@ Vasha's stylus paused. For the first time since the war began, the spymaster loo
 
 <div class="dialogue-block">
 <span class="speech">"The Shadow Office,"</span> she said, her voice flat but carrying the faintest edge of satisfaction. <span class="speech">"That is what it should be called. Not the intelligence office. The Shadow Office. The name will remind everyone that the crown's eyes are always watching, even when the sun is high."</span>
-</div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">She set down her stylus and began to speak with the precision of someone who had been planning this recommendation for months. "The Council of the Untrustworthy should be the core of the new office. We are already operational. We have networks in every family, contacts in every delegation, sources in the Humman quarter and the Pyrinae district. But we are small. Five members, a handful of operatives, no dedicated funding beyond what we can skim from the Council's discretionary budget. To become a true intelligence office, we need three things: staff, funding, and legal authority."</p>
 </div>

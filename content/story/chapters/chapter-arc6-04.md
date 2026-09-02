@@ -380,11 +380,6 @@ Anastasia looked at Pearl, who was now making a soft, rumbling sound that was al
 
 
 <div class="dialogue-block">
-Before they have taken ten paces Kira takes out her Wooden saber and shouts <span class="speech">"TAKE THAT BACK!, NO ONE CAN BEST AJANI!!"</span>, then Ivan takes out a small ceremonial dagger <span class="speech">"of course they can! Brother bested him daily for six months!!!"</span> The family watches this unfold slightly amused, Nikolai voices boom <span class="speech">"you truly are a wengari southern princess, why don't you spar in the arena ? Well watch"</span> in his mind already planning the wedding all of his children are single it's not wrong for a father to dream right ? Anastasia has surprisingly similar thoughts
-</div>
-
-
-<div class="dialogue-block">
 <p class="speech-line">Kira's paw tightened around the wooden saber. Her dark eyes blazed with the same fierce intensity that had carried her through the streets of the capital, through the assassination attempt, through the war. "Take that back! No one can best Ajani!"</p>
 </div>
 
@@ -571,11 +566,6 @@ Nikolai's laugh boomed through the corridor, even louder than before. Cefiro clo
 
 <div class="dialogue-block">
 <p class="speech-line">Kira raised her wooden saber. "Ajani's are better. Let's go to the arena. I'll prove it."</p>
-</div>
-
-
-<div class="dialogue-block">
-In the arena Kira remembers ajanis teachings <span class="speech">"most think the saber is like a tide wolf, fast, hard, destructive, but I was stuck fighting iris serpents for a year!! "</span> He shudders at the memory and continues <span class="speech">"And I tell you it is like a serpent, treacherous, annoying and poisonous, this is my faith form, serpents fang!"</span>, and also liras teachings <span class="speech">"you are a Shadow Paw, the right points are you're both right, there is no honor in death, only in living another day"</span>, she prepares her stance while the silverpelts take their places along the arena
 </div>
 
 
@@ -1233,3 +1223,5 @@ They are not plotting revenge; they are calculating survival. The legion prepari
 Nikolai had been waiting for this moment since Cefiro first told him of the White Dawn. The massive Tsar launched himself from the snow wurm before it had fully stopped moving, his great halberd materializing in his paws with a flash of frozen light, the runic patterns along its blade blazing with ancient power. He crossed the distance to Ajani in three thunderous strides, his roar echoing across the silent gate.
 
 The halberd came down with the force of a collapsing glacier, and Ajani's light spear materialized just in time to meet it. The clash of ice and light sent a shockwave rippling across the sand. The ground beneath Ajani's paws fractured, cracks spider-webbing outward from the impact, but he did not move. He held his ground, the diadem's gem blazing on his brow, his green-flecked eyes locked on Nikolai's pale blue ones.
+
+Nikolai pulled his halberd back for a second strike. Ajani dismissed his spear entirely—the light vanishing from his paw—and the Tsar's weapon swept through empty air. For a single, breathless heartbeat, Nikolai was off balance, his momentum carrying him forward, his pale blue eyes widening with surprise. He recovered instantly, thrusting the halberd forward, but Ajani was already dodging—not backward, but sideways, his body flowing around the strike like water around stone.

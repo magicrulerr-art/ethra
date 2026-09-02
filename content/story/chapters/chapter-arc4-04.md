@@ -238,16 +238,12 @@ A soft sound came from the shadows behind Ajani—a quiet, almost imperceptible 
 She turned her one good eye toward Kira, who had gone very still at the sight of the two assassins. <span class="speech">"You are Shadow Paw. You bear the blood of the Black Fire. And you have been living on the streets while your elders did not know you existed."</span> Her voice was quiet, but there was something in it—not anger, not quite, but something close to grief. <span class="speech">"That is a failure. Not yours. Ours."</span>
 </div>
 
-<div class="dialogue-block">
-'we have so much work to do... sigh' - <span class="speech">"your name was Kira right?, I always wanted a sister you know? or a brother... or any other kid around... you're an orphan, from now on, you are Kira Brightmane, my sister, here"</span> , 'God this hurts!, L'vat never flinched when he opened his palm' - <span class="speech">"scratch your paw lightly with your claws, only to draw blood and mix it with mine"</span>
-</div>
-
 The green fire flared along Ajani's claws as he drew one sharp point across his own palm. The cut was clean, precise—a line of bright blood welling up against the golden fur. He winced, just slightly, and a flicker of pain — or memory — crossed his face.
 
 Kira stared at him, her dark eyes wide with an emotion she had not felt in three years. She had been prepared for punishment. She had been prepared for death. She had not been prepared for this. The king—the White Dawn, the heir of the Lightbringer, the most powerful Wengari on Ethra—was offering her his blood. His name. His family.
 
 <div class="dialogue-block">
-<span class="speech">"Your paw,"</span> Ajani said, his voice quieter now, the fire dimming to a faint, steady glow. <span class="speech">"Just a scratch. Enough to draw blood. Then mix it with mine. It's an old ritual. My father taught me. He said it was the way the first Wengari made pacts, before the cities, before the pact, before any of this. Blood for blood. Name for name. You're not alone anymore, Kira. You're my sister. You're a Brightmane. That means something. That means you belong."</span>
+<span class="speech">"Your paw,"</span> Ajani said, his voice quieter now, the fire dimming to a faint, steady glow. <span class="speech">"Just a scratch. Enough to draw blood. Then mix it with mine. It's an old ritual. My father taught me. He said it was the way the first Wengari made pacts, before the cities, before the pact, before any of this. Blood for blood. Name for name. I always wanted a sister, you know. Or a brother... or any other kid around. You're not alone anymore, Kira. You're my sister. You're a Brightmane. That means something. That means you belong."</span>
 </div>
 
 Sera stood motionless in the shadows, her ruined face still. The silent male Shadow Paw beside her had not moved, but his dark eyes were fixed on the cub with an intensity that spoke of something deeper than mere observation. They were both Shadow Paws. They both knew what it meant for a child of their blood to be claimed by the king himself—not merely as a ward, not merely as a servant, but as family.

@@ -1,7 +1,5 @@
 ## Chapter 5: Epilogue
 
-Nikolai pulled his halberd back for a second strike. Ajani dismissed his spear entirely—the light vanishing from his paw—and the Tsar's weapon swept through empty air. For a single, breathless heartbeat, Nikolai was off balance, his momentum carrying him forward, his pale blue eyes widening with surprise. He recovered instantly, thrusting the halberd forward, but Ajani was already dodging—not backward, but sideways, his body flowing around the strike like water around stone.
-
 Nikolai switched to a wide sweep, the halberd's blade cutting a glittering arc through the morning air. Ajani jumped, the halberd passing beneath him, and the Tsar's stern face split in a fierce grin. He had been testing the boy. The boy was good. He thrust upward, changing direction with the speed of a warrior who had been fighting for longer than most Wengari had been alive. But Ajani was already summoning his staff—the grandfather, the fourth pillar—and he used it to parry the halberd's upward thrust.
 
 The force of the parry drove the halberd down, its blade biting into the sand, and by the time Nikolai lifted it, Ajani was already descending. The ji materialized in his paws—the weapon of the Deep, the blade of green fire, the form he had not yet mastered but had learned to trust. He landed on the shaft of the halberd, his weight pinning it to the ground, and the tip of the ji came to rest gently against Nikolai's throat.
