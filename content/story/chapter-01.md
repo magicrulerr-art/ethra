@@ -162,7 +162,7 @@ The light in his hand died. The chamber fell into deeper shadow.
 
 
 <div class="dialogue-block">
-<p class="speech-line">"The pact was written in the soul of the Convergence. It was a promise made by Uthgar Lightbringer, the Third Tyrant, to the super-organisms of this world. And only a Convergence-touched can renew it."</p>
+<p class="speech-line">"The pact was written in the soul of the Convergence. It was a promise made by Uthgar Lightbringer, the Third Tyrant, to the ancient ones of this world. And only a Convergence-touched can renew it."</p>
 </div>
 
 
@@ -289,7 +289,7 @@ He reached out with his right hand—the one that still worked—and placed it g
 The lamps flickered. The Lament hummed. And the king waited for his son's answer.
 
 
-The Wengari are not a long-lived race by nature. Even with their Steadfast adaptation and Aura mastery, a lifespan of 50-70 years is typical. The Pyrinae, with their patient, energy-efficient sorcery, might reach 100-120. The Dragari, with their forced Steadfast adaptation via the Sea Marsh, reach similar spans. Only the truly ancient—the Auruchs, the super-organisms, perhaps some Deep-Watchers—measure their lives in millennia.
+The Wengari are not a long-lived race by nature. Even with their Steadfast adaptation and Aura mastery, a lifespan of 50-70 years is typical. The Pyrinae, with their patient, energy-efficient sorcery, might reach 100-120. The Dragari, with their forced Steadfast adaptation via the Sea Marsh, reach similar spans. Only the truly ancient—the Auruchs, the ancient ones, perhaps some Deep-Watchers—measure their lives in millennia.
 
 
 Uthgard IX, at 473 years old, is an anomaly. He has survived two full Crimson Tides—a feat almost unheard of for a Wengari. His longevity is not natural; it is a side effect of the Lightbringer's bloodline, the residual Convergence energy that lingers in the royal family. The same gift that allows the king to conjure the Four Pillars also stretches his lifespan far beyond his kin. But it is not immortality. It is a slow, drawn-out fading, and Uthgard is at the end of it.
@@ -586,7 +586,7 @@ The blossom drew back, and the voice hardened—not with anger, but with the slo
 The pool rippled, and the image shifted again—this time showing the Rune-Belt, its forests and grasslands, its Tide Wolves and Lotus Blooms, its Wengari nomads and Humman caravans. And then, slowly, roots began to creep into the image. Green shoots pushing through the soil. The landscape transforming.
 
 
-*"If I accept your offer—if I extend my roots beyond the desert—there will be consequences. The Rune-Belt will not remain as it is. The other super-organisms will notice. They may respond. The balance your Lightbringer sought to maintain may finally, irreversibly, break. Are you prepared for that, Ajani Brightmane? Are you prepared to be the one who changed the world?"*
+*"If I accept your offer—if I extend my roots beyond the desert—there will be consequences. The Rune-Belt will not remain as it is. The other ancient ones will notice. They may respond. The balance your Lightbringer sought to maintain may finally, irreversibly, break. Are you prepared for that, Ajani Brightmane? Are you prepared to be the one who changed the world?"*
 
 
 The blossom fell silent. The roots waited. The amber pool reflected the young king's face, waiting for his answer.
@@ -637,7 +637,7 @@ The amber pool rippled, and a new image formed. Not a vision of the future, but 
 Ajani saw the Rune-Belt as it was millennia ago, before the Wengari, before the Bright Paws, before the pact. He saw a figure walking among the trees—a figure wreathed in shadow, its form indistinct, its eyes burning with a cold, distant light. And he saw the figure raise its hand, and the forest *twist*. The Tide Wolves howled in agony. The Lotus Blooms withered. The very soil recoiled.
 
 
-*"The one you seek to broker peace with... is the one who broke the world before the Tyrants ever walked it. He is the reason the super-organisms do not trust each other. He is the reason we hide. He is the reason the Lightbringer made the pact—not to save your people, but to build a wall against what dwells in the heart of the Rune-Belt. And Velarius... your Fifth Tyrant... did not wound him. He woke him."*
+*"The one you seek to broker peace with... is the one who broke the world before the Tyrants ever walked it. He is the reason the ancient ones do not trust each other. He is the reason we hide. He is the reason the Lightbringer made the pact—not to save your people, but to build a wall against what dwells in the heart of the Rune-Belt. And Velarius... your Fifth Tyrant... did not wound him. He woke him."*
 
 
 The image faded, and the Tree's voice dropped to a whisper.
