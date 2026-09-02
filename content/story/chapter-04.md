@@ -936,13 +936,15 @@ She paused at the edge of the dais, glancing back over her shoulder. <span class
 
 She turned and walked toward the great bronze doors, her silver-chased ceremonial armor gleaming in the amber light. The king had laughed at her—she had heard the laughter in his voice, even if he had not spoken it aloud. She did not mind. The laughter of a king who was also a teacher was a gift. She would repay it by learning. And by ensuring that the next time the Hummans tried to deceive the throne, the regent would see it before the king did.
 
-Ajani said nothing. He walked slowly around the fire foot, his green-flecked eyes tracing the familiar lines of her scales, the particular angle of her tail, the small scar above her left foreleg where a thorn had caught her in the Flickermarch. He had not seen her since he left the marshes. He had not known she was alive.
+Ajani stood alone in the silent hall for a long moment after the great bronze doors closed. Then he left the throne to its quiet and walked out into the palace gardens, where the water channels ran cool and clear.
 
-<div class="dialogue-block">
-<span class="speech">"She carried you for a year,"</span> Korr said. <span class="speech">"Through the Flickermarch. Through the deep desert. Through places no fire foot should have survived. When we lost the caravan—when the others died—she kept going. She kept you going. I think—"</span> He paused, his rough voice softening. <span class="speech">"I think the lord of the marsh watched over her. The same green light that flickers along your claws. She carried that light for a year. She carries it still."</span>
-</div>
+He had been told to take a brief refreshment. The Veylar and the Thrax delegations were waiting. But his paws carried him deeper into the green places of the palace, his green-flecked eyes moving over the shadows without settling on anything.
 
-Ajani reached out and placed his paw against Ember's flank. The fire foot rumbled, a low, throaty sound that was not fear and not warning, but recognition. The green fire flickered along his claws, and Ember's scales shimmered in answer, a faint, answering glow that rose from her skin like mist from still water.
+Somewhere out beyond the walls was a pale fire foot with white stripes along her flanks. Ember. The one who had carried him through the marshes, who had kept him breathing through the long year on the road. He had not seen her since he left the marshes. He had not known she was alive.
+
+'If she made it out,' he thought, 'someone would have seen her. A lizard that fast does not go unnoticed.'
+
+But no one had spoken of her. The handlers talked of breeding schedules and tournament odds, and the caravans came and went, and not one of them carried word of a pale fire foot with the Ghost Wind's speed. So the king wandered the gardens with his question, and let the desert keep its answer a little while longer.
 
 Three weeks passed.
 
@@ -2149,6 +2151,10 @@ Vasha made a small, noncommittal sound — agreement or disapproval; Vasha never
 
 <div class="dialogue-block">
 <p class="speech-line">Zara stepped forward, her massive frame moving with the easy confidence of a chief who had trained champions for forty years. "The Stripe Paws offer this gift. Not as tribute. Not as politics. As family. Your mother was one of us. You rode with our caravans for three years. Ember is yours. She has always been yours. We are only returning what was already given."</p>
+</div>
+
+<div class="dialogue-block">
+<span class="speech">"She carried you for a year,"</span> Korr said. <span class="speech">"Through the Flickermarch. Through the deep desert. Through places no fire foot should have survived. When we lost the caravan—when the others died—she kept going. She kept you going. I think—"</span> He paused, his rough voice softening. <span class="speech">"I think the lord of the marsh watched over her. The same green light that flickers along your claws. She carried that light for a year. She carries it still."</span>
 </div>
 
 <div class="dialogue-block">

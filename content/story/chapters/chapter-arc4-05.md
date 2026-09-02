@@ -1,7 +1,5 @@
 ## Chapter 5: The Gifts
 
-Ajani stood at the center of the dais, one paw resting on Kira's shoulder, green flame glowing softly along his claws. He had said what needed to be said. He had made the proclamation. The entire hall—Bright Paw guards, Shadow Paw assassins, servants, scribes, priests—had heard him claim the Shadow Paw cub as his sister. Now it was Kira's turn. He did not prompt her. He did not whisper advice. He simply waited, his green-flecked eyes moving from the trembling Humman delegation to the small, dark-furred cub at his side.
-
 Seris saw the opening. She was a diplomat of thirty years, and she understood power even when it wore the face of a six-year-old child. The king had given his sister the power of life and death over the Humman delegation. The king had not told her what to do with it. If Seris could sway the cub, she could save her people. If she failed, they would all follow the dead merchant to the eastern gate—or worse.
 
 <div class="dialogue-block">
@@ -294,6 +292,10 @@ Vasha made a small, noncommittal sound — agreement or disapproval; Vasha never
 </div>
 
 <div class="dialogue-block">
+<span class="speech">"She carried you for a year,"</span> Korr said. <span class="speech">"Through the Flickermarch. Through the deep desert. Through places no fire foot should have survived. When we lost the caravan—when the others died—she kept going. She kept you going. I think—"</span> He paused, his rough voice softening. <span class="speech">"I think the lord of the marsh watched over her. The same green light that flickers along your claws. She carried that light for a year. She carries it still."</span>
+</div>
+
+<div class="dialogue-block">
 <p class="speech-line">Ajani raised his head. His golden eyes were bright, and the light along his claws had settled into a warm, even glow. "I accept this gift. I accept it as family. Thank you, Zara. Thank you, Korr. Thank you, Vasha, for delaying the ambassador's messages and winning the race. You may now stop being angry about the three offices."</p>
 </div>
 
@@ -515,8 +517,4 @@ Elyra was silent for a long moment. Her silver aura flickered, and her melodic v
 
 <div class="dialogue-block">
 <p class="speech-line">Elyra inclined her elegant head. "The Motted Paws will ask it. We have been patient for five thousand years. We can be patient a little longer."</p>
-</div>
-
-<div class="dialogue-block">
-<p class="speech-line">Ajani closed the grimoire and held it against his chest. The glow along his claws had steadied, warm and even. "This is still the best gift I have received today. The spear is magnificent. The fire foot is beloved. The daggers are precious. But this—this is a piece of the future."</p>
 </div>

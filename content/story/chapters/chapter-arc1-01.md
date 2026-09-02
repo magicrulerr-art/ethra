@@ -161,5 +161,5 @@ The light in his hand died. The chamber fell into deeper shadow.
 
 
 <div class="dialogue-block">
-<p class="speech-line">"The pact was written in the soul of the Convergence. It was a promise made by Uthgar Lightbringer, the Third Tyrant, to the super-organisms of this world. And only a Convergence-touched can renew it."</p>
+<p class="speech-line">"The pact was written in the soul of the Convergence. It was a promise made by Uthgar Lightbringer, the Third Tyrant, to the ancient ones of this world. And only a Convergence-touched can renew it."</p>
 </div>

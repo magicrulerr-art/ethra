@@ -9,7 +9,7 @@ The blossom drew back, and the voice hardened—not with anger, but with the slo
 The pool rippled, and the image shifted again—this time showing the Rune-Belt, its forests and grasslands, its Tide Wolves and Lotus Blooms, its Wengari nomads and Humman caravans. And then, slowly, roots began to creep into the image. Green shoots pushing through the soil. The landscape transforming.
 
 
-*"If I accept your offer—if I extend my roots beyond the desert—there will be consequences. The Rune-Belt will not remain as it is. The other super-organisms will notice. They may respond. The balance your Lightbringer sought to maintain may finally, irreversibly, break. Are you prepared for that, Ajani Brightmane? Are you prepared to be the one who changed the world?"*
+*"If I accept your offer—if I extend my roots beyond the desert—there will be consequences. The Rune-Belt will not remain as it is. The other ancient ones will notice. They may respond. The balance your Lightbringer sought to maintain may finally, irreversibly, break. Are you prepared for that, Ajani Brightmane? Are you prepared to be the one who changed the world?"*
 
 
 The blossom fell silent. The roots waited. The amber pool reflected the young king's face, waiting for his answer.
@@ -60,7 +60,7 @@ The amber pool rippled, and a new image formed. Not a vision of the future, but 
 Ajani saw the Rune-Belt as it was millennia ago, before the Wengari, before the Bright Paws, before the pact. He saw a figure walking among the trees—a figure wreathed in shadow, its form indistinct, its eyes burning with a cold, distant light. And he saw the figure raise its hand, and the forest *twist*. The Tide Wolves howled in agony. The Lotus Blooms withered. The very soil recoiled.
 
 
-*"The one you seek to broker peace with... is the one who broke the world before the Tyrants ever walked it. He is the reason the super-organisms do not trust each other. He is the reason we hide. He is the reason the Lightbringer made the pact—not to save your people, but to build a wall against what dwells in the heart of the Rune-Belt. And Velarius... your Fifth Tyrant... did not wound him. He woke him."*
+*"The one you seek to broker peace with... is the one who broke the world before the Tyrants ever walked it. He is the reason the ancient ones do not trust each other. He is the reason we hide. He is the reason the Lightbringer made the pact—not to save your people, but to build a wall against what dwells in the heart of the Rune-Belt. And Velarius... your Fifth Tyrant... did not wound him. He woke him."*
 
 
 The image faded, and the Tree's voice dropped to a whisper.

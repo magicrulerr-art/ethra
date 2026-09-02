@@ -472,3 +472,5 @@ She paused at the edge of the dais, glancing back over her shoulder. <span class
 </div>
 
 She turned and walked toward the great bronze doors, her silver-chased ceremonial armor gleaming in the amber light. The king had laughed at her—she had heard the laughter in his voice, even if he had not spoken it aloud. She did not mind. The laughter of a king who was also a teacher was a gift. She would repay it by learning. And by ensuring that the next time the Hummans tried to deceive the throne, the regent would see it before the king did.
+
+Ajani stood alone in the silent hall for a long moment after the great bronze doors closed. Then he left the throne to its quiet and walked out into the palace gardens, where the water channels ran cool and clear.

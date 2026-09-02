@@ -1,12 +1,12 @@
 ## Chapter 3: The Pyrinae Accord
 
-Ajani said nothing. He walked slowly around the fire foot, his green-flecked eyes tracing the familiar lines of her scales, the particular angle of her tail, the small scar above her left foreleg where a thorn had caught her in the Flickermarch. He had not seen her since he left the marshes. He had not known she was alive.
+He had been told to take a brief refreshment. The Veylar and the Thrax delegations were waiting. But his paws carried him deeper into the green places of the palace, his green-flecked eyes moving over the shadows without settling on anything.
 
-<div class="dialogue-block">
-<span class="speech">"She carried you for a year,"</span> Korr said. <span class="speech">"Through the Flickermarch. Through the deep desert. Through places no fire foot should have survived. When we lost the caravan—when the others died—she kept going. She kept you going. I think—"</span> He paused, his rough voice softening. <span class="speech">"I think the lord of the marsh watched over her. The same green light that flickers along your claws. She carried that light for a year. She carries it still."</span>
-</div>
+Somewhere out beyond the walls was a pale fire foot with white stripes along her flanks. Ember. The one who had carried him through the marshes, who had kept him breathing through the long year on the road. He had not seen her since he left the marshes. He had not known she was alive.
 
-Ajani reached out and placed his paw against Ember's flank. The fire foot rumbled, a low, throaty sound that was not fear and not warning, but recognition. The green fire flickered along his claws, and Ember's scales shimmered in answer, a faint, answering glow that rose from her skin like mist from still water.
+'If she made it out,' he thought, 'someone would have seen her. A lizard that fast does not go unnoticed.'
+
+But no one had spoken of her. The handlers talked of breeding schedules and tournament odds, and the caravans came and went, and not one of them carried word of a pale fire foot with the Ghost Wind's speed. So the king wandered the gardens with his question, and let the desert keep its answer a little while longer.
 
 Three weeks passed.
 
@@ -461,3 +461,5 @@ The Wengari were now being given a different lie—a lie that made them feel cho
 But it was still a lie. And lies could be used.
 
 She turned away from the fountain and walked slowly back toward the Humman quarter, her diplomatic robes stirring the dust at her feet. The Golden Sun had chosen the Wengari. The Golden Sun had promised to make them strong. But the Hummans had survived five hundred years of shame by learning to be indispensable. The tournament had made them indispensable. The road would make them more so. And if the Golden Sun was real—if there truly was something beneath the desert that fed on aura and favored the strong—then the Hummans would simply have to become strong enough to be noticed.
+
+She did not believe in gods. She believed in leverage. And the king, for all his brilliance, had just given her more leverage than she had ever possessed. The Golden Sun chose pilgrims. The pilgrims walked the harshest path. The strong survived. The weak died. It was a test. And the Hummans, who had been tested for five hundred years and were still standing, understood tests better than anyone.

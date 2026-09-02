@@ -123,7 +123,7 @@ He reached out with his right hand—the one that still worked—and placed it g
 The lamps flickered. The Lament hummed. And the king waited for his son's answer.
 
 
-The Wengari are not a long-lived race by nature. Even with their Steadfast adaptation and Aura mastery, a lifespan of 50-70 years is typical. The Pyrinae, with their patient, energy-efficient sorcery, might reach 100-120. The Dragari, with their forced Steadfast adaptation via the Sea Marsh, reach similar spans. Only the truly ancient—the Auruchs, the super-organisms, perhaps some Deep-Watchers—measure their lives in millennia.
+The Wengari are not a long-lived race by nature. Even with their Steadfast adaptation and Aura mastery, a lifespan of 50-70 years is typical. The Pyrinae, with their patient, energy-efficient sorcery, might reach 100-120. The Dragari, with their forced Steadfast adaptation via the Sea Marsh, reach similar spans. Only the truly ancient—the Auruchs, the ancient ones, perhaps some Deep-Watchers—measure their lives in millennia.
 
 
 Uthgard IX, at 473 years old, is an anomaly. He has survived two full Crimson Tides—a feat almost unheard of for a Wengari. His longevity is not natural; it is a side effect of the Lightbringer's bloodline, the residual Convergence energy that lingers in the royal family. The same gift that allows the king to conjure the Four Pillars also stretches his lifespan far beyond his kin. But it is not immortality. It is a slow, drawn-out fading, and Uthgard is at the end of it.

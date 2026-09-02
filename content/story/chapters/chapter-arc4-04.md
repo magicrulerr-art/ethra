@@ -1,7 +1,5 @@
 ## Chapter 4: The Humman Delegation
 
-She did not believe in gods. She believed in leverage. And the king, for all his brilliance, had just given her more leverage than she had ever possessed. The Golden Sun chose pilgrims. The pilgrims walked the harshest path. The strong survived. The weak died. It was a test. And the Hummans, who had been tested for five hundred years and were still standing, understood tests better than anyone.
-
 The meditation chamber of the Pyrinae Root-Speakers was a small, circular room carved into the living stone of the eastern district. Its walls were lined with rune-glass filaments that pulsed with a soft, amber light, and its floor was covered with woven mats that smelled of old incense and ancient earth. The chamber was dark, lit only by the filaments and a single oil lamp that burned at the center of the room.
 
 Three Root-Speakers sat in a circle around the lamp, their cowls drawn low over their faces, their breathing slow and synchronized.
@@ -459,3 +457,5 @@ He swept his gaze across the Humman delegation, across the Bright Paw guards, ac
 </div>
 
 The Great Hall fell silent. The guards had dragged the dead merchant's body to Seris's feet, and the ambassador stared down at it, her diplomatic mask shattered, her dark eyes hollow with the knowledge that another of her people had died because she had failed to control them.
+
+Ajani stood at the center of the dais, one paw resting on Kira's shoulder, green flame glowing softly along his claws. He had said what needed to be said. He had made the proclamation. The entire hall—Bright Paw guards, Shadow Paw assassins, servants, scribes, priests—had heard him claim the Shadow Paw cub as his sister. Now it was Kira's turn. He did not prompt her. He did not whisper advice. He simply waited, his green-flecked eyes moving from the trembling Humman delegation to the small, dark-furred cub at his side.
