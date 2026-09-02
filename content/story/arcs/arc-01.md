@@ -1,6 +1,6 @@
 # Chapter 1: The White Dawn
 
-*9,071 words across 6 chapters*
+*9,075 words across 6 chapters*
 
 ### The White Dawn
 

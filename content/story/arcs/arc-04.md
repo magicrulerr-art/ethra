@@ -1,6 +1,6 @@
 # Chapter 4: The Consolidation
 
-*59,220 words across 6 chapters*
+*59,322 words across 6 chapters*
 
 ### Bureaucracy
 
@@ -12,17 +12,17 @@
 
 ### The Pyrinae Accord
 
-Ajani said nothing. He walked slowly around the fire foot, his green-flecked eyes tracing the familiar lines of her scales, the particular angle of her tail, the small scar above her left foreleg wher...
+He had been told to take a brief refreshment. The Veylar and the Thrax delegations were waiting. But his paws carried him deeper into the green places of the palace, his green-flecked eyes moving over...
 
 ### The Humman Delegation
 
-She did not believe in gods. She believed in leverage. And the king, for all his brilliance, had just given her more leverage than she had ever possessed. The Golden Sun chose pilgrims. The pilgrims w...
+The meditation chamber of the Pyrinae Root-Speakers was a small, circular room carved into the living stone of the eastern district. Its walls were lined with rune-glass filaments that pulsed with a s...
 
 ### The Gifts
 
-Ajani stood at the center of the dais, one paw resting on Kira's shoulder, green flame glowing softly along his claws. He had said what needed to be said. He had made the proclamation. The entire hall...
+Seris saw the opening. She was a diplomat of thirty years, and she understood power even when it wore the face of a six-year-old child. The king had given his sister the power of life and death over t...
 
 ### Aftermath
 
-Every eye at the water hole was fixed on him. The Stripe Paws, who had just watched their king rip a page from a book and conjure a ball of light that exploded into green rain. The Shadow Paws, who ha...
+Ajani closed the grimoire and held it against his chest. The glow along his claws had steadied, warm and even. "This is still the best gift I have received today. The spear is magnificent. The fire fo...
 
