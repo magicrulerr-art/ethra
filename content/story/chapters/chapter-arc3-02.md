@@ -254,8 +254,10 @@ The young maid stepped back, brush still in hand, her golden eyes bright. <span 
 </div>
 
 
+Ajani bowed. *'What did father always say? "Never cross a maid or you'll wake in rags."'*
+
 <div class="dialogue-block">
-'bow...what did father always say , <span class="speech">"never cross a maid or you'll wake in rags"</span> ' - <span class="speech">"THANK YOU , THANK YOU ALL, I MUST BE QUICK!"</span>
+<p class="speech-line">"Thank you! Thank you all — I must be quick!"</p>
 </div>
 
 

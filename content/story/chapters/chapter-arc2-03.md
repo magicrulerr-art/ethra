@@ -195,8 +195,10 @@ It swayed again, but this time it was not exhaustion. It was something closer to
 
 
 <div class="dialogue-block">
-<span class="speech">"and brother, tell L'vat, I'm coming for the thing below the belt... T'van!!!! Call the Hummans. Remember, I will only receive their best!"</span> — 'ok, summon the spear, sit on the throne, and appear regal, just as father when dealing with the crowds. It's all appearance. I remember what he always said after: <span class="speech">"Ajani, a king must be like the desert sun, warm, unflinching, unforgiving"</span>. I miss him so much...'
+<span class="speech">"And brother — tell L'vat, I'm coming for the thing below the belt... T'van! Call the Hummans. Remember, I will only receive their best!"</span>
 </div>
+
+*'Okay. Summon the spear, sit on the throne, and appear regal — just as father when dealing with the crowds. It's all appearance. I remember what he always said after: "Ajani, a king must be like the desert sun — warm, unflinching, unforgiving." I miss him so much...'*
 
 
 <div class="dialogue-block">

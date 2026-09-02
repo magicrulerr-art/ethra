@@ -116,7 +116,7 @@ The plan was set. The families were bound. The tournament would become the nexus
 
 
 <div class="dialogue-block">
-<p class="speech-line">"now this is all well and good but we still lack a lot of stuff, first of all let's lock in the format, this year was a preview next year will be grand, the tournament will be open to every race that wishes to participate with one caveat they must enter as their own, that means no Stripe Paw mercenaries or of any other kind, objections so far ?"</p>
+<p class="speech-line">"Now, this is all well and good, but we still lack a lot of stuff. First of all, let's lock in the format: this year was a preview, next year will be grand. The tournament will be open to every race that wishes to participate, with one caveat — they must enter as their own. That means no Stripe Paw mercenaries, or of any other kind. Objections so far?"</p>
 </div>
 
 Zara's paw slammed against the stone armrest before anyone else could speak. The Stripe Paw chief was on her feet, her striped mane bristling, her golden eyes blazing with the particular fury of a merchant who had just watched a monopoly evaporate.
@@ -233,7 +233,7 @@ Zara, who had been ready to argue numbers and percentages, closed her mouth. Kar
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">"now I invite questions from the elders pertaining what we have agreed so far before I continue, because that coin is already spoken for"</p>
+<p class="speech-line">"Now I invite questions from the elders pertaining to what we have agreed so far, before I continue — because that coin is already spoken for."</p>
 </div>
 
 Ajani settled back onto the cold stone of the throne. The green fire along his claws had dimmed to a faint, steady pulse—no longer flaring with the heat of combat or the frustration of bureaucracy, but simply present, patient, waiting. The elders stirred. Zara was the first to rise. The Stripe Paw chief's golden eyes were sharp with the particular hunger of a merchant who had just been handed a new market and was already calculating the margins.
@@ -416,7 +416,7 @@ Sylva spoke from the shadows beside the throne, her voice soft as ever. <span cl
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">"now for the foreign advisor, he needs to oversee every foreign delegation, our external policy, ensure the delegations are safe and keep us in line, the usual, don't eat their children, don't poison their food, don't kill them, at least those are the tales I've heard of what the other races think of us,  the task of that office is to change that perception we want to host the world and profit from them we can't do that if they think we will kill them at a moments notice I mean we will but they shouldn't be thinking of it, candidates?"</p>
+<p class="speech-line">"Now, for the foreign advisor: he needs to oversee every foreign delegation, our external policy, ensure the delegations are safe, and keep us in line. The usual — don't eat their children, don't poison their food, don't kill them. At least those are the tales I've heard of what the other races think of us. The task of that office is to change that perception. We want to host the world and profit from them; we can't do that if they think we will kill them at a moment's notice. I mean, we will — but they shouldn't be thinking of it. Candidates?"</p>
 </div>
 
 <div class="dialogue-block">
@@ -875,7 +875,7 @@ Seris did not scream. She did not weep. She knelt on the cold stone, her daughte
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">"brothers don't deceive each other, back to me shadows, your daughter will stay to serve Sylva as her maid, the deads of your kin are on your head ambassador, the next time you try this, every single one of your kin in the capital will die and then every single one in Ethra, have I made myself clear ?"</p>
+<p class="speech-line">"Brothers don't deceive each other. Back to me, shadows. Your daughter will stay to serve Sylva as her maid. The deeds of your kin are on your head, ambassador. The next time you try this, every single one of your kin in the capital will die — and then every single one in Ethra. Have I made myself clear?"</p>
 </div>
 
 Seris pressed her forehead to the cold stone. The tension that had held her rigid through the long minutes of the audience drained out of her in a single, shuddering breath. Her daughter would live. Her merchants would die. The arithmetic of survival was brutal, and she had just paid it in full.
@@ -1092,7 +1092,7 @@ The energy I would expend would take centuries to recover. The feast you offer�
 What do you offer that I do not already have?'
 
 <div class="dialogue-block">
-<span class="speech">"you're right and wrong lord of the desert, if I have them erect temples in your name, you become a brother to the strongest race on ethra, you become a test of strength, walking the path to you and surviving means one is strong, failing means you're weak, that's just the way of the desert, you get extra food every day as long as the temples stand, and more, because once one does it, others will follow, however, for this to work we need to be partners, not only reluctant allies, you need to show them you're real, somehow, you need to choose the wells with the harshest path, those where they would have died anyway, during the gathering you need to be clever, sap them when they are in the gardens or as they enter the city in parades, make them feel weak, we will blame it on the sun, and crucially no one must know you feed on them, when they reach the well you must give them a fraction of your aura, so they feel they are stronger, it's all a ruse, but it will benefit us both old thing"</span>
+<span class="speech">"You're right and wrong, lord of the desert. If I have them erect temples in your name, you become a brother to the strongest race on Ethra. You become a test of strength — walking the path to you and surviving means one is strong, failing means you're weak. That's just the way of the desert. You get extra food every day as long as the temples stand, and more, because once one does it, others will follow. However, for this to work we need to be partners, not only reluctant allies. You need to show them you're real, somehow. You need to choose the wells with the harshest path, those where they would have died anyway. During the gathering you need to be clever — sap them when they are in the gardens or as they enter the city in parades, make them feel weak, we will blame it on the sun. And crucially, no one must know you feed on them. When they reach the well you must give them a fraction of your aura, so they feel they are stronger. It's all a ruse, but it will benefit us both, old thing."</span>
 </div>
 
 The roots of the Kyre Tree pulsed in long, rolling waves, the pale green light rippling through the ancient chamber like breath through a sleeping giant. The blossom stirred, its petals unfurling slightly, and the amber pool at its heart swirled with images—not of temples or pilgrims, but of something simpler. A path through the desert. A well at the end. A creature standing before it, exhausted, triumphant, bathed in a faint green glow that felt like strength.
@@ -1116,7 +1116,7 @@ They go home and tell others, and the others come, year after year, generation a
 Not because I am benevolent. Because they are my food, and I protect what is mine.'
 
 <div class="dialogue-block">
-<p class="speech-line">"not a god, a brother, tomorrow I will make a grand announcement, that you came to me in a dream, around noon in the royal gardens, you must make yourself known them, I don't care how, just that you do and it's appropriately grand, the thing you did with the styx was awe inspiring, something like that , also your other friends can't know about our pact, if they do, it will be all for naught, all it takes one of them to blab and our plan comes crashing down, your food depends on our shared deception, now we must choose a name for you, lord of the desert sounds ominous, how about, the golden sun?"</p>
+<p class="speech-line">"Not a god — a brother. Tomorrow I will make a grand announcement: that you came to me in a dream. Around noon, in the royal gardens, you must make yourself known to them. I don't care how — just that you do, and it's appropriately grand. The thing you did with the Styx was awe-inspiring; something like that. Also, your other friends can't know about our pact. If they do, it will be all for naught — all it takes is one of them to blab and our plan comes crashing down. Your food depends on our shared deception. Now we must choose a name for you. 'Lord of the desert' sounds ominous... how about the Golden Sun?"</p>
 </div>
 
 The roots of the Kyre Tree pulsed in slow, thoughtful rhythms, the pale green light rippling through the ancient chamber like breath through a sleeping giant. The blossom stirred, and the amber pool at its heart swirled with slow satisfaction. The lord of the desert had been called many things across millions of years. Predator. Shadow. Hunger. It had never been called a brother.
@@ -1140,7 +1140,7 @@ The roots slowed, steadied, and the amber pool swirled with a new image—a sun,
 Something that belongs to the Steadfast. I am not the Steadfast. I am older than the Steadfast. I am deeper than the Steadfast. I do not give life. I take it. I take it slowly, patiently, over centuries. Call me the Golden Sun if you wish, but remember what I truly am. The shadow beneath the name. The hunger beneath the light.'
 
 <div class="dialogue-block">
-<p class="speech-line">"that's the beauty of it, the sun doesn't just give life, the sun takes life, you will be our unforgiving brother, I'll say you saw the gathering and that woke you, that you feel kinship with us and wish to reward the truly strong, that it's because of your lingering influence that the capital thrives and our wells fill, but now that you are awake you wish to commune with us, this will also allow you to pick whom you want to eat, all you'll need to do is send a sign in the capital, a glow, a sound, whatever so that one knows he's been chosen for pilgrimage, no wengari would refuse, the other races might, but that just reinforces the myth, and again if they die because you eating them, that just means they were weak, this will make only the strongest most aura rich survive, we will together become the strongest thing on ethra, as long as you keep your end of the bargain"</p>
+<p class="speech-line">"That's the beauty of it. The sun doesn't just give life — the sun takes life. You will be our unforgiving brother. I'll say you saw the gathering and that woke you. That you feel kinship with us and wish to reward the truly strong. That it's because of your lingering influence that the capital thrives and our wells fill. But now that you are awake, you wish to commune with us. This will also allow you to pick whom you want to eat. All you'll need to do is send a sign in the capital — a glow, a sound, whatever — so that one knows he's been chosen for pilgrimage. No Wengari would refuse. The other races might, but that just reinforces the myth. And again, if they die because you eat them, that just means they were weak. This will make only the strongest, most aura-rich survive. We will together become the strongest thing on Ethra — as long as you keep your end of the bargain."</p>
 </div>
 
 The roots of the Kyre Tree pulsed in slow, deliberate rhythms, the pale green light rippling through the ancient chamber like breath through a sleeping giant. The blossom stirred, and the amber pool at its heart swirled with images—not of temples or pilgrims, but of something simpler and more profound. A Wengari standing alone in the desert, bathed in a faint golden glow. Chosen. Marked. Called. The Tree was imagining what it would feel like to select its own prey.
@@ -1665,7 +1665,7 @@ She raised her paw and drew a single claw across her palm. The cut was quick, ef
 *Cheeky little...*
 
 <div class="dialogue-block">
-<p class="speech-line">"No, it means you learn to be a princess and stay endless hours cooped in the palace, me hahaha! Sera, take her, bathe her, feed her. Get Sylva to hire the best teachers for her. You thought the market was hard, just wait..."</p>
+<p class="speech-line">"No — it means you learn to be a princess, and stay endless hours cooped up in the palace with me." He laughed. "Sera, take her, bathe her, feed her. Get Sylva to hire the best teachers for her. You thought the market was hard? Just wait..."</p>
 </div>
 
 Sera inclined her head, the faintest ghost of something that might once have been a smile flickering across her ruined face. She had served the Shadow Paws for decades, had trained assassins and guarded kings, had fought in the tournament and nearly defeated her own master. She had never been asked to bathe and feed a street cub. She found that she did not mind.

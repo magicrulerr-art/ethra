@@ -1,6 +1,6 @@
 ## Chapter 1: The Cost
 
-*66,372 words across 5 chapters*
+*66,374 words across 5 chapters*
 
 ### The Cost
 

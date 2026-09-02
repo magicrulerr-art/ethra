@@ -117,7 +117,7 @@ The plan was set. The families were bound. The tournament would become the nexus
 
 
 <div class="dialogue-block">
-<p class="speech-line">"now this is all well and good but we still lack a lot of stuff, first of all let's lock in the format, this year was a preview next year will be grand, the tournament will be open to every race that wishes to participate with one caveat they must enter as their own, that means no Stripe Paw mercenaries or of any other kind, objections so far ?"</p>
+<p class="speech-line">"Now, this is all well and good, but we still lack a lot of stuff. First of all, let's lock in the format: this year was a preview, next year will be grand. The tournament will be open to every race that wishes to participate, with one caveat — they must enter as their own. That means no Stripe Paw mercenaries, or of any other kind. Objections so far?"</p>
 </div>
 
 Zara's paw slammed against the stone armrest before anyone else could speak. The Stripe Paw chief was on her feet, her striped mane bristling, her golden eyes blazing with the particular fury of a merchant who had just watched a monopoly evaporate.
@@ -234,7 +234,7 @@ Zara, who had been ready to argue numbers and percentages, closed her mouth. Kar
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">"now I invite questions from the elders pertaining what we have agreed so far before I continue, because that coin is already spoken for"</p>
+<p class="speech-line">"Now I invite questions from the elders pertaining to what we have agreed so far, before I continue — because that coin is already spoken for."</p>
 </div>
 
 Ajani settled back onto the cold stone of the throne. The green fire along his claws had dimmed to a faint, steady pulse—no longer flaring with the heat of combat or the frustration of bureaucracy, but simply present, patient, waiting. The elders stirred. Zara was the first to rise. The Stripe Paw chief's golden eyes were sharp with the particular hunger of a merchant who had just been handed a new market and was already calculating the margins.
@@ -417,7 +417,7 @@ Sylva spoke from the shadows beside the throne, her voice soft as ever. <span cl
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">"now for the foreign advisor, he needs to oversee every foreign delegation, our external policy, ensure the delegations are safe and keep us in line, the usual, don't eat their children, don't poison their food, don't kill them, at least those are the tales I've heard of what the other races think of us,  the task of that office is to change that perception we want to host the world and profit from them we can't do that if they think we will kill them at a moments notice I mean we will but they shouldn't be thinking of it, candidates?"</p>
+<p class="speech-line">"Now, for the foreign advisor: he needs to oversee every foreign delegation, our external policy, ensure the delegations are safe, and keep us in line. The usual — don't eat their children, don't poison their food, don't kill them. At least those are the tales I've heard of what the other races think of us. The task of that office is to change that perception. We want to host the world and profit from them; we can't do that if they think we will kill them at a moment's notice. I mean, we will — but they shouldn't be thinking of it. Candidates?"</p>
 </div>
 
 <div class="dialogue-block">

@@ -1,5 +1,7 @@
 ## Chapter 4: The Humman Delegation
 
+She did not believe in gods. She believed in leverage. And the king, for all his brilliance, had just given her more leverage than she had ever possessed. The Golden Sun chose pilgrims. The pilgrims walked the harshest path. The strong survived. The weak died. It was a test. And the Hummans, who had been tested for five hundred years and were still standing, understood tests better than anyone.
+
 The meditation chamber of the Pyrinae Root-Speakers was a small, circular room carved into the living stone of the eastern district. Its walls were lined with rune-glass filaments that pulsed with a soft, amber light, and its floor was covered with woven mats that smelled of old incense and ancient earth. The chamber was dark, lit only by the filaments and a single oil lamp that burned at the center of the room.
 
 Three Root-Speakers sat in a circle around the lamp, their cowls drawn low over their faces, their breathing slow and synchronized.
@@ -263,7 +265,7 @@ She raised her paw and drew a single claw across her palm. The cut was quick, ef
 *Cheeky little...*
 
 <div class="dialogue-block">
-<p class="speech-line">"No, it means you learn to be a princess and stay endless hours cooped in the palace, me hahaha! Sera, take her, bathe her, feed her. Get Sylva to hire the best teachers for her. You thought the market was hard, just wait..."</p>
+<p class="speech-line">"No — it means you learn to be a princess, and stay endless hours cooped up in the palace with me." He laughed. "Sera, take her, bathe her, feed her. Get Sylva to hire the best teachers for her. You thought the market was hard? Just wait..."</p>
 </div>
 
 Sera inclined her head, the faintest ghost of something that might once have been a smile flickering across her ruined face. She had served the Shadow Paws for decades, had trained assassins and guarded kings, had fought in the tournament and nearly defeated her own master. She had never been asked to bathe and feed a street cub. She found that she did not mind.

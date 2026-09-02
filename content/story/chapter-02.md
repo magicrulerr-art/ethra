@@ -638,8 +638,10 @@ It swayed again, but this time it was not exhaustion. It was something closer to
 
 
 <div class="dialogue-block">
-<span class="speech">"and brother, tell L'vat, I'm coming for the thing below the belt... T'van!!!! Call the Hummans. Remember, I will only receive their best!"</span> — 'ok, summon the spear, sit on the throne, and appear regal, just as father when dealing with the crowds. It's all appearance. I remember what he always said after: <span class="speech">"Ajani, a king must be like the desert sun, warm, unflinching, unforgiving"</span>. I miss him so much...'
+<span class="speech">"And brother — tell L'vat, I'm coming for the thing below the belt... T'van! Call the Hummans. Remember, I will only receive their best!"</span>
 </div>
+
+*'Okay. Summon the spear, sit on the throne, and appear regal — just as father when dealing with the crowds. It's all appearance. I remember what he always said after: "Ajani, a king must be like the desert sun — warm, unflinching, unforgiving." I miss him so much...'*
 
 
 <div class="dialogue-block">
@@ -758,8 +760,10 @@ The ambassador alone remained, her face pale but her jaw set.
 
 
 <div class="dialogue-block">
-<p class="speech-line">"Aren't we presumptuous? It was you who asked for a meeting, I have little patience and even less time, speak" <span class="speech-attr">, 'now, the claw tap, father didn't last 473 years on the throne without learning a thing or two'</span></p>
+<p class="speech-line">"Aren't we presumptuous? It was you who asked for a meeting. I have little patience and even less time. Speak."</p>
 </div>
+
+*'Now, the claw tap... father didn't last 473 years on the throne without learning a thing or two.'*
 
 
 The claw tap. Slow. Rhythmic. A sound that had echoed through the Hall of the Sun for four hundred and seventy-three years under Uthgard IX, and now echoed again under his son.
@@ -790,8 +794,10 @@ The claw tap stopped.
 
 
 <div class="dialogue-block">
-<p class="speech-line">"how laughable, does the sun stop in the sky for the flowers, Humman? Does the Styx stop hunting because the razor hares find it inconvenient? Since when do the prey feel confident enough to ask the predator for assurances?!" <span class="speech-attr">— 'this is hard, I want to laugh, how did father do this for so many years?'</span></p>
+<p class="speech-line">"How laughable. Does the sun stop in the sky for the flowers, Humman? Does the Styx stop hunting because the razor hares find it inconvenient? Since when do the prey feel confident enough to ask the predator for assurances?"</p>
 </div>
+
+*'This is hard. I want to laugh... how did father do this for so many years?'*
 
 
 Seris flinched. The claw tap had stopped, and in its place was the full, terrible weight of the White Dawn's attention. She had been a diplomat for thirty years. She had negotiated with Stripe Paw warlords and Pyrinae Hydromancers and once, memorably, with a Shadow Paw assassin who had been hired to kill her and had decided to hear her counter-offer first. She had never felt as small as she felt now.
@@ -956,7 +962,7 @@ She stopped at the foot of the throne's dais, her clouded eyes level with his. <
 
 
 <div class="dialogue-block">
-<p class="speech-line">"do you think me a fool? Three thousand years waiting to serve? Did father ever fall for such lofty words? I might be a young king, but I am king. You either treat me with respect or your race dies tonight. Don't make me repeat myself"</p>
+<p class="speech-line">"Do you think me a fool? Three thousand years waiting to serve? Did father ever fall for such lofty words? I might be a young king, but I am king. You either treat me with respect or your race dies tonight. Don't make me repeat myself."</p>
 </div>
 
 
@@ -1194,8 +1200,10 @@ She stopped at the center of the arena, exactly where the other delegations had 
 
 
 <div class="dialogue-block">
-<p class="speech-line">"Sylara of the Veylar, Warden of the Tides, this humble king salutes the only race who hasn't been bested by the glory of the Wengari. Please speak, how can this king help the Veylar?" <span class="speech-attr">— 'she does smell like salt... humid, nothing like us'</span></p>
+<p class="speech-line">"Sylara of the Veylar, Warden of the Tides — this humble king salutes the only race who hasn't been bested by the glory of the Wengari. Please speak: how can this king help the Veylar?"</p>
 </div>
+
+*'She does smell like salt... humid, nothing like us.'*
 
 
 Sylara inclined her head. Her fin-ridges rippled faintly, tasting the air, reading the currents of heat and pressure that surrounded the throne. When she spoke, her voice was the gentle lap of water against stone, but beneath it lay something deeper—the patient, inexorable pull of the tide.
@@ -1322,7 +1330,7 @@ She extended her webbed hand once more, and the sphere of water that had hovered
 
 
 <div class="dialogue-block">
-<p class="speech-line">"no, I will send Humman envoys guarded by my people to shore, so we can cut the time in half. No objections to that, correct?"</p>
+<p class="speech-line">"No — I will send Humman envoys guarded by my people to shore, so we can cut the time in half. No objections to that, correct?"</p>
 </div>
 
 

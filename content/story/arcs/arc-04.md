@@ -1,6 +1,6 @@
 # Chapter 4: The Consolidation
 
-*59,319 words across 6 chapters*
+*59,335 words across 6 chapters*
 
 ### Bureaucracy
 
@@ -16,7 +16,7 @@ He had been told to take a brief refreshment. The Veylar and the Thrax delegatio
 
 ### The Humman Delegation
 
-The meditation chamber of the Pyrinae Root-Speakers was a small, circular room carved into the living stone of the eastern district. Its walls were lined with rune-glass filaments that pulsed with a s...
+She did not believe in gods. She believed in leverage. And the king, for all his brilliance, had just given her more leverage than she had ever possessed. The Golden Sun chose pilgrims. The pilgrims w...
 
 ### The Gifts
 
@@ -24,5 +24,5 @@ Seris saw the opening. She was a diplomat of thirty years, and she understood po
 
 ### Aftermath
 
-Every eye at the water hole was fixed on him. The Stripe Paws, who had just watched their king rip a page from a book and conjure a ball of light that exploded into green rain. The Shadow Paws, who ha...
+Ajani closed the grimoire and held it against his chest. The glow along his claws had steadied, warm and even. "This is still the best gift I have received today. The spear is magnificent. The fire fo...
 

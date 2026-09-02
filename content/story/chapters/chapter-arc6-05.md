@@ -581,10 +581,10 @@ Sylva stepped forward once more, her silver-chased armor gleaming in the morning
 </div>
 
 
-The crowd stirred. This was unexpected. The Humman general who had defected, who had ridden through her own lines with her hands raised, who had brought a hundred civilians to the wall—she was being called before the throne. The Wengari watched with curiosity. The Human refugees watched with something closer to disbelief.
+The crowd stirred. This was unexpected. The Humman general who had defected, who had ridden through her own lines with her hands raised, who had brought a hundred civilians to the wall—she was being called before the throne. The Wengari watched with curiosity. The Humman refugees watched with something closer to disbelief.
 
 
-Tamsin walked through the assembled ranks, and the crowd parted for her. Her scarred face was set, her dark eyes forward, her back straight. She had been a general of the Human army. She had served a king she despised. She had defected when she saw the Plague weapons fire, and she had fought alongside the Wengari ever since. She stopped before the throne and knelt. Her chains were gone, removed weeks ago, but the memory of them still lingered in the way she held her wrists. She was not Wengari. She would never be Wengari. But she had earned her place among them.
+Tamsin walked through the assembled ranks, and the crowd parted for her. Her scarred face was set, her dark eyes forward, her back straight. She had been a general of the Humman army. She had served a king she despised. She had defected when she saw the Plague weapons fire, and she had fought alongside the Wengari ever since. She stopped before the throne and knelt. Her chains were gone, removed weeks ago, but the memory of them still lingered in the way she held her wrists. She was not Wengari. She would never be Wengari. But she had earned her place among them.
 
 
 Ajani looked down at her, and when he spoke, his voice was quieter than it had been for the Heavenly Generals. This was not a warrior of the Wengari. This was something rarer.
@@ -595,7 +595,7 @@ Ajani looked down at her, and when he spoke, his voice was quieter than it had b
 </div>
 
 
-The crowd erupted. This was not the thunderous roar that had greeted the Heavenly Generals. This was something sharper, something that carried the weight of old hatreds and new alliances colliding. The Wengari soldiers who had fought alongside Tamsin on the wall were cheering. The Human refugees in the plaza were weeping openly. Seris, standing near the back of the atrium, had her dark eyes fixed on Tamsin with an expression that was not quite pride and not quite grief.
+The crowd erupted. This was not the thunderous roar that had greeted the Heavenly Generals. This was something sharper, something that carried the weight of old hatreds and new alliances colliding. The Wengari soldiers who had fought alongside Tamsin on the wall were cheering. The Humman refugees in the plaza were weeping openly. Seris, standing near the back of the atrium, had her dark eyes fixed on Tamsin with an expression that was not quite pride and not quite grief.
 
 Her people had been enemies. Her people had been broken. And now one of her own was being honored with the highest title the Wengari had ever bestowed on an outsider.
 
@@ -618,17 +618,17 @@ Her people had been enemies. Her people had been broken. And now one of her own 
 </div>
 
 
-Vasha walked forward from her place near the throne, her humorless face set, her cold eyes unreadable. She had been the spymaster who intercepted the Human letters, the architect of the Council of the Untrustworthy, the one who had bypassed the elders and saved the city. She did not smile. She never smiled. She knelt before the throne with the stiff, formal posture of someone who had been recognized many times and had never once felt satisfaction.
+Vasha walked forward from her place near the throne, her humorless face set, her cold eyes unreadable. She had been the spymaster who intercepted the Humman letters, the architect of the Council of the Untrustworthy, the one who had bypassed the elders and saved the city. She did not smile. She never smiled. She knelt before the throne with the stiff, formal posture of someone who had been recognized many times and had never once felt satisfaction.
 
 
-Mira walked forward from the Pyrinae delegation. The Sun-Walker envoy had been Nefere's right hand, the coordinator of the intelligence network that had tracked the Human army, the one who had kept the lines of communication open between the Pyrinae and the crown. She knelt beside Vasha, her sharp merchant's eyes still assessing, still calculating, even in the moment of honor.
+Mira walked forward from the Pyrinae delegation. The Sun-Walker envoy had been Nefere's right hand, the coordinator of the intelligence network that had tracked the Humman army, the one who had kept the lines of communication open between the Pyrinae and the crown. She knelt beside Vasha, her sharp merchant's eyes still assessing, still calculating, even in the moment of honor.
 
 
 Ajani looked down at them, and when he spoke, his voice was quieter than it had been for the generals. This was not a reward for martial prowess. This was something subtler, something that many in the crowd would not fully understand.
 
 
 <div class="dialogue-block">
-<span class="speech">"In the shadows, in the silence, in the places where no songs are sung and no banners fly, there are those who fight without being seen. When the Human letters were intercepted, it was not a general who found them. It was a spymaster and an envoy. When the Council of the Untrustworthy acted, it was not a soldier who gave the order. It was the one who had built the council with her own cold hands. When the reinforcements were summoned, it was not a commander who sent word. It was the one who had kept the lines of communication open when every other channel failed."</span> He paused. <span class="speech">"The Heavenly Generals fought on the wall. The Knight of the Golden Claw fought at the gate. These two fought in the shadows. And without them, the wall would have fallen before the first Woh ever crested the ridge."</span>
+<span class="speech">"In the shadows, in the silence, in the places where no songs are sung and no banners fly, there are those who fight without being seen. When the Humman letters were intercepted, it was not a general who found them. It was a spymaster and an envoy. When the Council of the Untrustworthy acted, it was not a soldier who gave the order. It was the one who had built the council with her own cold hands. When the reinforcements were summoned, it was not a commander who sent word. It was the one who had kept the lines of communication open when every other channel failed."</span> He paused. <span class="speech">"The Heavenly Generals fought on the wall. The Knight of the Golden Claw fought at the gate. These two fought in the shadows. And without them, the wall would have fallen before the first Woh ever crested the ridge."</span>
 </div>
 
 
@@ -829,7 +829,7 @@ Vanya and Nadya fell into step behind their father, and the three Snow Paws esco
 He had expected hostility. He had not expected to be greeted by a family of giants who had been missing for five thousand years and seemed to find the entire situation mildly amusing. This was going to be a very long afternoon.
 
 
-Nikolai let out a great, billowing roar and swung his halberd in a wide, lazy arc—the gesture of a warrior who had been waiting for something to do and was finally, gloriously, about to do it. The Human honor guards flinched. The cargo birds screeched. Salahim closed his eyes and prepared for death.
+Nikolai let out a great, billowing roar and swung his halberd in a wide, lazy arc—the gesture of a warrior who had been waiting for something to do and was finally, gloriously, about to do it. The Humman honor guards flinched. The cargo birds screeched. Salahim closed his eyes and prepared for death.
 
 
 Then Nikolai stopped.
@@ -924,7 +924,7 @@ Nikolai turned. The great halberd dissolved into a swirl of snowflakes, and the 
 
 
 <div class="dialogue-block">
-<p class="speech-line">"Come, Human. And perhaps next time, bring better guards."</p>
+<p class="speech-line">"Come, Humman. And perhaps next time, bring better guards."</p>
 </div>
 
 
@@ -1083,7 +1083,7 @@ The queen had declined to attend, and her seat remained empty, a quiet pool of c
 
 
 <div class="dialogue-block">
-<p class="speech-line">Nikolai, already trudging toward the alcove, paused and looked back over his shoulder. "You are making me share the shade with the Human."</p>
+<p class="speech-line">Nikolai, already trudging toward the alcove, paused and looked back over his shoulder. "You are making me share the shade with the Humman."</p>
 </div>
 
 

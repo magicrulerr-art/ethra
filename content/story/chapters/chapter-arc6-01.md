@@ -51,7 +51,7 @@ Cefiro raised one white paw, his pale blue eyes wide. <span class="speech">"This
 
 
 <div class="dialogue-block">
-Tamsin stepped forward from the corner where she had been standing apart from the Wengari. <span class="speech">"The Human army was deceived. Our king was a fool and a coward. I defected. I brought a hundred civilians to the wall with table legs and scythes. We held the gate. Your soldiers and my soldiers fought together."</span> Seris, her dark eyes hollow, her diplomatic composure in ruins, spoke from her place beside Sylva. <span class="speech">"My daughter is missing. She had a job at the palace. She hasn't been seen since the battle began. I swear on the Golden Sun I didn't know."</span> Nefere leaned heavily on her cracked staff. <span class="speech">"The mirror array destroyed one orb and carved the creature nearly in half. It will never fire again. The ancient crystals are shattered. A thousand years of maturation, gone."</span> Sera's ruined face was impassive, but her voice was quiet and steady. <span class="speech">"We held the gate with twenty soldiers. Twenty. Against four hundred scorpion riders. We didn't break."</span> Solen, still standing guard at the door, added through the din, <span class="speech">"The Golden Cloaks are sworn to protect the White Dawn. They have always been real."</span>
+Tamsin stepped forward from the corner where she had been standing apart from the Wengari. <span class="speech">"The Humman army was deceived. Our king was a fool and a coward. I defected. I brought a hundred civilians to the wall with table legs and scythes. We held the gate. Your soldiers and my soldiers fought together."</span> Seris, her dark eyes hollow, her diplomatic composure in ruins, spoke from her place beside Sylva. <span class="speech">"My daughter is missing. She had a job at the palace. She hasn't been seen since the battle began. I swear on the Golden Sun I didn't know."</span> Nefere leaned heavily on her cracked staff. <span class="speech">"The mirror array destroyed one orb and carved the creature nearly in half. It will never fire again. The ancient crystals are shattered. A thousand years of maturation, gone."</span> Sera's ruined face was impassive, but her voice was quiet and steady. <span class="speech">"We held the gate with twenty soldiers. Twenty. Against four hundred scorpion riders. We didn't break."</span> Solen, still standing guard at the door, added through the din, <span class="speech">"The Golden Cloaks are sworn to protect the White Dawn. They have always been real."</span>
 </div>
 
 
@@ -70,7 +70,7 @@ Finally, M'rak sighed. He straightened his shoulders—the burn-scarred shoulder
 
 
 <div class="dialogue-block">
-<span class="speech">"The Human army marched from Verdantis. Nine hundred kilometers. A thousand scorpion riders, fifty Tide Wolf cavalry, ten Amuk war-beasts. They arrived at dawn. We held the wall with twenty elite soldiers and a hundred volunteers. The Woh riders from the eastern and western garrisons reinforced at the first hour. The ghosts arrived at the second. The shadow riders arrived at the third."</span> He paused. <span class="speech">"The Humman Sultan deployed Plague weapons. Suicide scorpions. Purple orbs. We lost fifteen Wohs in the first strike. Thirty-five ghosts in the second. Fifteen more Wohs in the third. The mirror array destroyed one orb. The array is gone. The eastern section of the wall is gone."</span>
+<span class="speech">"The Humman army marched from Verdantis. Nine hundred kilometers. A thousand scorpion riders, fifty Tide Wolf cavalry, ten Amuk war-beasts. They arrived at dawn. We held the wall with twenty elite soldiers and a hundred volunteers. The Woh riders from the eastern and western garrisons reinforced at the first hour. The ghosts arrived at the second. The shadow riders arrived at the third."</span> He paused. <span class="speech">"The Humman Sultan deployed Plague weapons. Suicide scorpions. Purple orbs. We lost fifteen Wohs in the first strike. Thirty-five ghosts in the second. Fifteen more Wohs in the third. The mirror array destroyed one orb. The array is gone. The eastern section of the wall is gone."</span>
 </div>
 
 
@@ -217,7 +217,7 @@ He turned slightly, gesturing toward the window where the morning sun was pourin
 
 
 <div class="dialogue-block">
-<p class="speech-line">"what about the garrisons, how many legions are left, last report I read said we had over 70 wohs on the east and North East garrisons and over 120 across the belt outpost, why didn't the fifth and sixth legions came with you ? You each brought barely a regiment, Sylva ?"</p>
+<p class="speech-line">"What about the garrisons — how many legions are left? The last report I read said we had over seventy Wohs on the east and northeast garrisons and over a hundred and twenty across the belt outposts. Why didn't the fifth and sixth legions come with you? You each brought barely a regiment. Sylva?"</p>
 </div>
 
 
@@ -227,7 +227,7 @@ He turned slightly, gesturing toward the window where the morning sun was pourin
 
 
 <div class="dialogue-block">
-<p class="speech-line">Reva stepped forward, her voice still carrying the hollow edge of someone who had watched half her command die. "I left three regiments at the western garrison. The Human army was coming from the north. If they'd sent a second force through the western pass and I'd taken everyone east, the capital would have been flanked. We had to leave enough to hold."</p>
+<p class="speech-line">Reva stepped forward, her voice still carrying the hollow edge of someone who had watched half her command die. "I left three regiments at the western garrison. The Humman army was coming from the north. If they'd sent a second force through the western pass and I'd taken everyone east, the capital would have been flanked. We had to leave enough to hold."</p>
 </div>
 
 
@@ -263,7 +263,7 @@ M'rak let the silence stretch. When he spoke again, his voice was quieter, the e
 
 
 <div class="dialogue-block">
-<p class="speech-line">"The Council of the Untrustworthy intercepted the Human letters weeks before the battle. Vasha's people caught them first. Nefere's network caught them second. They didn't stop them."</p>
+<p class="speech-line">"The Council of the Untrustworthy intercepted the Humman letters weeks before the battle. Vasha's people caught them first. Nefere's network caught them second. They didn't stop them."</p>
 </div>
 
 
@@ -299,7 +299,7 @@ Sylva stepped forward. Her silver-chased armor was still dented, her ancient eye
 
 
 <div class="dialogue-block">
-<span class="speech">"I didn't know. That is not an excuse. It is the truth. I was so consumed by the weight of command—by the offices, the council, the pilgrims' road, the Golden Sun, the endless scrolls of governance—that I did not see what was happening under my own roof. My maid. Lena. She sat outside my chambers every day. She copied my correspondence. She learned the guard rotations. She sent letters to Verdantis for weeks, and I did not notice."</span> She paused. <span class="speech">"When the scouts reported the Human army approaching, they said it was a hundred scorpions. A diplomatic escort, perhaps. A trade mission. By the time we knew the true size of the force, they were less than a day away. The Council had been preparing for weeks. I had been preparing for one day. That is not an excuse. It is the truth. I failed. My resignation awaits your approval."</span>
+<span class="speech">"I didn't know. That is not an excuse. It is the truth. I was so consumed by the weight of command—by the offices, the council, the pilgrims' road, the Golden Sun, the endless scrolls of governance—that I did not see what was happening under my own roof. My maid. Lena. She sat outside my chambers every day. She copied my correspondence. She learned the guard rotations. She sent letters to Verdantis for weeks, and I did not notice."</span> She paused. <span class="speech">"When the scouts reported the Humman army approaching, they said it was a hundred scorpions. A diplomatic escort, perhaps. A trade mission. By the time we knew the true size of the force, they were less than a day away. The Council had been preparing for weeks. I had been preparing for one day. That is not an excuse. It is the truth. I failed. My resignation awaits your approval."</span>
 </div>
 
 
@@ -404,7 +404,7 @@ They looked absurd. They looked terrifying. They looked exactly like the kind of
 </div>
 
 
-The great bronze doors groaned open. Zephyr entered first, his scarred face set, his lacquered claws still stained with the residue of the shadow charge. Behind him came Tamsin, her scarred hands bound in chains, her dark eyes forward, her back straight. Behind Tamsin came the others—the Human officials who had fled to the city at the last minute, the scorpion riders and the Tide Wolf cavalry who had survived the creature's rampage.
+The great bronze doors groaned open. Zephyr entered first, his scarred face set, his lacquered claws still stained with the residue of the shadow charge. Behind him came Tamsin, her scarred hands bound in chains, her dark eyes forward, her back straight. Behind Tamsin came the others—the Humman officials who had fled to the city at the last minute, the scorpion riders and the Tide Wolf cavalry who had survived the creature's rampage.
 
 They were not bound, but they walked like prisoners. They had no weapons. They had no status. They had only the clothes on their backs and the weight of the stares that followed them down the length of the throne room.
 
@@ -430,7 +430,7 @@ The hall fell silent at Ajani's words. Every Wengari in the throne room turned t
 
 
 <div class="dialogue-block">
-When she spoke, her voice was quiet and steady. <span class="speech">"Under Human law, the use of Plague weapons carries a single sentence. Death. By molten lead. It was written into the Verdantian Code after Velarius fell, specifically to ensure that no one would ever—"</span> She stopped. The words caught in her throat. When she continued, her voice was quieter still. <span class="speech">"My king is dead. I do not know who killed him. I do not know who gave him the weapons. I do not know if my daughter is alive. But if any of these prisoners knew of the Plague weapons before they were deployed, and did nothing, then under Human law they are complicit. And under Human law, complicity in the use of Plague weapons is death. That is what our justice would do. That is what we wrote into our laws five hundred years ago, so that no one would ever forget what Velarius did."</span> She raised her dark eyes to the throne. <span class="speech">"I am not asking for mercy. I am telling you what our own laws demand. If you wish to execute them, no Human will protest. We have already condemned ourselves."</span>
+When she spoke, her voice was quiet and steady. <span class="speech">"Under Humman law, the use of Plague weapons carries a single sentence. Death. By molten lead. It was written into the Verdantian Code after Velarius fell, specifically to ensure that no one would ever—"</span> She stopped. The words caught in her throat. When she continued, her voice was quieter still. <span class="speech">"My king is dead. I do not know who killed him. I do not know who gave him the weapons. I do not know if my daughter is alive. But if any of these prisoners knew of the Plague weapons before they were deployed, and did nothing, then under Humman law they are complicit. And under Humman law, complicity in the use of Plague weapons is death. That is what our justice would do. That is what we wrote into our laws five hundred years ago, so that no one would ever forget what Velarius did."</span> She raised her dark eyes to the throne. <span class="speech">"I am not asking for mercy. I am telling you what our own laws demand. If you wish to execute them, no Humman will protest. We have already condemned ourselves."</span>
 </div>
 
 
@@ -448,7 +448,7 @@ Ajani's question hung in the throne room. Tamsin stood in her chains, her scarre
 
 
 <div class="dialogue-block">
-<p class="speech-line">She turned her head slightly, toward the officials cowering behind her. "I defected because I would not be complicit. I rode through the Human lines with my hands raised. I told the Wengari what was coming. I brought a hundred civilians to the wall. I fought alongside your soldiers. I did not know. I swear on the ashes of my mother. I did not know."</p>
+<p class="speech-line">She turned her head slightly, toward the officials cowering behind her. "I defected because I would not be complicit. I rode through the Humman lines with my hands raised. I told the Wengari what was coming. I brought a hundred civilians to the wall. I fought alongside your soldiers. I did not know. I swear on the ashes of my mother. I did not know."</p>
 </div>
 
 
@@ -466,7 +466,7 @@ The other officials murmured their agreement, their voices overlapping, their fa
 
 
 <div class="dialogue-block">
-Seris inclined her head. The ambassador's face was still unreadable, but something flickered in her dark eyes—not relief, not gratitude, but the cold, steady resolve of a woman who had been given an unpleasant task and would carry it out. <span class="speech">"The Humman quarter will conduct its own tribunal. We will determine who knew and who did not. Those who are guilty of complicity will face the full weight of Human law. Those who are innocent will be released."</span> She paused. <span class="speech">"There will be no blood in your city, Your Highness. Only justice."</span>
+Seris inclined her head. The ambassador's face was still unreadable, but something flickered in her dark eyes—not relief, not gratitude, but the cold, steady resolve of a woman who had been given an unpleasant task and would carry it out. <span class="speech">"The Humman quarter will conduct its own tribunal. We will determine who knew and who did not. Those who are guilty of complicity will face the full weight of Humman law. Those who are innocent will be released."</span> She paused. <span class="speech">"There will be no blood in your city, Your Highness. Only justice."</span>
 </div>
 
 
@@ -774,7 +774,7 @@ They had been bypassed. The young generals had saved the city without them. The 
 **The City**
 
 
-In the Humman quarter, a merchant who had fought on the wall embraced his wife. In the Stripe Paw caravan grounds, Korr brushed the pale scales of Ember's flank and whispered that the king was alive. In the Pyrinae district, Nefere sat beside the shattered mirror array and mourned the crystals that would never shine again. In the temple, the wounded slept. In the shadow of the broken wall, a young Bright Paw guard stood watch with a Human volunteer beside her, and they did not speak, and they did not need to.
+In the Humman quarter, a merchant who had fought on the wall embraced his wife. In the Stripe Paw caravan grounds, Korr brushed the pale scales of Ember's flank and whispered that the king was alive. In the Pyrinae district, Nefere sat beside the shattered mirror array and mourned the crystals that would never shine again. In the temple, the wounded slept. In the shadow of the broken wall, a young Bright Paw guard stood watch with a Humman volunteer beside her, and they did not speak, and they did not need to.
 
 The city had survived. The king had returned. And the long work of rebuilding had not yet begun.
 
@@ -910,7 +910,7 @@ Now the four generals stood before the throne. M'rak, his burn-scarred arms fold
 
 
 <div class="dialogue-block">
-<p class="speech-line">Sylva stepped forward. "The Human casualties are still being counted. Ambassador Seris is conducting the tally herself. The Pyrinae have submitted their report—twelve dead, all from the mirror array and the artillery exchanges. Nefere is coordinating the repairs to the eastern district. The mirror array is destroyed. The ancient crystals are shattered."</p>
+<p class="speech-line">Sylva stepped forward. "The Humman casualties are still being counted. Ambassador Seris is conducting the tally herself. The Pyrinae have submitted their report—twelve dead, all from the mirror array and the artillery exchanges. Nefere is coordinating the repairs to the eastern district. The mirror array is destroyed. The ancient crystals are shattered."</p>
 </div>
 
 
@@ -939,7 +939,7 @@ The great bronze doors opened, and Maren entered. The Shadow Paw coin master wal
 
 
 <div class="dialogue-block">
-<p class="speech-line">"what is the estimated cost for repairs right now? Can we cover it Maren ?"</p>
+<p class="speech-line">"What is the estimated cost for repairs right now? Can we cover it, Maren?"</p>
 </div>
 
 
@@ -955,7 +955,7 @@ She paused, her dark eyes meeting Ajani's.
 
 
 <div class="dialogue-block">
-<p class="speech-line">"The crown's treasury currently holds four hundred talents in liquid reserves. The tournament's projected revenue for next year, based on the first year's receipts and the expanded format, is approximately six hundred talents—but that is not yet collected, and the Human trade disruption will reduce it. The Stripe Paws owe the crown thirty talents in outstanding caravan taxes. The Pyrinae have offered to waive their labor fees for the wall reconstruction as a gesture of loyalty, which reduces the immediate cost to five hundred talents."</p>
+<p class="speech-line">"The crown's treasury currently holds four hundred talents in liquid reserves. The tournament's projected revenue for next year, based on the first year's receipts and the expanded format, is approximately six hundred talents—but that is not yet collected, and the Humman trade disruption will reduce it. The Stripe Paws owe the crown thirty talents in outstanding caravan taxes. The Pyrinae have offered to waive their labor fees for the wall reconstruction as a gesture of loyalty, which reduces the immediate cost to five hundred talents."</p>
 </div>
 
 
@@ -976,7 +976,7 @@ The four generals exchanged glances. The question was not military, but the king
 
 
 <div class="dialogue-block">
-<p class="speech-line">M'rak spoke first, his voice steady and measured. "The Human army is shattered, Your Highness. Their king is dead. Their command structure collapsed. The refugees in the city are the remnants of their fighting force—perhaps a hundred scorpion riders, twenty Tide Wolf cavalry, and a single Amuk. The rest are scattered across the desert or dead. They have nothing left to give. If we demand coin, they cannot pay. If we demand labor, they can offer their backs. The wall needs rebuilding. The Pyrinae have waived their fees, but we still need hands. Let the Human refugees work alongside our own people. Let them earn their place."</p>
+<p class="speech-line">M'rak spoke first, his voice steady and measured. "The Humman army is shattered, Your Highness. Their king is dead. Their command structure collapsed. The refugees in the city are the remnants of their fighting force—perhaps a hundred scorpion riders, twenty Tide Wolf cavalry, and a single Amuk. The rest are scattered across the desert or dead. They have nothing left to give. If we demand coin, they cannot pay. If we demand labor, they can offer their backs. The wall needs rebuilding. The Pyrinae have waived their fees, but we still need hands. Let the Humman refugees work alongside our own people. Let them earn their place."</p>
 </div>
 
 
@@ -986,7 +986,7 @@ The four generals exchanged glances. The question was not military, but the king
 
 
 <div class="dialogue-block">
-<p class="speech-line">Zephyr's scarred face was unreadable. "The Shadow Paws have carried the shame of the First Tyrant for five thousand years. We know what it is to be blamed for the sins of a king. The Human refugees who fought on the wall are not our enemies. The Humman general who defected is not our enemy. But the ones who knew about the Plague weapons and did nothing—they must answer. Seris has promised a tribunal. Let her keep that promise. Justice must be seen to be done, or the families of the dead will never accept the Hummans among us."</p>
+<p class="speech-line">Zephyr's scarred face was unreadable. "The Shadow Paws have carried the shame of the First Tyrant for five thousand years. We know what it is to be blamed for the sins of a king. The Humman refugees who fought on the wall are not our enemies. The Humman general who defected is not our enemy. But the ones who knew about the Plague weapons and did nothing—they must answer. Seris has promised a tribunal. Let her keep that promise. Justice must be seen to be done, or the families of the dead will never accept the Hummans among us."</p>
 </div>
 
 
@@ -1009,7 +1009,7 @@ Ajani's eyes flickered with a cold, sharp light. He had not slept properly in we
 
 
 <div class="dialogue-block">
-<p class="speech-line">Sylva straightened. "The foreign advisor would be better suited to answer, Your Highness. She has been monitoring the Human trade networks since the war began."</p>
+<p class="speech-line">Sylva straightened. "The foreign advisor would be better suited to answer, Your Highness. She has been monitoring the Humman trade networks since the war began."</p>
 </div>
 
 

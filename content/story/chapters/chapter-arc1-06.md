@@ -55,7 +55,7 @@ And Ajani, watching the Tide Wolf bow before him, watching the Styx paint the sk
 </div>
 
 
-*'what in the world?! I've never seen so many styx before, and this.. mist what is going on?, is that? what is that thing?'*
+*'What in the world?! I've never seen so many Styx before, and this... mist — what is going on? Is that...? What is that thing?'*
 
 
 He stops before Ajani, and he smiles. It is not the weary smile of a dying king. It is the proud smile of a father who has watched his son become something greater than he ever dared to hope.

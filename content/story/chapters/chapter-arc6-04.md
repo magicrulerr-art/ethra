@@ -162,7 +162,7 @@ But Nikolai was also a king. A king who had just learned that his long-lost cous
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">Cefiro set down his cup of Frostfire. "The Human army marched from Verdantis. Nine hundred kilometers. A thousand scorpion riders, fifty Tide Wolf cavalry, ten Amuk war-beasts."</p>
+<p class="speech-line">Cefiro set down his cup of Frostfire. "The Humman army marched from Verdantis. Nine hundred kilometers. A thousand scorpion riders, fifty Tide Wolf cavalry, ten Amuk war-beasts."</p>
 </div>
 
 
@@ -248,7 +248,7 @@ Cefiro looked at Kira. Kira looked at Cefiro. The Snow Paws had been alone in th
 
 
 <div class="dialogue-block">
-<span class="speech">"The Second Tyrant was Crr'zzak,"</span> Cefiro said. <span class="speech">"Chi'Thak. The Blight. He organized the swarm and devoured half the continent. The Third was Uthgar Lightbringer. Bright Paw. He made the pact with the lord of the desert and built the capital. He vanished three thousand years ago. The Fourth was Xal'thyra. Veylar. She silenced the male Styx and projected the Great Stillness across the world. The Fifth was Velarius Vane. Human. He was a healer who became a monster. He created the Plague. It lasted sixty-five years. It killed eight percent of Ethra's population. His own weapons were used against the capital in this war. The creature that rose at the end—it was made from those weapons, and from something older. Something from the belt."</span>
+<span class="speech">"The Second Tyrant was Crr'zzak,"</span> Cefiro said. <span class="speech">"Chi'Thak. The Blight. He organized the swarm and devoured half the continent. The Third was Uthgar Lightbringer. Bright Paw. He made the pact with the lord of the desert and built the capital. He vanished three thousand years ago. The Fourth was Xal'thyra. Veylar. She silenced the male Styx and projected the Great Stillness across the world. The Fifth was Velarius Vane. Humman. He was a healer who became a monster. He created the Plague. It lasted sixty-five years. It killed eight percent of Ethra's population. His own weapons were used against the capital in this war. The creature that rose at the end—it was made from those weapons, and from something older. Something from the belt."</span>
 </div>
 
 
@@ -592,13 +592,13 @@ Kira closed her eyes.
 
 '"Most people think the saber is like a tide wolf. Fast. Hard. Destructive." Ajani's voice echoed in her memory, the voice of her brother teaching her the forms in the cold sand of the training arena before dawn. "But I was stuck fighting Iris Serpents for a year. The green deaths. Fifteen meters of iridescent scales and venom and speed. And I'll tell you—the saber is not a wolf. It is like a serpent. Treacherous.
 
-Annoying. Poisonous. It doesn't overwhelm. It waits. It coils. And when the moment is right—" He had demonstrated the form, his blade flickering out in a strike that Kira's eyes could barely follow. "It bites. This is my fifth form. Serpent's Fang. It's the one that saved me against Sylva. It's the one that will save you."
+"Annoying. Poisonous. It doesn't overwhelm. It waits. It coils. And when the moment is right—" He had demonstrated the form, his blade flickering out in a strike that Kira's eyes could barely follow. "It bites. This is my fifth form. Serpent's Fang. It's the one that saved me against Sylva. It's the one that will save you."
 
 
 She opened her eyes.
 
 
-"'You are a Shadow Paw."* Lira's voice, quiet and cold, the voice of the assassin who had been assigned to guard her after the second attempt on her life. *"The Eight Points are your birthright. But you are small. You are young. You cannot overpower anyone. So you must be smarter. Faster. More ruthless. There is no honor in death. Only in living another day. Remember that."*
+"You are a Shadow Paw." Lira's voice, quiet and cold, the voice of the assassin who had been assigned to guard her after the second attempt on her life. "The Eight Points are your birthright. But you are small. You are young. You cannot overpower anyone. So you must be smarter. Faster. More ruthless. There is no honor in death. Only in living another day. Remember that."
 
 
 Kira settled into her stance. The wooden saber was in her right paw. Her left paw was open, empty, ready to trap. The Serpent's Fang—a strike that coiled low and then twisted upward at the last moment, deceptive and venomous. The Eight Points—a philosophy of survival, not glory. She was a Brightmane by adoption, a Shadow Paw by blood. She carried the training of a king and the instincts of an assassin. And she was ready.
@@ -1205,7 +1205,7 @@ Nikolai stood at the helm of the lead wurm, his massive frame silhouetted agains
 Her dark fur was windswept from the journey. Pearl was on her shoulder, her pale carapace gleaming. And when she saw the golden walls of Styxian and the black smoke still rising from the memorial pillar and the figure of her brother standing on the northern wall with his scorpions at his side, she raised her wooden saber and shouted something that was lost to the wind but needed no translation.
 
 
-The commotion brought everyone to the wall. M'rak and Reva and Zephyr and Yvaria. Sylva and Vasha and Maren and Elyra. Seris and Tamsin and the Human refugees who had fought alongside the Wengari. The Pyrinae engineers and the Stripe Paw masons and the Bright Paw guards. Solen and the Golden Cloaks, still wearing their dimmed armor. They all came to the wall, and they all looked out at the three delegations converging on the city from three different directions, and they understood what they were witnessing.
+The commotion brought everyone to the wall. M'rak and Reva and Zephyr and Yvaria. Sylva and Vasha and Maren and Elyra. Seris and Tamsin and the Humman refugees who had fought alongside the Wengari. The Pyrinae engineers and the Stripe Paw masons and the Bright Paw guards. Solen and the Golden Cloaks, still wearing their dimmed armor. They all came to the wall, and they all looked out at the three delegations converging on the city from three different directions, and they understood what they were witnessing.
 
 
 

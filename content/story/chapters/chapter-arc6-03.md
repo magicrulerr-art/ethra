@@ -95,7 +95,7 @@ Vasha remained at her place near the dais, her stylus still moving across her le
 
 
 <div class="dialogue-block">
-<p class="speech-line">"Seris has been planning how to turn things to her advantage for thirty years. She is the most dangerous Human in the city. I respect her immensely. I will be watching her very closely."</p>
+<p class="speech-line">"Seris has been planning how to turn things to her advantage for thirty years. She is the most dangerous Humman in the city. I respect her immensely. I will be watching her very closely."</p>
 </div>
 
 
@@ -148,10 +148,10 @@ Outside the great hall, the morning sun was climbing higher over the shattered c
 
 The wall had become a place of healing. In the weeks since the victory, Ajani had made it his practice to work alongside the laborers every afternoon. He had no skill with stone—the Pyrinae engineers had politely suggested he focus on hauling rather than masonry—but his presence had changed the atmosphere on the scaffolding. If the king could sweat alongside them, so could the generals. If the generals could haul stone, so could the honor guards.
 
-And if the honor guards could work beside the Human refugees, so could everyone else.
+And if the honor guards could work beside the Humman refugees, so could everyone else.
 
 
-The young Human was struggling with a boulder. He was perhaps sixteen, his dark arms thin but wiry, his face still carrying the hollow look of someone who had not eaten well in weeks. He had been one of the civilians who grabbed a table leg and marched to the wall on the morning of the battle, and he had been working the stone ever since, refusing all offers of lighter duty.
+The young Humman was struggling with a boulder. He was perhaps sixteen, his dark arms thin but wiry, his face still carrying the hollow look of someone who had not eaten well in weeks. He had been one of the civilians who grabbed a table leg and marched to the wall on the morning of the battle, and he had been working the stone ever since, refusing all offers of lighter duty.
 
 
 <div class="dialogue-block">
@@ -169,7 +169,7 @@ The young Human was struggling with a boulder. He was perhaps sixteen, his dark 
 </div>
 
 
-The sandstorm descended without warning. The sky turned orange and then black, the wind whipping across the scaffolding with a sound like screaming. Ajani dropped the boulder and pushed the young Human behind him, his body instinctively shielding the boy. Blackie and Reddy were already moving, their tails rising, their white-lacquered pincers clicking with alarm.
+The sandstorm descended without warning. The sky turned orange and then black, the wind whipping across the scaffolding with a sound like screaming. Ajani dropped the boulder and pushed the young Humman behind him, his body instinctively shielding the boy. Blackie and Reddy were already moving, their tails rising, their white-lacquered pincers clicking with alarm.
 
 
 And then, just as suddenly, the sandstorm dissipated. Where the swirling dust had been, twenty-one figures now stood at the northern gate. Twenty of them were small—barely chest-height on a Wengari—their iridescent chitin catching the afternoon sun, their multifaceted eyes blinking in the unfamiliar light. The twenty-first was not small. It was a Lament, its chitin dark and gleaming, its multifaceted eyes ancient and patient, its body radiating the quiet, inexorable presence of the Mycelial Deep.
@@ -180,7 +180,7 @@ It was the most Threx anyone had ever seen in one place. It was more Threx than 
 The Threx looked at the Hummans on the wall. Their multifaceted eyes took in the scorpion riders, the merchants, the refugees who had been working alongside the Wengari. And then, as one, the Quick raised their limbs and hissed—a sound of pure, instinctive hostility, the sound of creatures who had been burned by the Plague twice before and remembered.
 
 
-The young Human behind Ajani went rigid with terror. The scorpion riders on the wall scrambled backward, their hands reaching for weapons they had not carried since the battle. The Wengari soldiers tensed, their claws half-extending, unsure whether to defend the Hummans or stand aside.
+The young Humman behind Ajani went rigid with terror. The scorpion riders on the wall scrambled backward, their hands reaching for weapons they had not carried since the battle. The Wengari soldiers tensed, their claws half-extending, unsure whether to defend the Hummans or stand aside.
 
 
 <div class="dialogue-block">
@@ -341,7 +341,7 @@ It simply held it, its multifaceted eyes blinking, its body still shuddering wit
 
 
 <div class="dialogue-block">
-<p class="speech-line">Ajani was already moving, positioning himself between the Threx and the Hummans, his paws raised in a gesture of peace. His voice came out higher than he intended. "I apologize for our guests! Human cubs are very curious! She meant no offense! She's four! She doesn't know—"</p>
+<p class="speech-line">Ajani was already moving, positioning himself between the Threx and the Hummans, his paws raised in a gesture of peace. His voice came out higher than he intended. "I apologize for our guests! Humman cubs are very curious! She meant no offense! She's four! She doesn't know—"</p>
 </div>
 
 
@@ -376,7 +376,7 @@ L'vat turned his ancient gaze toward the small girl, who was still waving over h
 
 
 
-L'vat had not stopped talking since they passed through the northern gate. The ancient Lament walked beside Ajani, his dark chitin gleaming in the afternoon sun, his multifaceted eyes taking in every detail of the city—the broken wall, the Pyrinae engineers, the Human refugees, the scaffolding that still clung to the eastern section like a bandage on an open wound. And he had something to say about all of it.
+L'vat had not stopped talking since they passed through the northern gate. The ancient Lament walked beside Ajani, his dark chitin gleaming in the afternoon sun, his multifaceted eyes taking in every detail of the city—the broken wall, the Pyrinae engineers, the Humman refugees, the scaffolding that still clung to the eastern section like a bandage on an open wound. And he had something to say about all of it.
 
 
 <div class="dialogue-block">
@@ -821,7 +821,7 @@ The smallest Quick's antennae lifted. <span class="speech">"A discount?"</span> 
 </div>
 
 
-The Council chamber in Verdantis was a circular room at the top of the Merchant's Spire, its walls lined with maps of every trade route the Hummans had ever charted. The great table at its center was carved from a single slab of obsidian, a relic of the old world that had survived the Plague, survived the fall of Velarius, survived five hundred years of Human history. Today, it was covered with reports.
+The Council chamber in Verdantis was a circular room at the top of the Merchant's Spire, its walls lined with maps of every trade route the Hummans had ever charted. The great table at its center was carved from a single slab of obsidian, a relic of the old world that had survived the Plague, survived the fall of Velarius, survived five hundred years of Humman history. Today, it was covered with reports.
 
 
 Sultan Salahim sat at the head of the table. He had returned from Styxian three days ago, his fifty cargo hawks stripped of their tribute, his dignity stripped of its pretense. The journey had given him time to compose his report. He had not composed it. He had simply written down everything he had seen and heard, in the order it had happened, and let the Council draw their own conclusions.

@@ -412,7 +412,7 @@ Seris did not scream. She did not weep. She knelt on the cold stone, her daughte
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">"brothers don't deceive each other, back to me shadows, your daughter will stay to serve Sylva as her maid, the deads of your kin are on your head ambassador, the next time you try this, every single one of your kin in the capital will die and then every single one in Ethra, have I made myself clear ?"</p>
+<p class="speech-line">"Brothers don't deceive each other. Back to me, shadows. Your daughter will stay to serve Sylva as her maid. The deeds of your kin are on your head, ambassador. The next time you try this, every single one of your kin in the capital will die — and then every single one in Ethra. Have I made myself clear?"</p>
 </div>
 
 Seris pressed her forehead to the cold stone. The tension that had held her rigid through the long minutes of the audience drained out of her in a single, shuddering breath. Her daughter would live. Her merchants would die. The arithmetic of survival was brutal, and she had just paid it in full.

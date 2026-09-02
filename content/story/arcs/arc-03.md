@@ -1,6 +1,6 @@
 # Chapter 3: The Tournament
 
-*38,050 words across 5 chapters*
+*38,051 words across 5 chapters*
 
 ### The Arena
 

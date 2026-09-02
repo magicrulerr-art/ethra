@@ -41,7 +41,7 @@ Seris raised her eyes. Her face was pale, her jaw set, but her voice did not tre
 
 
 <div class="dialogue-block">
-<p class="speech-line">"wonderful!, welcome to the Wengari brothers! As a gesture of good will you have one month to move your best to our capital, our friends the Pyrinae will help you get settled in!!"</p>
+<p class="speech-line">"Wonderful! Welcome to the Wengari, brothers! As a gesture of good will, you have one month to move your best to our capital. Our friends the Pyrinae will help you get settled in!"</p>
 </div>
 
 
@@ -176,7 +176,7 @@ Zara stiffened. The other Stripe Paws behind her—old Torek, sharp-eyed Veena, 
 
 
 <div class="dialogue-block">
-<p class="speech-line">"the best of the Hummans here means...what Zara ? Tell me what do the Hummans do best ?"</p>
+<p class="speech-line">"The best of the Hummans here means... what, Zara? Tell me — what do the Hummans do best?"</p>
 </div>
 
 
@@ -194,7 +194,7 @@ Old Torek let out a long, slow breath. <span class="speech">"That's why you didn
 
 
 <div class="dialogue-block">
-<p class="speech-line">"yes and no, sit because this is the first and last time I will explain myself and I will only do so because I regard you as brothers, the Hummans will send their best here, that means their capital Verdantis will have their second best, for a while their trade will dwindle but also, they will betray us it's in their nature, and tell me, who is better suited to .... Enforce the covenant within our families?"</p>
+<p class="speech-line">"Yes and no. Sit, because this is the first and last time I will explain myself, and I will only do so because I regard you as brothers. The Hummans will send their best here — that means their capital Verdantis will have their second best. For a while their trade will dwindle. But also, they will betray us; it's in their nature. And tell me — who is better suited to... enforce the covenant within our families?"</p>
 </div>
 
 
@@ -207,7 +207,7 @@ Zara leaned forward, her striped mane catching the lamplight. <span class="speec
 
 
 <div class="dialogue-block">
-<p class="speech-line">"the Stripe Paws will become what they were meant to be, the overlords of the trade, the Pyrinae will be extremely busy rehabilitating their cities, a veto and waiver together means they have surplus of money, tell me Zara when one needs mercenaries who do they go to ?"</p>
+<p class="speech-line">"The Stripe Paws will become what they were meant to be — the overlords of the trade. The Pyrinae will be extremely busy rehabilitating their cities; a veto and waiver together means they have a surplus of money. Tell me, Zara — when one needs mercenaries, who do they go to?"</p>
 </div>
 
 
@@ -272,7 +272,7 @@ And Ajani, seated at the center of it all, felt the exhaustion of the long day p
 
 
 <div class="dialogue-block">
-<p class="speech-line">"before you go, I need one more thing from you,  a king can't be everywhere and I'll be going soon for the belt, I need a regent, tomorrow I will declare a grand tournament, I need a champion, I need your best, most loyal, most ruthless warrior to win that tournament and become regent while I am away,  can you deliver ?"</p>
+<p class="speech-line">"Before you go, I need one more thing from you. A king can't be everywhere, and I'll be going soon for the belt. I need a regent. Tomorrow I will declare a grand tournament. I need a champion — I need your best, most loyal, most ruthless warrior to win that tournament and become regent while I am away. Can you deliver?"</p>
 </div>
 
 
@@ -711,8 +711,10 @@ The young maid stepped back, brush still in hand, her golden eyes bright. <span 
 </div>
 
 
+Ajani bowed. *'What did father always say? "Never cross a maid or you'll wake in rags."'*
+
 <div class="dialogue-block">
-'bow...what did father always say , <span class="speech">"never cross a maid or you'll wake in rags"</span> ' - <span class="speech">"THANK YOU , THANK YOU ALL, I MUST BE QUICK!"</span>
+<p class="speech-line">"Thank you! Thank you all — I must be quick!"</p>
 </div>
 
 

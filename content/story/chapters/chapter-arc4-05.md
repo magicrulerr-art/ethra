@@ -516,7 +516,3 @@ Elyra was silent for a long moment. Her silver aura flickered, and her melodic v
 <div class="dialogue-block">
 <p class="speech-line">Elyra inclined her elegant head. "The Motted Paws will ask it. We have been patient for five thousand years. We can be patient a little longer."</p>
 </div>
-
-<div class="dialogue-block">
-<p class="speech-line">Ajani closed the grimoire and held it against his chest. The glow along his claws had steadied, warm and even. "This is still the best gift I have received today. The spear is magnificent. The fire foot is beloved. The daggers are precious. But this—this is a piece of the future."</p>
-</div>

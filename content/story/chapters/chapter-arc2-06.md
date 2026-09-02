@@ -46,8 +46,10 @@ She stopped at the center of the arena, exactly where the other delegations had 
 
 
 <div class="dialogue-block">
-<p class="speech-line">"Sylara of the Veylar, Warden of the Tides, this humble king salutes the only race who hasn't been bested by the glory of the Wengari. Please speak, how can this king help the Veylar?" <span class="speech-attr">— 'she does smell like salt... humid, nothing like us'</span></p>
+<p class="speech-line">"Sylara of the Veylar, Warden of the Tides — this humble king salutes the only race who hasn't been bested by the glory of the Wengari. Please speak: how can this king help the Veylar?"</p>
 </div>
+
+*'She does smell like salt... humid, nothing like us.'*
 
 
 Sylara inclined her head. Her fin-ridges rippled faintly, tasting the air, reading the currents of heat and pressure that surrounded the throne. When she spoke, her voice was the gentle lap of water against stone, but beneath it lay something deeper—the patient, inexorable pull of the tide.
@@ -174,7 +176,7 @@ She extended her webbed hand once more, and the sphere of water that had hovered
 
 
 <div class="dialogue-block">
-<p class="speech-line">"no, I will send Humman envoys guarded by my people to shore, so we can cut the time in half. No objections to that, correct?"</p>
+<p class="speech-line">"No — I will send Humman envoys guarded by my people to shore, so we can cut the time in half. No objections to that, correct?"</p>
 </div>
 
 

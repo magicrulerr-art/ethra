@@ -1,45 +1,45 @@
 # Ethra Canon Ledger — DERIVED (regenerable, never hand-edited)
 
-Compiled: 2026-09-01 09:46 by `canon/compile_canon.py` from 9 canon files.
+Compiled: 2026-09-02 06:30 by `canon/compile_canon.py` from 9 canon files.
 Source of truth: published masters + canon/roster.md skeleton.
 
 ## Entity census (counts per canonical unit)
 
 | entity | status | first | total | by unit |
 |---|---|---|---|---|
-| Ajani Brightmane | alive | 01 | 276 | 01:29, 02:49, 03:69, 04:34, 05:33, 06:55, arc7:arc7-01:6, arc7:arc7-02:1 |
-| Kira Brightmane | alive | 04 | 361 | 04:115, 05:44, 06:171, arc7:arc7-01:24, arc7:arc7-02:7 |
+| Ajani Brightmane | alive | 01 | 275 | 01:29, 02:49, 03:69, 04:33, 05:33, 06:55, arc7:arc7-01:6, arc7:arc7-02:1 |
+| Kira Brightmane | alive | 04 | 362 | 04:115, 05:44, 06:172, arc7:arc7-01:24, arc7:arc7-02:7 |
 | granddaughter-Kira | excised | — | 0 | — |
 | Mira | alive | 02 | 54 | 02:5, 03:17, 04:18, 06:14 |
 | Mara | alive | 03 | 15 | 03:13, 04:2 |
 | Lena | missing | 03 | 37 | 03:6, 04:19, 05:7, 06:4, arc7:arc7-03:1 |
 | L'vat | alive | 01 | 104 | 01:5, 02:14, 03:20, 04:11, 05:4, 06:41, arc7:arc7-01:9 |
 | Xal'thyra | adjudication-pending | 02 | 2 | 02:1, 06:1 |
-| Kareth | - | 02 | 127 | 02:37, 03:30, 04:53, 05:7 |
+| Kareth | - | 02 | 126 | 02:37, 03:30, 04:52, 05:7 |
 | Uthgard IX | - | 01 | 24 | 01:12, 02:6, 03:5, 04:1 |
-| Uthgar Lightbringer | - | 01 | 157 | 01:52, 02:36, 03:15, 04:25, 05:14, 06:13, arc7:arc7-01:2 |
+| Uthgar Lightbringer | - | 01 | 156 | 01:52, 02:36, 03:15, 04:24, 05:14, 06:13, arc7:arc7-01:2 |
 | Nyasha | - | 02 | 13 | 02:13 |
-| Solen | - | 02 | 86 | 02:7, 03:18, 04:30, 05:20, 06:11 |
-| Seris | - | 02 | 167 | 02:18, 03:20, 04:73, 05:5, 06:35, arc7:arc7-01:11, arc7:arc7-03:5 |
+| Solen | - | 02 | 84 | 02:7, 03:18, 04:28, 05:20, 06:11 |
+| Seris | - | 02 | 166 | 02:18, 03:20, 04:72, 05:5, 06:35, arc7:arc7-01:11, arc7:arc7-03:5 |
 | Sylva | - | 03 | 320 | 03:95, 04:123, 05:31, 06:52, arc7:arc7-01:12, arc7:arc7-03:7 |
 | Anastasia | - | 06 | 76 | 06:49, arc7:arc7-01:20, arc7:arc7-02:7 |
 | Nikolai | - | 06 | 171 | 06:121, arc7:arc7-01:29, arc7:arc7-02:21 |
-| Cefiro | - | 05 | 199 | 05:36, 06:136, arc7:arc7-01:20, arc7:arc7-02:7 |
+| Cefiro | - | 05 | 198 | 05:36, 06:135, arc7:arc7-01:20, arc7:arc7-02:7 |
 | Mekhmed | - | 04 | 58 | 04:1, 05:40, 06:17 |
 | Pearl | - | 02 | 77 | 02:2, 04:1, 05:9, 06:56, arc7:arc7-01:5, arc7:arc7-02:4 |
 | Blackie | - | 01 | 151 | 01:1, 02:9, 03:2, 04:17, 05:15, 06:100, arc7:arc7-01:4, arc7:arc7-02:3 |
 | Reddy | - | 04 | 76 | 04:10, 05:9, 06:50, arc7:arc7-01:4, arc7:arc7-02:3 |
 | Velarius | - | 01 | 58 | 01:2, 02:6, 03:4, 04:3, 05:24, 06:19 |
 | Chi'Thak | - | 01 | 17 | 01:1, 02:6, 03:3, 04:4, 06:3 |
-| Sylara | - | 02 | 11 | 02:9, 03:1, 04:1 |
+| Sylara | - | 02 | 10 | 02:9, 03:1 |
 | Layla | dead | 01 | 15 | 01:11, 02:2, 04:2 |
-| Zara | alive | 02 | 165 | 02:22, 03:78, 04:59, 05:5, 06:1 |
+| Zara | alive | 02 | 163 | 02:22, 03:78, 04:57, 05:5, 06:1 |
 | T'van | alive | 02 | 45 | 02:18, 03:11, 04:16 |
 | Torek | alive | 03 | 30 | 03:24, 04:2, 06:4 |
 | Veena | alive | 03 | 15 | 03:15 |
 | Mako | alive | 03 | 10 | 03:10 |
 | Korr | alive | 03 | 38 | 03:24, 04:3, 06:11 |
-| Ember | alive | 01 | 30 | 01:3, 03:5, 04:19, 06:3 |
+| Ember | alive | 01 | 26 | 01:3, 03:5, 04:15, 06:3 |
 | Rask | alive | 03 | 37 | 03:33, 04:4 |
 | Tor | alive | 03 | 12 | 03:11, 04:1 |
 | Varn | alive | 03 | 5 | 03:5 |
@@ -69,7 +69,7 @@ Source of truth: published masters + canon/roster.md skeleton.
 | Kellan | census-only | 05 | 9 | 05:8, arc7:arc7-03:1 |
 | Silverpelt | census-only | 06 | 10 | 06:10 |
 | Whitey | census-only | arc7:arc7-02 | 17 | arc7:arc7-02:17 |
-| Pearly | census-only | 02 | 20 | 02:1, 04:15, 05:3, 06:1 |
+| Pearly | census-only | 02 | 19 | 02:1, 04:14, 05:3, 06:1 |
 
 ## Protected-passage anchor check
 
@@ -78,12 +78,3 @@ Source of truth: published masters + canon/roster.md skeleton.
 - **P3** chapter-02.md — OK
 - **P4** chapter-04.md — OK
 - **P5** chapter-06.md — OK
-
-## Drift lint — frequent names absent from roster (review)
-
-- Fifteen (9)
-- Weaver (9)
-- Give (8)
-- Masters (8)
-- Earth (8)
-- Cousin (8)
