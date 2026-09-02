@@ -1000,7 +1000,7 @@ A silence settled over the throne room. Sylva, standing at the foot of the dais,
 
 
 
-Ajani’s eyes flickered with a cold, sharp light. He had not slept properly in weeks, and the exhaustion was a physical weight, but the mention of reparations from the refugees in his own city had snapped something awake.
+Ajani's eyes flickered with a cold, sharp light. He had not slept properly in weeks, and the exhaustion was a physical weight, but the mention of reparations from the refugees in his own city had snapped something awake.
 
 
 <div class="dialogue-block">

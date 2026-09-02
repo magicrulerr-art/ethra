@@ -14,7 +14,7 @@ Green flame glowed softly along the king's claws. Somewhere in the shadows of th
 *Twirl the spear, then throw it at her face, grace her lightly... there.*
 
 <div class="dialogue-block">
-<p class="speech-line">"I am my father’s son, but I am not my father. I won’t miss the next time. The truth, now."</p>
+<p class="speech-line">"I am my father's son, but I am not my father. I won't miss the next time. The truth, now."</p>
 </div>
 
 
@@ -89,7 +89,7 @@ The ancient Hydromancer closed her eyes. For a long moment, she did not speak. W
 *Mother wanted me to see the ocean...*
 
 <div class="dialogue-block">
-<p class="speech-line">"This is a gift I can never repay. Ask me for anything, and if it is within my power I’ll make it so. If it’s not, I’ll find someone who will."</p>
+<p class="speech-line">"This is a gift I can never repay. Ask me for anything, and if it is within my power I'll make it so. If it's not, I'll find someone who will."</p>
 </div>
 
 
@@ -114,7 +114,7 @@ She inclined her head—not the formal bow of a diplomat, but the simple, tired 
 *Mother...*
 
 <div class="dialogue-block">
-<p class="speech-line">"Very well, now let’s return to the act. Call the rest of your delegation, please. Before Ajani, I am king... and just like the water is life in the desert, so must I be the life of our people. Negotiations must resume."</p>
+<p class="speech-line">"Very well, now let's return to the act. Call the rest of your delegation, please. Before Ajani, I am king... and just like the water is life in the desert, so must I be the life of our people. Negotiations must resume."</p>
 </div>
 
 

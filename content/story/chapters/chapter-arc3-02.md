@@ -216,10 +216,10 @@ The younger maid, emboldened by Mara's calm, stepped forward with a brush. <span
 Mara shot her a look that could have melted stone. The younger maid's ears flattened, but she did not take back the words. And somewhere behind the chaos of the morning, Ajani could have sworn he heard the faint, distant sound of laughter echoing through the palace corridors. Whether it was the maids, or T'van, or the ghost of his father watching from somewhere beyond the veil, he could not tell. But it was there. And it was not unkind.
 
 
-*Forty minutes?! That’s not enough!*
+*Forty minutes?! That's not enough!*
 
 <div class="dialogue-block">
-<p class="speech-line">"Send for the royal armor. I’ll skip breakfast... and bath. Perhaps just some fruit. I need clothes, quick! WHY DID NO ONE WAKE ME?!"</p>
+<p class="speech-line">"Send for the royal armor. I'll skip breakfast... and bath. Perhaps just some fruit. I need clothes, quick! WHY DID NO ONE WAKE ME?!"</p>
 </div>
 
 
@@ -311,7 +311,7 @@ Ajani climbed the dais, his breath still short from the run, his mane barely tam
 *Ok. Breathe and...*
 
 <div class="dialogue-block">
-<p class="speech-line">"BROTHERS! FRIENDS! WELCOME! SURELY YOU ALL KNOW OF THE GREAT PROJECT, THE GLORIOUS ROAD TO UNITE THE WORLD. HOWEVER, A KING CAN’T BE IN TWO PLACES AT ONCE. OUR PEOPLE NEED A REGENT: SOMEONE STRONG, SOMEONE LOYAL, SOMEONE WHO CAN BE WHAT THE WENGARI NEED. AND TELL ME, BROTHERS, WHAT DO WENGARI VALUE ABOVE ALL ELSE?!"</p>
+<p class="speech-line">"BROTHERS! FRIENDS! WELCOME! SURELY YOU ALL KNOW OF THE GREAT PROJECT, THE GLORIOUS ROAD TO UNITE THE WORLD. HOWEVER, A KING CAN'T BE IN TWO PLACES AT ONCE. OUR PEOPLE NEED A REGENT: SOMEONE STRONG, SOMEONE LOYAL, SOMEONE WHO CAN BE WHAT THE WENGARI NEED. AND TELL ME, BROTHERS, WHAT DO WENGARI VALUE ABOVE ALL ELSE?!"</p>
 </div>
 
 

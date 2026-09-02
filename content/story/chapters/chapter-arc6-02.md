@@ -71,7 +71,7 @@ The throne room was silent. Black Fire and Red Fire stirred at Ajani's feet but 
 
 
 <div class="dialogue-block">
-<p class="speech-line">"sigh, fine, what about an overwhelming show of force to exact the réparations ?, one full legion to site Verdantis?"</p>
+<p class="speech-line">"sigh, fine, what about an overwhelming show of force to exact the reparations ?, one full legion to site Verdantis?"</p>
 </div>
 
 

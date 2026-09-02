@@ -728,7 +728,7 @@ And the king, still seated on his throne, his claws resting on the cold stone, m
 *Good.*
 
 <div class="dialogue-block">
-<p class="speech-line">"Guards, please remove our sister, she’s feeling ill. As for the Humman, the ambassador can stay, the others do so at their own peril."</p>
+<p class="speech-line">"Guards, please remove our sister, she's feeling ill. As for the Humman, the ambassador can stay, the others do so at their own peril."</p>
 </div>
 
 *And just a little touch of eye flare — father always said that gave the Hummans the creeps.*
@@ -818,7 +818,7 @@ She spread her empty hands. <span class="speech">"That is my offer. That is my c
 *Laugh now, booming.*
 
 <div class="dialogue-block">
-<p class="speech-line">"Hahaha! What makes you believe the Wengari even need you Hummans? How many loads can you carry? How many days can you endure? You couldn’t even take ten steps. But I do concede you have your uses, so here is my proposal: take your most trusted aides, your best guilds, swear allegiance to us, become honorary Wengari, and you can share our wealth. I’ll even let you deal with your race on our behalf, but your guilds and aides stay here in our capital. It’s that or we simply erase you from the map. So, ambassador?"</p>
+<p class="speech-line">"Hahaha! What makes you believe the Wengari even need you Hummans? How many loads can you carry? How many days can you endure? You couldn't even take ten steps. But I do concede you have your uses, so here is my proposal: take your most trusted aides, your best guilds, swear allegiance to us, become honorary Wengari, and you can share our wealth. I'll even let you deal with your race on our behalf, but your guilds and aides stay here in our capital. It's that or we simply erase you from the map. So, ambassador?"</p>
 </div>
 
 *And now, smile with all the teeth.*
@@ -895,7 +895,7 @@ The Hydromancer stopped at the center of the sand, exactly where the Humman amba
 </div>
 
 
-*Raise an eyebrow. Father says they are like children, they aren’t malicious, just... naive.*
+*Raise an eyebrow. Father says they are like children, they aren't malicious, just... naive.*
 
 <div class="dialogue-block">
 <p class="speech-line">"Esteemed friends, I salute you. The Pyrinae and the Wengari have been friends since the times of the Third, and I appreciate you like our cubs appreciate water on the heavy days. Speak to me without flattery, for are we not friends?"</p>
@@ -928,7 +928,7 @@ The Root-Speaker, still cowled and silent, raised one hand. The air in the arena
 *Oh, this is new, I can use this. Smile.*
 
 <div class="dialogue-block">
-<p class="speech-line">"Let’s drop the act. I could kill every single one of you right now and walk out of here like nothing happened, yet... that wouldn’t help me or you. The old one can stay, the rest of you, scram."</p>
+<p class="speech-line">"Let's drop the act. I could kill every single one of you right now and walk out of here like nothing happened, yet... that wouldn't help me or you. The old one can stay, the rest of you, scram."</p>
 </div>
 
 *Now back to the throne.*
@@ -977,7 +977,7 @@ Green flame glowed softly along the king's claws. Somewhere in the shadows of th
 *Twirl the spear, then throw it at her face, grace her lightly... there.*
 
 <div class="dialogue-block">
-<p class="speech-line">"I am my father’s son, but I am not my father. I won’t miss the next time. The truth, now."</p>
+<p class="speech-line">"I am my father's son, but I am not my father. I won't miss the next time. The truth, now."</p>
 </div>
 
 
@@ -1052,7 +1052,7 @@ The ancient Hydromancer closed her eyes. For a long moment, she did not speak. W
 *Mother wanted me to see the ocean...*
 
 <div class="dialogue-block">
-<p class="speech-line">"This is a gift I can never repay. Ask me for anything, and if it is within my power I’ll make it so. If it’s not, I’ll find someone who will."</p>
+<p class="speech-line">"This is a gift I can never repay. Ask me for anything, and if it is within my power I'll make it so. If it's not, I'll find someone who will."</p>
 </div>
 
 
@@ -1077,7 +1077,7 @@ She inclined her head—not the formal bow of a diplomat, but the simple, tired 
 *Mother...*
 
 <div class="dialogue-block">
-<p class="speech-line">"Very well, now let’s return to the act. Call the rest of your delegation, please. Before Ajani, I am king... and just like the water is life in the desert, so must I be the life of our people. Negotiations must resume."</p>
+<p class="speech-line">"Very well, now let's return to the act. Call the rest of your delegation, please. Before Ajani, I am king... and just like the water is life in the desert, so must I be the life of our people. Negotiations must resume."</p>
 </div>
 
 
@@ -1242,7 +1242,7 @@ She raised the Petal-Shell, and its light brightened until it cast shimmering re
 </div>
 
 
-*Well, I am afraid to learn that you would need to stay, and even if your offer is gracious, we don’t need help either. I am offering a hand in friendship, and you have just quite literally spat on it. The Blight will come for us all. They grew larger since the Fourth Tyrant, and they have never skipped a Tide... I know you know, if we don’t unite, we will dwindle.*
+*Well, I am afraid to learn that you would need to stay, and even if your offer is gracious, we don't need help either. I am offering a hand in friendship, and you have just quite literally spat on it. The Blight will come for us all. They grew larger since the Fourth Tyrant, and they have never skipped a Tide... I know you know, if we don't unite, we will dwindle.*
 
 
 Sylara's fin-ridges went very still. The iridescent shimmer of her skin, which had pulsed with the gentle colors of the tidepools throughout the audience, dimmed to a deep, shadowed blue.
@@ -1266,7 +1266,7 @@ She raised the Petal-Shell, and the sphere of water still hovering before the th
 *Stubborn little...*
 
 <div class="dialogue-block">
-<p class="speech-line">"Perhaps I am not making myself clear. That is my error. Let me be blunt: by the time the road reaches your shores, your help won’t be needed. A friend doesn’t offer help when it suits them; he does it when it’s needed. You wish to be friend with the Wengari? Then do so like the Wengari do, with the full might behind them. Otherwise retreat to your shores. The road will never reach them, and if it does, it will be your doom."</p>
+<p class="speech-line">"Perhaps I am not making myself clear. That is my error. Let me be blunt: by the time the road reaches your shores, your help won't be needed. A friend doesn't offer help when it suits them; he does it when it's needed. You wish to be friend with the Wengari? Then do so like the Wengari do, with the full might behind them. Otherwise retreat to your shores. The road will never reach them, and if it does, it will be your doom."</p>
 </div>
 
 
@@ -1299,7 +1299,7 @@ She lowered the shell, and its light dimmed. <span class="speech">"I cannot give
 *At last!*
 
 <div class="dialogue-block">
-<p class="speech-line">"While your offer is, I admit, monumental by your standards... what can a single Veylar do? You are not predators, you can’t help us on land. I offer terms: I wish for a contingent of your twenty best craftsmen to help the road. Twenty is not such a large number, I believe. But we are not builders, we are warriors. We can carry the load, but we need someone to shape it. Is this acceptable for the Veylar? Mind you, I do not ask for free labour. They will be paid in full in whatever their currency is."</p>
+<p class="speech-line">"While your offer is, I admit, monumental by your standards... what can a single Veylar do? You are not predators, you can't help us on land. I offer terms: I wish for a contingent of your twenty best craftsmen to help the road. Twenty is not such a large number, I believe. But we are not builders, we are warriors. We can carry the load, but we need someone to shape it. Is this acceptable for the Veylar? Mind you, I do not ask for free labour. They will be paid in full in whatever their currency is."</p>
 </div>
 
 

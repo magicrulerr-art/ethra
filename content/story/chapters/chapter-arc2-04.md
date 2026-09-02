@@ -71,7 +71,7 @@ She spread her empty hands. <span class="speech">"That is my offer. That is my c
 *Laugh now, booming.*
 
 <div class="dialogue-block">
-<p class="speech-line">"Hahaha! What makes you believe the Wengari even need you Hummans? How many loads can you carry? How many days can you endure? You couldn’t even take ten steps. But I do concede you have your uses, so here is my proposal: take your most trusted aides, your best guilds, swear allegiance to us, become honorary Wengari, and you can share our wealth. I’ll even let you deal with your race on our behalf, but your guilds and aides stay here in our capital. It’s that or we simply erase you from the map. So, ambassador?"</p>
+<p class="speech-line">"Hahaha! What makes you believe the Wengari even need you Hummans? How many loads can you carry? How many days can you endure? You couldn't even take ten steps. But I do concede you have your uses, so here is my proposal: take your most trusted aides, your best guilds, swear allegiance to us, become honorary Wengari, and you can share our wealth. I'll even let you deal with your race on our behalf, but your guilds and aides stay here in our capital. It's that or we simply erase you from the map. So, ambassador?"</p>
 </div>
 
 *And now, smile with all the teeth.*
@@ -148,7 +148,7 @@ The Hydromancer stopped at the center of the sand, exactly where the Humman amba
 </div>
 
 
-*Raise an eyebrow. Father says they are like children, they aren’t malicious, just... naive.*
+*Raise an eyebrow. Father says they are like children, they aren't malicious, just... naive.*
 
 <div class="dialogue-block">
 <p class="speech-line">"Esteemed friends, I salute you. The Pyrinae and the Wengari have been friends since the times of the Third, and I appreciate you like our cubs appreciate water on the heavy days. Speak to me without flattery, for are we not friends?"</p>
@@ -181,7 +181,7 @@ The Root-Speaker, still cowled and silent, raised one hand. The air in the arena
 *Oh, this is new, I can use this. Smile.*
 
 <div class="dialogue-block">
-<p class="speech-line">"Let’s drop the act. I could kill every single one of you right now and walk out of here like nothing happened, yet... that wouldn’t help me or you. The old one can stay, the rest of you, scram."</p>
+<p class="speech-line">"Let's drop the act. I could kill every single one of you right now and walk out of here like nothing happened, yet... that wouldn't help me or you. The old one can stay, the rest of you, scram."</p>
 </div>
 
 *Now back to the throne.*

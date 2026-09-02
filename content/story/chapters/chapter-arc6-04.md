@@ -575,7 +575,7 @@ Nikolai's laugh boomed through the corridor, even louder than before. Cefiro clo
 
 
 <div class="dialogue-block">
-In the arena Kira remembers ajanis teachings <span class="speech">"most think the saber is like a tide wolf , fast , hard, destructive, but I was stuck fighting iris serpents for a year!! "</span> He shudders at the memory and continues <span class="speech">"And I tell you it is like a serpent, treacherous, annoying and poisonous, this is my faith form, serpents fang!"</span>, and also liras teachings <span class="speech">"you are a shadow paw the right points are your both right, there is no honor in death, only in living another day"</span>, she prepares her stance while the silverpelts take their places along the arena
+In the arena Kira remembers ajanis teachings <span class="speech">"most think the saber is like a tide wolf, fast, hard, destructive, but I was stuck fighting iris serpents for a year!! "</span> He shudders at the memory and continues <span class="speech">"And I tell you it is like a serpent, treacherous, annoying and poisonous, this is my faith form, serpents fang!"</span>, and also liras teachings <span class="speech">"you are a Shadow Paw, the right points are you're both right, there is no honor in death, only in living another day"</span>, she prepares her stance while the silverpelts take their places along the arena
 </div>
 
 

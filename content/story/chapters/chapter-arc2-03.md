@@ -285,7 +285,7 @@ And the king, still seated on his throne, his claws resting on the cold stone, m
 *Good.*
 
 <div class="dialogue-block">
-<p class="speech-line">"Guards, please remove our sister, she’s feeling ill. As for the Humman, the ambassador can stay, the others do so at their own peril."</p>
+<p class="speech-line">"Guards, please remove our sister, she's feeling ill. As for the Humman, the ambassador can stay, the others do so at their own peril."</p>
 </div>
 
 *And just a little touch of eye flare — father always said that gave the Hummans the creeps.*

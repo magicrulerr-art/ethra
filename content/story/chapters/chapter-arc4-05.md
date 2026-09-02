@@ -173,8 +173,6 @@ Ajani stared at T'van for a long moment. Then he set down the scroll, his green-
 <p class="speech-line">Kira shrugged. "It's true."</p>
 </div>
 
-<div class="dialogue-block">
-</div>
 
 <div class="dialogue-block">
 <span class="speech">"That is technically true. It does not diminish the compliment."</span> He rose from the cushion and hoisted Kira onto his shoulders in a single, fluid motion. She let out a startled yelp and grabbed his mane for balance. <span class="speech">"We are going to the water hole. We are going to swim. We are going to sit on warm rocks and look at the desert. And no one—no elders, no ambassadors, no regents—is going to stop us."</span>
@@ -517,4 +515,8 @@ Elyra was silent for a long moment. Her silver aura flickered, and her melodic v
 
 <div class="dialogue-block">
 <p class="speech-line">Elyra inclined her elegant head. "The Motted Paws will ask it. We have been patient for five thousand years. We can be patient a little longer."</p>
+</div>
+
+<div class="dialogue-block">
+<p class="speech-line">Ajani closed the grimoire and held it against his chest. The glow along his claws had steadied, warm and even. "This is still the best gift I have received today. The spear is magnificent. The fire foot is beloved. The daggers are precious. But this—this is a piece of the future."</p>
 </div>

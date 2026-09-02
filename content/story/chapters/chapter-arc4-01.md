@@ -417,7 +417,7 @@ Sylva spoke from the shadows beside the throne, her voice soft as ever. <span cl
 </div>
 
 <div class="dialogue-block">
-<p class="speech-line">"now for the foreign advisor, he needs to oversee every foreign delegation, our external policy, ensure the délégations are safe and keep us in line, the usual, don't eat their children, don't poison their food, don't kill them, at least those are the tales I've heard of what the other races think of us,  the task of that office is to change that perception we want to host the world and profit from them we can't do that if they think we will kill them at a moments notice I mean we will but they shouldn't be thinking of it, candidates?"</p>
+<p class="speech-line">"now for the foreign advisor, he needs to oversee every foreign delegation, our external policy, ensure the delegations are safe and keep us in line, the usual, don't eat their children, don't poison their food, don't kill them, at least those are the tales I've heard of what the other races think of us,  the task of that office is to change that perception we want to host the world and profit from them we can't do that if they think we will kill them at a moments notice I mean we will but they shouldn't be thinking of it, candidates?"</p>
 </div>
 
 <div class="dialogue-block">

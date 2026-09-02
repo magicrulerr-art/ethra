@@ -1000,7 +1000,7 @@ A silence settled over the throne room. Sylva, standing at the foot of the dais,
 
 
 
-Ajani’s eyes flickered with a cold, sharp light. He had not slept properly in weeks, and the exhaustion was a physical weight, but the mention of reparations from the refugees in his own city had snapped something awake.
+Ajani's eyes flickered with a cold, sharp light. He had not slept properly in weeks, and the exhaustion was a physical weight, but the mention of reparations from the refugees in his own city had snapped something awake.
 
 
 <div class="dialogue-block">
@@ -1102,7 +1102,7 @@ The throne room was silent. Black Fire and Red Fire stirred at Ajani's feet but 
 
 
 <div class="dialogue-block">
-<p class="speech-line">"sigh, fine, what about an overwhelming show of force to exact the réparations ?, one full legion to site Verdantis?"</p>
+<p class="speech-line">"sigh, fine, what about an overwhelming show of force to exact the reparations ?, one full legion to site Verdantis?"</p>
 </div>
 
 
@@ -3632,7 +3632,7 @@ Nikolai's laugh boomed through the corridor, even louder than before. Cefiro clo
 
 
 <div class="dialogue-block">
-In the arena Kira remembers ajanis teachings <span class="speech">"most think the saber is like a tide wolf , fast , hard, destructive, but I was stuck fighting iris serpents for a year!! "</span> He shudders at the memory and continues <span class="speech">"And I tell you it is like a serpent, treacherous, annoying and poisonous, this is my faith form, serpents fang!"</span>, and also liras teachings <span class="speech">"you are a shadow paw the right points are your both right, there is no honor in death, only in living another day"</span>, she prepares her stance while the silverpelts take their places along the arena
+In the arena Kira remembers ajanis teachings <span class="speech">"most think the saber is like a tide wolf, fast, hard, destructive, but I was stuck fighting iris serpents for a year!! "</span> He shudders at the memory and continues <span class="speech">"And I tell you it is like a serpent, treacherous, annoying and poisonous, this is my faith form, serpents fang!"</span>, and also liras teachings <span class="speech">"you are a Shadow Paw, the right points are you're both right, there is no honor in death, only in living another day"</span>, she prepares her stance while the silverpelts take their places along the arena
 </div>
 
 

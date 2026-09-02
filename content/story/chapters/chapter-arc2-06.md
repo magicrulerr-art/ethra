@@ -94,7 +94,7 @@ She raised the Petal-Shell, and its light brightened until it cast shimmering re
 </div>
 
 
-*Well, I am afraid to learn that you would need to stay, and even if your offer is gracious, we don’t need help either. I am offering a hand in friendship, and you have just quite literally spat on it. The Blight will come for us all. They grew larger since the Fourth Tyrant, and they have never skipped a Tide... I know you know, if we don’t unite, we will dwindle.*
+*Well, I am afraid to learn that you would need to stay, and even if your offer is gracious, we don't need help either. I am offering a hand in friendship, and you have just quite literally spat on it. The Blight will come for us all. They grew larger since the Fourth Tyrant, and they have never skipped a Tide... I know you know, if we don't unite, we will dwindle.*
 
 
 Sylara's fin-ridges went very still. The iridescent shimmer of her skin, which had pulsed with the gentle colors of the tidepools throughout the audience, dimmed to a deep, shadowed blue.
@@ -118,7 +118,7 @@ She raised the Petal-Shell, and the sphere of water still hovering before the th
 *Stubborn little...*
 
 <div class="dialogue-block">
-<p class="speech-line">"Perhaps I am not making myself clear. That is my error. Let me be blunt: by the time the road reaches your shores, your help won’t be needed. A friend doesn’t offer help when it suits them; he does it when it’s needed. You wish to be friend with the Wengari? Then do so like the Wengari do, with the full might behind them. Otherwise retreat to your shores. The road will never reach them, and if it does, it will be your doom."</p>
+<p class="speech-line">"Perhaps I am not making myself clear. That is my error. Let me be blunt: by the time the road reaches your shores, your help won't be needed. A friend doesn't offer help when it suits them; he does it when it's needed. You wish to be friend with the Wengari? Then do so like the Wengari do, with the full might behind them. Otherwise retreat to your shores. The road will never reach them, and if it does, it will be your doom."</p>
 </div>
 
 
@@ -151,7 +151,7 @@ She lowered the shell, and its light dimmed. <span class="speech">"I cannot give
 *At last!*
 
 <div class="dialogue-block">
-<p class="speech-line">"While your offer is, I admit, monumental by your standards... what can a single Veylar do? You are not predators, you can’t help us on land. I offer terms: I wish for a contingent of your twenty best craftsmen to help the road. Twenty is not such a large number, I believe. But we are not builders, we are warriors. We can carry the load, but we need someone to shape it. Is this acceptable for the Veylar? Mind you, I do not ask for free labour. They will be paid in full in whatever their currency is."</p>
+<p class="speech-line">"While your offer is, I admit, monumental by your standards... what can a single Veylar do? You are not predators, you can't help us on land. I offer terms: I wish for a contingent of your twenty best craftsmen to help the road. Twenty is not such a large number, I believe. But we are not builders, we are warriors. We can carry the load, but we need someone to shape it. Is this acceptable for the Veylar? Mind you, I do not ask for free labour. They will be paid in full in whatever their currency is."</p>
 </div>
 
 

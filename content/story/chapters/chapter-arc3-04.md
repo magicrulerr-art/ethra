@@ -470,7 +470,7 @@ The fire feet snorted and stamped in their harnesses, sensing the excitement in 
 The king was about to arbit the finals. And the desert would witness.
 
 
-*Oh goody... war mounts! I haven’t seen one since I was a child, look at them! Would anyone care if I touched one?!... Wait, regal! Don’t look too much, regal!*
+*Oh goody... war mounts! I haven't seen one since I was a child, look at them! Would anyone care if I touched one?!... Wait, regal! Don't look too much, regal!*
 
 <div class="dialogue-block">
 <p class="speech-line">"AHEM... WE WILL START WHEN THE INCENSE BURNS.... NOW!"</p>
