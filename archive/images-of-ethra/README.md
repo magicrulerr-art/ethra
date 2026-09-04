@@ -120,3 +120,5 @@ egg count explicit. Sidecar for v4 lives in static/images/.
 
 - chapter-arc7-03-v6.png/.webp: v6 shipped then REJECTED by Ainz (wurm must CONSTRICT Ajani; do a gigant coiled wurm and do not show Ajani). Superseded by v8.
 - chapter-arc7-03-v7.png/.webp: v7 REJECT (constriction composition right, but wurm head regrew cat ears + teeth, and Ajani ear-crown peeked). Superseded by v8.
+
+- chapter-arc7-03-v8.png/.webp + v8 sidecar: v8 shipped then PIXEL-EDITED into v9 at Ainz's request ("he looks a bit bald... edit the image and not regenerate it"): the hidden king's bare crown dome dissolved into the dark coil hatch via mirrored texture patch, no regeneration. Superseded by v9.
