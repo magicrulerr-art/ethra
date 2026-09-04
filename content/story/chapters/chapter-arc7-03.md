@@ -119,3 +119,131 @@ Vasha's ears came forward at that, sharper than any question she had asked. The 
 Vasha's smile came slow, and behind it, in her flat, cold eyes, a glint — not amusement. Appraisal. The look of a Wengari weighing a thing she had not yet decided to spend.
 The information sat on the table between them, unclaimed, and she handled it the way Maren handled a ledger or a trader handled an unguarded caravan: as currency. The festival. The king's refusal of his training. The creature from the marshes, growling for its pupil in the dark. The cousins, walking where the king walked.
 The fourth moon. The month. Tomorrow. Vasha did the arithmetic in her head, and her smile got a degree warmer, and nothing in the room was quite as safe as it had been a moment before.
+
+---
+
+**The Staff**
+
+L'vat walked into the gardens and kept walking until the palace sounds were gone. He found a corner where the kyre flowers grew tall and no path passed, and stopped.
+
+A staff grew from his body. It came out of his side slowly, dark and ringed, longer than he was tall. He took it in his limbs, carried it to the soft earth, and planted it.
+
+His eyes began to glow pale green. He leaned toward the staff and spoke.
+
+<div class="dialogue-block">
+<p class="speech-line">"You were right, father. His Aura is scarred. Five years at most. He's leaking it."</p>
+</div>
+
+The glow pulsed once.
+
+<div class="dialogue-block">
+<p class="speech-line">"I know what we must do so he fulfills the pact. But it will change him forever...."</p>
+</div>
+
+He was quiet a moment.
+
+<div class="dialogue-block">
+<p class="speech-line">"Is there truly no other way?"</p>
+</div>
+
+The staff stood in the earth, and the glow held.
+
+---
+
+Back in the cavern, Cefiro spoke.
+
+<div class="dialogue-block">
+<p class="speech-line">"Cousin, are you alright? Your form doesn't seem quite right."</p>
+</div>
+
+Ajani opened his mouth to answer, but before he could do so, Blackie's pincer closed on the edge of his robe and pulled, and at the same time Reddy did likewise with Nikolai. The scorpions dragged king and Tsar toward the sand wurm and Whitey, clicking with excitement.
+
+Pearl turned back to Kira and Ivan. She climbed onto Kira's shoulder and clicked softly until their trembling slowed.
+
+Nikolai went to Whitey as soon as they reached her. He knelt beside her with one hand on her jaw, murmuring low. Her mandibles parted in a long breath.
+
+The great gold-green sand wurm left her side. It ignored the Tsar. It leaned down toward Ajani, lowering its head until it hung level with his face, mandibles parted.
+
+Almost as if it were smelling him.
+
+Ajani stood still. No one moved.
+
+*'Why are all the creepy things attracted to me?!'*
+
+Ajani was panicking inside. He did not show it. Cefiro watched him with a careful eye.
+
+Across the cavern, Anastasia, Vanya and Nadya had gathered around Ivan and Kira, consoling them.
+
+Nikolai stayed with Whitey. He stroked her jaw and spoke to her softly.
+
+<div class="dialogue-block">
+<p class="speech-line">"Are these your babies? But you're too young!"</p>
+</div>
+
+Whitey answered with a screech, sharp and grating, and Nikolai nodded along to it. He understood every word.
+
+He looked at the sand wurm. He looked at Whitey. The question was plain in his eyes.
+
+Whitey barely nodded.
+
+Nikolai slumped. He looked as if he had lost a daughter.
+
+<div class="dialogue-block">
+<p class="speech-line">"When did you even have the time?"</p>
+</div>
+
+he murmured.
+
+<div class="dialogue-block">
+<p class="speech-line">"We were riding most days! And we've been here only three...."</p>
+</div>
+
+The sand wurm leaned closer to Ajani and puffed a cloud of golden smoke into his face.
+
+Everyone stood at attention. The scorpions and Whitey motioned the company not to intervene, and the company did not intervene.
+
+The smoke filled Ajani's nose and mouth. His lungs burned. His eyes watered. He could barely breathe.
+
+Then he heard a voice, although perhaps voice was too Wengari a word for it. With it came images, like L'vat's silent speech: pictures first, meaning after. The images formed a sentence. The sentence became words.
+
+<div class="dialogue-block">
+<p class="speech-line">"We who are eternal salute the father of our cousins and the benefactor of the desert. It's been a long time since we've come up. We ask for this girl to be our mate so our line may endure. Our cousins say you are the lord of the land. We ask for refuge, and offer in return to keep the wasps away, and when the time comes, one of our children, if they so choose, as your steed."</p>
+</div>
+
+Ajani was still trying to make sense of it all when Blackie, Reddy and Pearl began clasping their pincers together, fast and eager, as if saying yes. Yes, he accepts.
+
+Everyone stood dumbfounded.
+
+Then the voice came again.
+
+<div class="dialogue-block">
+<p class="speech-line">"We know you're hurt. We can feel it. Grant our request and we can teach you a way to stave off the damage. We, the ancient ones, are familiar with such ailments."</p>
+</div>
+
+Ajani had not said a word.
+
+New images came into his head.
+
+<div class="dialogue-block">
+<p class="speech-line">"Wonderful! Our cousins say you have accepted. They also say it's customary for you to name things, and that you have wonderful ones. We humbly request you choose one for us befitting of our station, and for our offspring as well. We intend to make this land our new home. If we are to thrive, we want to be good neighbors. We don't require much. We can hunt on our own. And we offer our molting for your use, roughly one every winter."</p>
+</div>
+
+<div class="dialogue-block">
+<p class="speech-line">"We are one of the last of our kind. Something has been killing us. We are afraid. So we also request an oath of protection, and we will swear one of fealty, just like our cousins."</p>
+</div>
+
+An image formed in Ajani's head. Whitey.
+
+<div class="dialogue-block">
+<p class="speech-line">"That young one told us she has a family up north. Great beings like us, yet different. We would also like to visit them sometime after our offspring's birth. We need to warn them of the danger. Whatever is killing us is far stronger than you. You need to be stronger to protect us and our offspring. Agree to our terms."</p>
+</div>
+
+The sand wurm moved.
+
+Its coils closed around Ajani, ring upon ring of gold-green chitin, until they covered him completely.
+
+Everyone felt the shift. Weapons came up. Nikolai struck first, and the halberd bounced off the chitin as it had bounced before. The others struck too. Steel and sorcery skidded off. The scorpions turned against their own cousin and fired their poison, and the poison did nothing.
+
+The coils held.
+
+Ajani had still not spoken.

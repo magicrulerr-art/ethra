@@ -84,7 +84,8 @@ If the story evolves, the ledger regrows; this file changes only when a decision
 | Sylen | - | census-only | role unverified |
 | Kellan | - | census-only | role unverified |
 | Silverpelt | - | census-only | family or individual unverified |
-| Whitey | - | census-only | sand wurm (Arc VII); title ratification pending |
+| Whitey | - | alive | SNOW WURM of the northern line (corrected 2026-09-04 from "sand wurm"); Nikolai's since the egg; mate of the gold-green sand wurm; mother of the hybrid eggs |
+| gold-green sand wurm | one of "the ancient ones" | alive | deep-line wurm, bigger than any snow wurm; chitin turns all weapons (arc7-02:138); communicates by images/voice; mated with Whitey; petitioned Ajani (Arc VII ch3 scene 3) |
 | Pearly | - | census-only | likely Pearl variant; verify |
 
 ## Rulings cross-references
