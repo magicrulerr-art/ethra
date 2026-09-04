@@ -663,6 +663,13 @@ They looked at each other.
 </div>
 
 
+Ajani lifted a paw to his nose. When he lowered it, a single drop of blood sat on the gold of his fur, dark and perfectly round. He looked at it for a long moment, then washed it away in the pool and watched the water swallow it.
+
+*'It stopped at the wall. It was supposed to stop at the wall.'*
+
+Across the steam, Cefiro was still staring at the mark on his arm. Whatever the prince had seen in that flare, he kept. And the ache in Ajani's bones pulsed once, quiet and deliberate — like something taking its measurements.
+
+
 <div class="dialogue-block">
 <p class="speech-line">Cefiro leaned back against the edge of the pool, the steam rising around his white shoulders. "You know Nadya has rejected five proposals already. Father is going mad. Wait until she learns you are king of the Wengari and a White Dawn."</p>
 </div>
@@ -885,6 +892,9 @@ Kira and Cefiro had gone to the temple. Kira had said she wanted to help the one
 Now the four generals stood before the throne. M'rak, his burn-scarred arms folded. Reva, her golden eyes still hollow. Zephyr, his scarred face still bearing the marks of the shadow charge. Yvaria, her drum harness still strapped across her chest. Sylva stood at the foot of the dais, her silver-chased armor still dented. Vasha stood apart, her stylus already poised over a fresh ledger.
 
 
+The ache had followed him out of the bathhouse and settled behind his eyes. Whatever the generals were about to tell him, he knew it would reach him half a heartbeat late, as if the numbers had a great distance to cross.
+
+
 <div class="dialogue-block">
 <p class="speech-line">Ajani leaned forward. "Now. Tell me the true tally of the war."</p>
 </div>
@@ -1012,11 +1022,3 @@ Ajani's eyes flickered with a cold, sharp light. He had not slept properly in we
 <div class="dialogue-block">
 <p class="speech-line">Sylva straightened. "The foreign advisor would be better suited to answer, Your Highness. She has been monitoring the Humman trade networks since the war began."</p>
 </div>
-
-
-<div class="dialogue-block">
-<p class="speech-line">"Then bring her."</p>
-</div>
-
-
-The guard bowed and withdrew. The throne room settled into silence, broken only by the soft breathing of Black Fire and Red Fire at Ajani's feet. The four generals remained at attention. Vasha's stylus had stopped moving. Sylva stood at the foot of the dais, her ancient eyes fixed on the door.

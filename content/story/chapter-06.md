@@ -662,6 +662,13 @@ They looked at each other.
 </div>
 
 
+Ajani lifted a paw to his nose. When he lowered it, a single drop of blood sat on the gold of his fur, dark and perfectly round. He looked at it for a long moment, then washed it away in the pool and watched the water swallow it.
+
+*'It stopped at the wall. It was supposed to stop at the wall.'*
+
+Across the steam, Cefiro was still staring at the mark on his arm. Whatever the prince had seen in that flare, he kept. And the ache in Ajani's bones pulsed once, quiet and deliberate — like something taking its measurements.
+
+
 <div class="dialogue-block">
 <p class="speech-line">Cefiro leaned back against the edge of the pool, the steam rising around his white shoulders. "You know Nadya has rejected five proposals already. Father is going mad. Wait until she learns you are king of the Wengari and a White Dawn."</p>
 </div>
@@ -882,6 +889,9 @@ Kira and Cefiro had gone to the temple. Kira had said she wanted to help the one
 
 
 Now the four generals stood before the throne. M'rak, his burn-scarred arms folded. Reva, her golden eyes still hollow. Zephyr, his scarred face still bearing the marks of the shadow charge. Yvaria, her drum harness still strapped across her chest. Sylva stood at the foot of the dais, her silver-chased armor still dented. Vasha stood apart, her stylus already poised over a fresh ledger.
+
+
+The ache had followed him out of the bathhouse and settled behind his eyes. Whatever the generals were about to tell him, he knew it would reach him half a heartbeat late, as if the numbers had a great distance to cross.
 
 
 <div class="dialogue-block">
@@ -2210,6 +2220,13 @@ The Lament's limb touched Ajani's forehead, and a pulse of light passed between 
 Then the Lament's other limb snapped forward and struck Ajani across the back of the head with enough force to drop him to his knees. The crack echoed across the silent wall.
 
 
+The blow had landed. And through the limb that delivered it, the Lament had felt something else — the aura beneath the fur, where the strike had touched. Torn. Frayed at every edge. A fire that should have burned steady, guttering like a wick in wind.
+
+*'His Aura is all messed up. Father was right, he is on the brink.'*
+
+The Deep had felt him burning through the network. L'vat had called that feeling worry. Worry, it turned out, had been too small a word.
+
+
 <div class="dialogue-block">
 <p class="speech-line">"STUPID DISCIPLE! I TOLD YOU TO NEVER TRY THAT RIDICULOUS IDEA OF SPIRIT SUMMONING! YOU COULD HAVE DIED!"</p>
 </div>
@@ -2423,6 +2440,9 @@ L'vat had not stopped talking since they passed through the northern gate. The a
 <div class="dialogue-block">
 <p class="speech-line">Ajani smiled and nodded. "Understood."</p>
 </div>
+
+
+Halfway down the ruined street, Ajani's paw found the wall — a brief, unconscious thing, over in an instant, the sort of thing only someone already watching for it would have seen. L'vat was already watching for it. The Lament said nothing. He had said everything.
 
 
 They walked in silence for a moment, passing the memorial pillar in the eastern plaza. The names of the fallen gleamed in the afternoon sun, freshly carved, still sharp. L'vat stopped. His multifaceted eyes moved across the names—Wengari, Pyrinae, human. Forty-seven Wengari. Twelve Pyrinae. The Hummans who had died on the wall.

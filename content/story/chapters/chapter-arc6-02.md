@@ -1,6 +1,14 @@
 ## Chapter 2: Rebuilding
 
 <div class="dialogue-block">
+<p class="speech-line">"Then bring her."</p>
+</div>
+
+
+The guard bowed and withdrew. The throne room settled into silence, broken only by the soft breathing of Black Fire and Red Fire at Ajani's feet. The four generals remained at attention. Vasha's stylus had stopped moving. Sylva stood at the foot of the dais, her ancient eyes fixed on the door.
+
+
+<div class="dialogue-block">
 <p class="speech-line">Elyra entered with the quiet grace of Flowing Water. The Motted Paw foreign advisor moved across the polished stone and inclined her head toward the throne. "Your Highness. You wish to discuss reparations from Verdantis." It was not a question. She had been listening outside the door.</p>
 </div>
 
@@ -971,8 +979,3 @@ Ajani looked at the assembled court—the generals, the elders, the advisors, th
 
 
 Vasha's stylus paused. For the first time since the war began, the spymaster looked up from her ledger with something that was not quite surprise but was certainly not her usual cold indifference. The king had just asked her to build an official intelligence office—a permanent institution, funded by the crown, with a mandate that would outlast any single council member. She had been waiting for this question since the day Ajani created the Council of the Untrustworthy.
-
-
-<div class="dialogue-block">
-<span class="speech">"The Shadow Office,"</span> she said, her voice flat but carrying the faintest edge of satisfaction. <span class="speech">"That is what it should be called. Not the intelligence office. The Shadow Office. The name will remind everyone that the crown's eyes are always watching, even when the sun is high."</span>
-</div>

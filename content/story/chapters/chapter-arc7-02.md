@@ -205,6 +205,10 @@ The lore of the Wengari knew thunder wasps as a horror the size of a hawk. These
 
 They were fighting a losing battle. For every wasp that fell, twenty more replaced it. Bruises and cuts began to show on everyone — not because the wasps were hard to kill. They died easily. They died in drops, and the swarm was an ocean. It was like fighting a sandstorm.
 
+Ajani's spear took two of them — and a third passed inside the arc that should have caught it. He saw it coming. He had always seen it coming. His body arrived half a heartbeat after his eyes did, and its sting opened a hot line along his ribs.
+
+*'Slow. I'm slow.'*
+
 They started to converge again in a circle, falling back toward the dome, and Anastasia was giving her all — frost pouring off her in sheets, the dome white-hot with effort — so that none approached the children.
 
 Then came the roar.

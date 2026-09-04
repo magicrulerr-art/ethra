@@ -1,6 +1,11 @@
 ## Chapter 3: The Vision
 
 <div class="dialogue-block">
+<span class="speech">"The Shadow Office,"</span> she said, her voice flat but carrying the faintest edge of satisfaction. <span class="speech">"That is what it should be called. Not the intelligence office. The Shadow Office. The name will remind everyone that the crown's eyes are always watching, even when the sun is high."</span>
+</div>
+
+
+<div class="dialogue-block">
 <p class="speech-line">She set down her stylus and began to speak with the precision of someone who had been planning this recommendation for months. "The Council of the Untrustworthy should be the core of the new office. We are already operational. We have networks in every family, contacts in every delegation, sources in the Humman quarter and the Pyrinae district. But we are small. Five members, a handful of operatives, no dedicated funding beyond what we can skim from the Council's discretionary budget. To become a true intelligence office, we need three things: staff, funding, and legal authority."</p>
 </div>
 
@@ -208,6 +213,13 @@ The Lament's limb touched Ajani's forehead, and a pulse of light passed between 
 
 
 Then the Lament's other limb snapped forward and struck Ajani across the back of the head with enough force to drop him to his knees. The crack echoed across the silent wall.
+
+
+The blow had landed. And through the limb that delivered it, the Lament had felt something else — the aura beneath the fur, where the strike had touched. Torn. Frayed at every edge. A fire that should have burned steady, guttering like a wick in wind.
+
+*'His Aura is all messed up. Father was right, he is on the brink.'*
+
+The Deep had felt him burning through the network. L'vat had called that feeling worry. Worry, it turned out, had been too small a word.
 
 
 <div class="dialogue-block">
@@ -422,6 +434,9 @@ L'vat had not stopped talking since they passed through the northern gate. The a
 <div class="dialogue-block">
 <p class="speech-line">Ajani smiled and nodded. "Understood."</p>
 </div>
+
+
+Halfway down the ruined street, Ajani's paw found the wall — a brief, unconscious thing, over in an instant, the sort of thing only someone already watching for it would have seen. L'vat was already watching for it. The Lament said nothing. He had said everything.
 
 
 They walked in silence for a moment, passing the memorial pillar in the eastern plaza. The names of the fallen gleamed in the afternoon sun, freshly carved, still sharp. L'vat stopped. His multifaceted eyes moved across the names—Wengari, Pyrinae, human. Forty-seven Wengari. Twelve Pyrinae. The Hummans who had died on the wall.
@@ -1034,14 +1049,3 @@ Cefiro extended both paws, and the desert air around him crystallized. Two blade
 <div class="dialogue-block">
 <span class="speech">"In the ice, one must always be ready for everything."</span> His voice was different now—still formal, still careful, but carrying the cadence of something learned long ago, something passed down through generations of Snow Paw warriors. <span class="speech">"The snow is treacherous. It hides crevasses. It buries landmarks. It shifts beneath your feet without warning. The wind plays tricks with the mind—it howls like a living thing, it steals your heat, it makes you see shapes that are not there. A warrior of the Ice City must be hard as the ice and quick as the wind. Hard enough to endure. Quick enough to adapt. Come at me, cousin."</span>
 </div>
-
-
-Kira raised her practice saber and charged. She was fast—Ajani had trained her well, and the months of morning drills had honed her reflexes—but Cefiro was faster. The short blade trapped her wooden saber mid-swing, the ice catching the wood and holding it, while the long blade came to rest gently against the side of her neck.
-
-
-<div class="dialogue-block">
-<p class="speech-line">"You're dead, cousin. Again."</p>
-</div>
-
-
-Kira pulled back and attacked again. And again. And again. Each time, the short blade trapped her weapon. Each time, the long blade found her throat or her heart or her spine. Cefiro moved with an economy of motion that made Ajani's saber work look almost extravagant—each step was precise, each block was minimal, each counter was exactly where it needed to be and nowhere else.

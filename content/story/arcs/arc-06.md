@@ -1,6 +1,6 @@
 # Chapter 6: The Cost
 
-*65,891 words across 5 chapters*
+*66,165 words across 5 chapters*
 
 ### The Cost
 
@@ -8,15 +8,15 @@ The throne room was not a throne room anymore. It was a hospital ward, a war cou
 
 ### Rebuilding
 
-Elyra entered with the quiet grace of Flowing Water. The Motted Paw foreign advisor moved across the polished stone and inclined her head toward the throne. "Your Highness. You wish to discuss reparat...
+The guard bowed and withdrew. The throne room settled into silence, broken only by the soft breathing of Black Fire and Red Fire at Ajani's feet. The four generals remained at attention. Vasha's stylu...
 
 ### The Vision
 
-She set down her stylus and began to speak with the precision of someone who had been planning this recommendation for months. "The Council of the Untrustworthy should be the core of the new office. W...
+"The Shadow Office," she said, her voice flat but carrying the faintest edge of satisfaction. "That is what it should be called. Not the intelligence office. The Shadow Office. The name will remind ev...
 
 ### The Road Begins
 
-"Hard as ice. Quick as wind. You are being hard, but you are not being quick. You commit to each strike before you see my response. You must watch. You must wait. The ice does not attack the mountain....
+Kira raised her practice saber and charged. She was fast—Ajani had trained her well, and the months of morning drills had honed her reflexes—but Cefiro was faster. The short blade trapped her wooden s...
 
 ### Epilogue
 

@@ -150,6 +150,8 @@ The room went very quiet. Seris closed her eyes. Sylva's folded paws tightened b
 <p class="speech-line">"Hm," said L'vat, soft as soil settling. "That answer was almost adequate."</p>
 </div>
 
+The words had come half a heartbeat late, and they both knew it. Somewhere behind Ajani's eyes the ache pulsed — a dull, measured thing, like a drum struck in another room. He let the blink last a moment longer than a blink should, and when the room came back, L'vat was still watching him.
+
 At the north end of the table, the Tsar of the Snow Paws was very still.
 
 Nikolai's temper was a quick thing — everyone at this table knew it, and more than one of them had cause to remember it. The frost came into him fast now, the old avalanche rising at the smallness of the question, at the presumption of a man who had marched nine hundred kilometers into another man's war and now sat asking who was owed. His jaw set. His claws pressed white against the table's edge.

@@ -1,5 +1,16 @@
 ## Chapter 4: The Road Begins
 
+Kira raised her practice saber and charged. She was fast—Ajani had trained her well, and the months of morning drills had honed her reflexes—but Cefiro was faster. The short blade trapped her wooden saber mid-swing, the ice catching the wood and holding it, while the long blade came to rest gently against the side of her neck.
+
+
+<div class="dialogue-block">
+<p class="speech-line">"You're dead, cousin. Again."</p>
+</div>
+
+
+Kira pulled back and attacked again. And again. And again. Each time, the short blade trapped her weapon. Each time, the long blade found her throat or her heart or her spine. Cefiro moved with an economy of motion that made Ajani's saber work look almost extravagant—each step was precise, each block was minimal, each counter was exactly where it needed to be and nowhere else.
+
+
 <div class="dialogue-block">
 <p class="speech-line">"Hard as ice. Quick as wind. You are being hard, but you are not being quick. You commit to each strike before you see my response. You must watch. You must wait. The ice does not attack the mountain. The ice waits for the thaw. Then it moves."</p>
 </div>
