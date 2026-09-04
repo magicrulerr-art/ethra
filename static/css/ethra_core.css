@@ -2362,7 +2362,8 @@ body.leaving{opacity:0;transition:opacity .3s ease}
 #arc6-ch04 h2,
 #arc6-ch05 h2,
 #arc7-ch01 h2,
-#arc7-ch02 h2 { background: none; }
+#arc7-ch02 h2,
+#arc7-ch03 h2 { background: none; }
 
 #arc1-ch02 h2::before,
 #arc4-ch05 h2::before,
@@ -2398,7 +2399,8 @@ body.leaving{opacity:0;transition:opacity .3s ease}
 #arc6-ch04 h2::before,
 #arc6-ch05 h2::before,
 #arc7-ch01 h2::before,
-#arc7-ch02 h2::before {
+#arc7-ch02 h2::before,
+#arc7-ch03 h2::before {
   content: ''; position: absolute; right: -4px; top: -12px; bottom: -6px; width: 168px;
   background: right center / cover no-repeat;
   -webkit-mask-image: linear-gradient(to left, rgba(0,0,0,0.95), rgba(0,0,0,0.40) 60%, transparent 96%);
@@ -2441,4 +2443,6 @@ body.leaving{opacity:0;transition:opacity .3s ease}
 #arc6-ch05 h2::before { background-image: url('../images/title-arc6-ch05.webp'); }
 #arc7-ch01 h2::before { background-image: url('../images/title-arc7-ch01.webp'); }
 #arc7-ch02 h2::before { background-image: url('../images/title-arc7-ch02.webp'); }
+#arc7-ch03 h2::before { background-image: url('../images/title-arc7-ch03.webp'); }
+#arc1-ch02 h2::before { filter: brightness(1.25); }  /* tuned on the live pilot */
 #arc1-ch02 h2::before { filter: brightness(1.25); }  /* tuned on the live pilot */

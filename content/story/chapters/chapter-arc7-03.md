@@ -1,4 +1,4 @@
-## Chapter 3: A Cub's Play
+## Chapter 3: The Ancient one
 
 **A Cub's Play**
 

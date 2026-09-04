@@ -110,3 +110,7 @@ rejected, these are the starting points for v5):
 
 v4 = v2 cavern phrasing + v3 leg/scale phrasing, "cathedral" word removed,
 egg count explicit. Sidecar for v4 lives in static/images/.
+
+- chapter-arc7-03-v1.png/.webp/.jpg: v1 REJECT (full-color watercolor wash broke house style; wurm arched over Ajani instead of coiling; open fanged mouth). Superseded by v4.
+- chapter-arc7-03-v2.png/.webp: v2 REJECT (palette fixed but coil still not wrapping; open fanged mouth). Superseded by v4.
+- chapter-arc7-03-v3.png/.webp: v3 REJECT (coil beat achieved, mandibles closed, but torso bare - regalia stripped). Superseded by v4.

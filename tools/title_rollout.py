@@ -55,6 +55,7 @@ CROPS = {
     31: ('arc6-ch05', 'static/images/chapter-arc6-05-v1.png',            0.55, 0.10, 1.00, 0.60),
     32: ('arc7-ch01', 'archive/images-of-ethra/chapter-arc7-01-v3.png',  0.55, 0.00, 1.00, 0.38),
     33: ('arc7-ch02', 'static/images/chapter-arc7-02-v4.png',            0.55, 0.00, 1.00, 0.38),
+    34: ('arc7-ch03', 'static/images/chapter-arc7-03-v4.png',            0.62, 0.05, 1.00, 0.55),
 }
 # the two live pilots fold into the shared block (existing webps kept as-is)
 PILOTS = ['arc1-ch02', 'arc4-ch05']
