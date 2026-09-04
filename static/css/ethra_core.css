@@ -2443,6 +2443,6 @@ body.leaving{opacity:0;transition:opacity .3s ease}
 #arc6-ch05 h2::before { background-image: url('../images/title-arc6-ch05.webp'); }
 #arc7-ch01 h2::before { background-image: url('../images/title-arc7-ch01.webp'); }
 #arc7-ch02 h2::before { background-image: url('../images/title-arc7-ch02.webp'); }
-#arc7-ch03 h2::before { background-image: url('../images/title-arc7-ch03.webp'); }
+#arc7-ch03 h2::before { background-image: url('../images/title-arc7-ch03.webp?v=2'); }
 #arc1-ch02 h2::before { filter: brightness(1.25); }  /* tuned on the live pilot */
 #arc1-ch02 h2::before { filter: brightness(1.25); }  /* tuned on the live pilot */

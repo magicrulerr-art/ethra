@@ -114,3 +114,6 @@ egg count explicit. Sidecar for v4 lives in static/images/.
 - chapter-arc7-03-v1.png/.webp/.jpg: v1 REJECT (full-color watercolor wash broke house style; wurm arched over Ajani instead of coiling; open fanged mouth). Superseded by v4.
 - chapter-arc7-03-v2.png/.webp: v2 REJECT (palette fixed but coil still not wrapping; open fanged mouth). Superseded by v4.
 - chapter-arc7-03-v3.png/.webp: v3 REJECT (coil beat achieved, mandibles closed, but torso bare - regalia stripped). Superseded by v4.
+
+- chapter-arc7-03-v4.png/.webp: v4 shipped then SUPERSEDED by v6 (Ainz: ajani looks like a cat; wurm must dwarf him, one coil covering head to toe, 20m vs 2m).
+- chapter-arc7-03-v5.png/.webp: v5 REJECT (scale + lion-pharaoh Ajani fixed, but lion grammar leaked onto wurm head: cat ears, pink nose, roaring fanged mouth). Superseded by v6.
