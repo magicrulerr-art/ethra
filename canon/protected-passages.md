@@ -17,7 +17,7 @@ authorize a cut.
 | P2 | chapter-01.md | 440-630 | Kyre-Tree negotiation — first descent and pact | The Kyre Tree gave the equivalent of a long held breath |
 | P3 | chapter-02.md | 210-470 | Kyre-Tree negotiation — chamber of the five families | Waiting for a king who could speak to it as an equal |
 | P4 | chapter-04.md | 1095-1190 | Kyre-Tree negotiation / Tree POV — mythic narration | The lord of the desert had been called many things across millions of years |
-| P5 | chapter-06.md | 1186-1215 | Tree absolution — White Dawn address | Do not die on the road, White Dawn |
+| P5 | chapter-06.md | 1186-1226 | Tree absolution — White Dawn address | Do not die on the road, White Dawn |
 
 ## Class protections (no single anchor — read-only by category)
 

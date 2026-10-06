@@ -1,19 +1,19 @@
 # Ethra Canon Ledger — DERIVED (regenerable, never hand-edited)
 
-Compiled: 2026-09-02 06:30 by `canon/compile_canon.py` from 9 canon files.
+Compiled: 2026-10-05 18:31 by `canon/compile_canon.py` from 10 canon files.
 Source of truth: published masters + canon/roster.md skeleton.
 
 ## Entity census (counts per canonical unit)
 
 | entity | status | first | total | by unit |
 |---|---|---|---|---|
-| Ajani Brightmane | alive | 01 | 275 | 01:29, 02:49, 03:69, 04:33, 05:33, 06:55, arc7:arc7-01:6, arc7:arc7-02:1 |
-| Kira Brightmane | alive | 04 | 362 | 04:115, 05:44, 06:172, arc7:arc7-01:24, arc7:arc7-02:7 |
+| Ajani Brightmane | alive | 01 | 276 | 01:29, 02:49, 03:69, 04:33, 05:33, 06:55, arc7:arc7-01:6, arc7:arc7-02:1, arc7:arc7-04:1 |
+| Kira Brightmane | alive | 04 | 361 | 04:112, 05:44, 06:170, arc7:arc7-01:24, arc7:arc7-02:7, arc7:arc7-03:3, arc7:arc7-04:1 |
 | granddaughter-Kira | excised | — | 0 | — |
 | Mira | alive | 02 | 54 | 02:5, 03:17, 04:18, 06:14 |
 | Mara | alive | 03 | 15 | 03:13, 04:2 |
 | Lena | missing | 03 | 37 | 03:6, 04:19, 05:7, 06:4, arc7:arc7-03:1 |
-| L'vat | alive | 01 | 104 | 01:5, 02:14, 03:20, 04:11, 05:4, 06:41, arc7:arc7-01:9 |
+| L'vat | alive | 01 | 105 | 01:5, 02:14, 03:20, 04:10, 05:4, 06:40, arc7:arc7-01:10, arc7:arc7-03:2 |
 | Xal'thyra | adjudication-pending | 02 | 2 | 02:1, 06:1 |
 | Kareth | - | 02 | 126 | 02:37, 03:30, 04:52, 05:7 |
 | Uthgard IX | - | 01 | 24 | 01:12, 02:6, 03:5, 04:1 |
@@ -22,13 +22,13 @@ Source of truth: published masters + canon/roster.md skeleton.
 | Solen | - | 02 | 84 | 02:7, 03:18, 04:28, 05:20, 06:11 |
 | Seris | - | 02 | 166 | 02:18, 03:20, 04:72, 05:5, 06:35, arc7:arc7-01:11, arc7:arc7-03:5 |
 | Sylva | - | 03 | 320 | 03:95, 04:123, 05:31, 06:52, arc7:arc7-01:12, arc7:arc7-03:7 |
-| Anastasia | - | 06 | 76 | 06:49, arc7:arc7-01:20, arc7:arc7-02:7 |
-| Nikolai | - | 06 | 171 | 06:121, arc7:arc7-01:29, arc7:arc7-02:21 |
-| Cefiro | - | 05 | 198 | 05:36, 06:135, arc7:arc7-01:20, arc7:arc7-02:7 |
+| Anastasia | - | 06 | 77 | 06:48, arc7:arc7-01:20, arc7:arc7-02:7, arc7:arc7-03:1, arc7:arc7-04:1 |
+| Nikolai | - | 06 | 178 | 06:120, arc7:arc7-01:29, arc7:arc7-02:21, arc7:arc7-03:7, arc7:arc7-04:1 |
+| Cefiro | - | 05 | 202 | 05:36, 06:136, arc7:arc7-01:20, arc7:arc7-02:7, arc7:arc7-03:2, arc7:arc7-04:1 |
 | Mekhmed | - | 04 | 58 | 04:1, 05:40, 06:17 |
-| Pearl | - | 02 | 77 | 02:2, 04:1, 05:9, 06:56, arc7:arc7-01:5, arc7:arc7-02:4 |
-| Blackie | - | 01 | 151 | 01:1, 02:9, 03:2, 04:17, 05:15, 06:100, arc7:arc7-01:4, arc7:arc7-02:3 |
-| Reddy | - | 04 | 76 | 04:10, 05:9, 06:50, arc7:arc7-01:4, arc7:arc7-02:3 |
+| Pearl | - | 02 | 80 | 02:2, 04:1, 05:9, 06:56, arc7:arc7-01:5, arc7:arc7-02:4, arc7:arc7-03:2, arc7:arc7-04:1 |
+| Blackie | - | 01 | 154 | 01:1, 02:9, 03:2, 04:17, 05:15, 06:100, arc7:arc7-01:4, arc7:arc7-02:3, arc7:arc7-03:2, arc7:arc7-04:1 |
+| Reddy | - | 04 | 79 | 04:10, 05:9, 06:50, arc7:arc7-01:4, arc7:arc7-02:3, arc7:arc7-03:2, arc7:arc7-04:1 |
 | Velarius | - | 01 | 58 | 01:2, 02:6, 03:4, 04:3, 05:24, 06:19 |
 | Chi'Thak | - | 01 | 17 | 01:1, 02:6, 03:3, 04:4, 06:3 |
 | Sylara | - | 02 | 10 | 02:9, 03:1 |
@@ -38,7 +38,7 @@ Source of truth: published masters + canon/roster.md skeleton.
 | Torek | alive | 03 | 30 | 03:24, 04:2, 06:4 |
 | Veena | alive | 03 | 15 | 03:15 |
 | Mako | alive | 03 | 10 | 03:10 |
-| Korr | alive | 03 | 38 | 03:24, 04:3, 06:11 |
+| Korr | alive | 03 | 36 | 03:24, 04:3, 06:9 |
 | Ember | alive | 01 | 26 | 01:3, 03:5, 04:15, 06:3 |
 | Rask | alive | 03 | 37 | 03:33, 04:4 |
 | Tor | alive | 03 | 12 | 03:11, 04:1 |
@@ -50,14 +50,14 @@ Source of truth: published masters + canon/roster.md skeleton.
 | Reva | alive | 05 | 73 | 05:16, 06:57 |
 | Vasha | alive | 03 | 128 | 03:4, 04:32, 05:37, 06:49, arc7:arc7-03:6 |
 | Mekhmed | alive | 04 | 58 | 04:1, 05:40, 06:17 |
-| Ivan | census-only | 06 | 105 | 06:65, arc7:arc7-01:36, arc7:arc7-02:4 |
+| Ivan | census-only | 06 | 106 | 06:64, arc7:arc7-01:36, arc7:arc7-02:4, arc7:arc7-03:2 |
 | Sera | census-only | 01 | 226 | 01:2, 02:6, 03:41, 04:128, 05:24, 06:22, arc7:arc7-01:1, arc7:arc7-02:1, arc7:arc7-03:1 |
 | Zephyr | census-only | 05 | 71 | 05:12, 06:59 |
 | Vex | census-only | 03 | 69 | 03:7, 04:31, 05:9, 06:15, arc7:arc7-01:2, arc7:arc7-02:5 |
 | Lira | census-only | 04 | 66 | 04:18, 05:8, 06:33, arc7:arc7-01:3, arc7:arc7-02:4 |
 | Elyra | census-only | 03 | 68 | 03:24, 04:32, 05:1, 06:10, arc7:arc7-03:1 |
-| Nadya | census-only | 06 | 68 | 06:48, arc7:arc7-01:15, arc7:arc7-02:5 |
-| Vanya | census-only | 06 | 67 | 06:49, arc7:arc7-01:14, arc7:arc7-02:4 |
+| Nadya | census-only | 06 | 69 | 06:48, arc7:arc7-01:15, arc7:arc7-02:5, arc7:arc7-03:1 |
+| Vanya | census-only | 06 | 68 | 06:49, arc7:arc7-01:14, arc7:arc7-02:4, arc7:arc7-03:1 |
 | Maren | census-only | 04 | 61 | 04:14, 05:5, 06:30, arc7:arc7-01:8, arc7:arc7-03:4 |
 | Thane | census-only | 03 | 58 | 03:54, 04:4 |
 | Salahim | census-only | 06 | 30 | 06:23, arc7:arc7-01:7 |
@@ -68,7 +68,8 @@ Source of truth: published masters + canon/roster.md skeleton.
 | Sylen | census-only | 05 | 9 | 05:4, 06:4, arc7:arc7-03:1 |
 | Kellan | census-only | 05 | 9 | 05:8, arc7:arc7-03:1 |
 | Silverpelt | census-only | 06 | 10 | 06:10 |
-| Whitey | census-only | arc7:arc7-02 | 17 | arc7:arc7-02:17 |
+| Whitey | alive | arc7:arc7-02 | 25 | arc7:arc7-02:17, arc7:arc7-03:8 |
+| gold-green sand wurm | alive | arc7:arc7-03 | 1 | arc7:arc7-03:1 |
 | Pearly | census-only | 02 | 19 | 02:1, 04:14, 05:3, 06:1 |
 
 ## Protected-passage anchor check

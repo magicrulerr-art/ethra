@@ -85,7 +85,7 @@ If the story evolves, the ledger regrows; this file changes only when a decision
 | Kellan | - | census-only | role unverified |
 | Silverpelt | - | census-only | family or individual unverified |
 | Whitey | - | alive | SNOW WURM of the northern line (corrected 2026-09-04 from "sand wurm"); Nikolai's since the egg; mate of the gold-green sand wurm; mother of the hybrid eggs |
-| gold-green sand wurm | one of "the ancient ones" | alive | deep-line wurm, bigger than any snow wurm; chitin turns all weapons (arc7-02:138); communicates by images/voice; mated with Whitey; petitioned Ajani (Arc VII ch3 scene 3) |
+| gold-green sand wurm | one of "the ancient ones"; **named GOLDY** by Ajani's formal welcome | alive | deep-line wurm, bigger than any snow wurm; chitin turns all weapons (arc7-02:138); communicates mind-to-mind — speech arrives in Ajani's head and his thoughts reach it (arc7-04 sc1); shared strength as a "second skin" and warned Ajani he must molt or die (arc7-04 sc1); mated with Whitey; petitioned Ajani (Arc VII ch3 scene 3); named in arc7-04 sc1, canonized 2026-10-05 — and NEVER reacts to the name |
 | Pearly | - | census-only | likely Pearl variant; verify |
 
 ## Rulings cross-references
